@@ -1,0 +1,2 @@
+# makinenabz-
+for telemetri
