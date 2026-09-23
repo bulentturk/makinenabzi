@@ -1,0 +1,32 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const href = (p:string) => `${base}${p}`;
+const topics = [
+  ['01','Yürüyüş Grubu','Planet redüktör, palet tahriki, aşınma ve yağlama.'],
+  ['02','Elektrikli Tahrik','E-motor, inverter, batarya ve termal yönetim.'],
+  ['03','Hidrolik','Pompa-motor verimliliği, valfler ve akışkan gücü.'],
+  ['04','Şanzıman','Powershift, hidrostatik ve torque converter sistemleri.'],
+];
+---
+<BaseLayout>
+  <section class="hero"><div class="container hero-grid">
+    <div><span class="eyebrow">Off-highway teknoloji yayını</span><h1>Makine dünyasının <span>teknik nabzı.</span></h1>
+      <p class="lead">İş makinaları, tarım, maden, liman ve mobil ekipman teknolojilerini; ürün haberinden bileşen mühendisliğine kadar kaynak göstererek takip eden bağımsız yayın.</p>
+      <div class="hero-actions"><a class="button primary" href={href('/haberler/')}>Haberleri keşfet</a><a class="button ghost" href={href('/teknik-blog/')}>Teknik dosyalar</a></div>
+    </div>
+    <aside class="pulse-card"><span class="eyebrow">Yayın omurgası</span><div class="pulse-line"><strong>Günlük</strong><span>Sektör & OEM haberleri</span></div><div class="pulse-line"><strong>Haftalık</strong><span>Teknik derinlik dosyası</span></div><div class="pulse-line"><strong>Aylık</strong><span>Veri & sektör analizi</span></div><div class="pulse-line"><strong>Sürekli</strong><span>Fuar ve kaynak takibi</span></div></aside>
+  </div></section>
+
+  <section class="section section-alt"><div class="container"><div class="section-head"><div><span class="eyebrow">İçerik eksenleri</span><h2>Tek bir sektöre sıkışmayan yayın.</h2></div><p>Makine Nabzı, makinenin kendisi kadar onu çalıştıran güç aktarma, hidrolik, elektrifikasyon, kontrol ve termal yönetim sistemlerini de izler.</p></div>
+    <div class="grid-4">{topics.map(([n,t,d]) => <article class="card topic-card"><b>{n}</b><h3>{t}</h3><p>{d}</p></article>)}</div>
+  </div></section>
+
+  <section class="section"><div class="container"><div class="section-head"><div><span class="eyebrow">Yayın formatları</span><h2>Haberden saha rehberine.</h2></div><a class="link-arrow" href={href('/haberler/')}>Tüm içerikler →</a></div>
+    <div class="grid-3"><article class="card feature-card"><span class="tag">Haber</span><h3>OEM, ürün ve teknoloji gelişmeleri</h3><p>Tesis yatırımları, ürün lansmanları, dijitalleşme, güvenlik ve yeni iş birlikleri.</p></article><article class="card feature-card"><span class="tag">Teknik Blog</span><h3>Bileşenin çalışma mantığından arıza belirtisine</h3><p>Hidrolik, şanzıman, yürüyüş grubu, elektrikli tahrik ve termal yönetim dosyaları.</p></article><article class="card feature-card"><span class="tag">Veri & Analiz</span><h3>Sektörün sayılarla yönü</h3><p>Üretim, ihracat ve pazar verilerini bağlamıyla anlatan aylık değerlendirmeler.</p></article></div>
+  </div></section>
+
+  <section class="section section-alt"><div class="container"><div class="section-head"><div><span class="eyebrow">Referans altyapısı</span><h2>Kaynağı görünür kılan sistem.</h2></div><p>Uluslararası yayınlar, dernekler, resmi kurumlar, meslek örgütleri ve OEM basın odaları tek dizinde sınıflandırılacak.</p></div>
+    <div class="grid-3"><a class="card" href={href('/kaynaklar/')}><span class="tag">Küresel</span><h3>Yayınlar & kuruluşlar</h3><p>Off-highway, maden, hidrolik, güç aktarma, liman ve tarım kaynakları.</p></a><a class="card" href={href('/fuar-takvimi/')}><span class="tag">Takvim</span><h3>Fuar & konferanslar</h3><p>Önemli küresel ve Türkiye buluşmalarını tek yerde izleyin.</p></a><a class="card" href={href('/hakkimizda/')}><span class="tag">Metodoloji</span><h3>Editoryal ilkeler</h3><p>Özetleme, kaynak atfı, resmi veri doğrulaması ve güncellik kontrolü.</p></a></div>
+  </div></section>
+</BaseLayout>
