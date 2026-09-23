@@ -1,0 +1,5 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+const items=[['Yürüyüş Grubu Dosyası','Planet redüktör, palet tahriki, lastik-palet aşınması ve yağ soğutma.'],['Elektrikli Tahrik Dosyası','Elektrik motoru, inverter, batarya ve termal yönetim.'],['Hidrolik Dosyası','Pompa ve motor verimliliği, enerji kayıpları, gürültü ve kestirimci bakım.'],['Şanzıman Dosyası','Powershift, hidrostatik tahrik, torque converter ve aşınma belirtileri.'],['Termal Yönetim','Motor, şanzıman, hidrolik ve diferansiyel soğutma; saha arıza belirtileri.'],['Sistem Entegrasyonu','Elektronik kontrol, HMI, otonomiye geçiş ve dijitalleşme.']];
+---
+<BaseLayout title="Teknik Blog"><section class="page-head"><div class="container"><span class="eyebrow">Haftalık derinlik</span><h1>Teknik Blog</h1><p>Makinenin içindeki sistemleri çalışma mantığı, performans, arıza belirtileri ve saha etkileriyle ele alan dosyalar.</p></div></section><section class="section"><div class="container"><div class="grid-3">{items.map(([title,desc],i) => <article class="card"><span class="tag">Dosya {String(i+1).padStart(2,'0')}</span><h3>{title}</h3><p>{desc}</p></article>)}</div></div></section></BaseLayout>
