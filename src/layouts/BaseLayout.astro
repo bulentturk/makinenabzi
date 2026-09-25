@@ -8,18 +8,19 @@ interface Props {
 
 const {
   title = 'Makine Nabzı',
-  description = 'İş makinaları, tarım, maden, liman ve mobil ekipman dünyasından haberler, teknik analizler ve kaynaklar.'
+  description = 'İş makinaları, madencilik, liman, tarım, araç üstü ekipman ve elektrifikasyonda haber, teknik analiz ve teknoloji platformu.'
 } = Astro.props;
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const nav = [
+  ['Sektörler', '/#sektorler'],
+  ['Teknoloji', '/#teknoloji'],
   ['Haberler', '/haberler/'],
-  ['Teknik Blog', '/teknik-blog/'],
-  ['Fuar Takvimi', '/fuar-takvimi/'],
+  ['Teknik Merkez', '/teknik-blog/'],
+  ['Fuarlar', '/fuar-takvimi/'],
   ['Kaynaklar', '/kaynaklar/'],
-  ['Hakkımızda', '/hakkimizda/'],
 ];
-const href = (path:string) => `${base}${path}`;
+const href = (path:string) => path.startsWith('#') ? path : `${base}${path}`;
 const canonical = Astro.site ? new URL(Astro.url.pathname, Astro.site) : Astro.url;
 ---
 <!doctype html>
@@ -27,7 +28,7 @@ const canonical = Astro.site ? new URL(Astro.url.pathname, Astro.site) : Astro.u
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
-    <meta name="theme-color" content="#0b1118" />
+    <meta name="theme-color" content="#081018" />
     <meta name="description" content={description} />
     <link rel="icon" type="image/svg+xml" href={href('/favicon.svg')} />
     <link rel="canonical" href={canonical} />
@@ -37,7 +38,7 @@ const canonical = Astro.site ? new URL(Astro.url.pathname, Astro.site) : Astro.u
     <header class="site-header">
       <div class="container nav-shell">
         <a class="brand" href={href('/')} aria-label="Makine Nabzı ana sayfa">
-          <span class="brand-mark" aria-hidden="true">M</span>
+          <span class="brand-mark" aria-hidden="true">MN</span>
           <span>MAKİNE <b>NABZI</b></span>
         </a>
         <button class="menu-button" aria-label="Menüyü aç" aria-expanded="false">☰</button>
@@ -47,39 +48,39 @@ const canonical = Astro.site ? new URL(Astro.url.pathname, Astro.site) : Astro.u
       </div>
     </header>
 
-    <main>
-      <slot />
-    </main>
+    <main><slot /></main>
 
     <footer class="site-footer">
       <div class="container footer-grid">
         <div>
           <a class="brand footer-brand" href={href('/')}>
-            <span class="brand-mark">M</span>
+            <span class="brand-mark">MN</span>
             <span>MAKİNE <b>NABZI</b></span>
           </a>
-          <p>İş makinaları, tarım, maden, liman ve mobil ekipman teknolojilerinde doğrulanmış kaynaklara dayalı teknik yayın.</p>
+          <p>Mobil makine teknolojilerini; haber, teknik analiz, saha bilgisi ve veriyle tek platformda buluşturan bağımsız yayın.</p>
         </div>
         <div>
-          <h3>İçerikler</h3>
+          <h3>Keşfet</h3>
           <a href={href('/haberler/')}>Haberler</a>
-          <a href={href('/teknik-blog/')}>Teknik Blog</a>
+          <a href={href('/teknik-blog/')}>Teknik Merkez</a>
           <a href={href('/fuar-takvimi/')}>Fuar Takvimi</a>
         </div>
         <div>
-          <h3>Referans</h3>
+          <h3>Alanlar</h3>
+          <a href={href('/#sektorler')}>Sektörler</a>
+          <a href={href('/#teknoloji')}>Teknoloji</a>
           <a href={href('/kaynaklar/')}>Kaynak Dizini</a>
-          <a href={href('/hakkimizda/')}>Editoryal İlkeler</a>
         </div>
         <div>
           <h3>Makine Nabzı</h3>
-          <span>Bağımsız teknik yayın altyapısı</span>
-          <span>Kaynak gösterimi ve doğrulama odaklı</span>
+          <a href={href('/hakkimizda/')}>Hakkımızda</a>
+          <span>Doğrulanmış kaynaklar</span>
+          <span>Teknik editoryal yaklaşım</span>
         </div>
       </div>
       <div class="container footer-bottom">
         <span>© {new Date().getFullYear()} Makine Nabzı</span>
-        <span>Endüstriyi teknik bakışla takip edin.</span>
+        <span>Makinenin kendisinden, onu mümkün kılan teknolojiye.</span>
       </div>
     </footer>
 
