@@ -1,0 +1,43 @@
+name: News Agent
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 5 * * *'
+    - cron: '0 15 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Discover news candidates
+        run: npm run agent:news
+        env:
+          NEWS_LOOKBACK_DAYS: 4
+          NEWS_MAX_PER_SOURCE: 15
+
+      - name: Commit candidate updates
+        run: |
+          if git diff --quiet -- agent/drafts/news-candidates.json; then
+            echo "No new candidates"
+            exit 0
+          fi
+          git config user.name "makinenabzi-news-agent"
+          git config user.email "actions@users.noreply.github.com"
+          git add agent/drafts/news-candidates.json
+          git commit -m "agent: refresh news candidates"
+          git push
