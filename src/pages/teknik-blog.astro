@@ -1,5 +1,21 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-const items=[['Yürüyüş Grubu Dosyası','Planet redüktör, palet tahriki, lastik-palet aşınması ve yağ soğutma.'],['Elektrikli Tahrik Dosyası','Elektrik motoru, inverter, batarya ve termal yönetim.'],['Hidrolik Dosyası','Pompa ve motor verimliliği, enerji kayıpları, gürültü ve kestirimci bakım.'],['Şanzıman Dosyası','Powershift, hidrostatik tahrik, torque converter ve aşınma belirtileri.'],['Termal Yönetim','Motor, şanzıman, hidrolik ve diferansiyel soğutma; saha arıza belirtileri.'],['Sistem Entegrasyonu','Elektronik kontrol, HMI, otonomiye geçiş ve dijitalleşme.']];
+const items=[
+  ['Yürüyüş & Güç Aktarma','Şanzıman, torque converter, powershift ve hidrostatik tahrik; aks, diferansiyel, final drive, planet redüktör, palet-lastik yürüyüş elemanları, aşınma ve yağlama.'],
+  ['Elektrifikasyon & Elektrikli Tahrik','Elektrik motoru, inverter, batarya, BMS, HV mimari ve termal yönetim.'],
+  ['Hidrolik Sistemler','Pompa ve motor verimliliği, valfler, enerji kayıpları, gürültü ve kestirimci bakım.'],
+  ['Elektronik & Telematik','VCU, HMI, CAN/J1939, CANopen, sensörler, telemetri ve uzaktan servis.'],
+  ['Termal Yönetim','Motor, şanzıman, hidrolik, inverter ve batarya soğutma; saha arıza belirtileri.'],
+  ['Otonomi & Sistem Entegrasyonu','Makine görüşü, sensör füzyonu, operatör destek sistemleri, güvenli kontrol ve otonomiye geçiş.']
+];
 ---
-<BaseLayout title="Teknik Blog"><section class="page-head"><div class="container"><span class="eyebrow">Haftalık derinlik</span><h1>Teknik Blog</h1><p>Makinenin içindeki sistemleri çalışma mantığı, performans, arıza belirtileri ve saha etkileriyle ele alan dosyalar.</p></div></section><section class="section"><div class="container"><div class="grid-3">{items.map(([title,desc],i) => <article class="card"><span class="tag">Dosya {String(i+1).padStart(2,'0')}</span><h3>{title}</h3><p>{desc}</p></article>)}</div></div></section></BaseLayout>
+<BaseLayout title="Teknik Merkez">
+  <section class="page-head"><div class="container">
+    <span class="eyebrow">Mühendislik derinliği</span>
+    <h1>Teknik Merkez</h1>
+    <p>Mobil makineleri sistem seviyesinde ele alan teknik dosyalar. Konular, makinenin gerçek mimarisine göre ana sistem ve alt sistem ilişkisiyle sınıflandırılır.</p>
+  </div></section>
+  <section class="section"><div class="container"><div class="grid-3">
+    {items.map(([title,desc],i) => <article class="card"><span class="tag">Sistem {String(i+1).padStart(2,'0')}</span><h3>{title}</h3><p>{desc}</p></article>)}
+  </div></div></section>
+</BaseLayout>
