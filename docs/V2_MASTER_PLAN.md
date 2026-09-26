@@ -24,8 +24,14 @@ Makine Nabzı yalnızca bir haber sitesi değil; iş makinaları, madencilik, li
 ## Teknoloji taksonomisi
 - Elektrifikasyon
 - Hidrolik
-- Güç Aktarma
-- CAN / J1939 / Telematik
+- Yürüyüş & Güç Aktarma
+  - Şanzıman / torque converter / powershift / hidrostatik tahrik
+  - Aks / diferansiyel / final drive / planet redüktör
+  - Palet, lastik ve yürüyüş elemanları
+- Elektronik & Telematik
+  - VCU / HMI / sensörler
+  - CAN / J1939 / CANopen
+  - Telemetri / uzaktan servis
 - Otonomi & AI
 - Emisyon & Stage V
 - Fonksiyonel Güvenlik
