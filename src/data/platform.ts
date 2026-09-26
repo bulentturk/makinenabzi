@@ -46,8 +46,8 @@ export const sectors = [
 export const technologies = [
   ['Elektrifikasyon', 'Batarya, BMS, inverter, e-motor, şarj ve HV mimarileri'],
   ['Hidrolik', 'Pompa, motor, valf, akışkan gücü, enerji verimliliği'],
-  ['Güç Aktarma', 'Powershift, hidrostatik, e-aks, diferansiyel ve redüktör'],
-  ['CAN & Telematik', 'J1939, CANopen, telemetri, veri toplama ve uzaktan servis'],
+  ['Yürüyüş & Güç Aktarma', 'Şanzıman, torque converter, powershift, hidrostatik tahrik, aks, diferansiyel, final drive ve planet redüktör'],
+  ['Elektronik & Telematik', 'VCU, HMI, CAN/J1939, CANopen, telemetri, veri toplama ve uzaktan servis'],
   ['Otonomi & AI', 'Algılama, makine görüşü, rota, operatör destek ve fiziksel AI'],
   ['Emisyon & Stage V', 'Motor, DPF, SCR, AdBlue ve emisyon sonrası arıtma'],
   ['Fonksiyonel Güvenlik', 'ISO 13849, makine güvenliği, güvenli kontrol mimarileri'],
