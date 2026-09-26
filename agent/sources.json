@@ -1,0 +1,32 @@
+[
+  {
+    "name": "International Mining",
+    "url": "https://im-mining.com/feed/",
+    "sector": "madencilik",
+    "priority": 100
+  },
+  {
+    "name": "Global Mining Review",
+    "url": "https://www.globalminingreview.com/rss/gmr/",
+    "sector": "madencilik",
+    "priority": 95
+  },
+  {
+    "name": "Port Strategy",
+    "url": "https://www.portstrategy.com/feed",
+    "sector": "liman",
+    "priority": 90
+  },
+  {
+    "name": "Construction Equipment Guide",
+    "url": "https://feeds.feedburner.com/ceg",
+    "sector": "is-makinalari",
+    "priority": 80
+  },
+  {
+    "name": "Tunnels & Tunnelling",
+    "url": "https://www.tunnelsandtunnelling.com/feed/",
+    "sector": "is-makinalari",
+    "priority": 75
+  }
+]
