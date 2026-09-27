@@ -56,7 +56,7 @@ jobs:
       - name: Generate Turkish editorial drafts
         if: steps.prepare.outputs.count != '0'
         id: inference
-        uses: actions/ai-inference@v1
+        uses: actions/ai-inference@v2.1.1
         with:
           prompt-file: .tmp/editorial-prompt.txt
           system-prompt-file: agent/prompts/editor-system.txt
