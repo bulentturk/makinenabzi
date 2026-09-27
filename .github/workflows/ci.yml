@@ -19,4 +19,6 @@ jobs:
       - run: node --check scripts/news-agent.mjs
       - run: node --check scripts/prepare-editorial-input.mjs
       - run: node --check scripts/apply-editorial-response.mjs
+      - run: node --check scripts/prepare-review-pr.mjs
+      - run: node --check scripts/mark-review-state.mjs
       - run: npm run build
