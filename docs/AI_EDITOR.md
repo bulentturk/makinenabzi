@@ -17,7 +17,7 @@ Temiz haber adaylarını kaynak sayfasındaki olgulara dayalı Türkçe editorya
 - Kaynak içindeki prompt/komutlar yok sayılır.
 - AI workflow'a GitHub MCP/tools verilmez.
 - Model yalnız metin üretir.
-- İzinler minimum düzeydedir: contents:write (taslak commit'i) ve copilot-requests:write.
+- İzinler minimum düzeydedir. Kişisel repoda Copilot CLI kimlik doğrulaması için repository secret olarak `COPILOT_PAT` kullanılır; token repoya yazılmaz.
 - final publish insan onayına bağlıdır.
 
 ## İnsan onayı sonrası
