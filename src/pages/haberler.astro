@@ -1,5 +1,48 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import news from '../data/published-news.json';
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const href = (p:string) => `${base}${p}`;
+const sectorLabels = {
+  'is-makinalari':'İş Makinaları',
+  'madencilik':'Madencilik',
+  'liman':'Liman & Elleçleme',
+  'tarim':'Tarım Makinaları',
+  'arac-ustu-ekipman':'Araç Üstü Ekipman',
+  'elektrifikasyon':'Elektrifikasyon'
+};
+const sorted = [...news].sort((a,b) => Date.parse(b.site_published_at || b.source_published_at) - Date.parse(a.site_published_at || a.source_published_at));
 const streams=[['OEM & Ürün','Yeni ürünler, ürün gamı genişletmeleri ve üretici duyuruları.'],['Yatırım & İş Birliği','Tesis yatırımları, satın almalar, niyet mektupları ve teknoloji ortaklıkları.'],['Regülasyon & Güvenlik','Emisyon, emniyet, saha güvenliği ve sektörel düzenlemeler.'],['Dijitalleşme','Otonomi, telemetri, kestirimci bakım, bağlantılı makine ve yazılım ekosistemi.'],['Pazar & Veri','Üretim, ihracat, satış ve bölgesel pazar hareketleri.'],['Saha','Fuarlar, kullanıcı gözlemleri, birlikler, kooperatifler ve uygulama örnekleri.']];
 ---
-<BaseLayout title="Haberler"><section class="page-head"><div class="container"><span class="eyebrow">Günlük yayın ekseni</span><h1>Haberler</h1><p>Hız için değil doğruluk için yayın: haberler kaynak gösterilerek özetlenir, kritik sayı ve unvanlar mümkün olduğunda resmi kaynaktan teyit edilir.</p></div></section><section class="section"><div class="container"><a class="card" href="/haberler/tonly-tle120-wengfu-bataryali-maden-kamyonu/"><span class="tag">Örnek yayın onayı</span><h3>Tonly, Wengfu Fosfat Madeni’ne 75 ton sınıfı bataryalı TLE120 filosu teslim etti</h3><p>Madencilik · Elektrifikasyon · 23 Eylül 2026</p></a><div style="height:24px"></div><div class="notice">İlk içerik paketi hazırlanırken bu sayfa yayın kategorilerini gösterir. Kaynağı doğrulanmamış güncel haberler otomatik olarak yayına alınmayacaktır.</div><div class="content-grid" style="margin-top:24px">{streams.map(([title,desc]) => <article class="card"><span class="tag">Haber akışı</span><h3>{title}</h3><p>{desc}</p></article>)}</div></div></section></BaseLayout>
+<BaseLayout title="Haberler">
+  <section class="page-head"><div class="container">
+    <span class="eyebrow">Günlük yayın ekseni</span>
+    <h1>Haberler</h1>
+    <p>Mobil makine dünyasındaki gelişmeleri kaynak göstererek, teknik bağlamını koruyarak ve editoryal onaydan geçirerek yayınlıyoruz.</p>
+  </div></section>
+
+  <section class="section"><div class="container">
+    <div class="section-head">
+      <div><span class="eyebrow">Yayındaki haberler</span><h2>Son gelişmeler.</h2></div>
+    </div>
+    <div class="news-grid">
+      {sorted.map((item) => (
+        <a class="news-card" href={href('/haberler/' + item.slug + '/')}>
+          <div class="article-meta">
+            <span class="tag">{sectorLabels[item.sector] || item.sector}</span>
+            <time>{new Intl.DateTimeFormat('tr-TR',{day:'numeric',month:'short',year:'numeric'}).format(new Date(item.source_published_at))}</time>
+          </div>
+          <h3>{item.title}</h3>
+          <p>{item.dek}</p>
+          <strong>Haberi oku →</strong>
+        </a>
+      ))}
+    </div>
+
+    <div class="section-head" style="margin-top:64px">
+      <div><span class="eyebrow">Haber akışları</span><h2>Takip ettiğimiz alanlar.</h2></div>
+    </div>
+    <div class="content-grid">{streams.map(([title,desc]) => <article class="card"><span class="tag">Haber akışı</span><h3>{title}</h3><p>{desc}</p></article>)}</div>
+  </div></section>
+</BaseLayout>
