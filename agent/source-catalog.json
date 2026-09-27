@@ -230,9 +230,12 @@
       "elektrifikasyon",
       "hidrolik",
       "otonomi",
-      "komponent"
+      "komponent",
+      "cybersecurity",
+      "agriculture",
+      "construction"
     ],
-    "status": "watchlist-web",
+    "status": "watchlist-web-priority",
     "priority": 100,
     "origin": "user-list"
   },
@@ -290,5 +293,41 @@
     "feed": "https://www.tunnelsandtunnelling.com/feed/",
     "priority": 76,
     "origin": "existing"
+  },
+  {
+    "name": "OEM Off-Highway",
+    "url": "https://www.oemoffhighway.com/",
+    "kind": "technical_media",
+    "focus": [
+      "off-highway",
+      "drivetrain",
+      "hidrolik",
+      "elektrifikasyon",
+      "sensor",
+      "electronics",
+      "operator-interface",
+      "engines",
+      "thermal",
+      "new-products"
+    ],
+    "status": "watchlist-web-priority",
+    "priority": 100,
+    "origin": "user-list"
+  },
+  {
+    "name": "Teknikport",
+    "url": "https://www.teknikport.com/",
+    "kind": "technical_media",
+    "focus": [
+      "turkiye",
+      "teknik-yayin",
+      "endustri",
+      "makine",
+      "otomasyon",
+      "komponent"
+    ],
+    "status": "watchlist-web",
+    "priority": 82,
+    "origin": "user-list"
   }
 ]
