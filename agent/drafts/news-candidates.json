@@ -55,7 +55,7 @@
   },
   {
     "id": "0b1b885ccc5ed903",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Jevons Robotics launches battery electric ARTEV1000 Pre-Split System",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/09/23/jevons-robotics-launches-battery-electric-artev1000-pre-split-system/",
@@ -76,7 +76,7 @@
       "seo_title": "Jevons Robotics’ten elektrikli ARTEV1000 sistemi",
       "meta_description": "Jevons Robotics, ön çatlatma patlayıcılarının yüklenmesini otomatikleştiren bataryalı elektrikli ARTEV1000 robotik sistemini tanıttı.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Jevons Robotics, ARTEV1000 Pre-Split System’i resmi olarak tanıttı.",
         "Sistem, bataryalı elektrikli robotik çözüm olarak tanımlanıyor.",
@@ -107,7 +107,9 @@
         "Kaynak sayfasına erişim HTTP 403 nedeniyle sınırlı; sistemin teknik kapasitesi, otonomi düzeyi, güvenlik sertifikaları ve saha sonuçları doğrulanamıyor."
       ],
       "generated_at": "2026-09-27T17:53:09.954Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-09-27T17:59:44.263Z",
+      "review_result": "published"
     },
     "editorial_fit_score": 87
   },
