@@ -38,9 +38,10 @@
       "off-highway",
       "ticari-arac"
     ],
-    "status": "watchlist-web",
+    "status": "active-rss",
     "priority": 90,
-    "origin": "user-list"
+    "origin": "user-list",
+    "feed": "https://www.electrive.com/feed/"
   },
   {
     "name": "Charged EVs",
