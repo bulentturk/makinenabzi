@@ -9,7 +9,6 @@ const upcoming = [...events]
   .sort((a,b) => Date.parse(a.start)-Date.parse(b.start));
 
 const years = [...new Set(upcoming.map(e => new Date(e.start).getFullYear()))];
-const sectorClass = (sector:string) => sector.toLowerCase().replace(/[^a-z0-9]+/g,'-');
 ---
 <BaseLayout title="Fuar Takvimi" description="İş makinaları, madencilik, tarım, marine ve yatçılık, off-highway ve mobil ekipman teknolojilerinde doğrulanmış fuar takvimi.">
   <section class="page-head"><div class="container">
@@ -39,7 +38,7 @@ const sectorClass = (sector:string) => sector.toLowerCase().replace(/[^a-z0-9]+/
                 </div>
                 <h3>{event.name}</h3>
                 <div class="event-date">
-                  {event.date_label || (event.end ? `${fmt.format(new Date(event.start))} – ${fmt.format(new Date(event.end))}` : fmt.format(new Date(event.start)))}
+                  {('date_label' in event && event.date_label) ? event.date_label : (event.end ? `${fmt.format(new Date(event.start))} – ${fmt.format(new Date(event.end))}` : fmt.format(new Date(event.start)))}
                 </div>
                 <div class="event-place">{event.city} · {event.country}</div>
                 <p>{event.focus}</p>
