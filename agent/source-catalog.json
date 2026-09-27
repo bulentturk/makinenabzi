@@ -51,11 +51,21 @@
       "elektrifikasyon",
       "batarya",
       "guc-elektronigi",
-      "sarj"
+      "sarj",
+      "e-motor",
+      "inverter",
+      "traction-motor",
+      "drivetrain",
+      "axial-flux",
+      "power-electronics"
     ],
-    "status": "watchlist-web",
-    "priority": 84,
-    "origin": "user-list"
+    "status": "watchlist-web-priority",
+    "priority": 96,
+    "origin": "user-list",
+    "watch_urls": [
+      "https://chargedevs.com/?s=motors",
+      "https://chargedevs.com/page/5/?s=motors"
+    ]
   },
   {
     "name": "GlobeNewswire",
