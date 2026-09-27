@@ -1,5 +1,14 @@
 export const events = [
   {
+    name: 'MAKTEK Avrasya 2026',
+    start: '2026-09-28', end: '2026-10-03',
+    city: 'İstanbul', country: 'Türkiye',
+    sector: 'Üretim & Komponent',
+    focus: 'Takım tezgahları, üretim teknolojileri ve makine imalat altyapısı',
+    url: 'https://www.tuyap.com.tr/',
+    importance: 'medium'
+  },
+  {
     name: 'IBEX 2026',
     start: '2026-10-06', end: '2026-10-08',
     city: 'Tampa', country: 'ABD',
@@ -25,6 +34,15 @@ export const events = [
     focus: 'Yatlar, marine teknolojileri, aksesuar ve yeni ürün lansmanları',
     url: 'https://www.flibs.com/',
     importance: 'medium'
+  },
+  {
+    name: 'electronica 2026',
+    start: '2026-11-10', end: '2026-11-13',
+    city: 'Münih', country: 'Almanya',
+    sector: 'Elektronik & Komponent',
+    focus: 'Güç elektroniği, embedded sistemler, bağlantılı makineler, sensörler ve elektronik komponentler',
+    url: 'https://electronica.de/en/',
+    importance: 'high'
   },
   {
     name: 'EIMA International 2026',
@@ -88,6 +106,15 @@ export const events = [
     focus: 'Superyacht refit, bakım, servis ve yeni teknoloji çözümleri',
     url: 'https://www.monacoyachtshow.com/',
     importance: 'medium'
+  },
+  {
+    name: 'HANNOVER MESSE 2027',
+    start: '2027-04-05', end: '2027-04-08',
+    city: 'Hannover', country: 'Almanya',
+    sector: 'Endüstriyel Teknoloji',
+    focus: 'Automation, Motion & Drives, enerji, industrial AI, komponent ve üretim teknolojileri',
+    url: 'https://www.hannovermesse.de/',
+    importance: 'high'
   },
   {
     name: 'INTERMAT 2027',
