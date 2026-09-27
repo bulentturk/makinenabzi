@@ -198,7 +198,7 @@
   },
   {
     "id": "79f6bd59f674d5d6",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "ABP upgrades Southampton workboat crane",
     "source_name": "Port Strategy",
     "source_url": "https://www.portstrategy.com/news/equipment/abp-upgrades-southampton-workboat-crane/",
@@ -210,20 +210,48 @@
     "relevance_score": 140,
     "summary_source": "ABP has installed a new marine deck crane on board a Southampton workboat, strengthening safe harbour operations and capability",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "ABP, Southampton iş teknesi Spartina'nın güverte vincini yeniledi",
+      "dek_tr": "Associated British Ports (ABP), Spartina iş teknesindeki mevcut vincin yerine HS.Marine AK 30 HE4 güverte vincini taktırdı. Vinç, 14,66 metre erişimde 1.050 kg güvenli çalışma yüküne sahip.",
+      "summary_tr": "ABP, Southampton Limanı'nda görev yapan Spartina iş teknesinin hizmet ömrünü tamamlayan vincini HS.Marine AK 30 HE4 modeliyle değiştirdi. Tedarik, montaj ve devreye alma işlemlerini Southampton merkezli Marine Cranes gerçekleştirdi.\n\nYeni vinç, teknenin mevcut temeli ve cıvata düzeni kullanılabilecek şekilde özel bir adaptörle kuruldu; teknenin yapısında değişiklik yapılmadı. Ekipmanda sürekli hidrolik dönüş, radyo uzaktan kumanda ve deniz koşullarında korozyon koruması için tasarlanmış alev metalizasyonlu kaplama bulunuyor.\n\nVinç, 14,66 metre maksimum erişimde 1.050 kg güvenli çalışma yükü için belirtiliyor. Kurulumun ardından Spartina üzerinde, güvenli çalışma yükünün yüzde 125'iyle yük testi yapıldı.",
+      "why_it_matters_tr": "Mevcut temel ve bağlantı düzeninin adaptörle korunması, iş teknesinde yapısal değişiklik gerektirmeden vinç yenilemeye yönelik bir uygulama örneği sunuyor. Yük testi ve korozyon koruması da deniz ortamındaki ekipmanların devreye alma ve kullanım ömrü değerlendirmelerinde dikkate alınan unsurlar.",
+      "seo_title": "ABP, Spartina iş teknesinin güverte vincini yeniledi",
+      "meta_description": "ABP, Southampton'daki Spartina iş teknesine HS.Marine AK 30 HE4 vinci kurdu. Vinç 14,66 m erişimde 1.050 kg güvenli çalışma yükü sunuyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Yeni model HS.Marine AK 30 HE4 güverte vincidir.",
+        "Güvenli çalışma yükü 14,66 metre maksimum erişimde 1.050 kg olarak veriliyor.",
+        "Montajda mevcut temel ve cıvata düzenini kullanmak üzere özel adaptör geliştirildi.",
+        "Kurulum sonrasında güvenli çalışma yükünün yüzde 125'iyle yük testi yapıldı."
+      ],
+      "suggested_tags": [
+        "Associated British Ports",
+        "ABP",
+        "HS.Marine AK 30 HE4",
+        "güverte vinci",
+        "iş teknesi",
+        "Southampton Limanı"
+      ],
+      "suggested_sector": "liman",
+      "suggested_technologies": [
+        "hidrolik"
+      ],
+      "source_facts_used": [
+        "ABP'nin Spartina üzerindeki eski vinci HS.Marine AK 30 HE4 ile değiştirdiği aktarılıyor.",
+        "Montajın mevcut temel ve cıvata düzenini koruyan özel adaptörle yapıldığı, yapısal değişiklik gerekmediği belirtiliyor.",
+        "Vinç için 1.050 kg güvenli çalışma yükü ve 14,66 metre maksimum erişim veriliyor.",
+        "Sürekli hidrolik dönüş, radyo kumanda ve alev metalizasyonlu kaplama özellikleri sıralanıyor.",
+        "Kurulum sonrası güvenli çalışma yükünün yüzde 125'iyle yük testi yapıldığı bildiriliyor."
+      ],
+      "uncertainty_notes": [],
+      "generated_at": "2026-09-27T17:54:49.218Z",
+      "generated_by": "github-models"
     },
     "editorial_fit_score": 65
   },
   {
     "id": "c2710f79642d2a9d",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Taylor Machine Works Expands Reach Stacker Line with High-Capacity Container Models",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/taylor-machine-works-expands-reach-stacker-line-with-highcapacity-container-models/72350",
@@ -237,20 +265,43 @@
     "relevance_score": 138,
     "summary_source": "Taylor Machine Works has expanded its electric and diesel-powered reach stacker portfolio with three new high-capacity models....",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Taylor Machine Works, reach stacker serisini üç yüksek kapasiteli modelle genişletti",
+      "dek_tr": "Taylor Machine Works, elektrikli ve dizel tahrikli reach stacker portföyüne üç yüksek kapasiteli model ekledi. Modellerin teknik kapasitelerine ilişkin ayrıntılar mevcut kaynakta yer almıyor.",
+      "summary_tr": "Taylor Machine Works, elektrikli ve dizel tahrikli reach stacker serisini üç yeni yüksek kapasiteli modelle genişletti.\n\nKaynak içeriğinde modellerin adları, taşıma kapasiteleri veya diğer teknik özellikleri açıklanmıyor.",
+      "why_it_matters_tr": "Elektrikli ve dizel seçeneklerin aynı ürün portföyünde sunulması, liman işletmelerinin ekipman tercihlerini operasyon gereksinimleri ve enerji altyapılarıyla birlikte değerlendirmesi açısından izlenmeye değer.",
+      "seo_title": "Taylor Machine Works reach stacker serisini genişletti",
+      "meta_description": "Taylor Machine Works, elektrikli ve dizel tahrikli reach stacker portföyüne üç yüksek kapasiteli model ekledi. Teknik ayrıntılar paylaşılmadı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Portföye üç yeni yüksek kapasiteli model eklendi.",
+        "Seride elektrikli ve dizel tahrikli seçenekler bulunuyor."
+      ],
+      "suggested_tags": [
+        "Taylor Machine Works",
+        "reach stacker",
+        "liman ekipmanları",
+        "konteyner elleçleme"
+      ],
+      "suggested_sector": "liman",
+      "suggested_technologies": [
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "Şirketin reach stacker portföyünü üç yeni yüksek kapasiteli modelle genişlettiği bildiriliyor.",
+        "Portföyün elektrikli ve dizel tahrikli modeller içerdiği belirtiliyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfasına erişim 403 hatasıyla sınırlı; eldeki özet model adlarını ve teknik kapasite değerlerini içermiyor."
+      ],
+      "generated_at": "2026-09-27T17:54:49.218Z",
+      "generated_by": "github-models"
     },
     "editorial_fit_score": 67
   },
   {
     "id": "66a2ff803ec38e46",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "John Deere Delivers Big Performance and Compact Design with New 40 P-Tier Excavator Model",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/john-deere-delivers-big-performance-and-compact-design-with-new-40-ptier-excavator-model/72340",
@@ -262,14 +313,37 @@
     "relevance_score": 130,
     "summary_source": "The new 40 P-Tier Compact Excavator combines impressive digging capability with an operating weight under 10,000 lbs., making it easy to transport between jobsites while offering powerful performance....",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "John Deere 40 P-Tier kompakt ekskavatörünü tanıttı",
+      "dek_tr": "John Deere'ın yeni 40 P-Tier kompakt ekskavatörü 10.000 lb'nin altında işletme ağırlığıyla tanıtılıyor. Kaynak özeti, modelin kazı performansı ve şantiyeler arası taşınabilirliğini öne çıkarıyor.",
+      "summary_tr": "John Deere, 40 P-Tier adlı yeni kompakt ekskavatör modelini tanıttı. Kaynak özetine göre makinenin işletme ağırlığı 10.000 lb'nin altında.\n\nÖzet, modelin kazı kabiliyetine ve işler arasında taşınmasının kolaylığına dikkat çekiyor; ancak bu niteliklere ilişkin ölçülebilir teknik veriler sunmuyor.",
+      "why_it_matters_tr": "İşletme ağırlığı ve taşınabilirlik, kompakt ekskavatörleri farklı şantiyelerde kullanan işletmelerin makine seçimi ve lojistik planlamasında değerlendirebileceği ölçütlerdir. Modelin gerçek performansını karşılaştırmak için daha ayrıntılı teknik özellikler gerekir.",
+      "seo_title": "John Deere 40 P-Tier kompakt ekskavatör tanıtıldı",
+      "meta_description": "John Deere 40 P-Tier kompakt ekskavatör, 10.000 lb'nin altında işletme ağırlığıyla tanıtıldı. Kaynakta ayrıntılı teknik özellikler bulunmuyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Yeni modelin adı John Deere 40 P-Tier.",
+        "Kaynak özeti işletme ağırlığını 10.000 lb'nin altında veriyor.",
+        "Kaynak, kazı kabiliyeti ve şantiyeler arasında taşınabilirlik konularını vurguluyor."
+      ],
+      "suggested_tags": [
+        "John Deere",
+        "40 P-Tier",
+        "kompakt ekskavatör",
+        "iş makineleri"
+      ],
+      "suggested_sector": "is-makinalari",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "John Deere 40 P-Tier modelinin yeni kompakt ekskavatör olarak tanıtıldığı bildiriliyor.",
+        "Kaynak özeti işletme ağırlığının 10.000 lb'nin altında olduğunu belirtiyor.",
+        "Kazı kabiliyeti ve şantiyeler arasında taşınabilirlik kaynak özetinde vurgulanıyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfasına erişim 403 hatasıyla sınırlı; eldeki özet motor, kazı derinliği, çalışma aralığı ve diğer teknik özellikleri içermiyor."
+      ],
+      "generated_at": "2026-09-27T17:54:49.218Z",
+      "generated_by": "github-models"
     },
     "editorial_fit_score": 65
   },
