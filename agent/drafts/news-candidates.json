@@ -274,7 +274,7 @@
   },
   {
     "id": "08eba99745511312",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Advance Produces 20,000th Front-Discharge Mixer",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/advance-produces-20000th-frontdischarge-mixer/72341",
@@ -293,7 +293,7 @@
       "seo_title": "Advance 20 bininci önden boşaltmalı mikserini üretti",
       "meta_description": "Advance, 20 bininci önden boşaltmalı mikserinin üretimini duyurdu. Paylaşılan kaynakta model, teknik özellik ve üretim süreci ayrıntıları bulunmuyor.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Kaynak başlığı Advance’in 20 bininci önden boşaltmalı mikserini ürettiğini bildiriyor.",
         "Kısa kaynak özeti ekibin üretim kilometre taşını kutladığını aktarıyor."
@@ -315,7 +315,9 @@
         "Üretim tarihi, ilgili model, teknik özellikler ve üretim koşulları kaynak içeriğinde yer almıyor."
       ],
       "generated_at": "2026-09-27T18:58:20.027Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-09-27T19:49:28.258Z",
+      "review_result": "published"
     },
     "editorial_fit_score": 55
   },
