@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Makine Nabzı işareti</title>
   <rect width="64" height="64" rx="15" fill="#0b1722"/>
+  <rect x="1" y="1" width="62" height="62" rx="14" fill="none" stroke="#2b5062" stroke-width="2"/>
   <path d="M10 38h12l6-17 8 25 7-19 5 11h6" fill="none" stroke="#68d5fb" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M48 38h6" fill="none" stroke="#f5a524" stroke-width="4.5" stroke-linecap="round"/>
 </svg>
