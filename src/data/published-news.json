@@ -1,5 +1,39 @@
 [
   {
+    "id": "bc3cad8c509dcf70",
+    "slug": "greenore-port-mobil-liman-vinclerinde-kamera-tabanli-guvenligi-guclendirdi",
+    "title": "Greenore Port, mobil liman vinçlerinde kamera tabanlı güvenliği güçlendirdi",
+    "dek": "İrlanda’daki Greenore Port, Liebherr mobil liman vinçlerine gerçek zamanlı görüntüleme, olay inceleme ve öğrenme süreçlerini destekleyen kamera-telematik sistemi kurdu.",
+    "summary": "Greenore Port, kargo operasyonları sırasında görünürlüğü ve olay yönetimini geliştirmek amacıyla Liebherr mobil liman vinçlerine Camera Telematics ile geliştirilen özel bir kamera sistemi uyguladı. Sistem, kabin operatörünün çalışma alanı görünümünü tekrarlayan ikinci bir kamera ile mevcut bom kamerasını birlikte kullanıyor.\n\nİki görüntü akışı kabin içindeki monitörde gerçek zamanlı gösteriliyor; üst yönetim ve SHEQ temsilcileri de bulut tabanlı platform üzerinden bu akışlara erişebiliyor. 341 tonluk vinçlerden alınan video ve destekleyici veriler, güvenlik veya operasyon olaylarının incelenmesinde kullanılabiliyor.\n\nLiman ayrıca görüntüleri cezalandırıcı bir araç yerine eğitim ve olaylardan öğrenme amacıyla kullanmak üzere Camera Learning Opportunities adlı bir raporlama katmanı ekledi. Bu yapı, mevcut uygunsuzluk ve ihlal bildirim sistemleriyle birlikte çalışıyor.",
+    "why_it_matters": "Kamera görüntüsünü gerçek zamanlı operasyon desteği, olay araştırması ve no-blame güvenlik kültürüyle birleştirmek, liman ekipmanlarında fonksiyonel güvenlik süreçlerinin veriyle beslenmesine yardımcı olabilir. Yaklaşımın etkisi; olay sıklığı, müdahale süresi ve alınan düzeltici aksiyonlarla ölçülebilir.",
+    "key_facts": [
+      "Greenore Port, Liebherr mobil liman vinçlerine gelişmiş kamera sistemi kurdu.",
+      "Sistem, kabin tabanındaki kamera ile bomun üstündeki mevcut kameradan gelen görüntüleri birleştiriyor.",
+      "Görüntüler kabin içi monitörde gerçek zamanlı izlenebiliyor.",
+      "Yönetim ve SHEQ temsilcileri görüntülere bulut tabanlı platform üzerinden erişebiliyor.",
+      "341 tonluk vinçlerden alınan video ve destekleyici veriler olay incelemelerinde kullanılabiliyor.",
+      "Camera Learning Opportunities katmanı, olaylardan öğrenme ve riskleri belirleme amacı taşıyor."
+    ],
+    "sector": "liman",
+    "technologies": [
+      "elektronik-telematik",
+      "fonksiyonel-guvenlik"
+    ],
+    "tags": [
+      "Greenore Port",
+      "Liebherr",
+      "mobil liman vinci",
+      "kamera telematiği",
+      "liman güvenliği",
+      "SHEQ"
+    ],
+    "source_name": "Port Strategy",
+    "source_url": "https://www.portstrategy.com/news/equipment/greenore-port-enhances-crane-safety/",
+    "source_published_at": "2026-09-24T11:38:48.000Z",
+    "site_published_at": "2026-09-27T18:01:34.012Z",
+    "hero_image": ""
+  },
+  {
     "id": "0b1b885ccc5ed903",
     "slug": "jevons-robotics-bataryali-elektrikli-artev1000-pre-split-system-i-tanitti",
     "title": "Jevons Robotics, bataryalı elektrikli ARTEV1000 Pre-Split System’i tanıttı",
