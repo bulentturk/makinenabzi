@@ -1,4 +1,5 @@
 name: AI Editorial Draft
+# Secret verification trigger
 
 on:
   workflow_dispatch:
