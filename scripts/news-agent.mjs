@@ -40,17 +40,6 @@ function hasTerm(text, term) {
 }
 function tagsFrom(text) {
   const t = normalized(text);
-  return rules.filter(([,words]) => words.some(w => t.includes(w))).map(([tag]) => tag);
-}
-function sectorFrom(text, fallback) {
-  const t = normalized(text);
-  for (const [sector, words] of sectorRules) if (words.some(w => t.includes(w))) return sector;
-  return fallback;
-}').replace(/\s+/g, '\\s+');
-  return new RegExp('(^|[^a-z0-9])' + escaped + '([^a-z0-9]|$)', 'i').test(text);
-}
-function tagsFrom(text) {
-  const t = normalized(text);
   return rules.filter(([,words]) => words.some(w => hasTerm(t, w))).map(([tag]) => tag);
 }
 function sectorFrom(text, fallback) {
