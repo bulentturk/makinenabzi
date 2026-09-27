@@ -21,4 +21,7 @@ jobs:
       - run: node --check scripts/apply-editorial-response.mjs
       - run: node --check scripts/prepare-review-pr.mjs
       - run: node --check scripts/mark-review-state.mjs
+      - run: npm test
+      - name: Probe source feeds without publishing
+        run: npm run agent:news
       - run: npm run build

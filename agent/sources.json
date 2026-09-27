@@ -27,6 +27,26 @@
     "name": "electrive",
     "url": "https://www.electrive.com/feed/",
     "sector": "elektrifikasyon",
-    "priority": 90
+    "priority": 90,
+    "require_mobile_context": true
+  },
+  {
+    "name": "iVT International",
+    "url": "https://www.ivtinternational.com/feed",
+    "sector": "is-makinalari",
+    "priority": 100
+  },
+  {
+    "name": "Charged EVs",
+    "url": "https://chargedevs.com/feed/",
+    "sector": "elektrifikasyon",
+    "priority": 90,
+    "require_mobile_context": true
+  },
+  {
+    "name": "Teknikport",
+    "url": "https://www.teknikport.com/feed/",
+    "sector": "is-makinalari",
+    "priority": 82
   }
 ]

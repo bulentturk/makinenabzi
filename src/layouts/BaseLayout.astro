@@ -31,6 +31,7 @@ const canonical = Astro.site ? new URL(Astro.url.pathname, Astro.site) : Astro.u
     <meta name="theme-color" content="#081018" />
     <meta name="description" content={description} />
     <link rel="icon" type="image/svg+xml" href={href('/favicon.svg')} />
+    <link rel="alternate" type="application/rss+xml" title="Makine Nabzı Haberler" href={href('/rss.xml')} />
     <link rel="canonical" href={canonical} />
     <title>{title === 'Makine Nabzı' ? title : `${title} | Makine Nabzı`}</title>
   </head>
@@ -62,6 +63,7 @@ const canonical = Astro.site ? new URL(Astro.url.pathname, Astro.site) : Astro.u
         <div>
           <h3>Keşfet</h3>
           <a href={href('/haberler/')}>Haberler</a>
+          <a href={href('/rss.xml')}>RSS ile takip et</a>
           <a href={href('/teknik-blog/')}>Teknik Merkez</a>
           <a href={href('/fuar-takvimi/')}>Fuar Takvimi</a>
         </div>
