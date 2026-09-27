@@ -22,5 +22,11 @@
     "url": "https://www.tunnelsandtunnelling.com/feed/",
     "sector": "is-makinalari",
     "priority": 76
+  },
+  {
+    "name": "electrive",
+    "url": "https://www.electrive.com/feed/",
+    "sector": "elektrifikasyon",
+    "priority": 90
   }
 ]

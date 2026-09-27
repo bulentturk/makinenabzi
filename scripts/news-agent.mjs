@@ -12,13 +12,13 @@ const MAX_PER_SOURCE = Number(process.env.NEWS_MAX_PER_SOURCE || 15);
 const cutoff = Date.now() - DAYS * 86400000;
 
 const rules = [
-  ['elektrifikasyon', ['electric','battery','bms','charging','charger','inverter','electrification','hybrid','fuel cell','zero emission']],
+  ['elektrifikasyon', ['electric','battery','bms','charging','charger','inverter','electrification','hybrid','fuel cell','zero emission','dc-dc','motor controller','axial flux','e-axle','shore power']],
   ['otonomi-ai', ['autonomous','automation','ai ','artificial intelligence','machine vision','lidar','radar','driverless','remote operation']],
-  ['elektronik-telematik', ['telematics','telemetry','connected','can bus','j1939','software','digital','remote monitoring','fleet management']],
+  ['elektronik-telematik', ['telematics','telemetry','connected','can bus','j1939','canopen','software','digital','remote monitoring','fleet management','sensor','encoder','controller','ecu','vcu','hmi','joystick','drive-by-wire','steer-by-wire']],
   ['yuruyus-guc-aktarma', ['transmission','drivetrain','powertrain','powershift','hydrostatic','axle','differential','final drive','torque converter','gearbox']],
   ['hidrolik', ['hydraulic','pump','valve','fluid power','hydrostatic']],
   ['emisyon-stage-v', ['stage v','tier 4','dpf','scr','adblue','diesel exhaust','aftertreatment']],
-  ['fonksiyonel-guvenlik', ['safety','functional safety','iso 13849','collision avoidance']],
+  ['fonksiyonel-guvenlik', ['safety','functional safety','iso 13849','collision avoidance','fail-safe','redundant control','sil 2','sil 3']],
   ['termal-yonetim', ['thermal','cooling','heat management','radiator']]
 ];
 
@@ -26,7 +26,8 @@ const sectorRules = [
   ['madencilik', ['mining','mine','open pit','quarry','lhd','haul truck','drill rig']],
   ['liman', ['port','terminal','container','reach stacker','straddle carrier','harbour crane']],
   ['tarim', ['agriculture','agricultural','tractor','harvester','farm ','combine']],
-  ['arac-ustu-ekipman', ['truck-mounted','aerial platform','concrete pump','mixer truck','refuse truck','municipal']],
+  ['arac-ustu-ekipman', ['truck-mounted','aerial platform','concrete pump','mixer truck','refuse truck','municipal','ground support equipment','pushback tractor','tow tractor','aircraft tug','belt loader','cargo loader','de-icing','ground power unit']],
+  ['marine-yatcilik', ['marine','yacht','boatbuilder','workboat','electric boat','marine propulsion','thruster','deck machinery','shore power']],
   ['is-makinalari', ['excavator','loader','dozer','grader','construction equipment','compact equipment','road machinery']]
 ];
 
@@ -55,7 +56,11 @@ const machineryTerms = [
   'transmission','powertrain','drivetrain','hydrostatic','final drive','axle','differential',
   'hydraulic','inverter','electric motor','bms','telematics','telemetry','fleet management',
   'autonomous haulage','autonomous transport','remote operation','collision avoidance',
-  'machine vision','camera system','charging system','battery electric'
+  'machine vision','camera system','charging system','battery electric',
+  'sensor','encoder','controller','joystick','hmi','ecu','vcu','can bus','j1939','canopen',
+  'steer-by-wire','drive-by-wire','actuator','motor controller','dc-dc','e-axle','axial flux',
+  'ground support equipment','pushback tractor','aircraft tug','belt loader','cargo loader','ground power unit',
+  'marine propulsion','electric boat','workboat','thruster','deck machinery','shore power','yacht'
 ];
 const weakBusinessTerms = [
   'apprentice','graduate','reconciliation action plan','merger','acquisition','supply resilience',
@@ -72,6 +77,8 @@ function editorialFit(item, source) {
   if (weakBusinessTerms.some(w => hasTerm(text, w))) fit -= 30;
   if (source.sector === 'liman' && ['equipment','terminal operations','crane','reach stacker'].some(w => hasTerm(text,w))) fit += 10;
   if (source.sector === 'madencilik' && ['autonomous','battery electric','haul truck','lhd','drill rig','equipment'].some(w => hasTerm(text,w))) fit += 10;
+  if (source.sector === 'marine-yatcilik' && ['marine propulsion','electric boat','battery','thruster','shore power','deck machinery'].some(w => hasTerm(text,w))) fit += 12;
+  if (['sensor','encoder','controller','inverter','motor controller','actuator','dc-dc','e-axle','axial flux'].some(w => hasTerm(text,w)) && ['launch','introduces','unveils','new'].some(w => hasTerm(title,w))) fit += 12;
   return fit;
 }
 function score(item, source) {

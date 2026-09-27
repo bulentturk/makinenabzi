@@ -1,5 +1,58 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-const events=[['Küresel','Bauma — Münih','İş makinaları ve madencilik teknolojileri'],['Küresel','CONEXPO-CON/AGG — Las Vegas','İnşaat ve ağır ekipman'],['Küresel','MINExpo — Las Vegas','Madencilik ekipmanları ve teknoloji'],['Küresel','Agritechnica — Hannover','Tarım makinaları ve tarım teknolojileri'],['Teknoloji','iVT Expo Europe / USA','Off-highway elektrifikasyon, otonomi ve hidrolik'],['Türkiye','KOMATEK / ANKOMAK','İş ve inşaat makinaları'],['Türkiye','Mining Turkey','Maden teknolojileri ve ekipman'],['Türkiye','WIN EURASIA','Endüstriyel teknoloji ve bileşenler'],['Türkiye','Growtech','Tarım teknolojileri']];
+import { events } from '../data/events';
+
+const now = new Date();
+const fmt = new Intl.DateTimeFormat('tr-TR',{day:'numeric',month:'short',year:'numeric'});
+const upcoming = [...events]
+  .filter(event => new Date(event.end || event.start) >= now)
+  .sort((a,b) => Date.parse(a.start)-Date.parse(b.start));
+
+const years = [...new Set(upcoming.map(e => new Date(e.start).getFullYear()))];
 ---
-<BaseLayout title="Fuar Takvimi"><section class="page-head"><div class="container"><span class="eyebrow">Takvim & ekosistem</span><h1>Fuar Takvimi</h1><p>Sektörün önemli küresel ve Türkiye buluşmaları. Tarihler yayına alınmadan önce resmi etkinlik sayfasından ayrıca doğrulanacaktır.</p></div></section><section class="section"><div class="container"><div class="timeline">{events.map(([scope,event,desc]) => <div class="timeline-row"><div class="place">{scope}</div><div><h3>{event}</h3><p>{desc}</p></div></div>)}</div></div></section></BaseLayout>
+<BaseLayout title="Fuar Takvimi" description="İş makinaları, madencilik, tarım, marine ve yatçılık, off-highway ve mobil ekipman teknolojilerinde doğrulanmış fuar takvimi.">
+  <section class="page-head"><div class="container">
+    <span class="eyebrow">Doğrulanmış sektör takvimi</span>
+    <h1>Fuar & Etkinlik Takvimi</h1>
+    <p>İş makinaları, madencilik, tarım, marine & yatçılık, havalimanı GSE ve off-highway teknolojilerindeki önemli buluşmalar. Tarihler resmi etkinlik kaynaklarından doğrulanır.</p>
+  </div></section>
+
+  <section class="section">
+    <div class="container">
+      <div class="event-sector-strip">
+        {['İş Makinaları','Madencilik','Tarım Makinaları','Marine & Yatçılık','Off-Highway Teknolojileri','Havalimanı & GSE','Elektronik & Komponent'].map(x => <span>{x}</span>)}
+      </div>
+
+      {years.map(year => (
+        <section class="event-year">
+          <div class="section-head">
+            <div><span class="eyebrow">Takvim</span><h2>{year}</h2></div>
+            <p>{upcoming.filter(e => new Date(e.start).getFullYear() === year).length} doğrulanmış / izlenen etkinlik</p>
+          </div>
+          <div class="event-grid">
+            {upcoming.filter(e => new Date(e.start).getFullYear() === year).map(event => (
+              <article class:list={['event-card',event.importance === 'high' && 'event-card-priority']}>
+                <div class="event-topline">
+                  <span class="tag">{event.sector}</span>
+                  {event.importance === 'high' && <span class="event-priority">Öncelikli</span>}
+                </div>
+                <h3>{event.name}</h3>
+                <div class="event-date">
+                  {('date_label' in event && event.date_label) ? event.date_label : (event.end ? `${fmt.format(new Date(event.start))} – ${fmt.format(new Date(event.end))}` : fmt.format(new Date(event.start)))}
+                </div>
+                <div class="event-place">{event.city} · {event.country}</div>
+                <p>{event.focus}</p>
+                <a href={event.url} target="_blank" rel="noopener noreferrer">Resmi etkinlik sayfası →</a>
+              </article>
+            ))}
+          </div>
+        </section>
+      ))}
+
+      <div class="event-note">
+        <strong>Takvim politikası:</strong>
+        <span>Kesin tarihi açıklanmayan organizasyonlar “tarih açıklanacak” olarak işaretlenir; tahmini gün uydurulmaz. Tarih değişiklikleri resmi organizatör sayfasından güncellenir.</span>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
