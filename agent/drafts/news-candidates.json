@@ -1,117 +1,30 @@
 [
   {
-    "id": "7c13084f801e5bf3",
-    "status": "drafted",
-    "title_original": "Tonly delivers battery electric 75 t class TLE120 fleet to Wengfu Phosphate Mine",
-    "source_name": "International Mining",
-    "source_url": "https://im-mining.com/2026/09/23/tonly-delivers-battery-electric-75-t-class-tle120-fleet-to-wengfu-phosphate-mine/",
-    "source_feed": "https://im-mining.com/feed/",
-    "published_at": "2026-09-23T10:49:08.000Z",
-    "discovered_at": "2026-09-27T06:58:47.962Z",
-    "sector": "madencilik",
+    "id": "f177b7411a7bddcc",
+    "status": "candidate",
+    "title_original": "Geely counters BYD with 2.25 MW charging system",
+    "source_name": "electrive",
+    "source_url": "https://www.electrive.com/2026/09/24/geely-counters-byd-with-2-25-mw-charging-system/",
+    "source_feed": "https://www.electrive.com/feed/",
+    "published_at": "2026-09-24T17:30:00.000Z",
+    "discovered_at": "2026-09-27T18:15:25.219Z",
+    "sector": "elektrifikasyon",
     "technologies": [
       "elektrifikasyon"
     ],
-    "relevance_score": 158,
-    "summary_source": "Tonly Heavy Industries has recently completed a fleet delivery of the TLE120, its 75 t battery electric wide-body dump trucks, to Wengfu Phosphate Mine in Guizhou Province, China. Located at the boundary of Weng’an County and Fuquan City, the Baiyan Mining Area of Wengfu Phosphate Mine is a major modern open-pit phosphate mining operation. The The post Tonly delivers battery electric 75 t class TLE120 fleet to Wengfu Phosphate Mine appeared first on International Mining.",
+    "relevance_score": 148,
+    "editorial_fit_score": 77,
+    "summary_source": "Geely is entering the race for ever-higher charging powers in China with a new generation of its Smart Charging technology. Paired with a battery capable of up to 12C, electric cars should be able to charge from ten to 70 percent in just four and a half minutes using a proprietary charging system.",
     "editorial": {
-      "title_tr": "Tonly, Wengfu Fosfat Madeni’ne 75 tonluk elektrikli TLE120 filosu teslim etti",
-      "dek_tr": "Tonly Heavy Industries, Çin’deki Wengfu Fosfat Madeni’ne 75 ton sınıfındaki bataryalı elektrikli TLE120 geniş gövdeli damperli kamyonlardan oluşan bir filo teslim etti.",
-      "summary_tr": "Tonly Heavy Industries, Guizhou eyaletindeki Wengfu Fosfat Madeni’ne TLE120 model bataryalı elektrikli geniş gövdeli damperli kamyonlardan oluşan bir filo teslimatını tamamladı. Model, kaynakta 75 ton sınıfında tanımlanıyor.\n\nAraçlar, Weng’an ilçesi ile Fuquan şehri sınırındaki Baiyan Madencilik Alanı’nda faaliyet gösteren açık ocak fosfat madenciliği operasyonunda kullanılacak. Kaynak, filodaki araç sayısı, batarya kapasitesi, menzil veya şarj altyapısı hakkında ayrıntı vermiyor.",
-      "why_it_matters_tr": "75 ton sınıfındaki taşıma ekipmanlarının elektrikli filolarla açık ocak madenciliğine dahil edilmesi, ağır hizmet taşımacılığında elektrifikasyonun uygulama alanını gösteriyor. Operasyonel sonuçları değerlendirmek için saha verileri ve şarj stratejisine ilişkin ek bilgi gerekiyor.",
-      "seo_title": "Tonly’den Wengfu Madeni’ne elektrikli TLE120 filosu",
-      "meta_description": "Tonly, Çin’deki Wengfu Fosfat Madeni’ne 75 ton sınıfı bataryalı elektrikli TLE120 damperli kamyonlardan oluşan filo teslim etti.",
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
       "hero_image": "",
-      "reviewed": false,
-      "key_facts": [
-        "Tonly Heavy Industries, TLE120 teslimatını Wengfu Fosfat Madeni’ne tamamladı.",
-        "TLE120, 75 ton sınıfında bataryalı elektrikli geniş gövdeli damperli kamyon olarak tanımlanıyor.",
-        "Wengfu Fosfat Madeni, Çin’in Guizhou eyaletindeki Baiyan Madencilik Alanı’nda bulunuyor.",
-        "Baiyan sahası açık ocak fosfat madenciliği operasyonu olarak tanımlanıyor."
-      ],
-      "suggested_tags": [
-        "Tonly",
-        "TLE120",
-        "bataryalı elektrikli damperli kamyon",
-        "açık ocak madenciliği",
-        "fosfat madenciliği"
-      ],
-      "suggested_sector": "madencilik",
-      "suggested_technologies": [
-        "elektrifikasyon"
-      ],
-      "source_facts_used": [
-        "Tonly’nin Wengfu Fosfat Madeni’ne TLE120 filosu teslim ettiği bilgisi",
-        "TLE120’nin 75 ton sınıfında bataryalı elektrikli geniş gövdeli damperli kamyon olarak tanımlanması",
-        "Baiyan sahasının Guizhou’daki açık ocak fosfat madeni olduğu bilgisi"
-      ],
-      "uncertainty_notes": [
-        "Kaynak sayfasına erişim HTTP 403 nedeniyle sınırlı; araç sayısı, teknik özellikler, teslimat tarihi ve saha performansına ilişkin ek doğrulama bulunmuyor."
-      ],
-      "generated_at": "2026-09-27T17:53:09.954Z",
-      "generated_by": "github-models"
-    },
-    "editorial_fit_score": 87
-  },
-  {
-    "id": "0b1b885ccc5ed903",
-    "status": "published",
-    "title_original": "Jevons Robotics launches battery electric ARTEV1000 Pre-Split System",
-    "source_name": "International Mining",
-    "source_url": "https://im-mining.com/2026/09/23/jevons-robotics-launches-battery-electric-artev1000-pre-split-system/",
-    "source_feed": "https://im-mining.com/feed/",
-    "published_at": "2026-09-23T10:28:01.000Z",
-    "discovered_at": "2026-09-27T06:58:47.963Z",
-    "sector": "madencilik",
-    "technologies": [
-      "elektrifikasyon"
-    ],
-    "relevance_score": 158,
-    "summary_source": "Jevons Robotics has officially launched the ARTEV1000 Pre-Split System, a battery-electric robotic solution designed to automate the loading of packaged pre-split explosives. The new system is designed to remove people from the highwall environment and eliminate the need for manual handling of explosives and deployment equipment by transferring the task to a remotely operated control The post Jevons Robotics launches battery electric ARTEV1000 Pre-Split System appeared first on International Mining.",
-    "editorial": {
-      "title_tr": "Jevons Robotics, bataryalı elektrikli ARTEV1000 Pre-Split System’i tanıttı",
-      "dek_tr": "Jevons Robotics, paketlenmiş ön çatlatma patlayıcılarının yüklenmesini otomatikleştirmeyi amaçlayan uzaktan kumandalı ARTEV1000 Pre-Split System’i piyasaya sundu.",
-      "summary_tr": "Jevons Robotics, paketlenmiş ön çatlatma (pre-split) patlayıcılarının yüklenmesini otomatikleştirmek üzere tasarlanan ARTEV1000 Pre-Split System’in lansmanını yaptı. Sistem, kaynakta bataryalı elektrikli ve robotik bir çözüm olarak tanımlanıyor.\n\nÇözümün amacı, yüksek duvar (highwall) ortamındaki insan varlığını ve patlayıcılar ile yerleştirme ekipmanlarının manuel taşınmasını azaltmak. Operasyonun uzaktan kumandalı bir kontrol üzerinden yürütülmesi planlanıyor; ancak kaynakta kapasite, çalışma süresi, doğrulama seviyesi veya güvenlik sertifikasyonlarına ilişkin ayrıntı yer almıyor.",
-      "why_it_matters_tr": "Patlayıcı hazırlama ve yerleştirme gibi yüksek riskli madencilik görevlerinde operatörü tehlikeli çalışma alanından uzaklaştırmak, iş güvenliği ve süreç standardizasyonu açısından önemli olabilir. Bu faydanın ölçülebilmesi için saha testleri, insan-makine etkileşimi ve güvenlik doğrulama sonuçları incelenmeli.",
-      "seo_title": "Jevons Robotics’ten elektrikli ARTEV1000 sistemi",
-      "meta_description": "Jevons Robotics, ön çatlatma patlayıcılarının yüklenmesini otomatikleştiren bataryalı elektrikli ARTEV1000 robotik sistemini tanıttı.",
-      "hero_image": "",
-      "reviewed": true,
-      "key_facts": [
-        "Jevons Robotics, ARTEV1000 Pre-Split System’i resmi olarak tanıttı.",
-        "Sistem, bataryalı elektrikli robotik çözüm olarak tanımlanıyor.",
-        "Çözüm, paketlenmiş ön çatlatma patlayıcılarının yüklenmesini otomatikleştirmek üzere tasarlanmış.",
-        "Sistem, uzaktan kumandalı kontrol ile çalışacak şekilde kurgulanıyor.",
-        "Amaçlardan biri, yüksek duvar ortamındaki insan varlığını ve manuel patlayıcı elleçlemesini azaltmak."
-      ],
-      "suggested_tags": [
-        "Jevons Robotics",
-        "ARTEV1000",
-        "madencilik robotları",
-        "patlayıcı elleçleme",
-        "uzaktan kumanda"
-      ],
-      "suggested_sector": "madencilik",
-      "suggested_technologies": [
-        "elektrifikasyon",
-        "otonomi-ai",
-        "fonksiyonel-guvenlik"
-      ],
-      "source_facts_used": [
-        "ARTEV1000 Pre-Split System’in lansmanı",
-        "Sistemin bataryalı elektrikli ve robotik çözüm olarak tanımlanması",
-        "Paketlenmiş ön çatlatma patlayıcılarının yüklenmesini otomatikleştirme amacı",
-        "Uzaktan kumandalı kontrol ve yüksek duvardaki insan varlığını azaltma hedefi"
-      ],
-      "uncertainty_notes": [
-        "Kaynak sayfasına erişim HTTP 403 nedeniyle sınırlı; sistemin teknik kapasitesi, otonomi düzeyi, güvenlik sertifikaları ve saha sonuçları doğrulanamıyor."
-      ],
-      "generated_at": "2026-09-27T17:53:09.954Z",
-      "generated_by": "github-models",
-      "reviewed_at": "2026-09-27T17:59:44.263Z",
-      "review_result": "published"
-    },
-    "editorial_fit_score": 87
+      "reviewed": false
+    }
   },
   {
     "id": "bc3cad8c509dcf70",
@@ -199,59 +112,6 @@
       "reviewed": false
     },
     "editorial_fit_score": 55
-  },
-  {
-    "id": "79f6bd59f674d5d6",
-    "status": "drafted",
-    "title_original": "ABP upgrades Southampton workboat crane",
-    "source_name": "Port Strategy",
-    "source_url": "https://www.portstrategy.com/news/equipment/abp-upgrades-southampton-workboat-crane/",
-    "source_feed": "https://www.portstrategy.com/feed",
-    "published_at": "2026-09-23T10:31:27.000Z",
-    "discovered_at": "2026-09-27T06:58:53.211Z",
-    "sector": "liman",
-    "technologies": [],
-    "relevance_score": 140,
-    "summary_source": "ABP has installed a new marine deck crane on board a Southampton workboat, strengthening safe harbour operations and capability",
-    "editorial": {
-      "title_tr": "ABP, Southampton iş teknesi Spartina'nın güverte vincini yeniledi",
-      "dek_tr": "Associated British Ports (ABP), Spartina iş teknesindeki mevcut vincin yerine HS.Marine AK 30 HE4 güverte vincini taktırdı. Vinç, 14,66 metre erişimde 1.050 kg güvenli çalışma yüküne sahip.",
-      "summary_tr": "ABP, Southampton Limanı'nda görev yapan Spartina iş teknesinin hizmet ömrünü tamamlayan vincini HS.Marine AK 30 HE4 modeliyle değiştirdi. Tedarik, montaj ve devreye alma işlemlerini Southampton merkezli Marine Cranes gerçekleştirdi.\n\nYeni vinç, teknenin mevcut temeli ve cıvata düzeni kullanılabilecek şekilde özel bir adaptörle kuruldu; teknenin yapısında değişiklik yapılmadı. Ekipmanda sürekli hidrolik dönüş, radyo uzaktan kumanda ve deniz koşullarında korozyon koruması için tasarlanmış alev metalizasyonlu kaplama bulunuyor.\n\nVinç, 14,66 metre maksimum erişimde 1.050 kg güvenli çalışma yükü için belirtiliyor. Kurulumun ardından Spartina üzerinde, güvenli çalışma yükünün yüzde 125'iyle yük testi yapıldı.",
-      "why_it_matters_tr": "Mevcut temel ve bağlantı düzeninin adaptörle korunması, iş teknesinde yapısal değişiklik gerektirmeden vinç yenilemeye yönelik bir uygulama örneği sunuyor. Yük testi ve korozyon koruması da deniz ortamındaki ekipmanların devreye alma ve kullanım ömrü değerlendirmelerinde dikkate alınan unsurlar.",
-      "seo_title": "ABP, Spartina iş teknesinin güverte vincini yeniledi",
-      "meta_description": "ABP, Southampton'daki Spartina iş teknesine HS.Marine AK 30 HE4 vinci kurdu. Vinç 14,66 m erişimde 1.050 kg güvenli çalışma yükü sunuyor.",
-      "hero_image": "",
-      "reviewed": false,
-      "key_facts": [
-        "Yeni model HS.Marine AK 30 HE4 güverte vincidir.",
-        "Güvenli çalışma yükü 14,66 metre maksimum erişimde 1.050 kg olarak veriliyor.",
-        "Montajda mevcut temel ve cıvata düzenini kullanmak üzere özel adaptör geliştirildi.",
-        "Kurulum sonrasında güvenli çalışma yükünün yüzde 125'iyle yük testi yapıldı."
-      ],
-      "suggested_tags": [
-        "Associated British Ports",
-        "ABP",
-        "HS.Marine AK 30 HE4",
-        "güverte vinci",
-        "iş teknesi",
-        "Southampton Limanı"
-      ],
-      "suggested_sector": "liman",
-      "suggested_technologies": [
-        "hidrolik"
-      ],
-      "source_facts_used": [
-        "ABP'nin Spartina üzerindeki eski vinci HS.Marine AK 30 HE4 ile değiştirdiği aktarılıyor.",
-        "Montajın mevcut temel ve cıvata düzenini koruyan özel adaptörle yapıldığı, yapısal değişiklik gerekmediği belirtiliyor.",
-        "Vinç için 1.050 kg güvenli çalışma yükü ve 14,66 metre maksimum erişim veriliyor.",
-        "Sürekli hidrolik dönüş, radyo kumanda ve alev metalizasyonlu kaplama özellikleri sıralanıyor.",
-        "Kurulum sonrası güvenli çalışma yükünün yüzde 125'iyle yük testi yapıldığı bildiriliyor."
-      ],
-      "uncertainty_notes": [],
-      "generated_at": "2026-09-27T17:54:49.218Z",
-      "generated_by": "github-models"
-    },
-    "editorial_fit_score": 65
   },
   {
     "id": "c2710f79642d2a9d",

@@ -3,36 +3,45 @@
     "source": "International Mining",
     "url": "https://im-mining.com/feed/",
     "ok": true,
-    "duration_ms": 1004,
+    "duration_ms": 1780,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-09-27T07:09:50.356Z"
+    "checked_at": "2026-09-27T18:15:29.602Z"
   },
   {
     "source": "Port Strategy",
     "url": "https://www.portstrategy.com/feed",
     "ok": true,
-    "duration_ms": 5359,
+    "duration_ms": 4796,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-09-27T07:09:50.356Z"
+    "checked_at": "2026-09-27T18:15:29.602Z"
   },
   {
     "source": "Construction Equipment Guide",
     "url": "https://feeds.feedburner.com/ceg",
     "ok": true,
-    "duration_ms": 308,
+    "duration_ms": 297,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-09-27T07:09:50.356Z"
+    "checked_at": "2026-09-27T18:15:29.602Z"
   },
   {
     "source": "Tunnels & Tunnelling",
     "url": "https://www.tunnelsandtunnelling.com/feed/",
     "ok": true,
-    "duration_ms": 403,
+    "duration_ms": 336,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-09-27T07:09:50.356Z"
+    "checked_at": "2026-09-27T18:15:29.602Z"
+  },
+  {
+    "source": "electrive",
+    "url": "https://www.electrive.com/feed/",
+    "ok": true,
+    "duration_ms": 410,
+    "candidates_found": 1,
+    "error": null,
+    "checked_at": "2026-09-27T18:15:29.602Z"
   }
 ]
