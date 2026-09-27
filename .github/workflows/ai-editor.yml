@@ -1,0 +1,81 @@
+name: AI Editorial Draft
+
+on:
+  workflow_dispatch:
+    inputs:
+      batch_size:
+        description: 'Number of candidates to draft (1-5)'
+        required: false
+        default: '3'
+  workflow_run:
+    workflows: ["News Agent"]
+    types: [completed]
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/ai-editor.yml'
+      - 'scripts/prepare-editorial-input.mjs'
+      - 'scripts/apply-editorial-response.mjs'
+      - 'agent/prompts/editor-system.txt'
+
+permissions:
+  contents: write
+  models: read
+
+concurrency:
+  group: ai-editor
+  cancel-in-progress: true
+
+jobs:
+  draft:
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event_name == 'push' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout current main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Prepare editorial batch
+        id: prepare
+        run: |
+          node scripts/prepare-editorial-input.mjs
+          COUNT=$(cat .tmp/editorial-count.txt)
+          echo "count=$COUNT" >> "$GITHUB_OUTPUT"
+        env:
+          EDITOR_BATCH_SIZE: ${{ inputs.batch_size || '3' }}
+
+      - name: Generate Turkish editorial drafts
+        if: steps.prepare.outputs.count != '0'
+        id: inference
+        uses: actions/ai-inference@v1
+        with:
+          prompt-file: .tmp/editorial-prompt.txt
+          system-prompt-file: agent/prompts/editor-system.txt
+          max-completion-tokens: 5000
+          temperature: 0.2
+
+      - name: Apply AI drafts
+        if: steps.prepare.outputs.count != '0'
+        run: node scripts/apply-editorial-response.mjs "${{ steps.inference.outputs.response-file }}"
+
+      - name: Commit editorial drafts
+        if: steps.prepare.outputs.count != '0'
+        run: |
+          if git diff --quiet -- agent/drafts/news-candidates.json; then
+            echo "No editorial changes"
+            exit 0
+          fi
+          git config user.name "makinenabzi-editor-agent"
+          git config user.email "actions@users.noreply.github.com"
+          git add agent/drafts/news-candidates.json
+          git commit -m "agent: generate editorial drafts"
+          git push
