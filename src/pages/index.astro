@@ -1,9 +1,29 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { sectors, technologies, editorialFormats } from '../data/platform';
+import news from '../data/published-news.json';
+import { events } from '../data/events';
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const href = (p:string) => `${base}${p}`;
+const dateFormat = new Intl.DateTimeFormat('tr-TR', { day: 'numeric', month: 'short', year: 'numeric' });
+const sectorLabels: Record<string, string> = {
+  'is-makinalari': 'İş Makinaları',
+  madencilik: 'Madencilik',
+  liman: 'Liman & Elleçleme',
+  tarim: 'Tarım Makinaları',
+  'arac-ustu-ekipman': 'Araç Üstü Ekipman',
+  'havaalani-gse': 'Havalimanı & GSE',
+  'marine-yatcilik': 'Marine & Yatçılık',
+  elektrifikasyon: 'Elektrifikasyon'
+};
+const latestNews = [...news]
+  .sort((a, b) => Date.parse(b.site_published_at || b.source_published_at) - Date.parse(a.site_published_at || a.source_published_at))
+  .slice(0, 3);
+const nextEvents = [...events]
+  .filter((event) => Date.parse(`${event.end || event.start}T23:59:59Z`) >= Date.now())
+  .sort((a, b) => Date.parse(a.start) - Date.parse(b.start))
+  .slice(0, 2);
 
 const highlights = [
   {
@@ -34,8 +54,8 @@ const highlights = [
       <h1>Makinenin kendisinden <span>onu mümkün kılan teknolojiye.</span></h1>
       <p class="lead">İş makinaları, madencilik, liman ekipmanları, tarım makinaları, araç üstü ekipmanlar ve elektrifikasyonda güncel haber, teknik analiz, saha bilgisi ve teknoloji radarını tek yerde buluşturuyoruz.</p>
       <div class="hero-actions">
-        <a class="button primary" href="#sektorler">Sektörleri keşfet</a>
-        <a class="button ghost glass" href={href('/teknik-blog/')}>Teknik Merkez</a>
+        <a class="button primary" href="#son-haberler">Son haberleri oku</a>
+        <a class="button ghost glass" href="#sektorler">Sektörleri keşfet</a>
       </div>
       <div class="hero-stats">
         <div><strong>6</strong><span>Ana sektör</span></div>
@@ -44,6 +64,58 @@ const highlights = [
       </div>
     </div>
   </section>
+
+  {latestNews.length > 0 && (
+    <section class="section home-pulse" id="son-haberler">
+      <div class="container">
+        <div class="section-head">
+          <div>
+            <span class="eyebrow">Gündem</span>
+            <h2>Sektörün nabzı.</h2>
+          </div>
+          <a class="link-arrow" href={href('/haberler/')}>Tüm haberler →</a>
+        </div>
+        <div class="home-pulse-layout">
+          <div class="pulse-news-grid">
+            {latestNews.map((item, index) => (
+              <a class:list={['pulse-story', index === 0 && 'pulse-story-lead']} href={href(`/haberler/${item.slug}/`)}>
+                <div class="pulse-story-meta">
+                  <span class="tag">{sectorLabels[item.sector] || item.sector}</span>
+                  <time datetime={item.site_published_at || item.source_published_at}>
+                    Yayın: {dateFormat.format(new Date(item.site_published_at || item.source_published_at))}
+                  </time>
+                </div>
+                <h3>{item.title}</h3>
+                <p>{item.dek}</p>
+                <span class="pulse-story-bottom"><small>Kaynak: {item.source_name}</small><strong>Haberi oku →</strong></span>
+              </a>
+            ))}
+          </div>
+          {nextEvents.length > 0 && (
+            <aside class="home-events" aria-label="Yaklaşan fuarlar">
+              <div class="home-events-head">
+                <span class="eyebrow">Fuar radarı</span>
+                <h3>Yaklaşan buluşmalar</h3>
+              </div>
+              {nextEvents.map((event) => (
+                <div class="home-event">
+                  <span>{event.sector}</span>
+                  <h4>{event.name}</h4>
+                  <time datetime={event.start}>
+                    {('date_label' in event && event.date_label)
+                      ? event.date_label
+                      : (event.end ? `${dateFormat.format(new Date(event.start))} – ${dateFormat.format(new Date(event.end))}` : dateFormat.format(new Date(event.start)))}
+                  </time>
+                  <small>{event.city} · {event.country}</small>
+                </div>
+              ))}
+              <a href={href('/fuar-takvimi/')}>Fuar takviminin tamamı →</a>
+            </aside>
+          )}
+        </div>
+      </div>
+    </section>
+  )}
 
   <section class="section section-intro">
     <div class="container">
