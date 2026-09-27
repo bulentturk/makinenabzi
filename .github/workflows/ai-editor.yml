@@ -66,7 +66,7 @@ jobs:
           prompt-file: .tmp/editorial-prompt.txt
           system-prompt-file: agent/prompts/editor-system.txt
         env:
-          GITHUB_TOKEN: ${{ github.token }}
+          COPILOT_GITHUB_TOKEN: ${{ secrets.COPILOT_PAT }}
 
       - name: Apply AI drafts
         if: steps.prepare.outputs.count != '0'

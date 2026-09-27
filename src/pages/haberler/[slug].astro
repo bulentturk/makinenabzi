@@ -1,0 +1,76 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import news from '../../data/published-news.json';
+
+export function getStaticPaths() {
+  return news.map((item) => ({
+    params: { slug: item.slug },
+    props: { item }
+  }));
+}
+
+const { item } = Astro.props;
+const sectorLabels = {
+  'is-makinalari':'İş Makinaları',
+  'madencilik':'Madencilik',
+  'liman':'Liman & Elleçleme',
+  'tarim':'Tarım Makinaları',
+  'arac-ustu-ekipman':'Araç Üstü Ekipman',
+  'elektrifikasyon':'Elektrifikasyon'
+};
+const techLabels = {
+  'elektrifikasyon':'Elektrifikasyon',
+  'hidrolik':'Hidrolik',
+  'yuruyus-guc-aktarma':'Yürüyüş & Güç Aktarma',
+  'elektronik-telematik':'Elektronik & Telematik',
+  'otonomi-ai':'Otonomi & AI',
+  'emisyon-stage-v':'Emisyon & Stage V',
+  'fonksiyonel-guvenlik':'Fonksiyonel Güvenlik',
+  'termal-yonetim':'Termal Yönetim'
+};
+const date = new Intl.DateTimeFormat('tr-TR',{day:'numeric',month:'long',year:'numeric'}).format(new Date(item.source_published_at));
+const paragraphs = String(item.summary || '').split(/\n\s*\n/).filter(Boolean);
+---
+<BaseLayout title={item.title} description={item.dek}>
+  <article class="article-page">
+    <header class="article-hero">
+      <div class="container article-narrow">
+        <div class="article-meta">
+          <span class="tag">{sectorLabels[item.sector] || item.sector}</span>
+          {item.technologies?.map((t) => <span class="tag">{techLabels[t] || t}</span>)}
+          <time datetime={item.source_published_at}>{date}</time>
+        </div>
+        <h1>{item.title}</h1>
+        <p class="article-dek">{item.dek}</p>
+        {item.hero_image ? <img class="article-hero-image" src={item.hero_image} alt="" /> : null}
+      </div>
+    </header>
+
+    <div class="container article-layout">
+      <div class="article-body">
+        {paragraphs.map((p) => <p>{p}</p>)}
+
+        {item.key_facts?.length ? (
+          <section class="article-facts">
+            <h2>Öne çıkan bilgiler</h2>
+            <ul>{item.key_facts.map((fact) => <li>{fact}</li>)}</ul>
+          </section>
+        ) : null}
+
+        {item.why_it_matters ? (
+          <section class="article-analysis">
+            <span class="eyebrow">Makine Nabzı yorumu</span>
+            <h2>Neden önemli?</h2>
+            <p>{item.why_it_matters}</p>
+          </section>
+        ) : null}
+
+        <section class="article-source">
+          <h2>Kaynak</h2>
+          <p>{item.source_name}</p>
+          <a href={item.source_url} target="_blank" rel="noopener noreferrer">Orijinal kaynağı aç →</a>
+        </section>
+      </div>
+    </div>
+  </article>
+</BaseLayout>
