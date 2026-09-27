@@ -10,6 +10,13 @@ on:
   workflow_run:
     workflows: ["News Agent"]
     types: [completed]
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/ai-editor.yml'
+      - 'scripts/prepare-editorial-input.mjs'
+      - 'scripts/apply-editorial-response.mjs'
+      - 'agent/prompts/editor-system.txt'
 
 permissions:
   contents: write
@@ -21,7 +28,7 @@ concurrency:
 
 jobs:
   draft:
-    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event_name == 'push' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout current main
