@@ -115,7 +115,7 @@
   },
   {
     "id": "bc3cad8c509dcf70",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Greenore Port enhances crane safety",
     "source_name": "Port Strategy",
     "source_url": "https://www.portstrategy.com/news/equipment/greenore-port-enhances-crane-safety/",
@@ -136,7 +136,7 @@
       "seo_title": "Greenore Port vinç güvenliğinde kamera telematiği kullanıyor",
       "meta_description": "Greenore Port, Liebherr mobil liman vinçlerinde gerçek zamanlı görüntüleme ve olay incelemeyi destekleyen kamera telematiği sistemi kurdu.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Greenore Port, Liebherr mobil liman vinçlerine gelişmiş kamera sistemi kurdu.",
         "Sistem, kabin tabanındaki kamera ile bomun üstündeki mevcut kameradan gelen görüntüleri birleştiriyor.",
@@ -169,7 +169,9 @@
         "Sistemin kamera çözünürlüğü, kayıt süresi, veri saklama politikası, siber güvenlik kontrolleri ve ölçülen güvenlik kazanımları kaynakta belirtilmiyor."
       ],
       "generated_at": "2026-09-27T17:53:09.954Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-09-27T18:04:46.378Z",
+      "review_result": "published"
     },
     "editorial_fit_score": 77
   },
