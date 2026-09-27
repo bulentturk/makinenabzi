@@ -104,10 +104,13 @@
       "pnömatik",
       "elektrikli-tahrik",
       "motion-control",
-      "komponent"
+      "komponent",
+      "sensor-software",
+      "actuator",
+      "off-highway"
     ],
-    "status": "watchlist-web",
-    "priority": 98,
+    "status": "watchlist-web-priority",
+    "priority": 100,
     "origin": "user-list"
   },
   {
