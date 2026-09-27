@@ -20,7 +20,7 @@ on:
 
 permissions:
   contents: write
-  models: read
+  copilot-requests: write
 
 concurrency:
   group: ai-editor
@@ -53,15 +53,20 @@ jobs:
         env:
           EDITOR_BATCH_SIZE: ${{ inputs.batch_size || '3' }}
 
+      - name: Install Copilot CLI
+        if: steps.prepare.outputs.count != '0'
+        run: npm install -g @github/copilot
+
       - name: Generate Turkish editorial drafts
         if: steps.prepare.outputs.count != '0'
         id: inference
-        uses: actions/ai-inference@v2.1.1
+        uses: actions/ai-inference@v3
         with:
+          provider: copilot
           prompt-file: .tmp/editorial-prompt.txt
           system-prompt-file: agent/prompts/editor-system.txt
-          max-completion-tokens: 5000
-          temperature: 0.2
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
 
       - name: Apply AI drafts
         if: steps.prepare.outputs.count != '0'
