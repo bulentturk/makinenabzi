@@ -1,6 +1,7 @@
 import fs from 'node:fs/promises';
 import crypto from 'node:crypto';
 import Parser from 'rss-parser';
+import { normalized, hasTerm, hasMobileContext } from './news-context.mjs';
 
 const parser = new Parser({ timeout: 12000 });
 const sources = JSON.parse(await fs.readFile(process.env.NEWS_SOURCES_FILE || new URL('../agent/sources.json', import.meta.url), 'utf8'));
@@ -32,14 +33,6 @@ const sectorRules = [
   ['is-makinalari', ['excavator','loader','dozer','grader','construction equipment','compact equipment','road machinery','is makinasi','ekskavator','yukleyici','greyder']]
 ];
 
-function normalized(s='') {
-  return s.toLowerCase().replace(/ı/g,'i').normalize('NFKD').replace(/[\u0300-\u036f]/g,'').replace(/\s+/g,' ').trim();
-}
-function hasTerm(text, term) {
-  const specials = "\\.^$*+?()[]{}|";
-  const escaped = term.trim().split('').map(ch => specials.includes(ch) ? '\\' + ch : ch).join('').replace(/\s+/g, '\\s+');
-  return new RegExp('(^|[^a-z0-9])' + escaped + '([^a-z0-9]|$)', 'i').test(text);
-}
 function tagsFrom(text) {
   const t = normalized(text);
   return rules.filter(([,words]) => words.some(w => hasTerm(t, w))).map(([tag]) => tag);
@@ -66,13 +59,6 @@ const machineryTerms = [
   'traktor','bicerdover','liman ekipmani','hidrolik','pompa','valf','guc aktarimi',
   'elektrik motoru','telematik','kontrol unitesi','sensor','sanziman'
 ];
-const mobileContextTerms = [
-  'off-highway','off road','off-road','mobile machinery','mobile equipment','heavy equipment',
-  'construction equipment','agricultural machinery','farm equipment','mining equipment','mining truck',
-  'industrial vehicle','industrial equipment','material handling','port equipment','marine propulsion',
-  'workboat','tractor','excavator','loader','haul truck','forklift','reach stacker',
-  'is makinasi','ekskavator','maden makinasi','maden kamyonu','traktor','liman ekipmani'
-];
 const weakBusinessTerms = [
   'apprentice','graduate','reconciliation action plan','merger','acquisition','supply resilience',
   'funding boost','career opportunities','copper market','commodity','water treatment'
@@ -80,7 +66,7 @@ const weakBusinessTerms = [
 function editorialFit(item, source) {
   const text = normalized(item.title + ' ' + (item.contentSnippet || ''));
   const title = normalized(item.title || '');
-  if (source.require_mobile_context && !mobileContextTerms.some(w => hasTerm(text,w))) return 0;
+  if (source.require_mobile_context && !hasMobileContext(text)) return 0;
   const tags = tagsFrom(text);
   let fit = 0;
   if (machineryTerms.some(w => hasTerm(text, w))) fit += 55;

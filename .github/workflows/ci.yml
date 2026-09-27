@@ -17,6 +17,8 @@ jobs:
           node-version: 22
       - run: npm install
       - run: node --check scripts/news-agent.mjs
+      - run: node --check scripts/news-context.mjs
+      - run: node --check scripts/report-source-health.mjs
       - run: node --check scripts/prepare-editorial-input.mjs
       - run: node --check scripts/apply-editorial-response.mjs
       - run: node --check scripts/prepare-review-pr.mjs
@@ -24,4 +26,7 @@ jobs:
       - run: npm test
       - name: Probe source feeds without publishing
         run: npm run agent:news
+      - name: Source health report
+        if: always()
+        run: node scripts/report-source-health.mjs
       - run: npm run build

@@ -56,3 +56,27 @@ test('alerts when every source fails', async () => {
   assert.match(result.stderr,/All news sources failed/);
   assert.equal(health[0].ok,false);
 });
+
+test('approval queue skips a previously drafted passenger EV story', async () => {
+  const dir = await fs.mkdtemp(path.join(os.tmpdir(),'makinenabzi-review-'));
+  try {
+    const candidates = [
+      {id:'car',status:'drafted',source_name:'electrive',source_url:'https://example.org/car',title_original:'Geely electric car charging system',summary_source:'Passenger car battery charging',sector:'elektrifikasyon',technologies:[],editorial_fit_score:99,relevance_score:150,published_at:'2026-09-26T00:00:00Z',editorial:{title_tr:'Geely şarj sistemi'}},
+      {id:'truck',status:'drafted',source_name:'iVT International',source_url:'https://example.org/truck',title_original:'Electric mining truck launched',summary_source:'Off-highway mining truck',sector:'madencilik',technologies:[],editorial_fit_score:60,relevance_score:120,published_at:'2026-09-26T00:00:00Z',editorial:{title_tr:'Elektrikli maden kamyonu'}}
+    ];
+    await Promise.all([
+      fs.writeFile(path.join(dir,'candidates.json'),JSON.stringify(candidates)),
+      fs.writeFile(path.join(dir,'published.json'),'[]'),
+      fs.writeFile(path.join(dir,'sources.json'),JSON.stringify([{name:'electrive',require_mobile_context:true},{name:'iVT International'}]))
+    ]);
+    const result = spawnSync(process.execPath,[new URL('../scripts/prepare-review-pr.mjs',import.meta.url).pathname],{
+      encoding:'utf8',
+      env:{...process.env,REVIEW_CANDIDATES_FILE:path.join(dir,'candidates.json'),REVIEW_PUBLISHED_FILE:path.join(dir,'published.json'),REVIEW_SOURCES_FILE:path.join(dir,'sources.json'),REVIEW_TMP_DIR:dir}
+    });
+    assert.equal(result.status,0,result.stderr);
+    assert.equal(await fs.readFile(path.join(dir,'review-id.txt'),'utf8'),'truck');
+    assert.match(await fs.readFile(path.join(dir,'review-pr-body.md'),'utf8'),/Yayın öncesi kontrol/);
+  } finally {
+    await fs.rm(dir,{recursive:true,force:true});
+  }
+});
