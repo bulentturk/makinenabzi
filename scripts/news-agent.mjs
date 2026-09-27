@@ -34,18 +34,8 @@ function normalized(s='') {
   return s.toLowerCase().replace(/\s+/g,' ').trim();
 }
 function hasTerm(text, term) {
-  const escaped = term.trim().replace(/[.*+?^$()|[\]\\{}]/g, '\\function normalized(s='') {
-  return s.toLowerCase().replace(/\s+/g,' ').trim();
-}
-function tagsFrom(text) {
-  const t = normalized(text);
-  return rules.filter(([,words]) => words.some(w => t.includes(w))).map(([tag]) => tag);
-}
-function sectorFrom(text, fallback) {
-  const t = normalized(text);
-  for (const [sector, words] of sectorRules) if (words.some(w => t.includes(w))) return sector;
-  return fallback;
-}').replace(/\s+/g, '\\s+');
+  const specials = "\\.^$*+?()[]{}|";
+  const escaped = term.trim().split('').map(ch => specials.includes(ch) ? '\\' + ch : ch).join('').replace(/\s+/g, '\\s+');
   return new RegExp('(^|[^a-z0-9])' + escaped + '([^a-z0-9]|$)', 'i').test(text);
 }
 function tagsFrom(text) {
