@@ -168,7 +168,7 @@
   },
   {
     "id": "c2710f79642d2a9d",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Taylor Machine Works Expands Reach Stacker Line with High-Capacity Container Models",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/taylor-machine-works-expands-reach-stacker-line-with-highcapacity-container-models/72350",
@@ -189,7 +189,7 @@
       "seo_title": "Taylor Machine Works reach stacker serisini genişletti",
       "meta_description": "Taylor Machine Works, elektrikli ve dizel tahrikli reach stacker portföyüne üç yüksek kapasiteli model ekledi. Teknik ayrıntılar paylaşılmadı.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Portföye üç yeni yüksek kapasiteli model eklendi.",
         "Seride elektrikli ve dizel tahrikli seçenekler bulunuyor."
@@ -212,7 +212,9 @@
         "Kaynak sayfasına erişim 403 hatasıyla sınırlı; eldeki özet model adlarını ve teknik kapasite değerlerini içermiyor."
       ],
       "generated_at": "2026-09-27T17:54:49.218Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-09-27T19:26:30.903Z",
+      "review_result": "published"
     },
     "editorial_fit_score": 67
   },

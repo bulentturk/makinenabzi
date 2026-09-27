@@ -33,7 +33,7 @@ const streams=[['OEM & Ürün','Yeni ürünler, ürün gamı genişletmeleri ve 
         <a class="news-card" href={href('/haberler/' + item.slug + '/')}>
           <div class="article-meta">
             <span class="tag">{sectorLabels[item.sector] || item.sector}</span>
-            <time>{new Intl.DateTimeFormat('tr-TR',{day:'numeric',month:'short',year:'numeric'}).format(new Date(item.source_published_at))}</time>
+            <time datetime={item.site_published_at}>Yayın: {new Intl.DateTimeFormat('tr-TR',{day:'numeric',month:'short',year:'numeric'}).format(new Date(item.site_published_at))}</time>
           </div>
           <h3>{item.title}</h3>
           <p>{item.dek}</p>

@@ -2,11 +2,11 @@
 
 ## Mevcut durum
 
-- Astro ile üretilen statik site; ana sayfa, haberler, üç haber detayı, teknik merkez, fuar takvimi, kaynaklar ve hakkımızda olmak üzere dokuz indekslenebilir adres.
+- Astro ile üretilen statik site; ana sayfa, haberler, dört haber detayı, teknik merkez, fuar takvimi, kaynaklar ve hakkımızda olmak üzere on indekslenebilir adres.
 - Haber ajanı günde iki kez aday topluyor. Ayrı taslak ve editoryal onay akışı var; otomatik yayın yerine insan onayı korunuyor. Ajan sekiz RSS kaynağını tarayacak şekilde genişletildi; iVT International, Charged EVs ve Teknikport eklendi. Power & Motion ile OEM Off-Highway için doğrulanmış otomatik akış halen araştırılmalı.
 - Ana sayfada son üç onaylı haber ve yaklaşan iki fuar gerçek yayın verisinden gösteriliyor. Altı sektör kartının tamamı halen aynı genel haberler adresine gidiyor.
 - Teknik merkez konu kartlarından oluşuyor; henüz yazı/dosya sayfası yok. Kaynaklar listesi yayıncı adlarından oluşuyor ve bağlantı/filtre içermiyor.
-- Haberler sayfasında üç içerik var. Kartlarda kaynak tarihi gösterilirken siteye yayın tarihi görünmüyor; haber detayında yazar, güncelleme tarihi, ilgili içerikler ve konu yolları yok.
+- Haberler sayfasında dört içerik var. Kartlarda site yayın tarihi, haber detayında site/kaynak tarihi ve varsa güncelleme notu gösteriliyor. Yazar, ilgili içerikler ve konu yolları halen eksik.
 - Fuar takvimi tarım, marine ve GSE dahil geniş bir alanı kapsıyor. Bazı “resmi etkinlik sayfası” bağlantıları etkinliğin kendi adresi yerine başka bir organizasyonun genel adresine gidiyordu; bu değişiklikte üçü düzeltildi.
 - Search Console'da `makinenabzi.com` alan adı doğrulandı. `sitemap.xml` başarıyla gönderildi; 27 Eylül 2026'da dokuz adres keşfedildi. Keşif, dizine alındığı anlamına gelmez.
 - Onaylı haberlere özel `/rss.xml` akışı eklendi. Adaylar ve taslaklar bu akışta bulunmaz.

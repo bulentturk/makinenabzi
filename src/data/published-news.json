@@ -1,5 +1,39 @@
 [
   {
+    "id": "c2710f79642d2a9d",
+    "slug": "taylor-machine-works-reach-stacker-serisini-uc-yuksek-kapasiteli-modelle-genisletti",
+    "title": "Taylor Machine Works, reach stacker serisini üç yüksek kapasiteli modelle genişletti",
+    "dek": "Taylor Machine Works; bataryalı elektrikli ZRS-1272, XRS-1180 ve XRS-1190 ile ağır konteynerlere yönelik reach stacker serisini genişletti. Üretici, bazı uygulamalarda 120.000 lb (yaklaşık 54,4 ton) kapasite bildiriyor.",
+    "summary": "Taylor Machine Works, liman ve intermodal terminaller için üç yeni yüksek kapasiteli reach stacker modelini duyurdu: ZRS-1272, XRS-1180 ve XRS-1190. Üretici, ağır konteyner talebinin özellikle batarya ve enerji depolama ekipmanı sevkiyatında arttığını belirtiyor.\n\nBataryalı elektrikli ZRS-1272 için bildirilen azami kaldırma kapasitesi 120.000 lb (yaklaşık 54,4 ton). XRS-1180 dizel modelin standart kapasitesi 110.000 lb (yaklaşık 49,9 ton); üretici özel uygulama derecelendirmesiyle 120.000 lb değerine ulaşılabildiğini söylüyor.\n\nRaylı ve intermodal saha için tasarlanan XRS-1190, ön tahrik lastikleri arasındaki hidrolik denge ayaklarıyla uzun erişimde yük kararlılığına odaklanıyor. Üretici, komşu hattaki konteynere erişimi hedefleyen bu model için de özel uygulama derecelendirmesinde 120.000 lb değeri veriyor. Bunlar model ve uygulama koşuluna bağlı üretici beyanlarıdır; gerçek kaldırma kabiliyeti yük diyagramı ve çalışma geometrisiyle doğrulanmalıdır.",
+    "why_it_matters": "Elektrikli tahrik ve yüksek kaldırma kapasitesinin aynı ürün grubunda sunulması, terminal işletmecileri için enerji altyapısı, vardiya çevrimi ve kapasite seçiminde yeni bir karşılaştırma alanı açıyor. Özellikle XRS-1190’daki denge ayağı düzeni, yalnızca azami tonajı değil yükün erişim mesafesini ve saha geometrisini de değerlendirmek gerektiğini gösteriyor. Bağımsız saha performansı ve enerji tüketimi verisi açıklanmadığından bu başlıklarda sonuç çıkarmıyoruz.",
+    "key_facts": [
+      "ZRS-1272 bataryalı elektrikli model için azami 120.000 lb (yaklaşık 54,4 ton) kapasite bildiriliyor.",
+      "XRS-1180 dizel modelin standart kapasitesi 110.000 lb; özel uygulama derecelendirmesiyle 120.000 lb bildiriliyor.",
+      "XRS-1190 raylı/intermodal saha için tasarlandı; ön tahrik lastikleri arasında hidrolik denge ayakları bulunuyor.",
+      "XRS-1190 için özel uygulama koşullarında 120.000 lb kapasite bildiriliyor."
+    ],
+    "sector": "liman",
+    "technologies": [
+      "elektrifikasyon",
+      "hidrolik"
+    ],
+    "tags": [
+      "Taylor Machine Works",
+      "ZRS-1272",
+      "XRS-1180",
+      "XRS-1190",
+      "reach stacker",
+      "konteyner elleçleme"
+    ],
+    "source_name": "Taylor Machine Works",
+    "source_url": "https://news.taylorforklifts.com/taylor-expands-reach-stacker-line/",
+    "source_published_at": "2026-09-25T05:00:00.000Z",
+    "site_published_at": "2026-09-27T18:04:45.462Z",
+    "hero_image": "",
+    "site_updated_at": "2026-09-27T19:35:39.849361Z",
+    "update_note": "Üreticinin birincil duyurusuyla model adları ve uygulamaya bağlı kapasite bilgileri eklendi."
+  },
+  {
     "id": "bc3cad8c509dcf70",
     "slug": "greenore-port-mobil-liman-vinclerinde-kamera-tabanli-guvenligi-guclendirdi",
     "title": "Greenore Port, mobil liman vinçlerinde kamera tabanlı güvenliği güçlendirdi",
