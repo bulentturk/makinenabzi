@@ -1,5 +1,38 @@
 [
   {
+    "id": "0b1b885ccc5ed903",
+    "slug": "jevons-robotics-bataryali-elektrikli-artev1000-pre-split-system-i-tanitti",
+    "title": "Jevons Robotics, bataryalı elektrikli ARTEV1000 Pre-Split System’i tanıttı",
+    "dek": "Jevons Robotics, paketlenmiş ön çatlatma patlayıcılarının yüklenmesini otomatikleştirmeyi amaçlayan uzaktan kumandalı ARTEV1000 Pre-Split System’i piyasaya sundu.",
+    "summary": "Jevons Robotics, paketlenmiş ön çatlatma (pre-split) patlayıcılarının yüklenmesini otomatikleştirmek üzere tasarlanan ARTEV1000 Pre-Split System’in lansmanını yaptı. Sistem, kaynakta bataryalı elektrikli ve robotik bir çözüm olarak tanımlanıyor.\n\nÇözümün amacı, yüksek duvar (highwall) ortamındaki insan varlığını ve patlayıcılar ile yerleştirme ekipmanlarının manuel taşınmasını azaltmak. Operasyonun uzaktan kumandalı bir kontrol üzerinden yürütülmesi planlanıyor; ancak kaynakta kapasite, çalışma süresi, doğrulama seviyesi veya güvenlik sertifikasyonlarına ilişkin ayrıntı yer almıyor.",
+    "why_it_matters": "Patlayıcı hazırlama ve yerleştirme gibi yüksek riskli madencilik görevlerinde operatörü tehlikeli çalışma alanından uzaklaştırmak, iş güvenliği ve süreç standardizasyonu açısından önemli olabilir. Bu faydanın ölçülebilmesi için saha testleri, insan-makine etkileşimi ve güvenlik doğrulama sonuçları incelenmeli.",
+    "key_facts": [
+      "Jevons Robotics, ARTEV1000 Pre-Split System’i resmi olarak tanıttı.",
+      "Sistem, bataryalı elektrikli robotik çözüm olarak tanımlanıyor.",
+      "Çözüm, paketlenmiş ön çatlatma patlayıcılarının yüklenmesini otomatikleştirmek üzere tasarlanmış.",
+      "Sistem, uzaktan kumandalı kontrol ile çalışacak şekilde kurgulanıyor.",
+      "Amaçlardan biri, yüksek duvar ortamındaki insan varlığını ve manuel patlayıcı elleçlemesini azaltmak."
+    ],
+    "sector": "madencilik",
+    "technologies": [
+      "elektrifikasyon",
+      "otonomi-ai",
+      "fonksiyonel-guvenlik"
+    ],
+    "tags": [
+      "Jevons Robotics",
+      "ARTEV1000",
+      "madencilik robotları",
+      "patlayıcı elleçleme",
+      "uzaktan kumanda"
+    ],
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/09/23/jevons-robotics-launches-battery-electric-artev1000-pre-split-system/",
+    "source_published_at": "2026-09-23T10:28:01.000Z",
+    "site_published_at": "2026-09-27T17:54:59.513Z",
+    "hero_image": ""
+  },
+  {
     "id": "7c13084f801e5bf3",
     "slug": "tonly-tle120-wengfu-bataryali-maden-kamyonu",
     "title": "Tonly, Wengfu Fosfat Madeni’ne 75 ton sınıfı bataryalı TLE120 filosu teslim etti",
@@ -8,8 +41,14 @@
     "why_it_matters": "Bu gelişme, yüksek kapasiteli bataryalı maden kamyonlarının gerçek saha uygulamalarında filo ölçeğinde kullanılmasına güncel bir örnek sunuyor.",
     "key_facts": [],
     "sector": "madencilik",
-    "technologies": ["elektrifikasyon"],
-    "tags": ["Tonly", "TLE120", "bataryalı maden kamyonu"],
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "tags": [
+      "Tonly",
+      "TLE120",
+      "bataryalı maden kamyonu"
+    ],
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/09/23/tonly-delivers-battery-electric-75-t-class-tle120-fleet-to-wengfu-phosphate-mine/",
     "source_published_at": "2026-09-23T10:49:08.000Z",
