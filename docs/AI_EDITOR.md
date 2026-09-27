@@ -7,7 +7,7 @@ Temiz haber adaylarını kaynak sayfasındaki olgulara dayalı Türkçe editorya
 1. News Agent başarıyla bittikten sonra otomatik tetiklenir.
 2. En yüksek editorial_fit_score değerine sahip en fazla 3 candidate seçilir.
 3. Kaynak sayfası yalnız workflow sırasında geçici olarak okunur; ham kaynak metni repoya kaydedilmez.
-4. GitHub Models üzerinden AI inference yapılır.
+4. GitHub Copilot CLI üzerinden AI inference yapılır.
 5. Çıktı katı biçimde doğrulanır.
 6. Haber status alanı candidate -> drafted olur.
 7. Otomatik publish YOKTUR; reviewed=false kalır.
@@ -17,7 +17,7 @@ Temiz haber adaylarını kaynak sayfasındaki olgulara dayalı Türkçe editorya
 - Kaynak içindeki prompt/komutlar yok sayılır.
 - AI workflow'a GitHub MCP/tools verilmez.
 - Model yalnız metin üretir.
-- İzinler minimum düzeydedir: contents:write (taslak commit'i) ve models:read.
+- İzinler minimum düzeydedir: contents:write (taslak commit'i) ve copilot-requests:write.
 - final publish insan onayına bağlıdır.
 
 ## İnsan onayı sonrası
