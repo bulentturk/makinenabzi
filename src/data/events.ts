@@ -95,7 +95,7 @@ export const events = [
     city: 'İstanbul', country: 'Türkiye',
     sector: 'İş Makinaları',
     focus: 'Saha gereksinimleri, yeni nesil makineler ve teknoloji',
-    url: 'https://komatekfuar.com/',
+    url: 'https://haftekfuar.com.tr/',
     importance: 'medium'
   },
   {
@@ -104,7 +104,7 @@ export const events = [
     city: 'Monako', country: 'Monako',
     sector: 'Marine & Yatçılık',
     focus: 'Superyacht refit, bakım, servis ve yeni teknoloji çözümleri',
-    url: 'https://www.monacoyachtshow.com/',
+    url: 'https://www.monacoyachtshow.com/en/futurefit-announcement-press-release',
     importance: 'medium'
   },
   {
@@ -149,7 +149,7 @@ export const events = [
     city: 'Monako', country: 'Monako',
     sector: 'Marine & Yatçılık',
     focus: 'Yeni enerji sistemleri, elektrikli/hidrojenli tekneler ve marine inovasyonu',
-    url: 'https://www.monacoyachtshow.com/',
+    url: 'https://monacoenergyboatchallenge.com/',
     importance: 'medium'
   },
   {
