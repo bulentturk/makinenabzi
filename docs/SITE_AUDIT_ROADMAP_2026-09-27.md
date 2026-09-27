@@ -3,7 +3,7 @@
 ## Mevcut durum
 
 - Astro ile üretilen statik site; ana sayfa, haberler, üç haber detayı, teknik merkez, fuar takvimi, kaynaklar ve hakkımızda olmak üzere dokuz indekslenebilir adres.
-- Haber ajanı günde iki kez aday topluyor. Ayrı taslak ve editoryal onay akışı var; otomatik yayın yerine insan onayı korunuyor.
+- Haber ajanı günde iki kez aday topluyor. Ayrı taslak ve editoryal onay akışı var; otomatik yayın yerine insan onayı korunuyor. Ajan yalnızca `agent/sources.json` içindeki beş RSS kaynağını okuyor; daha geniş `agent/source-catalog.json` izleme listesindeki Power & Motion, Charged EVs, OEM Off-Highway, iVT International ve Teknikport gibi yayınlar bu akışa henüz bağlanmış değil.
 - Ana sayfada sektör ve teknoloji taksonomisi net, fakat son haberler görünmüyor. Altı sektör kartının tamamı aynı genel haberler adresine gidiyor.
 - Teknik merkez konu kartlarından oluşuyor; henüz yazı/dosya sayfası yok. Kaynaklar listesi yayıncı adlarından oluşuyor ve bağlantı/filtre içermiyor.
 - Haberler sayfasında üç içerik var. Kartlarda kaynak tarihi gösterilirken siteye yayın tarihi görünmüyor; haber detayında yazar, güncelleme tarihi, ilgili içerikler ve konu yolları yok.
@@ -21,8 +21,9 @@
 | 4 | Gerçek sektör ve teknoloji sayfaları | Kartlar kendi kalıcı adreslerine bağlanır; filtreler çalışır; boş kategoride yanıltıcı “içerikleri gör” çağrısı gösterilmez. |
 | 5 | Teknik merkez | İlk özgün teknik rehberler (ör. güç aktarma, hidrolik, CAN/J1939) yayımlanır; teknik içerikte tarih, kaynak ve sınırlar görünür. |
 | 6 | Fuar takvimi kalitesi | Her etkinlik için doğrudan resmi bağlantı, son kontrol tarihi, kesin/tahmini tarih durumu ve değişiklik takibi tutulur; sektör/ülke/yıl filtreleri ve takvime ekleme gelir. |
-| 7 | Keşif ve ölçüm | Haber/teknik içerik için uygun yapılandırılmış veri, OG görseli, RSS, Search Console kapsam/arama sorguları ve mobil performans izlenir. |
-| 8 | Mobil uygulama hazırlığı | Web ve uygulama için ortak sürümlü içerik şeması/API, kalıcı kimlikler, görsel hakları, favori ve bildirim tercihleri tasarlanır; uygulama ekranları bu veriyle prototiplenir. |
+| 7 | Kaynak kapsama alanı | Katalogdaki yüksek öncelikli yayınlar için RSS veya izinli izleme yöntemi etkinleştirilir; kaynak sağlığı, tekrar haber ve aynı iddianın birincil kaynakta doğrulanması raporlanır. |
+| 8 | Keşif ve ölçüm | Haber/teknik içerik için uygun yapılandırılmış veri, OG görseli, RSS, Search Console kapsam/arama sorguları ve mobil performans izlenir. |
+| 9 | Mobil uygulama hazırlığı | Web ve uygulama için ortak sürümlü içerik şeması/API, kalıcı kimlikler, görsel hakları, favori ve bildirim tercihleri tasarlanır; uygulama ekranları bu veriyle prototiplenir. |
 
 ## Editoryal ritim
 
