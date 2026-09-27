@@ -40,6 +40,10 @@ jobs:
           NEWS_LOOKBACK_DAYS: 4
           NEWS_MAX_PER_SOURCE: 15
 
+      - name: Source health report
+        if: always()
+        run: node scripts/report-source-health.mjs
+
       - name: Commit candidate updates
         run: |
           if git diff --quiet -- agent/drafts/news-candidates.json agent/drafts/source-health.json; then

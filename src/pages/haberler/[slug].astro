@@ -30,7 +30,10 @@ const techLabels = {
   'fonksiyonel-guvenlik':'Fonksiyonel Güvenlik',
   'termal-yonetim':'Termal Yönetim'
 };
-const date = new Intl.DateTimeFormat('tr-TR',{day:'numeric',month:'long',year:'numeric'}).format(new Date(item.source_published_at));
+const dateFormat = new Intl.DateTimeFormat('tr-TR',{day:'numeric',month:'long',year:'numeric'});
+const sourceDate = dateFormat.format(new Date(item.source_published_at));
+const siteDate = dateFormat.format(new Date(item.site_published_at));
+const updatedDate = item.site_updated_at ? dateFormat.format(new Date(item.site_updated_at)) : '';
 const paragraphs = String(item.summary || '').split(/\n\s*\n/).filter(Boolean);
 ---
 <BaseLayout title={item.title} description={item.dek}>
@@ -40,10 +43,13 @@ const paragraphs = String(item.summary || '').split(/\n\s*\n/).filter(Boolean);
         <div class="article-meta">
           <span class="tag">{sectorLabels[item.sector] || item.sector}</span>
           {item.technologies?.map((t) => <span class="tag">{techLabels[t] || t}</span>)}
-          <time datetime={item.source_published_at}>{date}</time>
+          <time datetime={item.site_published_at}>Yayın: {siteDate}</time>
+          <time datetime={item.source_published_at}>Kaynak: {sourceDate}</time>
+          {updatedDate && <time datetime={item.site_updated_at}>Güncelleme: {updatedDate}</time>}
         </div>
         <h1>{item.title}</h1>
         <p class="article-dek">{item.dek}</p>
+        {item.update_note && <p class="article-update-note">Güncelleme notu: {item.update_note}</p>}
         {item.hero_image ? <img class="article-hero-image" src={item.hero_image} alt="" /> : null}
       </div>
     </header>

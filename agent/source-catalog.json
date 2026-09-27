@@ -59,7 +59,8 @@
       "axial-flux",
       "power-electronics"
     ],
-    "status": "watchlist-web-priority",
+    "status": "active-rss",
+    "feed": "https://chargedevs.com/feed/",
     "priority": 96,
     "origin": "user-list",
     "watch_urls": [
@@ -235,7 +236,8 @@
       "agriculture",
       "construction"
     ],
-    "status": "watchlist-web-priority",
+    "status": "active-rss",
+    "feed": "https://www.ivtinternational.com/feed",
     "priority": 100,
     "origin": "user-list"
   },
@@ -326,7 +328,8 @@
       "otomasyon",
       "komponent"
     ],
-    "status": "watchlist-web",
+    "status": "active-rss",
+    "feed": "https://www.teknikport.com/feed/",
     "priority": 82,
     "origin": "user-list"
   }
