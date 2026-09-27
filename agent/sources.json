@@ -6,12 +6,6 @@
     "priority": 100
   },
   {
-    "name": "Global Mining Review",
-    "url": "https://www.globalminingreview.com/rss/gmr/",
-    "sector": "madencilik",
-    "priority": 95
-  },
-  {
     "name": "Port Strategy",
     "url": "https://www.portstrategy.com/feed",
     "sector": "liman",
