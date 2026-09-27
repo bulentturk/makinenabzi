@@ -1,5 +1,27 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 const streams=[['OEM & Ürün','Yeni ürünler, ürün gamı genişletmeleri ve üretici duyuruları.'],['Yatırım & İş Birliği','Tesis yatırımları, satın almalar, niyet mektupları ve teknoloji ortaklıkları.'],['Regülasyon & Güvenlik','Emisyon, emniyet, saha güvenliği ve sektörel düzenlemeler.'],['Dijitalleşme','Otonomi, telemetri, kestirimci bakım, bağlantılı makine ve yazılım ekosistemi.'],['Pazar & Veri','Üretim, ihracat, satış ve bölgesel pazar hareketleri.'],['Saha','Fuarlar, kullanıcı gözlemleri, birlikler, kooperatifler ve uygulama örnekleri.']];
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const href = (p:string) => `${base}${p}`;
 ---
-<BaseLayout title="Haberler"><section class="page-head"><div class="container"><span class="eyebrow">Günlük yayın ekseni</span><h1>Haberler</h1><p>Hız için değil doğruluk için yayın: haberler kaynak gösterilerek özetlenir, kritik sayı ve unvanlar mümkün olduğunda resmi kaynaktan teyit edilir.</p></div></section><section class="section"><div class="container"><div class="notice">İlk içerik paketi hazırlanırken bu sayfa yayın kategorilerini gösterir. Kaynağı doğrulanmamış güncel haberler otomatik olarak yayına alınmayacaktır.</div><div class="content-grid" style="margin-top:24px">{streams.map(([title,desc]) => <article class="card"><span class="tag">Haber akışı</span><h3>{title}</h3><p>{desc}</p></article>)}</div></div></section></BaseLayout>
+<BaseLayout title="Haberler">
+  <section class="page-head"><div class="container"><span class="eyebrow">Günlük yayın ekseni</span><h1>Haberler</h1><p>Hız için değil doğruluk için yayın: haberler kaynak gösterilerek özetlenir, kritik sayı ve unvanlar mümkün olduğunda resmi kaynaktan teyit edilir.</p></div></section>
+  <section class="section"><div class="container">
+    <div class="section-head">
+      <div><span class="eyebrow">Son haber</span><h2>Elektrifikasyon sahaya iniyor.</h2></div>
+    </div>
+    <a class="news-feature" href={href('/haberler/tonly-tle120-wengfu-bataryali-maden-kamyonu/')}>
+      <div>
+        <div class="article-meta"><span class="tag">Madencilik</span><span class="tag">Elektrifikasyon</span><time>23 Eylül 2026</time></div>
+        <h2>Tonly, Wengfu Fosfat Madeni’ne 75 ton sınıfı bataryalı TLE120 filosu teslim etti</h2>
+        <p>Bataryalı geniş gövdeli damperli kamyonların filo ölçeğindeki yeni uygulaması, açık ocak madenciliğinde elektrifikasyonun geldiği noktaya dair güncel bir örnek.</p>
+        <strong>Haberi oku →</strong>
+      </div>
+    </a>
+
+    <div class="section-head" style="margin-top:60px">
+      <div><span class="eyebrow">Haber akışları</span><h2>Takip ettiğimiz alanlar.</h2></div>
+    </div>
+    <div class="content-grid">{streams.map(([title,desc]) => <article class="card"><span class="tag">Haber akışı</span><h3>{title}</h3><p>{desc}</p></article>)}</div>
+  </div></section>
+</BaseLayout>
