@@ -7,6 +7,7 @@ on:
     paths:
       - 'agent/drafts/news-candidates.json'
       - 'src/data/published-news.json'
+      - '.github/workflows/editorial-review-pr.yml'
 
 permissions:
   contents: write
@@ -64,11 +65,12 @@ jobs:
         run: |
           BRANCH=$(cat .tmp/review-branch.txt)
           TITLE=$(cat .tmp/review-pr-title.txt)
-          git checkout -b "$BRANCH"
+          git fetch origin "$BRANCH" || true
+          git checkout -B "$BRANCH" main
           cp .tmp/review-news.json src/data/published-news.json
           git config user.name "makinenabzi-editorial-agent"
           git config user.email "actions@users.noreply.github.com"
           git add src/data/published-news.json
           git commit -m "editorial: prepare publish approval"
-          git push origin "$BRANCH"
+          git push --force-with-lease origin "$BRANCH"
           gh pr create --base main --head "$BRANCH" --title "$TITLE" --body-file .tmp/review-pr-body.md
