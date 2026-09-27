@@ -3,45 +3,36 @@
     "source": "International Mining",
     "url": "https://im-mining.com/feed/",
     "ok": true,
-    "duration_ms": 1027,
+    "duration_ms": 1159,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-09-27T07:01:49.406Z"
-  },
-  {
-    "source": "Global Mining Review",
-    "url": "https://www.globalminingreview.com/rss/gmr/",
-    "ok": false,
-    "duration_ms": 714,
-    "candidates_found": 0,
-    "error": "Status code 404",
-    "checked_at": "2026-09-27T07:01:49.406Z"
+    "checked_at": "2026-09-27T07:07:45.588Z"
   },
   {
     "source": "Port Strategy",
     "url": "https://www.portstrategy.com/feed",
     "ok": true,
-    "duration_ms": 5277,
+    "duration_ms": 2731,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-09-27T07:01:49.406Z"
+    "checked_at": "2026-09-27T07:07:45.588Z"
   },
   {
     "source": "Construction Equipment Guide",
     "url": "https://feeds.feedburner.com/ceg",
     "ok": true,
-    "duration_ms": 283,
+    "duration_ms": 300,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-09-27T07:01:49.406Z"
+    "checked_at": "2026-09-27T07:07:45.588Z"
   },
   {
     "source": "Tunnels & Tunnelling",
     "url": "https://www.tunnelsandtunnelling.com/feed/",
     "ok": true,
-    "duration_ms": 345,
+    "duration_ms": 172,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-09-27T07:01:49.406Z"
+    "checked_at": "2026-09-27T07:07:45.588Z"
   }
 ]
