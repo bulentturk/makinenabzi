@@ -1,5 +1,34 @@
 [
   {
+    "id": "f177b7411a7bddcc",
+    "slug": "geely-2-25-mw-sarj-sistemiyle-yuksek-guc-yarisina-katiliyor",
+    "title": "Geely, 2,25 MW şarj sistemiyle yüksek güç yarışına katılıyor",
+    "dek": "Geely’nin yeni Smart Charging teknolojisi, 12C’ye kadar şarj kapasitesine sahip bir bataryayla birlikte tanıtılıyor. Kaynak özeti, elektrikli otomobiller için yüzde 10’dan yüzde 70’e şarj süresini 4,5 dakika olarak veriyor.",
+    "summary": "Geely, Çin’de yüksek güçlü şarj çözümlerine yönelik yeni nesil Smart Charging teknolojisini duyurdu. Kaynak başlığı sistemin gücünü 2,25 MW olarak belirtirken, özet bu sistemle eşleştirilen bataryanın 12C’ye kadar şarj kapasitesine sahip olduğunu aktarıyor.\n\nKaynağa göre elektrikli otomobillerin şarj seviyesi yüzde 10’dan yüzde 70’e 4,5 dakikada çıkarılabilecek. Sistem için verilen ayrıntılar sınırlı; tam kaynak metnine erişilemedi.",
+    "why_it_matters": "Megavat ölçeğindeki şarj gücü, yüksek enerji ihtiyacı olan mobil makinelerin elektrifikasyonu açısından izlenmeye değer bir teknik yönelim. Ancak aktarılan çözüm elektrikli otomobiller için ve özel bir sistem olarak tanımlanıyor; iş makinelerine uygunluğu veya başka altyapılarla uyumluluğu hakkında veri yok.",
+    "key_facts": [
+      "Kaynak başlığında sistem gücü 2,25 MW olarak belirtiliyor.",
+      "Bataryanın şarj kapasitesi 12C’ye kadar veriliyor.",
+      "Yüzde 10’dan yüzde 70’e şarj süresi 4,5 dakika olarak aktarılıyor.",
+      "Teknoloji elektrikli otomobiller için tanıtılıyor."
+    ],
+    "sector": "elektrifikasyon",
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "tags": [
+      "Geely",
+      "yüksek güçlü şarj",
+      "batarya",
+      "elektrikli araç"
+    ],
+    "source_name": "electrive",
+    "source_url": "https://www.electrive.com/2026/09/24/geely-counters-byd-with-2-25-mw-charging-system/",
+    "source_published_at": "2026-09-24T17:30:00.000Z",
+    "site_published_at": "2026-09-27T19:26:36.826Z",
+    "hero_image": ""
+  },
+  {
     "id": "c2710f79642d2a9d",
     "slug": "taylor-machine-works-reach-stacker-serisini-uc-yuksek-kapasiteli-modelle-genisletti",
     "title": "Taylor Machine Works, reach stacker serisini üç yüksek kapasiteli modelle genişletti",
