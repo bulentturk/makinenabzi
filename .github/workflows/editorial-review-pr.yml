@@ -1,0 +1,74 @@
+name: Editorial Review PR
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'agent/drafts/news-candidates.json'
+      - 'src/data/published-news.json'
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: editorial-review-pr
+  cancel-in-progress: false
+
+jobs:
+  create-review:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Check open editorial review
+        id: open
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          COUNT=$(gh pr list --state open --json headRefName --jq '[.[] | select(.headRefName | startswith("editorial-auto-"))] | length')
+          echo "count=$COUNT" >> "$GITHUB_OUTPUT"
+
+      - name: Prepare next review
+        if: steps.open.outputs.count == '0'
+        id: prepare
+        run: |
+          node scripts/prepare-review-pr.mjs
+          COUNT=$(cat .tmp/review-count.txt)
+          echo "count=$COUNT" >> "$GITHUB_OUTPUT"
+
+      - name: Check previous review history
+        if: steps.open.outputs.count == '0' && steps.prepare.outputs.count == '1'
+        id: history
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          BRANCH=$(cat .tmp/review-branch.txt)
+          COUNT=$(gh pr list --state all --head "$BRANCH" --json number --jq 'length')
+          echo "count=$COUNT" >> "$GITHUB_OUTPUT"
+
+      - name: Create publish approval PR
+        if: steps.open.outputs.count == '0' && steps.prepare.outputs.count == '1' && steps.history.outputs.count == '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          BRANCH=$(cat .tmp/review-branch.txt)
+          TITLE=$(cat .tmp/review-pr-title.txt)
+          git checkout -b "$BRANCH"
+          cp .tmp/review-news.json src/data/published-news.json
+          git config user.name "makinenabzi-editorial-agent"
+          git config user.email "actions@users.noreply.github.com"
+          git add src/data/published-news.json
+          git commit -m "editorial: prepare publish approval"
+          git push origin "$BRANCH"
+          gh pr create --base main --head "$BRANCH" --title "$TITLE" --body-file .tmp/review-pr-body.md
