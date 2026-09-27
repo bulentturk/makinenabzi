@@ -1,86 +1,5 @@
 [
   {
-    "id": "792e3f1f5c1e0b7a",
-    "status": "candidate",
-    "title_original": "Barrick to put Avathon AI solution to work at North American assets",
-    "source_name": "International Mining",
-    "source_url": "https://im-mining.com/2026/09/23/barrick-to-put-avathon-ai-solution-to-work-at-north-american-assets/",
-    "source_feed": "https://im-mining.com/feed/",
-    "published_at": "2026-09-23T15:42:08.000Z",
-    "discovered_at": "2026-09-27T06:58:47.961Z",
-    "sector": "madencilik",
-    "technologies": [
-      "otonomi-ai",
-      "elektronik-telematik",
-      "fonksiyonel-guvenlik"
-    ],
-    "relevance_score": 134,
-    "summary_source": "Avathon, a provider of Physical AI for industrial operations, says that Barrick’s North American business has selected its Autonomy Platform as a strategic technology partner to transform its business. The strategic partnership will connect data, operational knowledge and AI intelligence across the mining value chain, from exploration and mine planning through safety, production, processing, maintenance The post Barrick to put Avathon AI solution to work at North American assets appeared first on International Mining.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
-  },
-  {
-    "id": "b0721c7f8d979d52",
-    "status": "candidate",
-    "title_original": "BHP, Amazon establish ‘industry-first’ pilot for lower emissions copper market",
-    "source_name": "International Mining",
-    "source_url": "https://im-mining.com/2026/09/23/bhp-amazon-establish-industry-first-pilot-for-lower-emissions-copper-market/",
-    "source_feed": "https://im-mining.com/feed/",
-    "published_at": "2026-09-23T08:21:35.000Z",
-    "discovered_at": "2026-09-27T06:58:47.963Z",
-    "sector": "madencilik",
-    "technologies": [
-      "elektrifikasyon",
-      "emisyon-stage-v"
-    ],
-    "relevance_score": 126,
-    "summary_source": "BHP and Amazon have established an industry-first copper pilot to buy and sell credits for lower greenhouse gas emissions associated with copper concentrate and cathodes produced at Escondida – the world’s largest copper mine, which sources its electricity demand from renewable energy and runs on desalinated water. The Escondida copper mine supplies copper concentrates and The post BHP, Amazon establish ‘industry-first’ pilot for lower emissions copper market appeared first on International Mining.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
-  },
-  {
-    "id": "28d50338d38fbd8d",
-    "status": "candidate",
-    "title_original": "Three million tonnes hauled autonomously by Volvo",
-    "source_name": "International Mining",
-    "source_url": "https://im-mining.com/2026/09/26/three-million-tonnes-hauled-autonomously-by-volvo/",
-    "source_feed": "https://im-mining.com/feed/",
-    "published_at": "2026-09-26T09:07:04.000Z",
-    "discovered_at": "2026-09-27T06:58:47.960Z",
-    "sector": "madencilik",
-    "technologies": [
-      "otonomi-ai"
-    ],
-    "relevance_score": 118,
-    "summary_source": "In a new milestone achievement, Volvo Autonomous Solutions (V.A.S.) recently announced that it has hauled more than 3 Mt of material autonomously in the mining and quarrying segment. It says milestone demonstrates the ability of autonomous transportation to deliver consistent and reliable value to customers. The material has been hauled across V.A.S.’ current and completed The post Three million tonnes hauled autonomously by Volvo appeared first on International Mining.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
-  },
-  {
     "id": "7c13084f801e5bf3",
     "status": "candidate",
     "title_original": "Tonly delivers battery electric 75 t class TLE120 fleet to Wengfu Phosphate Mine",
@@ -93,7 +12,7 @@
     "technologies": [
       "elektrifikasyon"
     ],
-    "relevance_score": 118,
+    "relevance_score": 158,
     "summary_source": "Tonly Heavy Industries has recently completed a fleet delivery of the TLE120, its 75 t battery electric wide-body dump trucks, to Wengfu Phosphate Mine in Guizhou Province, China. Located at the boundary of Weng’an County and Fuquan City, the Baiyan Mining Area of Wengfu Phosphate Mine is a major modern open-pit phosphate mining operation. The The post Tonly delivers battery electric 75 t class TLE120 fleet to Wengfu Phosphate Mine appeared first on International Mining.",
     "editorial": {
       "title_tr": "",
@@ -104,7 +23,8 @@
       "meta_description": "",
       "hero_image": "",
       "reviewed": false
-    }
+    },
+    "editorial_fit_score": 87
   },
   {
     "id": "0b1b885ccc5ed903",
@@ -119,7 +39,7 @@
     "technologies": [
       "elektrifikasyon"
     ],
-    "relevance_score": 118,
+    "relevance_score": 158,
     "summary_source": "Jevons Robotics has officially launched the ARTEV1000 Pre-Split System, a battery-electric robotic solution designed to automate the loading of packaged pre-split explosives. The new system is designed to remove people from the highwall environment and eliminate the need for manual handling of explosives and deployment equipment by transferring the task to a remotely operated control The post Jevons Robotics launches battery electric ARTEV1000 Pre-Split System appeared first on International Mining.",
     "editorial": {
       "title_tr": "",
@@ -130,55 +50,8 @@
       "meta_description": "",
       "hero_image": "",
       "reviewed": false
-    }
-  },
-  {
-    "id": "70dff493d8a19eb8",
-    "status": "candidate",
-    "title_original": "Sandvik launches new Reconciliation Action Plan after 10-year journey in Australia",
-    "source_name": "International Mining",
-    "source_url": "https://im-mining.com/2026/09/24/sandvik-launches-new-reconciliation-action-plan-after-10-year-journey-in-australia/",
-    "source_feed": "https://im-mining.com/feed/",
-    "published_at": "2026-09-24T08:52:18.000Z",
-    "discovered_at": "2026-09-27T06:58:47.961Z",
-    "sector": "madencilik",
-    "technologies": [],
-    "relevance_score": 110,
-    "summary_source": "Sandvik in Australia has marked 10 years of its formal reconciliation journey by launching its 2026-2028 Innovate Reconciliation Action Plan (RAP), setting new commitments for Aboriginal and Torres Strait Islander employment, supplier participation, cultural capability and organisational accountability. The two-year plan includes a minimum target of 3.5% First Nations representation, with a stretch target of The post Sandvik launches new Reconciliation Action Plan after 10-year journey in Australia appeared first on International Mining.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
-  },
-  {
-    "id": "ae45dce40ade0a3f",
-    "status": "candidate",
-    "title_original": "Accenture Construct aimed at reinventing fragmented capital project delivery",
-    "source_name": "International Mining",
-    "source_url": "https://im-mining.com/2026/09/24/accenture-construct-aimed-at-reinventing-fragmented-capital-project-delivery/",
-    "source_feed": "https://im-mining.com/feed/",
-    "published_at": "2026-09-24T08:46:17.000Z",
-    "discovered_at": "2026-09-27T06:58:47.961Z",
-    "sector": "madencilik",
-    "technologies": [],
-    "relevance_score": 110,
-    "summary_source": "Accenture has launched Accenture Construct, a new global business to help project owners plan, deliver and optimise large infrastructure and capital projects, including in the mining industry. Accenture Construct brings together Accenture’s capital projects business – which has grown four times over three years across strategic advisory, engineering, project delivery and technology services – to support delivery at scale The post Accenture Construct aimed at reinventing fragmented capital project delivery appeared first on International Mining.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
+    },
+    "editorial_fit_score": 87
   },
   {
     "id": "bc3cad8c509dcf70",
@@ -193,7 +66,7 @@
     "technologies": [
       "fonksiyonel-guvenlik"
     ],
-    "relevance_score": 108,
+    "relevance_score": 148,
     "summary_source": "Greenore Port is deploying advanced camera technology on harbour cranes to improve safety, visibility and incident management",
     "editorial": {
       "title_tr": "",
@@ -204,7 +77,8 @@
       "meta_description": "",
       "hero_image": "",
       "reviewed": false
-    }
+    },
+    "editorial_fit_score": 77
   },
   {
     "id": "4aa8b403b098b4a3",
@@ -217,7 +91,7 @@
     "discovered_at": "2026-09-27T06:58:47.960Z",
     "sector": "madencilik",
     "technologies": [],
-    "relevance_score": 100,
+    "relevance_score": 140,
     "summary_source": "Titan International Inc, a leading global manufacturer of off-highway wheels, tyres and undercarriage products, this week announced that it has entered into a definitive agreement to sell its Italtractor ITM undercarriage business (ITM) to Modena, Italy headquartered USCO SpA. The transaction is expected to close early in January 2027, subject to the satisfaction of customary The post Titan International signs definitive agreement to sell ITM undercarriage business to Schlam owner USCO SpA appeared first on International Mining.",
     "editorial": {
       "title_tr": "",
@@ -228,127 +102,8 @@
       "meta_description": "",
       "hero_image": "",
       "reviewed": false
-    }
-  },
-  {
-    "id": "820fc38202290da1",
-    "status": "candidate",
-    "title_original": "Martin Engineering expanding in Ghana with help of Aggrey & Associates",
-    "source_name": "International Mining",
-    "source_url": "https://im-mining.com/2026/09/25/martin-engineering-expanding-in-ghana-with-help-of-aggrey-associates/",
-    "source_feed": "https://im-mining.com/feed/",
-    "published_at": "2026-09-25T10:17:54.000Z",
-    "discovered_at": "2026-09-27T06:58:47.961Z",
-    "sector": "madencilik",
-    "technologies": [],
-    "relevance_score": 100,
-    "summary_source": "Martin Engineering says it has broadened its footprint in Ghana by partnering with Aggrey & Associates, one of the country’s most trusted mining and industrial operations consultants. With offices in the UK and Ghana, Aggrey & Associates has a track record of success across a wide spectrum of bulk handling industries, Martin Engineering says. As The post Martin Engineering expanding in Ghana with help of Aggrey & Associates appeared first on International Mining.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
-  },
-  {
-    "id": "7535f2e32a83178d",
-    "status": "candidate",
-    "title_original": "BQE Water restarts Kemess Selen-IX plant in British Columbia",
-    "source_name": "International Mining",
-    "source_url": "https://im-mining.com/2026/09/25/bqe-water-restarts-kemess-selen-ix-plant-in-british-columbia/",
-    "source_feed": "https://im-mining.com/feed/",
-    "published_at": "2026-09-25T07:06:58.000Z",
-    "discovered_at": "2026-09-27T06:58:47.961Z",
-    "sector": "madencilik",
-    "technologies": [],
-    "relevance_score": 100,
-    "summary_source": "BQE Water Inc, a leader in the treatment and management of mine impacted waters, has announced the successful restart and operation of the selenium removal treatment plant at the Kemess project in collaboration with Centerra Gold Inc, in British Columbia, Canada. This was the first plant built using the company’s patented Selen-IX™ process, with the The post BQE Water restarts Kemess Selen-IX plant in British Columbia appeared first on International Mining.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
-  },
-  {
-    "id": "c482bbd57cf18db6",
-    "status": "candidate",
-    "title_original": "HPC supports Mogadishu equipment investment",
-    "source_name": "Port Strategy",
-    "source_url": "https://www.portstrategy.com/news/equipment/hpc-supports-mogadishu-equipment-investment/",
-    "source_feed": "https://www.portstrategy.com/feed",
-    "published_at": "2026-09-24T11:33:01.000Z",
-    "discovered_at": "2026-09-27T06:58:53.211Z",
-    "sector": "liman",
-    "technologies": [],
-    "relevance_score": 100,
-    "summary_source": "HPC will advise Mogadishu Port Authority on equipment procurement, implementation and maintenance systems to improve operations",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
-  },
-  {
-    "id": "ac3cf22db3f927d1",
-    "status": "candidate",
-    "title_original": "Wolfram: What 50 years of tungsten production teaches us about supply resilience",
-    "source_name": "International Mining",
-    "source_url": "https://im-mining.com/2026/09/23/wolfram-what-50-years-of-tungsten-production-teaches-us-about-supply-resilience/",
-    "source_feed": "https://im-mining.com/feed/",
-    "published_at": "2026-09-23T12:36:27.000Z",
-    "discovered_at": "2026-09-27T06:58:47.962Z",
-    "sector": "madencilik",
-    "technologies": [],
-    "relevance_score": 100,
-    "summary_source": "Fifty years ago, global tungsten producer Wolfram Bergbau und Hütten AG was little more than an idea attached to a tungsten deposit in the Austrian Alps. Today, the company operates as Europe’s only fully integrated tungsten production chain, combining mining, refining and recycling within a single business. The anniversary comes as critical raw materials return The post Wolfram: What 50 years of tungsten production teaches us about supply resilience appeared first on International Mining.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
-  },
-  {
-    "id": "76b8202c59e3bb46",
-    "status": "candidate",
-    "title_original": "Forth Ports welcomes new talent",
-    "source_name": "Port Strategy",
-    "source_url": "https://www.portstrategy.com/news/port-terminal-news/forth-ports-welcomes-new-talent/",
-    "source_feed": "https://www.portstrategy.com/feed",
-    "published_at": "2026-09-23T10:36:49.000Z",
-    "discovered_at": "2026-09-27T06:58:53.211Z",
-    "sector": "liman",
-    "technologies": [],
-    "relevance_score": 100,
-    "summary_source": "Forth Ports has welcomed 20 apprentices and graduates, strengthening skills and creating career opportunities across its UK operations",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
+    },
+    "editorial_fit_score": 55
   },
   {
     "id": "79f6bd59f674d5d6",
@@ -361,7 +116,7 @@
     "discovered_at": "2026-09-27T06:58:53.211Z",
     "sector": "liman",
     "technologies": [],
-    "relevance_score": 100,
+    "relevance_score": 140,
     "summary_source": "ABP has installed a new marine deck crane on board a Southampton workboat, strengthening safe harbour operations and capability",
     "editorial": {
       "title_tr": "",
@@ -372,7 +127,8 @@
       "meta_description": "",
       "hero_image": "",
       "reviewed": false
-    }
+    },
+    "editorial_fit_score": 65
   },
   {
     "id": "c2710f79642d2a9d",
@@ -387,7 +143,7 @@
     "technologies": [
       "elektrifikasyon"
     ],
-    "relevance_score": 98,
+    "relevance_score": 138,
     "summary_source": "Taylor Machine Works has expanded its electric and diesel-powered reach stacker portfolio with three new high-capacity models....",
     "editorial": {
       "title_tr": "",
@@ -398,57 +154,8 @@
       "meta_description": "",
       "hero_image": "",
       "reviewed": false
-    }
-  },
-  {
-    "id": "10c51aa6f6dafde3",
-    "status": "candidate",
-    "title_original": "City Harvest Begins Using Volvo VNR Electric Trucks to Rescue Food Across New York City",
-    "source_name": "Construction Equipment Guide",
-    "source_url": "https://www.constructionequipmentguide.com/city-harvest-begins-using-volvo-vnr-electric-trucks-to-rescue-food-across-new-york-city/72344",
-    "source_feed": "https://feeds.feedburner.com/ceg",
-    "published_at": "2026-09-24T05:00:00.000Z",
-    "discovered_at": "2026-09-27T06:58:53.431Z",
-    "sector": "is-makinalari",
-    "technologies": [
-      "elektrifikasyon"
-    ],
-    "relevance_score": 98,
-    "summary_source": "Volvo VNR Electric trucks, with battery-electric refrigeration, replace diesel on City Harvest’s routes through the Bronx....",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
-  },
-  {
-    "id": "68ecdf040cef2c9e",
-    "status": "candidate",
-    "title_original": "UAB-Online and Dropboard deepen terminal planning",
-    "source_name": "Port Strategy",
-    "source_url": "https://www.portstrategy.com/news/terminal-operations/uab-online-and-dropboard-deepen-terminal-planning/",
-    "source_feed": "https://www.portstrategy.com/feed",
-    "published_at": "2026-09-25T14:33:09.000Z",
-    "discovered_at": "2026-09-27T06:58:53.211Z",
-    "sector": "liman",
-    "technologies": [],
-    "relevance_score": 90,
-    "summary_source": "UAB-Online and Dropboard are deepening integration, linking berth planning with operational workflows to improve terminal operations",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
+    },
+    "editorial_fit_score": 67
   },
   {
     "id": "66a2ff803ec38e46",
@@ -459,9 +166,9 @@
     "source_feed": "https://feeds.feedburner.com/ceg",
     "published_at": "2026-09-24T05:00:00.000Z",
     "discovered_at": "2026-09-27T06:58:53.431Z",
-    "sector": "liman",
+    "sector": "is-makinalari",
     "technologies": [],
-    "relevance_score": 90,
+    "relevance_score": 130,
     "summary_source": "The new 40 P-Tier Compact Excavator combines impressive digging capability with an operating weight under 10,000 lbs., making it easy to transport between jobsites while offering powerful performance....",
     "editorial": {
       "title_tr": "",
@@ -472,127 +179,8 @@
       "meta_description": "",
       "hero_image": "",
       "reviewed": false
-    }
-  },
-  {
-    "id": "a00a288baa583fa5",
-    "status": "candidate",
-    "title_original": "Potain Cranes Support Construction of Indonesia's Presidential Palaces",
-    "source_name": "Construction Equipment Guide",
-    "source_url": "https://www.constructionequipmentguide.com/potain-cranes-support-construction-of-indonesias-presidential-palaces/72338",
-    "source_feed": "https://feeds.feedburner.com/ceg",
-    "published_at": "2026-09-24T05:00:00.000Z",
-    "discovered_at": "2026-09-27T06:58:53.431Z",
-    "sector": "liman",
-    "technologies": [],
-    "relevance_score": 90,
-    "summary_source": "Potain MC 310 and MC 205 tower cranes support construction of landmark buildings in Indonesia’s new capital....",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
-  },
-  {
-    "id": "e766444547e660dd",
-    "status": "candidate",
-    "title_original": "Valfabbrica project moves into final phase",
-    "source_name": "Tunnels & Tunnelling",
-    "source_url": "https://www.tunnelsandtunnelling.com/news/valfabbrica-project-move-into-final-phase/",
-    "source_feed": "https://www.tunnelsandtunnelling.com/feed/",
-    "published_at": "2026-09-25T07:06:42.000Z",
-    "discovered_at": "2026-09-27T06:58:53.643Z",
-    "sector": "is-makinalari",
-    "technologies": [],
-    "relevance_score": 86,
-    "summary_source": "Valfabbrica project move into final phase The new tunnels have opened to traffic and the upgrade of the existing tunnels is under way. The post Valfabbrica project moves into final phase appeared first on Tunnels and Tunnelling.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
-  },
-  {
-    "id": "14ecfe48c6bf2760",
-    "status": "candidate",
-    "title_original": "Metallica-Inspired 'Hetskid' Hits Charity Auction",
-    "source_name": "Construction Equipment Guide",
-    "source_url": "https://www.constructionequipmentguide.com/metallicainspired-hetskid-hits-charity-auction/72349",
-    "source_feed": "https://feeds.feedburner.com/ceg",
-    "published_at": "2026-09-25T05:00:00.000Z",
-    "discovered_at": "2026-09-27T06:58:53.430Z",
-    "sector": "liman",
-    "technologies": [],
-    "relevance_score": 80,
-    "summary_source": "Metallica’s 'All Within My Hands' Foundation, is partnering with CASE Construction Equipment in support of skilled trade education programs. ...",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
-  },
-  {
-    "id": "77dcef9317a05ec7",
-    "status": "candidate",
-    "title_original": "Port Authority Board Authorizes $110M Expansion of Newark Airport Terminal",
-    "source_name": "Construction Equipment Guide",
-    "source_url": "https://www.constructionequipmentguide.com/port-authority-board-authorizes-110m-expansion-of-newark-airport-terminal/72345",
-    "source_feed": "https://feeds.feedburner.com/ceg",
-    "published_at": "2026-09-25T05:00:00.000Z",
-    "discovered_at": "2026-09-27T06:58:53.431Z",
-    "sector": "liman",
-    "technologies": [],
-    "relevance_score": 80,
-    "summary_source": "Port Authority Board authorizes $110 million to plan north and south expansion of Terminal A. The first phase is planned to open in 2030....",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
-  },
-  {
-    "id": "0accdb8280e23b90",
-    "status": "candidate",
-    "title_original": "NAEDA, AED Announce Merger",
-    "source_name": "Construction Equipment Guide",
-    "source_url": "https://www.constructionequipmentguide.com/naeda-aed-announce-merger/72342",
-    "source_feed": "https://feeds.feedburner.com/ceg",
-    "published_at": "2026-09-24T05:00:00.000Z",
-    "discovered_at": "2026-09-27T06:58:53.431Z",
-    "sector": "is-makinalari",
-    "technologies": [],
-    "relevance_score": 80,
-    "summary_source": "The North American Equipment Dealers Association (NAEDA) and Associated Equipment Distributors (AED) announced plans to merge....",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
+    },
+    "editorial_fit_score": 65
   },
   {
     "id": "08eba99745511312",
@@ -605,7 +193,7 @@
     "discovered_at": "2026-09-27T06:58:53.431Z",
     "sector": "is-makinalari",
     "technologies": [],
-    "relevance_score": 80,
+    "relevance_score": 120,
     "summary_source": "The Advance team marks the production of its 20,000th mixer....",
     "editorial": {
       "title_tr": "",
@@ -616,31 +204,8 @@
       "meta_description": "",
       "hero_image": "",
       "reviewed": false
-    }
-  },
-  {
-    "id": "8b014e36a55e1d4c",
-    "status": "candidate",
-    "title_original": "Summit Truck Bodies Celebrates $50M Expansion",
-    "source_name": "Construction Equipment Guide",
-    "source_url": "https://www.constructionequipmentguide.com/summit-truck-bodies-celebrates-50m-expansion/72339",
-    "source_feed": "https://feeds.feedburner.com/ceg",
-    "published_at": "2026-09-24T05:00:00.000Z",
-    "discovered_at": "2026-09-27T06:58:53.431Z",
-    "sector": "is-makinalari",
-    "technologies": [],
-    "relevance_score": 80,
-    "summary_source": "...",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
+    },
+    "editorial_fit_score": 55
   },
   {
     "id": "c9bf9d8e29565d41",
@@ -651,9 +216,9 @@
     "source_feed": "https://www.tunnelsandtunnelling.com/feed/",
     "published_at": "2026-09-25T07:06:44.000Z",
     "discovered_at": "2026-09-27T06:58:53.643Z",
-    "sector": "madencilik",
+    "sector": "is-makinalari",
     "technologies": [],
-    "relevance_score": 76,
+    "relevance_score": 116,
     "summary_source": "TBM breaks through on Manila subway project The Metro Manila Subway is the Philippines’ first underground railway. The post TBM breaks through on Manila subway project appeared first on Tunnels and Tunnelling.",
     "editorial": {
       "title_tr": "",
@@ -664,54 +229,7 @@
       "meta_description": "",
       "hero_image": "",
       "reviewed": false
-    }
-  },
-  {
-    "id": "d547c6afe51babdb",
-    "status": "candidate",
-    "title_original": "Shetland inter-island tunnel moves a step closer",
-    "source_name": "Tunnels & Tunnelling",
-    "source_url": "https://www.tunnelsandtunnelling.com/news/shetland-inter-island-tunnel-moves-a-step-closer/",
-    "source_feed": "https://www.tunnelsandtunnelling.com/feed/",
-    "published_at": "2026-09-24T09:17:23.000Z",
-    "discovered_at": "2026-09-27T06:58:53.643Z",
-    "sector": "is-makinalari",
-    "technologies": [],
-    "relevance_score": 76,
-    "summary_source": "Shetland inter-island tunnel moves a step closer The Scottish government has confirmed funding for pre-construction work for the Yell Sound tunnel. The post Shetland inter-island tunnel moves a step closer appeared first on Tunnels and Tunnelling.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
-  },
-  {
-    "id": "5c16d3896d5f017f",
-    "status": "candidate",
-    "title_original": "Thames tunnel plan to heat homes receives funding boost",
-    "source_name": "Tunnels & Tunnelling",
-    "source_url": "https://www.tunnelsandtunnelling.com/news/thames-tunnel-plan-to-heat-homes-receives-funding-boost/",
-    "source_feed": "https://www.tunnelsandtunnelling.com/feed/",
-    "published_at": "2026-09-24T09:17:22.000Z",
-    "discovered_at": "2026-09-27T06:58:53.644Z",
-    "sector": "is-makinalari",
-    "technologies": [],
-    "relevance_score": 76,
-    "summary_source": "Thames tunnel plan to heat homes receives funding boost The London Strategic Heat Main will heat 650,000 homes. The post Thames tunnel plan to heat homes receives funding boost appeared first on Tunnels and Tunnelling.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
+    },
+    "editorial_fit_score": 55
   }
 ]
