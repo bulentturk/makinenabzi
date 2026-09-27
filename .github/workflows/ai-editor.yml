@@ -59,6 +59,17 @@ jobs:
           npm install -g @github/copilot
           copilot --version
 
+      - name: Validate Copilot token format
+        if: steps.prepare.outputs.count != '0'
+        env:
+          COPILOT_GITHUB_TOKEN: ${{ secrets.COPILOT_PAT }}
+        run: |
+          case "$COPILOT_GITHUB_TOKEN" in
+            github_pat_*) echo "Fine-grained PAT format detected." ;;
+            "") echo "::error::COPILOT_PAT secret is empty or missing."; exit 1 ;;
+            *) echo "::error::COPILOT_PAT is not a supported fine-grained PAT. Expected a token beginning with github_pat_."; exit 1 ;;
+          esac
+
       - name: Generate Turkish editorial drafts
         if: steps.prepare.outputs.count != '0'
         env:
