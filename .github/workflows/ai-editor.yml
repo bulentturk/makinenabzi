@@ -81,7 +81,7 @@ jobs:
             cat .tmp/editorial-prompt.txt
           } > .tmp/copilot-prompt.txt
 
-          copilot -p "$(cat .tmp/copilot-prompt.txt)" -s --no-ask-user --model gpt-4.1 > .tmp/editorial-response.txt
+          copilot -p "$(cat .tmp/copilot-prompt.txt)" -s --no-ask-user --model auto > .tmp/editorial-response.txt
 
           test -s .tmp/editorial-response.txt
           echo "Copilot response generated successfully."
