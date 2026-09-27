@@ -88,6 +88,32 @@ function idFor(url,title) {
 
 let previous = [];
 try { previous = JSON.parse(await fs.readFile(OUT,'utf8')); } catch {}
+
+const sourceByName = new Map(sources.map(source => [source.name, source]));
+previous = previous
+  .filter(item => (Date.parse(item.published_at || '') || 0) >= cutoff)
+  .map(item => {
+    const source = sourceByName.get(item.source_name) || {
+      name: item.source_name,
+      sector: item.sector || 'is-makinalari',
+      priority: 50
+    };
+    const pseudo = {
+      title: item.title_original || '',
+      contentSnippet: item.summary_source || ''
+    };
+    const text = [pseudo.title, pseudo.contentSnippet].join(' ');
+    const fit = editorialFit(pseudo, source);
+    return {
+      ...item,
+      sector: sectorFrom(text, source.sector),
+      technologies: tagsFrom(text),
+      editorial_fit_score: fit,
+      relevance_score: score(pseudo, source)
+    };
+  })
+  .filter(item => item.editorial_fit_score >= 30);
+
 const seen = new Set(previous.map(x => x.id));
 
 async function collectSource(source) {
