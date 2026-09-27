@@ -1,7 +1,7 @@
 [
   {
     "id": "f177b7411a7bddcc",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Geely counters BYD with 2.25 MW charging system",
     "source_name": "electrive",
     "source_url": "https://www.electrive.com/2026/09/24/geely-counters-byd-with-2-25-mw-charging-system/",
@@ -23,7 +23,7 @@
       "seo_title": "Geely’den 2,25 MW gücünde yeni şarj sistemi",
       "meta_description": "Geely’nin Smart Charging sistemi 2,25 MW güç ve 12C’ye kadar batarya şarj kapasitesiyle tanıtıldı. Kaynak, otomobiller için 4,5 dakikalık şarj süresi veriyor.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Kaynak başlığında sistem gücü 2,25 MW olarak belirtiliyor.",
         "Bataryanın şarj kapasitesi 12C’ye kadar veriliyor.",
@@ -50,7 +50,9 @@
         "Şarj süresi ve kapasite değerleri bağımsız olarak doğrulanmadı; sistemin test koşulları, uyumluluğu ve mobil makinelere uygulanabilirliği bilinmiyor."
       ],
       "generated_at": "2026-09-27T18:58:20.027Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-09-27T19:37:14.423Z",
+      "review_result": "published"
     }
   },
   {
