@@ -34,8 +34,9 @@ function normalized(s='') {
   return s.toLowerCase().replace(/\s+/g,' ').trim();
 }
 function hasTerm(text, term) {
-  const escaped = term.trim().replace(/[.*+?^$()|[\]\\{}]/g, '\\function normalized(s='') {
-  return s.toLowerCase().replace(/\s+/g,' ').trim();
+  const specials = "\\.^$*+?()[]{}|";
+  const escaped = term.trim().split('').map(ch => specials.includes(ch) ? '\\' + ch : ch).join('').replace(/\s+/g, '\\s+');
+  return new RegExp('(^|[^a-z0-9])' + escaped + '([^a-z0-9]|$)', 'i').test(text);
 }
 function tagsFrom(text) {
   const t = normalized(text);
