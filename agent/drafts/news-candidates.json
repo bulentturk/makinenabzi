@@ -222,7 +222,7 @@
   },
   {
     "id": "66a2ff803ec38e46",
-    "status": "drafted",
+    "status": "published",
     "title_original": "John Deere Delivers Big Performance and Compact Design with New 40 P-Tier Excavator Model",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/john-deere-delivers-big-performance-and-compact-design-with-new-40-ptier-excavator-model/72340",
@@ -241,7 +241,7 @@
       "seo_title": "John Deere 40 P-Tier kompakt ekskavatör tanıtıldı",
       "meta_description": "John Deere 40 P-Tier kompakt ekskavatör, 10.000 lb'nin altında işletme ağırlığıyla tanıtıldı. Kaynakta ayrıntılı teknik özellikler bulunmuyor.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Yeni modelin adı John Deere 40 P-Tier.",
         "Kaynak özeti işletme ağırlığını 10.000 lb'nin altında veriyor.",
@@ -264,7 +264,9 @@
         "Kaynak sayfasına erişim 403 hatasıyla sınırlı; eldeki özet motor, kazı derinliği, çalışma aralığı ve diğer teknik özellikleri içermiyor."
       ],
       "generated_at": "2026-09-27T17:54:49.218Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-09-27T19:39:08.707Z",
+      "review_result": "published"
     },
     "editorial_fit_score": 65
   },
