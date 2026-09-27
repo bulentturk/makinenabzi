@@ -2,7 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { events } from '../data/events';
 
-const now = new Date('2026-09-27T00:00:00+03:00');
+const now = new Date();
 const fmt = new Intl.DateTimeFormat('tr-TR',{day:'numeric',month:'short',year:'numeric'});
 const upcoming = [...events]
   .filter(event => new Date(event.end || event.start) >= now)
@@ -20,7 +20,7 @@ const years = [...new Set(upcoming.map(e => new Date(e.start).getFullYear()))];
   <section class="section">
     <div class="container">
       <div class="event-sector-strip">
-        {['İş Makinaları','Madencilik','Tarım Makinaları','Marine & Yatçılık','Off-Highway Teknolojileri','Havalimanı & GSE'].map(x => <span>{x}</span>)}
+        {['İş Makinaları','Madencilik','Tarım Makinaları','Marine & Yatçılık','Off-Highway Teknolojileri','Havalimanı & GSE','Elektronik & Komponent'].map(x => <span>{x}</span>)}
       </div>
 
       {years.map(year => (
