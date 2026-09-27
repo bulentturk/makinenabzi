@@ -1,7 +1,7 @@
 [
   {
     "id": "7c13084f801e5bf3",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Tonly delivers battery electric 75 t class TLE120 fleet to Wengfu Phosphate Mine",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/09/23/tonly-delivers-battery-electric-75-t-class-tle120-fleet-to-wengfu-phosphate-mine/",
@@ -15,20 +15,47 @@
     "relevance_score": 158,
     "summary_source": "Tonly Heavy Industries has recently completed a fleet delivery of the TLE120, its 75 t battery electric wide-body dump trucks, to Wengfu Phosphate Mine in Guizhou Province, China. Located at the boundary of Weng’an County and Fuquan City, the Baiyan Mining Area of Wengfu Phosphate Mine is a major modern open-pit phosphate mining operation. The The post Tonly delivers battery electric 75 t class TLE120 fleet to Wengfu Phosphate Mine appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Tonly, Wengfu Fosfat Madeni’ne 75 tonluk elektrikli TLE120 filosu teslim etti",
+      "dek_tr": "Tonly Heavy Industries, Çin’deki Wengfu Fosfat Madeni’ne 75 ton sınıfındaki bataryalı elektrikli TLE120 geniş gövdeli damperli kamyonlardan oluşan bir filo teslim etti.",
+      "summary_tr": "Tonly Heavy Industries, Guizhou eyaletindeki Wengfu Fosfat Madeni’ne TLE120 model bataryalı elektrikli geniş gövdeli damperli kamyonlardan oluşan bir filo teslimatını tamamladı. Model, kaynakta 75 ton sınıfında tanımlanıyor.\n\nAraçlar, Weng’an ilçesi ile Fuquan şehri sınırındaki Baiyan Madencilik Alanı’nda faaliyet gösteren açık ocak fosfat madenciliği operasyonunda kullanılacak. Kaynak, filodaki araç sayısı, batarya kapasitesi, menzil veya şarj altyapısı hakkında ayrıntı vermiyor.",
+      "why_it_matters_tr": "75 ton sınıfındaki taşıma ekipmanlarının elektrikli filolarla açık ocak madenciliğine dahil edilmesi, ağır hizmet taşımacılığında elektrifikasyonun uygulama alanını gösteriyor. Operasyonel sonuçları değerlendirmek için saha verileri ve şarj stratejisine ilişkin ek bilgi gerekiyor.",
+      "seo_title": "Tonly’den Wengfu Madeni’ne elektrikli TLE120 filosu",
+      "meta_description": "Tonly, Çin’deki Wengfu Fosfat Madeni’ne 75 ton sınıfı bataryalı elektrikli TLE120 damperli kamyonlardan oluşan filo teslim etti.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Tonly Heavy Industries, TLE120 teslimatını Wengfu Fosfat Madeni’ne tamamladı.",
+        "TLE120, 75 ton sınıfında bataryalı elektrikli geniş gövdeli damperli kamyon olarak tanımlanıyor.",
+        "Wengfu Fosfat Madeni, Çin’in Guizhou eyaletindeki Baiyan Madencilik Alanı’nda bulunuyor.",
+        "Baiyan sahası açık ocak fosfat madenciliği operasyonu olarak tanımlanıyor."
+      ],
+      "suggested_tags": [
+        "Tonly",
+        "TLE120",
+        "bataryalı elektrikli damperli kamyon",
+        "açık ocak madenciliği",
+        "fosfat madenciliği"
+      ],
+      "suggested_sector": "madencilik",
+      "suggested_technologies": [
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "Tonly’nin Wengfu Fosfat Madeni’ne TLE120 filosu teslim ettiği bilgisi",
+        "TLE120’nin 75 ton sınıfında bataryalı elektrikli geniş gövdeli damperli kamyon olarak tanımlanması",
+        "Baiyan sahasının Guizhou’daki açık ocak fosfat madeni olduğu bilgisi"
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfasına erişim HTTP 403 nedeniyle sınırlı; araç sayısı, teknik özellikler, teslimat tarihi ve saha performansına ilişkin ek doğrulama bulunmuyor."
+      ],
+      "generated_at": "2026-09-27T17:53:09.954Z",
+      "generated_by": "github-models"
     },
     "editorial_fit_score": 87
   },
   {
     "id": "0b1b885ccc5ed903",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Jevons Robotics launches battery electric ARTEV1000 Pre-Split System",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/09/23/jevons-robotics-launches-battery-electric-artev1000-pre-split-system/",
@@ -42,20 +69,51 @@
     "relevance_score": 158,
     "summary_source": "Jevons Robotics has officially launched the ARTEV1000 Pre-Split System, a battery-electric robotic solution designed to automate the loading of packaged pre-split explosives. The new system is designed to remove people from the highwall environment and eliminate the need for manual handling of explosives and deployment equipment by transferring the task to a remotely operated control The post Jevons Robotics launches battery electric ARTEV1000 Pre-Split System appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Jevons Robotics, bataryalı elektrikli ARTEV1000 Pre-Split System’i tanıttı",
+      "dek_tr": "Jevons Robotics, paketlenmiş ön çatlatma patlayıcılarının yüklenmesini otomatikleştirmeyi amaçlayan uzaktan kumandalı ARTEV1000 Pre-Split System’i piyasaya sundu.",
+      "summary_tr": "Jevons Robotics, paketlenmiş ön çatlatma (pre-split) patlayıcılarının yüklenmesini otomatikleştirmek üzere tasarlanan ARTEV1000 Pre-Split System’in lansmanını yaptı. Sistem, kaynakta bataryalı elektrikli ve robotik bir çözüm olarak tanımlanıyor.\n\nÇözümün amacı, yüksek duvar (highwall) ortamındaki insan varlığını ve patlayıcılar ile yerleştirme ekipmanlarının manuel taşınmasını azaltmak. Operasyonun uzaktan kumandalı bir kontrol üzerinden yürütülmesi planlanıyor; ancak kaynakta kapasite, çalışma süresi, doğrulama seviyesi veya güvenlik sertifikasyonlarına ilişkin ayrıntı yer almıyor.",
+      "why_it_matters_tr": "Patlayıcı hazırlama ve yerleştirme gibi yüksek riskli madencilik görevlerinde operatörü tehlikeli çalışma alanından uzaklaştırmak, iş güvenliği ve süreç standardizasyonu açısından önemli olabilir. Bu faydanın ölçülebilmesi için saha testleri, insan-makine etkileşimi ve güvenlik doğrulama sonuçları incelenmeli.",
+      "seo_title": "Jevons Robotics’ten elektrikli ARTEV1000 sistemi",
+      "meta_description": "Jevons Robotics, ön çatlatma patlayıcılarının yüklenmesini otomatikleştiren bataryalı elektrikli ARTEV1000 robotik sistemini tanıttı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Jevons Robotics, ARTEV1000 Pre-Split System’i resmi olarak tanıttı.",
+        "Sistem, bataryalı elektrikli robotik çözüm olarak tanımlanıyor.",
+        "Çözüm, paketlenmiş ön çatlatma patlayıcılarının yüklenmesini otomatikleştirmek üzere tasarlanmış.",
+        "Sistem, uzaktan kumandalı kontrol ile çalışacak şekilde kurgulanıyor.",
+        "Amaçlardan biri, yüksek duvar ortamındaki insan varlığını ve manuel patlayıcı elleçlemesini azaltmak."
+      ],
+      "suggested_tags": [
+        "Jevons Robotics",
+        "ARTEV1000",
+        "madencilik robotları",
+        "patlayıcı elleçleme",
+        "uzaktan kumanda"
+      ],
+      "suggested_sector": "madencilik",
+      "suggested_technologies": [
+        "elektrifikasyon",
+        "otonomi-ai",
+        "fonksiyonel-guvenlik"
+      ],
+      "source_facts_used": [
+        "ARTEV1000 Pre-Split System’in lansmanı",
+        "Sistemin bataryalı elektrikli ve robotik çözüm olarak tanımlanması",
+        "Paketlenmiş ön çatlatma patlayıcılarının yüklenmesini otomatikleştirme amacı",
+        "Uzaktan kumandalı kontrol ve yüksek duvardaki insan varlığını azaltma hedefi"
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfasına erişim HTTP 403 nedeniyle sınırlı; sistemin teknik kapasitesi, otonomi düzeyi, güvenlik sertifikaları ve saha sonuçları doğrulanamıyor."
+      ],
+      "generated_at": "2026-09-27T17:53:09.954Z",
+      "generated_by": "github-models"
     },
     "editorial_fit_score": 87
   },
   {
     "id": "bc3cad8c509dcf70",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Greenore Port enhances crane safety",
     "source_name": "Port Strategy",
     "source_url": "https://www.portstrategy.com/news/equipment/greenore-port-enhances-crane-safety/",
@@ -69,14 +127,47 @@
     "relevance_score": 148,
     "summary_source": "Greenore Port is deploying advanced camera technology on harbour cranes to improve safety, visibility and incident management",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Greenore Port, mobil liman vinçlerinde kamera tabanlı güvenliği güçlendirdi",
+      "dek_tr": "İrlanda’daki Greenore Port, Liebherr mobil liman vinçlerine gerçek zamanlı görüntüleme, olay inceleme ve öğrenme süreçlerini destekleyen kamera-telematik sistemi kurdu.",
+      "summary_tr": "Greenore Port, kargo operasyonları sırasında görünürlüğü ve olay yönetimini geliştirmek amacıyla Liebherr mobil liman vinçlerine Camera Telematics ile geliştirilen özel bir kamera sistemi uyguladı. Sistem, kabin operatörünün çalışma alanı görünümünü tekrarlayan ikinci bir kamera ile mevcut bom kamerasını birlikte kullanıyor.\n\nİki görüntü akışı kabin içindeki monitörde gerçek zamanlı gösteriliyor; üst yönetim ve SHEQ temsilcileri de bulut tabanlı platform üzerinden bu akışlara erişebiliyor. 341 tonluk vinçlerden alınan video ve destekleyici veriler, güvenlik veya operasyon olaylarının incelenmesinde kullanılabiliyor.\n\nLiman ayrıca görüntüleri cezalandırıcı bir araç yerine eğitim ve olaylardan öğrenme amacıyla kullanmak üzere Camera Learning Opportunities adlı bir raporlama katmanı ekledi. Bu yapı, mevcut uygunsuzluk ve ihlal bildirim sistemleriyle birlikte çalışıyor.",
+      "why_it_matters_tr": "Kamera görüntüsünü gerçek zamanlı operasyon desteği, olay araştırması ve no-blame güvenlik kültürüyle birleştirmek, liman ekipmanlarında fonksiyonel güvenlik süreçlerinin veriyle beslenmesine yardımcı olabilir. Yaklaşımın etkisi; olay sıklığı, müdahale süresi ve alınan düzeltici aksiyonlarla ölçülebilir.",
+      "seo_title": "Greenore Port vinç güvenliğinde kamera telematiği kullanıyor",
+      "meta_description": "Greenore Port, Liebherr mobil liman vinçlerinde gerçek zamanlı görüntüleme ve olay incelemeyi destekleyen kamera telematiği sistemi kurdu.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Greenore Port, Liebherr mobil liman vinçlerine gelişmiş kamera sistemi kurdu.",
+        "Sistem, kabin tabanındaki kamera ile bomun üstündeki mevcut kameradan gelen görüntüleri birleştiriyor.",
+        "Görüntüler kabin içi monitörde gerçek zamanlı izlenebiliyor.",
+        "Yönetim ve SHEQ temsilcileri görüntülere bulut tabanlı platform üzerinden erişebiliyor.",
+        "341 tonluk vinçlerden alınan video ve destekleyici veriler olay incelemelerinde kullanılabiliyor.",
+        "Camera Learning Opportunities katmanı, olaylardan öğrenme ve riskleri belirleme amacı taşıyor."
+      ],
+      "suggested_tags": [
+        "Greenore Port",
+        "Liebherr",
+        "mobil liman vinci",
+        "kamera telematiği",
+        "liman güvenliği",
+        "SHEQ"
+      ],
+      "suggested_sector": "liman",
+      "suggested_technologies": [
+        "elektronik-telematik",
+        "fonksiyonel-guvenlik"
+      ],
+      "source_facts_used": [
+        "Greenore Port’un Liebherr mobil liman vinçlerine kamera sistemi uygulaması",
+        "Bom ve kabin tabanındaki kamera görüntülerinin gerçek zamanlı birleştirilmesi",
+        "Bulut erişimi ve 341 tonluk vinçlerden veri alınması",
+        "Görüntülerin olay inceleme ve eğitim amacıyla kullanılması",
+        "Camera Learning Opportunities raporlama katmanının eklenmesi"
+      ],
+      "uncertainty_notes": [
+        "Sistemin kamera çözünürlüğü, kayıt süresi, veri saklama politikası, siber güvenlik kontrolleri ve ölçülen güvenlik kazanımları kaynakta belirtilmiyor."
+      ],
+      "generated_at": "2026-09-27T17:53:09.954Z",
+      "generated_by": "github-models"
     },
     "editorial_fit_score": 77
   },
