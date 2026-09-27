@@ -1,0 +1,280 @@
+[
+  {
+    "name": "International Mining",
+    "url": "https://im-mining.com/",
+    "kind": "industry_media",
+    "focus": [
+      "madencilik",
+      "mobil-makine",
+      "elektrifikasyon",
+      "otonomi"
+    ],
+    "status": "active-rss",
+    "feed": "https://im-mining.com/feed/",
+    "priority": 100,
+    "origin": "user-list"
+  },
+  {
+    "name": "Mining Technology",
+    "url": "https://www.mining-technology.com/",
+    "kind": "industry_media",
+    "focus": [
+      "madencilik",
+      "ekipman",
+      "teknoloji"
+    ],
+    "status": "watchlist-web",
+    "priority": 95,
+    "origin": "user-list"
+  },
+  {
+    "name": "electrive",
+    "url": "https://www.electrive.com/newsletter/",
+    "kind": "industry_media",
+    "focus": [
+      "elektrifikasyon",
+      "batarya",
+      "sarj",
+      "off-highway",
+      "ticari-arac"
+    ],
+    "status": "watchlist-web",
+    "priority": 90,
+    "origin": "user-list"
+  },
+  {
+    "name": "Charged EVs",
+    "url": "https://chargedevs.com/",
+    "kind": "industry_media",
+    "focus": [
+      "elektrifikasyon",
+      "batarya",
+      "guc-elektronigi",
+      "sarj"
+    ],
+    "status": "watchlist-web",
+    "priority": 84,
+    "origin": "user-list"
+  },
+  {
+    "name": "GlobeNewswire",
+    "url": "https://www.globenewswire.com/",
+    "kind": "press_release_wire",
+    "focus": [
+      "urun-lansmani",
+      "sirket-duyurusu"
+    ],
+    "status": "watchlist-web-filtered",
+    "priority": 55,
+    "origin": "user-list"
+  },
+  {
+    "name": "EV Magazine",
+    "url": "https://evmagazine.com/",
+    "kind": "industry_media",
+    "focus": [
+      "elektrifikasyon",
+      "batarya",
+      "sarj",
+      "enerji"
+    ],
+    "status": "watchlist-web",
+    "priority": 72,
+    "origin": "user-list"
+  },
+  {
+    "name": "EV Europe",
+    "url": "https://eveurope.eu/",
+    "kind": "industry_media",
+    "focus": [
+      "elektrifikasyon",
+      "avrupa"
+    ],
+    "status": "watchlist-web",
+    "priority": 65,
+    "origin": "user-list"
+  },
+  {
+    "name": "Power & Motion",
+    "url": "https://www.powermotiontech.com/",
+    "kind": "technical_media",
+    "focus": [
+      "hidrolik",
+      "pnömatik",
+      "elektrikli-tahrik",
+      "motion-control",
+      "komponent"
+    ],
+    "status": "watchlist-web",
+    "priority": 98,
+    "origin": "user-list"
+  },
+  {
+    "name": "Vehicle Dynamics International",
+    "url": "https://www.vehicledynamicsinternational.com/",
+    "kind": "technical_media",
+    "focus": [
+      "sasi",
+      "steer-by-wire",
+      "brake-by-wire",
+      "sensor",
+      "test",
+      "simulation"
+    ],
+    "status": "watchlist-web-filtered",
+    "priority": 72,
+    "origin": "user-list"
+  },
+  {
+    "name": "Elektor",
+    "url": "https://www.elektormagazine.com/",
+    "kind": "technical_media",
+    "focus": [
+      "elektronik",
+      "embedded",
+      "sensor",
+      "haberlesme",
+      "kontrol"
+    ],
+    "status": "watchlist-web-filtered",
+    "priority": 68,
+    "origin": "user-list"
+  },
+  {
+    "name": "Control Design",
+    "url": "https://www.controldesign.com/",
+    "kind": "technical_media",
+    "focus": [
+      "kontrol",
+      "otomasyon",
+      "sensor",
+      "industrial-network",
+      "safety"
+    ],
+    "status": "watchlist-web-filtered",
+    "priority": 75,
+    "origin": "user-list"
+  },
+  {
+    "name": "Forum Makine",
+    "url": null,
+    "kind": "industry_media",
+    "focus": [
+      "is-makinalari",
+      "turkiye"
+    ],
+    "status": "needs-url-verification",
+    "priority": 85,
+    "origin": "user-list"
+  },
+  {
+    "name": "MAG Update",
+    "url": "https://www.magupdate.co.uk/",
+    "kind": "industry_media",
+    "focus": [
+      "machinery",
+      "construction",
+      "lifting",
+      "industrial"
+    ],
+    "status": "watchlist-web",
+    "priority": 70,
+    "origin": "user-list"
+  },
+  {
+    "name": "Ground Handling International",
+    "url": "https://www.groundhandling.com/",
+    "kind": "industry_media",
+    "focus": [
+      "havaalani-gse",
+      "ground-support-equipment",
+      "elektrifikasyon"
+    ],
+    "status": "watchlist-web",
+    "priority": 90,
+    "origin": "user-list"
+  },
+  {
+    "name": "GSE Expo Europe",
+    "url": "https://www.gse-expo-europe.com/",
+    "kind": "event_source",
+    "focus": [
+      "havaalani-gse",
+      "ground-support-equipment",
+      "urun-lansmani"
+    ],
+    "status": "watchlist-event",
+    "priority": 88,
+    "origin": "user-list"
+  },
+  {
+    "name": "iVT International",
+    "url": "https://www.ivtinternational.com/",
+    "kind": "technical_media",
+    "focus": [
+      "off-highway",
+      "elektrifikasyon",
+      "hidrolik",
+      "otonomi",
+      "komponent"
+    ],
+    "status": "watchlist-web",
+    "priority": 100,
+    "origin": "user-list"
+  },
+  {
+    "name": "Off-Highway",
+    "url": "https://www.offhighway.com/",
+    "kind": "industry_media",
+    "focus": [
+      "off-highway",
+      "mobil-makine",
+      "komponent",
+      "elektrifikasyon"
+    ],
+    "status": "watchlist-web",
+    "priority": 100,
+    "origin": "user-list"
+  },
+  {
+    "name": "Port Strategy",
+    "url": "https://www.portstrategy.com/",
+    "kind": "industry_media",
+    "focus": [
+      "liman",
+      "ellecleme",
+      "terminal"
+    ],
+    "status": "active-rss",
+    "feed": "https://www.portstrategy.com/feed",
+    "priority": 90,
+    "origin": "existing"
+  },
+  {
+    "name": "Construction Equipment Guide",
+    "url": "https://www.constructionequipmentguide.com/",
+    "kind": "industry_media",
+    "focus": [
+      "is-makinalari",
+      "urun-lansmani"
+    ],
+    "status": "active-rss",
+    "feed": "https://feeds.feedburner.com/ceg",
+    "priority": 80,
+    "origin": "existing"
+  },
+  {
+    "name": "Tunnels & Tunnelling",
+    "url": "https://www.tunnelsandtunnelling.com/",
+    "kind": "industry_media",
+    "focus": [
+      "tunel",
+      "is-makinalari",
+      "madencilik"
+    ],
+    "status": "active-rss",
+    "feed": "https://www.tunnelsandtunnelling.com/feed/",
+    "priority": 76,
+    "origin": "existing"
+  }
+]
