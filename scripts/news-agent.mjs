@@ -103,7 +103,13 @@ const seen = new Set(previous.map(x => x.id));
 async function collectSource(source) {
   const started = Date.now();
   try {
-    const feed = await parser.parseURL(source.url);
+    const response = await fetch(source.url, {
+      signal: AbortSignal.timeout(12000),
+      headers: { 'user-agent': 'MakineNabziNewsAgent/1.0 (+https://makinenabzi.com)' }
+    });
+    if (!response.ok) throw new Error('HTTP ' + response.status);
+    const xml = await response.text();
+    const feed = await parser.parseString(xml);
     const items = [];
     for (const item of (feed.items || []).slice(0, MAX_PER_SOURCE)) {
       const date = Date.parse(item.isoDate || item.pubDate || '') || Date.now();
