@@ -52,15 +52,15 @@ const highlights = [
     <div class="container hero-v2-content">
       <span class="eyebrow">Mobil Makine Teknolojileri Platformu</span>
       <h1>Makinenin kendisinden <span>onu mümkün kılan teknolojiye.</span></h1>
-      <p class="lead">İş makinaları, madencilik, liman ekipmanları, tarım makinaları, araç üstü ekipmanlar ve elektrifikasyonda güncel haber, teknik analiz, saha bilgisi ve teknoloji radarını tek yerde buluşturuyoruz.</p>
+      <p class="lead">İş makinaları, madencilik, liman, tarım, araç üstü ekipman, havalimanı GSE ve marine teknolojilerinde; motor, güç aktarma ve elektrifikasyon gelişmelerini teknik bağlamıyla takip ediyoruz.</p>
       <div class="hero-actions">
         <a class="button primary" href="#son-haberler">Son haberleri oku</a>
         <a class="button ghost glass" href="#sektorler">Sektörleri keşfet</a>
       </div>
       <div class="hero-stats">
-        <div><strong>6</strong><span>Ana sektör</span></div>
-        <div><strong>8</strong><span>Teknoloji alanı</span></div>
-        <div><strong>8</strong><span>İçerik formatı</span></div>
+        <div><strong>{sectors.length}</strong><span>Ana sektör</span></div>
+        <div><strong>{technologies.length}</strong><span>Teknoloji alanı</span></div>
+        <div><strong>{editorialFormats.length}</strong><span>İçerik formatı</span></div>
       </div>
     </div>
   </section>
@@ -81,13 +81,14 @@ const highlights = [
               <a class:list={['pulse-story', index === 0 && 'pulse-story-lead']} href={href(`/haberler/${item.slug}/`)}>
                 <div class="pulse-story-meta">
                   <span class="tag">{sectorLabels[item.sector] || item.sector}</span>
+                  {'format' in item && item.format === 'gorus-analiz' && <span class="tag">Görüş / Analiz</span>}
                   <time datetime={item.site_published_at || item.source_published_at}>
                     Yayın: {dateFormat.format(new Date(item.site_published_at || item.source_published_at))}
                   </time>
                 </div>
                 <h3>{item.title}</h3>
                 <p>{item.dek}</p>
-                <span class="pulse-story-bottom"><small>Kaynak: {item.source_name}</small><strong>Haberi oku →</strong></span>
+                <span class="pulse-story-bottom"><small>Kaynak: {item.source_name}</small><strong>{'format' in item && item.format === 'gorus-analiz' ? 'Yazıyı oku →' : 'Haberi oku →'}</strong></span>
               </a>
             ))}
           </div>
@@ -136,18 +137,18 @@ const highlights = [
     <div class="container">
       <div class="section-head">
         <div><span class="eyebrow">Sektörler</span><h2>Makinenin çalıştığı her saha.</h2></div>
-        <p>İnşaattan yeraltına, limandan tarlaya; farklı sektörleri aynı teknik dil altında birleştiren içerik omurgası.</p>
+        <p>Şantiyeden madene, limandan aprona ve denize; makineleri ortak motor, yürüyüş grubu, kontrol ve enerji teknolojileriyle birlikte ele alıyoruz.</p>
       </div>
       <div class="sector-grid">
         {sectors.map((sector, i) => (
           <article class:list={['sector-card', i === 0 && 'sector-card-featured']}>
-            <img src={sector.image} alt={sector.title} loading={i === 0 ? 'eager' : 'lazy'} />
+            <img src={sector.image.startsWith('http') ? sector.image : href(sector.image)} alt={sector.title} loading={i === 0 ? 'eager' : 'lazy'} />
             <div class="sector-overlay"></div>
             <div class="sector-content">
               <span>{sector.kicker}</span>
               <h3>{sector.title}</h3>
               <p>{sector.description}</p>
-              <a href={href('/haberler/')}>İçerikleri gör →</a>
+              <a href={href(`/haberler/?sektor=${sector.slug}`)}>İçerikleri gör →</a>
             </div>
           </article>
         ))}

@@ -21,7 +21,8 @@ function parseJson(text) {
 const result = parseJson(raw);
 if (!Array.isArray(result.drafts)) throw new Error('AI response missing drafts array');
 
-const allowedSectors = new Set(['is-makinalari','madencilik','liman','tarim','arac-ustu-ekipman','elektrifikasyon']);
+const allowedSectors = new Set(['is-makinalari','madencilik','liman','tarim','arac-ustu-ekipman','havaalani-gse','marine-yatcilik','elektrifikasyon']);
+const allowedFormats = new Set(['haber','gorus-analiz']);
 const allowedTech = new Set(['elektrifikasyon','hidrolik','yuruyus-guc-aktarma','elektronik-telematik','otonomi-ai','emisyon-stage-v','fonksiyonel-guvenlik','termal-yonetim']);
 
 const byId = new Map();
@@ -52,6 +53,7 @@ for (const item of candidates) {
     meta_description: String(draft.meta_description || '').trim(),
     suggested_tags: Array.isArray(draft.suggested_tags) ? draft.suggested_tags.slice(0,12) : [],
     suggested_sector: allowedSectors.has(draft.suggested_sector) ? draft.suggested_sector : item.sector,
+    editorial_format: allowedFormats.has(draft.editorial_format) ? draft.editorial_format : 'haber',
     suggested_technologies: Array.isArray(draft.suggested_technologies)
       ? draft.suggested_technologies.filter(x => allowedTech.has(x)).slice(0,8)
       : item.technologies,

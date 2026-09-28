@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-label="Havalimanı yer destek ekipmanı çizimi">
+  <defs>
+    <linearGradient id="ramp" x2="1" y2="1"><stop stop-color="#182737"/><stop offset="1" stop-color="#345264"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#76daed" stop-opacity=".32"/><stop offset="1" stop-color="#76daed" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#91d8e2" stroke-opacity=".09"/></pattern>
+  </defs>
+  <rect width="1200" height="720" fill="url(#ramp)"/><rect width="1200" height="720" fill="url(#grid)"/><circle cx="750" cy="315" r="360" fill="url(#glow)"/>
+  <g fill="none" stroke="#d4eefa" stroke-linejoin="round" stroke-linecap="round">
+    <path d="m275 224 376 61 277-30 43 13-284 64-69 69-41-6 22-71-324-64Z" fill="#617d8c" stroke-width="5"/>
+    <path d="m670 336-7 117m-324 107h600" stroke-width="5" stroke-opacity=".7"/>
+    <path d="M326 467h258l40 83H308v-55Z" fill="#206077" stroke-width="7"/>
+    <path d="M365 465v-73h118l58 73m-158-52h86m-84 52v-32m106 32v-32M625 504h115" stroke-width="6"/>
+    <circle cx="379" cy="550" r="39" fill="#172b38" stroke-width="7"/><circle cx="548" cy="550" r="39" fill="#172b38" stroke-width="7"/>
+    <path d="m750 508 63-16 25 11" stroke="#f0ad61" stroke-width="6"/>
+  </g>
+  <path d="M162 600h843M201 621h110m555 0h94" stroke="#f0ad61" stroke-opacity=".6" stroke-width="5"/>
+</svg>

@@ -63,6 +63,15 @@ export const events = [
     importance: 'high'
   },
   {
+    name: 'GHI Annual Conference 2026',
+    start: '2026-12-01', end: '2026-12-03',
+    city: 'Londra', country: 'Birleşik Krallık',
+    sector: 'Havalimanı & GSE',
+    focus: 'Yer hizmetleri, GSE tedarikçileri, apron operasyonları ve ekipman teknolojileri',
+    url: 'https://annual.groundhandling.com/',
+    importance: 'medium'
+  },
+  {
     name: 'bauma CHINA 2026',
     start: '2026-11-23', end: '2026-11-27',
     city: 'Şanghay', country: 'Çin',
@@ -162,6 +171,24 @@ export const events = [
     importance: 'high'
   },
   {
+    name: 'International GSE Expo 2027',
+    start: '2027-10-19', end: '2027-10-21',
+    city: 'New Orleans', country: 'ABD',
+    sector: 'Havalimanı & GSE',
+    focus: 'Yer destek ekipmanları, apron araçları, elektrikli GSE ve yeni ürünler',
+    url: 'https://www.gseexpo.com/',
+    importance: 'high'
+  },
+  {
+    name: 'IBEX 2027',
+    start: '2027-12-07', end: '2027-12-09',
+    city: 'Tampa', country: 'ABD',
+    sector: 'Marine & Yatçılık',
+    focus: 'Tekne üretimi, marine bileşenler, tahrik, elektrik sistemleri ve teknik yenilikler',
+    url: 'https://www.ibexshow.com/',
+    importance: 'high'
+  },
+  {
     name: 'bauma 2028',
     start: '2028-04-03', end: '2028-04-09',
     city: 'Münih', country: 'Almanya',
@@ -191,9 +218,8 @@ export const events = [
   },
   {
     name: 'GSE Expo Europe 2028',
-    start: '2028-09-01', end: null,
-    date_label: '2028 — kesin tarih açıklanacak',
-    city: 'Açıklanacak', country: 'Avrupa',
+    start: '2028-09-26', end: '2028-09-28',
+    city: 'Lizbon', country: 'Portekiz',
     sector: 'Havalimanı & GSE',
     focus: 'Ground support equipment, elektrikli GSE, şarj, apron ve yer hizmetleri teknolojileri',
     url: 'https://www.gse-expo-europe.com/',

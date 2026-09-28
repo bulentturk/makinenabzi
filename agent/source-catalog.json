@@ -202,7 +202,8 @@
     "kind": "industry_media",
     "focus": [
       "havaalani-gse",
-      "ground-support-equipment",
+      "yer-hizmetleri",
+      "ekipman",
       "elektrifikasyon"
     ],
     "status": "watchlist-web",
@@ -332,5 +333,197 @@
     "feed": "https://www.teknikport.com/feed/",
     "priority": 82,
     "origin": "user-list"
+  },
+  {
+    "name": "Marine Industry News",
+    "url": "https://marineindustrynews.co.uk/",
+    "kind": "industry_media",
+    "focus": [
+      "marine-yatcilik",
+      "tekne-ekipmani",
+      "elektrikli-tahrik"
+    ],
+    "status": "active-rss",
+    "feed": "https://marineindustrynews.co.uk/feed/",
+    "priority": 88,
+    "origin": "sector-expansion"
+  },
+  {
+    "name": "Marine Industry News Electric Boats",
+    "url": "https://marineindustrynews.co.uk/tag/electric-boats/",
+    "kind": "industry_media",
+    "focus": [
+      "marine-yatcilik",
+      "elektrifikasyon",
+      "tahrik"
+    ],
+    "status": "active-rss",
+    "feed": "https://marineindustrynews.co.uk/tag/electric-boats/feed/",
+    "priority": 92,
+    "origin": "sector-expansion"
+  },
+  {
+    "name": "Passenger Terminal Today",
+    "url": "https://www.passengerterminaltoday.com/news/ground-support",
+    "kind": "industry_media",
+    "focus": [
+      "havaalani-gse",
+      "yer-destek-ekipmani",
+      "elektrifikasyon"
+    ],
+    "status": "active-rss-filtered",
+    "feed": "https://www.passengerterminaltoday.com/feed/",
+    "priority": 86,
+    "origin": "sector-expansion"
+  },
+  {
+    "name": "Aviation24 Ground Handling",
+    "url": "https://www.aviation24.be/category/ground-handling/",
+    "kind": "industry_media",
+    "focus": [
+      "havaalani-gse",
+      "yer-hizmetleri"
+    ],
+    "status": "active-rss-filtered",
+    "feed": "https://www.aviation24.be/category/ground-handling/feed/",
+    "priority": 72,
+    "origin": "sector-expansion"
+  },
+  {
+    "name": "Aviation Pros Ground Support Worldwide",
+    "url": "https://www.aviationpros.com/ground-support-worldwide/gse",
+    "kind": "industry_media",
+    "focus": [
+      "havaalani-gse",
+      "gse-urunleri",
+      "teknoloji"
+    ],
+    "status": "watchlist-web",
+    "priority": 95,
+    "origin": "sector-expansion"
+  },
+  {
+    "name": "Airport Industry-News Ground Support",
+    "url": "https://airportindustry-news.com/category/ground-support/",
+    "kind": "industry_media",
+    "focus": [
+      "havaalani-gse",
+      "yer-destek-ekipmani"
+    ],
+    "status": "watchlist-web",
+    "priority": 90,
+    "origin": "sector-expansion"
+  },
+  {
+    "name": "Powertrain International Off-Highway",
+    "url": "https://www.powertraininternationalweb.com/category/off-highway/",
+    "kind": "technical_media",
+    "focus": [
+      "dizel-motor",
+      "sanziman",
+      "aks",
+      "yuruyus-grubu",
+      "is-makinalari"
+    ],
+    "status": "active-rss",
+    "feed": "https://www.powertraininternationalweb.com/category/off-highway/feed/",
+    "priority": 88,
+    "origin": "sector-expansion"
+  },
+  {
+    "name": "Powertrain International Marine",
+    "url": "https://www.powertraininternationalweb.com/category/marine/",
+    "kind": "technical_media",
+    "focus": [
+      "marine-yatcilik",
+      "marine-motor",
+      "guc-aktarma"
+    ],
+    "status": "active-rss",
+    "feed": "https://www.powertraininternationalweb.com/category/marine/feed/",
+    "priority": 85,
+    "origin": "sector-expansion"
+  },
+  {
+    "name": "Power Progress Off-Highway",
+    "url": "https://www.powerprogress.com/markets/off-highway",
+    "kind": "technical_media",
+    "focus": [
+      "dizel-motor",
+      "sanziman",
+      "off-highway",
+      "elektrifikasyon"
+    ],
+    "status": "watchlist-web-priority",
+    "priority": 98,
+    "origin": "sector-expansion"
+  },
+  {
+    "name": "DEUTZ Press Releases",
+    "url": "https://www.deutz.com/en/news/press-releases/",
+    "kind": "manufacturer_pressroom",
+    "focus": [
+      "dizel-motor",
+      "hibrit",
+      "elektrifikasyon"
+    ],
+    "status": "watchlist-web",
+    "priority": 90,
+    "origin": "sector-expansion"
+  },
+  {
+    "name": "Cummins Press Releases",
+    "url": "https://www.cummins.com/en-na/news/press-releases",
+    "kind": "manufacturer_pressroom",
+    "focus": [
+      "dizel-motor",
+      "aftertreatment",
+      "elektrifikasyon"
+    ],
+    "status": "watchlist-web",
+    "priority": 90,
+    "origin": "sector-expansion"
+  },
+  {
+    "name": "ZF Press",
+    "url": "https://press.zf.com/press/en/start/homepage.html",
+    "kind": "manufacturer_pressroom",
+    "focus": [
+      "sanziman",
+      "aks",
+      "guc-aktarma",
+      "elektrifikasyon"
+    ],
+    "status": "watchlist-web",
+    "priority": 88,
+    "origin": "sector-expansion"
+  },
+  {
+    "name": "Allison Transmission Newsroom",
+    "url": "https://www.allisontransmission.com/newsroom",
+    "kind": "manufacturer_pressroom",
+    "focus": [
+      "off-highway",
+      "sanziman",
+      "aks",
+      "yuruyus-grubu"
+    ],
+    "status": "watchlist-web",
+    "priority": 92,
+    "origin": "sector-expansion"
+  },
+  {
+    "name": "Dana Press Releases",
+    "url": "https://www.dana.com/newsroom/press-releases/",
+    "kind": "manufacturer_pressroom",
+    "focus": [
+      "sanziman",
+      "aks",
+      "elektrifikasyon",
+      "ticari-arac"
+    ],
+    "status": "watchlist-web",
+    "priority": 82,
+    "origin": "sector-expansion"
   }
 ]

@@ -42,6 +42,7 @@ const paragraphs = String(item.summary || '').split(/\n\s*\n/).filter(Boolean);
       <div class="container article-narrow">
         <div class="article-meta">
           <span class="tag">{sectorLabels[item.sector] || item.sector}</span>
+          {'format' in item && item.format === 'gorus-analiz' && <span class="tag">Görüş / Analiz</span>}
           {item.technologies?.map((t) => <span class="tag">{techLabels[t] || t}</span>)}
           <time datetime={item.site_published_at}>Yayın: {siteDate}</time>
           <time datetime={item.source_published_at}>Kaynak: {sourceDate}</time>

@@ -1,5 +1,44 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-const groups=[['Off-highway & genel',['iVT Off-Highway / iVT International','KHL Group','Diesel Progress / Diesel & Gas Turbine','SAE Truck & Off-Highway Engineering']],['Bileşen & güç aktarma',['Hydraulics & Pneumatics','Power Transmission Engineering','Gear Technology','NFPA']],['Madencilik',['Engineering & Mining Journal (E&MJ)','International Mining','Mining Magazine','Global Mining Review','ICMM']],['Liman & malzeme elleçleme',['Port Technology International','Port Strategy','HANSA','International Cranes & Specialized Transport','FEM','IAPH']],['Tarım',['Farm Equipment','profi / Landtechnik / agrartechnik','Farmers Weekly','CEMA','TARMAKBİR']],['Türkiye kurumları',['MAİB','MAKFED','İMDER','İSDER','AKDER','MAPEG','TMMOB meslek odaları']]];
+import catalog from '../../agent/source-catalog.json';
+
+const groups: [string, string[]][] = [
+  ['Off-highway & genel', ['iVT International','OEM Off-Highway','Power & Motion','KHL Group','SAE Truck & Off-Highway Engineering']],
+  ['Motor & güç aktarma', ['Powertrain International Off-Highway','Power Progress Off-Highway','DEUTZ Press Releases','Cummins Press Releases','ZF Press','Allison Transmission Newsroom','Dana Press Releases','Power Transmission Engineering','Gear Technology']],
+  ['Bileşen & hidrolik', ['Hydraulics & Pneumatics','NFPA','Teknikport']],
+  ['Madencilik', ['Engineering & Mining Journal (E&MJ)','International Mining','Mining Magazine','Global Mining Review','ICMM']],
+  ['Liman & malzeme elleçleme', ['Port Technology International','Port Strategy','HANSA','International Cranes & Specialized Transport','FEM','IAPH']],
+  ['Tarım', ['Farm Equipment','profi / Landtechnik / agrartechnik','Farmers Weekly','CEMA','TARMAKBİR']],
+  ['Havalimanı & GSE', ['Passenger Terminal Today','Aviation24 Ground Handling','Aviation Pros Ground Support Worldwide','Airport Industry-News Ground Support','Ground Handling International','GSE Expo Europe']],
+  ['Marine & yatçılık', ['Marine Industry News','Marine Industry News Electric Boats','Powertrain International Marine','METSTRADE','IBEX']],
+  ['Türkiye kurumları', ['MAİB','MAKFED','İMDER','İSDER','AKDER','MAPEG','TMMOB meslek odaları']]
+];
+const byName = new Map(catalog.map(source => [source.name,source]));
+const eventSources: Record<string,string> = {
+  'METSTRADE':'https://www.metstrade.com/',
+  'IBEX':'https://www.ibexshow.com/'
+};
+const description = (name:string) => {
+  const source = byName.get(name);
+  if (source?.status?.startsWith('active-rss')) return 'RSS ile otomatik taranıyor; yayın öncesi editoryal onay gerekir';
+  if (source?.kind === 'manufacturer_pressroom') return 'Üretici açıklaması; teknik iddialar ayrıca doğrulanır';
+  if (source?.kind === 'event_source' || eventSources[name]) return 'Resmi etkinlik kaynağı';
+  return 'Editoryal kaynak / izleme listesi';
+};
 ---
-<BaseLayout title="Kaynaklar"><section class="page-head"><div class="container"><span class="eyebrow">Medya & kuruluşlar</span><h1>Kaynaklar</h1><p>İçerik araştırmalarında kullanılacak ana referans havuzu. İlerleyen sürümde konu, sektör ve ülkeye göre filtrelenebilir hale gelecek.</p></div></section><section class="section"><div class="container">{groups.map(([group,items]) => <section class="resource-group"><h2>{group}</h2><div class="resource-list">{(items as string[]).map(item => <div class="resource">{item}<span>Araştırma ve doğrulama kaynağı</span></div>)}</div></section>)}</div></section></BaseLayout>
+<BaseLayout title="Kaynaklar" description="Makine Nabzı için off-highway, motor ve güç aktarma, GSE, marine, liman, tarım ve madencilik kaynakları.">
+  <section class="page-head"><div class="container">
+    <span class="eyebrow">Medya, üretici & kuruluşlar</span><h1>Kaynaklar</h1>
+    <p>Teknik basın, üretici duyuruları ve resmi etkinlikler birlikte izlenir. RSS ile taranan yazılar otomatik yayımlanmaz; her haber kaynak kontrolü ve insan onayı bekler.</p>
+  </div></section>
+  <section class="section"><div class="container">
+    {groups.map(([group,items]) => <section class="resource-group">
+      <h2>{group}</h2>
+      <div class="resource-list">{items.map(name => {
+        const url = byName.get(name)?.url || eventSources[name];
+        return url ? <a class="resource" href={url} target="_blank" rel="noopener noreferrer"><strong>{name} ↗</strong><span>{description(name)}</span></a>
+          : <div class="resource"><strong>{name}</strong><span>{description(name)}</span></div>;
+      })}</div>
+    </section>)}
+  </div></section>
+</BaseLayout>

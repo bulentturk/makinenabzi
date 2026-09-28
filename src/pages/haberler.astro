@@ -25,26 +25,44 @@ const streams=[['OEM & Ürün','Yeni ürünler, ürün gamı genişletmeleri ve 
   </div></section>
 
   <section class="section"><div class="container">
+    <nav class="sector-filter" aria-label="Haber sektörleri">
+      <a href={href('/haberler/')} data-sector-filter="all">Tümü</a>
+      {Object.entries(sectorLabels).map(([slug,label]) => <a href={href(`/haberler/?sektor=${slug}`)} data-sector-filter={slug}>{label}</a>)}
+    </nav>
     <div class="section-head">
       <div><span class="eyebrow">Yayındaki haberler</span><h2>Son gelişmeler.</h2><a href={href('/rss.xml')}>Onaylanan haberleri RSS ile takip et →</a></div>
     </div>
     <div class="news-grid">
       {sorted.map((item) => (
-        <a class="news-card" href={href('/haberler/' + item.slug + '/')}>
+        <a class="news-card" data-sector={item.sector} href={href('/haberler/' + item.slug + '/')}>
           <div class="article-meta">
             <span class="tag">{sectorLabels[item.sector] || item.sector}</span>
+            {'format' in item && item.format === 'gorus-analiz' && <span class="tag">Görüş / Analiz</span>}
             <time datetime={item.site_published_at}>Yayın: {new Intl.DateTimeFormat('tr-TR',{day:'numeric',month:'short',year:'numeric'}).format(new Date(item.site_published_at))}</time>
           </div>
           <h3>{item.title}</h3>
           <p>{item.dek}</p>
-          <strong>Haberi oku →</strong>
+          <strong>{'format' in item && item.format === 'gorus-analiz' ? 'Yazıyı oku →' : 'Haberi oku →'}</strong>
         </a>
       ))}
     </div>
+    <p class="news-empty" hidden>Bu sektörde henüz onaylanmış haber yok. Kaynak taraması sürüyor; yalnız editoryal onaydan geçen içerikler yayımlanır.</p>
 
     <div class="section-head" style="margin-top:64px">
       <div><span class="eyebrow">Haber akışları</span><h2>Takip ettiğimiz alanlar.</h2></div>
     </div>
     <div class="content-grid">{streams.map(([title,desc]) => <article class="card"><span class="tag">Haber akışı</span><h3>{title}</h3><p>{desc}</p></article>)}</div>
   </div></section>
+  <script is:inline>
+    const requested = new URLSearchParams(window.location.search).get('sektor');
+    const filters = [...document.querySelectorAll('[data-sector-filter]')];
+    const active = filters.some(link => link.dataset.sectorFilter === requested) ? requested : null;
+    filters.forEach(link => {
+      if (link.dataset.sectorFilter === (active || 'all')) link.setAttribute('aria-current','page');
+    });
+    const cards = [...document.querySelectorAll('.news-card[data-sector]')];
+    cards.forEach(card => card.classList.toggle('is-hidden',Boolean(active && card.dataset.sector !== active)));
+    const empty = document.querySelector('.news-empty');
+    if (empty) empty.hidden = cards.some(card => !card.classList.contains('is-hidden'));
+  </script>
 </BaseLayout>

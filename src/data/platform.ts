@@ -35,6 +35,20 @@ export const sectors = [
     image: 'https://images.unsplash.com/photo-1764422743505-97c9ea0e43f2?auto=format&fit=crop&w=1600&q=82'
   },
   {
+    slug: 'havaalani-gse',
+    title: 'Havalimanı & GSE',
+    kicker: 'Ground Support Equipment',
+    description: 'Uçak çekicileri, apron araçları, bagaj ve kargo yükleyicileri, yer güç üniteleri ve elektrikli GSE.',
+    image: '/sector-gse.svg'
+  },
+  {
+    slug: 'marine-yatcilik',
+    title: 'Marine & Yatçılık',
+    kicker: 'Marine Technology',
+    description: 'Tekne ve yat tahriki, marine motorlar, elektrikli sistemler, pervaneler ve güverte ekipmanı.',
+    image: '/sector-marine.svg'
+  },
+  {
     slug: 'elektrifikasyon',
     title: 'Elektrifikasyon & Dönüşüm',
     kicker: 'Electrification',
