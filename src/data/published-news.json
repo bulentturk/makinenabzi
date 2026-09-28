@@ -1,5 +1,31 @@
 [
   {
+    "id": "c9bf9d8e29565d41",
+    "slug": "manila-metrosu-projesinde-tunel-acma-makinesi-cikis-yapti",
+    "title": "Manila metrosu projesinde tünel açma makinesi çıkış yaptı",
+    "dek": "Metro Manila Subway projesinde bir tünel açma makinesinin (TBM) ilerleme aşamasını tamamlayarak çıkış yaptığı bildirildi. Kaynak, makinenin adı ve çalışmanın ayrıntıları hakkında bilgi vermiyor.",
+    "summary": "Tunnels & Tunnelling, Manila metro projesinde bir tünel açma makinesinin çıkış yaptığını bildiriyor. Metro Manila Subway, kaynak açıklamasında Filipinler’in ilk yer altı demiryolu olarak tanımlanıyor.\n\nHaberde TBM’nin modeli, çıkışın gerçekleştiği kesim, tünel uzunluğu veya projenin sonraki aşamalarına ilişkin ayrıntı bulunmuyor.",
+    "why_it_matters": "Büyük tünel açma projeleri, yer altı demiryolu altyapısında kullanılan ağır iş makinelerinin uygulama alanını gösteriyor. Ancak kaynakta makine ya da proje ilerlemesine dair teknik ayrıntı bulunmadığından haberin ekipman performansı açısından değerlendirmesi sınırlı.",
+    "key_facts": [
+      "Kaynak, Manila metro projesinde bir TBM’nin çıkış yaptığını bildiriyor.",
+      "Metro Manila Subway, kaynak açıklamasında Filipinler’in ilk yer altı demiryolu olarak tanımlanıyor."
+    ],
+    "sector": "is-makinalari",
+    "technologies": [],
+    "tags": [
+      "tünel açma makinesi",
+      "TBM",
+      "metro inşaatı",
+      "yer altı demiryolu",
+      "Filipinler"
+    ],
+    "source_name": "Tunnels & Tunnelling",
+    "source_url": "https://www.tunnelsandtunnelling.com/news/tbm-breaks-through-on-manila-subway-project/",
+    "source_published_at": "2026-09-25T07:06:44.000Z",
+    "site_published_at": "2026-09-28T19:08:28.757Z",
+    "hero_image": ""
+  },
+  {
     "id": "9b76aa7e869e33e6",
     "slug": "mobil-liman-vinclerinde-standart-platform-ve-terminale-ozel-tasarim-dengesi",
     "title": "Mobil liman vinçlerinde standart platform ve terminale özel tasarım dengesi",
