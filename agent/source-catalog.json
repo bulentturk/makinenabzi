@@ -384,8 +384,7 @@
       "havaalani-gse",
       "yer-hizmetleri"
     ],
-    "status": "active-rss-filtered",
-    "feed": "https://www.aviation24.be/category/ground-handling/feed/",
+    "status": "watchlist-web",
     "priority": 72,
     "origin": "sector-expansion"
   },

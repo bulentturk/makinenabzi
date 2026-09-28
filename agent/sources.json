@@ -71,13 +71,6 @@
     "require_equipment_context": "gse"
   },
   {
-    "name": "Aviation24 Ground Handling",
-    "url": "https://www.aviation24.be/category/ground-handling/feed/",
-    "sector": "havaalani-gse",
-    "priority": 72,
-    "require_equipment_context": "gse"
-  },
-  {
     "name": "Powertrain International Off-Highway",
     "url": "https://www.powertraininternationalweb.com/category/off-highway/feed/",
     "sector": "is-makinalari",
