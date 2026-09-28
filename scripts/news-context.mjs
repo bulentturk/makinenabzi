@@ -34,9 +34,19 @@ const marineEquipmentTerms = [
   'shore power','deck machinery','marine battery','marine electric','yacht technology',
   'yacht equipment','ship propulsion','vessel propulsion','azimuth drive','boatbuilding equipment'
 ];
+const powertrainEquipmentTerms = [
+  'off-highway','off road','mining','construction equipment','agricultural equipment',
+  'material handling','port equipment','ground support equipment','marine propulsion',
+  'diesel engine','powershift','gearbox','axle','drivetrain','powertrain','electric drive',
+  'propulsion','automatic transmission','transmissions','transmission','torque converter',
+  'terratran','final drive','planetary drive','haul truck','dump truck','fire truck','refuse truck'
+];
 
 export function hasSectorEquipmentContext(text, sector) {
-  const haystack = normalized(text);
-  const terms = sector === 'gse' ? gseTerms : sector === 'marine' ? marineEquipmentTerms : [];
+  const haystack = sector === 'powertrain'
+    ? normalized(text).replace(/allison transmission/g, 'allison')
+    : normalized(text);
+  const terms = sector === 'gse' ? gseTerms : sector === 'marine' ? marineEquipmentTerms
+    : sector === 'powertrain' ? powertrainEquipmentTerms : [];
   return terms.some(term => hasTerm(haystack,term));
 }

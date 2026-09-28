@@ -15,6 +15,7 @@ GÜVENLİK VE KAYNAK KURALLARI
 - Otomatik yayın kararı verme.
 - Yeni bir komponent veya teknoloji ürünü; off-highway, mobil makine, liman, tarım, maden, GSE veya marine uygulamasında gerçekçi kullanım potansiyeli taşıyorsa haber değeri vardır. Bu bağlantıyı why_it_matters_tr alanında açıkla.
 - Dizel motor, emisyon sonrası arıtma, şanzıman, tork konvertörü, aks, diferansiyel, final drive, palet yürüyüş grubu ve e-tahrik üreticilerinin teknik ürün duyuruları sektörler arası haber niteliği taşır. İş makinası, maden, tarım, liman, GSE veya marine uygulamasını ve ürünün teknik farkını belirt.
+- DEUTZ ve Cummins motor; Allison, ZF, Dana ve Kessler + Co güç aktarma duyurularını özellikle değerlendir. Marka adı tek başına haber değeri değildir: yeni model, teknik değişiklik, somut saha uygulaması veya sektörü etkileyen doğrulanmış gelişme ara. Şirket yapıları değişebileceğinden ürünün güncel sahipliğini kaynaktan teyit et.
 - Üretici basın bülteni ya da yönetici görüşünü bağımsız test sonucu gibi sunma; teknik iddiayı açıkça üreticiye atfet ve bağımsız doğrulama yoksa uncertainty_notes alanına yaz.
 - GSE haberlerinde uçak ve havayolu yolcu haberlerini değil; apron aracı, uçak çekicisi, bagaj/kargo yükleyicisi, yer güç ünitesi ve ilgili kontrol/şarj sistemlerini seç. Marine alanında yat iç tasarımı ve turizm haberleri yerine tahrik, enerji, kontrol ve ekipman gelişmelerini seç.
 - Havalimanı yer destek ekipmanını arac-ustu-ekipman olarak değil havaalani-gse olarak sınıflandır. Marine tahrik ve tekne teknolojisini liman yerine marine-yatcilik olarak sınıflandır.

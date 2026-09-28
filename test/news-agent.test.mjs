@@ -85,6 +85,20 @@ test('routes airport GSE, marine equipment and off-highway powertrain while filt
   assert.equal(health.every(item=>item.ok),true);
 });
 
+test('keeps equipment releases from a manufacturer feed but skips corporate-only items', async () => {
+  const date = new Date().toUTCString();
+  const feed = `<?xml version="1.0"?><rss version="2.0"><channel><title>Allison releases</title>
+    <item><title>Allison Transmission announces quarterly financial results</title><link>https://example.org/quarter</link><pubDate>${date}</pubDate><description>Investor earnings and dividends.</description></item>
+    <item><title>Allison Transmission launches new automatic transmission for mining dump trucks</title><link>https://example.org/mining</link><pubDate>${date}</pubDate><description>New off-highway powertrain for heavy haul applications.</description></item>
+  </channel></rss>`;
+  const source = {name:'Allison Transmission Newsroom',url:`data:application/rss+xml,${encodeURIComponent(feed)}`,sector:'is-makinalari',priority:92,focus:'powertrain',require_equipment_context:'powertrain'};
+  const {result,candidates,health}=await runAgent({sources:[source]});
+  assert.equal(result.status,0,result.stderr);
+  assert.deepEqual(candidates.map(item=>item.source_url),['https://example.org/mining']);
+  assert.equal(candidates[0].sector,'madencilik');
+  assert.equal(health[0].relevant_items,1);
+});
+
 test('approval queue skips a previously drafted passenger EV story', async () => {
   const dir = await fs.mkdtemp(path.join(os.tmpdir(),'makinenabzi-review-'));
   try {
