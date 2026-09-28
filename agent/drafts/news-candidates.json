@@ -56,7 +56,7 @@
   },
   {
     "id": "407ca3a26daca6fb",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Changing propulsion demands to reshape marine engine market",
     "source_name": "Marine Industry News",
     "source_url": "https://marineindustrynews.co.uk/changing-propulsion-demands-to-reshape-marine-engine-market/",
@@ -78,7 +78,7 @@
       "seo_title": "Deniz motorlarında dizel, dıştan takma ve elektrikli tahrik",
       "meta_description": "Deniz motoru pazarında dizel, dıştan takma ve elektrikli tahrik seçenekleri birlikte gelişiyor. Haberde endüstriyel motor kökenli platformlar ve Selva’nın çalışmaları aktarılıyor.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Engines Plus yöneticisi Hedley Beavis, bazı ticari ve gezi teknesi segmentlerinde içten takma dizellerden dıştan takma motorlara yönelim olduğunu söylüyor.",
         "Beavis, 100 bg altındaki bazı deniz dizellerinin endüstriyel motor teknolojilerine dayandığını belirtiyor.",
@@ -107,7 +107,9 @@
         "Kaynak metni Solé Advance hakkındaki bölümün ortasında kesiliyor; bu nedenle devamındaki bilgiler taslağa alınmadı."
       ],
       "generated_at": "2026-09-28T19:40:41.921Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-09-28T20:17:08.974Z",
+      "review_result": "published"
     }
   },
   {
