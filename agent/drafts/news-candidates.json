@@ -168,7 +168,7 @@
   },
   {
     "id": "9b76aa7e869e33e6",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "EXCLUSIVE: Balancing standardisation and terminal-specific design in mobile harbour cranes",
     "source_name": "Port Strategy",
     "source_url": "https://www.portstrategy.com/news/container-cargo-handling/exclusive-balancing-standardisation-and-terminal-specific-design-in-mobile-harbour-cranes/",
@@ -181,19 +181,51 @@
     "editorial_fit_score": 65,
     "summary_source": "Every terminal asks a different question of the crane, writes Leopold Berthold, managing director at Liebherr-MCCtec",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Mobil liman vinçlerinde standart platform ve terminale özel tasarım dengesi",
+      "dek_tr": "Liebherr-MCCtec yöneticisi Leopold Berthold, mobil liman vinçlerinde ortak bir makine mimarisinin terminale özgü ihtiyaçlarla nasıl birleştirilebileceğini ele alıyor. Yaklaşım; tanımlı modüller, arayüzler ve yapılandırma kuralları üzerine kurulu.",
+      "summary_tr": "Berthold’ün yazısına göre mobil liman vinçlerinde üst yapı büyük ölçüde standart bir mimari üzerinden geliştirilebilir; terminalin altyapısı ve çalışma biçimine göre alt takım, bom, kule yüksekliği ve vinç düzeni gibi unsurlar yapılandırılabilir. Yazı, bu farklılıkların sonradan yeniden tasarım yerine önceden tanımlanmış modül ve arayüzlerle yönetilmesini savunuyor.\n\nKauçuk tekerlekli mobil vinç, raylı portal çözümü veya sabit kaide gibi seçenekler; rıhtım düzeni, ray altyapısı, yük dağılımı ve trafik akışına göre değerlendiriliyor. Konteyner, dökme yük ve ağır yük elleçleme de erişim, çevrim süresi, kaldırma eğrisi ve stabilite gibi farklı performans gereksinimleri doğuruyor.\n\nYazıda kontrol sistemlerinin farklı konfigürasyonları parametrelerle yönetebileceği belirtiliyor. Bununla birlikte, yazara göre proje mühendisliği yükünü azaltan temel unsur yazılımdan çok; doğrulanmış arayüzlere, yeniden kullanılabilir işlevlere ve açık konfigürasyon kurallarına dayanan platform yaklaşımı. Altyapının portal yüksekliği, ray açıklığı veya temel koşulları gibi özel gereksinimleri ise daha kapsamlı mühendislik çalışması gerektirebilir.",
+      "why_it_matters_tr": "Liman işletmelerinde rıhtım altyapısı ve yük profili değiştikçe vinç seçimi de operasyonel verim ve bakım süreçlerini etkiliyor. Tanımlı konfigürasyon sınırları, terminale uygun ekipman geliştirirken özel varyantların karmaşıklığını yönetmeye yardımcı olabilir; bu değerlendirme kaynak yazının yaklaşımına dayanıyor.",
+      "seo_title": "Mobil liman vinçlerinde standart platform ve özel tasarım",
+      "meta_description": "Liebherr-MCCtec yöneticisi, mobil liman vinçlerinde standart mimarinin terminal altyapısı ve yük profiline göre nasıl yapılandırılabileceğini anlatıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Yazı, mobil liman vinçlerinde üst yapının büyük ölçüde standartlaştırılmış bir mimariye dayanabileceğini belirtiyor.",
+        "Alt takım seçimi terminal altyapısı ve işletme düzenine göre değişebiliyor.",
+        "Bom uzunluğu, kule yüksekliği ve vinç düzeni uygulama profiline göre yapılandırılabilen unsurlar arasında sayılıyor.",
+        "Kontrol sistemleri, farklı konfigürasyonları parametrelerle yönetmek için kullanılabiliyor.",
+        "Raylı portal çözümlerinde yerel altyapı gereksinimleri kapsamlı mühendislik çalışması gerektirebiliyor."
+      ],
+      "suggested_tags": [
+        "mobil liman vinci",
+        "vinç tasarımı",
+        "modüler mimari",
+        "liman ekipmanları",
+        "terminal operasyonları"
+      ],
+      "suggested_sector": "liman",
+      "suggested_technologies": [
+        "elektronik-telematik",
+        "hidrolik"
+      ],
+      "source_facts_used": [
+        "Yazı, Liebherr-MCCtec yönetici direktörü Leopold Berthold tarafından kaleme alınmış olarak tanıtılıyor.",
+        "Mobil liman vinçlerinin üst yapısı için büyük ölçüde standart bir mimari tarif ediliyor.",
+        "Alt takım ve performans seçeneklerinin terminal altyapısı ile yük profiline göre uyarlanabileceği belirtiliyor.",
+        "Kontrol sistemleri, konfigürasyona bağlı çalışma sınırları ve güvenlik mantığını yönetebiliyor.",
+        "Hidropnömatik enerji depolama, kısa süreli yüksek güç ihtiyacı için olası bir seçenek olarak anılıyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak, üretici yöneticisinin platform tasarımına ilişkin değerlendirmesidir; bağımsız performans verisi veya karşılaştırmalı ölçüm sunmuyor.",
+        "Kaynağın sonundaki Baltic Hub ve elektrikli vinçlere ilişkin cümlenin yazıyla bağlantısı belirsiz olduğundan taslağa alınmadı."
+      ],
+      "generated_at": "2026-09-28T11:22:02.483Z",
+      "generated_by": "github-models"
     }
   },
   {
     "id": "c9bf9d8e29565d41",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "TBM breaks through on Manila subway project",
     "source_name": "Tunnels & Tunnelling",
     "source_url": "https://www.tunnelsandtunnelling.com/news/tbm-breaks-through-on-manila-subway-project/",
@@ -205,14 +237,36 @@
     "relevance_score": 116,
     "summary_source": "TBM breaks through on Manila subway project The Metro Manila Subway is the Philippines’ first underground railway. The post TBM breaks through on Manila subway project appeared first on Tunnels and Tunnelling.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Manila metrosu projesinde tünel açma makinesi çıkış yaptı",
+      "dek_tr": "Metro Manila Subway projesinde bir tünel açma makinesinin (TBM) ilerleme aşamasını tamamlayarak çıkış yaptığı bildirildi. Kaynak, makinenin adı ve çalışmanın ayrıntıları hakkında bilgi vermiyor.",
+      "summary_tr": "Tunnels & Tunnelling, Manila metro projesinde bir tünel açma makinesinin çıkış yaptığını bildiriyor. Metro Manila Subway, kaynak açıklamasında Filipinler’in ilk yer altı demiryolu olarak tanımlanıyor.\n\nHaberde TBM’nin modeli, çıkışın gerçekleştiği kesim, tünel uzunluğu veya projenin sonraki aşamalarına ilişkin ayrıntı bulunmuyor.",
+      "why_it_matters_tr": "Büyük tünel açma projeleri, yer altı demiryolu altyapısında kullanılan ağır iş makinelerinin uygulama alanını gösteriyor. Ancak kaynakta makine ya da proje ilerlemesine dair teknik ayrıntı bulunmadığından haberin ekipman performansı açısından değerlendirmesi sınırlı.",
+      "seo_title": "Manila metro projesinde TBM tünel açma aşamasını tamamladı",
+      "meta_description": "Metro Manila Subway projesinde bir tünel açma makinesinin çıkış yaptığı bildirildi. Kaynakta makine ve proje kesimiyle ilgili ayrıntı yok.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Kaynak, Manila metro projesinde bir TBM’nin çıkış yaptığını bildiriyor.",
+        "Metro Manila Subway, kaynak açıklamasında Filipinler’in ilk yer altı demiryolu olarak tanımlanıyor."
+      ],
+      "suggested_tags": [
+        "tünel açma makinesi",
+        "TBM",
+        "metro inşaatı",
+        "yer altı demiryolu",
+        "Filipinler"
+      ],
+      "suggested_sector": "is-makinalari",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Kaynak başlığı, Manila metro projesinde TBM’nin çıkış yaptığını bildiriyor.",
+        "Kaynak açıklaması Metro Manila Subway’i Filipinler’in ilk yer altı demiryolu olarak tanımlıyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak metninde yalnızca “APROTEK” ifadesi yer alıyor; TBM’nin adı, konumu, çıkış tarihi ve proje ilerlemesi hakkında ayrıntı doğrulanamıyor."
+      ],
+      "generated_at": "2026-09-28T11:22:02.483Z",
+      "generated_by": "github-models"
     },
     "editorial_fit_score": 55
   }
