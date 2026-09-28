@@ -504,8 +504,7 @@
     "focus": [
       "off-highway",
       "sanziman",
-      "aks",
-      "yuruyus-grubu"
+      "guc-aktarma"
     ],
     "status": "watchlist-web",
     "priority": 92,
@@ -523,6 +522,51 @@
     ],
     "status": "watchlist-web",
     "priority": 82,
+    "origin": "sector-expansion"
+  },
+  {
+    "name": "Perkins Press Releases",
+    "url": "https://www.perkins.com/en_GB/company/news/corporate-press-release.html",
+    "kind": "manufacturer_pressroom",
+    "focus": ["dizel-motor", "off-highway", "marine-motor"],
+    "status": "watchlist-web",
+    "priority": 90,
+    "origin": "sector-expansion"
+  },
+  {
+    "name": "Volvo Penta News",
+    "url": "https://www.volvopenta.com/about-us/news-page/",
+    "kind": "manufacturer_pressroom",
+    "focus": ["marine-motor", "gse", "endustriyel-motor", "elektrifikasyon"],
+    "status": "watchlist-web",
+    "priority": 87,
+    "origin": "sector-expansion"
+  },
+  {
+    "name": "Carraro News",
+    "url": "https://www.carraro.com/en/media-news/news",
+    "kind": "manufacturer_pressroom",
+    "focus": ["sanziman", "aks", "off-highway"],
+    "status": "watchlist-web",
+    "priority": 88,
+    "origin": "sector-expansion"
+  },
+  {
+    "name": "Berco News",
+    "url": "https://www.berco.com/news/",
+    "kind": "manufacturer_pressroom",
+    "focus": ["paletli-yuruyus", "alt-takim", "madencilik"],
+    "status": "watchlist-web",
+    "priority": 90,
+    "origin": "sector-expansion"
+  },
+  {
+    "name": "ITM Group",
+    "url": "https://www.group-itm.com/en/itm-group/about/news/",
+    "kind": "manufacturer_pressroom",
+    "focus": ["paletli-yuruyus", "alt-takim", "madencilik"],
+    "status": "watchlist-web",
+    "priority": 88,
     "origin": "sector-expansion"
   }
 ]
