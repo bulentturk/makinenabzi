@@ -84,13 +84,5 @@
     "priority": 85,
     "focus": "powertrain",
     "require_equipment_context": "marine"
-  },
-  {
-    "name": "Allison Transmission Newsroom",
-    "url": "https://ir.allisontransmission.com/rss/news-releases.xml",
-    "sector": "is-makinalari",
-    "priority": 92,
-    "focus": "powertrain",
-    "require_equipment_context": "powertrain"
   }
 ]

@@ -506,8 +506,7 @@
       "sanziman",
       "guc-aktarma"
     ],
-    "feed": "https://ir.allisontransmission.com/rss/news-releases.xml",
-    "status": "active-rss-filtered",
+    "status": "watchlist-web-priority",
     "priority": 92,
     "origin": "sector-expansion"
   },
