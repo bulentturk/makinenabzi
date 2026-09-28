@@ -106,7 +106,7 @@
   },
   {
     "id": "9b76aa7e869e33e6",
-    "status": "drafted",
+    "status": "published",
     "title_original": "EXCLUSIVE: Balancing standardisation and terminal-specific design in mobile harbour cranes",
     "source_name": "Port Strategy",
     "source_url": "https://www.portstrategy.com/news/container-cargo-handling/exclusive-balancing-standardisation-and-terminal-specific-design-in-mobile-harbour-cranes/",
@@ -126,7 +126,7 @@
       "seo_title": "Mobil liman vinçlerinde standart platform ve özel tasarım",
       "meta_description": "Liebherr-MCCtec yöneticisi, mobil liman vinçlerinde standart mimarinin terminal altyapısı ve yük profiline göre nasıl yapılandırılabileceğini anlatıyor.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Yazı, mobil liman vinçlerinde üst yapının büyük ölçüde standartlaştırılmış bir mimariye dayanabileceğini belirtiyor.",
         "Alt takım seçimi terminal altyapısı ve işletme düzenine göre değişebiliyor.",
@@ -158,7 +158,9 @@
         "Kaynağın sonundaki Baltic Hub ve elektrikli vinçlere ilişkin cümlenin yazıyla bağlantısı belirsiz olduğundan taslağa alınmadı."
       ],
       "generated_at": "2026-09-28T11:22:02.483Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-09-28T19:08:29.441Z",
+      "review_result": "published"
     }
   },
   {
