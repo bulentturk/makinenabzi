@@ -141,11 +141,11 @@ const highlights = [
       </div>
       <div class="sector-grid">
         {sectors.map((sector, i) => (
-          <article class:list={['sector-card', i === 0 && 'sector-card-featured']}>
+          <article class:list={['sector-card', i === 0 && 'sector-card-featured', sector.image.endsWith('.svg') && 'sector-card-illustrated']}>
             <img src={sector.image.startsWith('http') ? sector.image : href(sector.image)} alt={sector.title} loading={i === 0 ? 'eager' : 'lazy'} />
             <div class="sector-overlay"></div>
             <div class="sector-content">
-              <span>{sector.kicker}</span>
+              <span lang="en">{sector.kicker}</span>
               <h3>{sector.title}</h3>
               <p>{sector.description}</p>
               <a href={href(`/haberler/?sektor=${sector.slug}`)}>İçerikleri gör →</a>
