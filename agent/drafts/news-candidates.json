@@ -1,7 +1,7 @@
 [
   {
     "id": "407ca3a26daca6fb",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Changing propulsion demands to reshape marine engine market",
     "source_name": "Marine Industry News",
     "source_url": "https://marineindustrynews.co.uk/changing-propulsion-demands-to-reshape-marine-engine-market/",
@@ -16,14 +16,43 @@
     "editorial_fit_score": 67,
     "summary_source": "The marine engine market is being reshaped by a combination of emissions regulation, alternative fuels, and electrification. The transition is unlikely to follow a single path, with diesel still playing an important role as practical and infrastructure constraints limit how quickly some sectors can move to electric propulsion. Engines Plus managing director Hedley Beavis also […] The post Changing propulsion demands to reshape marine engine market appeared first on Marine Industry News.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Deniz motorlarında dönüşüm tek bir tahrik seçeneğine yönelmiyor",
+      "dek_tr": "Emisyon düzenlemeleri, alternatif yakıtlar ve elektrifikasyon deniz motoru pazarını etkiliyor. Engines Plus yöneticisi Hedley Beavis’e göre dizel kullanımını pratik ve altyapısal kısıtlar sürdürürken bazı tekne segmentlerinde içten takma motorlardan dıştan takmalara geçiş görülüyor.",
+      "summary_tr": "Haberde aktarılan sektör değerlendirmesine göre deniz tahrik sistemlerindeki değişim tek bir teknolojiyle sınırlı değil. Elektrikli tahrik gelişirken dizel, uygulama ve altyapı koşulları nedeniyle önemini koruyor. Engines Plus yöneticisi Hedley Beavis, özellikle ticari ve gezi teknelerinde dıştan takma motorların kullanım alanının genişlediğini belirtiyor.\n\nBeavis’e göre 100 bg altındaki bazı deniz dizelleri, emisyon gerekliliklerini karşılayan endüstriyel motor teknolojilerinden yararlanıyor; daha yüksek güçlü motorlarda ise otomotiv kökenli platformlar kullanılıyor. Haberde Selva’nın 30 bg ve 9,9 bg modellerini tanıttığı, 150 bg ve 200 bg motorlarını güncellediği ve 4 kW’lık elektrikli dıştan takma motor geliştirdiği de aktarılıyor.",
+      "why_it_matters_tr": "Deniz motorlarında endüstriyel ve otomotiv kökenli platformların kullanılması, emisyon uyumu ve motor tedarikindeki gelişmeleri iş makineleri ile diğer mobil ekipman sektörleri açısından da izlenebilir kılıyor. Elektrikli dıştan takma motor geliştirme çalışması da deniz uygulamalarında elektrifikasyonun ürün düzeyindeki örneklerinden biri.",
+      "seo_title": "Deniz motorlarında dizel, dıştan takma ve elektrikli tahrik",
+      "meta_description": "Deniz motoru pazarında dizel, dıştan takma ve elektrikli tahrik seçenekleri birlikte gelişiyor. Haberde endüstriyel motor kökenli platformlar ve Selva’nın çalışmaları aktarılıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Engines Plus yöneticisi Hedley Beavis, bazı ticari ve gezi teknesi segmentlerinde içten takma dizellerden dıştan takma motorlara yönelim olduğunu söylüyor.",
+        "Beavis, 100 bg altındaki bazı deniz dizellerinin endüstriyel motor teknolojilerine dayandığını belirtiyor.",
+        "Habere göre Selva, 30 bg ve 9,9 bg motor modelleri tanıttı; 150 bg ve 200 bg modellerini güncelledi.",
+        "Haberde Selva'nın 4 kW'lık elektrikli dıştan takma motor geliştirdiği aktarılıyor."
+      ],
+      "suggested_tags": [
+        "deniz motoru",
+        "dıştan takma motor",
+        "elektrikli tahrik",
+        "emisyon düzenlemeleri",
+        "Selva"
+      ],
+      "suggested_sector": "marine-yatcilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "Kaynak, deniz motoru pazarındaki değişimi emisyon düzenlemeleri, alternatif yakıtlar ve elektrifikasyonla ilişkilendiriyor; dizelin pratik ve altyapısal kısıtlar nedeniyle önemini koruduğunu belirtiyor.",
+        "Engines Plus yöneticisi, bazı tekne segmentlerinde dıştan takma motorlara yönelim olduğunu ve düşük güçlü deniz dizellerinde endüstriyel motor teknolojilerinden yararlanıldığını söylüyor.",
+        "Kaynak, Selva'nın yeni ve güncellenmiş motor modellerini ve geliştirmekte olduğu 4 kW elektrikli dıştan takma motoru aktarıyor."
+      ],
+      "uncertainty_notes": [
+        "Pazar eğilimleri ve bakım, maliyet, üretim kolaylığı gibi gerekçeler kaynakta Hedley Beavis’in değerlendirmeleri olarak aktarılıyor; bağımsız doğrulamaya yer verilmiyor.",
+        "Kaynak metni Solé Advance hakkındaki bölümün ortasında kesiliyor; bu nedenle devamındaki bilgiler taslağa alınmadı."
+      ],
+      "generated_at": "2026-09-28T19:40:41.921Z",
+      "generated_by": "github-models"
     }
   },
   {
