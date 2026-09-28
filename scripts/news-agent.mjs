@@ -17,7 +17,7 @@ const rules = [
   ['elektrifikasyon', ['electric','battery','bms','charging','charger','inverter','electrification','hybrid','fuel cell','zero emission','dc-dc','motor controller','axial flux','e-axle','shore power','elektrikli','batarya','sarj','hibrit']],
   ['otonomi-ai', ['autonomous','automation','ai ','artificial intelligence','machine vision','lidar','radar','driverless','remote operation']],
   ['elektronik-telematik', ['telematics','telemetry','connected','can bus','j1939','canopen','software','digital','remote monitoring','fleet management','sensor','encoder','controller','ecu','vcu','hmi','joystick','drive-by-wire','steer-by-wire','telematik','uzaktan izleme','kontrol unitesi']],
-  ['yuruyus-guc-aktarma', ['transmission','drivetrain','powertrain','powershift','hydrostatic','axle','differential','final drive','torque converter','gearbox']],
+  ['yuruyus-guc-aktarma', ['transmission','drivetrain','powertrain','powershift','hydrostatic','axle','differential','final drive','torque converter','gearbox','undercarriage','track chain','track roller','track shoe','idler','sprocket']],
   ['hidrolik', ['hydraulic','pump','valve','fluid power','hydrostatic','hidrolik','pompa','valf']],
   ['emisyon-stage-v', ['stage v','tier 4','dpf','scr','adblue','diesel exhaust','aftertreatment']],
   ['fonksiyonel-guvenlik', ['safety','functional safety','iso 13849','collision avoidance','fail-safe','redundant control','sil 2','sil 3']],
@@ -47,7 +47,7 @@ const machineryTerms = [
   'excavator','loader','wheel loader','dozer','grader','skid steer','compact track loader',
   'crane','reach stacker','straddle carrier','terminal tractor','forklift','telehandler',
   'haul truck','dump truck','mining truck','lhd','drill rig','crusher','conveyor','tbm',
-  'mixer','concrete pump','aerial platform','tractor','harvester','undercarriage',
+  'mixer','concrete pump','aerial platform','tractor','harvester','undercarriage','track chain','track roller','track shoe','track link','idler','sprocket',
   'diesel engine','combustion engine','engine platform','aftertreatment','stage v engine',
   'transmission','powershift','powertrain','drivetrain','hydrostatic','final drive','axle','differential',
   'hydraulic','inverter','electric motor','bms','telematics','telemetry','fleet management',
@@ -80,7 +80,7 @@ function editorialFit(item, source) {
   if (source.sector === 'madencilik' && ['autonomous','battery electric','haul truck','lhd','drill rig','equipment'].some(w => hasTerm(text,w))) fit += 10;
   if (source.sector === 'marine-yatcilik' && ['marine propulsion','electric boat','battery','thruster','shore power','deck machinery'].some(w => hasTerm(text,w))) fit += 12;
   if (source.sector === 'havaalani-gse' && ['ground support equipment','aircraft tug','pushback tractor','belt loader','ground power unit','baggage tractor'].some(w => hasTerm(text,w))) fit += 12;
-  if (source.focus === 'powertrain' && ['diesel engine','transmission','drivetrain','axle','aftertreatment','powershift'].some(w => hasTerm(text,w))) fit += 12;
+  if (source.focus === 'powertrain' && ['diesel engine','transmission','drivetrain','axle','aftertreatment','powershift','undercarriage','track chain','track roller'].some(w => hasTerm(text,w))) fit += 12;
   if (['sensor','encoder','controller','inverter','motor controller','actuator','dc-dc','e-axle','axial flux'].some(w => hasTerm(text,w)) && ['launch','introduces','unveils','new'].some(w => hasTerm(title,w))) fit += 12;
   return fit;
 }

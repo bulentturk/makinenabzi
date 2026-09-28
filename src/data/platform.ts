@@ -60,7 +60,7 @@ export const sectors = [
 export const technologies = [
   ['Elektrifikasyon', 'Batarya, BMS, inverter, e-motor, şarj ve HV mimarileri'],
   ['Hidrolik', 'Pompa, motor, valf, akışkan gücü, enerji verimliliği'],
-  ['Yürüyüş & Güç Aktarma', 'Şanzıman, torque converter, powershift, hidrostatik tahrik, aks, diferansiyel, final drive ve planet redüktör'],
+  ['Yürüyüş & Güç Aktarma', 'Şanzıman, tork konvertörü, aks, diferansiyel, final drive, planet redüktör, palet zinciri, makara ve komple alt takım'],
   ['Elektronik & Telematik', 'VCU, HMI, CAN/J1939, CANopen, telemetri, veri toplama ve uzaktan servis'],
   ['Otonomi & AI', 'Algılama, makine görüşü, rota, operatör destek ve fiziksel AI'],
   ['Emisyon & Stage V', 'Motor, DPF, SCR, AdBlue ve emisyon sonrası arıtma'],
