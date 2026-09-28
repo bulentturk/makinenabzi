@@ -38,7 +38,7 @@ const now = new Date().toISOString();
 
 for (const item of candidates) {
   const draft = byId.get(item.id);
-  if (!draft) continue;
+  if (!draft || item.status !== 'candidate') continue;
 
   item.status = 'drafted';
   item.editorial = {
