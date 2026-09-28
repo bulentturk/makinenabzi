@@ -1,5 +1,37 @@
 [
   {
+    "id": "9b76aa7e869e33e6",
+    "slug": "mobil-liman-vinclerinde-standart-platform-ve-terminale-ozel-tasarim-dengesi",
+    "title": "Mobil liman vinçlerinde standart platform ve terminale özel tasarım dengesi",
+    "dek": "Liebherr-MCCtec yöneticisi Leopold Berthold, mobil liman vinçlerinde ortak bir makine mimarisinin terminale özgü ihtiyaçlarla nasıl birleştirilebileceğini ele alıyor. Yaklaşım; tanımlı modüller, arayüzler ve yapılandırma kuralları üzerine kurulu.",
+    "summary": "Berthold’ün yazısına göre mobil liman vinçlerinde üst yapı büyük ölçüde standart bir mimari üzerinden geliştirilebilir; terminalin altyapısı ve çalışma biçimine göre alt takım, bom, kule yüksekliği ve vinç düzeni gibi unsurlar yapılandırılabilir. Yazı, bu farklılıkların sonradan yeniden tasarım yerine önceden tanımlanmış modül ve arayüzlerle yönetilmesini savunuyor.\n\nKauçuk tekerlekli mobil vinç, raylı portal çözümü veya sabit kaide gibi seçenekler; rıhtım düzeni, ray altyapısı, yük dağılımı ve trafik akışına göre değerlendiriliyor. Konteyner, dökme yük ve ağır yük elleçleme de erişim, çevrim süresi, kaldırma eğrisi ve stabilite gibi farklı performans gereksinimleri doğuruyor.\n\nYazıda kontrol sistemlerinin farklı konfigürasyonları parametrelerle yönetebileceği belirtiliyor. Bununla birlikte, yazara göre proje mühendisliği yükünü azaltan temel unsur yazılımdan çok; doğrulanmış arayüzlere, yeniden kullanılabilir işlevlere ve açık konfigürasyon kurallarına dayanan platform yaklaşımı. Altyapının portal yüksekliği, ray açıklığı veya temel koşulları gibi özel gereksinimleri ise daha kapsamlı mühendislik çalışması gerektirebilir.",
+    "why_it_matters": "Liman işletmelerinde rıhtım altyapısı ve yük profili değiştikçe vinç seçimi de operasyonel verim ve bakım süreçlerini etkiliyor. Tanımlı konfigürasyon sınırları, terminale uygun ekipman geliştirirken özel varyantların karmaşıklığını yönetmeye yardımcı olabilir; bu değerlendirme kaynak yazının yaklaşımına dayanıyor.",
+    "key_facts": [
+      "Yazı, mobil liman vinçlerinde üst yapının büyük ölçüde standartlaştırılmış bir mimariye dayanabileceğini belirtiyor.",
+      "Alt takım seçimi terminal altyapısı ve işletme düzenine göre değişebiliyor.",
+      "Bom uzunluğu, kule yüksekliği ve vinç düzeni uygulama profiline göre yapılandırılabilen unsurlar arasında sayılıyor.",
+      "Kontrol sistemleri, farklı konfigürasyonları parametrelerle yönetmek için kullanılabiliyor.",
+      "Raylı portal çözümlerinde yerel altyapı gereksinimleri kapsamlı mühendislik çalışması gerektirebiliyor."
+    ],
+    "sector": "liman",
+    "technologies": [
+      "elektronik-telematik",
+      "hidrolik"
+    ],
+    "tags": [
+      "mobil liman vinci",
+      "vinç tasarımı",
+      "modüler mimari",
+      "liman ekipmanları",
+      "terminal operasyonları"
+    ],
+    "source_name": "Port Strategy",
+    "source_url": "https://www.portstrategy.com/news/container-cargo-handling/exclusive-balancing-standardisation-and-terminal-specific-design-in-mobile-harbour-cranes/",
+    "source_published_at": "2026-09-28T10:42:19.000Z",
+    "site_published_at": "2026-09-28T11:22:18.494Z",
+    "hero_image": ""
+  },
+  {
     "id": "08eba99745511312",
     "slug": "advance-20-bininci-onden-bosaltmali-mikserini-uretti",
     "title": "Advance, 20 bininci önden boşaltmalı mikserini üretti",
