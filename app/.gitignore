@@ -1,0 +1,7 @@
+node_modules
+dist
+.env
+.env.local
+.env.*.local
+# Convex istemcisi `npx convex dev` / `npx convex deploy` ile üretilir.
+src/convex/_generated

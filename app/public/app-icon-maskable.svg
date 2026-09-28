@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Makine Nabzı">
+  <rect width="512" height="512" fill="#0b1722" />
+  <path
+    d="M118 268h50l36-92 50 182 40-120 22 30h78"
+    fill="none"
+    stroke="#68d5fb"
+    stroke-width="30"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <path d="M394 268h40" fill="none" stroke="#f5a524" stroke-width="30" stroke-linecap="round" />
+</svg>
