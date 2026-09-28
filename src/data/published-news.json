@@ -1,5 +1,36 @@
 [
   {
+    "id": "407ca3a26daca6fb",
+    "slug": "deniz-motorlarinda-donusum-tek-bir-tahrik-secenegine-yonelmiyor",
+    "title": "Deniz motorlarında dönüşüm tek bir tahrik seçeneğine yönelmiyor",
+    "dek": "Emisyon düzenlemeleri, alternatif yakıtlar ve elektrifikasyon deniz motoru pazarını etkiliyor. Engines Plus yöneticisi Hedley Beavis’e göre dizel kullanımını pratik ve altyapısal kısıtlar sürdürürken bazı tekne segmentlerinde içten takma motorlardan dıştan takmalara geçiş görülüyor.",
+    "summary": "Haberde aktarılan sektör değerlendirmesine göre deniz tahrik sistemlerindeki değişim tek bir teknolojiyle sınırlı değil. Elektrikli tahrik gelişirken dizel, uygulama ve altyapı koşulları nedeniyle önemini koruyor. Engines Plus yöneticisi Hedley Beavis, özellikle ticari ve gezi teknelerinde dıştan takma motorların kullanım alanının genişlediğini belirtiyor.\n\nBeavis’e göre 100 bg altındaki bazı deniz dizelleri, emisyon gerekliliklerini karşılayan endüstriyel motor teknolojilerinden yararlanıyor; daha yüksek güçlü motorlarda ise otomotiv kökenli platformlar kullanılıyor. Haberde Selva’nın 30 bg ve 9,9 bg modellerini tanıttığı, 150 bg ve 200 bg motorlarını güncellediği ve 4 kW’lık elektrikli dıştan takma motor geliştirdiği de aktarılıyor.",
+    "why_it_matters": "Deniz motorlarında endüstriyel ve otomotiv kökenli platformların kullanılması, emisyon uyumu ve motor tedarikindeki gelişmeleri iş makineleri ile diğer mobil ekipman sektörleri açısından da izlenebilir kılıyor. Elektrikli dıştan takma motor geliştirme çalışması da deniz uygulamalarında elektrifikasyonun ürün düzeyindeki örneklerinden biri.",
+    "key_facts": [
+      "Engines Plus yöneticisi Hedley Beavis, bazı ticari ve gezi teknesi segmentlerinde içten takma dizellerden dıştan takma motorlara yönelim olduğunu söylüyor.",
+      "Beavis, 100 bg altındaki bazı deniz dizellerinin endüstriyel motor teknolojilerine dayandığını belirtiyor.",
+      "Habere göre Selva, 30 bg ve 9,9 bg motor modelleri tanıttı; 150 bg ve 200 bg modellerini güncelledi.",
+      "Haberde Selva'nın 4 kW'lık elektrikli dıştan takma motor geliştirdiği aktarılıyor."
+    ],
+    "format": "haber",
+    "sector": "marine-yatcilik",
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "tags": [
+      "deniz motoru",
+      "dıştan takma motor",
+      "elektrikli tahrik",
+      "emisyon düzenlemeleri",
+      "Selva"
+    ],
+    "source_name": "Marine Industry News",
+    "source_url": "https://marineindustrynews.co.uk/changing-propulsion-demands-to-reshape-marine-engine-market/",
+    "source_published_at": "2026-09-25T07:15:50.000Z",
+    "site_published_at": "2026-09-28T19:40:52.651Z",
+    "hero_image": ""
+  },
+  {
     "id": "c9bf9d8e29565d41",
     "slug": "manila-metrosu-projesinde-tunel-acma-makinesi-cikis-yapti",
     "title": "Manila metrosu projesinde tünel açma makinesi çıkış yaptı",
