@@ -1,0 +1,36 @@
+name: Materialize app folder
+
+on:
+  push:
+    paths:
+      - app-bundle.b64
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  unpack:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Paketi çıkar
+        run: |
+          set -euo pipefail
+          base64 -d app-bundle.b64 | tar -xzf - -C .
+          echo "Çıkarılan dosya sayısı: $(find app -type f | wc -l)"
+          test -f app/package.json
+
+      - name: Depoya ekle
+        run: |
+          set -euo pipefail
+          git config user.name "makinenabzi-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add app
+          if git diff --staged --quiet; then
+            echo "Eklenecek yeni dosya yok."
+          else
+            git commit -m "Uygulamayı app/ klasörünü altına ekle"
+            git push
+          fi
