@@ -48,5 +48,41 @@
     "url": "https://www.teknikport.com/feed/",
     "sector": "is-makinalari",
     "priority": 82
+  },
+  {
+    "name": "Marine Industry News",
+    "url": "https://marineindustrynews.co.uk/feed/",
+    "sector": "marine-yatcilik",
+    "priority": 88,
+    "require_equipment_context": "marine"
+  },
+  {
+    "name": "Marine Industry News Electric Boats",
+    "url": "https://marineindustrynews.co.uk/tag/electric-boats/feed/",
+    "sector": "marine-yatcilik",
+    "priority": 92,
+    "require_equipment_context": "marine"
+  },
+  {
+    "name": "Passenger Terminal Today",
+    "url": "https://www.passengerterminaltoday.com/feed/",
+    "sector": "havaalani-gse",
+    "priority": 86,
+    "require_equipment_context": "gse"
+  },
+  {
+    "name": "Powertrain International Off-Highway",
+    "url": "https://www.powertraininternationalweb.com/category/off-highway/feed/",
+    "sector": "is-makinalari",
+    "priority": 88,
+    "focus": "powertrain"
+  },
+  {
+    "name": "Powertrain International Marine",
+    "url": "https://www.powertraininternationalweb.com/category/marine/feed/",
+    "sector": "marine-yatcilik",
+    "priority": 85,
+    "focus": "powertrain",
+    "require_equipment_context": "marine"
   }
 ]

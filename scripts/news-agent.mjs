@@ -1,7 +1,7 @@
 import fs from 'node:fs/promises';
 import crypto from 'node:crypto';
 import Parser from 'rss-parser';
-import { normalized, hasTerm, hasMobileContext } from './news-context.mjs';
+import { normalized, hasTerm, hasMobileContext, hasSectorEquipmentContext } from './news-context.mjs';
 
 const parser = new Parser({ timeout: 12000 });
 const sources = JSON.parse(await fs.readFile(process.env.NEWS_SOURCES_FILE || new URL('../agent/sources.json', import.meta.url), 'utf8'));
@@ -25,11 +25,12 @@ const rules = [
 ];
 
 const sectorRules = [
+  ['havaalani-gse', ['ground support equipment','ground handling equipment','gse','aircraft tug','aircraft towing','pushback tractor','baggage tractor','baggage tug','belt loader','cargo loader','ground power unit','de-icing truck','passenger stairs','airport fire truck','airside vehicle','apron vehicle']],
+  ['marine-yatcilik', ['marine propulsion','marine engine','boat engine','outboard motor','inboard motor','electric boat','electric yacht','electric ferry','hybrid vessel','workboat','thruster','deck machinery','shore power','yacht equipment','ship propulsion']],
   ['madencilik', ['mining','mine','open pit','quarry','lhd','haul truck','drill rig','maden','madencilik','yer alti','acik ocak']],
   ['liman', ['port','terminal','container','reach stacker','straddle carrier','harbour crane','liman','konteyner','vinc']],
   ['tarim', ['agriculture','agricultural','tractor','harvester','farm ','combine','tarim','traktor','bicerdover']],
-  ['arac-ustu-ekipman', ['truck-mounted','aerial platform','concrete pump','mixer truck','refuse truck','municipal','ground support equipment','pushback tractor','tow tractor','aircraft tug','belt loader','cargo loader','de-icing','ground power unit']],
-  ['marine-yatcilik', ['marine','yacht','boatbuilder','workboat','electric boat','marine propulsion','thruster','deck machinery','shore power']],
+  ['arac-ustu-ekipman', ['truck-mounted','aerial platform','concrete pump','mixer truck','refuse truck','municipal']],
   ['is-makinalari', ['excavator','loader','dozer','grader','construction equipment','compact equipment','road machinery','is makinasi','ekskavator','yukleyici','greyder']]
 ];
 
@@ -47,14 +48,15 @@ const machineryTerms = [
   'crane','reach stacker','straddle carrier','terminal tractor','forklift','telehandler',
   'haul truck','dump truck','mining truck','lhd','drill rig','crusher','conveyor','tbm',
   'mixer','concrete pump','aerial platform','tractor','harvester','undercarriage',
-  'transmission','powertrain','drivetrain','hydrostatic','final drive','axle','differential',
+  'diesel engine','combustion engine','engine platform','aftertreatment','stage v engine',
+  'transmission','powershift','powertrain','drivetrain','hydrostatic','final drive','axle','differential',
   'hydraulic','inverter','electric motor','bms','telematics','telemetry','fleet management',
   'autonomous haulage','autonomous transport','remote operation','collision avoidance',
   'machine vision','camera system','charging system','battery electric',
   'sensor','encoder','controller','joystick','hmi','ecu','vcu','can bus','j1939','canopen',
   'steer-by-wire','drive-by-wire','actuator','motor controller','dc-dc','e-axle','axial flux',
-  'ground support equipment','pushback tractor','aircraft tug','belt loader','cargo loader','ground power unit',
-  'marine propulsion','electric boat','workboat','thruster','deck machinery','shore power','yacht',
+  'ground support equipment','gse','pushback tractor','aircraft tug','baggage tractor','belt loader','cargo loader','ground power unit',
+  'marine propulsion','marine engine','outboard motor','electric boat','workboat','thruster','deck machinery','shore power',
   'is makinasi','ekskavator','yukleyici','greyder','vinc','maden kamyonu','delici makine',
   'traktor','bicerdover','liman ekipmani','hidrolik','pompa','valf','guc aktarimi',
   'elektrik motoru','telematik','kontrol unitesi','sensor','sanziman'
@@ -67,6 +69,7 @@ function editorialFit(item, source) {
   const text = normalized(item.title + ' ' + (item.contentSnippet || ''));
   const title = normalized(item.title || '');
   if (source.require_mobile_context && !hasMobileContext(text)) return 0;
+  if (source.require_equipment_context && !hasSectorEquipmentContext(text,source.require_equipment_context)) return 0;
   const tags = tagsFrom(text);
   let fit = 0;
   if (machineryTerms.some(w => hasTerm(text, w))) fit += 55;
@@ -76,6 +79,8 @@ function editorialFit(item, source) {
   if (source.sector === 'liman' && ['equipment','terminal operations','crane','reach stacker'].some(w => hasTerm(text,w))) fit += 10;
   if (source.sector === 'madencilik' && ['autonomous','battery electric','haul truck','lhd','drill rig','equipment'].some(w => hasTerm(text,w))) fit += 10;
   if (source.sector === 'marine-yatcilik' && ['marine propulsion','electric boat','battery','thruster','shore power','deck machinery'].some(w => hasTerm(text,w))) fit += 12;
+  if (source.sector === 'havaalani-gse' && ['ground support equipment','aircraft tug','pushback tractor','belt loader','ground power unit','baggage tractor'].some(w => hasTerm(text,w))) fit += 12;
+  if (source.focus === 'powertrain' && ['diesel engine','transmission','drivetrain','axle','aftertreatment','powershift'].some(w => hasTerm(text,w))) fit += 12;
   if (['sensor','encoder','controller','inverter','motor controller','actuator','dc-dc','e-axle','axial flux'].some(w => hasTerm(text,w)) && ['launch','introduces','unveils','new'].some(w => hasTerm(title,w))) fit += 12;
   return fit;
 }

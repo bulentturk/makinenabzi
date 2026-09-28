@@ -1,7 +1,7 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { pathToFileURL } from 'node:url';
-import { hasMobileContext } from './news-context.mjs';
+import { hasMobileContext, hasSectorEquipmentContext } from './news-context.mjs';
 
 const CANDIDATES = process.env.REVIEW_CANDIDATES_FILE || new URL('../agent/drafts/news-candidates.json', import.meta.url);
 const PUBLISHED = process.env.REVIEW_PUBLISHED_FILE || new URL('../src/data/published-news.json', import.meta.url);
@@ -26,7 +26,9 @@ const selected = candidates
   .filter(x => x.status === 'drafted' && x.editorial?.title_tr && !publishedIds.has(x.id))
   .filter(x => {
     const source = sourceByName.get(x.source_name);
-    return !source?.require_mobile_context || hasMobileContext(`${x.title_original} ${x.summary_source}`);
+    const text = `${x.title_original} ${x.summary_source}`;
+    return (!source?.require_mobile_context || hasMobileContext(text))
+      && (!source?.require_equipment_context || hasSectorEquipmentContext(text,source.require_equipment_context));
   })
   .sort((a,b) => (b.editorial_fit_score - a.editorial_fit_score) || (b.relevance_score - a.relevance_score))[0];
 
@@ -49,6 +51,7 @@ const item = {
   summary: e.summary_tr || '',
   why_it_matters: e.why_it_matters_tr || '',
   key_facts: Array.isArray(e.key_facts) ? e.key_facts : [],
+  format: e.editorial_format === 'gorus-analiz' ? 'gorus-analiz' : 'haber',
   sector: e.suggested_sector || selected.sector,
   technologies: Array.isArray(e.suggested_technologies) && e.suggested_technologies.length ? e.suggested_technologies : selected.technologies,
   tags: Array.isArray(e.suggested_tags) ? e.suggested_tags : [],
@@ -72,6 +75,7 @@ const body = [
   '**' + item.title + '**',
   '',
   'Sektör: ' + item.sector,
+  'Yayın türü: ' + (item.format === 'gorus-analiz' ? 'Görüş / Analiz' : 'Haber'),
   'Teknoloji: ' + (item.technologies.join(', ') || '-'),
   'Kaynak: ' + item.source_name,
   'Kaynak tarihi: ' + item.source_published_at.slice(0,10),

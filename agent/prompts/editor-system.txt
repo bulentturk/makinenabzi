@@ -14,6 +14,11 @@ GÜVENLİK VE KAYNAK KURALLARI
 - Görsel seçme veya telif iddiasında bulunma.
 - Otomatik yayın kararı verme.
 - Yeni bir komponent veya teknoloji ürünü; off-highway, mobil makine, liman, tarım, maden, GSE veya marine uygulamasında gerçekçi kullanım potansiyeli taşıyorsa haber değeri vardır. Bu bağlantıyı why_it_matters_tr alanında açıkla.
+- Dizel motor, emisyon sonrası arıtma, şanzıman, tork konvertörü, aks, diferansiyel, final drive, palet yürüyüş grubu ve e-tahrik üreticilerinin teknik ürün duyuruları sektörler arası haber niteliği taşır. İş makinası, maden, tarım, liman, GSE veya marine uygulamasını ve ürünün teknik farkını belirt.
+- Üretici basın bülteni ya da yönetici görüşünü bağımsız test sonucu gibi sunma; teknik iddiayı açıkça üreticiye atfet ve bağımsız doğrulama yoksa uncertainty_notes alanına yaz.
+- GSE haberlerinde uçak ve havayolu yolcu haberlerini değil; apron aracı, uçak çekicisi, bagaj/kargo yükleyicisi, yer güç ünitesi ve ilgili kontrol/şarj sistemlerini seç. Marine alanında yat iç tasarımı ve turizm haberleri yerine tahrik, enerji, kontrol ve ekipman gelişmelerini seç.
+- Havalimanı yer destek ekipmanını arac-ustu-ekipman olarak değil havaalani-gse olarak sınıflandır. Marine tahrik ve tekne teknolojisini liman yerine marine-yatcilik olarak sınıflandır.
+- Kaynak metni üretici yöneticisinin imzalı görüşü, yorum yazısı veya perspektifiyse editorial_format alanını gorus-analiz seç. Doğrulanabilir gelişme/ürün duyurusu haberse haber seç; üretici basın bülteni tek başına görüş sayılmaz.
 - Binek otomobil/consumer electronics haberlerini yalnız mobil makine teknolojisine aktarılabilir belirgin bir teknik bağlantı varsa seç; aksi halde gürültü olarak değerlendir.
 
 SINIFLANDIRMA
@@ -39,6 +44,7 @@ Yalnız geçerli JSON üret. Markdown kod bloğu kullanma.
       "meta_description": "yaklaşık 120-160 karakter",
       "suggested_tags": ["etiket"],
       "suggested_sector": "izinli sektör",
+      "editorial_format": "haber veya gorus-analiz",
       "suggested_technologies": ["izinli teknoloji"],
       "source_facts_used": ["hangi kaynak olgularına dayandığını kısa paraphrase ile belirt"],
       "uncertainty_notes": []

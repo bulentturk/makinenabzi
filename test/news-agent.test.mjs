@@ -57,6 +57,34 @@ test('alerts when every source fails', async () => {
   assert.equal(health[0].ok,false);
 });
 
+test('routes airport GSE, marine equipment and off-highway powertrain while filtering unrelated stories', async () => {
+  const date = new Date().toUTCString();
+  const feeds = [
+    {name:'GSE',sector:'havaalani-gse',require_equipment_context:'gse',items:[
+      ['Electric aircraft tug and ground power unit unveiled','https://example.org/gse','An airport ground support equipment launch for apron fleets.'],
+      ['Airport terminal retail space expands','https://example.org/retail','A new passenger shopping area and lighting.']
+    ]},
+    {name:'Marine',sector:'marine-yatcilik',require_equipment_context:'marine',items:[
+      ['New electric yacht thruster announced','https://example.org/yacht','Marine propulsion system for an electric boat.'],
+      ['Superyacht interior exhibition opens','https://example.org/interior','Luxury furniture and design.']
+    ]},
+    {name:'Powertrain',sector:'is-makinalari',focus:'powertrain',items:[
+      ['New diesel engine for off-highway loader','https://example.org/engine','Stage V powertrain for construction equipment.'],
+      ['Company acquisition announced','https://example.org/business','Merger and funding only.']
+    ]}
+  ];
+  const sources=feeds.map(({items,...source})=>({
+    ...source,priority:85,
+    url:`data:application/rss+xml,${encodeURIComponent(`<?xml version="1.0"?><rss version="2.0"><channel><title>${source.name}</title>${items.map(([title,link,description])=>`<item><title>${title}</title><link>${link}</link><pubDate>${date}</pubDate><description>${description}</description></item>`).join('')}</channel></rss>`)}`
+  }));
+  const {result,candidates,health}=await runAgent({sources});
+  assert.equal(result.status,0,result.stderr);
+  assert.deepEqual(new Set(candidates.map(item=>item.source_url)),new Set(['https://example.org/gse','https://example.org/yacht','https://example.org/engine']));
+  assert.equal(candidates.find(item=>item.source_url==='https://example.org/gse').sector,'havaalani-gse');
+  assert.equal(candidates.find(item=>item.source_url==='https://example.org/yacht').sector,'marine-yatcilik');
+  assert.equal(health.every(item=>item.ok),true);
+});
+
 test('approval queue skips a previously drafted passenger EV story', async () => {
   const dir = await fs.mkdtemp(path.join(os.tmpdir(),'makinenabzi-review-'));
   try {

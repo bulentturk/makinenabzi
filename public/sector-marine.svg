@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-label="Marine tahrik ve yat teknolojileri çizimi">
+  <defs>
+    <linearGradient id="sea" x2="1" y2="1"><stop stop-color="#092338"/><stop offset="1" stop-color="#064c62"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#59d3e6" stop-opacity=".38"/><stop offset="1" stop-color="#59d3e6" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#75d9e7" stroke-opacity=".09"/></pattern>
+  </defs>
+  <rect width="1200" height="720" fill="url(#sea)"/><rect width="1200" height="720" fill="url(#grid)"/><circle cx="855" cy="300" r="350" fill="url(#glow)"/>
+  <g fill="none" stroke="#a9eff2" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M193 430H1003L902 543H312Z" stroke-width="7" fill="#103f54"/>
+    <path d="M379 428V333H797L865 430M529 333V250H696L766 333M609 251V203H634" stroke-width="6"/>
+    <path d="M231 568c68-20 136-20 204 0s136 20 204 0 136-20 204 0 136 20 204 0M267 613c76-20 151-20 227 0s151 20 227 0 151-20 227 0" stroke="#60d5e3" stroke-opacity=".65" stroke-width="5"/>
+    <path d="M720 539v43m-49 0h98m-49 0-37 36m37-36 37 36" stroke="#f2b267" stroke-width="5"/>
+    <circle cx="720" cy="582" r="16" stroke="#f2b267" stroke-width="5"/>
+  </g>
+  <g fill="#7bdfea"><circle cx="443" cy="377" r="6"/><circle cx="504" cy="377" r="6"/><circle cx="564" cy="377" r="6"/></g>
+</svg>
