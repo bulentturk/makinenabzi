@@ -133,7 +133,7 @@ async function collectSource(source) {
   const started = Date.now();
   try {
     const response = await fetch(source.url, {
-      signal: AbortSignal.timeout(12000),
+      signal: AbortSignal.timeout(source.timeout_ms || 12000),
       headers: { 'user-agent': 'MakineNabziNewsAgent/1.0 (+https://makinenabzi.com)' }
     });
     if (!response.ok) throw new Error('HTTP ' + response.status);

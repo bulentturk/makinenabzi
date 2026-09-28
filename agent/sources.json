@@ -91,6 +91,7 @@
     "sector": "is-makinalari",
     "priority": 92,
     "focus": "powertrain",
-    "require_equipment_context": "powertrain"
+    "require_equipment_context": "powertrain",
+    "timeout_ms": 30000
   }
 ]
