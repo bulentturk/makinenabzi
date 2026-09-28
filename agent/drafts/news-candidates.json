@@ -1,61 +1,5 @@
 [
   {
-    "id": "f177b7411a7bddcc",
-    "status": "published",
-    "title_original": "Geely counters BYD with 2.25 MW charging system",
-    "source_name": "electrive",
-    "source_url": "https://www.electrive.com/2026/09/24/geely-counters-byd-with-2-25-mw-charging-system/",
-    "source_feed": "https://www.electrive.com/feed/",
-    "published_at": "2026-09-24T17:30:00.000Z",
-    "discovered_at": "2026-09-27T18:15:25.219Z",
-    "sector": "elektrifikasyon",
-    "technologies": [
-      "elektrifikasyon"
-    ],
-    "relevance_score": 148,
-    "editorial_fit_score": 77,
-    "summary_source": "Geely is entering the race for ever-higher charging powers in China with a new generation of its Smart Charging technology. Paired with a battery capable of up to 12C, electric cars should be able to charge from ten to 70 percent in just four and a half minutes using a proprietary charging system.",
-    "editorial": {
-      "title_tr": "Geely, 2,25 MW şarj sistemiyle yüksek güç yarışına katılıyor",
-      "dek_tr": "Geely’nin yeni Smart Charging teknolojisi, 12C’ye kadar şarj kapasitesine sahip bir bataryayla birlikte tanıtılıyor. Kaynak özeti, elektrikli otomobiller için yüzde 10’dan yüzde 70’e şarj süresini 4,5 dakika olarak veriyor.",
-      "summary_tr": "Geely, Çin’de yüksek güçlü şarj çözümlerine yönelik yeni nesil Smart Charging teknolojisini duyurdu. Kaynak başlığı sistemin gücünü 2,25 MW olarak belirtirken, özet bu sistemle eşleştirilen bataryanın 12C’ye kadar şarj kapasitesine sahip olduğunu aktarıyor.\n\nKaynağa göre elektrikli otomobillerin şarj seviyesi yüzde 10’dan yüzde 70’e 4,5 dakikada çıkarılabilecek. Sistem için verilen ayrıntılar sınırlı; tam kaynak metnine erişilemedi.",
-      "why_it_matters_tr": "Megavat ölçeğindeki şarj gücü, yüksek enerji ihtiyacı olan mobil makinelerin elektrifikasyonu açısından izlenmeye değer bir teknik yönelim. Ancak aktarılan çözüm elektrikli otomobiller için ve özel bir sistem olarak tanımlanıyor; iş makinelerine uygunluğu veya başka altyapılarla uyumluluğu hakkında veri yok.",
-      "seo_title": "Geely’den 2,25 MW gücünde yeni şarj sistemi",
-      "meta_description": "Geely’nin Smart Charging sistemi 2,25 MW güç ve 12C’ye kadar batarya şarj kapasitesiyle tanıtıldı. Kaynak, otomobiller için 4,5 dakikalık şarj süresi veriyor.",
-      "hero_image": "",
-      "reviewed": true,
-      "key_facts": [
-        "Kaynak başlığında sistem gücü 2,25 MW olarak belirtiliyor.",
-        "Bataryanın şarj kapasitesi 12C’ye kadar veriliyor.",
-        "Yüzde 10’dan yüzde 70’e şarj süresi 4,5 dakika olarak aktarılıyor.",
-        "Teknoloji elektrikli otomobiller için tanıtılıyor."
-      ],
-      "suggested_tags": [
-        "Geely",
-        "yüksek güçlü şarj",
-        "batarya",
-        "elektrikli araç"
-      ],
-      "suggested_sector": "elektrifikasyon",
-      "suggested_technologies": [
-        "elektrifikasyon"
-      ],
-      "source_facts_used": [
-        "Kaynak başlığında Geely sistemi 2,25 MW olarak adlandırıyor.",
-        "Kaynak özeti yeni nesil Smart Charging teknolojisinden ve 12C’ye kadar batarya şarj kapasitesinden söz ediyor.",
-        "Kaynak özeti yüzde 10’dan yüzde 70’e şarjı 4,5 dakika olarak veriyor ve uygulamayı elektrikli otomobillerle sınırlıyor."
-      ],
-      "uncertainty_notes": [
-        "Kaynak sayfasına HTTP 403 nedeniyle erişilemedi; taslak yalnızca başlık ve kısa özetten oluşturuldu.",
-        "Şarj süresi ve kapasite değerleri bağımsız olarak doğrulanmadı; sistemin test koşulları, uyumluluğu ve mobil makinelere uygulanabilirliği bilinmiyor."
-      ],
-      "generated_at": "2026-09-27T18:58:20.027Z",
-      "generated_by": "github-models",
-      "reviewed_at": "2026-09-27T19:37:14.423Z",
-      "review_result": "published"
-    }
-  },
-  {
     "id": "bc3cad8c509dcf70",
     "status": "published",
     "title_original": "Greenore Port enhances crane safety",
@@ -223,103 +167,29 @@
     "editorial_fit_score": 67
   },
   {
-    "id": "66a2ff803ec38e46",
-    "status": "published",
-    "title_original": "John Deere Delivers Big Performance and Compact Design with New 40 P-Tier Excavator Model",
-    "source_name": "Construction Equipment Guide",
-    "source_url": "https://www.constructionequipmentguide.com/john-deere-delivers-big-performance-and-compact-design-with-new-40-ptier-excavator-model/72340",
-    "source_feed": "https://feeds.feedburner.com/ceg",
-    "published_at": "2026-09-24T05:00:00.000Z",
-    "discovered_at": "2026-09-27T06:58:53.431Z",
-    "sector": "is-makinalari",
+    "id": "9b76aa7e869e33e6",
+    "status": "candidate",
+    "title_original": "EXCLUSIVE: Balancing standardisation and terminal-specific design in mobile harbour cranes",
+    "source_name": "Port Strategy",
+    "source_url": "https://www.portstrategy.com/news/container-cargo-handling/exclusive-balancing-standardisation-and-terminal-specific-design-in-mobile-harbour-cranes/",
+    "source_feed": "https://www.portstrategy.com/feed",
+    "published_at": "2026-09-28T10:42:19.000Z",
+    "discovered_at": "2026-09-28T11:21:10.654Z",
+    "sector": "liman",
     "technologies": [],
     "relevance_score": 130,
-    "summary_source": "The new 40 P-Tier Compact Excavator combines impressive digging capability with an operating weight under 10,000 lbs., making it easy to transport between jobsites while offering powerful performance....",
+    "editorial_fit_score": 65,
+    "summary_source": "Every terminal asks a different question of the crane, writes Leopold Berthold, managing director at Liebherr-MCCtec",
     "editorial": {
-      "title_tr": "John Deere 40 P-Tier kompakt ekskavatörünü tanıttı",
-      "dek_tr": "John Deere'ın yeni 40 P-Tier kompakt ekskavatörü 10.000 lb'nin altında işletme ağırlığıyla tanıtılıyor. Kaynak özeti, modelin kazı performansı ve şantiyeler arası taşınabilirliğini öne çıkarıyor.",
-      "summary_tr": "John Deere, 40 P-Tier adlı yeni kompakt ekskavatör modelini tanıttı. Kaynak özetine göre makinenin işletme ağırlığı 10.000 lb'nin altında.\n\nÖzet, modelin kazı kabiliyetine ve işler arasında taşınmasının kolaylığına dikkat çekiyor; ancak bu niteliklere ilişkin ölçülebilir teknik veriler sunmuyor.",
-      "why_it_matters_tr": "İşletme ağırlığı ve taşınabilirlik, kompakt ekskavatörleri farklı şantiyelerde kullanan işletmelerin makine seçimi ve lojistik planlamasında değerlendirebileceği ölçütlerdir. Modelin gerçek performansını karşılaştırmak için daha ayrıntılı teknik özellikler gerekir.",
-      "seo_title": "John Deere 40 P-Tier kompakt ekskavatör tanıtıldı",
-      "meta_description": "John Deere 40 P-Tier kompakt ekskavatör, 10.000 lb'nin altında işletme ağırlığıyla tanıtıldı. Kaynakta ayrıntılı teknik özellikler bulunmuyor.",
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
       "hero_image": "",
-      "reviewed": true,
-      "key_facts": [
-        "Yeni modelin adı John Deere 40 P-Tier.",
-        "Kaynak özeti işletme ağırlığını 10.000 lb'nin altında veriyor.",
-        "Kaynak, kazı kabiliyeti ve şantiyeler arasında taşınabilirlik konularını vurguluyor."
-      ],
-      "suggested_tags": [
-        "John Deere",
-        "40 P-Tier",
-        "kompakt ekskavatör",
-        "iş makineleri"
-      ],
-      "suggested_sector": "is-makinalari",
-      "suggested_technologies": [],
-      "source_facts_used": [
-        "John Deere 40 P-Tier modelinin yeni kompakt ekskavatör olarak tanıtıldığı bildiriliyor.",
-        "Kaynak özeti işletme ağırlığının 10.000 lb'nin altında olduğunu belirtiyor.",
-        "Kazı kabiliyeti ve şantiyeler arasında taşınabilirlik kaynak özetinde vurgulanıyor."
-      ],
-      "uncertainty_notes": [
-        "Kaynak sayfasına erişim 403 hatasıyla sınırlı; eldeki özet motor, kazı derinliği, çalışma aralığı ve diğer teknik özellikleri içermiyor."
-      ],
-      "generated_at": "2026-09-27T17:54:49.218Z",
-      "generated_by": "github-models",
-      "reviewed_at": "2026-09-27T19:39:08.707Z",
-      "review_result": "published"
-    },
-    "editorial_fit_score": 65
-  },
-  {
-    "id": "08eba99745511312",
-    "status": "published",
-    "title_original": "Advance Produces 20,000th Front-Discharge Mixer",
-    "source_name": "Construction Equipment Guide",
-    "source_url": "https://www.constructionequipmentguide.com/advance-produces-20000th-frontdischarge-mixer/72341",
-    "source_feed": "https://feeds.feedburner.com/ceg",
-    "published_at": "2026-09-24T05:00:00.000Z",
-    "discovered_at": "2026-09-27T06:58:53.431Z",
-    "sector": "is-makinalari",
-    "technologies": [],
-    "relevance_score": 120,
-    "summary_source": "The Advance team marks the production of its 20,000th mixer....",
-    "editorial": {
-      "title_tr": "Advance, 20 bininci önden boşaltmalı mikserini üretti",
-      "dek_tr": "Advance, 20 bininci önden boşaltmalı mikserinin üretimini tamamladığını duyurdu. Mevcut kaynak içeriği, makinenin özellikleri veya üretim tarihi hakkında ayrıntı sunmuyor.",
-      "summary_tr": "Construction Equipment Guide’ın başlığı, Advance’in 20 bininci önden boşaltmalı mikserini ürettiğini bildiriyor. Kısa kaynak özetinde Advance ekibinin bu üretim kilometre taşını kutladığı belirtiliyor.\n\nPaylaşılan içerikte mikserin modeli, teknik özellikleri, kullanım yeri veya üretim sürecine ilişkin başka bilgi bulunmuyor.",
-      "why_it_matters_tr": "Önden boşaltmalı beton mikserleri inşaat sahalarında malzeme taşıma ve boşaltma ekipmanları arasında yer alır; üretim kilometre taşı, bu ürün grubunun pazardaki varlığına ilişkin sınırlı bir gösterge sunar. Model ve operasyon verileri olmadığından makinenin teknik yeniliği ya da saha performansı hakkında değerlendirme yapılamaz.",
-      "seo_title": "Advance 20 bininci önden boşaltmalı mikserini üretti",
-      "meta_description": "Advance, 20 bininci önden boşaltmalı mikserinin üretimini duyurdu. Paylaşılan kaynakta model, teknik özellik ve üretim süreci ayrıntıları bulunmuyor.",
-      "hero_image": "",
-      "reviewed": true,
-      "key_facts": [
-        "Kaynak başlığı Advance’in 20 bininci önden boşaltmalı mikserini ürettiğini bildiriyor.",
-        "Kısa kaynak özeti ekibin üretim kilometre taşını kutladığını aktarıyor."
-      ],
-      "suggested_tags": [
-        "Advance",
-        "beton mikseri",
-        "önden boşaltmalı mikser",
-        "inşaat ekipmanları"
-      ],
-      "suggested_sector": "is-makinalari",
-      "suggested_technologies": [],
-      "source_facts_used": [
-        "Kaynak başlığı Advance’in 20 bininci önden boşaltmalı mikserini ürettiğini belirtiyor.",
-        "Kısa kaynak özeti Advance ekibinin üretim kilometre taşını kutladığını söylüyor."
-      ],
-      "uncertainty_notes": [
-        "Kaynak sayfasına HTTP 403 nedeniyle erişilemedi; mevcut özet yalnızca üretim adedini ve ekip kutlamasını içeriyor.",
-        "Üretim tarihi, ilgili model, teknik özellikler ve üretim koşulları kaynak içeriğinde yer almıyor."
-      ],
-      "generated_at": "2026-09-27T18:58:20.027Z",
-      "generated_by": "github-models",
-      "reviewed_at": "2026-09-27T19:49:28.258Z",
-      "review_result": "published"
-    },
-    "editorial_fit_score": 55
+      "reviewed": false
+    }
   },
   {
     "id": "c9bf9d8e29565d41",

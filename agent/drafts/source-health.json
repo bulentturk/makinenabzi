@@ -3,45 +3,96 @@
     "source": "International Mining",
     "url": "https://im-mining.com/feed/",
     "ok": true,
-    "duration_ms": 4471,
+    "duration_ms": 1142,
+    "feed_items_seen": 12,
+    "items_in_window": 6,
+    "relevant_items": 1,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-09-27T18:57:28.939Z"
+    "checked_at": "2026-09-28T11:21:10.655Z"
   },
   {
     "source": "Port Strategy",
     "url": "https://www.portstrategy.com/feed",
     "ok": true,
-    "duration_ms": 4583,
-    "candidates_found": 0,
+    "duration_ms": 4947,
+    "feed_items_seen": 10,
+    "items_in_window": 4,
+    "relevant_items": 2,
+    "candidates_found": 1,
     "error": null,
-    "checked_at": "2026-09-27T18:57:28.939Z"
+    "checked_at": "2026-09-28T11:21:10.655Z"
   },
   {
     "source": "Construction Equipment Guide",
     "url": "https://feeds.feedburner.com/ceg",
     "ok": true,
-    "duration_ms": 402,
+    "duration_ms": 320,
+    "feed_items_seen": 15,
+    "items_in_window": 3,
+    "relevant_items": 1,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-09-27T18:57:28.939Z"
+    "checked_at": "2026-09-28T11:21:10.655Z"
   },
   {
     "source": "Tunnels & Tunnelling",
     "url": "https://www.tunnelsandtunnelling.com/feed/",
     "ok": true,
-    "duration_ms": 360,
+    "duration_ms": 398,
+    "feed_items_seen": 10,
+    "items_in_window": 5,
+    "relevant_items": 1,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-09-27T18:57:28.939Z"
+    "checked_at": "2026-09-28T11:21:10.655Z"
   },
   {
     "source": "electrive",
     "url": "https://www.electrive.com/feed/",
     "ok": true,
-    "duration_ms": 563,
+    "duration_ms": 482,
+    "feed_items_seen": 15,
+    "items_in_window": 15,
+    "relevant_items": 0,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-09-27T18:57:28.939Z"
+    "checked_at": "2026-09-28T11:21:10.655Z"
+  },
+  {
+    "source": "iVT International",
+    "url": "https://www.ivtinternational.com/feed",
+    "ok": true,
+    "duration_ms": 950,
+    "feed_items_seen": 10,
+    "items_in_window": 1,
+    "relevant_items": 0,
+    "candidates_found": 0,
+    "error": null,
+    "checked_at": "2026-09-28T11:21:10.655Z"
+  },
+  {
+    "source": "Charged EVs",
+    "url": "https://chargedevs.com/feed/",
+    "ok": true,
+    "duration_ms": 432,
+    "feed_items_seen": 10,
+    "items_in_window": 10,
+    "relevant_items": 0,
+    "candidates_found": 0,
+    "error": null,
+    "checked_at": "2026-09-28T11:21:10.655Z"
+  },
+  {
+    "source": "Teknikport",
+    "url": "https://www.teknikport.com/feed/",
+    "ok": true,
+    "duration_ms": 2036,
+    "feed_items_seen": 10,
+    "items_in_window": 0,
+    "relevant_items": 0,
+    "candidates_found": 0,
+    "error": null,
+    "checked_at": "2026-09-28T11:21:10.655Z"
   }
 ]
