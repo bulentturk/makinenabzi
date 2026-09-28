@@ -1,5 +1,60 @@
 [
   {
+    "id": "4aa8b403b098b4a3",
+    "status": "published",
+    "title_original": "Titan International signs definitive agreement to sell ITM undercarriage business to Schlam owner USCO SpA",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/09/26/titan-international-signs-definitive-agreement-to-sell-itm-undercarriage-business-to-schlam-owner-usco-spa/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-09-26T13:05:19.000Z",
+    "discovered_at": "2026-09-27T06:58:47.960Z",
+    "sector": "madencilik",
+    "technologies": [
+      "yuruyus-guc-aktarma"
+    ],
+    "relevance_score": 148,
+    "summary_source": "Titan International Inc, a leading global manufacturer of off-highway wheels, tyres and undercarriage products, this week announced that it has entered into a definitive agreement to sell its Italtractor ITM undercarriage business (ITM) to Modena, Italy headquartered USCO SpA. The transaction is expected to close early in January 2027, subject to the satisfaction of customary The post Titan International signs definitive agreement to sell ITM undercarriage business to Schlam owner USCO SpA appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "Titan International, ITM palet alt takımı işini USCO’ya satmak için anlaşma imzaladı",
+      "dek_tr": "Titan International, Italtractor ITM alt takım işini İtalya merkezli USCO’ya devretmek üzere kesin anlaşmaya vardı. İşlemin, olağan kapanış koşullarına bağlı olarak Ocak 2027 başında tamamlanması bekleniyor.",
+      "summary_tr": "International Mining’in aktardığına göre Titan International, Italtractor ITM alt takım işini USCO SpA’ya satmak üzere kesin anlaşma imzaladı. USCO’nun merkezi Modena, İtalya’da bulunuyor.\n\nİşlemin Ocak 2027 başında tamamlanması bekleniyor; kapanış olağan koşulların yerine getirilmesine bağlı. Kaynak metninde satışın diğer şartları ve finansal ayrıntıları yer almıyor.",
+      "why_it_matters_tr": "Alt takım ürünleri, paletli iş ve maden makinelerinin hareket kabiliyeti ve çalışma sürekliliği açısından temel bileşenlerdir. Bu mülkiyet değişikliği, söz konusu ürünlerin tedarik ve kurumsal yapılanmasının geleceği bakımından sektörde takip edilmeye değer; ancak kaynak, üretim veya satış sonrası hizmetlerde bir değişiklik olup olmayacağını açıklamıyor.",
+      "seo_title": "Titan International, ITM alt takım işini USCO’ya devrediyor",
+      "meta_description": "Titan International, Italtractor ITM alt takım işini USCO SpA’ya satmak üzere kesin anlaşma imzaladı. İşlemin Ocak 2027 başında kapanması bekleniyor.",
+      "hero_image": "",
+      "reviewed": true,
+      "key_facts": [
+        "Satıcı Titan International’dır.",
+        "Satışa konu iş, Italtractor ITM alt takım işidir.",
+        "Alıcı USCO SpA’dır ve şirketin merkezi Modena, İtalya’dadır.",
+        "Kapanışın olağan koşullara bağlı olarak Ocak 2027 başında gerçekleşmesi bekleniyor."
+      ],
+      "suggested_tags": [
+        "Titan International",
+        "ITM",
+        "USCO",
+        "alt takım",
+        "paletli makineler"
+      ],
+      "suggested_sector": "madencilik",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Kaynak, Titan International’ın Italtractor ITM işini USCO SpA’ya satmak üzere kesin anlaşma imzaladığını bildiriyor.",
+        "USCO’nun Modena, İtalya merkezli olduğu aktarılıyor.",
+        "İşlemin olağan koşullara bağlı olarak Ocak 2027 başında tamamlanmasının beklendiği belirtiliyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfasına HTTP 403 nedeniyle erişilemedi; kaynak özeti ve başlıkla sınırlı bilgi kullanıldı.",
+        "Satış bedeli, kapanış koşullarının ayrıntıları ve çalışanlar, üretim ya da satış sonrası hizmetler üzerindeki olası etkiler verilmemiş."
+      ],
+      "generated_at": "2026-09-27T18:58:20.027Z",
+      "generated_by": "github-models",
+      "reviewed_at": "2026-09-27T19:45:00.849Z",
+      "review_result": "published"
+    },
+    "editorial_fit_score": 67
+  },
+  {
     "id": "407ca3a26daca6fb",
     "status": "drafted",
     "title_original": "Changing propulsion demands to reshape marine engine market",
@@ -54,59 +109,6 @@
       "generated_at": "2026-09-28T19:40:41.921Z",
       "generated_by": "github-models"
     }
-  },
-  {
-    "id": "4aa8b403b098b4a3",
-    "status": "published",
-    "title_original": "Titan International signs definitive agreement to sell ITM undercarriage business to Schlam owner USCO SpA",
-    "source_name": "International Mining",
-    "source_url": "https://im-mining.com/2026/09/26/titan-international-signs-definitive-agreement-to-sell-itm-undercarriage-business-to-schlam-owner-usco-spa/",
-    "source_feed": "https://im-mining.com/feed/",
-    "published_at": "2026-09-26T13:05:19.000Z",
-    "discovered_at": "2026-09-27T06:58:47.960Z",
-    "sector": "madencilik",
-    "technologies": [],
-    "relevance_score": 140,
-    "summary_source": "Titan International Inc, a leading global manufacturer of off-highway wheels, tyres and undercarriage products, this week announced that it has entered into a definitive agreement to sell its Italtractor ITM undercarriage business (ITM) to Modena, Italy headquartered USCO SpA. The transaction is expected to close early in January 2027, subject to the satisfaction of customary The post Titan International signs definitive agreement to sell ITM undercarriage business to Schlam owner USCO SpA appeared first on International Mining.",
-    "editorial": {
-      "title_tr": "Titan International, ITM palet alt takımı işini USCO’ya satmak için anlaşma imzaladı",
-      "dek_tr": "Titan International, Italtractor ITM alt takım işini İtalya merkezli USCO’ya devretmek üzere kesin anlaşmaya vardı. İşlemin, olağan kapanış koşullarına bağlı olarak Ocak 2027 başında tamamlanması bekleniyor.",
-      "summary_tr": "International Mining’in aktardığına göre Titan International, Italtractor ITM alt takım işini USCO SpA’ya satmak üzere kesin anlaşma imzaladı. USCO’nun merkezi Modena, İtalya’da bulunuyor.\n\nİşlemin Ocak 2027 başında tamamlanması bekleniyor; kapanış olağan koşulların yerine getirilmesine bağlı. Kaynak metninde satışın diğer şartları ve finansal ayrıntıları yer almıyor.",
-      "why_it_matters_tr": "Alt takım ürünleri, paletli iş ve maden makinelerinin hareket kabiliyeti ve çalışma sürekliliği açısından temel bileşenlerdir. Bu mülkiyet değişikliği, söz konusu ürünlerin tedarik ve kurumsal yapılanmasının geleceği bakımından sektörde takip edilmeye değer; ancak kaynak, üretim veya satış sonrası hizmetlerde bir değişiklik olup olmayacağını açıklamıyor.",
-      "seo_title": "Titan International, ITM alt takım işini USCO’ya devrediyor",
-      "meta_description": "Titan International, Italtractor ITM alt takım işini USCO SpA’ya satmak üzere kesin anlaşma imzaladı. İşlemin Ocak 2027 başında kapanması bekleniyor.",
-      "hero_image": "",
-      "reviewed": true,
-      "key_facts": [
-        "Satıcı Titan International’dır.",
-        "Satışa konu iş, Italtractor ITM alt takım işidir.",
-        "Alıcı USCO SpA’dır ve şirketin merkezi Modena, İtalya’dadır.",
-        "Kapanışın olağan koşullara bağlı olarak Ocak 2027 başında gerçekleşmesi bekleniyor."
-      ],
-      "suggested_tags": [
-        "Titan International",
-        "ITM",
-        "USCO",
-        "alt takım",
-        "paletli makineler"
-      ],
-      "suggested_sector": "madencilik",
-      "suggested_technologies": [],
-      "source_facts_used": [
-        "Kaynak, Titan International’ın Italtractor ITM işini USCO SpA’ya satmak üzere kesin anlaşma imzaladığını bildiriyor.",
-        "USCO’nun Modena, İtalya merkezli olduğu aktarılıyor.",
-        "İşlemin olağan koşullara bağlı olarak Ocak 2027 başında tamamlanmasının beklendiği belirtiliyor."
-      ],
-      "uncertainty_notes": [
-        "Kaynak sayfasına HTTP 403 nedeniyle erişilemedi; kaynak özeti ve başlıkla sınırlı bilgi kullanıldı.",
-        "Satış bedeli, kapanış koşullarının ayrıntıları ve çalışanlar, üretim ya da satış sonrası hizmetler üzerindeki olası etkiler verilmemiş."
-      ],
-      "generated_at": "2026-09-27T18:58:20.027Z",
-      "generated_by": "github-models",
-      "reviewed_at": "2026-09-27T19:45:00.849Z",
-      "review_result": "published"
-    },
-    "editorial_fit_score": 55
   },
   {
     "id": "c2710f79642d2a9d",
