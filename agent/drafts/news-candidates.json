@@ -165,7 +165,7 @@
   },
   {
     "id": "c9bf9d8e29565d41",
-    "status": "drafted",
+    "status": "published",
     "title_original": "TBM breaks through on Manila subway project",
     "source_name": "Tunnels & Tunnelling",
     "source_url": "https://www.tunnelsandtunnelling.com/news/tbm-breaks-through-on-manila-subway-project/",
@@ -184,7 +184,7 @@
       "seo_title": "Manila metro projesinde TBM tünel açma aşamasını tamamladı",
       "meta_description": "Metro Manila Subway projesinde bir tünel açma makinesinin çıkış yaptığı bildirildi. Kaynakta makine ve proje kesimiyle ilgili ayrıntı yok.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Kaynak, Manila metro projesinde bir TBM’nin çıkış yaptığını bildiriyor.",
         "Metro Manila Subway, kaynak açıklamasında Filipinler’in ilk yer altı demiryolu olarak tanımlanıyor."
@@ -206,7 +206,9 @@
         "Kaynak metninde yalnızca “APROTEK” ifadesi yer alıyor; TBM’nin adı, konumu, çıkış tarihi ve proje ilerlemesi hakkında ayrıntı doğrulanamıyor."
       ],
       "generated_at": "2026-09-28T11:22:02.483Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-09-28T19:24:13.088Z",
+      "review_result": "published"
     },
     "editorial_fit_score": 55
   }
