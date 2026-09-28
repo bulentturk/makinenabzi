@@ -49,7 +49,7 @@ const machineryTerms = [
   'haul truck','dump truck','mining truck','lhd','drill rig','crusher','conveyor','tbm',
   'mixer','concrete pump','aerial platform','tractor','harvester','undercarriage','track chain','track roller','track shoe','track link','idler','sprocket',
   'diesel engine','combustion engine','engine platform','aftertreatment','stage v engine',
-  'transmission','powershift','powertrain','drivetrain','hydrostatic','final drive','axle','differential',
+  'transmission','automatic transmission','powershift','powertrain','drivetrain','hydrostatic','final drive','axle','planetary axle','differential',
   'hydraulic','inverter','electric motor','bms','telematics','telemetry','fleet management',
   'autonomous haulage','autonomous transport','remote operation','collision avoidance',
   'machine vision','camera system','charging system','battery electric',
@@ -89,6 +89,8 @@ function score(item, source) {
   let s = source.priority || 50;
   s += tagsFrom(text).length * 8;
   s += Math.max(0, Math.min(40, editorialFit(item, source)));
+  if (['deutz','cummins','allison','zf','dana','kessler'].some(name => hasTerm(text,name))
+      && ['diesel engine','transmission','gearbox','axle','drivetrain','final drive','powertrain','off-highway','mining'].some(term => hasTerm(text,term))) s += 15;
   if (/(launch|introduc|new |electric|autonom|battery|technology|system|platform|retrofit)/.test(text)) s += 10;
   return s;
 }

@@ -506,7 +506,8 @@
       "sanziman",
       "guc-aktarma"
     ],
-    "status": "watchlist-web",
+    "feed": "https://ir.allisontransmission.com/rss/news-releases.xml",
+    "status": "active-rss-filtered",
     "priority": 92,
     "origin": "sector-expansion"
   },
@@ -567,6 +568,15 @@
     "focus": ["paletli-yuruyus", "alt-takim", "madencilik"],
     "status": "watchlist-web",
     "priority": 88,
+    "origin": "sector-expansion"
+  },
+  {
+    "name": "Kessler + Co Press",
+    "url": "https://kessler-co.com/en/Company/press",
+    "kind": "manufacturer_pressroom",
+    "focus": ["aks", "sanziman", "planet-disli", "elektrikli-tahrik", "liman", "madencilik"],
+    "status": "watchlist-web-priority",
+    "priority": 92,
     "origin": "sector-expansion"
   }
 ]
