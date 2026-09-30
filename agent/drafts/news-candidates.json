@@ -1,7 +1,7 @@
 [
   {
     "id": "6ab127c6aaf68d77",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Hyundai Material Handling completes B-X electric forklift range",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/materials-handling/hyundai-material-handling-completes-b-x-electric-forklift-range.html",
@@ -16,14 +16,42 @@
     "editorial_fit_score": 67,
     "summary_source": "Hyundai Material Handling has completed its B-X high-voltage electric forklift range with the introduction of 10-13 tonne and 16-18 tonne models, giving the manufacturer an electric counterbalance line-up spanning 4-18 [...] The post Hyundai Material Handling completes B-X electric forklift range appeared first on Industrial Vehicle Technology International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Hyundai B-X elektrikli forklift serisini 18 tona kadar genişletti",
+      "dek_tr": "Hyundai Material Handling, yüksek gerilimli B-X elektrikli forklift serisine 10–13 ton ve 16–18 ton sınıflarındaki modelleri ekledi. Serinin kapasite aralığı 4–18 ton olarak belirtiliyor.",
+      "summary_tr": "Hyundai Material Handling, B-X yüksek gerilimli elektrikli karşı ağırlıklı forklift serisini 10–13 ton ve 16–18 ton sınıflarındaki modellerle tamamladığını duyurdu. Kaynak, serinin 4–18 ton arasında kapasite sunduğunu bildiriyor.\n\nHaberde yeni modellerin limanlar, gemi inşası ve metal elleçleme gibi uygulamalara elektrikli güç seçeneği sunduğu aktarılıyor. Batarya, şarj süresi veya performans verileri paylaşılmadığından bu alanlarda karşılaştırma yapmak mümkün değil.",
+      "why_it_matters_tr": "Elektrikli forkliftlerin daha yüksek kapasite sınıflarına uzanması, liman ve ağır malzeme elleçleme operasyonlarında elektrikli ekipman kullanımını değerlendiren işletmeler için önem taşıyor. Ancak uygunluğu belirlemek için operasyonel performans ve şarj altyapısı verileri de gerekli.",
+      "seo_title": "Hyundai B-X elektrikli forklift serisi 18 tona ulaştı",
+      "meta_description": "Hyundai Material Handling, B-X elektrikli forklift serisini 10–13 ve 16–18 ton sınıflarıyla genişletti. Seri 4–18 ton kapasite aralığı sunuyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Hyundai Material Handling, B-X yüksek gerilimli elektrikli forklift serisine 10–13 ton ve 16–18 ton sınıflarında modeller ekledi.",
+        "Kaynakta serinin kapasite aralığı 4–18 ton olarak veriliyor.",
+        "Liman, gemi inşası ve metal elleçleme uygulamaları belirtiliyor."
+      ],
+      "suggested_tags": [
+        "Hyundai Material Handling",
+        "B-X",
+        "elektrikli forklift",
+        "liman ekipmanları",
+        "malzeme elleçleme"
+      ],
+      "suggested_sector": "liman",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "B-X serisinin yüksek gerilimli elektrikli karşı ağırlıklı forkliftlerden oluşması",
+        "10–13 ton ve 16–18 ton sınıfındaki modellerin eklenmesi ve serinin 4–18 ton kapasite aralığı",
+        "Liman, gemi inşası ve metal elleçlemenin uygulama alanları olarak belirtilmesi"
+      ],
+      "uncertainty_notes": [
+        "Kaynakta batarya kapasitesi, şarj süresi, çalışma süresi veya performans verileri yer almıyor.",
+        "Uygulama ve ürün bilgileri haber kaynağının aktarımına dayanıyor; bağımsız doğrulama sunulmuyor."
+      ],
+      "generated_at": "2026-09-30T10:50:42.237Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -108,7 +136,7 @@
   },
   {
     "id": "c43f0cc3138cd9cd",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Liebherr-Canada delivers new R 9150 excavator to Hammerstone Quarry",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/09/30/liebherr-canada-delivers-new-r-9150-excavator-to-hammerstone-quarry/",
@@ -121,14 +149,40 @@
     "editorial_fit_score": 65,
     "summary_source": "In June, Hammerstone Infrastructure Materials took delivery of an R 9150 excavator. This delivery brings Hammerstone’s number of these 150-tonne-class Liebherr excavators to three, with all of these machines working at Hammerstone’s Muskeg Quarry, one of Western Canada’s biggest limestone quarries. Muskeg Quarry is an important source of high-quality limestone aggregates for the oil sands The post Liebherr-Canada delivers new R 9150 excavator to Hammerstone Quarry appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Liebherr, Hammerstone Quarry'ye üçüncü R 9150 ekskavatörü teslim etti",
+      "dek_tr": "Hammerstone Infrastructure Materials, haziranda Muskeg Quarry'de çalışmak üzere bir Liebherr R 9150 teslim aldı. Teslimatla işletmenin sahadaki 150 ton sınıfı R 9150 sayısı üçe çıktı.",
+      "summary_tr": "Hammerstone Infrastructure Materials, haziran ayında Liebherr R 9150 ekskavatörünü teslim aldı. Bu teslimatla şirketin 150 ton sınıfındaki R 9150 makinelerinin sayısı üç oldu; makinelerin tümü Kanada'nın Alberta eyaletindeki Muskeg Quarry'de çalışıyor.\n\nKaynağa göre Muskeg Quarry, Batı Kanada'nın büyük kireçtaşı ocaklarından biri ve petrol kumları için yüksek kaliteli kireçtaşı agregası sağlıyor. Makinenin konfigürasyonu, üretim kapasitesi veya teslimatla ilgili başka teknik ayrıntılar paylaşılmıyor.",
+      "why_it_matters_tr": "Ocakta aynı sınıftan üç ekskavatörün çalışması, ağır ekipmanın büyük ölçekli agrega üretimindeki somut bir saha uygulamasını gösteriyor. Üretim veya verimlilik verisi verilmediği için teslimatın operasyonel etkisi hakkında daha ileri bir değerlendirme yapılamaz.",
+      "seo_title": "Hammerstone Quarry'de üç Liebherr R 9150 çalışıyor",
+      "meta_description": "Hammerstone Infrastructure Materials, Muskeg Quarry'de çalışmak üzere yeni bir Liebherr R 9150 teslim aldı. Ocaktaki 150 ton sınıfı R 9150 sayısı üçe çıktı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Hammerstone, haziran ayında bir Liebherr R 9150 teslim aldı.",
+        "Teslimatla Muskeg Quarry'deki R 9150 sayısı üçe çıktı.",
+        "R 9150'ler 150 ton sınıfında ve Muskeg Quarry'de çalışıyor.",
+        "Ocak, petrol kumları için kireçtaşı agregası sağlıyor."
+      ],
+      "suggested_tags": [
+        "Liebherr",
+        "R 9150",
+        "madencilik",
+        "kireçtaşı ocağı",
+        "ekskavatör"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Hammerstone'un haziranda bir R 9150 teslim alması",
+        "Teslimat sonrası Muskeg Quarry'deki 150 ton sınıfı R 9150 sayısının üç olması",
+        "Ocağın petrol kumları için kireçtaşı agregası sağlaması"
+      ],
+      "uncertainty_notes": [
+        "Kaynakta makinenin teknik konfigürasyonu, üretim performansı veya teslimatın operasyonel etkisi hakkında ayrıntı bulunmuyor."
+      ],
+      "generated_at": "2026-09-30T10:50:42.237Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -373,7 +427,7 @@
   },
   {
     "id": "e9f71fff0086bb8c",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Kubota Introduces All-New BX90 Sub-Compact Tractor Series",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/kubota-introduces-allnew-bx90-subcompact-tractor-series/72374",
@@ -386,14 +440,35 @@
     "editorial_fit_score": 65,
     "summary_source": "Kubota is introducing five new models with three trim levels as part of the the BX90 Series....",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Kubota, BX90 kompakt traktör serisini tanıttı",
+      "dek_tr": "Kubota, BX90 serisi kapsamında beş yeni model ve üç donanım seviyesi sunacağını duyurdu. Kaynakta modellerin teknik özelliklerine ilişkin ayrıntı paylaşılmıyor.",
+      "summary_tr": "Kubota, BX90 kompakt traktör serisine beş yeni model eklediğini duyurdu. Seride üç donanım seviyesi bulunuyor.\n\nMevcut kaynak metni, modellerin motor, aktarma organları, ölçüleri veya uyumlu ekipmanları hakkında bilgi vermiyor. Bu nedenle ürün gamındaki teknik farklar ve hedeflenen kullanım alanları hakkında daha ayrıntılı değerlendirme yapılamıyor.",
+      "why_it_matters_tr": "Kompakt traktörler, tarımsal işletmelerde ve dar alanlarda yapılan işlerde ekipman seçeneği olabilir. Ancak BX90 serisinin hangi görev ve uygulamalara yönelik olduğunu belirlemek için teknik özellikler ve uyumlu ekipman bilgileri gerekli.",
+      "seo_title": "Kubota BX90 serisine beş yeni kompakt traktör ekledi",
+      "meta_description": "Kubota, BX90 kompakt traktör serisini beş yeni model ve üç donanım seviyesiyle tanıttı. Kaynakta teknik özellikler hakkında ayrıntı yer almıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Kubota, BX90 serisi için beş yeni model tanıttı.",
+        "Seride üç donanım seviyesi bulunuyor."
+      ],
+      "suggested_tags": [
+        "Kubota",
+        "BX90",
+        "kompakt traktör",
+        "tarım makinaları"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "BX90 serisi kapsamında beş yeni model ve üç donanım seviyesi sunulması"
+      ],
+      "uncertainty_notes": [
+        "Kaynak özeti yalnızca model sayısı ve donanım seviyesi bilgisini içeriyor; teknik özellikler ve hedeflenen uygulamalar belirtilmiyor."
+      ],
+      "generated_at": "2026-09-30T10:50:42.237Z",
+      "generated_by": "github-models"
     }
   },
   {
