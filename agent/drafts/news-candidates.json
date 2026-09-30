@@ -1,7 +1,7 @@
 [
   {
     "id": "72fcad5ed8e3be2f",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "China’s BEV mining truck supplier Breton looks to grow in overseas markets",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/09/30/chinas-bev-mining-truck-supplier-breton-looks-to-grow-in-overseas-markets/",
@@ -17,14 +17,44 @@
     "editorial_fit_score": 89,
     "summary_source": "There is a definite push from Chinese suppliers of electric and autonomous mining trucks, many of whom also offer associated microgrid infrastructure solutions, to try to access potentially lucrative overseas markets – especially Latin America, Africa, SE Asia and Australia. And this includes other players in addition to the better known giants like XCMG, SANY, The post China’s BEV mining truck supplier Breton looks to grow in overseas markets appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Breton, elektrikli maden kamyonlarında yurt dışı pazarlara açılmayı hedefliyor",
+      "dek_tr": "International Mining’in haber başlığı, Çinli Breton’un bataryalı elektrikli maden kamyonu tedarikçisi olarak yurt dışı pazarlarda büyümeyi hedeflediğini aktarıyor. Kaynak özeti, Çinli tedarikçilerin elektrikli ve otonom maden kamyonları için özellikle Latin Amerika, Afrika, Güneydoğu Asya ve Avustralya’ya yöneldiğini belirtiyor.",
+      "summary_tr": "International Mining’in erişilebilen özetine göre Çinli elektrikli ve otonom maden kamyonu tedarikçileri, yurt dışı pazarlara açılmaya çalışıyor. Breton, haber başlığında bu tedarikçilerden biri olarak anılıyor.\n\nÖzette Latin Amerika, Afrika, Güneydoğu Asya ve Avustralya öne çıkan pazarlar olarak sıralanıyor. Bazı tedarikçilerin kamyonlarla birlikte mikroşebeke çözümleri de sunduğu belirtiliyor; ancak Breton’a özgü ürün ve pazar ayrıntıları verilmemiş.",
+      "why_it_matters_tr": "Bataryalı maden kamyonlarının yeni pazarlara sunulması, maden sahalarında araçların yanı sıra enerji altyapısının da planlanmasını gerektirebilir. Kaynak, Breton’un bu pazarlardaki somut uygulamalarını veya teknik özelliklerini doğrulamaya yetecek ayrıntı içermiyor.",
+      "seo_title": "Breton elektrikli maden kamyonlarında yurt dışına yöneliyor",
+      "meta_description": "Breton’un elektrikli maden kamyonlarında yurt dışı pazarlara açılma hedefi ve Çinli tedarikçilerin yöneldiği bölgeler. Ürün ayrıntıları kaynakta sınırlı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Haber başlığı Breton’u Çinli bataryalı elektrikli maden kamyonu tedarikçisi olarak tanımlıyor.",
+        "Kaynak özeti, Çinli elektrikli ve otonom maden kamyonu tedarikçilerinin yurt dışı pazarlara açılma eğiliminden söz ediyor.",
+        "Özette Latin Amerika, Afrika, Güneydoğu Asya ve Avustralya hedef pazarlar arasında sayılıyor.",
+        "Özete göre bazı tedarikçiler mikroşebeke çözümleri de sunuyor."
+      ],
+      "suggested_tags": [
+        "Breton",
+        "elektrikli maden kamyonu",
+        "bataryalı elektrikli araç",
+        "maden makineleri",
+        "mikroşebeke"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "Haber başlığındaki Breton ve bataryalı elektrikli maden kamyonu tedarikçisi tanımı",
+        "Özette belirtilen Çinli tedarikçilerin yurt dışı pazarlara yönelmesi",
+        "Özette sıralanan bölgeler ve bazı tedarikçilerin mikroşebeke çözümleri sunduğu bilgisi"
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası HTTP 403 nedeniyle alınamadı; taslak yalnızca başlık ve kısa özetten oluşturuldu.",
+        "Breton’un belirli modelleri, teknik özellikleri, doğrulanmış saha uygulamaları ve adı geçen bölgelerdeki faaliyetleri kaynak özetinde yer almıyor.",
+        "Otonomi ve mikroşebeke bilgileri genel tedarikçi eğilimi olarak verilmiş; Breton’a özel oldukları doğrulanmıyor."
+      ],
+      "generated_at": "2026-09-30T19:56:27.622Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -143,7 +173,7 @@
   },
   {
     "id": "a20e0227a83484d4",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Kubota upgrades KX016-5 and KX019-5 compact excavators",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/construction/kubota-upgrades-kx016-5-and-kx019-5-compact-excavators.html",
@@ -156,14 +186,46 @@
     "editorial_fit_score": 55,
     "summary_source": "Kubota has updated its compact excavator range with two new models, the KX016-5 and KX019-5, aimed at the 1–2 tonne class of the European market. Both models are fitted with [...] The post Kubota upgrades KX016-5 and KX019-5 compact excavators appeared first on Industrial Vehicle Technology International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Kubota KX016-5 ve KX019-5 mini ekskavatörlerini güncelledi",
+      "dek_tr": "Kubota, Avrupa pazarı için 1–2 ton sınıfındaki KX016-5 ve KX019-5 ekskavatörlerini güncelledi. Modellerde oransal yardımcı hidrolik, isteğe bağlı 45 l/dak yüksek debi paketi ve yeniden tasarlanmış kabin bulunuyor.",
+      "summary_tr": "iVT International’ın haber açıklamasına göre Kubota, Avrupa pazarındaki 1–2 ton sınıfı için KX016-5 ve KX019-5 mini ekskavatörlerini güncelledi. Her iki modelde de oransal yardımcı hidrolik işlevi bulunuyor.\n\nAçıklamada, isteğe bağlı 45 l/dak yüksek debi paketi ve yeniden tasarlanmış kabin de belirtiliyor. Mevcut kaynak metni, bu güncellemelerin performans veya kullanım üzerindeki etkisine ilişkin ölçüm sunmuyor.",
+      "why_it_matters_tr": "Kompakt ekskavatörlerde yardımcı hidrolik debisi, ataşmanlarla çalışma seçeneklerini etkileyebilir. 45 l/dak paketin isteğe bağlı olması ve kabin değişikliklerinin kapsamı, ataşman uyumluluğu ve operatör kullanımına ilişkin değerlendirmelerde teyit edilmesi gereken noktalardır.",
+      "seo_title": "Kubota KX016-5 ve KX019-5 ekskavatörlerini güncelledi",
+      "meta_description": "Kubota'nın güncellediği KX016-5 ve KX019-5 modellerinde oransal yardımcı hidrolik, isteğe bağlı 45 l/dak yüksek debi paketi ve yenilenmiş kabin var.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Kubota KX016-5 ve KX019-5 modellerini güncelledi.",
+        "Modeller Avrupa pazarının 1–2 ton sınıfı için tanımlanıyor.",
+        "Açıklamada oransal yardımcı hidrolik özelliği belirtiliyor.",
+        "45 l/dak yüksek debi paketi isteğe bağlı olarak sunuluyor.",
+        "Kabin yeniden tasarlandı."
+      ],
+      "suggested_tags": [
+        "Kubota",
+        "KX016-5",
+        "KX019-5",
+        "mini ekskavatör",
+        "yardımcı hidrolik"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "hidrolik"
+      ],
+      "source_facts_used": [
+        "Haber açıklamasında verilen KX016-5 ve KX019-5 model adları ile 1–2 ton Avrupa pazarı sınıfı",
+        "Açıklamada belirtilen oransal yardımcı hidrolik",
+        "İsteğe bağlı 45 l/dak yüksek debi paketi bilgisi",
+        "Kabin tasarımının yenilendiği bilgisi"
+      ],
+      "uncertainty_notes": [
+        "Kaynağın erişilebilen gövde metni teknik ayrıntıları içermiyor; ürün özellikleri sayfa açıklamasına dayanıyor.",
+        "45 l/dak debi paketinin uyumlu ataşmanları ve hidrolik performans üzerindeki etkisi belirtilmiyor.",
+        "Kabin değişikliklerinin kapsamı ve modellerin diğer teknik özellikleri kaynakta açıklanmıyor."
+      ],
+      "generated_at": "2026-09-30T19:56:27.622Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -454,7 +516,7 @@
   },
   {
     "id": "d2192db9679540a7",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Powerful All-Rounder, New Tadano AC 3.060-2",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/powerful-allrounder-new-tadano-ac-30602/72369",
@@ -467,14 +529,40 @@
     "editorial_fit_score": 65,
     "summary_source": "Tadano has developed its new AC 3.060-2 as a powerful and flexible taxi crane....",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Tadano yeni AC 3.060-2 taxi vincini geliştirdi",
+      "dek_tr": "Tadano, AC 3.060-2 adlı yeni bir taxi vinç geliştirdi. Kaynak, modeli güçlü ve esnek olarak tanımlıyor ancak teknik kapasite veya donanım ayrıntısı vermiyor.",
+      "summary_tr": "Construction Equipment Guide’ın erişilebilen kısa metnine göre Tadano, AC 3.060-2 adlı yeni bir taxi vinç geliştirdi.\n\nKaynak modeli güçlü ve esnek olarak nitelendiriyor; bu ifadeleri destekleyecek teknik özellikler veya çalışma verileri paylaşmıyor.",
+      "why_it_matters_tr": "Mobil vinçler, şantiye ve endüstriyel kaldırma işlerinde kullanılan iş makineleridir. AC 3.060-2’nin kapasitesi ve konfigürasyonu gibi bilgiler olmadan modelin uygulama alanı ya da önceki ürünlerden farkı değerlendirilemiyor.",
+      "seo_title": "Tadano AC 3.060-2 yeni taxi vinç modelini geliştirdi",
+      "meta_description": "Tadano, AC 3.060-2 adlı yeni taxi vinci geliştirdi. Erişilebilen kaynakta vincin kapasitesi ve teknik özelliklerine ilişkin ayrıntı bulunmuyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Yeni modelin adı Tadano AC 3.060-2.",
+        "Tadano modeli taxi vinç olarak tanımlıyor.",
+        "Kaynak, modelin teknik kapasitesini veya donanım özelliklerini açıklamıyor."
+      ],
+      "suggested_tags": [
+        "Tadano",
+        "AC 3.060-2",
+        "mobil vinç",
+        "iş makineleri",
+        "kaldırma ekipmanları"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Kaynak metnindeki Tadano AC 3.060-2 modelinin geliştirildiği bilgisi",
+        "Kaynak metnindeki taxi vinç tanımı"
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası HTTP 403 nedeniyle alınamadı; değerlendirme yalnızca kısa özete dayanıyor.",
+        "Kaldırma kapasitesi, bom özellikleri, mobilite, motor ve diğer teknik ayrıntılar mevcut kaynakta doğrulanamıyor.",
+        "Kaynağın güçlü ve esnek nitelendirmeleri teknik veriyle desteklenmediğinden üretici değerlendirmesi olarak ele alınmalıdır."
+      ],
+      "generated_at": "2026-09-30T19:56:27.622Z",
+      "generated_by": "github-models"
     }
   },
   {
