@@ -1,5 +1,35 @@
 [
   {
+    "id": "f8a7bc3f30a35670",
+    "slug": "skouries-maden-sahasi-yunanistan-elektrik-sebekesine-baglandi",
+    "title": "Skouries maden sahası Yunanistan elektrik şebekesine bağlandı",
+    "dek": "Eldorado Gold, kuzey Yunanistan’daki Skouries maden sahasının kalıcı ulusal şebeke bağlantısının tamamlandığını duyurdu. Bağlantı, son inceleme ve testlerin ardından Yunan iletim otoritesinin onayını aldı.",
+    "summary": "Eldorado Gold’un duyurusuna göre Skouries maden sahası, kalıcı bağlantı üzerinden Yunanistan ulusal elektrik şebekesine enerjilendirildi. Şirket, bağlantı öncesinde son inceleme ve testlerin tamamlandığını; Yunan iletim otoritesinden onay alındığını bildirdi.\n\nŞirket açıklamasında saha enerjilendirmesi, madenin istikrarlı işletmeye geçiş sürecinde bir adım olarak nitelendiriliyor. Kaynak özeti, enerji kapasitesi, devreye alınan ekipmanlar veya sonraki operasyonel aşamalar hakkında ayrıntı vermiyor.",
+    "why_it_matters": "Kalıcı şebeke bağlantısı, maden sahasındaki elektrikli altyapının devreye alınması ve işletme hazırlıkları açısından önemli bir kilometre taşı olabilir. Bununla birlikte, bağlantının enerji kapasitesi ya da sahadaki makine ve süreçlere etkisi verilen bilgilerle belirlenemiyor.",
+    "key_facts": [
+      "Skouries maden sahası kuzey Yunanistan’da bulunuyor.",
+      "Saha, Yunanistan ulusal elektrik şebekesine kalıcı olarak bağlandı.",
+      "Son inceleme ve testlerin ardından Yunan iletim otoritesinden onay alındı."
+    ],
+    "format": "haber",
+    "sector": "madencilik",
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "tags": [
+      "Skouries",
+      "Eldorado Gold",
+      "madencilik",
+      "şebeke bağlantısı",
+      "elektrifikasyon"
+    ],
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/09/29/eldorado-gold-announces-completion-of-skouries-mine-energisation/",
+    "source_published_at": "2026-09-29T11:59:20.000Z",
+    "site_published_at": "2026-09-30T19:03:14.379Z",
+    "hero_image": ""
+  },
+  {
     "id": "6ab127c6aaf68d77",
     "slug": "hyundai-b-x-elektrikli-forklift-serisini-18-tona-kadar-genisletti",
     "title": "Hyundai B-X elektrikli forklift serisini 18 tona kadar genişletti",
