@@ -83,7 +83,13 @@ kullanılmaz.
 
 Vercel'de ayrı bir proje olarak yayınlanır (root dizini `app`) ve
 `app.makinenabzi.com` alan adına bağlanır. Vercel build komutu, Convex
-tiplerini üretmek için `convex deploy`'u da çalıştırmalıdır. Üretim dağıtımını
+tiplerini üretmek ve backend'i dağıtmak için şu şekilde ayarlanmalıdır:
+
+```bash
+npx convex deploy --cmd-url-env-var-name VITE_CONVEX_URL --cmd 'npm run build'
+```
+
+Üretim dağıtımını
 geliştirme ortamı `loyal-warbler-290` yerine ayrı üretim ortamına bağlayın.
 Üretim Convex ortamına `SITE_URL`, Convex Auth anahtarları ve doğrulanmış e-posta
 göndericisi ayarlanmadan giriş akışı yayına alınmamalıdır.

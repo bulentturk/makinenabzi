@@ -168,7 +168,11 @@ export function SettingsPanel({
   const handleSync = async () => {
     setSyncing(true);
     try {
-      const result = await syncNews({ force: true, limit: 15 });
+      const result = await syncNews({ limit: 15 });
+      if (result.skipped) {
+        toast.info("Haber akışı az önce kontrol edildi");
+        return;
+      }
       if (result.ok) {
         toast.success("Haber akışı güncellendi", {
           description:

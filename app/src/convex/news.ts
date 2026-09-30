@@ -149,7 +149,8 @@ export const myBookmarks = query({
       rows.map((row) => ctx.db.get(row.articleId)),
     );
     return articles.filter(
-      (article) => article !== null && article.isPublished !== false,
+      (article): article is NonNullable<typeof article> =>
+        article !== null && article.isPublished !== false,
     );
   },
 });
