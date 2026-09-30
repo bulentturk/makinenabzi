@@ -19,8 +19,13 @@ geçmiş yayını okur. Sırayla şu adresleri dener ve ilk çalışanı kullan�
 3. `https://makinenabzi.com/rss.xml` + makale sayfaları (yedek)
 
 Yani uygulamaya düşen her haber, sitede yayınlanmış haberle birebir aynıdır.
+Yapılandırılmış akış, sonraki editoryal düzeltmeleri de taşır. Haber sitedeki
+onaylı akıştan çıkarılırsa Convex kaydı silinmez; okur akışından, kaydedilenlerden
+ve haber bağlantısından gizlenir. RSS yedeği bir haberi yayından çekmez.
 Dosya biçimi `src/convex/siteFeed.ts` içinde çözümlenir; `breaking` (son dakika)
-bayrağı yalnızca editörün tetiklediği `pushStory` ile konur, senkron dokunmaz.
+bayrağı yalnızca `admin` rolündeki editörün tetiklediği `pushStory` ile konur;
+senkron bu bayrağa dokunmaz. Editör rolü veritabanındaki `users.role` alanından
+atanır; okur uygulamasında rol verme işlemi yoktur.
 
 Aynı şekilde fuar takvimi (`src/data/events.ts`) ve kaynak kataloğu
 (`agent/sources.json`, `agent/source-catalog.json`) sitedeki dosyalardan bu
@@ -57,7 +62,7 @@ bun run dev         # http://localhost:5173
 | `VITE_CONVEX_URL` | Vercel (build) veya `.env.local` | Uygulamanın Convex adresi |
 | `CONVEX_DEPLOY_KEY` | Vercel (build) | `convex deploy`'u CI'dan çalıştırmak için |
 | `JWKS`, `JWT_PRIVATE_KEY`, `SITE_URL` | Convex deployment | Convex Auth anahtarları |
-| `RESEND_API_KEY` | Convex deployment | Giriş kodu e-postası (aşağıya bakın) |
+| `RESEND_API_KEY`, `AUTH_EMAIL_FROM` | Convex deployment | Giriş kodu e-postası ve doğrulanmış gönderen adresi |
 | `NEWS_FEED_JSON_URL` | Convex deployment | Yalnızca geçici yönlendirme |
 
 `VITE_CONVEX_URL` tanımlı değilse uygulama beyaz ekran yerine okunur bir
@@ -68,18 +73,30 @@ panellerinden girilir.
 
 ## Giriş kodu e-postası
 
-`src/convex/auth/emailOtp.ts`, `RESEND_API_KEY` tanımlıysa kodu **kendi Resend
-hesabınızdan** gönderir; tanımlı değilse eski (yalnızca çalışma ortamında geçerli
-olan) yola düşer. Yayında mutlaka `RESEND_API_KEY` ayarlayın ve gönderen alan
-adını Resend'de doğrulayın. Gönderen adresini `AUTH_EMAIL_FROM` ile
-değiştirebilirsiniz.
+`src/convex/auth/emailOtp.ts`, kodu yalnızca **kendi Resend hesabınızdan**
+gönderir. E-posta ile giriş için `RESEND_API_KEY` ve Resend'de doğrulanmış
+`AUTH_EMAIL_FROM` zorunludur. Bu değerler yoksa misafir girişi çalışabilir,
+ancak e-posta kodu gönderilemez. Eski üçüncü taraf e-posta/JWT sağlayıcıları
+kullanılmaz.
 
 ## Yayın
 
 Vercel'de ayrı bir proje olarak yayınlanır (root dizini `app`) ve
 `app.makinenabzi.com` alan adına bağlanır. Vercel build komutu, Convex
-tiplerini üretmek için `convex deploy`'u da çalıştırmalıdır — ayrıntı için
-depo kökündeki `MIGRATION.md`, Adım 5.
+tiplerini üretmek ve backend'i dağıtmak için şu şekilde ayarlanmalıdır:
+
+```bash
+npx convex deploy --cmd-url-env-var-name VITE_CONVEX_URL --cmd 'npm run build'
+```
+
+Üretim dağıtımını
+geliştirme ortamı `loyal-warbler-290` yerine ayrı üretim ortamına bağlayın.
+Üretim Convex ortamına `SITE_URL`, Convex Auth anahtarları ve doğrulanmış e-posta
+göndericisi ayarlanmadan giriş akışı yayına alınmamalıdır.
+`NEWS_FEED_JSON_URL` test yönlendirmesi üretimde boş kalmalıdır. Dağıtımdan
+sonra Functions bölümünde cron görevlerini ve ilk senkronun `siteSync`
+durumunu doğrulayın; üretim tablosu geliştirmedeki kayıtlardan bağımsız olarak
+ilk çalışmada doldurulur.
 
 Bu klasördeki `vercel.json`, uzantısız tüm yolları `index.html`'e yönlendirir.
 Olmadan `/auth` ve `/dashboard` adresleri tarayıcı yenilemesinde 404 verir;

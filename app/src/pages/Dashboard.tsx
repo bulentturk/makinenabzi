@@ -133,6 +133,7 @@ export default function Dashboard() {
             onRequestPermission={() => void request()}
             onOpenArticle={setOpenArticleId}
             onEditPrefs={() => setTab("ayarlar")}
+            isEditor={user?.role === "admin"}
           />
         )}
 

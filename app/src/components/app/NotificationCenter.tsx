@@ -100,12 +100,14 @@ export function NotificationCenter({
   onRequestPermission,
   onOpenArticle,
   onEditPrefs,
+  isEditor,
 }: {
   permission: Permission;
   permissionError: string | null;
   onRequestPermission: () => void;
   onOpenArticle: (articleId: Id<"articles">) => void;
   onEditPrefs: () => void;
+  isEditor: boolean;
 }) {
   const notifications = useQuery(api.news.myNotifications, {});
   const prefs = useQuery(api.news.myPrefs);
@@ -287,26 +289,28 @@ export function NotificationCenter({
         </div>
       )}
 
-      <div className="rounded-2xl border border-border/70 bg-surface-tint p-4">
-        <p className="font-display text-[0.88rem] font-semibold">
-          Yayın hattını test edin
-        </p>
-        <p className="mt-1 text-[0.78rem] leading-relaxed text-muted-foreground">
-          Editör masasının &ldquo;son dakika&rdquo; adımını simüle eder: sıradaki
-          haber son dakika olarak işaretlenir ve tercihleri uyan tüm abonelere
-          bildirim gönderilir. Gerçek kurulumda bu adımı CMS webhook&apos;una
-          bağlayabilirsiniz.
-        </p>
-        <button
-          type="button"
-          onClick={() => void handleSendDemo()}
-          disabled={sending}
-          className="mt-3 inline-flex h-9 w-full items-center justify-center gap-2 rounded-xl bg-foreground text-[0.82rem] font-semibold text-background transition-opacity hover:opacity-90 disabled:opacity-60"
-        >
-          <Send className={cn("size-3.5", sending && "animate-pulse")} />
-          {sending ? "Gönderiliyor…" : "Son dakika bildirimi gönder"}
-        </button>
-      </div>
+      {isEditor && (
+        <div className="rounded-2xl border border-border/70 bg-surface-tint p-4">
+          <p className="font-display text-[0.88rem] font-semibold">
+            Yayın hattını test edin
+          </p>
+          <p className="mt-1 text-[0.78rem] leading-relaxed text-muted-foreground">
+            Editör masasının &ldquo;son dakika&rdquo; adımını simüle eder: sıradaki
+            haber son dakika olarak işaretlenir ve tercihleri uyan tüm abonelere
+            bildirim gönderilir. Gerçek kurulumda bu adımı CMS webhook&apos;una
+            bağlayabilirsiniz.
+          </p>
+          <button
+            type="button"
+            onClick={() => void handleSendDemo()}
+            disabled={sending}
+            className="mt-3 inline-flex h-9 w-full items-center justify-center gap-2 rounded-xl bg-foreground text-[0.82rem] font-semibold text-background transition-opacity hover:opacity-90 disabled:opacity-60"
+          >
+            <Send className={cn("size-3.5", sending && "animate-pulse")} />
+            {sending ? "Gönderiliyor…" : "Son dakika bildirimi gönder"}
+          </button>
+        </div>
+      )}
     </div>
   );
 }

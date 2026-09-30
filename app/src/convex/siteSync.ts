@@ -21,7 +21,7 @@ import { parsePublishedFeed, type SiteArticle } from "./siteFeed";
  * 2. `/rss.xml` plus one request per article page — the fallback while the
  *    site has not published `feed.json` yet.
  *
- * Only stories that are not mirrored yet are fetched, which keeps a run cheap.
+ * The structured feed is authoritative for approved stories and corrections.
  */
 
 const SITE = "https://makinenabzi.com";
@@ -32,6 +32,12 @@ const FEED_JSON_URL =
 const MAX_PER_RUN = 25;
 const FETCH_CONCURRENCY = 6;
 const THROTTLE_MS = 60 * 1000;
+
+function batchSize(value: number | undefined): number {
+  const requested = value ?? 12;
+  if (!Number.isFinite(requested)) return 12;
+  return Math.min(Math.max(Math.floor(requested), 1), MAX_PER_RUN);
+}
 
 type SyncedArticle = SiteArticle;
 
@@ -209,8 +215,9 @@ export type SyncResult = {
   ok: boolean;
   scanned: number;
   imported: number;
-  /** Rows whose editorial fields were backfilled from the structured feed. */
+  /** Rows whose editorial fields were updated from the structured feed. */
   enriched?: number;
+  withdrawn?: number;
   skipped?: boolean;
   message?: string;
 };
@@ -241,34 +248,45 @@ async function runStructuredSync(
   const articles = parsePublishedFeed(raw, SITE);
   if (!articles || articles.length === 0) return null;
 
-  const known: string[] = await ctx.runQuery(
-    internal.siteSyncStore.knownSlugs,
-    { slugs: articles.map((article) => article.slug) },
-  );
-  const knownSet = new Set(known);
-
-  // New stories first, then the already-mirrored ones so a row that arrived
-  // headline-only from the RSS path can be backfilled with the editorial
-  // fields (öne çıkan bilgiler, Makine Nabzı yorumu, kaynak).
-  const fresh = articles.filter((article) => !knownSet.has(article.slug));
-  const mirrored = articles.filter((article) => knownSet.has(article.slug));
-
-  const { inserted, enriched } = await ctx.runMutation(
-    internal.siteSyncStore.commitArticles,
-    { articles: [...fresh.slice(0, limit), ...mirrored.slice(0, limit)] },
-  );
+  let inserted = 0;
+  let enriched = 0;
+  // Visit every approved story, including older corrections. Each mutation is
+  // small, so the growing archive does not create a single huge transaction.
+  for (let offset = 0; offset < articles.length; offset += limit) {
+    const result = await ctx.runMutation(internal.siteSyncStore.commitArticles, {
+      articles: articles.slice(offset, offset + limit),
+    });
+    inserted += result.inserted;
+    enriched += result.enriched;
+  }
+  let withdrawn = 0;
+  let cursor: string | null = null;
+  const approvedSlugs = articles.map((article) => article.slug);
+  do {
+    const page: {
+      withdrawn: number;
+      continueCursor: string;
+      isDone: boolean;
+    } = await ctx.runMutation(
+      internal.siteSyncStore.reconcilePublication,
+      { approvedSlugs, cursor },
+    );
+    withdrawn += page.withdrawn;
+    if (page.isDone) break;
+    cursor = page.continueCursor;
+  } while (true);
 
   await ctx.runMutation(internal.siteSyncStore.recordSync, {
     lastStatus: "ok",
     imported: inserted,
     scanned: articles.length,
     message:
-      enriched > 0
-        ? `${enriched} haberin editoryal alanları güncellendi`
+      enriched > 0 || withdrawn > 0
+        ? `${enriched} haber güncellendi, ${withdrawn} haber yayından çekildi`
         : undefined,
   });
 
-  return { ok: true, scanned: articles.length, imported: inserted, enriched };
+  return { ok: true, scanned: articles.length, imported: inserted, enriched, withdrawn };
 }
 
 /** Fallback path: the RSS index plus one request per article page. */
@@ -337,12 +355,12 @@ async function runSync(ctx: ActionCtx, limit: number): Promise<SyncResult> {
 export const syncFeed = internalAction({
   args: { limit: v.optional(v.number()) },
   handler: async (ctx, args): Promise<SyncResult> =>
-    await runSync(ctx, Math.min(args.limit ?? 12, MAX_PER_RUN)),
+    await runSync(ctx, batchSize(args.limit)),
 });
 
 /** Called by the app so a reader never waits for the scheduled run. */
 export const syncNews = action({
-  args: { limit: v.optional(v.number()), force: v.optional(v.boolean()) },
+  args: { limit: v.optional(v.number()) },
   handler: async (ctx, args): Promise<SyncResult> => {
     const userId = await getAuthUserId(ctx);
     if (!userId) {
@@ -353,7 +371,7 @@ export const syncNews = action({
       internal.siteSyncStore.readState,
       {},
     );
-    if (state && !args.force && Date.now() - state.lastRunAt < THROTTLE_MS) {
+    if (state && Date.now() - state.lastRunAt < THROTTLE_MS) {
       return {
         ok: state.lastStatus === "ok",
         scanned: state.scanned,
@@ -362,6 +380,6 @@ export const syncNews = action({
       };
     }
 
-    return await runSync(ctx, Math.min(args.limit ?? 12, MAX_PER_RUN));
+    return await runSync(ctx, batchSize(args.limit));
   },
 });

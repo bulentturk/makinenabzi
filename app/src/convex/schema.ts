@@ -48,6 +48,9 @@ const schema = defineSchema(
       sourceUrl: v.optional(v.string()),
       readingMinutes: v.number(),
       publishedAt: v.number(),
+      // A withdrawn site article remains in storage for audit/bookmark integrity,
+      // but is hidden from every public reader query.
+      isPublished: v.optional(v.boolean()),
       breaking: v.boolean(),
       tags: v.array(v.string()),
     })

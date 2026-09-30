@@ -7,8 +7,8 @@
  * yorumu" and the credited source — in a single request, with no HTML parsing to
  * break when a template changes.
  *
- * The parser is deliberately tolerant: a malformed entry is skipped rather than
- * failing the whole run, so one bad record cannot stop the newsroom sync.
+ * A malformed entry invalidates the structured feed. The sync must not treat
+ * an incomplete list as an editorial withdrawal of the missing story.
  */
 
 export interface SiteArticle {
@@ -93,14 +93,16 @@ export function parsePublishedFeed(
   if (!Array.isArray(entries)) return null;
 
   const articles: SiteArticle[] = [];
+  const seen = new Set<string>();
 
   for (const entry of entries) {
-    if (!entry || typeof entry !== "object") continue;
+    if (!entry || typeof entry !== "object") return null;
     const item = entry as Record<string, unknown>;
 
     const slug = asText(item.slug);
     const title = asText(item.title);
-    if (!slug || !title) continue;
+    if (!slug || !title || seen.has(slug)) return null;
+    seen.add(slug);
 
     const dek = asText(item.dek);
     // In the newsroom schema `summary` holds the body paragraphs and `dek` is
@@ -116,6 +118,7 @@ export function parsePublishedFeed(
     const parsedDate = Date.parse(
       asText(item.site_published_at) || asText(item.source_published_at),
     );
+    if (Number.isNaN(parsedDate)) return null;
 
     articles.push({
       slug,
@@ -125,13 +128,13 @@ export function parsePublishedFeed(
       body,
       facts,
       analysis: analysis || undefined,
-      category: SECTOR_LABELS[sector] ?? sector ?? "Haberler",
+      category: SECTOR_LABELS[sector] || sector || "Haberler",
       source: asText(item.source_name) || "Makine Nabzı",
       sourceUrl: asText(item.source_url) || undefined,
       readingMinutes: readingMinutes(
         [body, facts.join(" "), analysis].join(" "),
       ),
-      publishedAt: Number.isNaN(parsedDate) ? Date.now() : parsedDate,
+      publishedAt: parsedDate,
       // "Son dakika" stays an editorial decision; only `pushStory` sets it.
       breaking: false,
       tags: [...new Set([...technologies, ...asList(item.tags)])],

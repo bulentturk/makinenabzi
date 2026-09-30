@@ -16,48 +16,26 @@ export const emailOtp = Email({
     return generateRandomString(random, alphabet, 6);
   },
   async sendVerificationRequest({ identifier: email, token }) {
-    // Yayında kod kendi sağlayıcınızdan gönderilir: RESEND_API_KEY tanımlıysa
-    // Resend kullanılır. Tanımlı değilse (ör. geliştirme önizlemesi) aşağıdaki
-    // varsayılan yol korunur, böylece davranış geriye dönük olarak değişmez.
     const resendKey = process.env.RESEND_API_KEY;
-
-    if (resendKey) {
-      const from =
-        process.env.AUTH_EMAIL_FROM ||
-        "Makine Nabzı <bildirim@makinenabzi.com>";
-      try {
-        await axios.post(
-          "https://api.resend.com/emails",
-          {
-            from,
-            to: [email],
-            subject: `${token} — Makine Nabzı giriş kodunuz`,
-            text: `Giriş kodunuz: ${token}\n\nKod 15 dakika geçerlidir.\n\nmakinenabzi.com`,
-          },
-          { headers: { authorization: `Bearer ${resendKey}` } },
-        );
-      } catch (error) {
-        throw new Error(JSON.stringify(error));
-      }
-      return;
+    const from = process.env.AUTH_EMAIL_FROM;
+    if (!resendKey || !from) {
+      throw new Error("E-posta girişi için Resend ve doğrulanmış gönderen adresi ayarlanmalı.");
     }
 
     try {
       await axios.post(
-        "https://auth.freebuff.app/send_otp",
+        "https://api.resend.com/emails",
         {
-          to: email,
-          otp: token,
-          appName: process.env.VLY_APP_NAME || "Makine Nabzı",
+          from,
+          to: [email],
+          subject: `${token} — Makine Nabzı giriş kodunuz`,
+          text: `Giriş kodunuz: ${token}\n\nKod 15 dakika geçerlidir.\n\nmakinenabzi.com`,
         },
-        {
-          headers: {
-            "x-api-key": "fb_email_2crN1hqIArZP2bEfvjp5Qik4",
-          },
-        },
+        { headers: { authorization: `Bearer ${resendKey}` } },
       );
-    } catch (error) {
-      throw new Error(JSON.stringify(error));
+    } catch {
+      // Axios' error can contain request headers; do not expose the API key.
+      throw new Error("Giriş kodu e-postası gönderilemedi.");
     }
   },
 });

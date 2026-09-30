@@ -1,6 +1,7 @@
 import { getAuthUserId } from "@convex-dev/auth/server";
 import { v } from "convex/values";
 import { mutation, query } from "./_generated/server";
+import { ROLES } from "./schema";
 
 const digestValidator = v.union(
   v.literal("instant"),
@@ -40,11 +41,13 @@ export const feed = query({
             .withIndex("by_category_publishedAt", (q) =>
               q.eq("category", category),
             )
+            .filter((q) => q.neq(q.field("isPublished"), false))
             .order("desc")
             .take(limit)
         : await ctx.db
             .query("articles")
             .withIndex("by_publishedAt")
+            .filter((q) => q.neq(q.field("isPublished"), false))
             .order("desc")
             .take(limit);
 
@@ -66,10 +69,11 @@ export const categoryStats = query({
     const articles = await ctx.db.query("articles").collect();
     const counts = new Map<string, number>();
     for (const article of articles) {
+      if (article.isPublished === false) continue;
       counts.set(article.category, (counts.get(article.category) ?? 0) + 1);
     }
     return {
-      total: articles.length,
+      total: articles.filter((article) => article.isPublished !== false).length,
       categories: [...counts.entries()]
         .map(([label, count]) => ({ label, count }))
         .sort((a, b) => b.count - a.count || a.label.localeCompare(b.label, "tr")),
@@ -79,7 +83,10 @@ export const categoryStats = query({
 
 export const getById = query({
   args: { articleId: v.id("articles") },
-  handler: async (ctx, args) => await ctx.db.get(args.articleId),
+  handler: async (ctx, args) => {
+    const article = await ctx.db.get(args.articleId);
+    return article?.isPublished === false ? null : article;
+  },
 });
 
 /** The story currently flagged as "son dakika", if any. */
@@ -89,6 +96,7 @@ export const latestBreaking = query({
     await ctx.db
       .query("articles")
       .withIndex("by_breaking", (q) => q.eq("breaking", true))
+      .filter((q) => q.neq(q.field("isPublished"), false))
       .order("desc")
       .first(),
 });
@@ -116,7 +124,13 @@ export const myBookmarkIds = query({
       .query("bookmarks")
       .withIndex("by_user", (q) => q.eq("userId", userId))
       .collect();
-    return rows.map((row) => row.articleId);
+    const articles = await Promise.all(rows.map((row) => ctx.db.get(row.articleId)));
+    return articles
+      .filter(
+        (article): article is NonNullable<typeof article> =>
+          article !== null && article.isPublished !== false,
+      )
+      .map((article) => article._id);
   },
 });
 
@@ -134,7 +148,10 @@ export const myBookmarks = query({
     const articles = await Promise.all(
       rows.map((row) => ctx.db.get(row.articleId)),
     );
-    return articles.filter((article) => article !== null);
+    return articles.filter(
+      (article): article is NonNullable<typeof article> =>
+        article !== null && article.isPublished !== false,
+    );
   },
 });
 
@@ -154,6 +171,11 @@ export const toggleBookmark = mutation({
     if (existing) {
       await ctx.db.delete(existing._id);
       return { saved: false };
+    }
+
+    const article = await ctx.db.get(args.articleId);
+    if (!article || article.isPublished === false) {
+      throw new Error("Bu haber artık yayında değil.");
     }
 
     await ctx.db.insert("bookmarks", {
@@ -230,11 +252,19 @@ export const myNotifications = query({
   handler: async (ctx, args) => {
     const userId = await getAuthUserId(ctx);
     if (!userId) return [];
-    return await ctx.db
+    const rows = await ctx.db
       .query("notifications")
       .withIndex("by_user_createdAt", (q) => q.eq("userId", userId))
       .order("desc")
       .take(Math.min(Math.max(args.limit ?? 50, 1), 100));
+    const articles = await Promise.all(
+      rows.map((row) => row.articleId ? ctx.db.get(row.articleId) : null),
+    );
+    return rows.filter(
+      (row, index) =>
+        !row.articleId ||
+        (articles[index] !== null && articles[index]?.isPublished !== false),
+    );
   },
 });
 
@@ -301,11 +331,18 @@ export const pushStory = mutation({
   args: { articleId: v.optional(v.id("articles")) },
   handler: async (ctx, args) => {
     const userId = await getAuthUserId(ctx);
-    if (!userId) throw new Error("Bildirim göndermek için giriş yapmalısınız.");
+    if (!userId) {
+      throw new Error("Son dakika bildirimi yalnızca editör tarafından gönderilebilir.");
+    }
+    const user = await ctx.db.get(userId);
+    if (user?.role !== ROLES.ADMIN) {
+      throw new Error("Son dakika bildirimi yalnızca editör tarafından gönderilebilir.");
+    }
 
     const recent = await ctx.db
       .query("articles")
       .withIndex("by_publishedAt")
+      .filter((q) => q.neq(q.field("isPublished"), false))
       .order("desc")
       .take(20);
 
@@ -313,13 +350,13 @@ export const pushStory = mutation({
       ? await ctx.db.get(args.articleId)
       : (recent.find((row) => !row.breaking) ?? recent[0] ?? null);
 
-    if (!article) return { delivered: 0, articleId: null };
+    if (!article || article.isPublished === false) {
+      if (args.articleId) throw new Error("Bu haber artık yayında değil.");
+      return { delivered: 0, articleId: null };
+    }
 
     if (!article.breaking) {
-      await ctx.db.patch(article._id, {
-        breaking: true,
-        publishedAt: Date.now(),
-      });
+      await ctx.db.patch(article._id, { breaking: true });
     }
 
     const prefsRows = await ctx.db.query("notificationPrefs").take(500);
