@@ -348,7 +348,7 @@
   },
   {
     "id": "d0caec43aa511bf9",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Summit Completes Rollout of Next-Generation Hydraulic Crane Lineup",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/summit-completes-rollout-of-nextgeneration-hydraulic-crane-lineup/72372",
@@ -371,7 +371,7 @@
       "seo_title": "Summit, ASE Phase 5 uyumlu vinç serisini tamamladı",
       "meta_description": "Summit, beş yeni modelle hidrolik vinç serisini tamamladı. Modeller ASE Phase 5 kontrol sistemiyle entegrasyon için tasarlandı.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Beş yeni model, Summit’in hidrolik vinç serisini tamamlıyor.",
         "Modeller, Summit ASE Phase 5 kontrol sistemiyle entegrasyon için tasarlandı."
@@ -397,7 +397,9 @@
         "Model adları, teknik özellikler ve güvenlik performansına ilişkin bağımsız doğrulama mevcut değil."
       ],
       "generated_at": "2026-09-29T19:56:16.648Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-09-30T18:31:11.469Z",
+      "review_result": "published"
     }
   },
   {
