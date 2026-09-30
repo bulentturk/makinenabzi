@@ -126,7 +126,10 @@ export const myBookmarkIds = query({
       .collect();
     const articles = await Promise.all(rows.map((row) => ctx.db.get(row.articleId)));
     return articles
-      .filter((article) => article !== null && article.isPublished !== false)
+      .filter(
+        (article): article is NonNullable<typeof article> =>
+          article !== null && article.isPublished !== false,
+      )
       .map((article) => article._id);
   },
 });
@@ -327,7 +330,10 @@ export const pushStory = mutation({
   args: { articleId: v.optional(v.id("articles")) },
   handler: async (ctx, args) => {
     const userId = await getAuthUserId(ctx);
-    const user = userId ? await ctx.db.get(userId) : null;
+    if (!userId) {
+      throw new Error("Son dakika bildirimi yalnızca editör tarafından gönderilebilir.");
+    }
+    const user = await ctx.db.get(userId);
     if (user?.role !== ROLES.ADMIN) {
       throw new Error("Son dakika bildirimi yalnızca editör tarafından gönderilebilir.");
     }

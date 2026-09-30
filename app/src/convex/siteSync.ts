@@ -263,7 +263,11 @@ async function runStructuredSync(
   let cursor: string | null = null;
   const approvedSlugs = articles.map((article) => article.slug);
   do {
-    const page = await ctx.runMutation(
+    const page: {
+      withdrawn: number;
+      continueCursor: string;
+      isDone: boolean;
+    } = await ctx.runMutation(
       internal.siteSyncStore.reconcilePublication,
       { approvedSlugs, cursor },
     );
