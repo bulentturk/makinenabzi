@@ -91,6 +91,7 @@ export const outletStats = query({
 
     const counts = new Map<string, number>();
     for (const article of articles) {
+      if (article.isPublished === false) continue;
       counts.set(article.source, (counts.get(article.source) ?? 0) + 1);
     }
 

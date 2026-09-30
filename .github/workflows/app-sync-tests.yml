@@ -1,0 +1,22 @@
+name: Validate app feed sync
+
+on:
+  pull_request:
+    paths:
+      - app/src/convex/**
+      - src/data/published-news.json
+      - .github/workflows/app-sync-tests.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - run: node --test app/src/convex/siteFeed.test.mjs

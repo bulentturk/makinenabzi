@@ -19,8 +19,13 @@ geçmiş yayını okur. Sırayla şu adresleri dener ve ilk çalışanı kullan�
 3. `https://makinenabzi.com/rss.xml` + makale sayfaları (yedek)
 
 Yani uygulamaya düşen her haber, sitede yayınlanmış haberle birebir aynıdır.
+Yapılandırılmış akış, sonraki editoryal düzeltmeleri de taşır. Haber sitedeki
+onaylı akıştan çıkarılırsa Convex kaydı silinmez; okur akışından, kaydedilenlerden
+ve haber bağlantısından gizlenir. RSS yedeği bir haberi yayından çekmez.
 Dosya biçimi `src/convex/siteFeed.ts` içinde çözümlenir; `breaking` (son dakika)
-bayrağı yalnızca editörün tetiklediği `pushStory` ile konur, senkron dokunmaz.
+bayrağı yalnızca `admin` rolündeki editörün tetiklediği `pushStory` ile konur;
+senkron bu bayrağa dokunmaz. Editör rolü veritabanındaki `users.role` alanından
+atanır; okur uygulamasında rol verme işlemi yoktur.
 
 Aynı şekilde fuar takvimi (`src/data/events.ts`) ve kaynak kataloğu
 (`agent/sources.json`, `agent/source-catalog.json`) sitedeki dosyalardan bu
@@ -78,8 +83,14 @@ değiştirebilirsiniz.
 
 Vercel'de ayrı bir proje olarak yayınlanır (root dizini `app`) ve
 `app.makinenabzi.com` alan adına bağlanır. Vercel build komutu, Convex
-tiplerini üretmek için `convex deploy`'u da çalıştırmalıdır — ayrıntı için
-depo kökündeki `MIGRATION.md`, Adım 5.
+tiplerini üretmek için `convex deploy`'u da çalıştırmalıdır. Üretim dağıtımını
+geliştirme ortamı `loyal-warbler-290` yerine ayrı üretim ortamına bağlayın.
+Üretim Convex ortamına `SITE_URL`, Convex Auth anahtarları ve doğrulanmış e-posta
+göndericisi ayarlanmadan giriş akışı yayına alınmamalıdır.
+`NEWS_FEED_JSON_URL` test yönlendirmesi üretimde boş kalmalıdır. Dağıtımdan
+sonra Functions bölümünde cron görevlerini ve ilk senkronun `siteSync`
+durumunu doğrulayın; üretim tablosu geliştirmedeki kayıtlardan bağımsız olarak
+ilk çalışmada doldurulur.
 
 Bu klasördeki `vercel.json`, uzantısız tüm yolları `index.html`'e yönlendirir.
 Olmadan `/auth` ve `/dashboard` adresleri tarayıcı yenilemesinde 404 verir;

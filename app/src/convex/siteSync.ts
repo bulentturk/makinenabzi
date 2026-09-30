@@ -21,7 +21,7 @@ import { parsePublishedFeed, type SiteArticle } from "./siteFeed";
  * 2. `/rss.xml` plus one request per article page — the fallback while the
  *    site has not published `feed.json` yet.
  *
- * Only stories that are not mirrored yet are fetched, which keeps a run cheap.
+ * The structured feed is authoritative for approved stories and corrections.
  */
 
 const SITE = "https://makinenabzi.com";
@@ -209,8 +209,9 @@ export type SyncResult = {
   ok: boolean;
   scanned: number;
   imported: number;
-  /** Rows whose editorial fields were backfilled from the structured feed. */
+  /** Rows whose editorial fields were updated from the structured feed. */
   enriched?: number;
+  withdrawn?: number;
   skipped?: boolean;
   message?: string;
 };
@@ -241,34 +242,41 @@ async function runStructuredSync(
   const articles = parsePublishedFeed(raw, SITE);
   if (!articles || articles.length === 0) return null;
 
-  const known: string[] = await ctx.runQuery(
-    internal.siteSyncStore.knownSlugs,
-    { slugs: articles.map((article) => article.slug) },
-  );
-  const knownSet = new Set(known);
-
-  // New stories first, then the already-mirrored ones so a row that arrived
-  // headline-only from the RSS path can be backfilled with the editorial
-  // fields (öne çıkan bilgiler, Makine Nabzı yorumu, kaynak).
-  const fresh = articles.filter((article) => !knownSet.has(article.slug));
-  const mirrored = articles.filter((article) => knownSet.has(article.slug));
-
-  const { inserted, enriched } = await ctx.runMutation(
-    internal.siteSyncStore.commitArticles,
-    { articles: [...fresh.slice(0, limit), ...mirrored.slice(0, limit)] },
-  );
+  let inserted = 0;
+  let enriched = 0;
+  // Visit every approved story, including older corrections. Each mutation is
+  // small, so the growing archive does not create a single huge transaction.
+  for (let offset = 0; offset < articles.length; offset += limit) {
+    const result = await ctx.runMutation(internal.siteSyncStore.commitArticles, {
+      articles: articles.slice(offset, offset + limit),
+    });
+    inserted += result.inserted;
+    enriched += result.enriched;
+  }
+  let withdrawn = 0;
+  let cursor: string | null = null;
+  const approvedSlugs = articles.map((article) => article.slug);
+  do {
+    const page = await ctx.runMutation(
+      internal.siteSyncStore.reconcilePublication,
+      { approvedSlugs, cursor },
+    );
+    withdrawn += page.withdrawn;
+    if (page.isDone) break;
+    cursor = page.continueCursor;
+  } while (true);
 
   await ctx.runMutation(internal.siteSyncStore.recordSync, {
     lastStatus: "ok",
     imported: inserted,
     scanned: articles.length,
     message:
-      enriched > 0
-        ? `${enriched} haberin editoryal alanları güncellendi`
+      enriched > 0 || withdrawn > 0
+        ? `${enriched} haber güncellendi, ${withdrawn} haber yayından çekildi`
         : undefined,
   });
 
-  return { ok: true, scanned: articles.length, imported: inserted, enriched };
+  return { ok: true, scanned: articles.length, imported: inserted, enriched, withdrawn };
 }
 
 /** Fallback path: the RSS index plus one request per article page. */

@@ -1,5 +1,6 @@
 import { v } from "convex/values";
 import { internalMutation, internalQuery } from "./_generated/server";
+import { editorialPatch } from "./siteSyncLogic";
 
 export const SYNC_KEY = "makinenabzi.com";
 
@@ -13,7 +14,7 @@ export const readState = internalQuery({
   },
 });
 
-/** Which of these slugs are already mirrored, so the sync only fetches new ones. */
+/** RSS fallback only downloads stories that have not already been mirrored. */
 export const knownSlugs = internalQuery({
   args: { slugs: v.array(v.string()) },
   handler: async (ctx, args) => {
@@ -59,35 +60,44 @@ export const commitArticles = internalMutation({
         .first();
 
       if (!existing) {
-        await ctx.db.insert("articles", article);
+        await ctx.db.insert("articles", { ...article, isPublished: true });
         inserted += 1;
         continue;
       }
 
-      // The RSS path yields a headline and a dek. Once the structured feed
-      // knows the editorial fields for the same slug, backfill them rather
-      // than leaving a half-populated row in the timeline.
-      const gainsBody = article.body.length > existing.body.length;
-      const gainsFacts = article.facts.length > existing.facts.length;
-      const gainsAnalysis = Boolean(article.analysis) && !existing.analysis;
-      if (!gainsBody && !gainsFacts && !gainsAnalysis) continue;
+      // Structured feed values are authoritative, even when an editor shortens
+      // a paragraph, removes a fact, changes a headline or withdraws analysis.
+      // Keep the editor-controlled breaking flag and the stable document ID.
+      const patch = editorialPatch(existing, article);
+      if (!patch) continue;
 
-      await ctx.db.patch(existing._id, {
-        summary: article.summary,
-        body: gainsBody ? article.body : existing.body,
-        facts: gainsFacts ? article.facts : existing.facts,
-        analysis: article.analysis ?? existing.analysis,
-        category: article.category,
-        source: article.source,
-        sourceUrl: article.sourceUrl ?? existing.sourceUrl,
-        readingMinutes: article.readingMinutes,
-        tags: article.tags.length > 0 ? article.tags : existing.tags,
-        // `breaking` stays untouched: only `pushStory` may flag a story.
-      });
+      await ctx.db.patch(existing._id, patch);
       enriched += 1;
     }
 
     return { inserted, enriched };
+  },
+});
+
+/** Hide withdrawn stories only after a complete structured feed was accepted. */
+export const reconcilePublication = internalMutation({
+  args: {
+    approvedSlugs: v.array(v.string()),
+    cursor: v.union(v.string(), v.null()),
+  },
+  handler: async (ctx, args) => {
+    const approved = new Set(args.approvedSlugs);
+    const { page, continueCursor, isDone } = await ctx.db
+      .query("articles")
+      .paginate({ numItems: 100, cursor: args.cursor });
+    let withdrawn = 0;
+    for (const row of page) {
+      if (!approved.has(row.slug) && row.isPublished !== false) {
+        await ctx.db.patch(row._id, { isPublished: false, breaking: false });
+        withdrawn += 1;
+      }
+    }
+    return { withdrawn, continueCursor, isDone };
   },
 });
 
