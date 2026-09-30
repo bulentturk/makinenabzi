@@ -141,7 +141,7 @@ const highlights = [
       </div>
       <div class="sector-grid">
         {sectors.map((sector, i) => (
-          <article class:list={['sector-card', i === 0 && 'sector-card-featured', sector.image.endsWith('.svg') && 'sector-card-illustrated']}>
+          <article class:list={['sector-card', i === 0 && 'sector-card-featured']}>
             <img src={sector.image.startsWith('http') ? sector.image : href(sector.image)} alt={sector.title} loading={i === 0 ? 'eager' : 'lazy'} />
             <div class="sector-overlay"></div>
             <div class="sector-content">
