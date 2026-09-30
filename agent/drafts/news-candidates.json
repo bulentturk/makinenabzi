@@ -1,5 +1,32 @@
 [
   {
+    "id": "6ab127c6aaf68d77",
+    "status": "candidate",
+    "title_original": "Hyundai Material Handling completes B-X electric forklift range",
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/news/materials-handling/hyundai-material-handling-completes-b-x-electric-forklift-range.html",
+    "source_feed": "https://www.ivtinternational.com/feed",
+    "published_at": "2026-09-30T08:47:07.000Z",
+    "discovered_at": "2026-09-30T10:49:46.468Z",
+    "sector": "is-makinalari",
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "relevance_score": 158,
+    "editorial_fit_score": 67,
+    "summary_source": "Hyundai Material Handling has completed its B-X high-voltage electric forklift range with the introduction of 10-13 tonne and 16-18 tonne models, giving the manufacturer an electric counterbalance line-up spanning 4-18 [...] The post Hyundai Material Handling completes B-X electric forklift range appeared first on Industrial Vehicle Technology International.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "d9c0317cf0caa988",
     "status": "drafted",
     "title_original": "Caterpillar grows quarrying AHS further with Richards Spur deployment",
@@ -52,6 +79,56 @@
       ],
       "generated_at": "2026-09-29T19:56:16.648Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "a20e0227a83484d4",
+    "status": "candidate",
+    "title_original": "Kubota upgrades KX016-5 and KX019-5 compact excavators",
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/news/construction/kubota-upgrades-kx016-5-and-kx019-5-compact-excavators.html",
+    "source_feed": "https://www.ivtinternational.com/feed",
+    "published_at": "2026-09-30T08:30:47.000Z",
+    "discovered_at": "2026-09-30T10:49:46.468Z",
+    "sector": "is-makinalari",
+    "technologies": [],
+    "relevance_score": 150,
+    "editorial_fit_score": 55,
+    "summary_source": "Kubota has updated its compact excavator range with two new models, the KX016-5 and KX019-5, aimed at the 1–2 tonne class of the European market. Both models are fitted with [...] The post Kubota upgrades KX016-5 and KX019-5 compact excavators appeared first on Industrial Vehicle Technology International.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "c43f0cc3138cd9cd",
+    "status": "candidate",
+    "title_original": "Liebherr-Canada delivers new R 9150 excavator to Hammerstone Quarry",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/09/30/liebherr-canada-delivers-new-r-9150-excavator-to-hammerstone-quarry/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-09-30T08:16:51.000Z",
+    "discovered_at": "2026-09-30T10:49:46.838Z",
+    "sector": "madencilik",
+    "technologies": [],
+    "relevance_score": 150,
+    "editorial_fit_score": 65,
+    "summary_source": "In June, Hammerstone Infrastructure Materials took delivery of an R 9150 excavator. This delivery brings Hammerstone’s number of these 150-tonne-class Liebherr excavators to three, with all of these machines working at Hammerstone’s Muskeg Quarry, one of Western Canada’s biggest limestone quarries. Muskeg Quarry is an important source of high-quality limestone aggregates for the oil sands The post Liebherr-Canada delivers new R 9150 excavator to Hammerstone Quarry appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -267,6 +344,31 @@
       ],
       "generated_at": "2026-09-29T19:56:16.648Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "fe0c7938f6f35c89",
+    "status": "candidate",
+    "title_original": "WW Builders Inc. Adds Tadano PM Knuckle Boom Crane",
+    "source_name": "Construction Equipment Guide",
+    "source_url": "https://www.constructionequipmentguide.com/ww-builders-inc-adds-tadano-pm-knuckle-boom-crane/72382",
+    "source_feed": "https://feeds.feedburner.com/ceg",
+    "published_at": "2026-09-29T05:00:00.000Z",
+    "discovered_at": "2026-09-30T10:49:46.167Z",
+    "sector": "is-makinalari",
+    "technologies": [],
+    "relevance_score": 130,
+    "editorial_fit_score": 55,
+    "summary_source": "WW Builders Inc has added a new crane to its fleet — a Tadano PM 38525 SP + J813.20....",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
