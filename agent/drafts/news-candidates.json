@@ -241,7 +241,7 @@
   },
   {
     "id": "f8a7bc3f30a35670",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Eldorado Gold announces completion of Skouries mine energisation",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/09/29/eldorado-gold-announces-completion-of-skouries-mine-energisation/",
@@ -263,7 +263,7 @@
       "seo_title": "Skouries maden sahası ulusal şebekeye bağlandı",
       "meta_description": "Eldorado Gold, kuzey Yunanistan’daki Skouries madeninin kalıcı şebeke bağlantısının tamamlandığını ve iletim otoritesinden onay aldığını duyurdu.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Skouries maden sahası kuzey Yunanistan’da bulunuyor.",
         "Saha, Yunanistan ulusal elektrik şebekesine kalıcı olarak bağlandı.",
@@ -292,7 +292,9 @@
         "Operasyonel etkiler şirketin açıklamasından bağımsız olarak doğrulanmış değil."
       ],
       "generated_at": "2026-09-29T19:56:16.648Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-09-30T19:32:01.708Z",
+      "review_result": "published"
     }
   },
   {
