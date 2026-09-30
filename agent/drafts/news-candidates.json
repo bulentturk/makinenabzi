@@ -1,7 +1,7 @@
 [
   {
     "id": "6ab127c6aaf68d77",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Hyundai Material Handling completes B-X electric forklift range",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/materials-handling/hyundai-material-handling-completes-b-x-electric-forklift-range.html",
@@ -23,7 +23,7 @@
       "seo_title": "Hyundai B-X elektrikli forklift serisi 18 tona ulaştı",
       "meta_description": "Hyundai Material Handling, B-X elektrikli forklift serisini 10–13 ve 16–18 ton sınıflarıyla genişletti. Seri 4–18 ton kapasite aralığı sunuyor.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Hyundai Material Handling, B-X yüksek gerilimli elektrikli forklift serisine 10–13 ton ve 16–18 ton sınıflarında modeller ekledi.",
         "Kaynakta serinin kapasite aralığı 4–18 ton olarak veriliyor.",
@@ -51,7 +51,9 @@
         "Uygulama ve ürün bilgileri haber kaynağının aktarımına dayanıyor; bağımsız doğrulama sunulmuyor."
       ],
       "generated_at": "2026-09-30T10:50:42.237Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-09-30T19:03:13.614Z",
+      "review_result": "published"
     }
   },
   {
