@@ -1,5 +1,35 @@
 [
   {
+    "id": "6ab127c6aaf68d77",
+    "slug": "hyundai-b-x-elektrikli-forklift-serisini-18-tona-kadar-genisletti",
+    "title": "Hyundai B-X elektrikli forklift serisini 18 tona kadar genişletti",
+    "dek": "Hyundai Material Handling, yüksek gerilimli B-X elektrikli forklift serisine 10–13 ton ve 16–18 ton sınıflarındaki modelleri ekledi. Serinin kapasite aralığı 4–18 ton olarak belirtiliyor.",
+    "summary": "Hyundai Material Handling, B-X yüksek gerilimli elektrikli karşı ağırlıklı forklift serisini 10–13 ton ve 16–18 ton sınıflarındaki modellerle tamamladığını duyurdu. Kaynak, serinin 4–18 ton arasında kapasite sunduğunu bildiriyor.\n\nHaberde yeni modellerin limanlar, gemi inşası ve metal elleçleme gibi uygulamalara elektrikli güç seçeneği sunduğu aktarılıyor. Batarya, şarj süresi veya performans verileri paylaşılmadığından bu alanlarda karşılaştırma yapmak mümkün değil.",
+    "why_it_matters": "Elektrikli forkliftlerin daha yüksek kapasite sınıflarına uzanması, liman ve ağır malzeme elleçleme operasyonlarında elektrikli ekipman kullanımını değerlendiren işletmeler için önem taşıyor. Ancak uygunluğu belirlemek için operasyonel performans ve şarj altyapısı verileri de gerekli.",
+    "key_facts": [
+      "Hyundai Material Handling, B-X yüksek gerilimli elektrikli forklift serisine 10–13 ton ve 16–18 ton sınıflarında modeller ekledi.",
+      "Kaynakta serinin kapasite aralığı 4–18 ton olarak veriliyor.",
+      "Liman, gemi inşası ve metal elleçleme uygulamaları belirtiliyor."
+    ],
+    "format": "haber",
+    "sector": "liman",
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "tags": [
+      "Hyundai Material Handling",
+      "B-X",
+      "elektrikli forklift",
+      "liman ekipmanları",
+      "malzeme elleçleme"
+    ],
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/news/materials-handling/hyundai-material-handling-completes-b-x-electric-forklift-range.html",
+    "source_published_at": "2026-09-30T08:47:07.000Z",
+    "site_published_at": "2026-09-30T18:39:49.329Z",
+    "hero_image": ""
+  },
+  {
     "id": "d9c0317cf0caa988",
     "slug": "caterpillar-richards-spur-sahasinda-otonom-tasimacilik-uygulamasini-duyurdu",
     "title": "Caterpillar, Richards Spur sahasında otonom taşımacılık uygulamasını duyurdu",
