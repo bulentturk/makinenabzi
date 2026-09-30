@@ -1,5 +1,35 @@
 [
   {
+    "id": "d9c0317cf0caa988",
+    "slug": "caterpillar-richards-spur-sahasinda-otonom-tasimacilik-uygulamasini-duyurdu",
+    "title": "Caterpillar, Richards Spur sahasında otonom taşımacılık uygulamasını duyurdu",
+    "dek": "Caterpillar’ın Command for hauling otonom taşıma teknolojisi, Richards Spur taş ocağına yönelik yeni bir duyuruyla gündeme geldi. Mevcut kaynak özeti, sahadaki filo ve uygulama ayrıntılarını vermiyor.",
+    "summary": "International Mining’in başlığı, Caterpillar’ın Richards Spur sahasında otonom taşıma teknolojisi kullanımını duyurduğunu belirtiyor. Kaynağın kısa özetine göre şirket, Command for hauling sistemini taş ocakları ve küçük ölçekli madencilikte daha fazla sahaya taşıyor.\n\nÖzette ayrıca Mayıs 2026’da Carmeuse’un Michigan’daki Drummond Island ocağında, Fabick Cat desteğiyle 777 kamyon filosunda bir uygulama duyurulduğu aktarılıyor. Richards Spur’daki araç sayısı, devreye alma takvimi ve sistemin kapsamı verilen metinde yer almıyor.",
+    "why_it_matters": "Otonom taşımanın taş ocakları ve daha küçük madencilik operasyonlarına yayılması, bu sahalarda filo koordinasyonu ve çalışma düzeninin nasıl kurulacağı açısından önem taşıyabilir. Richards Spur uygulamasının ölçeği ve operasyonel sonuçları mevcut bilgilerle değerlendirilemiyor.",
+    "key_facts": [
+      "International Mining başlığı, Richards Spur sahasında Caterpillar otonom taşıma teknolojisi uygulamasının duyurulduğunu belirtiyor.",
+      "Kaynak özeti, Caterpillar Command for hauling teknolojisinin taş ocakları ve küçük ölçekli madencilikte kullanıldığını aktarıyor.",
+      "Mayıs 2026’da Carmeuse’un Drummond Island ocağında 777 filosu için bir uygulama duyurulmuş; Fabick Cat destek sağlamış."
+    ],
+    "format": "haber",
+    "sector": "madencilik",
+    "technologies": [
+      "otonomi-ai"
+    ],
+    "tags": [
+      "Caterpillar",
+      "Command for hauling",
+      "otonom taşıma",
+      "taş ocağı",
+      "madencilik"
+    ],
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/09/29/caterpillar-grows-quarrying-ahs-further-with-richards-spur-deployment/",
+    "source_published_at": "2026-09-29T11:03:38.000Z",
+    "site_published_at": "2026-09-30T18:31:14.934Z",
+    "hero_image": ""
+  },
+  {
     "id": "d0caec43aa511bf9",
     "slug": "summit-hidrolik-vinc-serisinin-yeni-nesil-model-gamini-tamamladi",
     "title": "Summit, hidrolik vinç serisinin yeni nesil model gamını tamamladı",
