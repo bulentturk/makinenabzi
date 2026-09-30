@@ -62,7 +62,7 @@ bun run dev         # http://localhost:5173
 | `VITE_CONVEX_URL` | Vercel (build) veya `.env.local` | Uygulamanın Convex adresi |
 | `CONVEX_DEPLOY_KEY` | Vercel (build) | `convex deploy`'u CI'dan çalıştırmak için |
 | `JWKS`, `JWT_PRIVATE_KEY`, `SITE_URL` | Convex deployment | Convex Auth anahtarları |
-| `RESEND_API_KEY` | Convex deployment | Giriş kodu e-postası (aşağıya bakın) |
+| `RESEND_API_KEY`, `AUTH_EMAIL_FROM` | Convex deployment | Giriş kodu e-postası ve doğrulanmış gönderen adresi |
 | `NEWS_FEED_JSON_URL` | Convex deployment | Yalnızca geçici yönlendirme |
 
 `VITE_CONVEX_URL` tanımlı değilse uygulama beyaz ekran yerine okunur bir
@@ -73,11 +73,11 @@ panellerinden girilir.
 
 ## Giriş kodu e-postası
 
-`src/convex/auth/emailOtp.ts`, `RESEND_API_KEY` tanımlıysa kodu **kendi Resend
-hesabınızdan** gönderir; tanımlı değilse eski (yalnızca çalışma ortamında geçerli
-olan) yola düşer. Yayında mutlaka `RESEND_API_KEY` ayarlayın ve gönderen alan
-adını Resend'de doğrulayın. Gönderen adresini `AUTH_EMAIL_FROM` ile
-değiştirebilirsiniz.
+`src/convex/auth/emailOtp.ts`, kodu yalnızca **kendi Resend hesabınızdan**
+gönderir. E-posta ile giriş için `RESEND_API_KEY` ve Resend'de doğrulanmış
+`AUTH_EMAIL_FROM` zorunludur. Bu değerler yoksa misafir girişi çalışabilir,
+ancak e-posta kodu gönderilemez. Eski üçüncü taraf e-posta/JWT sağlayıcıları
+kullanılmaz.
 
 ## Yayın
 

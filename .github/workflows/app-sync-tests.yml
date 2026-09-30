@@ -20,3 +20,19 @@ jobs:
         with:
           node-version: 24
       - run: node --test app/src/convex/siteFeed.test.mjs
+
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: app
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - run: npm install --no-audit --no-fund --package-lock=false
+      # Anonymous local Convex deployment generates the real API/data types.
+      # No production key or production data is used by this check.
+      - run: npx convex dev --once
+      - run: npm run build
