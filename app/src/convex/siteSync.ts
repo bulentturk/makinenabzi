@@ -33,6 +33,12 @@ const MAX_PER_RUN = 25;
 const FETCH_CONCURRENCY = 6;
 const THROTTLE_MS = 60 * 1000;
 
+function batchSize(value: number | undefined): number {
+  const requested = value ?? 12;
+  if (!Number.isFinite(requested)) return 12;
+  return Math.min(Math.max(Math.floor(requested), 1), MAX_PER_RUN);
+}
+
 type SyncedArticle = SiteArticle;
 
 function decodeEntities(input: string): string {
@@ -345,12 +351,12 @@ async function runSync(ctx: ActionCtx, limit: number): Promise<SyncResult> {
 export const syncFeed = internalAction({
   args: { limit: v.optional(v.number()) },
   handler: async (ctx, args): Promise<SyncResult> =>
-    await runSync(ctx, Math.min(args.limit ?? 12, MAX_PER_RUN)),
+    await runSync(ctx, batchSize(args.limit)),
 });
 
 /** Called by the app so a reader never waits for the scheduled run. */
 export const syncNews = action({
-  args: { limit: v.optional(v.number()), force: v.optional(v.boolean()) },
+  args: { limit: v.optional(v.number()) },
   handler: async (ctx, args): Promise<SyncResult> => {
     const userId = await getAuthUserId(ctx);
     if (!userId) {
@@ -361,7 +367,7 @@ export const syncNews = action({
       internal.siteSyncStore.readState,
       {},
     );
-    if (state && !args.force && Date.now() - state.lastRunAt < THROTTLE_MS) {
+    if (state && Date.now() - state.lastRunAt < THROTTLE_MS) {
       return {
         ok: state.lastStatus === "ok",
         scanned: state.scanned,
@@ -370,6 +376,6 @@ export const syncNews = action({
       };
     }
 
-    return await runSync(ctx, Math.min(args.limit ?? 12, MAX_PER_RUN));
+    return await runSync(ctx, batchSize(args.limit));
   },
 });
