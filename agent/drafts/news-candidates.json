@@ -56,7 +56,7 @@
   },
   {
     "id": "d9c0317cf0caa988",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Caterpillar grows quarrying AHS further with Richards Spur deployment",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/09/29/caterpillar-grows-quarrying-ahs-further-with-richards-spur-deployment/",
@@ -78,7 +78,7 @@
       "seo_title": "Caterpillar otonom taşıma sistemini Richards Spur’a taşıyor",
       "meta_description": "Caterpillar’ın Command for hauling sistemi Richards Spur duyurusuyla gündemde. Kaynak özeti uygulamanın filo ve devreye alma ayrıntılarını içermiyor.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "International Mining başlığı, Richards Spur sahasında Caterpillar otonom taşıma teknolojisi uygulamasının duyurulduğunu belirtiyor.",
         "Kaynak özeti, Caterpillar Command for hauling teknolojisinin taş ocakları ve küçük ölçekli madencilikte kullanıldığını aktarıyor.",
@@ -106,7 +106,9 @@
         "Operasyonel performans veya verimlilik sonuçları hakkında kaynakta bilgi yok."
       ],
       "generated_at": "2026-09-29T19:56:16.648Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-09-30T18:39:49.728Z",
+      "review_result": "published"
     }
   },
   {
