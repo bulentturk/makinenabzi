@@ -408,7 +408,7 @@
   },
   {
     "id": "a5df70d023481fa0",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Komatsu Europe launches PW75MR-5 compact wheeled excavator",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/construction/komatsu-europe-launches-pw75mr-5-compact-wheeled-excavator.html",
@@ -421,14 +421,37 @@
     "editorial_fit_score": 55,
     "summary_source": "Komatsu Europe has launched the PW75MR-5, a compact wheeled excavator developed for increasingly congested jobsites where transport and manoeuvrability are at a premium. The machine combines an operating weight of [...] The post Komatsu Europe launches PW75MR-5 compact wheeled excavator appeared first on Industrial Vehicle Technology International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Komatsu Europe, 7,5 ton altı PW75MR-5 kompakt lastikli ekskavatörü tanıttı",
+      "dek_tr": "PW75MR-5, 7,5 tonun altında çalışma ağırlığına ve 2 metre genişliğe sahip kompakt bir lastikli ekskavatör olarak tanıtılıyor. Modelde dört tekerlekten yönlendirme bulunuyor.",
+      "summary_tr": "Komatsu Europe, PW75MR-5 kompakt lastikli ekskavatörü tanıttı. Kaynak açıklamasına göre makine, kalabalık ve dar çalışma sahalarında manevra kabiliyeti ile taşınabilirliğin önemli olduğu işler için geliştirildi.\n\nMakinenin çalışma ağırlığı 7,5 tonun altında, genişliği ise 2 metre olarak veriliyor. Dört tekerlekten yönlendirme özelliği bulunuyor. Model, kaynakta GaLaBau 2026’da Nürnberg’de sergilenen ürün olarak belirtiliyor.",
+      "why_it_matters_tr": "Kompakt ölçüler ve dört tekerlekten yönlendirme, dar şantiye alanlarında çalışacak lastikli ekskavatörler için pratik avantaj sağlayabilir. Kaynak, bu avantajların bağımsız test sonuçlarını veya verimlilik etkisini ortaya koymuyor.",
+      "seo_title": "Komatsu PW75MR-5 kompakt lastikli ekskavatörü tanıttı",
+      "meta_description": "Komatsu Europe’ın PW75MR-5 modeli 7,5 tonun altında çalışma ağırlığı, 2 metre genişlik ve dört tekerlekten yönlendirme sunuyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Model Komatsu Europe tarafından tanıtıldı.",
+        "PW75MR-5’in çalışma ağırlığı 7,5 tonun altında olarak belirtiliyor.",
+        "Makinenin genişliği 2 metre ve dört tekerlekten yönlendirmesi bulunuyor.",
+        "Kaynak, modelin GaLaBau 2026’da Nürnberg’de sergilendiğini bildiriyor."
+      ],
+      "suggested_tags": [
+        "Komatsu",
+        "PW75MR-5",
+        "lastikli ekskavatör",
+        "kompakt iş makinesi"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "PW75MR-5’in 7,5 tonun altında olduğu, 2 metre genişliğe ve dört tekerlekten yönlendirmeye sahip olduğu; dar sahalar için geliştirildiği ve GaLaBau 2026’da Nürnberg’de sergilendiği bilgileri."
+      ],
+      "uncertainty_notes": [
+        "Teknik bilgiler kaynak açıklamasına dayanıyor; bağımsız doğrulama veya saha performansı verisi sağlanmamış."
+      ],
+      "generated_at": "2026-10-01T20:18:05.206Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -601,7 +624,7 @@
   },
   {
     "id": "187773c0f3a9607f",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Manitou Group Introduces Largest &#8220;High Lift&#8221;  Rotating Telehandler in Current Offering",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/manitou-group-introduces-largest-high-lift-rotating-telehandler-in-current-offering/72394",
@@ -614,14 +637,36 @@
     "editorial_fit_score": 65,
     "summary_source": "Manitou Group has introduced its new MRT 4080 — the largest \"High Lift\" in its offering of MRT Vision+ rotating telehandlers....",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Manitou MRT 4080, MRT Vision+ serisinin en büyük yüksek erişimli döner telehandler’ı oldu",
+      "dek_tr": "Manitou Group, MRT Vision+ döner telehandler serisine MRT 4080 modelini ekledi. Şirketin duyurusuna göre model, serideki en büyük “High Lift” makine.",
+      "summary_tr": "Manitou Group, yeni MRT 4080’i MRT Vision+ döner telehandler ürün ailesine dahil etti. Kaynakta modelin teknik özellikleri veya önceki modellere göre değişiklikleri açıklanmıyor.\n\nDuyuruda MRT 4080, şirketin mevcut ürün gamındaki en büyük “High Lift” olarak tanımlanıyor.",
+      "why_it_matters_tr": "Döner telehandler’lar, yük kaldırma ve erişim ihtiyacının bulunduğu iş makinesi uygulamalarında kullanılabilir. Ancak kaynakta MRT 4080’in erişim, kapasite veya saha kullanımına ilişkin ayrıntı bulunmadığından teknik etkisini değerlendirmek mümkün değil.",
+      "seo_title": "Manitou MRT 4080 döner telehandler serisine katıldı",
+      "meta_description": "Manitou Group, MRT Vision+ serisinin en büyük “High Lift” modeli olarak tanımladığı MRT 4080 döner telehandler’ı tanıttı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Manitou Group, MRT 4080 modelini tanıttı.",
+        "Model, MRT Vision+ döner telehandler serisine ait.",
+        "Kaynağa göre MRT 4080, serideki en büyük “High Lift” modelidir."
+      ],
+      "suggested_tags": [
+        "Manitou Group",
+        "MRT 4080",
+        "döner telehandler",
+        "teleskopik yükleyici"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Manitou Group’un MRT 4080’i tanıttığı ve modelin MRT Vision+ serisinin en büyük “High Lift” makinesi olduğu bilgisi."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfasına erişim 403 hatasıyla başarısız olmuş; taslak yalnızca başlık ve kısa RSS özetine dayanıyor. Teknik özellikler ve uygulama ayrıntıları doğrulanamıyor."
+      ],
+      "generated_at": "2026-10-01T20:18:05.206Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -723,7 +768,7 @@
   },
   {
     "id": "fe0c7938f6f35c89",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "WW Builders Inc. Adds Tadano PM Knuckle Boom Crane",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/ww-builders-inc-adds-tadano-pm-knuckle-boom-crane/72382",
@@ -736,14 +781,37 @@
     "editorial_fit_score": 55,
     "summary_source": "WW Builders Inc has added a new crane to its fleet — a Tadano PM 38525 SP + J813.20....",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "WW Builders filosuna Tadano PM 38525 SP + J813.20 knuckle boom vinç ekledi",
+      "dek_tr": "WW Builders Inc., filosuna Tadano PM 38525 SP + J813.20 model bir knuckle boom vinç ekledi. Kaynakta teslimatın veya ekipmanın teknik özelliklerine ilişkin başka ayrıntı yok.",
+      "summary_tr": "WW Builders Inc., Tadano PM 38525 SP + J813.20 model knuckle boom vinci filosuna kattı. Kaynak özeti, bu ekipman eklemesinin ötesinde kullanım alanı, konfigürasyon veya kapasite bilgisi vermiyor.",
+      "why_it_matters_tr": "Knuckle boom vinçler, uygun araç ve konfigürasyonla mobil yükleme-boşaltma ve malzeme elleçleme işlerinde kullanılabilir. Ancak kaynak, bu vincin araç üzerine montajını ya da WW Builders’ın hangi işlerde kullanacağını doğrulamadığından uygulama bağlantısı sınırlı tutulmalıdır.",
+      "seo_title": "WW Builders filosuna Tadano PM knuckle boom vinç ekledi",
+      "meta_description": "WW Builders Inc., filosuna Tadano PM 38525 SP + J813.20 knuckle boom vinci kattı; kaynakta teknik özellik ve kullanım ayrıntısı paylaşılmadı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "WW Builders Inc. filosuna yeni bir vinç ekledi.",
+        "Ekipman Tadano PM 38525 SP + J813.20 olarak tanımlanıyor.",
+        "Kaynakta teknik kapasite, montaj ve kullanım alanı belirtilmiyor."
+      ],
+      "suggested_tags": [
+        "Tadano",
+        "PM 38525 SP",
+        "J813.20",
+        "knuckle boom vinç",
+        "filo yatırımı"
+      ],
+      "suggested_sector": "arac-ustu-ekipman",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "WW Builders Inc.’in filosuna Tadano PM 38525 SP + J813.20 model knuckle boom vinci eklediği bilgisi."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfasına erişim 403 hatasıyla başarısız olmuş; taslak kısa RSS özetine dayanıyor. Vincin araç üstü montajı, kapasitesi ve kullanım amacı kaynakta doğrulanmıyor."
+      ],
+      "generated_at": "2026-10-01T20:18:05.206Z",
+      "generated_by": "github-models"
     }
   },
   {
