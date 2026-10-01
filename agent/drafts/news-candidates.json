@@ -201,7 +201,7 @@
   },
   {
     "id": "65c26df92d487318",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "VIDEO: Wacker Neuson introduces new excavators",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/videos/video-wacker-neuson-introduces-new-and-redesigned-excavators.html",
@@ -214,14 +214,36 @@
     "editorial_fit_score": 65,
     "summary_source": "iVT International visited Wacker Neuson’s production and development site in Hörsching, Austria, to learn more about the OEM’s latest excavator launches. Ronald Ganzenhuber introduces the EW135, the newest addition to [...] The post VIDEO: Wacker Neuson introduces new excavators appeared first on Industrial Vehicle Technology International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Wacker Neuson yeni ekskavatörlerini tanıttı; EW135 seriye katıldı",
+      "dek_tr": "iVT International’ın aktardığı videoda Wacker Neuson’un yeni ekskavatör lansmanları ele alınıyor. EW135, üreticinin ekskavatör ürün gamına eklenen en yeni model olarak tanıtılıyor.",
+      "summary_tr": "iVT International, Wacker Neuson’un Avusturya’nın Hörsching kentindeki üretim ve geliştirme tesisini ziyaret ederek şirketin yeni ekskavatör lansmanlarını inceledi. Videoda şirket yöneticisi Ronald Ganzenhuber, EW135’i ürün gamına katılan en yeni ekskavatör olarak tanıtıyor.\n\nKaynakta EW135’in teknik özellikleri veya tanıtılan diğer yeni ya da yeniden tasarlanan ekskavatörlerin model adları yer almıyor.",
+      "why_it_matters_tr": "Yeni ekskavatör modelleri, iş makinesi ürün gamındaki gelişmeleri takip edenler için doğrudan ilgi taşıyor. Ancak mevcut kaynak teknik değişiklikleri açıklamadığından, modelin saha performansı veya segment içindeki farkı hakkında değerlendirme yapmak mümkün değil.",
+      "seo_title": "Wacker Neuson EW135 ekskavatörünü tanıttı",
+      "meta_description": "Wacker Neuson’un yeni ekskavatör lansmanlarını ele alan iVT International videosunda EW135, ürün gamının en yeni modeli olarak tanıtılıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "iVT International, Wacker Neuson’un Hörsching’deki üretim ve geliştirme tesisini ziyaret etti.",
+        "EW135, videoda şirketin ekskavatör gamına katılan en yeni model olarak tanıtılıyor."
+      ],
+      "suggested_tags": [
+        "Wacker Neuson",
+        "EW135",
+        "ekskavatör",
+        "iş makineleri"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "iVT International’ın Hörsching’deki üretim ve geliştirme tesisini ziyaret ederek yeni ekskavatör lansmanları hakkında video hazırladığı bilgisi.",
+        "EW135’in şirketin en yeni ekskavatör modeli olarak tanıtıldığı bilgisi."
+      ],
+      "uncertainty_notes": [
+        "Kaynakta EW135’in teknik özellikleri, uygulama alanı veya diğer yeni modellerin adları açıklanmıyor."
+      ],
+      "generated_at": "2026-10-01T11:17:44.546Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -334,7 +356,7 @@
   },
   {
     "id": "5c918d8e9114fbdc",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Claas launches Arion 5 CMatic four-cylinder tractor range",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/agriculture/claas-launches-arion-5-cmatic-four-cylinder-tractor-range.html",
@@ -347,14 +369,41 @@
     "editorial_fit_score": 55,
     "summary_source": "Claas has introduced the Arion 5 CMatic, a three-model four-cylinder tractor range that succeeds the Arion 500 series and sits below the six-cylinder Arion 6 CMatic. The series made its [...] The post Claas launches Arion 5 CMatic four-cylinder tractor range appeared first on Industrial Vehicle Technology International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Claas Arion 5 CMatic: 145–180 hp aralığında üç dört silindirli traktör",
+      "dek_tr": "Claas, Arion 500 serisinin yerini alacak Arion 5 CMatic ailesini tanıttı. Üç modelden oluşan seri, CMATIC sürekli değişken şanzımanla sunuluyor.",
+      "summary_tr": "Claas, dört silindirli Arion 5 CMatic traktör ailesini üç modelle duyurdu. Güç aralığı 145–180 hp olarak belirtilen seri, Arion 500’ün yerini alacak ve altı silindirli Arion 6 CMatic’in altında konumlanacak.\n\nTraktörlerde CMATIC sürekli değişken şanzıman bulunuyor. Kaynak, modellerin diğer teknik özelliklerini veya önceki seriye göre yapılan değişiklikleri açıklamıyor.",
+      "why_it_matters_tr": "Arion 5 CMatic, tarımsal çekiş ve işlerde kullanılan orta sınıf traktör segmentinde dört silindirli motor ile sürekli değişken şanzımanı bir araya getiriyor. Serinin saha verimliliği veya önceki modele kıyasla sağladığı kazanımlar hakkında kaynakta ölçüm ya da karşılaştırma bulunmuyor.",
+      "seo_title": "Claas Arion 5 CMatic traktör serisini tanıttı",
+      "meta_description": "Claas’ın üç modelden oluşan Arion 5 CMatic traktör ailesi 145–180 hp güç aralığında ve CMATIC sürekli değişken şanzımanla sunuluyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Arion 5 CMatic ailesi üç dört silindirli modelden oluşuyor.",
+        "Serinin bildirilen güç aralığı 145–180 hp.",
+        "Modellerde CMATIC sürekli değişken şanzıman kullanılıyor.",
+        "Yeni seri Arion 500’ün yerini alıyor ve Arion 6 CMatic’in altında konumlanıyor."
+      ],
+      "suggested_tags": [
+        "Claas",
+        "Arion 5 CMatic",
+        "traktör",
+        "tarım makineleri",
+        "sürekli değişken şanzıman"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Arion 5 CMatic’in üç modelden oluşan dört silindirli bir traktör serisi olduğu bilgisi.",
+        "Seri için 145–180 hp güç aralığı ve CMATIC sürekli değişken şanzıman belirtildiği bilgisi.",
+        "Arion 5 CMatic’in Arion 500’ün yerini alacağı ve Arion 6 CMatic’in altında konumlanacağı bilgisi."
+      ],
+      "uncertainty_notes": [
+        "Teknik bilgiler sınırlı; motor, şanzıman çalışma aralığı, hidrolik kapasite ve önceki seriye göre değişiklikler kaynakta belirtilmiyor.",
+        "Performans veya verimlilik karşılaştırmasına ilişkin bağımsız test verisi bulunmuyor."
+      ],
+      "generated_at": "2026-10-01T11:17:44.546Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -442,7 +491,7 @@
   },
   {
     "id": "3b4e24cb3c66ad9e",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "mtu PowerPacks for Marco Polo Rail",
     "source_name": "Powertrain International Off-Highway",
     "source_url": "https://www.powertraininternationalweb.com/off-highway/marco-polo-rail-mtu-powerpacks-brazil/",
@@ -457,14 +506,41 @@
     "editorial_fit_score": 67,
     "summary_source": "Six mtu PowerPacks have been delivered for three Marcopolo Rail multiple units in Teresina, Brazil; a further six systems are planned for a follow-up project. The first train is scheduled to enter assisted operation service in October 2026 The post mtu PowerPacks for Marco Polo Rail appeared first on Powertrain International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "mtu PowerPack’ler Brezilya’da elektriksiz hatlarda hizmet verecek",
+      "dek_tr": "Rolls-Royce Power Systems, Teresina’daki üç dizel tren seti için altı mtu 6H1800R83 PowerPack teslim etti. İlk trenin Ekim 2026’da destekli işletmeye alınması planlanıyor.",
+      "summary_tr": "Marcopolo Rail, Brezilya’nın Teresina kentindeki kent içi demiryolu ağı için ürettiği dizel çoklu ünitelerde altı mtu 6H1800R83 PowerPack kullanıyor. Sistemler üç tren setine tahsis edildi; ilk trenin Ekim 2026’da destekli işletmeye başlaması öngörülüyor. İşletmeyi Companhia Ferroviária e de Logística do Piauí (CFLP) yürütecek.\n\nPowerPack, tahrik bileşenlerini tek bir ünitede bir araya getirerek araçların kesintisiz katener hattı olmadan çalışmasına imkân veriyor. Şirket, Teresina projesini mtu PowerPack’in Latin Amerika’daki ilk uygulaması ve Marcopolo Rail ile ilk iş birliği olarak tanımlıyor.\n\nArapiraca banliyö demiryolu projesi için üç hafif çoklu üniteye yönelik altı ek PowerPack’in 2026 sonuna kadar teslim edilmesi planlanıyor.",
+      "why_it_matters_tr": "Entegre motor ve tahrik üniteleri, sürekli elektrifikasyon bulunmayan demiryolu hatlarında yeni araç uygulamalarını mümkün kılabilir. Bu örnek demiryoluna ait olsa da, benzer paketleme yaklaşımı dizel güç aktarma sistemlerinin kullanıldığı mobil makine ve ekipmanlarda da teknik açıdan izlenmeye değer.",
+      "seo_title": "mtu PowerPack’ler Brezilya’da elektriksiz hatlarda",
+      "meta_description": "Teresina’daki üç dizel tren seti için altı mtu 6H1800R83 PowerPack teslim edildi. İlk trenin Ekim 2026’da işletmeye alınması planlanıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Teresina projesinde üç dizel çoklu ünite için altı mtu 6H1800R83 PowerPack teslim edildi.",
+        "İlk trenin Ekim 2026’da destekli işletmeye alınması planlanıyor.",
+        "Arapiraca projesi için altı ek PowerPack’in 2026 sonuna kadar teslim edilmesi öngörülüyor."
+      ],
+      "suggested_tags": [
+        "mtu",
+        "Rolls-Royce Power Systems",
+        "dizel güç aktarma",
+        "demiryolu"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "yuruyus-guc-aktarma"
+      ],
+      "source_facts_used": [
+        "Teresina projesi için üç dizel çoklu üniteye altı 6H1800R83 PowerPack teslim edildiği ve ilk trenin Ekim 2026’da destekli işletmeye girmesinin planlandığı bilgisi.",
+        "PowerPack’in tahrik bileşenlerini tek ünitede birleştirdiği ve sürekli katener hattı olmadan işletime imkân verdiği bilgisi.",
+        "Arapiraca projesi için 2026 sonuna kadar altı ek sistem teslim etme planı."
+      ],
+      "uncertainty_notes": [
+        "Demiryolu, izin verilen sektör sınıflandırmasında yer almadığı için en yakın güç aktarma sektörü seçeneği kullanıldı.",
+        "Sistemin performansına ilişkin bağımsız test verisi kaynakta bulunmuyor; teknik açıklamalar üretici ve proje taraflarının beyanlarına dayanıyor."
+      ],
+      "generated_at": "2026-10-01T11:17:44.546Z",
+      "generated_by": "github-models"
     }
   },
   {
