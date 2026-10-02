@@ -59,7 +59,7 @@
   },
   {
     "id": "11b4654893e0559d",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Dyno Nobel prototypes autonomous blasthole inspection & loading technology",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/10/01/dyno-nobel-prototypes-autonomous-blasthole-inspection-loading-technology/",
@@ -75,14 +75,42 @@
     "editorial_fit_score": 34,
     "summary_source": "Following five years of what is described as intense R&D, global leader in explosives Dyno Nobel has unveiled a fully autonomous system which tackles one of mining’s last, manual, and safety-critical processes – the drill and blast bench. The “world-first,” end-to-end autonomously orchestrated blast hole inspection and loading technology, unveiled to investors in New York, The post Dyno Nobel prototypes autonomous blasthole inspection & loading technology appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Dyno Nobel, otonom blasthole denetim ve yükleme teknolojisinin prototipini tanıttı",
+      "dek_tr": "Dyno Nobel, sondaj deliklerinin denetlenmesi ve patlayıcıyla yüklenmesi süreçlerini otonom biçimde yürütmeyi hedefleyen bir prototip duyurdu. Kaynak, sistemin yatırımcılara New York'ta tanıtıldığını aktarıyor.",
+      "summary_tr": "International Mining'in haber özetine göre Dyno Nobel, maden sahalarındaki delme-patlatma basamağı için blasthole denetim ve yükleme teknolojisinin prototipini tanıttı. Sistem, bu süreçleri uçtan uca otonom biçimde koordine etmeyi hedefliyor.\n\nKaynak, teknolojinin beş yıllık bir Ar-Ge çalışmasının ardından yatırımcılara New York'ta sunulduğunu bildiriyor. Bu bilgi şirketin duyurusunu aktaran haber özetine dayanıyor; prototipin saha performansı veya ticari kullanıma hazır olup olmadığına ilişkin veri verilmemiş.",
+      "why_it_matters_tr": "Delik denetimi ve patlayıcı yükleme, madenlerde iş güvenliği ve operasyon akışı açısından kritik adımlardır. Bu görevlerin otonomlaştırılması, sahada personelin maruziyetini ve süreçlerin koordinasyonunu etkileyebilir; ancak olası faydaların değerlendirilmesi için saha denemeleri ve performans verileri gerekir.",
+      "seo_title": "Dyno Nobel otonom patlatma deliği sistemi prototipi",
+      "meta_description": "Dyno Nobel, madenlerde blasthole denetimi ve patlayıcı yüklemeyi otonom koordine etmeyi hedefleyen bir prototip tanıttı; saha verileri paylaşılmadı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Dyno Nobel, blasthole denetim ve yükleme teknolojisi için bir prototip tanıttı.",
+        "Teknoloji, delme-patlatma sürecini otonom biçimde koordine etmeyi hedefliyor.",
+        "Haber özeti, çalışmanın beş yıllık Ar-Ge sürecinin ardından tanıtıldığını ve yatırımcılara New York'ta sunulduğunu belirtiyor."
+      ],
+      "suggested_tags": [
+        "Dyno Nobel",
+        "madencilik",
+        "otonom sistemler",
+        "delme ve patlatma",
+        "iş güvenliği"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "otonomi-ai"
+      ],
+      "source_facts_used": [
+        "International Mining özetinde Dyno Nobel'in blasthole denetimi ve yüklemesi için otonom teknoloji prototipi tanıttığı belirtiliyor.",
+        "Özet, çalışmayı beş yıllık Ar-Ge süreciyle ilişkilendiriyor ve yatırımcılara New York'ta sunulduğunu aktarıyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynağa erişim HTTP 403 ile engellenmiş; haber yalnızca kısa özet üzerinden değerlendirildi.",
+        "Otonomi düzeyi, prototipin teknik mimarisi, saha testleri, performansı ve ticari kullanıma geçiş planı doğrulanamıyor.",
+        "Beş yıllık Ar-Ge ve sistemin kapsamına ilişkin ifadeler haber özetinde aktarılıyor; bağımsız doğrulama veya test sonucu sunulmuyor."
+      ],
+      "generated_at": "2026-10-02T19:52:19.544Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -681,7 +709,7 @@
   },
   {
     "id": "7812ddecfeac8062",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": " Loftness Introduces Stone Crusher Attachment",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/loftness-introduces-stone-crusher-attachment/72409",
@@ -694,14 +722,35 @@
     "editorial_fit_score": 65,
     "summary_source": "Loftness Specialized Equipment has introduced its new Stone Ax stone crusher attachment. ...",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Loftness, Stone Ax taş kırıcı ataşmanını tanıttı",
+      "dek_tr": "Loftness Specialized Equipment, Stone Ax adlı taş kırıcı ataşmanını duyurdu. Kaynakta ürünün teknik özellikleri ve kullanım koşulları hakkında ayrıntı bulunmuyor.",
+      "summary_tr": "Loftness Specialized Equipment yeni Stone Ax taş kırıcı ataşmanını tanıttı. Duyuru, Construction Equipment Guide’ın haber özeti ve başlığıyla sınırlı.\n\nAtaşmanın uyumlu taşıyıcıları, kapasitesi ve çalışma özellikleri mevcut kaynak metninde açıklanmıyor.",
+      "why_it_matters_tr": "Taş kırma ataşmanları, uygun taşıyıcılarla kullanıldığında sahadaki malzeme işleme ve arazi çalışmalarına yönelik ekipman seçeneklerini genişletebilir. Ancak bu ürünün hangi makinelerle ve hangi koşullarda kullanılabildiği kaynakta doğrulanmıyor.",
+      "seo_title": "Loftness Stone Ax taş kırıcı ataşmanını tanıttı",
+      "meta_description": "Loftness Specialized Equipment, Stone Ax taş kırıcı ataşmanını duyurdu. Uyumlu taşıyıcılar ve teknik özellikler mevcut kaynakta açıklanmıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Loftness Specialized Equipment, Stone Ax adlı taş kırıcı ataşmanını tanıttı."
+      ],
+      "suggested_tags": [
+        "Loftness",
+        "Stone Ax",
+        "taş kırıcı ataşman",
+        "iş makinesi ataşmanları"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Kaynak başlığı ve özeti, Loftness Specialized Equipment'ın Stone Ax taş kırıcı ataşmanını tanıttığını belirtiyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynağa erişim HTTP 403 ile engellenmiş; mevcut içerik yalnızca kısa özet ve başlıktan oluşuyor.",
+        "Ataşmanın teknik değerleri, uyumlu makineleri, bulunabilirliği ve uygulama koşulları doğrulanamıyor."
+      ],
+      "generated_at": "2026-10-02T19:52:19.544Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -997,7 +1046,7 @@
   },
   {
     "id": "f3448f872b491eac",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Liebherr's Game of Cranes Returns: Best Mobile Crane Operator",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/liebherrs-game-of-cranes-returns-best-mobile-crane-operator/72368",
@@ -1010,14 +1059,37 @@
     "editorial_fit_score": 55,
     "summary_source": "Liebherr's Game of Cranes is returning. Voting by an expert panel and five regional qualifying rounds will pave the way to the grand final in Ehingen in 2027. ...",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Liebherr'in Game of Cranes yarışması 2027 finaliyle dönüyor",
+      "dek_tr": "Liebherr'in mobil vinç operatörlerine yönelik Game of Cranes etkinliği yeniden düzenleniyor. Uzman panelinin oylaması ve beş bölgesel eleme turunun ardından finalin 2027'de Ehingen'de yapılması planlanıyor.",
+      "summary_tr": "Construction Equipment Guide’ın özetine göre Liebherr, Game of Cranes etkinliğini yeniden düzenliyor. Etkinlik, en iyi mobil vinç operatörünü belirlemeye yönelik bir yarışma olarak tanıtılıyor.\n\nYarışma sürecinde uzman panelinin oylaması ve beş bölgesel eleme turu yer alacak; büyük finalin 2027'de Ehingen'de yapılması planlanıyor.",
+      "why_it_matters_tr": "Mobil vinç operatörlüğündeki beceri ve uygulama deneyimine dikkat çeken etkinlik, sektörün operatör yetkinliklerine yönelik ilgisini görünür kılabilir. Kaynak özeti, vinç teknolojisinde bir yenilik veya teknik performans verisi sunmuyor.",
+      "seo_title": "Liebherr Game of Cranes yarışması 2027'de dönüyor",
+      "meta_description": "Liebherr'in mobil vinç operatörleri için düzenlediği Game of Cranes, beş bölgesel eleme turunun ardından 2027'de Ehingen finaliyle sürecek.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Liebherr'in Game of Cranes etkinliği yeniden düzenleniyor.",
+        "Süreçte uzman paneli oylaması ve beş bölgesel eleme turu bulunuyor.",
+        "Finalin 2027'de Ehingen'de yapılması planlanıyor."
+      ],
+      "suggested_tags": [
+        "Liebherr",
+        "mobil vinç",
+        "vinç operatörü",
+        "operatör yarışması"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Kaynak özeti, Game of Cranes etkinliğinin geri döndüğünü ve en iyi mobil vinç operatörünü belirlemeyi amaçladığını aktarıyor.",
+        "Özette uzman paneli oylaması, beş bölgesel eleme turu ve 2027'de Ehingen'de yapılması planlanan final belirtiliyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynağa erişim HTTP 403 ile engellenmiş; katılım koşulları, tarihler ve yarışma formatının ayrıntıları doğrulanamıyor."
+      ],
+      "generated_at": "2026-10-02T19:52:19.544Z",
+      "generated_by": "github-models"
     }
   }
 ]
