@@ -228,63 +228,6 @@
     }
   },
   {
-    "id": "d9c0317cf0caa988",
-    "status": "published",
-    "title_original": "Caterpillar grows quarrying AHS further with Richards Spur deployment",
-    "source_name": "International Mining",
-    "source_url": "https://im-mining.com/2026/09/29/caterpillar-grows-quarrying-ahs-further-with-richards-spur-deployment/",
-    "source_feed": "https://im-mining.com/feed/",
-    "published_at": "2026-09-29T11:03:38.000Z",
-    "discovered_at": "2026-09-29T19:55:13.767Z",
-    "sector": "madencilik",
-    "technologies": [
-      "otonomi-ai"
-    ],
-    "relevance_score": 158,
-    "editorial_fit_score": 77,
-    "summary_source": "Caterpillar has been increasing the pace of deployment of its Command for hauling autonomous haulage technology in the quarrying and small mining sector. First was its May 2026 announcement about its AHS being deployed at Carmeuse’s Drummond Island quarry in Michigan on a 777 fleet, supported by Fabick Cat. Then in September 2026 it announced The post Caterpillar grows quarrying AHS further with Richards Spur deployment appeared first on International Mining.",
-    "editorial": {
-      "title_tr": "Caterpillar, Richards Spur sahasında otonom taşımacılık uygulamasını duyurdu",
-      "dek_tr": "Caterpillar’ın Command for hauling otonom taşıma teknolojisi, Richards Spur taş ocağına yönelik yeni bir duyuruyla gündeme geldi. Mevcut kaynak özeti, sahadaki filo ve uygulama ayrıntılarını vermiyor.",
-      "summary_tr": "International Mining’in başlığı, Caterpillar’ın Richards Spur sahasında otonom taşıma teknolojisi kullanımını duyurduğunu belirtiyor. Kaynağın kısa özetine göre şirket, Command for hauling sistemini taş ocakları ve küçük ölçekli madencilikte daha fazla sahaya taşıyor.\n\nÖzette ayrıca Mayıs 2026’da Carmeuse’un Michigan’daki Drummond Island ocağında, Fabick Cat desteğiyle 777 kamyon filosunda bir uygulama duyurulduğu aktarılıyor. Richards Spur’daki araç sayısı, devreye alma takvimi ve sistemin kapsamı verilen metinde yer almıyor.",
-      "why_it_matters_tr": "Otonom taşımanın taş ocakları ve daha küçük madencilik operasyonlarına yayılması, bu sahalarda filo koordinasyonu ve çalışma düzeninin nasıl kurulacağı açısından önem taşıyabilir. Richards Spur uygulamasının ölçeği ve operasyonel sonuçları mevcut bilgilerle değerlendirilemiyor.",
-      "seo_title": "Caterpillar otonom taşıma sistemini Richards Spur’a taşıyor",
-      "meta_description": "Caterpillar’ın Command for hauling sistemi Richards Spur duyurusuyla gündemde. Kaynak özeti uygulamanın filo ve devreye alma ayrıntılarını içermiyor.",
-      "hero_image": "",
-      "reviewed": true,
-      "key_facts": [
-        "International Mining başlığı, Richards Spur sahasında Caterpillar otonom taşıma teknolojisi uygulamasının duyurulduğunu belirtiyor.",
-        "Kaynak özeti, Caterpillar Command for hauling teknolojisinin taş ocakları ve küçük ölçekli madencilikte kullanıldığını aktarıyor.",
-        "Mayıs 2026’da Carmeuse’un Drummond Island ocağında 777 filosu için bir uygulama duyurulmuş; Fabick Cat destek sağlamış."
-      ],
-      "suggested_tags": [
-        "Caterpillar",
-        "Command for hauling",
-        "otonom taşıma",
-        "taş ocağı",
-        "madencilik"
-      ],
-      "suggested_sector": "madencilik",
-      "editorial_format": "haber",
-      "suggested_technologies": [
-        "otonomi-ai"
-      ],
-      "source_facts_used": [
-        "Kaynak başlığı Richards Spur sahasında bir Caterpillar otonom taşıma uygulamasının duyurulduğunu belirtiyor.",
-        "Kısa özet, Command for hauling teknolojisinin taş ocakları ve küçük ölçekli madencilikte yaygınlaştırıldığını ifade ediyor.",
-        "Kısa özette Drummond Island ocağındaki 777 filo uygulamasına ve Fabick Cat desteğine yer veriliyor."
-      ],
-      "uncertainty_notes": [
-        "Kaynağın tam metnine HTTP 403 nedeniyle erişilemedi; Richards Spur sahasındaki uygulamanın kapsamı, filosu ve takvimi doğrulanamıyor.",
-        "Operasyonel performans veya verimlilik sonuçları hakkında kaynakta bilgi yok."
-      ],
-      "generated_at": "2026-09-29T19:56:16.648Z",
-      "generated_by": "github-models",
-      "reviewed_at": "2026-09-30T18:39:49.728Z",
-      "review_result": "published"
-    }
-  },
-  {
     "id": "65c26df92d487318",
     "status": "drafted",
     "title_original": "VIDEO: Wacker Neuson introduces new excavators",
@@ -537,64 +480,6 @@
       ],
       "generated_at": "2026-10-01T20:18:05.206Z",
       "generated_by": "github-models"
-    }
-  },
-  {
-    "id": "f8a7bc3f30a35670",
-    "status": "published",
-    "title_original": "Eldorado Gold announces completion of Skouries mine energisation",
-    "source_name": "International Mining",
-    "source_url": "https://im-mining.com/2026/09/29/eldorado-gold-announces-completion-of-skouries-mine-energisation/",
-    "source_feed": "https://im-mining.com/feed/",
-    "published_at": "2026-09-29T11:59:20.000Z",
-    "discovered_at": "2026-09-29T19:55:13.765Z",
-    "sector": "madencilik",
-    "technologies": [
-      "yuruyus-guc-aktarma"
-    ],
-    "relevance_score": 148,
-    "editorial_fit_score": 67,
-    "summary_source": "Eldorado Gold Corporation has announced that the Skouries mine in northern Greece has been successfully energised following completion of the permanent connection to the Greek national power grid following final inspection, testing and approval by the Greek transmission authority. “Site energisation is an important step in advancing Skouries toward ramp up to steady-state operations and The post Eldorado Gold announces completion of Skouries mine energisation appeared first on International Mining.",
-    "editorial": {
-      "title_tr": "Skouries maden sahası Yunanistan elektrik şebekesine bağlandı",
-      "dek_tr": "Eldorado Gold, kuzey Yunanistan’daki Skouries maden sahasının kalıcı ulusal şebeke bağlantısının tamamlandığını duyurdu. Bağlantı, son inceleme ve testlerin ardından Yunan iletim otoritesinin onayını aldı.",
-      "summary_tr": "Eldorado Gold’un duyurusuna göre Skouries maden sahası, kalıcı bağlantı üzerinden Yunanistan ulusal elektrik şebekesine enerjilendirildi. Şirket, bağlantı öncesinde son inceleme ve testlerin tamamlandığını; Yunan iletim otoritesinden onay alındığını bildirdi.\n\nŞirket açıklamasında saha enerjilendirmesi, madenin istikrarlı işletmeye geçiş sürecinde bir adım olarak nitelendiriliyor. Kaynak özeti, enerji kapasitesi, devreye alınan ekipmanlar veya sonraki operasyonel aşamalar hakkında ayrıntı vermiyor.",
-      "why_it_matters_tr": "Kalıcı şebeke bağlantısı, maden sahasındaki elektrikli altyapının devreye alınması ve işletme hazırlıkları açısından önemli bir kilometre taşı olabilir. Bununla birlikte, bağlantının enerji kapasitesi ya da sahadaki makine ve süreçlere etkisi verilen bilgilerle belirlenemiyor.",
-      "seo_title": "Skouries maden sahası ulusal şebekeye bağlandı",
-      "meta_description": "Eldorado Gold, kuzey Yunanistan’daki Skouries madeninin kalıcı şebeke bağlantısının tamamlandığını ve iletim otoritesinden onay aldığını duyurdu.",
-      "hero_image": "",
-      "reviewed": true,
-      "key_facts": [
-        "Skouries maden sahası kuzey Yunanistan’da bulunuyor.",
-        "Saha, Yunanistan ulusal elektrik şebekesine kalıcı olarak bağlandı.",
-        "Son inceleme ve testlerin ardından Yunan iletim otoritesinden onay alındı."
-      ],
-      "suggested_tags": [
-        "Skouries",
-        "Eldorado Gold",
-        "madencilik",
-        "şebeke bağlantısı",
-        "elektrifikasyon"
-      ],
-      "suggested_sector": "madencilik",
-      "editorial_format": "haber",
-      "suggested_technologies": [
-        "elektrifikasyon"
-      ],
-      "source_facts_used": [
-        "Eldorado Gold, Skouries sahasının kalıcı Yunan ulusal şebeke bağlantısının tamamlandığını duyurdu.",
-        "Bağlantı son inceleme ve testlerden geçti ve Yunan iletim otoritesince onaylandı.",
-        "Şirket, enerjilendirmeyi istikrarlı işletmeye geçiş yönünde bir adım olarak tanımladı."
-      ],
-      "uncertainty_notes": [
-        "Kaynağın tam metnine HTTP 403 nedeniyle erişilemedi; bilgiler kısa özetle sınırlı.",
-        "Enerji kapasitesi, saha ekipmanları ve sonraki devreye alma aşamalarına ilişkin ayrıntı mevcut değil.",
-        "Operasyonel etkiler şirketin açıklamasından bağımsız olarak doğrulanmış değil."
-      ],
-      "generated_at": "2026-09-29T19:56:16.648Z",
-      "generated_by": "github-models",
-      "reviewed_at": "2026-09-30T19:32:01.708Z",
-      "review_result": "published"
     }
   },
   {
