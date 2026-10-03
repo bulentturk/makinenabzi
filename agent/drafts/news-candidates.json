@@ -652,62 +652,6 @@
     }
   },
   {
-    "id": "d0caec43aa511bf9",
-    "status": "published",
-    "title_original": "Summit Completes Rollout of Next-Generation Hydraulic Crane Lineup",
-    "source_name": "Construction Equipment Guide",
-    "source_url": "https://www.constructionequipmentguide.com/summit-completes-rollout-of-nextgeneration-hydraulic-crane-lineup/72372",
-    "source_feed": "https://feeds.feedburner.com/ceg",
-    "published_at": "2026-09-29T05:00:00.000Z",
-    "discovered_at": "2026-09-29T19:55:13.079Z",
-    "sector": "is-makinalari",
-    "technologies": [
-      "hidrolik",
-      "fonksiyonel-guvenlik"
-    ],
-    "relevance_score": 146,
-    "editorial_fit_score": 79,
-    "summary_source": "Five new models complete the lineup designed exclusively for integration with Summit’s Advanced Safety Electronics (ASE) Phase 5 control system....",
-    "editorial": {
-      "title_tr": "Summit, hidrolik vinç serisinin yeni nesil model gamını tamamladı",
-      "dek_tr": "Summit, beş yeni modelle hidrolik vinç serisini tamamladığını duyurdu. Modeller, şirketin ASE Phase 5 kontrol sistemiyle entegre çalışacak şekilde tasarlandı.",
-      "summary_tr": "Construction Equipment Guide’ın aktardığı kısa bilgiye göre beş yeni model, Summit’in yeni nesil hidrolik vinç serisini tamamlıyor.\n\nModellerin, Summit Advanced Safety Electronics (ASE) Phase 5 kontrol sistemiyle entegrasyon için tasarlandığı belirtiliyor. Model adları, teknik özellikler ve sahadaki uygulamalar hakkında kaynakta ayrıntı bulunmuyor.",
-      "why_it_matters_tr": "Hidrolik vinçlerde kontrol sistemiyle entegrasyon, mobil makine işlevlerinin ve güvenlik kontrollerinin birlikte değerlendirilmesini gerektirir. Ancak bu duyurunun teknik yenilikleri veya operatör güvenliğine etkisi mevcut kaynak bilgisinden çıkarılamıyor.",
-      "seo_title": "Summit, ASE Phase 5 uyumlu vinç serisini tamamladı",
-      "meta_description": "Summit, beş yeni modelle hidrolik vinç serisini tamamladı. Modeller ASE Phase 5 kontrol sistemiyle entegrasyon için tasarlandı.",
-      "hero_image": "",
-      "reviewed": true,
-      "key_facts": [
-        "Beş yeni model, Summit’in hidrolik vinç serisini tamamlıyor.",
-        "Modeller, Summit ASE Phase 5 kontrol sistemiyle entegrasyon için tasarlandı."
-      ],
-      "suggested_tags": [
-        "Summit",
-        "hidrolik vinç",
-        "kontrol sistemi",
-        "iş makineleri"
-      ],
-      "suggested_sector": "is-makinalari",
-      "editorial_format": "haber",
-      "suggested_technologies": [
-        "hidrolik",
-        "fonksiyonel-guvenlik"
-      ],
-      "source_facts_used": [
-        "Kaynakta beş yeni modelin vinç serisini tamamladığı belirtiliyor.",
-        "Modellerin Summit ASE Phase 5 kontrol sistemiyle entegrasyon için tasarlandığı aktarılıyor."
-      ],
-      "uncertainty_notes": [
-        "Kaynağın tam metnine HTTP 403 nedeniyle erişilemedi; ayrıntılar kısa özetle sınırlı.",
-        "Model adları, teknik özellikler ve güvenlik performansına ilişkin bağımsız doğrulama mevcut değil."
-      ],
-      "generated_at": "2026-09-29T19:56:16.648Z",
-      "generated_by": "github-models",
-      "reviewed_at": "2026-09-30T18:31:11.469Z",
-      "review_result": "published"
-    }
-  },
-  {
     "id": "7812ddecfeac8062",
     "status": "drafted",
     "title_original": " Loftness Introduces Stone Crusher Attachment",
