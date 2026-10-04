@@ -171,63 +171,6 @@
     }
   },
   {
-    "id": "6ab127c6aaf68d77",
-    "status": "published",
-    "title_original": "Hyundai Material Handling completes B-X electric forklift range",
-    "source_name": "iVT International",
-    "source_url": "https://www.ivtinternational.com/news/materials-handling/hyundai-material-handling-completes-b-x-electric-forklift-range.html",
-    "source_feed": "https://www.ivtinternational.com/feed",
-    "published_at": "2026-09-30T08:47:07.000Z",
-    "discovered_at": "2026-09-30T10:49:46.468Z",
-    "sector": "is-makinalari",
-    "technologies": [
-      "elektrifikasyon"
-    ],
-    "relevance_score": 158,
-    "editorial_fit_score": 67,
-    "summary_source": "Hyundai Material Handling has completed its B-X high-voltage electric forklift range with the introduction of 10-13 tonne and 16-18 tonne models, giving the manufacturer an electric counterbalance line-up spanning 4-18 [...] The post Hyundai Material Handling completes B-X electric forklift range appeared first on Industrial Vehicle Technology International.",
-    "editorial": {
-      "title_tr": "Hyundai B-X elektrikli forklift serisini 18 tona kadar genişletti",
-      "dek_tr": "Hyundai Material Handling, yüksek gerilimli B-X elektrikli forklift serisine 10–13 ton ve 16–18 ton sınıflarındaki modelleri ekledi. Serinin kapasite aralığı 4–18 ton olarak belirtiliyor.",
-      "summary_tr": "Hyundai Material Handling, B-X yüksek gerilimli elektrikli karşı ağırlıklı forklift serisini 10–13 ton ve 16–18 ton sınıflarındaki modellerle tamamladığını duyurdu. Kaynak, serinin 4–18 ton arasında kapasite sunduğunu bildiriyor.\n\nHaberde yeni modellerin limanlar, gemi inşası ve metal elleçleme gibi uygulamalara elektrikli güç seçeneği sunduğu aktarılıyor. Batarya, şarj süresi veya performans verileri paylaşılmadığından bu alanlarda karşılaştırma yapmak mümkün değil.",
-      "why_it_matters_tr": "Elektrikli forkliftlerin daha yüksek kapasite sınıflarına uzanması, liman ve ağır malzeme elleçleme operasyonlarında elektrikli ekipman kullanımını değerlendiren işletmeler için önem taşıyor. Ancak uygunluğu belirlemek için operasyonel performans ve şarj altyapısı verileri de gerekli.",
-      "seo_title": "Hyundai B-X elektrikli forklift serisi 18 tona ulaştı",
-      "meta_description": "Hyundai Material Handling, B-X elektrikli forklift serisini 10–13 ve 16–18 ton sınıflarıyla genişletti. Seri 4–18 ton kapasite aralığı sunuyor.",
-      "hero_image": "",
-      "reviewed": true,
-      "key_facts": [
-        "Hyundai Material Handling, B-X yüksek gerilimli elektrikli forklift serisine 10–13 ton ve 16–18 ton sınıflarında modeller ekledi.",
-        "Kaynakta serinin kapasite aralığı 4–18 ton olarak veriliyor.",
-        "Liman, gemi inşası ve metal elleçleme uygulamaları belirtiliyor."
-      ],
-      "suggested_tags": [
-        "Hyundai Material Handling",
-        "B-X",
-        "elektrikli forklift",
-        "liman ekipmanları",
-        "malzeme elleçleme"
-      ],
-      "suggested_sector": "liman",
-      "editorial_format": "haber",
-      "suggested_technologies": [
-        "elektrifikasyon"
-      ],
-      "source_facts_used": [
-        "B-X serisinin yüksek gerilimli elektrikli karşı ağırlıklı forkliftlerden oluşması",
-        "10–13 ton ve 16–18 ton sınıfındaki modellerin eklenmesi ve serinin 4–18 ton kapasite aralığı",
-        "Liman, gemi inşası ve metal elleçlemenin uygulama alanları olarak belirtilmesi"
-      ],
-      "uncertainty_notes": [
-        "Kaynakta batarya kapasitesi, şarj süresi, çalışma süresi veya performans verileri yer almıyor.",
-        "Uygulama ve ürün bilgileri haber kaynağının aktarımına dayanıyor; bağımsız doğrulama sunulmuyor."
-      ],
-      "generated_at": "2026-09-30T10:50:42.237Z",
-      "generated_by": "github-models",
-      "reviewed_at": "2026-09-30T19:03:13.614Z",
-      "review_result": "published"
-    }
-  },
-  {
     "id": "65c26df92d487318",
     "status": "drafted",
     "title_original": "VIDEO: Wacker Neuson introduces new excavators",
