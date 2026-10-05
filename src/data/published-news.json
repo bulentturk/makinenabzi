@@ -1,5 +1,38 @@
 [
   {
+    "id": "55402abab7a508bd",
+    "slug": "eacon-ve-tonly-kabinsiz-otonom-maden-kamyonu-eq100e-yi-gelistiriyor",
+    "title": "EACON ve Tonly, kabinsiz otonom maden kamyonu EQ100E’yi geliştiriyor",
+    "dek": "EQ100E, otonom kullanım için baştan tasarlanan kabinsiz ve bataryalı elektrikli bir maden kamyonu olarak tanıtılıyor. Tonly araç mühendisliği ve üretimini, EACON ise otonom çözüm ile drive-by-wire tasarımını sağlıyor.",
+    "summary": "EACON ve Tonly, EQ100E adlı kabinsiz otonom maden kamyonu üzerinde çalışıyor. Kaynakta araç, bataryalı elektrikli ve otonom işletim için başlangıçtan itibaren tasarlanmış bir platform olarak tanımlanıyor.\n\nİş birliğinde Tonly’nin araç mühendisliği ve üretim kabiliyetleri, EACON’un otonom çözümü ve drive-by-wire tasarımıyla bir araya geliyor. Kaynak, aracın teknik özellikleri veya saha performansı hakkında ayrıntı vermiyor.",
+    "why_it_matters": "Kabinsiz ve otonom işletim için tasarlanmış bir elektrikli kamyon, maden sahalarında araç tasarımı ile otonom kontrolün birlikte ele alınmasına yönelik bir örnek sunuyor. Ancak saha kullanımına ve performansa ilişkin veriler mevcut kaynakta doğrulanmıyor.",
+    "key_facts": [
+      "EQ100E, kaynakta kabinsiz ve bataryalı elektrikli otonom maden kamyonu olarak tanımlanıyor.",
+      "Araç otonom işletim için baştan tasarlanıyor.",
+      "Tonly araç mühendisliği ve üretim kabiliyetlerini sağlıyor.",
+      "EACON otonom çözüm ve drive-by-wire tasarımıyla projede yer alıyor."
+    ],
+    "format": "haber",
+    "sector": "madencilik",
+    "technologies": [
+      "elektrifikasyon",
+      "otonomi-ai",
+      "elektronik-telematik"
+    ],
+    "tags": [
+      "EACON",
+      "Tonly",
+      "EQ100E",
+      "otonom maden kamyonu",
+      "bataryalı elektrikli araç"
+    ],
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/10/05/eacon-tonly-advance-purpose-built-cabless-auto-haulage-with-eq100e/",
+    "source_published_at": "2026-10-05T08:36:37.000Z",
+    "site_published_at": "2026-10-05T19:54:46.574Z",
+    "hero_image": ""
+  },
+  {
     "id": "c43f0cc3138cd9cd",
     "slug": "liebherr-hammerstone-quarry-ye-ucuncu-r-9150-ekskavatoru-teslim-etti",
     "title": "Liebherr, Hammerstone Quarry'ye üçüncü R 9150 ekskavatörü teslim etti",
