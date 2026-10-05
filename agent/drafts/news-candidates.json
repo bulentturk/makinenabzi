@@ -1,7 +1,7 @@
 [
   {
     "id": "55402abab7a508bd",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "EACON & Tonly advance purpose-built, cabless auto haulage with EQ100E",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/10/05/eacon-tonly-advance-purpose-built-cabless-auto-haulage-with-eq100e/",
@@ -18,14 +18,46 @@
     "editorial_fit_score": 101,
     "summary_source": "What happens when a mining truck is designed for autonomous operation from the outset, rather than adapted for it later? EACON and Tonly are putting that approach to the test with the EQ100E, a cabless, battery-electric autonomous mining truck that combines Tonly’s vehicle engineering and manufacturing capabilities with EACON’s autonomous solution and drive-by-wire design. Following The post EACON & Tonly advance purpose-built, cabless auto haulage with EQ100E appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "EACON ve Tonly, kabinsiz otonom maden kamyonu EQ100E’yi geliştiriyor",
+      "dek_tr": "EQ100E, otonom kullanım için baştan tasarlanan kabinsiz ve bataryalı elektrikli bir maden kamyonu olarak tanıtılıyor. Tonly araç mühendisliği ve üretimini, EACON ise otonom çözüm ile drive-by-wire tasarımını sağlıyor.",
+      "summary_tr": "EACON ve Tonly, EQ100E adlı kabinsiz otonom maden kamyonu üzerinde çalışıyor. Kaynakta araç, bataryalı elektrikli ve otonom işletim için başlangıçtan itibaren tasarlanmış bir platform olarak tanımlanıyor.\n\nİş birliğinde Tonly’nin araç mühendisliği ve üretim kabiliyetleri, EACON’un otonom çözümü ve drive-by-wire tasarımıyla bir araya geliyor. Kaynak, aracın teknik özellikleri veya saha performansı hakkında ayrıntı vermiyor.",
+      "why_it_matters_tr": "Kabinsiz ve otonom işletim için tasarlanmış bir elektrikli kamyon, maden sahalarında araç tasarımı ile otonom kontrolün birlikte ele alınmasına yönelik bir örnek sunuyor. Ancak saha kullanımına ve performansa ilişkin veriler mevcut kaynakta doğrulanmıyor.",
+      "seo_title": "EACON ve Tonly’den kabinsiz otonom maden kamyonu",
+      "meta_description": "EACON ve Tonly’nin EQ100E modeli, otonom işletim için baştan tasarlanan kabinsiz, bataryalı elektrikli bir maden kamyonu olarak tanıtıldı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "EQ100E, kaynakta kabinsiz ve bataryalı elektrikli otonom maden kamyonu olarak tanımlanıyor.",
+        "Araç otonom işletim için baştan tasarlanıyor.",
+        "Tonly araç mühendisliği ve üretim kabiliyetlerini sağlıyor.",
+        "EACON otonom çözüm ve drive-by-wire tasarımıyla projede yer alıyor."
+      ],
+      "suggested_tags": [
+        "EACON",
+        "Tonly",
+        "EQ100E",
+        "otonom maden kamyonu",
+        "bataryalı elektrikli araç"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon",
+        "otonomi-ai",
+        "elektronik-telematik"
+      ],
+      "source_facts_used": [
+        "EQ100E’nin kabinsiz, bataryalı elektrikli ve otonom bir maden kamyonu olarak tanımlanması.",
+        "Aracın otonom kullanım için baştan tasarlandığı bilgisi.",
+        "Tonly’nin araç mühendisliği ve üretim, EACON’un otonom çözüm ve drive-by-wire tasarımıyla katkı sunduğu bilgisi."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası HTTP 403 hatası nedeniyle erişilemedi; taslak yalnızca sağlanan kısa kaynak metnine dayanıyor.",
+        "Teknik özellikler, geliştirme aşaması, saha denemeleri ve performans verileri kaynakta yer almıyor.",
+        "Ürün tanımı ve iş bölümü bağımsız doğrulama içermeyen kaynak aktarımıdır."
+      ],
+      "generated_at": "2026-10-05T11:57:59.582Z",
+      "generated_by": "github-models"
     }
   },
   {
