@@ -1,5 +1,36 @@
 [
   {
+    "id": "72fcad5ed8e3be2f",
+    "slug": "breton-elektrikli-maden-kamyonlarinda-yurt-disi-pazarlara-acilmayi-hedefliyor",
+    "title": "Breton, elektrikli maden kamyonlarında yurt dışı pazarlara açılmayı hedefliyor",
+    "dek": "International Mining’in haber başlığı, Çinli Breton’un bataryalı elektrikli maden kamyonu tedarikçisi olarak yurt dışı pazarlarda büyümeyi hedeflediğini aktarıyor. Kaynak özeti, Çinli tedarikçilerin elektrikli ve otonom maden kamyonları için özellikle Latin Amerika, Afrika, Güneydoğu Asya ve Avustralya’ya yöneldiğini belirtiyor.",
+    "summary": "International Mining’in erişilebilen özetine göre Çinli elektrikli ve otonom maden kamyonu tedarikçileri, yurt dışı pazarlara açılmaya çalışıyor. Breton, haber başlığında bu tedarikçilerden biri olarak anılıyor.\n\nÖzette Latin Amerika, Afrika, Güneydoğu Asya ve Avustralya öne çıkan pazarlar olarak sıralanıyor. Bazı tedarikçilerin kamyonlarla birlikte mikroşebeke çözümleri de sunduğu belirtiliyor; ancak Breton’a özgü ürün ve pazar ayrıntıları verilmemiş.",
+    "why_it_matters": "Bataryalı maden kamyonlarının yeni pazarlara sunulması, maden sahalarında araçların yanı sıra enerji altyapısının da planlanmasını gerektirebilir. Kaynak, Breton’un bu pazarlardaki somut uygulamalarını veya teknik özelliklerini doğrulamaya yetecek ayrıntı içermiyor.",
+    "key_facts": [
+      "Haber başlığı Breton’u Çinli bataryalı elektrikli maden kamyonu tedarikçisi olarak tanımlıyor.",
+      "Kaynak özeti, Çinli elektrikli ve otonom maden kamyonu tedarikçilerinin yurt dışı pazarlara açılma eğiliminden söz ediyor.",
+      "Özette Latin Amerika, Afrika, Güneydoğu Asya ve Avustralya hedef pazarlar arasında sayılıyor.",
+      "Özete göre bazı tedarikçiler mikroşebeke çözümleri de sunuyor."
+    ],
+    "format": "haber",
+    "sector": "madencilik",
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "tags": [
+      "Breton",
+      "elektrikli maden kamyonu",
+      "bataryalı elektrikli araç",
+      "maden makineleri",
+      "mikroşebeke"
+    ],
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/09/30/chinas-bev-mining-truck-supplier-breton-looks-to-grow-in-overseas-markets/",
+    "source_published_at": "2026-09-30T15:25:46.000Z",
+    "site_published_at": "2026-10-05T20:46:45.671Z",
+    "hero_image": ""
+  },
+  {
     "id": "55402abab7a508bd",
     "slug": "eacon-ve-tonly-kabinsiz-otonom-maden-kamyonu-eq100e-yi-gelistiriyor",
     "title": "EACON ve Tonly, kabinsiz otonom maden kamyonu EQ100E’yi geliştiriyor",
