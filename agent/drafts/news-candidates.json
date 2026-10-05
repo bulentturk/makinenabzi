@@ -1,5 +1,34 @@
 [
   {
+    "id": "55402abab7a508bd",
+    "status": "candidate",
+    "title_original": "EACON & Tonly advance purpose-built, cabless auto haulage with EQ100E",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/10/05/eacon-tonly-advance-purpose-built-cabless-auto-haulage-with-eq100e/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-10-05T08:36:37.000Z",
+    "discovered_at": "2026-10-05T11:57:10.314Z",
+    "sector": "madencilik",
+    "technologies": [
+      "elektrifikasyon",
+      "otonomi-ai",
+      "elektronik-telematik"
+    ],
+    "relevance_score": 174,
+    "editorial_fit_score": 101,
+    "summary_source": "What happens when a mining truck is designed for autonomous operation from the outset, rather than adapted for it later? EACON and Tonly are putting that approach to the test with the EQ100E, a cabless, battery-electric autonomous mining truck that combines Tonly’s vehicle engineering and manufacturing capabilities with EACON’s autonomous solution and drive-by-wire design. Following The post EACON & Tonly advance purpose-built, cabless auto haulage with EQ100E appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "72fcad5ed8e3be2f",
     "status": "drafted",
     "title_original": "China’s BEV mining truck supplier Breton looks to grow in overseas markets",
