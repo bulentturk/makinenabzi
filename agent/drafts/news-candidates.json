@@ -337,7 +337,7 @@
   },
   {
     "id": "c43f0cc3138cd9cd",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Liebherr-Canada delivers new R 9150 excavator to Hammerstone Quarry",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/09/30/liebherr-canada-delivers-new-r-9150-excavator-to-hammerstone-quarry/",
@@ -357,7 +357,7 @@
       "seo_title": "Hammerstone Quarry'de üç Liebherr R 9150 çalışıyor",
       "meta_description": "Hammerstone Infrastructure Materials, Muskeg Quarry'de çalışmak üzere yeni bir Liebherr R 9150 teslim aldı. Ocaktaki 150 ton sınıfı R 9150 sayısı üçe çıktı.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Hammerstone, haziran ayında bir Liebherr R 9150 teslim aldı.",
         "Teslimatla Muskeg Quarry'deki R 9150 sayısı üçe çıktı.",
@@ -383,7 +383,9 @@
         "Kaynakta makinenin teknik konfigürasyonu, üretim performansı veya teslimatın operasyonel etkisi hakkında ayrıntı bulunmuyor."
       ],
       "generated_at": "2026-09-30T10:50:42.237Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-05T19:49:39.006Z",
+      "review_result": "published"
     }
   },
   {
