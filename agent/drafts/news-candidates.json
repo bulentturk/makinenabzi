@@ -491,7 +491,7 @@
   },
   {
     "id": "8efdd3e5e51db0c6",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Five-year journey positions Portsmouth at heart of clean ports",
     "source_name": "Port Strategy",
     "source_url": "https://www.portstrategy.com/news/greenport-congress/five-year-journey-positions-portsmouth-at-heart-of-clean-ports/",
@@ -506,19 +506,46 @@
     "editorial_fit_score": 67,
     "summary_source": "Portsmouth’s shore power journey offers practical lessons for ports scaling clean technologies across the UK",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Portsmouth, kıyı elektriği deneyimini temiz limanlar için yayımladı",
+      "dek_tr": "Portsmouth International Port, beş yıllık kıyı elektriği çalışmalarını ve ölçek büyütmenin önündeki konuları ele alan bir teknik doküman yayımladı. Liman, Birleşik Krallık’ın ilk yüksek gerilimli, çok rıhtımlı ve çok kullanıcılı kıyı elektriği sistemine ev sahipliği yapıyor.",
+      "summary_tr": "Portsmouth International Port’un 20 sayfalık “Plugging in – Portsmouth’s shore power journey and the future of clean ports” başlıklı dokümanı, limanın beş yıllık kıyı elektriği deneyimini ve temiz liman uygulamalarının yaygınlaştırılmasına ilişkin fırsat ve zorlukları ele alıyor. Doküman British Ports Association ile ortak hazırlanmış.\n\nSea Change projesine katkı veren kuruluşların deneyimlerinin, 7-9 Ekim 2026’da düzenlenecek GreenPort Congress’te paylaşılması planlanıyor. Kaynak, sistemin Birleşik Krallık’taki ilk yüksek gerilimli, çok rıhtımlı ve çok kullanıcılı kıyı elektriği altyapısı olduğunu belirtiyor.",
+      "why_it_matters_tr": "Kıyı elektriği, limanda bağlı gemilerin enerji ihtiyacının karadaki altyapı üzerinden karşılanmasını sağlayabilir. Portsmouth deneyimi, benzer sistemleri değerlendiren limanlar için altyapı ölçekleme ve çok kullanıcılı işletme konularına dair pratik bir referans sunabilir.",
+      "seo_title": "Portsmouth’un kıyı elektriği deneyimi ve temiz limanlar",
+      "meta_description": "Portsmouth International Port, beş yıllık kıyı elektriği deneyimini ve temiz liman teknolojilerinin yaygınlaştırılmasına ilişkin konuları raporladı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Portsmouth International Port, kıyı elektriği deneyimini anlatan 20 sayfalık bir doküman yayımladı.",
+        "Kaynağa göre limanda Birleşik Krallık’ın ilk yüksek gerilimli, çok rıhtımlı ve çok kullanıcılı kıyı elektriği sistemi bulunuyor.",
+        "GreenPort Congress 7-9 Ekim 2026 tarihlerinde düzenlenecek."
+      ],
+      "suggested_tags": [
+        "kıyı elektriği",
+        "liman elektrifikasyonu",
+        "temiz liman",
+        "Portsmouth"
+      ],
+      "suggested_sector": "liman",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "Portsmouth’un kıyı elektriği sistemi yüksek gerilimli, çok rıhtımlı ve çok kullanıcılı olarak tanımlanıyor.",
+        "Liman, beş yıllık deneyimini ele alan 20 sayfalık bir doküman yayımladı.",
+        "Sea Change proje ekibinin GreenPort Congress’te deneyimlerini paylaşması planlanıyor."
+      ],
+      "uncertainty_notes": [
+        "Sistemin performansı, kullanım oranı ve emisyon etkisine ilişkin bağımsız ölçüm verisi kaynakta yer almıyor.",
+        "Birleşik Krallık’taki ilk olma iddiası kaynak metne dayanmaktadır; ayrıca doğrulanmış değildir."
+      ],
+      "generated_at": "2026-10-05T21:57:41.260Z",
+      "generated_by": "github-models"
     }
   },
   {
     "id": "7c8e9b257c312ef4",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Liebherr crane selected for Casablanca Port",
     "source_name": "Port Strategy",
     "source_url": "https://www.portstrategy.com/news/container-cargo-handling/liebherr-crane-selected-for-casablanca-port/",
@@ -531,14 +558,41 @@
     "editorial_fit_score": 65,
     "summary_source": "Marsa Maroc has chosen an LPS 550 for Casablanca, bringing Africa’s first Liebherr portal slewing crane into service",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Liebherr LPS 550, Kazablanka Limanı için seçildi",
+      "dek_tr": "Marsa Maroc, Kazablanka Limanı’ndaki dökme yük operasyonları için ray üzerinde çalışan Liebherr LPS 550 portal döner vinci seçti. Kaynak, bunun Afrika’daki ilk Liebherr portal döner vinci olacağını belirtiyor.",
+      "summary_tr": "LPS 550, Marsa Maroc’un Kazablanka Limanı’ndaki dökme yük elleçleme kapasitesini genişletmek üzere seçildi. Vinç ray üzerinde çalışıyor; portal tasarımı, rıhtım alanını korumayı hedefleyen bir yerleşim sunuyor.\n\nKazablanka’da konteyner, çelik ürünleri, tahıl, hayvan yemi, mineral ve araç gibi farklı yükler elleçleniyor. Marsa Maroc, 2024’te üç Liebherr LHM 550 mobil liman vincini de teslim almıştı. Kaynakta LPS 550’nin teslim veya hizmete giriş takvimi belirtilmiyor.",
+      "why_it_matters_tr": "Ray üzerinde çalışan portal vinçler, rıhtım alanının kullanımını ve dökme yük elleçleme düzenini etkileyebilir. LPS 550 seçimi, farklı yük türlerine hizmet veren limanlarda mobil vinçlere ek olarak sabit, raylı ekipman çözümlerinin de değerlendirildiğini gösteriyor.",
+      "seo_title": "Liebherr LPS 550, Kazablanka Limanı’na seçildi",
+      "meta_description": "Marsa Maroc, Kazablanka Limanı’ndaki dökme yük operasyonları için raylı Liebherr LPS 550 portal döner vincini tercih etti.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Marsa Maroc, Kazablanka Limanı’nın dökme yük operasyonları için Liebherr LPS 550’yi seçti.",
+        "LPS 550 ray üzerinde çalışan bir portal döner vinçtir.",
+        "Kaynak, bunun Afrika’daki ilk Liebherr portal döner vinci olacağını bildiriyor.",
+        "Marsa Maroc 2024’te üç Liebherr LHM 550 mobil liman vinci teslim almıştı."
+      ],
+      "suggested_tags": [
+        "Liebherr LPS 550",
+        "liman vinci",
+        "dökme yük",
+        "Kazablanka Limanı",
+        "Marsa Maroc"
+      ],
+      "suggested_sector": "liman",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Marsa Maroc’un Kazablanka’daki dökme yük operasyonları için LPS 550’yi seçtiği bildiriliyor.",
+        "Vinç raylı ve portal döner vinç olarak tanımlanıyor.",
+        "Kaynak, Marsa Maroc’un 2024’te üç LHM 550 mobil liman vinci aldığını belirtiyor."
+      ],
+      "uncertainty_notes": [
+        "Teslimat ve devreye alma tarihleri ile vincin kapasite ve erişim değerleri kaynakta verilmemiş.",
+        "Afrika’daki ilk olma iddiası kaynak metne dayanmaktadır; ayrıca doğrulanmış değildir."
+      ],
+      "generated_at": "2026-10-05T21:57:41.260Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -781,7 +835,7 @@
   },
   {
     "id": "5971013e4cb9f608",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Prillaman's Crane Expands Fleet with Liebherr Mobile Crane",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/prillamans-crane-expands-fleet-with-liebherr-mobile-crane/72415",
@@ -794,14 +848,37 @@
     "editorial_fit_score": 65,
     "summary_source": "Prillaman Crane & Rigging, Inc. joined the Liebherr mobile and crawler cranes team to take delivery of its 11th Liebherr crane, the LTM 1250-5.1 mobile crane....",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Prillaman Crane filosuna 11. Liebherr vincini ekliyor",
+      "dek_tr": "ABD merkezli Prillaman Crane & Rigging, Liebherr LTM 1250-5.1 mobil vinci teslim alarak şirket filosundaki Liebherr vinci sayısını 11’e çıkarıyor.",
+      "summary_tr": "Prillaman Crane & Rigging, Liebherr mobil ve paletli vinç ekibiyle birlikte LTM 1250-5.1 mobil vinci teslim alıyor. Kaynak özeti, bunun şirketin 11. Liebherr vinci olduğunu bildiriyor.\n\nPaylaşılan içerik, teslimat duyurusuyla sınırlı; vincin teknik yapılandırması veya kullanım alanı hakkında ayrıntı vermiyor.",
+      "why_it_matters_tr": "Mobil vinçler, ağır bileşenlerin kaldırılması ve saha kurulumlarında kullanılan iş makineleridir. Bu teslimat, bir kaldırma ve donanım şirketinin filosundaki yenilenmeyi gösteriyor; ancak mevcut kaynakta modelin teknik farklarını değerlendirecek bilgi bulunmuyor.",
+      "seo_title": "Prillaman Crane, 11. Liebherr vincini teslim alıyor",
+      "meta_description": "Prillaman Crane & Rigging, LTM 1250-5.1 mobil vinci filosuna katarak Liebherr vinci sayısını 11’e çıkarıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Prillaman Crane & Rigging, Liebherr LTM 1250-5.1 mobil vinci teslim alıyor.",
+        "Kaynak özeti, bunun şirketin 11. Liebherr vinci olduğunu belirtiyor."
+      ],
+      "suggested_tags": [
+        "Liebherr LTM 1250-5.1",
+        "mobil vinç",
+        "vinç filosu",
+        "Prillaman Crane"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Kaynak özeti, Prillaman Crane & Rigging’in LTM 1250-5.1 mobil vinci teslim aldığını bildiriyor.",
+        "Kaynak özeti, bu vincin şirketin 11. Liebherr vinci olduğunu belirtiyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynağın tam metnine HTTP 403 nedeniyle erişilemedi; taslak yalnızca başlık ve kısa kaynak özetindeki bilgilere dayanıyor.",
+        "Teknik özellikler, teslimat tarihi ve vincin planlanan kullanım alanı doğrulanamıyor."
+      ],
+      "generated_at": "2026-10-05T21:57:41.260Z",
+      "generated_by": "github-models"
     }
   },
   {
