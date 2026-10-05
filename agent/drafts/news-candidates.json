@@ -336,59 +336,6 @@
     }
   },
   {
-    "id": "c43f0cc3138cd9cd",
-    "status": "published",
-    "title_original": "Liebherr-Canada delivers new R 9150 excavator to Hammerstone Quarry",
-    "source_name": "International Mining",
-    "source_url": "https://im-mining.com/2026/09/30/liebherr-canada-delivers-new-r-9150-excavator-to-hammerstone-quarry/",
-    "source_feed": "https://im-mining.com/feed/",
-    "published_at": "2026-09-30T08:16:51.000Z",
-    "discovered_at": "2026-09-30T10:49:46.838Z",
-    "sector": "madencilik",
-    "technologies": [],
-    "relevance_score": 150,
-    "editorial_fit_score": 65,
-    "summary_source": "In June, Hammerstone Infrastructure Materials took delivery of an R 9150 excavator. This delivery brings Hammerstone’s number of these 150-tonne-class Liebherr excavators to three, with all of these machines working at Hammerstone’s Muskeg Quarry, one of Western Canada’s biggest limestone quarries. Muskeg Quarry is an important source of high-quality limestone aggregates for the oil sands The post Liebherr-Canada delivers new R 9150 excavator to Hammerstone Quarry appeared first on International Mining.",
-    "editorial": {
-      "title_tr": "Liebherr, Hammerstone Quarry'ye üçüncü R 9150 ekskavatörü teslim etti",
-      "dek_tr": "Hammerstone Infrastructure Materials, haziranda Muskeg Quarry'de çalışmak üzere bir Liebherr R 9150 teslim aldı. Teslimatla işletmenin sahadaki 150 ton sınıfı R 9150 sayısı üçe çıktı.",
-      "summary_tr": "Hammerstone Infrastructure Materials, haziran ayında Liebherr R 9150 ekskavatörünü teslim aldı. Bu teslimatla şirketin 150 ton sınıfındaki R 9150 makinelerinin sayısı üç oldu; makinelerin tümü Kanada'nın Alberta eyaletindeki Muskeg Quarry'de çalışıyor.\n\nKaynağa göre Muskeg Quarry, Batı Kanada'nın büyük kireçtaşı ocaklarından biri ve petrol kumları için yüksek kaliteli kireçtaşı agregası sağlıyor. Makinenin konfigürasyonu, üretim kapasitesi veya teslimatla ilgili başka teknik ayrıntılar paylaşılmıyor.",
-      "why_it_matters_tr": "Ocakta aynı sınıftan üç ekskavatörün çalışması, ağır ekipmanın büyük ölçekli agrega üretimindeki somut bir saha uygulamasını gösteriyor. Üretim veya verimlilik verisi verilmediği için teslimatın operasyonel etkisi hakkında daha ileri bir değerlendirme yapılamaz.",
-      "seo_title": "Hammerstone Quarry'de üç Liebherr R 9150 çalışıyor",
-      "meta_description": "Hammerstone Infrastructure Materials, Muskeg Quarry'de çalışmak üzere yeni bir Liebherr R 9150 teslim aldı. Ocaktaki 150 ton sınıfı R 9150 sayısı üçe çıktı.",
-      "hero_image": "",
-      "reviewed": true,
-      "key_facts": [
-        "Hammerstone, haziran ayında bir Liebherr R 9150 teslim aldı.",
-        "Teslimatla Muskeg Quarry'deki R 9150 sayısı üçe çıktı.",
-        "R 9150'ler 150 ton sınıfında ve Muskeg Quarry'de çalışıyor.",
-        "Ocak, petrol kumları için kireçtaşı agregası sağlıyor."
-      ],
-      "suggested_tags": [
-        "Liebherr",
-        "R 9150",
-        "madencilik",
-        "kireçtaşı ocağı",
-        "ekskavatör"
-      ],
-      "suggested_sector": "madencilik",
-      "editorial_format": "haber",
-      "suggested_technologies": [],
-      "source_facts_used": [
-        "Hammerstone'un haziranda bir R 9150 teslim alması",
-        "Teslimat sonrası Muskeg Quarry'deki 150 ton sınıfı R 9150 sayısının üç olması",
-        "Ocağın petrol kumları için kireçtaşı agregası sağlaması"
-      ],
-      "uncertainty_notes": [
-        "Kaynakta makinenin teknik konfigürasyonu, üretim performansı veya teslimatın operasyonel etkisi hakkında ayrıntı bulunmuyor."
-      ],
-      "generated_at": "2026-09-30T10:50:42.237Z",
-      "generated_by": "github-models",
-      "reviewed_at": "2026-10-05T19:49:39.006Z",
-      "review_result": "published"
-    }
-  },
-  {
     "id": "5c918d8e9114fbdc",
     "status": "drafted",
     "title_original": "Claas launches Arion 5 CMatic four-cylinder tractor range",
@@ -540,6 +487,58 @@
       ],
       "generated_at": "2026-10-01T11:17:44.546Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "8efdd3e5e51db0c6",
+    "status": "candidate",
+    "title_original": "Five-year journey positions Portsmouth at heart of clean ports",
+    "source_name": "Port Strategy",
+    "source_url": "https://www.portstrategy.com/news/greenport-congress/five-year-journey-positions-portsmouth-at-heart-of-clean-ports/",
+    "source_feed": "https://www.portstrategy.com/feed",
+    "published_at": "2026-10-05T12:51:02.000Z",
+    "discovered_at": "2026-10-05T21:56:35.503Z",
+    "sector": "marine-yatcilik",
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "relevance_score": 138,
+    "editorial_fit_score": 67,
+    "summary_source": "Portsmouth’s shore power journey offers practical lessons for ports scaling clean technologies across the UK",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "7c8e9b257c312ef4",
+    "status": "candidate",
+    "title_original": "Liebherr crane selected for Casablanca Port",
+    "source_name": "Port Strategy",
+    "source_url": "https://www.portstrategy.com/news/container-cargo-handling/liebherr-crane-selected-for-casablanca-port/",
+    "source_feed": "https://www.portstrategy.com/feed",
+    "published_at": "2026-10-05T12:11:58.000Z",
+    "discovered_at": "2026-10-05T21:56:35.505Z",
+    "sector": "liman",
+    "technologies": [],
+    "relevance_score": 130,
+    "editorial_fit_score": 65,
+    "summary_source": "Marsa Maroc has chosen an LPS 550 for Casablanca, bringing Africa’s first Liebherr portal slewing crane into service",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -778,6 +777,31 @@
       ],
       "generated_at": "2026-10-01T20:18:05.206Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "5971013e4cb9f608",
+    "status": "candidate",
+    "title_original": "Prillaman's Crane Expands Fleet with Liebherr Mobile Crane",
+    "source_name": "Construction Equipment Guide",
+    "source_url": "https://www.constructionequipmentguide.com/prillamans-crane-expands-fleet-with-liebherr-mobile-crane/72415",
+    "source_feed": "https://feeds.feedburner.com/ceg",
+    "published_at": "2026-10-05T05:00:00.000Z",
+    "discovered_at": "2026-10-05T21:56:30.884Z",
+    "sector": "is-makinalari",
+    "technologies": [],
+    "relevance_score": 120,
+    "editorial_fit_score": 65,
+    "summary_source": "Prillaman Crane & Rigging, Inc. joined the Liebherr mobile and crawler cranes team to take delivery of its 11th Liebherr crane, the LTM 1250-5.1 mobile crane....",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {

@@ -3,156 +3,156 @@
     "source": "International Mining",
     "url": "https://im-mining.com/feed/",
     "ok": true,
-    "duration_ms": 1078,
+    "duration_ms": 1399,
     "feed_items_seen": 12,
-    "items_in_window": 12,
+    "items_in_window": 11,
     "relevant_items": 2,
-    "candidates_found": 1,
+    "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-05T11:57:14.227Z"
+    "checked_at": "2026-10-05T21:56:35.505Z"
   },
   {
     "source": "Port Strategy",
     "url": "https://www.portstrategy.com/feed",
     "ok": true,
-    "duration_ms": 4959,
+    "duration_ms": 4965,
     "feed_items_seen": 10,
-    "items_in_window": 2,
-    "relevant_items": 0,
-    "candidates_found": 0,
+    "items_in_window": 3,
+    "relevant_items": 2,
+    "candidates_found": 2,
     "error": null,
-    "checked_at": "2026-10-05T11:57:14.227Z"
+    "checked_at": "2026-10-05T21:56:35.505Z"
   },
   {
     "source": "Construction Equipment Guide",
     "url": "https://feeds.feedburner.com/ceg",
     "ok": true,
-    "duration_ms": 372,
+    "duration_ms": 345,
     "feed_items_seen": 15,
-    "items_in_window": 4,
-    "relevant_items": 1,
-    "candidates_found": 0,
+    "items_in_window": 15,
+    "relevant_items": 2,
+    "candidates_found": 1,
     "error": null,
-    "checked_at": "2026-10-05T11:57:14.227Z"
+    "checked_at": "2026-10-05T21:56:35.505Z"
   },
   {
     "source": "Tunnels & Tunnelling",
     "url": "https://www.tunnelsandtunnelling.com/feed/",
     "ok": true,
-    "duration_ms": 838,
+    "duration_ms": 453,
     "feed_items_seen": 10,
     "items_in_window": 7,
     "relevant_items": 0,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-05T11:57:14.227Z"
+    "checked_at": "2026-10-05T21:56:35.505Z"
   },
   {
     "source": "electrive",
     "url": "https://www.electrive.com/feed/",
     "ok": true,
-    "duration_ms": 495,
+    "duration_ms": 772,
     "feed_items_seen": 15,
     "items_in_window": 15,
     "relevant_items": 0,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-05T11:57:14.227Z"
+    "checked_at": "2026-10-05T21:56:35.505Z"
   },
   {
     "source": "iVT International",
     "url": "https://www.ivtinternational.com/feed",
     "ok": true,
-    "duration_ms": 949,
+    "duration_ms": 901,
     "feed_items_seen": 10,
     "items_in_window": 0,
     "relevant_items": 0,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-05T11:57:14.227Z"
+    "checked_at": "2026-10-05T21:56:35.505Z"
   },
   {
     "source": "Charged EVs",
     "url": "https://chargedevs.com/feed/",
     "ok": true,
-    "duration_ms": 440,
+    "duration_ms": 522,
     "feed_items_seen": 10,
     "items_in_window": 10,
     "relevant_items": 0,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-05T11:57:14.227Z"
+    "checked_at": "2026-10-05T21:56:35.505Z"
   },
   {
     "source": "Teknikport",
     "url": "https://www.teknikport.com/feed/",
     "ok": true,
-    "duration_ms": 1794,
+    "duration_ms": 1784,
     "feed_items_seen": 10,
     "items_in_window": 0,
     "relevant_items": 0,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-05T11:57:14.227Z"
+    "checked_at": "2026-10-05T21:56:35.505Z"
   },
   {
     "source": "Marine Industry News",
     "url": "https://marineindustrynews.co.uk/feed/",
     "ok": true,
-    "duration_ms": 807,
+    "duration_ms": 982,
     "feed_items_seen": 10,
     "items_in_window": 10,
     "relevant_items": 0,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-05T11:57:14.227Z"
+    "checked_at": "2026-10-05T21:56:35.505Z"
   },
   {
     "source": "Marine Industry News Electric Boats",
     "url": "https://marineindustrynews.co.uk/tag/electric-boats/feed/",
     "ok": true,
-    "duration_ms": 1727,
+    "duration_ms": 1802,
     "feed_items_seen": 10,
     "items_in_window": 0,
     "relevant_items": 0,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-05T11:57:14.227Z"
+    "checked_at": "2026-10-05T21:56:35.505Z"
   },
   {
     "source": "Passenger Terminal Today",
     "url": "https://www.passengerterminaltoday.com/feed/",
     "ok": true,
-    "duration_ms": 1448,
+    "duration_ms": 2175,
     "feed_items_seen": 10,
-    "items_in_window": 5,
+    "items_in_window": 4,
     "relevant_items": 0,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-05T11:57:14.227Z"
+    "checked_at": "2026-10-05T21:56:35.505Z"
   },
   {
     "source": "Powertrain International Off-Highway",
     "url": "https://www.powertraininternationalweb.com/category/off-highway/feed/",
     "ok": true,
-    "duration_ms": 1460,
+    "duration_ms": 1559,
     "feed_items_seen": 10,
     "items_in_window": 0,
     "relevant_items": 0,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-05T11:57:14.227Z"
+    "checked_at": "2026-10-05T21:56:35.505Z"
   },
   {
     "source": "Powertrain International Marine",
     "url": "https://www.powertraininternationalweb.com/category/marine/feed/",
     "ok": true,
-    "duration_ms": 1478,
+    "duration_ms": 1534,
     "feed_items_seen": 10,
     "items_in_window": 0,
     "relevant_items": 0,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-05T11:57:14.227Z"
+    "checked_at": "2026-10-05T21:56:35.505Z"
   }
 ]
