@@ -491,7 +491,7 @@
   },
   {
     "id": "51cf67f1c6bb2108",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Maritime Transport adds five Renault electric trucks to its fleet",
     "source_name": "electrive",
     "source_url": "https://www.electrive.com/2026/10/06/maritime-transport-adds-five-renault-electric-trucks-to-its-fleet/",
@@ -506,14 +506,42 @@
     "editorial_fit_score": 77,
     "summary_source": "UK logistics company Maritime Transport has further expanded its eHGV fleet, with the addition of five Renault Trucks E-Tech T 4x2 electric tractor units. The trucks are being introduced through the eFREIGHT 2030 project and brings Maritime's total electric fleet up to 56 vehicles.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Maritime Transport filosuna beş Renault Trucks E-Tech T elektrikli çekici ekledi",
+      "dek_tr": "Birleşik Krallık merkezli lojistik şirketi Maritime Transport, eFREIGHT 2030 projesi kapsamında beş Renault Trucks E-Tech T 4x2 elektrikli çekici filosuna kattı. Şirketin elektrikli araç filosu böylece 56 araca ulaştı.",
+      "summary_tr": "Maritime Transport, elektrikli ağır ticari araç filosunu beş Renault Trucks E-Tech T 4x2 çekiciyle genişletti. Araçlar, eFREIGHT 2030 projesi aracılığıyla filoya dahil ediliyor.\n\nKaynak özetine göre eklemeyle şirketin toplam elektrikli araç sayısı 56'ya çıktı. Araçların menzili, batarya kapasitesi, şarj altyapısı veya kullanım güzergâhları hakkında kaynakta bilgi bulunmuyor.",
+      "why_it_matters_tr": "Lojistik filosundaki elektrikli çekici kullanımı, ağır mobil araçlarda elektrifikasyonun saha uygulamalarını izlemek açısından ilgili. Ancak verilen bilgiler, araçların operasyonel performansını veya farklı makine sektörlerine aktarılabilecek teknik sonuçları değerlendirmeye yetmiyor.",
+      "seo_title": "Maritime Transport filosuna beş elektrikli Renault çekici ekledi",
+      "meta_description": "Maritime Transport, eFREIGHT 2030 kapsamında beş Renault Trucks E-Tech T 4x2 elektrikli çekici aldı. Şirketin elektrikli filosu 56 araca ulaştı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Maritime Transport filosuna beş Renault Trucks E-Tech T 4x2 elektrikli çekici ekledi.",
+        "Araçlar eFREIGHT 2030 projesi kapsamında filoya katılıyor.",
+        "Şirketin toplam elektrikli araç sayısı 56'ya ulaştı."
+      ],
+      "suggested_tags": [
+        "Renault Trucks",
+        "elektrikli çekici",
+        "ağır ticari araç",
+        "filo elektrifikasyonu",
+        "eFREIGHT 2030"
+      ],
+      "suggested_sector": "elektrifikasyon",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "Maritime Transport'un beş Renault Trucks E-Tech T 4x2 elektrikli çekici eklediği bilgisi",
+        "Araçların eFREIGHT 2030 projesi kapsamında filoya katıldığı bilgisi",
+        "Şirketin elektrikli filosunun 56 araca çıktığı bilgisi"
+      ],
+      "uncertainty_notes": [
+        "Kaynağın tam metnine erişilemedi; taslak, verilen kısa kaynak özetiyle sınırlıdır.",
+        "Araçların teknik özellikleri ve operasyonel performansı hakkında kaynakta bilgi yoktur."
+      ],
+      "generated_at": "2026-10-06T20:08:47.986Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -916,7 +944,7 @@
   },
   {
     "id": "35b68591fe3ece70",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Selecting Wheel Loaders vs. Excavators at the Crusher",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/selecting-wheel-loaders-vs-excavators-at-the-crusher/72430",
@@ -929,19 +957,43 @@
     "editorial_fit_score": 55,
     "summary_source": "When choosing a loading tool, the decision comes down to a wheel loader or a crawler excavator. Volvo CE outlines the pros and cons between the two. ...",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Kırıcı beslemesinde lastik tekerlekli yükleyici mi paletli ekskavatör mü?",
+      "dek_tr": "Kaynak, kırıcıda malzeme yüklemek için lastik tekerlekli yükleyici ile paletli ekskavatörün tercih nedenlerini karşılaştırıyor. Volvo CE'nin iki seçeneğin artı ve eksilerini ele aldığı belirtiliyor.",
+      "summary_tr": "Kırıcı besleme işinde kullanılacak yükleme makinesinin seçimi, lastik tekerlekli yükleyici ile paletli ekskavatör arasında değerlendiriliyor. Verilen kaynak özeti, Volvo CE'nin iki makine tipinin avantaj ve dezavantajlarını ele aldığını aktarıyor.\n\nÖzet; çalışma koşulları, üretim miktarı, zemin veya makine maliyetleri gibi seçim ölçütlerini ve karşılaştırmanın sonuçlarını açıklamıyor. Bu nedenle hangi makinenin hangi koşulda daha uygun olduğuna dair bir öneri çıkarmak mümkün değil.",
+      "why_it_matters_tr": "Kırıcı beslemesinde makine seçimi, agrega ve maden sahalarında malzeme akışını ve yükleme operasyonunu etkileyebilir. Ancak kaynak özeti karşılaştırma ölçütleri veya saha verisi vermediği için taslak, belirli bir makine tipini üstün göstermiyor.",
+      "seo_title": "Kırıcı beslemesinde yükleyici ve ekskavatör karşılaştırması",
+      "meta_description": "Kırıcıda yükleme için lastik tekerlekli yükleyici ile paletli ekskavatörün seçimi ele alınıyor. Kaynak özeti teknik karşılaştırma ölçütlerini açıklamıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Kaynak, kırıcıda yükleme için lastik tekerlekli yükleyici ve paletli ekskavatörü karşılaştırıyor.",
+        "Kaynak özeti, Volvo CE'nin iki makine tipinin artı ve eksilerini ele aldığını belirtiyor."
+      ],
+      "suggested_tags": [
+        "lastik tekerlekli yükleyici",
+        "paletli ekskavatör",
+        "kırıcı besleme",
+        "agrega",
+        "Volvo CE"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Kırıcıda yükleme aracı olarak lastik tekerlekli yükleyici ve paletli ekskavatörün ele alındığı bilgisi",
+        "Volvo CE'nin iki seçenek için artı ve eksileri sunduğu bilgisi"
+      ],
+      "uncertainty_notes": [
+        "Kaynağın tam metnine erişilemedi; karşılaştırma ölçütleri ve sonuçları verilen özette yer almıyor.",
+        "Volvo CE'nin değerlendirmesi bağımsız saha testi veya doğrulanmış performans verisi olarak sunulamaz."
+      ],
+      "generated_at": "2026-10-06T20:08:47.986Z",
+      "generated_by": "github-models"
     }
   },
   {
     "id": "ce944600d105fe80",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Patriot Crane Adds Tadano AC 5.250L-2 to Fleet",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/patriot-crane-adds-tadano-ac-5250l2-to-fleet/72429",
@@ -954,14 +1006,38 @@
     "editorial_fit_score": 65,
     "summary_source": "The Tadano AC 5.250L-2 is a 300-ton all-terrain crane that features major reach, tech and smart transport options....",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Patriot Crane, Tadano AC 5.250L-2 arazi tipi mobil vinci filosuna kattı",
+      "dek_tr": "Patriot Crane, Tadano AC 5.250L-2 modelini filosuna ekledi. Kaynak özeti vinci 300 ton kapasiteli arazi tipi mobil vinç olarak tanımlıyor; erişim ve taşıma özelliklerine ilişkin ayrıntı vermiyor.",
+      "summary_tr": "Patriot Crane'in Tadano AC 5.250L-2 modelini filosuna kattığı bildirildi. Kaynak özeti, modeli 300 ton kapasiteli arazi tipi mobil vinç olarak tanımlıyor.\n\nÖzet, vincin erişim kapasitesi, taşıma konfigürasyonları veya donanım ve kontrol sistemleri hakkında ölçülebilir ayrıntı sunmuyor. Bu nedenle söz konusu nitelikler hakkında daha ileri teknik değerlendirme yapılamıyor.",
+      "why_it_matters_tr": "Arazi tipi mobil vinçler, iş makineleri ve ağır yük kaldırma operasyonlarında kullanılan ekipmanlardır. Yeni bir modelin filoya katılması sektör açısından izlenebilir olsa da mevcut kaynak, kapasite bilgisi dışındaki teknik farkları ortaya koymuyor.",
+      "seo_title": "Patriot Crane filosuna Tadano AC 5.250L-2 vinci ekledi",
+      "meta_description": "Patriot Crane, kaynakta 300 ton kapasiteli arazi tipi mobil vinç olarak tanımlanan Tadano AC 5.250L-2 modelini filosuna kattı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Patriot Crane, Tadano AC 5.250L-2 modelini filosuna ekledi.",
+        "Kaynak özeti modeli 300 ton kapasiteli arazi tipi mobil vinç olarak tanımlıyor."
+      ],
+      "suggested_tags": [
+        "Tadano",
+        "AC 5.250L-2",
+        "mobil vinç",
+        "arazi tipi vinç",
+        "Patriot Crane"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Patriot Crane'in Tadano AC 5.250L-2'yi filosuna kattığı bilgisi",
+        "Kaynak özetindeki 300 ton kapasite ve arazi tipi mobil vinç tanımı"
+      ],
+      "uncertainty_notes": [
+        "Kaynağın tam metnine erişilemedi; başlık ve kısa kaynak özeti dışında doğrulanabilir ayrıntı bulunmuyor.",
+        "Erişim, teknoloji ve taşıma seçeneklerine ilişkin kaynakta sayısal veya teknik ayrıntı verilmemiştir."
+      ],
+      "generated_at": "2026-10-06T20:08:47.986Z",
+      "generated_by": "github-models"
     }
   },
   {
