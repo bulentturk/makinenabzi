@@ -233,7 +233,7 @@
   },
   {
     "id": "7ecdad7290e20d36",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Liebherr unveiled RE 22 M Litronic rail excavator at InnoTrans",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/construction/liebherr-unveiled-new-re-22-m-litronic-rail-excavator-at-innotrans.html",
@@ -246,14 +246,43 @@
     "editorial_fit_score": 55,
     "summary_source": "Liebherr launched the RE 22 M Litronic, its first railroad excavator in the 22 to 25.7-tonne operating weight class, at InnoTrans 2026 in Berlin. The machine is the successor to [...] The post Liebherr unveiled RE 22 M Litronic rail excavator at InnoTrans appeared first on Industrial Vehicle Technology International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Liebherr, RE 22 M Litronic raylı ekskavatörü tanıttı",
+      "dek_tr": "Liebherr, RE 22 M Litronic’i InnoTrans 2026’da tanıttı. Model, 22–25,7 ton çalışma ağırlığı sınıfındaki ilk Liebherr demiryolu ekskavatörü olarak tanımlanıyor ve yeni geliştirilen hidrostatik ray-tekerlek alt takımına sahip.",
+      "summary_tr": "Liebherr, RE 22 M Litronic raylı ekskavatörünü Berlin’de düzenlenen InnoTrans 2026’da tanıttı. Kaynak, modeli şirketin 22–25,7 ton çalışma ağırlığı sınıfındaki ilk demiryolu ekskavatörü olarak nitelendiriyor.\n\nMakinede yeni geliştirilen hidrostatik ray-tekerlek alt takımı bulunuyor. Kaynakta alt takımın çalışma prensibi ve önceki modele göre sağladığı teknik değişiklikler hakkında ayrıntı verilmiyor.",
+      "why_it_matters_tr": "Raylı ekskavatörler, demiryolu hattı bakım ve yapım işlerinde kullanılabilir; hidrostatik ray-tekerlek alt takımı, makinenin ray üzerinde hareket kabiliyeti açısından teknik önem taşıyor. Ancak bu modelin performansı veya saha kullanımına ilişkin bağımsız doğrulama sunulmuyor.",
+      "seo_title": "Liebherr RE 22 M Litronic raylı ekskavatörü tanıttı",
+      "meta_description": "Liebherr, RE 22 M Litronic raylı ekskavatörünü InnoTrans 2026’da tanıttı. Model, hidrostatik ray-tekerlek alt takımına sahip.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "RE 22 M Litronic, InnoTrans 2026’da tanıtıldı.",
+        "Kaynak, modeli Liebherr’in 22–25,7 ton çalışma ağırlığı sınıfındaki ilk demiryolu ekskavatörü olarak tanımlıyor.",
+        "Makinede yeni geliştirilen hidrostatik ray-tekerlek alt takımı bulunuyor."
+      ],
+      "suggested_tags": [
+        "Liebherr",
+        "RE 22 M Litronic",
+        "raylı ekskavatör",
+        "demiryolu ekipmanları",
+        "hidrostatik alt takım"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "hidrolik",
+        "yuruyus-guc-aktarma"
+      ],
+      "source_facts_used": [
+        "Kaynak başlığı ve açıklaması modelin InnoTrans 2026’da tanıtıldığını bildiriyor.",
+        "Kaynak açıklaması 22–25,7 ton sınıfını ve Liebherr için bu sınıftaki ilk demiryolu ekskavatörü olduğunu belirtiyor.",
+        "Kaynak açıklaması yeni geliştirilen hidrostatik ray-tekerlek alt takımından söz ediyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak metninde yalnızca tarih ve imza bilgisi yer alıyor; teknik ayrıntılar sınırlı biçimde sayfa açıklamasına dayanıyor.",
+        "Alt takımın teknik özellikleri, çalışma performansı ve saha uygulamaları hakkında bilgi veya bağımsız doğrulama sunulmuyor."
+      ],
+      "generated_at": "2026-10-06T11:38:03.507Z",
+      "generated_by": "github-models"
     }
   },
   {
