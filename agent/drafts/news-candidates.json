@@ -490,6 +490,33 @@
     }
   },
   {
+    "id": "51cf67f1c6bb2108",
+    "status": "candidate",
+    "title_original": "Maritime Transport adds five Renault electric trucks to its fleet",
+    "source_name": "electrive",
+    "source_url": "https://www.electrive.com/2026/10/06/maritime-transport-adds-five-renault-electric-trucks-to-its-fleet/",
+    "source_feed": "https://www.electrive.com/feed/",
+    "published_at": "2026-10-06T15:30:00.000Z",
+    "discovered_at": "2026-10-06T20:07:52.208Z",
+    "sector": "tarim",
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "relevance_score": 148,
+    "editorial_fit_score": 77,
+    "summary_source": "UK logistics company Maritime Transport has further expanded its eHGV fleet, with the addition of five Renault Trucks E-Tech T 4x2 electric tractor units. The trucks are being introduced through the eFREIGHT 2030 project and brings Maritime's total electric fleet up to 56 vehicles.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "3b4e24cb3c66ad9e",
     "status": "drafted",
     "title_original": "mtu PowerPacks for Marco Polo Rail",
@@ -885,6 +912,81 @@
       ],
       "generated_at": "2026-10-01T20:18:05.206Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "35b68591fe3ece70",
+    "status": "candidate",
+    "title_original": "Selecting Wheel Loaders vs. Excavators at the Crusher",
+    "source_name": "Construction Equipment Guide",
+    "source_url": "https://www.constructionequipmentguide.com/selecting-wheel-loaders-vs-excavators-at-the-crusher/72430",
+    "source_feed": "https://feeds.feedburner.com/ceg",
+    "published_at": "2026-10-06T05:00:00.000Z",
+    "discovered_at": "2026-10-06T20:07:52.037Z",
+    "sector": "is-makinalari",
+    "technologies": [],
+    "relevance_score": 120,
+    "editorial_fit_score": 55,
+    "summary_source": "When choosing a loading tool, the decision comes down to a wheel loader or a crawler excavator. Volvo CE outlines the pros and cons between the two. ...",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "ce944600d105fe80",
+    "status": "candidate",
+    "title_original": "Patriot Crane Adds Tadano AC 5.250L-2 to Fleet",
+    "source_name": "Construction Equipment Guide",
+    "source_url": "https://www.constructionequipmentguide.com/patriot-crane-adds-tadano-ac-5250l2-to-fleet/72429",
+    "source_feed": "https://feeds.feedburner.com/ceg",
+    "published_at": "2026-10-06T05:00:00.000Z",
+    "discovered_at": "2026-10-06T20:07:52.038Z",
+    "sector": "is-makinalari",
+    "technologies": [],
+    "relevance_score": 120,
+    "editorial_fit_score": 65,
+    "summary_source": "The Tadano AC 5.250L-2 is a 300-ton all-terrain crane that features major reach, tech and smart transport options....",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "406a1a6333446fb2",
+    "status": "candidate",
+    "title_original": "Potain Cranes Build €30M Italian Complex",
+    "source_name": "Construction Equipment Guide",
+    "source_url": "https://www.constructionequipmentguide.com/potain-cranes-build-eur30m-italian-complex/72428",
+    "source_feed": "https://feeds.feedburner.com/ceg",
+    "published_at": "2026-10-06T05:00:00.000Z",
+    "discovered_at": "2026-10-06T20:07:52.038Z",
+    "sector": "is-makinalari",
+    "technologies": [],
+    "relevance_score": 120,
+    "editorial_fit_score": 55,
+    "summary_source": "A Potain Evy 30-23 self-erecting crane and a Potain MDT 259 J12 topless tower crane are constructing the Mulino Caputo facility in Ripamolisani, Italy....",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
