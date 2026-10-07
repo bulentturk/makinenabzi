@@ -1042,7 +1042,7 @@
   },
   {
     "id": "406a1a6333446fb2",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Potain Cranes Build €30M Italian Complex",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/potain-cranes-build-eur30m-italian-complex/72428",
@@ -1055,14 +1055,41 @@
     "editorial_fit_score": 55,
     "summary_source": "A Potain Evy 30-23 self-erecting crane and a Potain MDT 259 J12 topless tower crane are constructing the Mulino Caputo facility in Ripamolisani, Italy....",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Potain kule vinçleri İtalya’daki Mulino Caputo tesisinin yapımında",
+      "dek_tr": "Potain Evy 30-23 kendinden kurmalı vinç ile MDT 259 J12 üst kulesiz kule vinci, İtalya’nın Ripalimosani kentindeki Mulino Caputo tesisinin inşaatında kullanılıyor.",
+      "summary_tr": "Construction Equipment Guide’ın haber özeti, Mulino Caputo tesisinin İtalya’nın Ripalimosani kentinde inşa edildiğini ve şantiyede iki Potain vincin görev aldığını bildiriyor.\n\nKullanılan makineler kendinden kurmalı Evy 30-23 ile üst kulesiz kule vinci MDT 259 J12. Kaynak başlığı projeyi 30 milyon avroluk bir kompleks olarak tanımlıyor; ancak haber metninin tamamına erişilemediği için proje ve vinçlerin teknik ayrıntıları doğrulanamıyor.",
+      "why_it_matters_tr": "Birden fazla kule vinç tipinin aynı tesis projesindeki kullanımı, şantiye ekipmanı seçimi ve vinçlerin farklı kurulum yaklaşımlarına dair iş makinası sektörü açısından ilgi taşıyor. Kaynak, makinelerin kapasitesi veya sahadaki görev paylaşımı hakkında ayrıntı vermiyor.",
+      "seo_title": "Potain Evy 30-23 ve MDT 259 J12 İtalya’da görevde",
+      "meta_description": "Potain Evy 30-23 ve MDT 259 J12, İtalya’nın Ripalimosani kentindeki Mulino Caputo tesisi inşaatında kullanılıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "İnşaat projesi İtalya’nın Ripalimosani kentinde yürütülüyor.",
+        "Şantiyede Potain Evy 30-23 kendinden kurmalı vinç kullanılıyor.",
+        "Şantiyede Potain MDT 259 J12 üst kulesiz kule vinci kullanılıyor.",
+        "Kaynak başlığı kompleksi 30 milyon avroluk olarak nitelendiriyor."
+      ],
+      "suggested_tags": [
+        "Potain",
+        "kule vinç",
+        "şantiye ekipmanları",
+        "İtalya"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Kaynak özeti, Mulino Caputo tesisinin Ripalimosani’de inşa edildiğini belirtiyor.",
+        "Kaynak özeti, şantiyede Potain Evy 30-23 ve MDT 259 J12 vinçlerinin kullanıldığını belirtiyor.",
+        "Kaynak başlığı projeyi 30 milyon avroluk kompleks olarak tanımlıyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynağa erişim HTTP 403 hatasıyla engellendi; değerlendirme yalnızca başlık ve kısa özete dayanıyor.",
+        "30 milyon avro bilgisi yalnızca kaynak başlığında yer alıyor; kapsamı ve bağımsız doğrulaması mevcut veride belirtilmiyor.",
+        "Vinçlerin kapasitesi, teknik özellikleri ve projedeki görev dağılımı kaynak özetinde açıklanmıyor."
+      ],
+      "generated_at": "2026-10-07T11:27:20.178Z",
+      "generated_by": "github-models"
     }
   },
   {
