@@ -175,6 +175,33 @@
     }
   },
   {
+    "id": "6cc0a743a32aa1b3",
+    "status": "candidate",
+    "title_original": "Bosch Rexroth expands telematics portfolio with Owasys",
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/news/electronics/bosch-rexroth-expands-telematics-portfolio-with-owasys.html",
+    "source_feed": "https://www.ivtinternational.com/feed",
+    "published_at": "2026-10-08T09:14:18.000Z",
+    "discovered_at": "2026-10-08T11:42:11.388Z",
+    "sector": "is-makinalari",
+    "technologies": [
+      "elektronik-telematik"
+    ],
+    "relevance_score": 158,
+    "editorial_fit_score": 67,
+    "summary_source": "Bosch Rexroth is to expand its IoT and telematics portfolio for mobile machinery through a series of partnerships, naming telematics specialist Owasys as its first partner. The approach will see [...] The post Bosch Rexroth expands telematics portfolio with Owasys appeared first on Industrial Vehicle Technology International.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "3d0d54a8423de283",
     "status": "drafted",
     "title_original": "BEML unveils India’s first battery electric 60 t class mining truck",
@@ -490,6 +517,33 @@
     }
   },
   {
+    "id": "3a4d35e6ceeb8cb9",
+    "status": "candidate",
+    "title_original": "100 km/h in 3.9 seconds: BMW unveils upgraded iX3",
+    "source_name": "electrive",
+    "source_url": "https://www.electrive.com/2026/10/08/100-km-h-in-3-9-seconds-bmw-unveils-the-upgraded-ix3/",
+    "source_feed": "https://www.electrive.com/feed/",
+    "published_at": "2026-10-07T22:02:00.000Z",
+    "discovered_at": "2026-10-08T11:42:10.992Z",
+    "sector": "elektrifikasyon",
+    "technologies": [
+      "yuruyus-guc-aktarma"
+    ],
+    "relevance_score": 148,
+    "editorial_fit_score": 67,
+    "summary_source": "BMW is presenting the most powerful drivetrain variant of its premium iX3 eSUV to date. The new BMW iX3 M60 xDrive takes the lead in the lineup with 450 kW and is said to accelerate from 0 to 100 km/h in under four seconds. The Munich-based manufacturer plans to open order books at the end of January 2027.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "51cf67f1c6bb2108",
     "status": "drafted",
     "title_original": "Maritime Transport adds five Renault electric trucks to its fleet",
@@ -650,6 +704,31 @@
       ],
       "generated_at": "2026-10-05T21:57:41.260Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "1ccecaf19882be58",
+    "status": "candidate",
+    "title_original": "New Perkins 5016 Diesel Engine Completes 5000 Series Range",
+    "source_name": "Construction Equipment Guide",
+    "source_url": "https://www.constructionequipmentguide.com/new-perkins-5016-diesel-engine-completes-5000-series-range/72450",
+    "source_feed": "https://feeds.feedburner.com/ceg",
+    "published_at": "2026-10-07T05:00:00.000Z",
+    "discovered_at": "2026-10-08T11:42:10.912Z",
+    "sector": "is-makinalari",
+    "technologies": [],
+    "relevance_score": 130,
+    "editorial_fit_score": 65,
+    "summary_source": "Perkins’ new 5016 full-authority electronic engine for power generation is in production. ...",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -1285,6 +1364,31 @@
       ],
       "generated_at": "2026-10-02T19:52:19.544Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "1435e858f764b7f4",
+    "status": "candidate",
+    "title_original": "Refurbished TBM ready for second Grand Paris Express drive",
+    "source_name": "Tunnels & Tunnelling",
+    "source_url": "https://www.tunnelsandtunnelling.com/news/refurbished-tbm-ready-for-second-grand-paris-express-drive/",
+    "source_feed": "https://www.tunnelsandtunnelling.com/feed/",
+    "published_at": "2026-10-08T07:46:00.000Z",
+    "discovered_at": "2026-10-08T11:42:10.955Z",
+    "sector": "is-makinalari",
+    "technologies": [],
+    "relevance_score": 116,
+    "editorial_fit_score": 55,
+    "summary_source": "Refurbished TBM ready for second Grand Paris Express drive TBM Roberta was previously deployed on Line 16 of the Grand Paris Express. The post Refurbished TBM ready for second Grand Paris Express drive appeared first on Tunnels and Tunnelling.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   }
 ]
