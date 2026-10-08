@@ -285,7 +285,7 @@
   },
   {
     "id": "9cfcccf02c47a047",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Electric drivetrain on the Agrifac sprayer",
     "source_name": "Powertrain International Off-Highway",
     "source_url": "https://www.powertraininternationalweb.com/off-highway/agrifac-sprayer-electrification-world-agritech/",
@@ -301,19 +301,50 @@
     "editorial_fit_score": 91,
     "summary_source": "Agrifac introduces a new drive platform for the current generation of its self-propelled sprayers. This allows the same machine to be supplied in a diesel-electric, hybrid or fully electric configuration The post Electric drivetrain on the Agrifac sprayer appeared first on Powertrain International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Agrifac, püskürtme makineleri için elektrikli tahrik platformu sunuyor",
+      "dek_tr": "Agrifac’ın yeni platformu, kendinden yürür tarla pülverizatörünün dizel-elektrik, hibrit veya tam elektrikli konfigürasyonda sunulmasına olanak veriyor. Seçenekler, elektriğin üretilme ve depolanma biçimine göre ayrılıyor.",
+      "summary_tr": "Habere göre Agrifac, mevcut nesil kendinden yürür pülverizatörleri için ortak bir elektrikli tahrik altyapısı geliştirdi. Dizel-elektrik seçeneğinde altı silindirli dizel motor jeneratörü besliyor; hibritte daha küçük dört silindirli motor bataryayı gerektiğinde şarj ederek menzil uzatıcı görevi görüyor. Tam elektrikli sürüm ise harici olarak şarj edilen bataryayla çalışıyor.\n\nKaynak, hibrit seçeneğin sürekli 301 hp, kısa süreli olarak 447 hp’ye kadar güç sağlayabildiğini bildiriyor. Dizel-elektrik ve tam elektrikli sürümlerin güç değerleri henüz kesinleşmemiş; her iki konfigürasyon için de geleneksel makineye en az eşdeğer güç hedefleniyor.\n\nHaberde üreticinin tahminleri olarak dizel-elektrik modelde yaklaşık yüzde 35, hibritte yaklaşık yüzde 50 yakıt tasarrufu ve elektrikli tahrikte yüzde 95’in üzerinde verimlilik aktarılıyor. Tam elektrikli seçeneğin yerel emisyonsuz çalışabileceği belirtilirken, uygun konfigürasyonun uygulamaya ve şarj altyapısına bağlı olduğu vurgulanıyor.",
+      "why_it_matters_tr": "Tarla pülverizatörlerinde aynı makine platformunun farklı enerji konfigürasyonlarına uyarlanması, filoların iş profili ve şarj altyapısına göre seçim yapmasına imkân verebilir. Bu yaklaşımın pratik verim ve tasarruf sonuçları ise bağımsız saha verileriyle değerlendirilmelidir.",
+      "seo_title": "Agrifac pülverizatörleri için elektrikli tahrik platformu",
+      "meta_description": "Agrifac’ın yeni platformu pülverizatörleri dizel-elektrik, hibrit veya tam elektrikli sunuyor. Hibrit sürümün güç değerleri ve üretici tasarruf tahminleri.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Yeni platform, dizel-elektrik, hibrit ve tam elektrikli konfigürasyonları destekliyor.",
+        "Hibritte dört silindirli dizel motor bataryayı şarj eden menzil uzatıcı olarak kullanılıyor.",
+        "Habere göre hibrit sürüm 301 hp sürekli, 447 hp'ye kadar kısa süreli güç sunuyor.",
+        "Kaynak, dizel-elektrik ve hibrit sürümler için sırasıyla yaklaşık yüzde 35 ve yüzde 50 yakıt tasarrufu öngörüyor."
+      ],
+      "suggested_tags": [
+        "Agrifac",
+        "tarım makineleri",
+        "pülverizatör",
+        "elektrikli tahrik",
+        "hibrit"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon",
+        "yuruyus-guc-aktarma"
+      ],
+      "source_facts_used": [
+        "Agrifac'ın mevcut nesil kendinden yürür pülverizatörleri için yeni bir tahrik platformu sunduğu bilgisi.",
+        "Dizel-elektrik, hibrit ve tam elektrikli konfigürasyonların çalışma biçimleri.",
+        "Hibrit sürüm için bildirilen sürekli ve kısa süreli güç değerleri.",
+        "Yakıt tasarrufu ve tahrik verimliliği oranlarının kaynakta üretici tahmini olarak aktarılması."
+      ],
+      "uncertainty_notes": [
+        "Yakıt tasarrufu ve yüzde 95'in üzerindeki verimlilik değerleri kaynakta verilen iddialardır; bağımsız test veya saha verisi sunulmuyor.",
+        "Dizel-elektrik ve tam elektrikli konfigürasyonların güç değerleri henüz kesinleşmemiş."
+      ],
+      "generated_at": "2026-10-08T20:39:04.732Z",
+      "generated_by": "github-models"
     }
   },
   {
     "id": "c4dcc57ea974eef5",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Massey Ferguson enters compact tractor supply deal with ITL",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/agriculture/massey-ferguson-enters-compact-tractor-supply-deal-with-itl.html",
@@ -326,14 +357,42 @@
     "editorial_fit_score": 55,
     "summary_source": "Massey Ferguson has entered a supply partnership with International Tractors Limited (ITL), a manufacturer of low-horsepower and compact tractors, as it moves to add a new tractor range to its [...] The post Massey Ferguson enters compact tractor supply deal with ITL appeared first on Industrial Vehicle Technology International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Massey Ferguson, ITL ile kompakt traktör tedarik ortaklığı kurdu",
+      "dek_tr": "Massey Ferguson, International Tractors Limited (ITL) ile yeni bir kompakt traktör serisi için tedarik ortaklığına gitti. Kaynak açıklamasına göre 20 hp’den başlayan serinin Avrupa ve Orta Doğu’da 2027’de sunulması planlanıyor.",
+      "summary_tr": "iVT International’ın sayfa açıklamasına göre Massey Ferguson, düşük güçlü ve kompakt traktör üreticisi International Tractors Limited (ITL) ile tedarik ortaklığı imzaladı. İş birliği kapsamında 20 hp’den başlayan yeni bir kompakt traktör serisi planlanıyor.\n\nAynı açıklamada serinin Avrupa ve Orta Doğu’da 2027’de sunulacağı belirtiliyor. Verilen kaynak metni ortaklığın kapsamı ve ürünlerin teknik özellikleri hakkında başka ayrıntı içermiyor.",
+      "why_it_matters_tr": "Kompakt traktör serisinin yeni pazarlarda sunulması, küçük ölçekli tarımsal işletmeler ve hafif hizmet uygulamaları açısından ürün erişimini etkileyebilir. Motor, transmisyon, donanım seçenekleri ve tedarik kapsamı açıklanmadığı için ortaklığın teknik etkisi henüz değerlendirilemiyor.",
+      "seo_title": "Massey Ferguson ve ITL’den kompakt traktör ortaklığı",
+      "meta_description": "Massey Ferguson ve ITL, 20 hp’den başlayan kompakt traktör serisi için tedarik ortaklığı kurdu. Avrupa ve Orta Doğu lansmanı 2027 için planlanıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Massey Ferguson ile International Tractors Limited arasında tedarik ortaklığı duyuruldu.",
+        "Kaynak açıklamasına göre yeni kompakt traktör serisi 20 hp'den başlayacak.",
+        "Serinin Avrupa ve Orta Doğu'da 2027'de sunulması planlanıyor.",
+        "Kaynak, ITL'yi düşük güçlü ve kompakt traktör üreticisi olarak tanımlıyor."
+      ],
+      "suggested_tags": [
+        "Massey Ferguson",
+        "ITL",
+        "kompakt traktör",
+        "tarım makineleri",
+        "tedarik ortaklığı"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Massey Ferguson ile International Tractors Limited arasındaki tedarik ortaklığı bilgisi.",
+        "Yeni kompakt traktör serisinin 20 hp'den başlayacağı bilgisi.",
+        "Avrupa ve Orta Doğu için 2027 lansman planı.",
+        "Kaynak açıklamasındaki ITL şirket tanımı."
+      ],
+      "uncertainty_notes": [
+        "Verilen kaynak metninde yalnızca kısa bir yayın bilgisi, yazar satırı ve sayfa açıklaması mevcut; ortaklık koşulları ve traktör teknik özellikleri doğrulanamıyor.",
+        "2027 lansmanı kaynak açıklamasında plan olarak belirtiliyor; gerçekleşmiş bir lansman değil."
+      ],
+      "generated_at": "2026-10-08T20:39:04.732Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -1205,7 +1264,7 @@
   },
   {
     "id": "9663e7ef7089ac09",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Grove GMK6450-1 Dismantles Berlin Tower Crane",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/grove-gmk64501-dismantles-berlin-tower-crane/72457",
@@ -1220,14 +1279,43 @@
     "editorial_fit_score": 67,
     "summary_source": "German rental company MOBI-HUB deployed Grove's six-axle all-terrain crane to overcome strict transport restrictions and complete heavy lifts on a constrained urban job site....",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Grove GMK6450-1, Berlin’deki kule vincin sökümünde görev aldı",
+      "dek_tr": "İnşaat Equipment Guide’ın özetine göre MOBI-HUB, Berlin’de kısıtlı bir kent şantiyesindeki ağır kaldırma ve kule vinç sökümü için Grove GMK6450-1 arazi tipi mobil vinci kullandı. Kaynak erişim uyarısı nedeniyle uygulamaya ilişkin ayrıntılar sınırlı.",
+      "summary_tr": "Kaynak özetinde, Almanya merkezli kiralama şirketi MOBI-HUB’ın Berlin’deki bir kule vincin sökümünde Grove GMK6450-1 modelini kullandığı belirtiliyor. Altı akslı arazi tipi vinç, kısıtlı bir kentsel çalışma alanında ağır kaldırma işlerini gerçekleştirmek üzere görevlendirilmiş.\n\nÖzet, uygulamanın ulaşım kısıtlarıyla ve şantiye koşullarıyla ilişkili olduğunu bildiriyor; ancak kaldırma kapasitesi, bom konfigürasyonu, çalışma süresi veya vincin sahadaki düzenine ilişkin ayrıntı vermiyor.",
+      "why_it_matters_tr": "Kentsel şantiyelerde ağır kaldırma ve ekipman sökümü, erişim ve nakliye kısıtlarının mobil vinç seçiminde belirleyici olabildiği uygulamalardır. Bu örnek kullanımın teknik çözümünü değerlendirmek için kaynakta bulunmayan saha ve konfigürasyon ayrıntıları gerekir.",
+      "seo_title": "Grove GMK6450-1 Berlin’de kule vinç sökümünde",
+      "meta_description": "MOBI-HUB, kaynak özetine göre Grove GMK6450-1 arazi tipi mobil vinci Berlin’deki kule vinç sökümü ve kısıtlı şantiye çalışması için kullandı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Kaynak özeti, Berlin'deki kule vinç sökümünde Grove GMK6450-1 kullanıldığını belirtiyor.",
+        "Vinç, MOBI-HUB adlı Alman kiralama şirketi tarafından görevlendirilmiş.",
+        "Özet, modeli altı akslı arazi tipi vinç olarak tanımlıyor.",
+        "Uygulama kısıtlı bir kentsel şantiye ve ulaşım kısıtlarıyla ilişkilendiriliyor."
+      ],
+      "suggested_tags": [
+        "Grove",
+        "GMK6450-1",
+        "mobil vinç",
+        "kule vinç",
+        "şantiye"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "yuruyus-guc-aktarma"
+      ],
+      "source_facts_used": [
+        "Kaynak özetinde Grove GMK6450-1'in Berlin'deki kule vinç sökümünde kullanıldığı bilgisi.",
+        "MOBI-HUB'ın Alman kiralama şirketi olduğu ve vincin altı akslı arazi tipi olarak tanımlanması.",
+        "Özetin kısıtlı kentsel şantiye ve ulaşım koşullarına işaret etmesi."
+      ],
+      "uncertainty_notes": [
+        "Kaynağa erişim 403 hatasıyla sınırlı; taslak yalnızca verilen kısa kaynak özetine dayanıyor.",
+        "Kaldırma konfigürasyonu, kapasite, saha düzeni ve operasyon sonuçları kaynak özetinde yer almıyor."
+      ],
+      "generated_at": "2026-10-08T20:39:04.732Z",
+      "generated_by": "github-models"
     }
   },
   {
