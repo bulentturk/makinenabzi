@@ -284,6 +284,109 @@
     }
   },
   {
+    "id": "9cfcccf02c47a047",
+    "status": "candidate",
+    "title_original": "Electric drivetrain on the Agrifac sprayer",
+    "source_name": "Powertrain International Off-Highway",
+    "source_url": "https://www.powertraininternationalweb.com/off-highway/agrifac-sprayer-electrification-world-agritech/",
+    "source_feed": "https://www.powertraininternationalweb.com/category/off-highway/feed/",
+    "published_at": "2026-10-08T15:56:59.000Z",
+    "discovered_at": "2026-10-08T20:38:06.365Z",
+    "sector": "is-makinalari",
+    "technologies": [
+      "elektrifikasyon",
+      "yuruyus-guc-aktarma"
+    ],
+    "relevance_score": 154,
+    "editorial_fit_score": 91,
+    "summary_source": "Agrifac introduces a new drive platform for the current generation of its self-propelled sprayers. This allows the same machine to be supplied in a diesel-electric, hybrid or fully electric configuration The post Electric drivetrain on the Agrifac sprayer appeared first on Powertrain International.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "c4dcc57ea974eef5",
+    "status": "candidate",
+    "title_original": "Massey Ferguson enters compact tractor supply deal with ITL",
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/news/agriculture/massey-ferguson-enters-compact-tractor-supply-deal-with-itl.html",
+    "source_feed": "https://www.ivtinternational.com/feed",
+    "published_at": "2026-10-08T13:33:34.000Z",
+    "discovered_at": "2026-10-08T20:38:04.834Z",
+    "sector": "tarim",
+    "technologies": [],
+    "relevance_score": 150,
+    "editorial_fit_score": 55,
+    "summary_source": "Massey Ferguson has entered a supply partnership with International Tractors Limited (ITL), a manufacturer of low-horsepower and compact tractors, as it moves to add a new tractor range to its [...] The post Massey Ferguson enters compact tractor supply deal with ITL appeared first on Industrial Vehicle Technology International.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "56f94264cdfd30b0",
+    "status": "candidate",
+    "title_original": "Massey Ferguson launches 7S Mark 2 tractor range",
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/news/agriculture/massey-ferguson-launches-7s-mark-2-tractor-range.html",
+    "source_feed": "https://www.ivtinternational.com/feed",
+    "published_at": "2026-10-08T13:19:48.000Z",
+    "discovered_at": "2026-10-08T20:38:04.836Z",
+    "sector": "tarim",
+    "technologies": [],
+    "relevance_score": 150,
+    "editorial_fit_score": 55,
+    "summary_source": "Massey Ferguson has unveiled the 7S Mark 2 Series, six tractors from 170hp to 245hp. Full production and first deliveries are due to begin in spring 2027 and the current [...] The post Massey Ferguson launches 7S Mark 2 tractor range appeared first on Industrial Vehicle Technology International.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "b0768c2ab972e946",
+    "status": "candidate",
+    "title_original": "FLS to deliver world’s largest gyratory as part of Chile copper mine expansion package",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/10/08/fls-to-deliver-worlds-largest-gyratory-as-part-of-chile-copper-mine-expansion-package/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-10-08T12:13:51.000Z",
+    "discovered_at": "2026-10-08T20:38:05.039Z",
+    "sector": "madencilik",
+    "technologies": [],
+    "relevance_score": 150,
+    "editorial_fit_score": 55,
+    "summary_source": "Leading mineral processing technology and service provider, FLSmidth (FLS), says it has received a DKK 360 million order to supply long-lead crushing and grinding technologies to a copper expansion project in northern Chile. Under the scope of the agreement, FLS will deliver the world’s largest gyratory crusher: a 1,600 x 3,300 TSUV equipped with a The post FLS to deliver world’s largest gyratory as part of Chile copper mine expansion package appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "7ecdad7290e20d36",
     "status": "drafted",
     "title_original": "Liebherr unveiled RE 22 M Litronic rail excavator at InnoTrans",
@@ -1098,6 +1201,33 @@
       ],
       "generated_at": "2026-10-01T20:18:05.206Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "9663e7ef7089ac09",
+    "status": "candidate",
+    "title_original": "Grove GMK6450-1 Dismantles Berlin Tower Crane",
+    "source_name": "Construction Equipment Guide",
+    "source_url": "https://www.constructionequipmentguide.com/grove-gmk64501-dismantles-berlin-tower-crane/72457",
+    "source_feed": "https://feeds.feedburner.com/ceg",
+    "published_at": "2026-10-08T05:00:00.000Z",
+    "discovered_at": "2026-10-08T20:38:05.891Z",
+    "sector": "is-makinalari",
+    "technologies": [
+      "yuruyus-guc-aktarma"
+    ],
+    "relevance_score": 128,
+    "editorial_fit_score": 67,
+    "summary_source": "German rental company MOBI-HUB deployed Grove's six-axle all-terrain crane to overcome strict transport restrictions and complete heavy lifts on a constrained urban job site....",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
