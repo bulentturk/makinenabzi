@@ -175,6 +175,33 @@
     }
   },
   {
+    "id": "b60812d92979c878",
+    "status": "candidate",
+    "title_original": "Superior Industries makes Titanium Seal its conveyor idler standard",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/10/09/superior-industries-makes-titanium-seal-its-conveyor-idler-standard/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-10-09T05:07:30.000Z",
+    "discovered_at": "2026-10-09T11:35:29.890Z",
+    "sector": "madencilik",
+    "technologies": [
+      "yuruyus-guc-aktarma"
+    ],
+    "relevance_score": 158,
+    "editorial_fit_score": 67,
+    "summary_source": "Superior Industries, Inc., a US-based manufacturer and global supplier of bulk material processing and handling systems, is making its Titanium™ Seal standard on all of its conveyor idlers. Previously available as a premium option, the patented seal is designed to protect bearings from contamination and extend idler life by at least 25% compared with other The post Superior Industries makes Titanium Seal its conveyor idler standard appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "6cc0a743a32aa1b3",
     "status": "drafted",
     "title_original": "Bosch Rexroth expands telematics portfolio with Owasys",
@@ -281,6 +308,34 @@
       ],
       "generated_at": "2026-10-02T10:49:36.070Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "76c3488f62ae9bee",
+    "status": "candidate",
+    "title_original": "Hexagon out to connect sensor measurements with Rocscience software models",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/10/09/hexagon-out-to-connect-sensor-measurements-with-rocscience-software-models/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-10-09T08:59:38.000Z",
+    "discovered_at": "2026-10-09T11:35:29.886Z",
+    "sector": "madencilik",
+    "technologies": [
+      "otonomi-ai",
+      "elektronik-telematik"
+    ],
+    "relevance_score": 156,
+    "editorial_fit_score": 79,
+    "summary_source": "Hexagon AB has signed an agreement to acquire Rocscience, a provider of geotechnical and engineering analysis software, from TA Associates and Rocscience’s founders and management. Rocscience will become part of the Radar & Monitoring Division within Hexagon’s Infrastructure & Geospatial Business Area. Hexagon said: “Customers in mining and infrastructure require early understanding of geological risks, The post Hexagon out to connect sensor measurements with Rocscience software models appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -1316,6 +1371,33 @@
       ],
       "generated_at": "2026-10-08T20:39:04.732Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "d45364b0995d3420",
+    "status": "candidate",
+    "title_original": "Tunnel Monitoring’s Real Bottleneck Isn’t the Sensor: It’s the Data Silo",
+    "source_name": "Tunnels & Tunnelling",
+    "source_url": "https://www.tunnelsandtunnelling.com/analysis/tunnel-monitorings-real-bottleneck-isnt-the-sensor-its-the-data-silo/",
+    "source_feed": "https://www.tunnelsandtunnelling.com/feed/",
+    "published_at": "2026-10-09T09:58:34.000Z",
+    "discovered_at": "2026-10-09T11:35:29.314Z",
+    "sector": "is-makinalari",
+    "technologies": [
+      "elektronik-telematik"
+    ],
+    "relevance_score": 124,
+    "editorial_fit_score": 67,
+    "summary_source": "The post Tunnel Monitoring’s Real Bottleneck Isn’t the Sensor: It’s the Data Silo appeared first on Tunnels and Tunnelling.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
