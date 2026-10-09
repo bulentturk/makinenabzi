@@ -507,7 +507,7 @@
   },
   {
     "id": "56f94264cdfd30b0",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Massey Ferguson launches 7S Mark 2 tractor range",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/agriculture/massey-ferguson-launches-7s-mark-2-tractor-range.html",
@@ -520,19 +520,48 @@
     "editorial_fit_score": 55,
     "summary_source": "Massey Ferguson has unveiled the 7S Mark 2 Series, six tractors from 170hp to 245hp. Full production and first deliveries are due to begin in spring 2027 and the current [...] The post Massey Ferguson launches 7S Mark 2 tractor range appeared first on Industrial Vehicle Technology International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Massey Ferguson, 7S Mark 2 traktör serisini tanıttı",
+      "dek_tr": "Altı modelden oluşan seri 170-245 hp güç aralığını kapsıyor. Üretim ve ilk teslimatların 2027 ilkbaharında başlaması planlanıyor.",
+      "summary_tr": "Massey Ferguson, 7S Mark 2 adıyla altı traktörlük yeni bir seri tanıttı. Kaynak özetine göre modeller 170-245 hp aralığında güç sunuyor.\n\nSeride yeni AGCO Power motor, Dyna-VT şanzıman ve yeniden tasarlanmış kabin bulunuyor. Tam üretim ile ilk teslimatların 2027 ilkbaharında başlaması bekleniyor.",
+      "why_it_matters_tr": "Seri, tarım makinelerinde motor ve şanzıman güncellemelerinin farklı güç sınıflarındaki traktörlere nasıl yansıtıldığına dair bir ürün gelişmesi sunuyor. Ancak kaynakta motorun veya şanzımanın teknik özellikleri ve önceki modellere göre değişiklikleri açıklanmıyor.",
+      "seo_title": "Massey Ferguson 7S Mark 2 traktör serisini tanıttı",
+      "meta_description": "Massey Ferguson'un altı modelden oluşan 7S Mark 2 serisi 170-245 hp güç aralığında. Üretim ve ilk teslimatların 2027 ilkbaharında başlaması planlanıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "7S Mark 2 serisi altı modelden oluşuyor.",
+        "Güç aralığı 170-245 hp olarak veriliyor.",
+        "Seride yeni AGCO Power motor ve Dyna-VT şanzıman bulunuyor.",
+        "Üretim ve ilk teslimatların 2027 ilkbaharında başlaması planlanıyor."
+      ],
+      "suggested_tags": [
+        "Massey Ferguson",
+        "7S Mark 2",
+        "traktör",
+        "tarım makineleri",
+        "Dyna-VT"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "yuruyus-guc-aktarma"
+      ],
+      "source_facts_used": [
+        "Serinin altı model ve 170-245 hp güç aralığı içermesi",
+        "Yeni AGCO Power motor, Dyna-VT şanzıman ve yeniden tasarlanmış kabin bilgisi",
+        "Üretim ve ilk teslimatların 2027 ilkbaharında başlamasının planlanması"
+      ],
+      "uncertainty_notes": [
+        "Tam kaynak metnine erişilemedi; motor, şanzıman ve kabin değişikliklerinin teknik ayrıntıları mevcut kaynak özetinde yer almıyor.",
+        "Üretim ve teslimat takvimi planlanan tarih olarak aktarılmıştır."
+      ],
+      "generated_at": "2026-10-09T20:04:39.050Z",
+      "generated_by": "github-models"
     }
   },
   {
     "id": "b0768c2ab972e946",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "FLS to deliver world’s largest gyratory as part of Chile copper mine expansion package",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/10/08/fls-to-deliver-worlds-largest-gyratory-as-part-of-chile-copper-mine-expansion-package/",
@@ -545,14 +574,43 @@
     "editorial_fit_score": 55,
     "summary_source": "Leading mineral processing technology and service provider, FLSmidth (FLS), says it has received a DKK 360 million order to supply long-lead crushing and grinding technologies to a copper expansion project in northern Chile. Under the scope of the agreement, FLS will deliver the world’s largest gyratory crusher: a 1,600 x 3,300 TSUV equipped with a The post FLS to deliver world’s largest gyratory as part of Chile copper mine expansion package appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "FLS, Şili'deki bakır projesi için 1.600 x 3.300 TSUV kırıcı sağlayacak",
+      "dek_tr": "FLS, kuzey Şili'deki bakır madeni genişletme projesine kırma ve öğütme teknolojileri tedarik etmek üzere 360 milyon DKK tutarında sipariş aldığını bildirdi. Paket, şirketin dünyanın en büyük giratory kırıcı olarak tanımladığı TSUV modelini içeriyor.",
+      "summary_tr": "FLS'nin açıklamasına göre şirket, kuzey Şili'deki bir bakır madeni genişletme projesi için 360 milyon DKK tutarında sipariş aldı. Sipariş kapsamında uzun teslim süreli kırma ve öğütme teknolojileri sağlanacak.\n\nTedarik edilecek ekipmanlar arasında 1.600 x 3.300 TSUV giratory kırıcı bulunuyor. FLS, bu modeli dünyanın en büyük giratory kırıcı olarak tanımlıyor.",
+      "why_it_matters_tr": "Büyük ölçekli kırma ve öğütme ekipmanları, madencilik projelerinin cevher hazırlama kapasitesi açısından temel bileşenleridir. Bu duyuru, maden genişletmelerinde kullanılan ekipman ölçeğine ilişkin somut bir tedarik gelişmesi sunuyor; ancak kapasite veya performans verisi paylaşılmadığından operasyonel etkisi değerlendirilemiyor.",
+      "seo_title": "FLS, Şili projesine büyük ölçekli TSUV kırıcı sağlayacak",
+      "meta_description": "FLS, kuzey Şili'deki bakır madeni genişletmesi için 360 milyon DKK tutarında sipariş aldığını açıkladı. Pakette 1.600 x 3.300 TSUV kırıcı var.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "FLS, kuzey Şili'deki bakır madeni genişletme projesi için 360 milyon DKK değerinde sipariş aldığını söylüyor.",
+        "Sipariş kırma ve öğütme teknolojilerini kapsıyor.",
+        "Paket kapsamında 1.600 x 3.300 TSUV giratory kırıcı bulunuyor.",
+        "FLS, TSUV modelini dünyanın en büyük giratory kırıcı olarak nitelendiriyor."
+      ],
+      "suggested_tags": [
+        "FLS",
+        "bakır madeni",
+        "giratory kırıcı",
+        "cevher işleme",
+        "Şili"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "FLS'nin 360 milyon DKK tutarında sipariş aldığı bilgisi",
+        "Projenin kuzey Şili'deki bir bakır madeni genişletmesi olması",
+        "Siparişin kırma ve öğütme teknolojilerini kapsaması",
+        "1.600 x 3.300 TSUV giratory kırıcı tedariki ve FLS'nin boyutuna ilişkin nitelemesi"
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfasına erişim 403 hatasıyla engellendi; taslak, sağlanan haber özetiyle sınırlıdır.",
+        "TSUV modelinin dünyanın en büyük giratory kırıcı olduğu bilgisi bağımsız doğrulama değil, FLS'nin nitelemesidir.",
+        "1.600 x 3.300 ölçülerinin birimi ve ekipmanın kapasite ya da performans verileri mevcut metinde belirtilmiyor."
+      ],
+      "generated_at": "2026-10-09T20:04:39.050Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -1032,7 +1090,7 @@
   },
   {
     "id": "27ca92b8295dcbac",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Warrior Tractor Hosts John Deere Demo Open House Near Birmingham, Ala.",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/warrior-tractor-hosts-john-deere-demo-open-house-near-birmingham-ala/72465",
@@ -1045,14 +1103,39 @@
     "editorial_fit_score": 55,
     "summary_source": "Two weeks after Warrior Tractor & Equipment hosted a demonstration of the new John Deere P-Tier excavators and an open house at its Huntsville, Ala....",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Warrior Tractor, Birmingham yakınlarında John Deere tanıtım etkinliği düzenledi",
+      "dek_tr": "Warrior Tractor & Equipment'ın John Deere P-Tier ekskavatörlerine yönelik bir gösterim ve açık kapı etkinliği düzenlediği bildirildi. Sağlanan kısa kaynak metni, ekipmanların teknik özelliklerini açıklamıyor.",
+      "summary_tr": "Construction Equipment Guide başlığı, Warrior Tractor'ın Alabama'da Birmingham yakınlarında John Deere tanıtım etkinliği düzenlediğini bildiriyor. Kısa kaynak özeti, etkinliği yeni P-Tier ekskavatörlerinin gösterimi ve açık kapı günüyle ilişkilendiriyor.\n\nPaylaşılan metinde etkinlikte sergilenen modeller, teknik özellikler veya saha performansı hakkında ayrıntı bulunmuyor. Bu nedenle haber, ürün veya teknoloji gelişmesinden çok bayi etkinliği düzeyinde kalıyor.",
+      "why_it_matters_tr": "Ekskavatör gösterimleri, iş makinesi kullanıcılarının ürünleri sahada görmesine imkân sağlayabilir; ancak bu kaynakta makinenin teknik yeniliği ya da uygulama sonucu belgelenmiyor. Bu nedenle sektör açısından haber değeri sınırlı.",
+      "seo_title": "Warrior Tractor, John Deere ekskavatör etkinliği düzenledi",
+      "meta_description": "Warrior Tractor'ın Birmingham yakınlarında düzenlediği etkinlikte John Deere P-Tier ekskavatörlerinin gösterildiği bildirildi; teknik ayrıntılar paylaşılmadı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Başlığa göre etkinliği Warrior Tractor düzenledi.",
+        "Etkinlik Birmingham, Alabama yakınlarında gerçekleşti.",
+        "Kaynak özeti, John Deere P-Tier ekskavatörlerinin gösterimini ve açık kapı etkinliğini anıyor."
+      ],
+      "suggested_tags": [
+        "Warrior Tractor",
+        "John Deere",
+        "P-Tier",
+        "ekskavatör",
+        "bayi etkinliği"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Başlıktaki Warrior Tractor etkinliği ve Birmingham yakınları bilgisi",
+        "Kaynak özetinde geçen John Deere P-Tier ekskavatör gösterimi ve açık kapı etkinliği"
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfasına erişim 403 hatasıyla engellendi; eldeki özet kesik ve etkinlik ayrıntılarını doğrulamaya yetmiyor.",
+        "Gösterilen modellerin adları ve teknik özellikleri belirtilmiyor."
+      ],
+      "generated_at": "2026-10-09T20:04:39.050Z",
+      "generated_by": "github-models"
     }
   },
   {
