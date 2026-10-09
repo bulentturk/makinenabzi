@@ -176,7 +176,7 @@
   },
   {
     "id": "b60812d92979c878",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Superior Industries makes Titanium Seal its conveyor idler standard",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/10/09/superior-industries-makes-titanium-seal-its-conveyor-idler-standard/",
@@ -191,14 +191,40 @@
     "editorial_fit_score": 67,
     "summary_source": "Superior Industries, Inc., a US-based manufacturer and global supplier of bulk material processing and handling systems, is making its Titanium™ Seal standard on all of its conveyor idlers. Previously available as a premium option, the patented seal is designed to protect bearings from contamination and extend idler life by at least 25% compared with other The post Superior Industries makes Titanium Seal its conveyor idler standard appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Superior Industries, Titanium Seal’i konveyör avaralarında standartlaştırıyor",
+      "dek_tr": "Superior Industries, Titanium Seal’i tüm konveyör avaralarında standart donanım yapacağını duyurdu. Şirket, rulmanları kirlenmeye karşı korumayı amaçlayan bu keçenin avara ömrünü en az yüzde 25 artırdığını belirtiyor.",
+      "summary_tr": "ABD merkezli dökme malzeme işleme ve taşıma sistemleri üreticisi Superior Industries, daha önce üst donanım seçeneği olarak sunulan Titanium Seal’i tüm konveyör avaralarında standart hale getiriyor.\n\nŞirket, patentli keçenin rulmanları kirlenmeye karşı korumak üzere tasarlandığını ve diğer çözümlere kıyasla avara ömrünü en az yüzde 25 artırdığını bildiriyor.",
+      "why_it_matters_tr": "Madenlerde konveyör avaralarının kirlenmeye karşı korunması, taşıma sistemlerinin bakım ve değişim ihtiyacını etkileyebilir. Şirketin ömür artışı iddiası bağımsız saha verisiyle doğrulanmadığından, gerçek işletme koşullarındaki etkisi ayrıca değerlendirilmelidir.",
+      "seo_title": "Superior, Titanium Seal’i konveyör avaralarında standart yapıyor",
+      "meta_description": "Superior Industries, Titanium Seal’i tüm konveyör avaralarında standart donanım yapıyor. Üretici, rulman koruması ve en az yüzde 25 ömür artışı bildiriyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Titanium Seal tüm Superior Industries konveyör avaralarında standart olacak.",
+        "Keçe daha önce premium seçenek olarak sunuluyordu.",
+        "Üretici, rulman koruması ve en az yüzde 25 avara ömrü artışı iddiasında bulunuyor."
+      ],
+      "suggested_tags": [
+        "Superior Industries",
+        "konveyör",
+        "avara",
+        "rulman keçesi",
+        "madencilik"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Superior Industries’in Titanium Seal’i tüm konveyör avaralarında standartlaştırma kararı",
+        "Keçenin daha önce premium seçenek olarak sunulması",
+        "Şirketin rulmanların kirlenmeye karşı korunması ve en az yüzde 25 ömür artışı hakkındaki beyanı"
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfasına erişim 403 hatasıyla sınırlı; keçe tasarımı ve karşılaştırmanın hangi ürünlere ya da koşullara dayandığı açıklanamıyor.",
+        "En az yüzde 25 ömür artışı üreticinin iddiasıdır; bağımsız doğrulama veya test koşulları sağlanan kaynakta yer almıyor."
+      ],
+      "generated_at": "2026-10-09T11:36:27.368Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -312,7 +338,7 @@
   },
   {
     "id": "76c3488f62ae9bee",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Hexagon out to connect sensor measurements with Rocscience software models",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/10/09/hexagon-out-to-connect-sensor-measurements-with-rocscience-software-models/",
@@ -328,14 +354,43 @@
     "editorial_fit_score": 79,
     "summary_source": "Hexagon AB has signed an agreement to acquire Rocscience, a provider of geotechnical and engineering analysis software, from TA Associates and Rocscience’s founders and management. Rocscience will become part of the Radar & Monitoring Division within Hexagon’s Infrastructure & Geospatial Business Area. Hexagon said: “Customers in mining and infrastructure require early understanding of geological risks, The post Hexagon out to connect sensor measurements with Rocscience software models appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Hexagon, Rocscience’ı satın almak için anlaşma imzaladı",
+      "dek_tr": "Hexagon, jeoteknik ve mühendislik analiz yazılımları sağlayıcısı Rocscience’ı bünyesine katmak üzere anlaşmaya vardı. Şirket, Rocscience’ı Radar & Monitoring Division’a dahil etmeyi planlıyor.",
+      "summary_tr": "Hexagon AB, Rocscience’ı TA Associates ile Rocscience’ın kurucuları ve yönetiminden satın almak için anlaşma imzaladığını bildirdi. Rocscience, jeoteknik ve mühendislik analiz yazılımları geliştiriyor.\n\nPlanlanan satın alma sonrasında Rocscience’ın Hexagon’ın Infrastructure & Geospatial iş alanındaki Radar & Monitoring Division bünyesinde yer alacağı belirtildi. Hexagon, madencilik ve altyapı müşterilerinin jeolojik riskleri erken anlamaya ihtiyaç duyduğunu ifade etti.",
+      "why_it_matters_tr": "Madencilikte jeoteknik analiz yazılımlarının saha izleme çözümleriyle aynı iş alanında buluşması, ölçüm verileri ile mühendislik modellerini birlikte değerlendirme olanağı yaratabilir. Bu olası faydanın kapsamı ve uygulama biçimi mevcut kaynakta açıklanmıyor.",
+      "seo_title": "Hexagon, jeoteknik yazılım şirketi Rocscience’ı alıyor",
+      "meta_description": "Hexagon, jeoteknik ve mühendislik analiz yazılımları sağlayıcısı Rocscience’ı satın almak için anlaşma imzaladı. Rocscience’ın Hexagon’daki yeni birimi de açıklandı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Hexagon, Rocscience’ı satın almak için anlaşma imzaladı.",
+        "Rocscience jeoteknik ve mühendislik analiz yazılımları sağlıyor.",
+        "Rocscience’ın Hexagon bünyesinde Radar & Monitoring Division’a katılması planlanıyor."
+      ],
+      "suggested_tags": [
+        "Hexagon",
+        "Rocscience",
+        "jeoteknik",
+        "madencilik",
+        "saha izleme"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektronik-telematik"
+      ],
+      "source_facts_used": [
+        "Hexagon’ın Rocscience’ı mevcut sahiplerinden satın almak üzere anlaşma imzalaması",
+        "Rocscience’ın jeoteknik ve mühendislik analiz yazılımları sağlayıcısı olması",
+        "Rocscience’ın Hexagon’ın Radar & Monitoring Division birimine katılmasının planlanması",
+        "Hexagon’ın madencilik ve altyapıda jeolojik risklerin erken anlaşılmasına ilişkin açıklaması"
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfasına erişim 403 hatasıyla sınırlı; satın alma bedeli, kapanış koşulları ve zamanlaması doğrulanamadı.",
+        "Sensör ölçümleri ile yazılım modellerinin nasıl entegre edileceğine ilişkin başlıkta ima edilen yaklaşım, sağlanan kaynak metninde ayrıntılandırılmıyor."
+      ],
+      "generated_at": "2026-10-09T11:36:27.368Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -1375,7 +1430,7 @@
   },
   {
     "id": "d45364b0995d3420",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Tunnel Monitoring’s Real Bottleneck Isn’t the Sensor: It’s the Data Silo",
     "source_name": "Tunnels & Tunnelling",
     "source_url": "https://www.tunnelsandtunnelling.com/analysis/tunnel-monitorings-real-bottleneck-isnt-the-sensor-its-the-data-silo/",
@@ -1390,14 +1445,42 @@
     "editorial_fit_score": 67,
     "summary_source": "The post Tunnel Monitoring’s Real Bottleneck Isn’t the Sensor: It’s the Data Silo appeared first on Tunnels and Tunnelling.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Tünel izlemede darboğaz sensör değil, veri siloları",
+      "dek_tr": "TotaLite Genel Müdürü Epco Berger’in analizine göre tünel izlemede asıl fırsat, ölçüm verilerinin birbirinden kopuk sistemlerde kalmamasında. Sayfa açıklaması, canlı inşaat sahasının yakınında sürekli optik izlemenin otomatik total station ile 2 mm içinde eşleştiğini belirtiyor.",
+      "summary_tr": "Tunnels & Tunnelling’de yayımlanan analiz, geleneksel ve tünel açma makinesiyle (TBM) yürütülen tünel projelerinde izleme verilerinin farklı sistemlerde dağınık kalmasını temel bir sorun olarak ele alıyor. Yazı, TotaLite Genel Müdürü Epco Berger tarafından kaleme alınmış.\n\nSayfa açıklamasında, canlı inşaatın yakınında yapılan sürekli optik izlemenin otomatik total station ölçümleriyle 2 mm içinde eşleştiği belirtiliyor. Bu karşılaştırmanın yöntemine, kapsamına veya test koşullarına dair ek ayrıntı mevcut kaynak metninde verilmemiş.",
+      "why_it_matters_tr": "Tünel projelerinde ölçüm verilerinin ortak biçimde değerlendirilmesi, sahadaki izleme ile mühendislik kararları arasındaki bilgi akışını iyileştirme potansiyeli taşır. Farklı ölçüm sistemlerinin doğruluk ve uyumluluk iddiaları, proje koşullarına ve bağımsız doğrulamaya göre ele alınmalıdır.",
+      "seo_title": "Tünel izlemede veri siloları ve ölçüm sistemleri",
+      "meta_description": "TotaLite Genel Müdürü Epco Berger, tünel izlemede veri silolarını ele alıyor. Sayfa açıklamasına göre optik izleme, total station ile 2 mm içinde eşleşiyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Yazı, tünel izleme verilerinin sistemler arasında silo halinde kalmasını konu alıyor.",
+        "Analizin yazarı TotaLite Genel Müdürü Epco Berger.",
+        "Sayfa açıklaması, sürekli optik izleme ile otomatik total station arasında 2 mm içinde eşleşme bildiriyor."
+      ],
+      "suggested_tags": [
+        "tünel izleme",
+        "jeodezik ölçüm",
+        "optik izleme",
+        "TBM",
+        "veri entegrasyonu"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "gorus-analiz",
+      "suggested_technologies": [
+        "elektronik-telematik"
+      ],
+      "source_facts_used": [
+        "Yazının geleneksel ve TBM tünel açma konularındaki analiz olarak sunulması",
+        "Yazının TotaLite Genel Müdürü Epco Berger tarafından hazırlanması",
+        "Sayfa açıklamasında optik izleme ile otomatik total station ölçümleri arasında 2 mm içinde eşleşme bildirilmesi"
+      ],
+      "uncertainty_notes": [
+        "Kaynak metni tam makale yerine yalnızca konu başlığını içeriyor; özet ve teknik ayrıntılar sayfa açıklamasıyla sınırlı.",
+        "2 mm eşleşme bilgisi kaynak sayfa açıklamasında yer alıyor; ölçüm yöntemi ve bağımsız doğrulama bilgisi sağlanmıyor."
+      ],
+      "generated_at": "2026-10-09T11:36:27.368Z",
+      "generated_by": "github-models"
     }
   },
   {
