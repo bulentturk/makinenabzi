@@ -1938,7 +1938,7 @@
   },
   {
     "id": "1435e858f764b7f4",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Refurbished TBM ready for second Grand Paris Express drive",
     "source_name": "Tunnels & Tunnelling",
     "source_url": "https://www.tunnelsandtunnelling.com/news/refurbished-tbm-ready-for-second-grand-paris-express-drive/",
@@ -1951,14 +1951,37 @@
     "editorial_fit_score": 55,
     "summary_source": "Refurbished TBM ready for second Grand Paris Express drive TBM Roberta was previously deployed on Line 16 of the Grand Paris Express. The post Refurbished TBM ready for second Grand Paris Express drive appeared first on Tunnels and Tunnelling.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Yenilenen TBM Roberta, Grand Paris Express’te ikinci tünel sürüşüne hazırlanıyor",
+      "dek_tr": "Daha önce Grand Paris Express’in 16. Hattı’nda kullanılan TBM Roberta yenilendi. Makine, projenin ikinci sürüşü için hazır durumda.",
+      "summary_tr": "TBM Roberta, Grand Paris Express’in 16. Hattı’nda daha önce kullanıldı. Tünelcilik kaynağının aktardığına göre makine yenileme çalışmalarının ardından projenin ikinci sürüşü için hazır.\n\nPaylaşılan bilgilerde yeni sürüşün güzergâhı, başlangıç tarihi ve yenileme kapsamında yapılan teknik değişiklikler yer almıyor.",
+      "why_it_matters_tr": "Bir tünel açma makinesinin yenilenerek yeni bir sürüşte kullanılması, büyük ölçekli altyapı projelerinde ekipmanın yeniden değerlendirilmesine ilişkin bir örnek. Yenilemenin kapsamı açıklanmadığından, bunun makinenin performansına veya kullanım ömrüne etkisi hakkında çıkarım yapılamıyor.",
+      "seo_title": "TBM Roberta Grand Paris Express’te ikinci sürüşe hazırlanıyor",
+      "meta_description": "Daha önce Grand Paris Express’in 16. Hattı’nda kullanılan TBM Roberta yenilendi. Makinenin ikinci sürüşü için hazır olduğu bildirildi.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "TBM Roberta daha önce Grand Paris Express’in 16. Hattı’nda kullanıldı.",
+        "Makine yenilendi ve Grand Paris Express’te ikinci sürüşüne hazır olduğu bildirildi."
+      ],
+      "suggested_tags": [
+        "TBM",
+        "tünel açma makinesi",
+        "Grand Paris Express",
+        "makine yenileme"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "TBM Roberta’nın daha önce Grand Paris Express’in 16. Hattı’nda kullanıldığı bilgisi.",
+        "Makinenin yenilendiği ve projenin ikinci sürüşüne hazır olduğunun bildirildiği bilgisi."
+      ],
+      "uncertainty_notes": [
+        "Kaynak özeti; yenileme kapsamı, teknik değişiklikler, sonraki sürüşün güzergâhı ve takvimi hakkında ayrıntı vermiyor.",
+        "Yenilemeye ilişkin performans veya kullanım ömrü iddialarını doğrulayacak bağımsız veri sunulmuyor."
+      ],
+      "generated_at": "2026-10-10T10:54:00.297Z",
+      "generated_by": "github-models"
     }
   }
 ]
