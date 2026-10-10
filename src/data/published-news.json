@@ -1,5 +1,34 @@
 [
   {
+    "id": "6cc0a743a32aa1b3",
+    "slug": "bosch-rexroth-owasys-ile-mobil-makine-telematigini-genisletiyor",
+    "title": "Bosch Rexroth, Owasys ile mobil makine telematiğini genişletiyor",
+    "dek": "Bosch Rexroth, mobil makinelere yönelik IoT ve telematik portföyünü iş birlikleriyle genişletmeyi planlıyor. Owasys, açıklanan yaklaşımın ilk iş ortağı olarak belirtiliyor.",
+    "summary": "iVT International’ın aktardığına göre Bosch Rexroth, off-highway makinelerine yönelik IoT ve telematik portföyünü bir dizi iş birliğiyle genişletmeyi planlıyor. Telematik uzmanı Owasys, bu kapsamda adı verilen ilk iş ortağı.\n\nPaylaşılan kaynak özeti, iş birliğinin teknik kapsamı, uyumlu ürünler veya uygulama takvimi hakkında ayrıntı vermiyor.",
+    "why_it_matters": "Makine telematiği; iş ve mobil makinelerde bağlantılı izleme ve veri aktarımı için kullanılabildiğinden, yeni iş ortaklıkları bu sistemlerin makine üreticilerine sunulma biçimini etkileyebilir. Ancak bu duyuruda entegrasyonun kapsamı açıklanmadığı için pratik etkisi henüz değerlendirilemiyor.",
+    "key_facts": [
+      "Bosch Rexroth, mobil/off-highway makinelerine yönelik IoT ve telematik portföyünü iş birlikleriyle genişletmeyi planlıyor.",
+      "Owasys, açıklamada ilk iş ortağı olarak anılıyor."
+    ],
+    "format": "haber",
+    "sector": "is-makinalari",
+    "technologies": [
+      "elektronik-telematik"
+    ],
+    "tags": [
+      "Bosch Rexroth",
+      "Owasys",
+      "mobil makine",
+      "telematik",
+      "IoT"
+    ],
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/news/electronics/bosch-rexroth-expands-telematics-portfolio-with-owasys.html",
+    "source_published_at": "2026-10-08T09:14:18.000Z",
+    "site_published_at": "2026-10-10T20:49:30.708Z",
+    "hero_image": ""
+  },
+  {
     "id": "b60812d92979c878",
     "slug": "superior-industries-titanium-seal-i-konveyor-avaralarinda-standartlastiriyor",
     "title": "Superior Industries, Titanium Seal’i konveyör avaralarında standartlaştırıyor",
