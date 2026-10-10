@@ -1,5 +1,36 @@
 [
   {
+    "id": "3d0d54a8423de283",
+    "slug": "beml-60-ton-sinifi-bh60-ev-elektrikli-maden-kamyonunu-tanitti",
+    "title": "BEML, 60 ton sınıfı BH60-EV elektrikli maden kamyonunu tanıttı",
+    "dek": "BEML, BH60-EV adlı bataryalı elektrikli damperli kamyonunu Mysuru tesisinde tanıttığını bildirdi. Şirket, aracı Hindistan’da yerli olarak tasarlanıp geliştirilen ilk 60 ton sınıfı elektrikli maden kamyonu olarak nitelendiriyor.",
+    "summary": "BEML Ltd, BH60-EV modelini Mysuru Kompleksi’nde tanıttı. Kaynağa göre bataryalı elektrikli damperli kamyon 60 ton sınıfında ve madencilik ile altyapı sektörlerini hedefliyor.\n\nBEML, aracın Hindistan’da yerli olarak tasarlanıp geliştirilen ilk 60 ton sınıfı bataryalı elektrikli kamyon olduğunu belirtiyor. Kaynakta batarya kapasitesi, menzil, şarj süresi veya saha testlerine ilişkin ayrıntı bulunmuyor.",
+    "why_it_matters": "Bu sınıfta bataryalı elektrikli bir maden kamyonunun geliştirilmesi, yüksek taşıma kapasiteli saha araçlarında elektrifikasyonun uygulanabilirliğine ilişkin sektör ilgisini artırabilir. Ancak işletme performansı ve saha koşullarındaki sonuçlar için teknik veri ve bağımsız doğrulama gerekli.",
+    "key_facts": [
+      "Model adı BH60-EV.",
+      "BEML aracı Mysuru Kompleksi’nde tanıttı.",
+      "Kaynak aracı 60 ton sınıfında bataryalı elektrikli damperli kamyon olarak tanımlıyor.",
+      "BEML, aracın yerli olarak tasarlanıp geliştirildiğini ve Hindistan’da bu sınıfta ilk olduğunu söylüyor."
+    ],
+    "format": "haber",
+    "sector": "madencilik",
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "tags": [
+      "BEML",
+      "BH60-EV",
+      "elektrikli maden kamyonu",
+      "madencilik",
+      "bataryalı elektrikli araç"
+    ],
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/10/02/beml-unveils-indias-first-battery-electric-60-t-class-mining-truck/",
+    "source_published_at": "2026-10-02T04:36:21.000Z",
+    "site_published_at": "2026-10-10T16:17:53.587Z",
+    "hero_image": ""
+  },
+  {
     "id": "76c3488f62ae9bee",
     "slug": "hexagon-rocscience-i-satin-almak-icin-anlasma-imzaladi",
     "title": "Hexagon, Rocscience’ı satın almak için anlaşma imzaladı",
