@@ -283,7 +283,7 @@
   },
   {
     "id": "3d0d54a8423de283",
-    "status": "drafted",
+    "status": "published",
     "title_original": "BEML unveils India’s first battery electric 60 t class mining truck",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/10/02/beml-unveils-indias-first-battery-electric-60-t-class-mining-truck/",
@@ -305,7 +305,7 @@
       "seo_title": "BEML BH60-EV: 60 ton sınıfında elektrikli maden kamyonu",
       "meta_description": "BEML, 60 ton sınıfındaki bataryalı elektrikli BH60-EV maden kamyonunu tanıttı. Teknik performans, batarya ve saha testlerine ilişkin veri paylaşılmadı.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Model adı BH60-EV.",
         "BEML aracı Mysuru Kompleksi’nde tanıttı.",
@@ -335,7 +335,9 @@
         "Batarya, menzil, şarj, performans, üretim takvimi ve saha denemeleri hakkında bilgi verilmemiş."
       ],
       "generated_at": "2026-10-02T10:49:36.070Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-10T18:53:14.286Z",
+      "review_result": "published"
     }
   },
   {
