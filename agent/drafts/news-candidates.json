@@ -173,7 +173,7 @@
   },
   {
     "id": "6cc0a743a32aa1b3",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Bosch Rexroth expands telematics portfolio with Owasys",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/electronics/bosch-rexroth-expands-telematics-portfolio-with-owasys.html",
@@ -195,7 +195,7 @@
       "seo_title": "Bosch Rexroth ve Owasys’ten mobil makine telematiği",
       "meta_description": "Bosch Rexroth, mobil ve off-highway makinelerine yönelik IoT ve telematik portföyünü iş birlikleriyle genişletiyor; Owasys ilk ortak olarak açıklandı.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Bosch Rexroth, mobil/off-highway makinelerine yönelik IoT ve telematik portföyünü iş birlikleriyle genişletmeyi planlıyor.",
         "Owasys, açıklamada ilk iş ortağı olarak anılıyor."
@@ -220,7 +220,9 @@
         "Kaynak özeti dışında haber metnine erişim sağlanamamış; iş birliğinin teknik kapsamı, ürünleri ve takvimi doğrulanamıyor."
       ],
       "generated_at": "2026-10-08T11:43:21.484Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-10T20:57:24.005Z",
+      "review_result": "published"
     }
   },
   {
