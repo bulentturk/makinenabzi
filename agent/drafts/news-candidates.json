@@ -118,7 +118,7 @@
   },
   {
     "id": "b60812d92979c878",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Superior Industries makes Titanium Seal its conveyor idler standard",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/10/09/superior-industries-makes-titanium-seal-its-conveyor-idler-standard/",
@@ -140,7 +140,7 @@
       "seo_title": "Superior, Titanium Seal’i konveyör avaralarında standart yapıyor",
       "meta_description": "Superior Industries, Titanium Seal’i tüm konveyör avaralarında standart donanım yapıyor. Üretici, rulman koruması ve en az yüzde 25 ömür artışı bildiriyor.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Titanium Seal tüm Superior Industries konveyör avaralarında standart olacak.",
         "Keçe daha önce premium seçenek olarak sunuluyordu.",
@@ -166,7 +166,9 @@
         "En az yüzde 25 ömür artışı üreticinin iddiasıdır; bağımsız doğrulama veya test koşulları sağlanan kaynakta yer almıyor."
       ],
       "generated_at": "2026-10-09T11:36:27.368Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-10T20:49:24.899Z",
+      "review_result": "published"
     }
   },
   {
