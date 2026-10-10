@@ -1,5 +1,34 @@
 [
   {
+    "id": "3a4d35e6ceeb8cb9",
+    "slug": "bmw-ix3-m60-xdrive-450-kw-gucle-tanitildi",
+    "title": "BMW iX3 M60 xDrive 450 kW güçle tanıtıldı",
+    "dek": "BMW, iX3 serisinin 450 kW gücündeki M60 xDrive versiyonunu tanıttı. Kaynak, 0-100 km/s hızlanmasını 3,9 saniye olarak veriyor; siparişlerin Ocak 2027 sonunda açılması planlanıyor.",
+    "summary": "electrive’ın aktardığı bilgilere göre BMW iX3 M60 xDrive, model serisinin en güçlü aktarma seçeneği olarak sunuluyor. Gücü 450 kW olarak belirtilen araç için 0’dan 100 km/s hıza 3,9 saniyede ulaşma değeri veriliyor.\n\nBMW’nin siparişleri Ocak 2027 sonunda açmayı planladığı aktarılıyor. Bu bilgiler binek elektrikli SUV’a ilişkin; kaynakta mobil makinelere aktarılabilecek bir teknik uygulama veya bileşen gelişmesi yer almıyor.",
+    "why_it_matters": "Elektrikli aktarma sistemleri mobil makineler için genel ilgi taşısa da bu duyuru binek SUV performansına odaklanıyor ve off-highway, tarım, maden, liman ya da GSE uygulamalarına yönelik belirgin bir teknik bağlantı göstermiyor. Bu nedenle Makine Nabzı’nın makine sektörü açısından haber değeri sınırlı.",
+    "key_facts": [
+      "BMW iX3 M60 xDrive için 450 kW güç değeri veriliyor.",
+      "Kaynak, 0-100 km/s hızlanmasını 3,9 saniye olarak bildiriyor.",
+      "Siparişlerin Ocak 2027 sonunda açılması planlanıyor."
+    ],
+    "format": "haber",
+    "sector": "elektrifikasyon",
+    "technologies": [
+      "yuruyus-guc-aktarma"
+    ],
+    "tags": [
+      "BMW",
+      "iX3 M60 xDrive",
+      "elektrikli araç",
+      "elektrikli aktarma"
+    ],
+    "source_name": "electrive",
+    "source_url": "https://www.electrive.com/2026/10/08/100-km-h-in-3-9-seconds-bmw-unveils-the-upgraded-ix3/",
+    "source_published_at": "2026-10-07T22:02:00.000Z",
+    "site_published_at": "2026-10-10T20:57:24.028Z",
+    "hero_image": ""
+  },
+  {
     "id": "6cc0a743a32aa1b3",
     "slug": "bosch-rexroth-owasys-ile-mobil-makine-telematigini-genisletiyor",
     "title": "Bosch Rexroth, Owasys ile mobil makine telematiğini genişletiyor",
