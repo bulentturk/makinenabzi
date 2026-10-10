@@ -397,7 +397,7 @@
   },
   {
     "id": "9cfcccf02c47a047",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Electric drivetrain on the Agrifac sprayer",
     "source_name": "Powertrain International Off-Highway",
     "source_url": "https://www.powertraininternationalweb.com/off-highway/agrifac-sprayer-electrification-world-agritech/",
@@ -420,7 +420,7 @@
       "seo_title": "Agrifac pülverizatörleri için elektrikli tahrik platformu",
       "meta_description": "Agrifac’ın yeni platformu pülverizatörleri dizel-elektrik, hibrit veya tam elektrikli sunuyor. Hibrit sürümün güç değerleri ve üretici tasarruf tahminleri.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Yeni platform, dizel-elektrik, hibrit ve tam elektrikli konfigürasyonları destekliyor.",
         "Hibritte dört silindirli dizel motor bataryayı şarj eden menzil uzatıcı olarak kullanılıyor.",
@@ -451,7 +451,9 @@
         "Dizel-elektrik ve tam elektrikli konfigürasyonların güç değerleri henüz kesinleşmemiş."
       ],
       "generated_at": "2026-10-08T20:39:04.732Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-10T16:17:14.945Z",
+      "review_result": "published"
     }
   },
   {
