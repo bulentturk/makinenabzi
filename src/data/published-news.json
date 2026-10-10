@@ -1,5 +1,37 @@
 [
   {
+    "id": "9cfcccf02c47a047",
+    "slug": "agrifac-puskurtme-makineleri-icin-elektrikli-tahrik-platformu-sunuyor",
+    "title": "Agrifac, püskürtme makineleri için elektrikli tahrik platformu sunuyor",
+    "dek": "Agrifac’ın yeni platformu, kendinden yürür tarla pülverizatörünün dizel-elektrik, hibrit veya tam elektrikli konfigürasyonda sunulmasına olanak veriyor. Seçenekler, elektriğin üretilme ve depolanma biçimine göre ayrılıyor.",
+    "summary": "Habere göre Agrifac, mevcut nesil kendinden yürür pülverizatörleri için ortak bir elektrikli tahrik altyapısı geliştirdi. Dizel-elektrik seçeneğinde altı silindirli dizel motor jeneratörü besliyor; hibritte daha küçük dört silindirli motor bataryayı gerektiğinde şarj ederek menzil uzatıcı görevi görüyor. Tam elektrikli sürüm ise harici olarak şarj edilen bataryayla çalışıyor.\n\nKaynak, hibrit seçeneğin sürekli 301 hp, kısa süreli olarak 447 hp’ye kadar güç sağlayabildiğini bildiriyor. Dizel-elektrik ve tam elektrikli sürümlerin güç değerleri henüz kesinleşmemiş; her iki konfigürasyon için de geleneksel makineye en az eşdeğer güç hedefleniyor.\n\nHaberde üreticinin tahminleri olarak dizel-elektrik modelde yaklaşık yüzde 35, hibritte yaklaşık yüzde 50 yakıt tasarrufu ve elektrikli tahrikte yüzde 95’in üzerinde verimlilik aktarılıyor. Tam elektrikli seçeneğin yerel emisyonsuz çalışabileceği belirtilirken, uygun konfigürasyonun uygulamaya ve şarj altyapısına bağlı olduğu vurgulanıyor.",
+    "why_it_matters": "Tarla pülverizatörlerinde aynı makine platformunun farklı enerji konfigürasyonlarına uyarlanması, filoların iş profili ve şarj altyapısına göre seçim yapmasına imkân verebilir. Bu yaklaşımın pratik verim ve tasarruf sonuçları ise bağımsız saha verileriyle değerlendirilmelidir.",
+    "key_facts": [
+      "Yeni platform, dizel-elektrik, hibrit ve tam elektrikli konfigürasyonları destekliyor.",
+      "Hibritte dört silindirli dizel motor bataryayı şarj eden menzil uzatıcı olarak kullanılıyor.",
+      "Habere göre hibrit sürüm 301 hp sürekli, 447 hp'ye kadar kısa süreli güç sunuyor.",
+      "Kaynak, dizel-elektrik ve hibrit sürümler için sırasıyla yaklaşık yüzde 35 ve yüzde 50 yakıt tasarrufu öngörüyor."
+    ],
+    "format": "haber",
+    "sector": "tarim",
+    "technologies": [
+      "elektrifikasyon",
+      "yuruyus-guc-aktarma"
+    ],
+    "tags": [
+      "Agrifac",
+      "tarım makineleri",
+      "pülverizatör",
+      "elektrikli tahrik",
+      "hibrit"
+    ],
+    "source_name": "Powertrain International Off-Highway",
+    "source_url": "https://www.powertraininternationalweb.com/off-highway/agrifac-sprayer-electrification-world-agritech/",
+    "source_published_at": "2026-10-08T15:56:59.000Z",
+    "site_published_at": "2026-10-10T16:15:34.637Z",
+    "hero_image": ""
+  },
+  {
     "id": "72fcad5ed8e3be2f",
     "slug": "breton-elektrikli-maden-kamyonlarinda-yurt-disi-pazarlara-acilmayi-hedefliyor",
     "title": "Breton, elektrikli maden kamyonlarında yurt dışı pazarlara açılmayı hedefliyor",
