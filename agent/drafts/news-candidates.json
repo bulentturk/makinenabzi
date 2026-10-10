@@ -61,66 +61,6 @@
     }
   },
   {
-    "id": "72fcad5ed8e3be2f",
-    "status": "published",
-    "title_original": "China’s BEV mining truck supplier Breton looks to grow in overseas markets",
-    "source_name": "International Mining",
-    "source_url": "https://im-mining.com/2026/09/30/chinas-bev-mining-truck-supplier-breton-looks-to-grow-in-overseas-markets/",
-    "source_feed": "https://im-mining.com/feed/",
-    "published_at": "2026-09-30T15:25:46.000Z",
-    "discovered_at": "2026-09-30T19:55:24.175Z",
-    "sector": "madencilik",
-    "technologies": [
-      "elektrifikasyon",
-      "otonomi-ai"
-    ],
-    "relevance_score": 166,
-    "editorial_fit_score": 89,
-    "summary_source": "There is a definite push from Chinese suppliers of electric and autonomous mining trucks, many of whom also offer associated microgrid infrastructure solutions, to try to access potentially lucrative overseas markets – especially Latin America, Africa, SE Asia and Australia. And this includes other players in addition to the better known giants like XCMG, SANY, The post China’s BEV mining truck supplier Breton looks to grow in overseas markets appeared first on International Mining.",
-    "editorial": {
-      "title_tr": "Breton, elektrikli maden kamyonlarında yurt dışı pazarlara açılmayı hedefliyor",
-      "dek_tr": "International Mining’in haber başlığı, Çinli Breton’un bataryalı elektrikli maden kamyonu tedarikçisi olarak yurt dışı pazarlarda büyümeyi hedeflediğini aktarıyor. Kaynak özeti, Çinli tedarikçilerin elektrikli ve otonom maden kamyonları için özellikle Latin Amerika, Afrika, Güneydoğu Asya ve Avustralya’ya yöneldiğini belirtiyor.",
-      "summary_tr": "International Mining’in erişilebilen özetine göre Çinli elektrikli ve otonom maden kamyonu tedarikçileri, yurt dışı pazarlara açılmaya çalışıyor. Breton, haber başlığında bu tedarikçilerden biri olarak anılıyor.\n\nÖzette Latin Amerika, Afrika, Güneydoğu Asya ve Avustralya öne çıkan pazarlar olarak sıralanıyor. Bazı tedarikçilerin kamyonlarla birlikte mikroşebeke çözümleri de sunduğu belirtiliyor; ancak Breton’a özgü ürün ve pazar ayrıntıları verilmemiş.",
-      "why_it_matters_tr": "Bataryalı maden kamyonlarının yeni pazarlara sunulması, maden sahalarında araçların yanı sıra enerji altyapısının da planlanmasını gerektirebilir. Kaynak, Breton’un bu pazarlardaki somut uygulamalarını veya teknik özelliklerini doğrulamaya yetecek ayrıntı içermiyor.",
-      "seo_title": "Breton elektrikli maden kamyonlarında yurt dışına yöneliyor",
-      "meta_description": "Breton’un elektrikli maden kamyonlarında yurt dışı pazarlara açılma hedefi ve Çinli tedarikçilerin yöneldiği bölgeler. Ürün ayrıntıları kaynakta sınırlı.",
-      "hero_image": "",
-      "reviewed": true,
-      "key_facts": [
-        "Haber başlığı Breton’u Çinli bataryalı elektrikli maden kamyonu tedarikçisi olarak tanımlıyor.",
-        "Kaynak özeti, Çinli elektrikli ve otonom maden kamyonu tedarikçilerinin yurt dışı pazarlara açılma eğiliminden söz ediyor.",
-        "Özette Latin Amerika, Afrika, Güneydoğu Asya ve Avustralya hedef pazarlar arasında sayılıyor.",
-        "Özete göre bazı tedarikçiler mikroşebeke çözümleri de sunuyor."
-      ],
-      "suggested_tags": [
-        "Breton",
-        "elektrikli maden kamyonu",
-        "bataryalı elektrikli araç",
-        "maden makineleri",
-        "mikroşebeke"
-      ],
-      "suggested_sector": "madencilik",
-      "editorial_format": "haber",
-      "suggested_technologies": [
-        "elektrifikasyon"
-      ],
-      "source_facts_used": [
-        "Haber başlığındaki Breton ve bataryalı elektrikli maden kamyonu tedarikçisi tanımı",
-        "Özette belirtilen Çinli tedarikçilerin yurt dışı pazarlara yönelmesi",
-        "Özette sıralanan bölgeler ve bazı tedarikçilerin mikroşebeke çözümleri sunduğu bilgisi"
-      ],
-      "uncertainty_notes": [
-        "Kaynak sayfası HTTP 403 nedeniyle alınamadı; taslak yalnızca başlık ve kısa özetten oluşturuldu.",
-        "Breton’un belirli modelleri, teknik özellikleri, doğrulanmış saha uygulamaları ve adı geçen bölgelerdeki faaliyetleri kaynak özetinde yer almıyor.",
-        "Otonomi ve mikroşebeke bilgileri genel tedarikçi eğilimi olarak verilmiş; Breton’a özel oldukları doğrulanmıyor."
-      ],
-      "generated_at": "2026-09-30T19:56:27.622Z",
-      "generated_by": "github-models",
-      "reviewed_at": "2026-10-10T16:15:33.196Z",
-      "review_result": "published"
-    }
-  },
-  {
     "id": "11b4654893e0559d",
     "status": "drafted",
     "title_original": "Dyno Nobel prototypes autonomous blasthole inspection & loading technology",
@@ -279,65 +219,6 @@
       ],
       "generated_at": "2026-10-08T11:43:21.484Z",
       "generated_by": "github-models"
-    }
-  },
-  {
-    "id": "3d0d54a8423de283",
-    "status": "published",
-    "title_original": "BEML unveils India’s first battery electric 60 t class mining truck",
-    "source_name": "International Mining",
-    "source_url": "https://im-mining.com/2026/10/02/beml-unveils-indias-first-battery-electric-60-t-class-mining-truck/",
-    "source_feed": "https://im-mining.com/feed/",
-    "published_at": "2026-10-02T04:36:21.000Z",
-    "discovered_at": "2026-10-02T10:48:42.683Z",
-    "sector": "madencilik",
-    "technologies": [
-      "elektrifikasyon"
-    ],
-    "relevance_score": 158,
-    "editorial_fit_score": 77,
-    "summary_source": "BEML Ltd has unveiled India’s first indigenously designed and developed 60 t class battery electric dump truck, the BH60-EV, at its Mysuru Complex, it says marking a significant milestone in the development of high-capacity electric mobility solutions for the mining and infrastructure sectors. The next-generation electric dump truck was virtually launched by Shri Shantanu Roy, The post BEML unveils India’s first battery electric 60 t class mining truck appeared first on International Mining.",
-    "editorial": {
-      "title_tr": "BEML, 60 ton sınıfı BH60-EV elektrikli maden kamyonunu tanıttı",
-      "dek_tr": "BEML, BH60-EV adlı bataryalı elektrikli damperli kamyonunu Mysuru tesisinde tanıttığını bildirdi. Şirket, aracı Hindistan’da yerli olarak tasarlanıp geliştirilen ilk 60 ton sınıfı elektrikli maden kamyonu olarak nitelendiriyor.",
-      "summary_tr": "BEML Ltd, BH60-EV modelini Mysuru Kompleksi’nde tanıttı. Kaynağa göre bataryalı elektrikli damperli kamyon 60 ton sınıfında ve madencilik ile altyapı sektörlerini hedefliyor.\n\nBEML, aracın Hindistan’da yerli olarak tasarlanıp geliştirilen ilk 60 ton sınıfı bataryalı elektrikli kamyon olduğunu belirtiyor. Kaynakta batarya kapasitesi, menzil, şarj süresi veya saha testlerine ilişkin ayrıntı bulunmuyor.",
-      "why_it_matters_tr": "Bu sınıfta bataryalı elektrikli bir maden kamyonunun geliştirilmesi, yüksek taşıma kapasiteli saha araçlarında elektrifikasyonun uygulanabilirliğine ilişkin sektör ilgisini artırabilir. Ancak işletme performansı ve saha koşullarındaki sonuçlar için teknik veri ve bağımsız doğrulama gerekli.",
-      "seo_title": "BEML BH60-EV: 60 ton sınıfında elektrikli maden kamyonu",
-      "meta_description": "BEML, 60 ton sınıfındaki bataryalı elektrikli BH60-EV maden kamyonunu tanıttı. Teknik performans, batarya ve saha testlerine ilişkin veri paylaşılmadı.",
-      "hero_image": "",
-      "reviewed": true,
-      "key_facts": [
-        "Model adı BH60-EV.",
-        "BEML aracı Mysuru Kompleksi’nde tanıttı.",
-        "Kaynak aracı 60 ton sınıfında bataryalı elektrikli damperli kamyon olarak tanımlıyor.",
-        "BEML, aracın yerli olarak tasarlanıp geliştirildiğini ve Hindistan’da bu sınıfta ilk olduğunu söylüyor."
-      ],
-      "suggested_tags": [
-        "BEML",
-        "BH60-EV",
-        "elektrikli maden kamyonu",
-        "madencilik",
-        "bataryalı elektrikli araç"
-      ],
-      "suggested_sector": "madencilik",
-      "editorial_format": "haber",
-      "suggested_technologies": [
-        "elektrifikasyon"
-      ],
-      "source_facts_used": [
-        "BEML’in BH60-EV modelini Mysuru Kompleksi’nde tanıttığı bilgisi.",
-        "Kaynağın aracı 60 ton sınıfında ve bataryalı elektrikli damperli kamyon olarak tanımlaması.",
-        "BEML’in yerli tasarım ve geliştirme ile Hindistan’da ilk olma iddiası."
-      ],
-      "uncertainty_notes": [
-        "Kaynak sayfasına erişilemedi; taslak yalnızca sağlanan kısa kaynak metnine dayanıyor.",
-        "İlk olma ve yerli geliştirme ifadeleri BEML’e atfedilen iddialardır; bağımsız doğrulama yok.",
-        "Batarya, menzil, şarj, performans, üretim takvimi ve saha denemeleri hakkında bilgi verilmemiş."
-      ],
-      "generated_at": "2026-10-02T10:49:36.070Z",
-      "generated_by": "github-models",
-      "reviewed_at": "2026-10-10T18:53:14.286Z",
-      "review_result": "published"
     }
   },
   {
