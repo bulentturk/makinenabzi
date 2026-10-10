@@ -340,7 +340,7 @@
   },
   {
     "id": "76c3488f62ae9bee",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Hexagon out to connect sensor measurements with Rocscience software models",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/10/09/hexagon-out-to-connect-sensor-measurements-with-rocscience-software-models/",
@@ -363,7 +363,7 @@
       "seo_title": "Hexagon, jeoteknik yazılım şirketi Rocscience’ı alıyor",
       "meta_description": "Hexagon, jeoteknik ve mühendislik analiz yazılımları sağlayıcısı Rocscience’ı satın almak için anlaşma imzaladı. Rocscience’ın Hexagon’daki yeni birimi de açıklandı.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Hexagon, Rocscience’ı satın almak için anlaşma imzaladı.",
         "Rocscience jeoteknik ve mühendislik analiz yazılımları sağlıyor.",
@@ -392,7 +392,9 @@
         "Sensör ölçümleri ile yazılım modellerinin nasıl entegre edileceğine ilişkin başlıkta ima edilen yaklaşım, sağlanan kaynak metninde ayrıntılandırılmıyor."
       ],
       "generated_at": "2026-10-09T11:36:27.368Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-10T16:17:46.998Z",
+      "review_result": "published"
     }
   },
   {
