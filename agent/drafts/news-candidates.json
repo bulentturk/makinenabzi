@@ -766,7 +766,7 @@
   },
   {
     "id": "3a4d35e6ceeb8cb9",
-    "status": "drafted",
+    "status": "published",
     "title_original": "100 km/h in 3.9 seconds: BMW unveils upgraded iX3",
     "source_name": "electrive",
     "source_url": "https://www.electrive.com/2026/10/08/100-km-h-in-3-9-seconds-bmw-unveils-the-upgraded-ix3/",
@@ -788,7 +788,7 @@
       "seo_title": "BMW iX3 M60 xDrive: 450 kW güç ve 3,9 saniye",
       "meta_description": "BMW, 450 kW gücündeki iX3 M60 xDrive’ı tanıttı. Kaynakta 0-100 km/s hızlanması 3,9 saniye; sipariş başlangıcı Ocak 2027 sonu olarak veriliyor.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "BMW iX3 M60 xDrive için 450 kW güç değeri veriliyor.",
         "Kaynak, 0-100 km/s hızlanmasını 3,9 saniye olarak bildiriyor.",
@@ -815,7 +815,9 @@
         "Performans ve sipariş bilgileri bağımsız olarak doğrulanmamış, kaynakta aktarılan üretici duyurusu bilgileridir."
       ],
       "generated_at": "2026-10-08T11:43:21.484Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-10T21:00:30.616Z",
+      "review_result": "published"
     }
   },
   {
