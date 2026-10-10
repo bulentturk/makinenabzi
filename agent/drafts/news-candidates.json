@@ -816,7 +816,7 @@
   },
   {
     "id": "51cf67f1c6bb2108",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Maritime Transport adds five Renault electric trucks to its fleet",
     "source_name": "electrive",
     "source_url": "https://www.electrive.com/2026/10/06/maritime-transport-adds-five-renault-electric-trucks-to-its-fleet/",
@@ -838,7 +838,7 @@
       "seo_title": "Maritime Transport filosuna beş elektrikli Renault çekici ekledi",
       "meta_description": "Maritime Transport, eFREIGHT 2030 kapsamında beş Renault Trucks E-Tech T 4x2 elektrikli çekici aldı. Şirketin elektrikli filosu 56 araca ulaştı.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Maritime Transport filosuna beş Renault Trucks E-Tech T 4x2 elektrikli çekici ekledi.",
         "Araçlar eFREIGHT 2030 projesi kapsamında filoya katılıyor.",
@@ -866,7 +866,9 @@
         "Araçların teknik özellikleri ve operasyonel performansı hakkında kaynakta bilgi yoktur."
       ],
       "generated_at": "2026-10-06T20:08:47.986Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-10T20:06:09.561Z",
+      "review_result": "published"
     }
   },
   {
