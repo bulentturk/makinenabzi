@@ -62,7 +62,7 @@
   },
   {
     "id": "72fcad5ed8e3be2f",
-    "status": "drafted",
+    "status": "published",
     "title_original": "China’s BEV mining truck supplier Breton looks to grow in overseas markets",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/09/30/chinas-bev-mining-truck-supplier-breton-looks-to-grow-in-overseas-markets/",
@@ -85,7 +85,7 @@
       "seo_title": "Breton elektrikli maden kamyonlarında yurt dışına yöneliyor",
       "meta_description": "Breton’un elektrikli maden kamyonlarında yurt dışı pazarlara açılma hedefi ve Çinli tedarikçilerin yöneldiği bölgeler. Ürün ayrıntıları kaynakta sınırlı.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Haber başlığı Breton’u Çinli bataryalı elektrikli maden kamyonu tedarikçisi olarak tanımlıyor.",
         "Kaynak özeti, Çinli elektrikli ve otonom maden kamyonu tedarikçilerinin yurt dışı pazarlara açılma eğiliminden söz ediyor.",
@@ -115,7 +115,9 @@
         "Otonomi ve mikroşebeke bilgileri genel tedarikçi eğilimi olarak verilmiş; Breton’a özel oldukları doğrulanmıyor."
       ],
       "generated_at": "2026-09-30T19:56:27.622Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-10T16:15:33.196Z",
+      "review_result": "published"
     }
   },
   {
