@@ -1,5 +1,35 @@
 [
   {
+    "id": "76c3488f62ae9bee",
+    "slug": "hexagon-rocscience-i-satin-almak-icin-anlasma-imzaladi",
+    "title": "Hexagon, Rocscience’ı satın almak için anlaşma imzaladı",
+    "dek": "Hexagon, jeoteknik ve mühendislik analiz yazılımları sağlayıcısı Rocscience’ı bünyesine katmak üzere anlaşmaya vardı. Şirket, Rocscience’ı Radar & Monitoring Division’a dahil etmeyi planlıyor.",
+    "summary": "Hexagon AB, Rocscience’ı TA Associates ile Rocscience’ın kurucuları ve yönetiminden satın almak için anlaşma imzaladığını bildirdi. Rocscience, jeoteknik ve mühendislik analiz yazılımları geliştiriyor.\n\nPlanlanan satın alma sonrasında Rocscience’ın Hexagon’ın Infrastructure & Geospatial iş alanındaki Radar & Monitoring Division bünyesinde yer alacağı belirtildi. Hexagon, madencilik ve altyapı müşterilerinin jeolojik riskleri erken anlamaya ihtiyaç duyduğunu ifade etti.",
+    "why_it_matters": "Madencilikte jeoteknik analiz yazılımlarının saha izleme çözümleriyle aynı iş alanında buluşması, ölçüm verileri ile mühendislik modellerini birlikte değerlendirme olanağı yaratabilir. Bu olası faydanın kapsamı ve uygulama biçimi mevcut kaynakta açıklanmıyor.",
+    "key_facts": [
+      "Hexagon, Rocscience’ı satın almak için anlaşma imzaladı.",
+      "Rocscience jeoteknik ve mühendislik analiz yazılımları sağlıyor.",
+      "Rocscience’ın Hexagon bünyesinde Radar & Monitoring Division’a katılması planlanıyor."
+    ],
+    "format": "haber",
+    "sector": "madencilik",
+    "technologies": [
+      "elektronik-telematik"
+    ],
+    "tags": [
+      "Hexagon",
+      "Rocscience",
+      "jeoteknik",
+      "madencilik",
+      "saha izleme"
+    ],
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/10/09/hexagon-out-to-connect-sensor-measurements-with-rocscience-software-models/",
+    "source_published_at": "2026-10-09T08:59:38.000Z",
+    "site_published_at": "2026-10-10T16:17:16.479Z",
+    "hero_image": ""
+  },
+  {
     "id": "9cfcccf02c47a047",
     "slug": "agrifac-puskurtme-makineleri-icin-elektrikli-tahrik-platformu-sunuyor",
     "title": "Agrifac, püskürtme makineleri için elektrikli tahrik platformu sunuyor",
