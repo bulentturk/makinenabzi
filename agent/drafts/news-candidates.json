@@ -879,7 +879,7 @@
   },
   {
     "id": "3b4e24cb3c66ad9e",
-    "status": "drafted",
+    "status": "published",
     "title_original": "mtu PowerPacks for Marco Polo Rail",
     "source_name": "Powertrain International Off-Highway",
     "source_url": "https://www.powertraininternationalweb.com/off-highway/marco-polo-rail-mtu-powerpacks-brazil/",
@@ -901,7 +901,7 @@
       "seo_title": "mtu PowerPack’ler Brezilya’da elektriksiz hatlarda",
       "meta_description": "Teresina’daki üç dizel tren seti için altı mtu 6H1800R83 PowerPack teslim edildi. İlk trenin Ekim 2026’da işletmeye alınması planlanıyor.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Teresina projesinde üç dizel çoklu ünite için altı mtu 6H1800R83 PowerPack teslim edildi.",
         "İlk trenin Ekim 2026’da destekli işletmeye alınması planlanıyor.",
@@ -928,7 +928,9 @@
         "Sistemin performansına ilişkin bağımsız test verisi kaynakta bulunmuyor; teknik açıklamalar üretici ve proje taraflarının beyanlarına dayanıyor."
       ],
       "generated_at": "2026-10-01T11:17:44.546Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-11T07:37:43.899Z",
+      "review_result": "published"
     }
   },
   {
