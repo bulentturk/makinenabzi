@@ -84,5 +84,81 @@
     "priority": 85,
     "focus": "powertrain",
     "require_equipment_context": "marine"
+  },
+  {
+    "name": "Equipment World",
+    "url": "https://www.equipmentworld.com/feed/",
+    "sector": "is-makinalari",
+    "priority": 95
+  },
+  {
+    "name": "Global Mining Review",
+    "url": "https://www.globalminingreview.com/rss/globalminingreview.xml",
+    "sector": "madencilik",
+    "priority": 88
+  },
+  {
+    "name": "MINING.COM",
+    "url": "https://mining.com/feed/",
+    "sector": "madencilik",
+    "priority": 85
+  },
+  {
+    "name": "Container News",
+    "url": "https://container-news.com/feed/",
+    "sector": "liman",
+    "priority": 82,
+    "require_equipment_context": "liman"
+  },
+  {
+    "name": "Future Farming",
+    "url": "https://www.futurefarming.com/feed/",
+    "sector": "tarim",
+    "priority": 85
+  },
+  {
+    "name": "profi",
+    "url": "https://www.profi.co.uk/feed/",
+    "sector": "tarim",
+    "priority": 75
+  },
+  {
+    "name": "The Maritime Executive",
+    "url": "https://maritime-executive.com/articles.rss",
+    "sector": "marine-yatcilik",
+    "priority": 84,
+    "require_equipment_context": "marine"
+  },
+  {
+    "name": "Marine Insight",
+    "url": "https://www.marineinsight.com/feed/",
+    "sector": "marine-yatcilik",
+    "priority": 78,
+    "require_equipment_context": "marine"
+  },
+  {
+    "name": "Airport Suppliers",
+    "url": "https://www.airport-suppliers.com/feed/",
+    "sector": "havaalani-gse",
+    "priority": 78
+  },
+  {
+    "name": "Fluid Power Journal",
+    "url": "https://www.fluidpowerjournal.com/feed/",
+    "sector": "is-makinalari",
+    "priority": 74
+  },
+  {
+    "name": "Sanayi Gazetesi",
+    "url": "https://sanayigazetesi.com.tr/feed/",
+    "sector": "is-makinalari",
+    "priority": 72,
+    "require_mobile_context": true
+  },
+  {
+    "name": "İMDER",
+    "url": "https://imder.org.tr/feed/",
+    "sector": "is-makinalari",
+    "priority": 84
   }
 ]

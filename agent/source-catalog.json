@@ -15,98 +15,6 @@
     "origin": "user-list"
   },
   {
-    "name": "Mining Technology",
-    "url": "https://www.mining-technology.com/",
-    "kind": "industry_media",
-    "focus": [
-      "madencilik",
-      "ekipman",
-      "teknoloji"
-    ],
-    "status": "watchlist-web",
-    "priority": 95,
-    "origin": "user-list"
-  },
-  {
-    "name": "electrive",
-    "url": "https://www.electrive.com/newsletter/",
-    "kind": "industry_media",
-    "focus": [
-      "elektrifikasyon",
-      "batarya",
-      "sarj",
-      "off-highway",
-      "ticari-arac"
-    ],
-    "status": "active-rss",
-    "priority": 90,
-    "origin": "user-list",
-    "feed": "https://www.electrive.com/feed/"
-  },
-  {
-    "name": "Charged EVs",
-    "url": "https://chargedevs.com/",
-    "kind": "industry_media",
-    "focus": [
-      "elektrifikasyon",
-      "batarya",
-      "guc-elektronigi",
-      "sarj",
-      "e-motor",
-      "inverter",
-      "traction-motor",
-      "drivetrain",
-      "axial-flux",
-      "power-electronics"
-    ],
-    "status": "active-rss",
-    "feed": "https://chargedevs.com/feed/",
-    "priority": 96,
-    "origin": "user-list",
-    "watch_urls": [
-      "https://chargedevs.com/?s=motors",
-      "https://chargedevs.com/page/5/?s=motors"
-    ]
-  },
-  {
-    "name": "GlobeNewswire",
-    "url": "https://www.globenewswire.com/",
-    "kind": "press_release_wire",
-    "focus": [
-      "urun-lansmani",
-      "sirket-duyurusu"
-    ],
-    "status": "watchlist-web-filtered",
-    "priority": 55,
-    "origin": "user-list"
-  },
-  {
-    "name": "EV Magazine",
-    "url": "https://evmagazine.com/",
-    "kind": "industry_media",
-    "focus": [
-      "elektrifikasyon",
-      "batarya",
-      "sarj",
-      "enerji"
-    ],
-    "status": "watchlist-web",
-    "priority": 72,
-    "origin": "user-list"
-  },
-  {
-    "name": "EV Europe",
-    "url": "https://eveurope.eu/",
-    "kind": "industry_media",
-    "focus": [
-      "elektrifikasyon",
-      "avrupa"
-    ],
-    "status": "watchlist-web",
-    "priority": 65,
-    "origin": "user-list"
-  },
-  {
     "name": "Power & Motion",
     "url": "https://www.powermotiontech.com/",
     "kind": "technical_media",
@@ -122,105 +30,6 @@
     ],
     "status": "watchlist-web-priority",
     "priority": 100,
-    "origin": "user-list"
-  },
-  {
-    "name": "Vehicle Dynamics International",
-    "url": "https://www.vehicledynamicsinternational.com/",
-    "kind": "technical_media",
-    "focus": [
-      "sasi",
-      "steer-by-wire",
-      "brake-by-wire",
-      "sensor",
-      "test",
-      "simulation"
-    ],
-    "status": "watchlist-web-filtered",
-    "priority": 72,
-    "origin": "user-list"
-  },
-  {
-    "name": "Elektor",
-    "url": "https://www.elektormagazine.com/",
-    "kind": "technical_media",
-    "focus": [
-      "elektronik",
-      "embedded",
-      "sensor",
-      "haberlesme",
-      "kontrol"
-    ],
-    "status": "watchlist-web-filtered",
-    "priority": 68,
-    "origin": "user-list"
-  },
-  {
-    "name": "Control Design",
-    "url": "https://www.controldesign.com/",
-    "kind": "technical_media",
-    "focus": [
-      "kontrol",
-      "otomasyon",
-      "sensor",
-      "industrial-network",
-      "safety"
-    ],
-    "status": "watchlist-web-filtered",
-    "priority": 75,
-    "origin": "user-list"
-  },
-  {
-    "name": "Forum Makine",
-    "url": null,
-    "kind": "industry_media",
-    "focus": [
-      "is-makinalari",
-      "turkiye"
-    ],
-    "status": "needs-url-verification",
-    "priority": 85,
-    "origin": "user-list"
-  },
-  {
-    "name": "MAG Update",
-    "url": "https://www.magupdate.co.uk/",
-    "kind": "industry_media",
-    "focus": [
-      "machinery",
-      "construction",
-      "lifting",
-      "industrial"
-    ],
-    "status": "watchlist-web",
-    "priority": 70,
-    "origin": "user-list"
-  },
-  {
-    "name": "Ground Handling International",
-    "url": "https://www.groundhandling.com/",
-    "kind": "industry_media",
-    "focus": [
-      "havaalani-gse",
-      "yer-hizmetleri",
-      "ekipman",
-      "elektrifikasyon"
-    ],
-    "status": "watchlist-web",
-    "priority": 90,
-    "origin": "user-list"
-  },
-  {
-    "name": "GSE Expo Europe",
-    "url": "https://www.gse-expo-europe.com/",
-    "kind": "event_source",
-    "focus": [
-      "havaalani-gse",
-      "ground-support-equipment",
-      "urun-lansmani"
-    ],
-    "status": "watchlist-event",
-    "priority": 88,
     "origin": "user-list"
   },
   {
@@ -257,47 +66,6 @@
     "origin": "user-list"
   },
   {
-    "name": "Port Strategy",
-    "url": "https://www.portstrategy.com/",
-    "kind": "industry_media",
-    "focus": [
-      "liman",
-      "ellecleme",
-      "terminal"
-    ],
-    "status": "active-rss",
-    "feed": "https://www.portstrategy.com/feed",
-    "priority": 90,
-    "origin": "existing"
-  },
-  {
-    "name": "Construction Equipment Guide",
-    "url": "https://www.constructionequipmentguide.com/",
-    "kind": "industry_media",
-    "focus": [
-      "is-makinalari",
-      "urun-lansmani"
-    ],
-    "status": "active-rss",
-    "feed": "https://feeds.feedburner.com/ceg",
-    "priority": 80,
-    "origin": "existing"
-  },
-  {
-    "name": "Tunnels & Tunnelling",
-    "url": "https://www.tunnelsandtunnelling.com/",
-    "kind": "industry_media",
-    "focus": [
-      "tunel",
-      "is-makinalari",
-      "madencilik"
-    ],
-    "status": "active-rss",
-    "feed": "https://www.tunnelsandtunnelling.com/feed/",
-    "priority": 76,
-    "origin": "existing"
-  },
-  {
     "name": "OEM Off-Highway",
     "url": "https://www.oemoffhighway.com/",
     "kind": "technical_media",
@@ -318,35 +86,96 @@
     "origin": "user-list"
   },
   {
-    "name": "Teknikport",
-    "url": "https://www.teknikport.com/",
+    "name": "Power Progress Off-Highway",
+    "url": "https://www.powerprogress.com/markets/off-highway",
     "kind": "technical_media",
     "focus": [
-      "turkiye",
-      "teknik-yayin",
-      "endustri",
-      "makine",
-      "otomasyon",
-      "komponent"
+      "dizel-motor",
+      "sanziman",
+      "off-highway",
+      "elektrifikasyon"
+    ],
+    "status": "watchlist-web-priority",
+    "priority": 98,
+    "origin": "sector-expansion"
+  },
+  {
+    "name": "Charged EVs",
+    "url": "https://chargedevs.com/",
+    "kind": "industry_media",
+    "focus": [
+      "elektrifikasyon",
+      "batarya",
+      "guc-elektronigi",
+      "sarj",
+      "e-motor",
+      "inverter",
+      "traction-motor",
+      "drivetrain",
+      "axial-flux",
+      "power-electronics"
     ],
     "status": "active-rss",
-    "feed": "https://www.teknikport.com/feed/",
-    "priority": 82,
+    "feed": "https://chargedevs.com/feed/",
+    "priority": 96,
+    "origin": "user-list",
+    "watch_urls": [
+      "https://chargedevs.com/?s=motors",
+      "https://chargedevs.com/page/5/?s=motors"
+    ]
+  },
+  {
+    "name": "Mining Technology",
+    "url": "https://www.mining-technology.com/",
+    "kind": "industry_media",
+    "focus": [
+      "madencilik",
+      "ekipman",
+      "teknoloji"
+    ],
+    "status": "watchlist-web",
+    "priority": 95,
     "origin": "user-list"
   },
   {
-    "name": "Marine Industry News",
-    "url": "https://marineindustrynews.co.uk/",
+    "name": "Aviation Pros Ground Support Worldwide",
+    "url": "https://www.aviationpros.com/ground-support-worldwide/gse",
     "kind": "industry_media",
     "focus": [
-      "marine-yatcilik",
-      "tekne-ekipmani",
-      "elektrikli-tahrik"
+      "havaalani-gse",
+      "gse-urunleri",
+      "teknoloji"
+    ],
+    "status": "watchlist-web",
+    "priority": 95,
+    "origin": "sector-expansion"
+  },
+  {
+    "name": "Equipment World",
+    "url": "https://www.equipmentworld.com/",
+    "kind": "industry_media",
+    "focus": [
+      "is-makinalari",
+      "urun-lansmani",
+      "sektor-gelismeleri"
     ],
     "status": "active-rss",
-    "feed": "https://marineindustrynews.co.uk/feed/",
-    "priority": 88,
-    "origin": "sector-expansion"
+    "feed": "https://www.equipmentworld.com/feed/",
+    "priority": 95,
+    "origin": "agent-research-2026-10"
+  },
+  {
+    "name": "E&MJ",
+    "url": "https://www.e-mj.com/",
+    "kind": "industry_media",
+    "focus": [
+      "madencilik",
+      "ekipman",
+      "teknoloji"
+    ],
+    "status": "watchlist-web-priority",
+    "priority": 95,
+    "origin": "agent-research-2026-10"
   },
   {
     "name": "Marine Industry News Electric Boats",
@@ -363,43 +192,90 @@
     "origin": "sector-expansion"
   },
   {
-    "name": "Passenger Terminal Today",
-    "url": "https://www.passengerterminaltoday.com/news/ground-support",
+    "name": "Allison Transmission Newsroom",
+    "url": "https://www.allisontransmission.com/newsroom",
+    "kind": "manufacturer_pressroom",
+    "focus": [
+      "off-highway",
+      "sanziman",
+      "guc-aktarma"
+    ],
+    "status": "watchlist-web-priority",
+    "priority": 92,
+    "origin": "sector-expansion"
+  },
+  {
+    "name": "Kessler + Co Press",
+    "url": "https://kessler-co.com/en/Company/press",
+    "kind": "manufacturer_pressroom",
+    "focus": [
+      "aks",
+      "sanziman",
+      "planet-disli",
+      "elektrikli-tahrik",
+      "liman",
+      "madencilik"
+    ],
+    "status": "watchlist-web-priority",
+    "priority": 92,
+    "origin": "sector-expansion"
+  },
+  {
+    "name": "Port Technology International",
+    "url": "https://www.porttechnology.org/",
+    "kind": "industry_media",
+    "focus": [
+      "liman",
+      "ellecleme",
+      "terminal-otomasyonu"
+    ],
+    "status": "watchlist-web-priority",
+    "priority": 92,
+    "origin": "agent-research-2026-10"
+  },
+  {
+    "name": "electrive",
+    "url": "https://www.electrive.com/newsletter/",
+    "kind": "industry_media",
+    "focus": [
+      "elektrifikasyon",
+      "batarya",
+      "sarj",
+      "off-highway",
+      "ticari-arac"
+    ],
+    "status": "active-rss",
+    "priority": 90,
+    "origin": "user-list",
+    "feed": "https://www.electrive.com/feed/"
+  },
+  {
+    "name": "Ground Handling International",
+    "url": "https://www.groundhandling.com/",
     "kind": "industry_media",
     "focus": [
       "havaalani-gse",
-      "yer-destek-ekipmani",
+      "yer-hizmetleri",
+      "ekipman",
       "elektrifikasyon"
     ],
-    "status": "active-rss-filtered",
-    "feed": "https://www.passengerterminaltoday.com/feed/",
-    "priority": 86,
-    "origin": "sector-expansion"
+    "status": "watchlist-web",
+    "priority": 90,
+    "origin": "user-list"
   },
   {
-    "name": "Aviation24 Ground Handling",
-    "url": "https://www.aviation24.be/category/ground-handling/",
+    "name": "Port Strategy",
+    "url": "https://www.portstrategy.com/",
     "kind": "industry_media",
     "focus": [
-      "havaalani-gse",
-      "yer-hizmetleri"
+      "liman",
+      "ellecleme",
+      "terminal"
     ],
-    "status": "watchlist-web",
-    "priority": 72,
-    "origin": "sector-expansion"
-  },
-  {
-    "name": "Aviation Pros Ground Support Worldwide",
-    "url": "https://www.aviationpros.com/ground-support-worldwide/gse",
-    "kind": "industry_media",
-    "focus": [
-      "havaalani-gse",
-      "gse-urunleri",
-      "teknoloji"
-    ],
-    "status": "watchlist-web",
-    "priority": 95,
-    "origin": "sector-expansion"
+    "status": "active-rss",
+    "feed": "https://www.portstrategy.com/feed",
+    "priority": 90,
+    "origin": "existing"
   },
   {
     "name": "Airport Industry-News Ground Support",
@@ -411,50 +287,6 @@
     ],
     "status": "watchlist-web",
     "priority": 90,
-    "origin": "sector-expansion"
-  },
-  {
-    "name": "Powertrain International Off-Highway",
-    "url": "https://www.powertraininternationalweb.com/category/off-highway/",
-    "kind": "technical_media",
-    "focus": [
-      "dizel-motor",
-      "sanziman",
-      "aks",
-      "yuruyus-grubu",
-      "is-makinalari"
-    ],
-    "status": "active-rss",
-    "feed": "https://www.powertraininternationalweb.com/category/off-highway/feed/",
-    "priority": 88,
-    "origin": "sector-expansion"
-  },
-  {
-    "name": "Powertrain International Marine",
-    "url": "https://www.powertraininternationalweb.com/category/marine/",
-    "kind": "technical_media",
-    "focus": [
-      "marine-yatcilik",
-      "marine-motor",
-      "guc-aktarma"
-    ],
-    "status": "active-rss",
-    "feed": "https://www.powertraininternationalweb.com/category/marine/feed/",
-    "priority": 85,
-    "origin": "sector-expansion"
-  },
-  {
-    "name": "Power Progress Off-Highway",
-    "url": "https://www.powerprogress.com/markets/off-highway",
-    "kind": "technical_media",
-    "focus": [
-      "dizel-motor",
-      "sanziman",
-      "off-highway",
-      "elektrifikasyon"
-    ],
-    "status": "watchlist-web-priority",
-    "priority": 98,
     "origin": "sector-expansion"
   },
   {
@@ -484,6 +316,103 @@
     "origin": "sector-expansion"
   },
   {
+    "name": "Perkins Press Releases",
+    "url": "https://www.perkins.com/en_GB/company/news/corporate-press-release.html",
+    "kind": "manufacturer_pressroom",
+    "focus": [
+      "dizel-motor",
+      "off-highway",
+      "marine-motor"
+    ],
+    "status": "watchlist-web",
+    "priority": 90,
+    "origin": "sector-expansion"
+  },
+  {
+    "name": "Berco News",
+    "url": "https://www.berco.com/news/",
+    "kind": "manufacturer_pressroom",
+    "focus": [
+      "paletli-yuruyus",
+      "alt-takim",
+      "madencilik"
+    ],
+    "status": "watchlist-web",
+    "priority": 90,
+    "origin": "sector-expansion"
+  },
+  {
+    "name": "Caterpillar Newsroom",
+    "url": "https://www.cat.com/en_US/news.html",
+    "kind": "manufacturer_pressroom",
+    "focus": [
+      "is-makinalari",
+      "urun-lansmani",
+      "otonomi",
+      "elektrifikasyon"
+    ],
+    "status": "watchlist-web-priority",
+    "priority": 90,
+    "origin": "agent-research-2026-10"
+  },
+  {
+    "name": "Komatsu News",
+    "url": "https://www.komatsu.com/en/news/",
+    "kind": "manufacturer_pressroom",
+    "focus": [
+      "is-makinalari",
+      "madencilik",
+      "otonomi",
+      "elektrifikasyon"
+    ],
+    "status": "watchlist-web-priority",
+    "priority": 90,
+    "origin": "agent-research-2026-10"
+  },
+  {
+    "name": "GSE Expo Europe",
+    "url": "https://www.gse-expo-europe.com/",
+    "kind": "event_source",
+    "focus": [
+      "havaalani-gse",
+      "ground-support-equipment",
+      "urun-lansmani"
+    ],
+    "status": "watchlist-event",
+    "priority": 88,
+    "origin": "user-list"
+  },
+  {
+    "name": "Marine Industry News",
+    "url": "https://marineindustrynews.co.uk/",
+    "kind": "industry_media",
+    "focus": [
+      "marine-yatcilik",
+      "tekne-ekipmani",
+      "elektrikli-tahrik"
+    ],
+    "status": "active-rss",
+    "feed": "https://marineindustrynews.co.uk/feed/",
+    "priority": 88,
+    "origin": "sector-expansion"
+  },
+  {
+    "name": "Powertrain International Off-Highway",
+    "url": "https://www.powertraininternationalweb.com/category/off-highway/",
+    "kind": "technical_media",
+    "focus": [
+      "dizel-motor",
+      "sanziman",
+      "aks",
+      "yuruyus-grubu",
+      "is-makinalari"
+    ],
+    "status": "active-rss",
+    "feed": "https://www.powertraininternationalweb.com/category/off-highway/feed/",
+    "priority": 88,
+    "origin": "sector-expansion"
+  },
+  {
     "name": "ZF Press",
     "url": "https://press.zf.com/press/en/start/homepage.html",
     "kind": "manufacturer_pressroom",
@@ -498,17 +427,229 @@
     "origin": "sector-expansion"
   },
   {
-    "name": "Allison Transmission Newsroom",
-    "url": "https://www.allisontransmission.com/newsroom",
+    "name": "Carraro News",
+    "url": "https://www.carraro.com/en/media-news/news",
     "kind": "manufacturer_pressroom",
     "focus": [
-      "off-highway",
       "sanziman",
-      "guc-aktarma"
+      "aks",
+      "off-highway"
+    ],
+    "status": "watchlist-web",
+    "priority": 88,
+    "origin": "sector-expansion"
+  },
+  {
+    "name": "ITM Group",
+    "url": "https://www.group-itm.com/en/itm-group/about/news/",
+    "kind": "manufacturer_pressroom",
+    "focus": [
+      "paletli-yuruyus",
+      "alt-takim",
+      "madencilik"
+    ],
+    "status": "watchlist-web",
+    "priority": 88,
+    "origin": "sector-expansion"
+  },
+  {
+    "name": "Global Mining Review",
+    "url": "https://www.globalminingreview.com/",
+    "kind": "industry_media",
+    "focus": [
+      "madencilik",
+      "ekipman",
+      "otonomi",
+      "elektrifikasyon"
+    ],
+    "status": "active-rss",
+    "feed": "https://www.globalminingreview.com/rss/globalminingreview.xml",
+    "priority": 88,
+    "origin": "agent-research-2026-10"
+  },
+  {
+    "name": "Hydraulics & Pneumatics",
+    "url": "https://www.hydraulicspneumatics.com/",
+    "kind": "technical_media",
+    "focus": [
+      "hidrolik",
+      "pnömatik",
+      "komponent",
+      "valf"
     ],
     "status": "watchlist-web-priority",
-    "priority": 92,
+    "priority": 88,
+    "origin": "agent-research-2026-10"
+  },
+  {
+    "name": "Volvo CE News",
+    "url": "https://www.volvoce.com/global/en/news-center/",
+    "kind": "manufacturer_pressroom",
+    "focus": [
+      "is-makinalari",
+      "elektrifikasyon",
+      "otonomi"
+    ],
+    "status": "watchlist-web-priority",
+    "priority": 88,
+    "origin": "agent-research-2026-10"
+  },
+  {
+    "name": "Liebherr Press",
+    "url": "https://www.liebherr.com/en-int/press/",
+    "kind": "manufacturer_pressroom",
+    "focus": [
+      "is-makinalari",
+      "liman",
+      "vinc",
+      "madencilik"
+    ],
+    "status": "watchlist-web-priority",
+    "priority": 88,
+    "origin": "agent-research-2026-10"
+  },
+  {
+    "name": "Volvo Penta News",
+    "url": "https://www.volvopenta.com/about-us/news-page/",
+    "kind": "manufacturer_pressroom",
+    "focus": [
+      "marine-motor",
+      "gse",
+      "endustriyel-motor",
+      "elektrifikasyon"
+    ],
+    "status": "watchlist-web",
+    "priority": 87,
     "origin": "sector-expansion"
+  },
+  {
+    "name": "Passenger Terminal Today",
+    "url": "https://www.passengerterminaltoday.com/news/ground-support",
+    "kind": "industry_media",
+    "focus": [
+      "havaalani-gse",
+      "yer-destek-ekipmani",
+      "elektrifikasyon"
+    ],
+    "status": "active-rss-filtered",
+    "feed": "https://www.passengerterminaltoday.com/feed/",
+    "priority": 86,
+    "origin": "sector-expansion"
+  },
+  {
+    "name": "Forum Makine",
+    "url": null,
+    "kind": "industry_media",
+    "focus": [
+      "is-makinalari",
+      "turkiye"
+    ],
+    "status": "needs-url-verification",
+    "priority": 85,
+    "origin": "user-list"
+  },
+  {
+    "name": "Powertrain International Marine",
+    "url": "https://www.powertraininternationalweb.com/category/marine/",
+    "kind": "technical_media",
+    "focus": [
+      "marine-yatcilik",
+      "marine-motor",
+      "guc-aktarma"
+    ],
+    "status": "active-rss",
+    "feed": "https://www.powertraininternationalweb.com/category/marine/feed/",
+    "priority": 85,
+    "origin": "sector-expansion"
+  },
+  {
+    "name": "MINING.COM",
+    "url": "https://mining.com/",
+    "kind": "industry_media",
+    "focus": [
+      "madencilik",
+      "ekipman",
+      "pazar"
+    ],
+    "status": "active-rss",
+    "feed": "https://mining.com/feed/",
+    "priority": 85,
+    "origin": "agent-research-2026-10"
+  },
+  {
+    "name": "Future Farming",
+    "url": "https://www.futurefarming.com/",
+    "kind": "industry_media",
+    "focus": [
+      "tarim",
+      "akilli-tarim",
+      "otonomi",
+      "elektrifikasyon"
+    ],
+    "status": "active-rss",
+    "feed": "https://www.futurefarming.com/feed/",
+    "priority": 85,
+    "origin": "agent-research-2026-10"
+  },
+  {
+    "name": "HANSA",
+    "url": "https://www.hansa-online.de/",
+    "kind": "industry_media",
+    "focus": [
+      "liman",
+      "deniz-tasima",
+      "vinc"
+    ],
+    "status": "watchlist-web",
+    "priority": 85,
+    "origin": "agent-research-2026-10"
+  },
+  {
+    "name": "The Maritime Executive",
+    "url": "https://maritime-executive.com/",
+    "kind": "industry_media",
+    "focus": [
+      "marine-yatcilik",
+      "deniz-tasima",
+      "elektrifikasyon",
+      "liman"
+    ],
+    "status": "active-rss",
+    "feed": "https://maritime-executive.com/articles.rss",
+    "priority": 84,
+    "origin": "agent-research-2026-10"
+  },
+  {
+    "name": "İMDER",
+    "url": "https://www.imder.org.tr/",
+    "kind": "industry_media",
+    "focus": [
+      "turkiye",
+      "is-makinalari",
+      "sektor-derneki",
+      "veri"
+    ],
+    "status": "active-rss",
+    "feed": "https://imder.org.tr/feed/",
+    "priority": 84,
+    "origin": "agent-research-2026-10"
+  },
+  {
+    "name": "Teknikport",
+    "url": "https://www.teknikport.com/",
+    "kind": "technical_media",
+    "focus": [
+      "turkiye",
+      "teknik-yayin",
+      "endustri",
+      "makine",
+      "otomasyon",
+      "komponent"
+    ],
+    "status": "active-rss",
+    "feed": "https://www.teknikport.com/feed/",
+    "priority": 82,
+    "origin": "user-list"
   },
   {
     "name": "Dana Press Releases",
@@ -525,57 +666,389 @@
     "origin": "sector-expansion"
   },
   {
-    "name": "Perkins Press Releases",
-    "url": "https://www.perkins.com/en_GB/company/news/corporate-press-release.html",
-    "kind": "manufacturer_pressroom",
-    "focus": ["dizel-motor", "off-highway", "marine-motor"],
+    "name": "Container News",
+    "url": "https://container-news.com/",
+    "kind": "industry_media",
+    "focus": [
+      "liman",
+      "konteyner",
+      "ellecleme",
+      "terminal"
+    ],
+    "status": "active-rss",
+    "feed": "https://container-news.com/feed/",
+    "priority": 82,
+    "origin": "agent-research-2026-10"
+  },
+  {
+    "name": "Fluid Power World",
+    "url": "https://www.fluidpowerworld.com/",
+    "kind": "technical_media",
+    "focus": [
+      "hidrolik",
+      "pnömatik",
+      "komponent"
+    ],
     "status": "watchlist-web",
-    "priority": 90,
+    "priority": 82,
+    "origin": "agent-research-2026-10"
+  },
+  {
+    "name": "Wacker Neuson News",
+    "url": "https://www.wackerneuson.com/en/news-and-events/",
+    "kind": "manufacturer_pressroom",
+    "focus": [
+      "is-makinalari",
+      "kompakt-ekipman",
+      "elektrifikasyon"
+    ],
+    "status": "watchlist-web",
+    "priority": 82,
+    "origin": "agent-research-2026-10"
+  },
+  {
+    "name": "JCB News",
+    "url": "https://www.jcb.com/en-gb/news",
+    "kind": "manufacturer_pressroom",
+    "focus": [
+      "is-makinalari",
+      "elektrifikasyon",
+      "urun-lansmani"
+    ],
+    "status": "watchlist-web",
+    "priority": 82,
+    "origin": "agent-research-2026-10"
+  },
+  {
+    "name": "Manitou News",
+    "url": "https://www.manitou-group.com/en/news/",
+    "kind": "manufacturer_pressroom",
+    "focus": [
+      "arac-ustu-ekipman",
+      "platform",
+      "forklift",
+      "elektrifikasyon"
+    ],
+    "status": "watchlist-web",
+    "priority": 82,
+    "origin": "agent-research-2026-10"
+  },
+  {
+    "name": "Hitachi CM News",
+    "url": "https://www.hitachicm.com/global/en/news/",
+    "kind": "manufacturer_pressroom",
+    "focus": [
+      "is-makinalari",
+      "madencilik",
+      "otonomi"
+    ],
+    "status": "watchlist-web",
+    "priority": 82,
+    "origin": "agent-research-2026-10"
+  },
+  {
+    "name": "Construction Equipment Guide",
+    "url": "https://www.constructionequipmentguide.com/",
+    "kind": "industry_media",
+    "focus": [
+      "is-makinalari",
+      "urun-lansmani"
+    ],
+    "status": "active-rss",
+    "feed": "https://feeds.feedburner.com/ceg",
+    "priority": 80,
+    "origin": "existing"
+  },
+  {
+    "name": "Australian Mining",
+    "url": "https://www.australianmining.com.au/",
+    "kind": "industry_media",
+    "focus": [
+      "madencilik",
+      "ekipman",
+      "otonomi"
+    ],
+    "status": "watchlist-web",
+    "priority": 80,
+    "origin": "agent-research-2026-10"
+  },
+  {
+    "name": "AgFunderNews",
+    "url": "https://agfundernews.com/",
+    "kind": "industry_media",
+    "focus": [
+      "tarim",
+      "akilli-tarim",
+      "ar-ge",
+      "yatirim"
+    ],
+    "status": "watchlist-web",
+    "priority": 80,
+    "origin": "agent-research-2026-10"
+  },
+  {
+    "name": "Construction Briefing",
+    "url": "https://www.constructionbriefing.com/",
+    "kind": "industry_media",
+    "focus": [
+      "is-makinalari",
+      "sektor-gelismeleri",
+      "yatirim"
+    ],
+    "status": "watchlist-web",
+    "priority": 80,
+    "origin": "agent-research-2026-10"
+  },
+  {
+    "name": "Marine Insight",
+    "url": "https://www.marineinsight.com/",
+    "kind": "industry_media",
+    "focus": [
+      "marine-yatcilik",
+      "deniz-teknolojisi",
+      "tahrik"
+    ],
+    "status": "active-rss",
+    "feed": "https://www.marineinsight.com/feed/",
+    "priority": 78,
+    "origin": "agent-research-2026-10"
+  },
+  {
+    "name": "Airport Suppliers",
+    "url": "https://www.airport-suppliers.com/",
+    "kind": "industry_media",
+    "focus": [
+      "havaalani-gse",
+      "yer-destek-ekipmani",
+      "urun-lansmani"
+    ],
+    "status": "active-rss",
+    "feed": "https://www.airport-suppliers.com/feed/",
+    "priority": 78,
+    "origin": "agent-research-2026-10"
+  },
+  {
+    "name": "Farm Progress",
+    "url": "https://www.farmprogress.com/",
+    "kind": "industry_media",
+    "focus": [
+      "tarim",
+      "traktor",
+      "hasat"
+    ],
+    "status": "watchlist-web",
+    "priority": 78,
+    "origin": "agent-research-2026-10"
+  },
+  {
+    "name": "Tunnels & Tunnelling",
+    "url": "https://www.tunnelsandtunnelling.com/",
+    "kind": "industry_media",
+    "focus": [
+      "tunel",
+      "is-makinalari",
+      "madencilik"
+    ],
+    "status": "active-rss",
+    "feed": "https://www.tunnelsandtunnelling.com/feed/",
+    "priority": 76,
+    "origin": "existing"
+  },
+  {
+    "name": "Battery Technology",
+    "url": "https://www.batterytechonline.com/",
+    "kind": "technical_media",
+    "focus": [
+      "elektrifikasyon",
+      "batarya",
+      "bms",
+      "hucre"
+    ],
+    "status": "watchlist-web",
+    "priority": 76,
+    "origin": "agent-research-2026-10"
+  },
+  {
+    "name": "Control Design",
+    "url": "https://www.controldesign.com/",
+    "kind": "technical_media",
+    "focus": [
+      "kontrol",
+      "otomasyon",
+      "sensor",
+      "industrial-network",
+      "safety"
+    ],
+    "status": "watchlist-web-filtered",
+    "priority": 75,
+    "origin": "user-list"
+  },
+  {
+    "name": "profi",
+    "url": "https://www.profi.co.uk/",
+    "kind": "industry_media",
+    "focus": [
+      "tarim",
+      "traktor",
+      "tarim-ekipmani",
+      "test"
+    ],
+    "status": "active-rss",
+    "feed": "https://www.profi.co.uk/feed/",
+    "priority": 75,
+    "origin": "agent-research-2026-10"
+  },
+  {
+    "name": "Fluid Power Journal",
+    "url": "https://www.fluidpowerjournal.com/",
+    "kind": "technical_media",
+    "focus": [
+      "hidrolik",
+      "pnömatik",
+      "komponent",
+      "bakim"
+    ],
+    "status": "active-rss",
+    "feed": "https://www.fluidpowerjournal.com/feed/",
+    "priority": 74,
+    "origin": "agent-research-2026-10"
+  },
+  {
+    "name": "Energy-Storage.news",
+    "url": "https://www.energy-storage.news/",
+    "kind": "industry_media",
+    "focus": [
+      "elektrifikasyon",
+      "batarya",
+      "sarj",
+      "enerji"
+    ],
+    "status": "watchlist-web",
+    "priority": 74,
+    "origin": "agent-research-2026-10"
+  },
+  {
+    "name": "EV Magazine",
+    "url": "https://evmagazine.com/",
+    "kind": "industry_media",
+    "focus": [
+      "elektrifikasyon",
+      "batarya",
+      "sarj",
+      "enerji"
+    ],
+    "status": "watchlist-web",
+    "priority": 72,
+    "origin": "user-list"
+  },
+  {
+    "name": "Vehicle Dynamics International",
+    "url": "https://www.vehicledynamicsinternational.com/",
+    "kind": "technical_media",
+    "focus": [
+      "sasi",
+      "steer-by-wire",
+      "brake-by-wire",
+      "sensor",
+      "test",
+      "simulation"
+    ],
+    "status": "watchlist-web-filtered",
+    "priority": 72,
+    "origin": "user-list"
+  },
+  {
+    "name": "Aviation24 Ground Handling",
+    "url": "https://www.aviation24.be/category/ground-handling/",
+    "kind": "industry_media",
+    "focus": [
+      "havaalani-gse",
+      "yer-hizmetleri"
+    ],
+    "status": "watchlist-web",
+    "priority": 72,
     "origin": "sector-expansion"
   },
   {
-    "name": "Volvo Penta News",
-    "url": "https://www.volvopenta.com/about-us/news-page/",
-    "kind": "manufacturer_pressroom",
-    "focus": ["marine-motor", "gse", "endustriyel-motor", "elektrifikasyon"],
-    "status": "watchlist-web",
-    "priority": 87,
-    "origin": "sector-expansion"
+    "name": "Sanayi Gazetesi",
+    "url": "https://www.sanayigazetesi.com.tr/",
+    "kind": "industry_media",
+    "focus": [
+      "turkiye",
+      "sanayi",
+      "makine",
+      "uretim"
+    ],
+    "status": "active-rss",
+    "feed": "https://sanayigazetesi.com.tr/feed/",
+    "priority": 72,
+    "origin": "agent-research-2026-10"
   },
   {
-    "name": "Carraro News",
-    "url": "https://www.carraro.com/en/media-news/news",
-    "kind": "manufacturer_pressroom",
-    "focus": ["sanziman", "aks", "off-highway"],
+    "name": "Green Car Congress",
+    "url": "https://www.greencarcongress.com/",
+    "kind": "technical_media",
+    "focus": [
+      "dizel-motor",
+      "elektrifikasyon",
+      "emisyon",
+      "guc-aktarma"
+    ],
     "status": "watchlist-web",
-    "priority": 88,
-    "origin": "sector-expansion"
+    "priority": 72,
+    "origin": "agent-research-2026-10"
   },
   {
-    "name": "Berco News",
-    "url": "https://www.berco.com/news/",
-    "kind": "manufacturer_pressroom",
-    "focus": ["paletli-yuruyus", "alt-takim", "madencilik"],
+    "name": "MAG Update",
+    "url": "https://www.magupdate.co.uk/",
+    "kind": "industry_media",
+    "focus": [
+      "machinery",
+      "construction",
+      "lifting",
+      "industrial"
+    ],
     "status": "watchlist-web",
-    "priority": 90,
-    "origin": "sector-expansion"
+    "priority": 70,
+    "origin": "user-list"
   },
   {
-    "name": "ITM Group",
-    "url": "https://www.group-itm.com/en/itm-group/about/news/",
-    "kind": "manufacturer_pressroom",
-    "focus": ["paletli-yuruyus", "alt-takim", "madencilik"],
-    "status": "watchlist-web",
-    "priority": 88,
-    "origin": "sector-expansion"
+    "name": "Elektor",
+    "url": "https://www.elektormagazine.com/",
+    "kind": "technical_media",
+    "focus": [
+      "elektronik",
+      "embedded",
+      "sensor",
+      "haberlesme",
+      "kontrol"
+    ],
+    "status": "watchlist-web-filtered",
+    "priority": 68,
+    "origin": "user-list"
   },
   {
-    "name": "Kessler + Co Press",
-    "url": "https://kessler-co.com/en/Company/press",
-    "kind": "manufacturer_pressroom",
-    "focus": ["aks", "sanziman", "planet-disli", "elektrikli-tahrik", "liman", "madencilik"],
-    "status": "watchlist-web-priority",
-    "priority": 92,
-    "origin": "sector-expansion"
+    "name": "EV Europe",
+    "url": "https://eveurope.eu/",
+    "kind": "industry_media",
+    "focus": [
+      "elektrifikasyon",
+      "avrupa"
+    ],
+    "status": "watchlist-web",
+    "priority": 65,
+    "origin": "user-list"
+  },
+  {
+    "name": "GlobeNewswire",
+    "url": "https://www.globenewswire.com/",
+    "kind": "press_release_wire",
+    "focus": [
+      "urun-lansmani",
+      "sirket-duyurusu"
+    ],
+    "status": "watchlist-web-filtered",
+    "priority": 55,
+    "origin": "user-list"
   }
 ]

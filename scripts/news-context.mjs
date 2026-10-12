@@ -42,11 +42,18 @@ const powertrainEquipmentTerms = [
   'terratran','final drive','planetary drive','haul truck','dump truck','fire truck','refuse truck'
 ];
 
+const limanEquipmentTerms = [
+  'port crane','mobile harbour crane','mobile harbor crane','harbour crane','harbor crane',
+  'reach stacker','straddle carrier','terminal tractor','container terminal','container handling',
+  'port equipment','port machinery','stevedoring','automated terminal','sts crane','quay crane',
+  'shore power','port electrification','liman vinc','konteyner ellecleme','liman ekipmani'
+];
+
 export function hasSectorEquipmentContext(text, sector) {
   const haystack = sector === 'powertrain'
     ? normalized(text).replace(/allison transmission/g, 'allison')
     : normalized(text);
   const terms = sector === 'gse' ? gseTerms : sector === 'marine' ? marineEquipmentTerms
-    : sector === 'powertrain' ? powertrainEquipmentTerms : [];
+    : sector === 'powertrain' ? powertrainEquipmentTerms : sector === 'liman' ? limanEquipmentTerms : [];
   return terms.some(term => hasTerm(haystack,term));
 }
