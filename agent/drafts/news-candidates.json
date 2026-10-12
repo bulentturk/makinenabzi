@@ -985,7 +985,7 @@
   },
   {
     "id": "6807877b7ea0b996",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Southampton completes £60m crane investment",
     "source_name": "Port Strategy",
     "source_url": "https://www.portstrategy.com/news/container-cargo-handling/southampton-completes-60m-crane-investment/",
@@ -1005,7 +1005,7 @@
       "seo_title": "DP World Southampton’ın 60 milyon sterlinlik vinç yatırımı",
       "meta_description": "Southampton’a iki yeni rıhtım vincinin ulaşmasıyla DP World’ün 60 milyon sterlinlik yatırım programı tamamlandı; terminal yılda yaklaşık iki milyon konteyner işliyor.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "DP World Southampton’a iki yeni rıhtım vinci ulaştı.",
         "ABP, teslimatla 60 milyon sterlinlik vinç yatırım programının tamamlandığını bildirdi.",
@@ -1030,7 +1030,9 @@
         "Yatırımın operasyonel verimliliğe etkisine dair ölçüm veya bağımsız doğrulama sunulmuyor."
       ],
       "generated_at": "2026-10-12T12:37:29.232Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-12T20:12:36.715Z",
+      "review_result": "published"
     }
   },
   {
