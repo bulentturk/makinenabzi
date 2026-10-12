@@ -1425,7 +1425,7 @@
   },
   {
     "id": "9663e7ef7089ac09",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Grove GMK6450-1 Dismantles Berlin Tower Crane",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/grove-gmk64501-dismantles-berlin-tower-crane/72457",
@@ -1447,7 +1447,7 @@
       "seo_title": "Grove GMK6450-1 Berlin’de kule vinç sökümünde",
       "meta_description": "MOBI-HUB, kaynak özetine göre Grove GMK6450-1 arazi tipi mobil vinci Berlin’deki kule vinç sökümü ve kısıtlı şantiye çalışması için kullandı.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Kaynak özeti, Berlin'deki kule vinç sökümünde Grove GMK6450-1 kullanıldığını belirtiyor.",
         "Vinç, MOBI-HUB adlı Alman kiralama şirketi tarafından görevlendirilmiş.",
@@ -1476,7 +1476,9 @@
         "Kaldırma konfigürasyonu, kapasite, saha düzeni ve operasyon sonuçları kaynak özetinde yer almıyor."
       ],
       "generated_at": "2026-10-08T20:39:04.732Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-12T20:10:43.819Z",
+      "review_result": "published"
     }
   },
   {
