@@ -1,0 +1,75 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { guides } from '../../data/technical-guides';
+
+export function getStaticPaths() {
+  return guides.map((guide) => ({
+    params: { slug: guide.slug },
+    props: { guide }
+  }));
+}
+
+const { guide } = Astro.props;
+const pageUrl = Astro.site ? new URL(Astro.url.pathname, Astro.site).href : Astro.url.href;
+const wordCount = guide.sections.reduce(
+  (total, section) => total + section.paragraphs.join(' ').split(/\s+/).filter(Boolean).length,
+  0
+);
+const readingMinutes = Math.max(1, Math.round(wordCount / 200));
+const dateFormat = new Intl.DateTimeFormat('tr-TR', { day: 'numeric', month: 'long', year: 'numeric' });
+const updatedLabel = dateFormat.format(new Date(guide.updated));
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'TechArticle',
+  headline: guide.title,
+  description: guide.dek,
+  datePublished: guide.updated,
+  dateModified: guide.updated,
+  inLanguage: 'tr-TR',
+  mainEntityOfPage: { '@type': 'WebPage', '@id': pageUrl },
+  articleSection: guide.system,
+  proficiencyLevel: 'Intermediate',
+  publisher: {
+    '@type': 'Organization',
+    name: 'Makine Nabzı',
+    url: 'https://makinenabzi.com/',
+    logo: { '@type': 'ImageObject', url: 'https://makinenabzi.com/brand-mark.svg' }
+  }
+};
+---
+<BaseLayout title={guide.title} description={guide.dek} type="article" publishedTime={guide.updated} modifiedTime={guide.updated} jsonLd={jsonLd}>
+  <article class="article-page">
+    <header class="article-hero">
+      <div class="container article-narrow">
+        <div class="article-meta">
+          <span class="tag">Sistem {guide.systemNo}</span>
+          <span class="tag">{guide.system}</span>
+          <time datetime={guide.updated}>Güncelleme: {updatedLabel}</time>
+          <span class="tag">{readingMinutes} dk okuma</span>
+        </div>
+        <h1>{guide.title}</h1>
+        <p class="article-dek">{guide.dek}</p>
+      </div>
+    </header>
+
+    <div class="container article-layout">
+      <div class="article-body guide-body">
+        {guide.sections.map((section) => (
+          <section>
+            <h2>{section.heading}</h2>
+            {section.paragraphs.map((p) => <p>{p}</p>)}
+            {section.bullets?.length ? <ul>{section.bullets.map((b) => <li>{b}</li>)}</ul> : null}
+          </section>
+        ))}
+
+        {guide.note && <p class="guide-note">{guide.note}</p>}
+
+        <section class="article-source">
+          <h2>Teknik Merkez</h2>
+          <p>Bu dosya Makine Nabzı Teknik Merkez kapsamında hazırlanmıştır.</p>
+          <a href="/teknik-blog/">Tüm sistem dosyalarına dön →</a>
+        </section>
+      </div>
+    </div>
+  </article>
+</BaseLayout>

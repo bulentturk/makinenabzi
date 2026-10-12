@@ -4,35 +4,35 @@ export const sectors = [
     title: 'İş Makinaları',
     kicker: 'Construction Equipment',
     description: 'Ekskavatör, yükleyici, dozer, greyder, kompakt ekipman ve yol makineleri.',
-    image: 'https://images.unsplash.com/photo-1764422743505-97c9ea0e43f2?auto=format&fit=crop&w=1200&q=72'
+    image: '/sector-is-makinalari.webp'
   },
   {
     slug: 'madencilik',
     title: 'Madencilik',
     kicker: 'Mining',
     description: 'Yeraltı ve açık ocak makineleri, LHD, kamyon, delici, kırıcı ve otonom filo teknolojileri.',
-    image: 'https://images.unsplash.com/photo-1786209273552-3b57dec47c94?auto=format&fit=crop&w=1200&q=72'
+    image: '/sector-madencilik.webp'
   },
   {
     slug: 'liman',
     title: 'Liman & Elleçleme',
     kicker: 'Ports & Handling',
     description: 'Reach stacker, terminal traktörü, vinç, konteyner elleçleme ve terminal otomasyonu.',
-    image: 'https://images.unsplash.com/photo-1773952984178-f91248ce704f?auto=format&fit=crop&w=1200&q=72'
+    image: '/sector-liman.webp'
   },
   {
     slug: 'tarim',
     title: 'Tarım Makinaları',
     kicker: 'Agricultural Machinery',
     description: 'Traktör, hasat, ekim, akıllı tarım, elektrifikasyon ve otonom saha sistemleri.',
-    image: 'https://images.unsplash.com/photo-1775931307655-2aed7e013020?auto=format&fit=crop&w=1200&q=72'
+    image: '/sector-tarim.webp'
   },
   {
     slug: 'arac-ustu-ekipman',
     title: 'Araç Üstü Ekipman',
     kicker: 'Truck-Mounted',
     description: 'Mobil vinç, beton ekipmanı, platform, pompa, belediye ve özel amaçlı üstyapılar.',
-    image: 'https://images.unsplash.com/photo-1764422743505-97c9ea0e43f2?auto=format&fit=crop&w=1200&q=72'
+    image: '/sector-truck-mounted.webp'
   },
   {
     slug: 'havaalani-gse',
@@ -53,7 +53,7 @@ export const sectors = [
     title: 'Elektrifikasyon & Dönüşüm',
     kicker: 'Electrification',
     description: 'Batarya, inverter, e-motor, şarj, retrofit, hibrit mimari ve termal yönetim.',
-    image: 'https://images.unsplash.com/photo-1764422743505-97c9ea0e43f2?auto=format&fit=crop&w=1200&q=72'
+    image: '/sector-elektrifikasyon.webp'
   }
 ] as const;
 

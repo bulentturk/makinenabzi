@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { guides } from '../data/technical-guides';
 const items=[
   ['Yürüyüş & Güç Aktarma','Şanzıman, torque converter, powershift ve hidrostatik tahrik; aks, diferansiyel, final drive, planet redüktör, palet-lastik yürüyüş elemanları, aşınma ve yağlama.'],
   ['Elektrifikasyon & Elektrikli Tahrik','Elektrik motoru, inverter, batarya, BMS, HV mimari ve termal yönetim.'],
@@ -18,4 +19,15 @@ const items=[
   <section class="section"><div class="container"><div class="grid-3">
     {items.map(([title,desc],i) => <article class="card"><span class="tag">Sistem {String(i+1).padStart(2,'0')}</span><h3>{title}</h3><p>{desc}</p></article>)}
   </div></div></section>
+  <section class="section"><div class="container">
+    <h2>Yayınlanan teknik dosyalar</h2>
+    <div class="guide-list">
+      {guides.map((guide) => (
+        <a class="guide-link" href={`/teknik-blog/${guide.slug}/`}>
+          <b>{guide.title}</b>
+          <span>{guide.system}</span>
+        </a>
+      ))}
+    </div>
+  </div></section>
 </BaseLayout>
