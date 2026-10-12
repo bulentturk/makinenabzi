@@ -3,6 +3,10 @@ import news from '../data/published-news.json';
 
 const entities: Record<string,string> = {'&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;', "'":'&apos;'};
 const escapeXml = (value: unknown) => String(value ?? '').replace(/[&<>"']/g, char => entities[char]);
+const sectorLabels: Record<string,string> = {
+  'is-makinalari':'İş Makinaları', madencilik:'Madencilik', liman:'Liman & Elleçleme', tarim:'Tarım Makinaları',
+  'arac-ustu-ekipman':'Araç Üstü Ekipman', 'havaalani-gse':'Havalimanı & GSE', 'marine-yatcilik':'Marine & Yatçılık', elektrifikasyon:'Elektrifikasyon'
+};
 
 export const GET: APIRoute = ({ site }) => {
   const origin = site ?? new URL('https://makinenabzi.com/');
@@ -16,6 +20,7 @@ export const GET: APIRoute = ({ site }) => {
     <link>${escapeXml(url)}</link>
     <guid isPermaLink="false">${escapeXml(item.id)}</guid>
     <pubDate>${escapeXml(date)}</pubDate>
+    <category>${escapeXml(sectorLabels[item.sector] || item.sector)}</category>
     <description>${escapeXml(`${item.dek} Kaynak: ${item.source_name} — ${item.source_url}`)}</description>
   </item>`;
     }).join('\n');

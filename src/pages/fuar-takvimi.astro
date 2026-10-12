@@ -9,8 +9,32 @@ const upcoming = [...events]
   .sort((a,b) => Date.parse(a.start)-Date.parse(b.start));
 
 const years = [...new Set(upcoming.map(e => new Date(e.start).getFullYear()))];
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: 'Makine Nabzı Fuar Takvimi',
+  itemListElement: upcoming.map((event, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    item: {
+      '@type': 'Event',
+      name: event.name,
+      startDate: event.start,
+      endDate: event.end || event.start,
+      eventStatus: 'https://schema.org/EventScheduled',
+      eventAttendanceMode: 'https://schema.org/OfflineEventAttendanceMode',
+      location: {
+        '@type': 'Place',
+        name: `${event.city}, ${event.country}`,
+        address: { '@type': 'PostalAddress', addressLocality: event.city, addressCountry: event.country }
+      },
+      description: event.focus,
+      ...(event.url ? { url: event.url } : {})
+    }
+  }))
+};
 ---
-<BaseLayout title="Fuar Takvimi" description="İş makinaları, madencilik, tarım, marine ve yatçılık, off-highway ve mobil ekipman teknolojilerinde doğrulanmış fuar takvimi.">
+<BaseLayout title="Fuar Takvimi" description="İş makinaları, madencilik, tarım, marine ve yatçılık, off-highway ve mobil ekipman teknolojilerinde doğrulanmış fuar takvimi." jsonLd={jsonLd}>
   <section class="page-head"><div class="container">
     <span class="eyebrow">Doğrulanmış sektör takvimi</span>
     <h1>Fuar & Etkinlik Takvimi</h1>

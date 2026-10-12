@@ -43,10 +43,31 @@ const highlights = [
   }
 ];
 ---
-<BaseLayout>
+<BaseLayout
+  title="Makine Nabzı — Mobil Makine Teknolojileri Platformu"
+  description="İş makinaları, madencilik, liman, tarım, araç üstü ekipman, havalimanı GSE ve marine teknolojilerinde haber, teknik analiz, saha rehberi ve fuar takvimi."
+  jsonLd={[
+    {
+      '@context': 'https://schema.org',
+      '@type': 'WebSite',
+      name: 'Makine Nabzı',
+      url: 'https://makinenabzi.com/',
+      inLanguage: 'tr-TR',
+      description: 'Mobil makine teknolojileri haber ve teknik analiz platformu.'
+    },
+    {
+      '@context': 'https://schema.org',
+      '@type': 'Organization',
+      name: 'Makine Nabzı',
+      url: 'https://makinenabzi.com/',
+      logo: 'https://makinenabzi.com/brand-mark.svg',
+      sameAs: ['https://makinenabzi.com/rss.xml']
+    }
+  ]}
+>
   <section class="hero hero-v2">
     <div class="hero-media">
-      <img src="https://images.unsplash.com/photo-1764422743505-97c9ea0e43f2?auto=format&fit=crop&w=2200&q=86" alt="Ağır iş makinası" />
+      <img src="https://images.unsplash.com/photo-1764422743505-97c9ea0e43f2?auto=format&fit=crop&w=1800&q=72" alt="Sahada çalışan ağır iş makinası" fetchpriority="high" decoding="async" />
       <div class="hero-shade"></div>
     </div>
     <div class="container hero-v2-content">
@@ -193,7 +214,7 @@ const highlights = [
   <section class="section">
     <div class="container split-feature">
       <div class="split-image">
-        <img src="https://images.unsplash.com/photo-1786209273552-3b57dec47c94?auto=format&fit=crop&w=1600&q=82" alt="Madencilik makinası" loading="lazy" />
+        <img src="https://images.unsplash.com/photo-1786209273552-3b57dec47c94?auto=format&fit=crop&w=1200&q=72" alt="Madencilik sahasında ağır ekipman" loading="lazy" decoding="async" />
       </div>
       <div class="split-copy">
         <span class="eyebrow">Özel Dosya</span>

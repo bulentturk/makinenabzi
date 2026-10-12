@@ -17,7 +17,7 @@ const sectorLabels = {
 const sorted = [...news].sort((a,b) => Date.parse(b.site_published_at || b.source_published_at) - Date.parse(a.site_published_at || a.source_published_at));
 const streams=[['OEM & Ürün','Yeni ürünler, ürün gamı genişletmeleri ve üretici duyuruları.'],['Yatırım & İş Birliği','Tesis yatırımları, satın almalar, niyet mektupları ve teknoloji ortaklıkları.'],['Regülasyon & Güvenlik','Emisyon, emniyet, saha güvenliği ve sektörel düzenlemeler.'],['Dijitalleşme','Otonomi, telemetri, kestirimci bakım, bağlantılı makine ve yazılım ekosistemi.'],['Pazar & Veri','Üretim, ihracat, satış ve bölgesel pazar hareketleri.'],['Saha','Fuarlar, kullanıcı gözlemleri, birlikler, kooperatifler ve uygulama örnekleri.']];
 ---
-<BaseLayout title="Haberler">
+<BaseLayout title="Haberler" description="İş makinaları, madencilik, liman, tarım, GSE, marine ve elektrifikasyon haberleri: OEM duyuruları, yatırım, regülasyon ve saha gelişmeleri kaynak gösterilerek yayımlanır.">
   <section class="page-head"><div class="container">
     <span class="eyebrow">Günlük yayın ekseni</span>
     <h1>Haberler</h1>

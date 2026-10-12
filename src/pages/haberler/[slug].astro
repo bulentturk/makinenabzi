@@ -35,8 +35,37 @@ const sourceDate = dateFormat.format(new Date(item.source_published_at));
 const siteDate = dateFormat.format(new Date(item.site_published_at));
 const updatedDate = item.site_updated_at ? dateFormat.format(new Date(item.site_updated_at)) : '';
 const paragraphs = String(item.summary || '').split(/\n\s*\n/).filter(Boolean);
+const pageUrl = Astro.site ? new URL(Astro.url.pathname, Astro.site).href : Astro.url.href;
+const dateModified = item.site_updated_at || item.site_published_at;
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'NewsArticle',
+  headline: item.title,
+  description: item.dek,
+  datePublished: item.site_published_at,
+  dateModified,
+  inLanguage: 'tr-TR',
+  mainEntityOfPage: { '@type': 'WebPage', '@id': pageUrl },
+  articleSection: sectorLabels[item.sector] || item.sector,
+  keywords: (item.tags || []).join(', '),
+  ...(item.hero_image ? { image: [item.hero_image] } : {}),
+  publisher: {
+    '@type': 'Organization',
+    name: 'Makine Nabzı',
+    url: 'https://makinenabzi.com/',
+    logo: { '@type': 'ImageObject', url: 'https://makinenabzi.com/brand-mark.svg' }
+  }
+};
 ---
-<BaseLayout title={item.title} description={item.dek}>
+<BaseLayout
+  title={item.title}
+  description={item.dek}
+  type="article"
+  publishedTime={item.site_published_at}
+  modifiedTime={dateModified}
+  image={item.hero_image}
+  jsonLd={jsonLd}
+>
   <article class="article-page">
     <header class="article-hero">
       <div class="container article-narrow">
