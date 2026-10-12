@@ -371,67 +371,6 @@
     }
   },
   {
-    "id": "9cfcccf02c47a047",
-    "status": "published",
-    "title_original": "Electric drivetrain on the Agrifac sprayer",
-    "source_name": "Powertrain International Off-Highway",
-    "source_url": "https://www.powertraininternationalweb.com/off-highway/agrifac-sprayer-electrification-world-agritech/",
-    "source_feed": "https://www.powertraininternationalweb.com/category/off-highway/feed/",
-    "published_at": "2026-10-08T15:56:59.000Z",
-    "discovered_at": "2026-10-08T20:38:06.365Z",
-    "sector": "is-makinalari",
-    "technologies": [
-      "elektrifikasyon",
-      "yuruyus-guc-aktarma"
-    ],
-    "relevance_score": 154,
-    "editorial_fit_score": 91,
-    "summary_source": "Agrifac introduces a new drive platform for the current generation of its self-propelled sprayers. This allows the same machine to be supplied in a diesel-electric, hybrid or fully electric configuration The post Electric drivetrain on the Agrifac sprayer appeared first on Powertrain International.",
-    "editorial": {
-      "title_tr": "Agrifac, püskürtme makineleri için elektrikli tahrik platformu sunuyor",
-      "dek_tr": "Agrifac’ın yeni platformu, kendinden yürür tarla pülverizatörünün dizel-elektrik, hibrit veya tam elektrikli konfigürasyonda sunulmasına olanak veriyor. Seçenekler, elektriğin üretilme ve depolanma biçimine göre ayrılıyor.",
-      "summary_tr": "Habere göre Agrifac, mevcut nesil kendinden yürür pülverizatörleri için ortak bir elektrikli tahrik altyapısı geliştirdi. Dizel-elektrik seçeneğinde altı silindirli dizel motor jeneratörü besliyor; hibritte daha küçük dört silindirli motor bataryayı gerektiğinde şarj ederek menzil uzatıcı görevi görüyor. Tam elektrikli sürüm ise harici olarak şarj edilen bataryayla çalışıyor.\n\nKaynak, hibrit seçeneğin sürekli 301 hp, kısa süreli olarak 447 hp’ye kadar güç sağlayabildiğini bildiriyor. Dizel-elektrik ve tam elektrikli sürümlerin güç değerleri henüz kesinleşmemiş; her iki konfigürasyon için de geleneksel makineye en az eşdeğer güç hedefleniyor.\n\nHaberde üreticinin tahminleri olarak dizel-elektrik modelde yaklaşık yüzde 35, hibritte yaklaşık yüzde 50 yakıt tasarrufu ve elektrikli tahrikte yüzde 95’in üzerinde verimlilik aktarılıyor. Tam elektrikli seçeneğin yerel emisyonsuz çalışabileceği belirtilirken, uygun konfigürasyonun uygulamaya ve şarj altyapısına bağlı olduğu vurgulanıyor.",
-      "why_it_matters_tr": "Tarla pülverizatörlerinde aynı makine platformunun farklı enerji konfigürasyonlarına uyarlanması, filoların iş profili ve şarj altyapısına göre seçim yapmasına imkân verebilir. Bu yaklaşımın pratik verim ve tasarruf sonuçları ise bağımsız saha verileriyle değerlendirilmelidir.",
-      "seo_title": "Agrifac pülverizatörleri için elektrikli tahrik platformu",
-      "meta_description": "Agrifac’ın yeni platformu pülverizatörleri dizel-elektrik, hibrit veya tam elektrikli sunuyor. Hibrit sürümün güç değerleri ve üretici tasarruf tahminleri.",
-      "hero_image": "",
-      "reviewed": true,
-      "key_facts": [
-        "Yeni platform, dizel-elektrik, hibrit ve tam elektrikli konfigürasyonları destekliyor.",
-        "Hibritte dört silindirli dizel motor bataryayı şarj eden menzil uzatıcı olarak kullanılıyor.",
-        "Habere göre hibrit sürüm 301 hp sürekli, 447 hp'ye kadar kısa süreli güç sunuyor.",
-        "Kaynak, dizel-elektrik ve hibrit sürümler için sırasıyla yaklaşık yüzde 35 ve yüzde 50 yakıt tasarrufu öngörüyor."
-      ],
-      "suggested_tags": [
-        "Agrifac",
-        "tarım makineleri",
-        "pülverizatör",
-        "elektrikli tahrik",
-        "hibrit"
-      ],
-      "suggested_sector": "tarim",
-      "editorial_format": "haber",
-      "suggested_technologies": [
-        "elektrifikasyon",
-        "yuruyus-guc-aktarma"
-      ],
-      "source_facts_used": [
-        "Agrifac'ın mevcut nesil kendinden yürür pülverizatörleri için yeni bir tahrik platformu sunduğu bilgisi.",
-        "Dizel-elektrik, hibrit ve tam elektrikli konfigürasyonların çalışma biçimleri.",
-        "Hibrit sürüm için bildirilen sürekli ve kısa süreli güç değerleri.",
-        "Yakıt tasarrufu ve tahrik verimliliği oranlarının kaynakta üretici tahmini olarak aktarılması."
-      ],
-      "uncertainty_notes": [
-        "Yakıt tasarrufu ve yüzde 95'in üzerindeki verimlilik değerleri kaynakta verilen iddialardır; bağımsız test veya saha verisi sunulmuyor.",
-        "Dizel-elektrik ve tam elektrikli konfigürasyonların güç değerleri henüz kesinleşmemiş."
-      ],
-      "generated_at": "2026-10-08T20:39:04.732Z",
-      "generated_by": "github-models",
-      "reviewed_at": "2026-10-10T16:17:14.945Z",
-      "review_result": "published"
-    }
-  },
-  {
     "id": "80f6d8056f91e987",
     "status": "candidate",
     "title_original": "Trioliet to expand self-propelled feed mixer range at EuroTier",
@@ -440,7 +379,7 @@
     "source_feed": "https://www.ivtinternational.com/feed",
     "published_at": "2026-10-12T11:29:42.000Z",
     "discovered_at": "2026-10-12T12:36:20.187Z",
-    "sector": "tarim",
+    "sector": "is-makinalari",
     "technologies": [],
     "relevance_score": 150,
     "editorial_fit_score": 55,
@@ -490,7 +429,7 @@
     "source_feed": "https://www.ivtinternational.com/feed",
     "published_at": "2026-10-12T10:57:57.000Z",
     "discovered_at": "2026-10-12T12:36:20.190Z",
-    "sector": "tarim",
+    "sector": "is-makinalari",
     "technologies": [],
     "relevance_score": 150,
     "editorial_fit_score": 55,
@@ -722,55 +661,6 @@
     }
   },
   {
-    "id": "65c26df92d487318",
-    "status": "published",
-    "title_original": "VIDEO: Wacker Neuson introduces new excavators",
-    "source_name": "iVT International",
-    "source_url": "https://www.ivtinternational.com/videos/video-wacker-neuson-introduces-new-and-redesigned-excavators.html",
-    "source_feed": "https://www.ivtinternational.com/feed",
-    "published_at": "2026-10-01T09:05:16.000Z",
-    "discovered_at": "2026-10-01T11:16:32.544Z",
-    "sector": "is-makinalari",
-    "technologies": [],
-    "relevance_score": 150,
-    "editorial_fit_score": 65,
-    "summary_source": "iVT International visited Wacker Neuson’s production and development site in Hörsching, Austria, to learn more about the OEM’s latest excavator launches. Ronald Ganzenhuber introduces the EW135, the newest addition to [...] The post VIDEO: Wacker Neuson introduces new excavators appeared first on Industrial Vehicle Technology International.",
-    "editorial": {
-      "title_tr": "Wacker Neuson yeni ekskavatörlerini tanıttı; EW135 seriye katıldı",
-      "dek_tr": "iVT International’ın aktardığı videoda Wacker Neuson’un yeni ekskavatör lansmanları ele alınıyor. EW135, üreticinin ekskavatör ürün gamına eklenen en yeni model olarak tanıtılıyor.",
-      "summary_tr": "iVT International, Wacker Neuson’un Avusturya’nın Hörsching kentindeki üretim ve geliştirme tesisini ziyaret ederek şirketin yeni ekskavatör lansmanlarını inceledi. Videoda şirket yöneticisi Ronald Ganzenhuber, EW135’i ürün gamına katılan en yeni ekskavatör olarak tanıtıyor.\n\nKaynakta EW135’in teknik özellikleri veya tanıtılan diğer yeni ya da yeniden tasarlanan ekskavatörlerin model adları yer almıyor.",
-      "why_it_matters_tr": "Yeni ekskavatör modelleri, iş makinesi ürün gamındaki gelişmeleri takip edenler için doğrudan ilgi taşıyor. Ancak mevcut kaynak teknik değişiklikleri açıklamadığından, modelin saha performansı veya segment içindeki farkı hakkında değerlendirme yapmak mümkün değil.",
-      "seo_title": "Wacker Neuson EW135 ekskavatörünü tanıttı",
-      "meta_description": "Wacker Neuson’un yeni ekskavatör lansmanlarını ele alan iVT International videosunda EW135, ürün gamının en yeni modeli olarak tanıtılıyor.",
-      "hero_image": "",
-      "reviewed": true,
-      "key_facts": [
-        "iVT International, Wacker Neuson’un Hörsching’deki üretim ve geliştirme tesisini ziyaret etti.",
-        "EW135, videoda şirketin ekskavatör gamına katılan en yeni model olarak tanıtılıyor."
-      ],
-      "suggested_tags": [
-        "Wacker Neuson",
-        "EW135",
-        "ekskavatör",
-        "iş makineleri"
-      ],
-      "suggested_sector": "is-makinalari",
-      "editorial_format": "haber",
-      "suggested_technologies": [],
-      "source_facts_used": [
-        "iVT International’ın Hörsching’deki üretim ve geliştirme tesisini ziyaret ederek yeni ekskavatör lansmanları hakkında video hazırladığı bilgisi.",
-        "EW135’in şirketin en yeni ekskavatör modeli olarak tanıtıldığı bilgisi."
-      ],
-      "uncertainty_notes": [
-        "Kaynakta EW135’in teknik özellikleri, uygulama alanı veya diğer yeni modellerin adları açıklanmıyor."
-      ],
-      "generated_at": "2026-10-01T11:17:44.546Z",
-      "generated_by": "github-models",
-      "reviewed_at": "2026-10-12T20:12:04.289Z",
-      "review_result": "published"
-    }
-  },
-  {
     "id": "a20e0227a83484d4",
     "status": "drafted",
     "title_original": "Kubota upgrades KX016-5 and KX019-5 compact excavators",
@@ -928,59 +818,78 @@
     }
   },
   {
-    "id": "8efdd3e5e51db0c6",
-    "status": "published",
-    "title_original": "Five-year journey positions Portsmouth at heart of clean ports",
-    "source_name": "Port Strategy",
-    "source_url": "https://www.portstrategy.com/news/greenport-congress/five-year-journey-positions-portsmouth-at-heart-of-clean-ports/",
-    "source_feed": "https://www.portstrategy.com/feed",
-    "published_at": "2026-10-05T12:51:02.000Z",
-    "discovered_at": "2026-10-05T21:56:35.503Z",
-    "sector": "marine-yatcilik",
-    "technologies": [
-      "elektrifikasyon"
-    ],
-    "relevance_score": 138,
-    "editorial_fit_score": 67,
-    "summary_source": "Portsmouth’s shore power journey offers practical lessons for ports scaling clean technologies across the UK",
+    "id": "c1c13b7e0672d5c1",
+    "status": "candidate",
+    "title_original": "Africa’s first non-ferrous mining TBM advances further at NFCA’s Chambishi",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/10/12/africas-first-non-ferrous-mining-tbm-advances-further-at-nfcas-chambishi/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-10-12T15:47:03.000Z",
+    "discovered_at": "2026-10-12T22:06:05.266Z",
+    "sector": "madencilik",
+    "technologies": [],
+    "relevance_score": 140,
+    "editorial_fit_score": 55,
+    "summary_source": "Africa’s first non-ferrous metal mining TBM – China Nonferrous Metals No. 2 – was jointly built by CRCC subsidiary China Railway Construction Heavy Industry (CRCHI) and China Metallurgical Corporation 15, with the companies also providing full-process technical operation and maintenance services. During the trial excavation period this year from August 26 to September 25 at The post Africa’s first non-ferrous mining TBM advances further at NFCA’s Chambishi appeared first on International Mining.",
     "editorial": {
-      "title_tr": "Portsmouth, kıyı elektriği deneyimini temiz limanlar için yayımladı",
-      "dek_tr": "Portsmouth International Port, beş yıllık kıyı elektriği çalışmalarını ve ölçek büyütmenin önündeki konuları ele alan bir teknik doküman yayımladı. Liman, Birleşik Krallık’ın ilk yüksek gerilimli, çok rıhtımlı ve çok kullanıcılı kıyı elektriği sistemine ev sahipliği yapıyor.",
-      "summary_tr": "Portsmouth International Port’un 20 sayfalık “Plugging in – Portsmouth’s shore power journey and the future of clean ports” başlıklı dokümanı, limanın beş yıllık kıyı elektriği deneyimini ve temiz liman uygulamalarının yaygınlaştırılmasına ilişkin fırsat ve zorlukları ele alıyor. Doküman British Ports Association ile ortak hazırlanmış.\n\nSea Change projesine katkı veren kuruluşların deneyimlerinin, 7-9 Ekim 2026’da düzenlenecek GreenPort Congress’te paylaşılması planlanıyor. Kaynak, sistemin Birleşik Krallık’taki ilk yüksek gerilimli, çok rıhtımlı ve çok kullanıcılı kıyı elektriği altyapısı olduğunu belirtiyor.",
-      "why_it_matters_tr": "Kıyı elektriği, limanda bağlı gemilerin enerji ihtiyacının karadaki altyapı üzerinden karşılanmasını sağlayabilir. Portsmouth deneyimi, benzer sistemleri değerlendiren limanlar için altyapı ölçekleme ve çok kullanıcılı işletme konularına dair pratik bir referans sunabilir.",
-      "seo_title": "Portsmouth’un kıyı elektriği deneyimi ve temiz limanlar",
-      "meta_description": "Portsmouth International Port, beş yıllık kıyı elektriği deneyimini ve temiz liman teknolojilerinin yaygınlaştırılmasına ilişkin konuları raporladı.",
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
       "hero_image": "",
-      "reviewed": true,
-      "key_facts": [
-        "Portsmouth International Port, kıyı elektriği deneyimini anlatan 20 sayfalık bir doküman yayımladı.",
-        "Kaynağa göre limanda Birleşik Krallık’ın ilk yüksek gerilimli, çok rıhtımlı ve çok kullanıcılı kıyı elektriği sistemi bulunuyor.",
-        "GreenPort Congress 7-9 Ekim 2026 tarihlerinde düzenlenecek."
-      ],
-      "suggested_tags": [
-        "kıyı elektriği",
-        "liman elektrifikasyonu",
-        "temiz liman",
-        "Portsmouth"
-      ],
-      "suggested_sector": "liman",
-      "editorial_format": "haber",
-      "suggested_technologies": [
-        "elektrifikasyon"
-      ],
-      "source_facts_used": [
-        "Portsmouth’un kıyı elektriği sistemi yüksek gerilimli, çok rıhtımlı ve çok kullanıcılı olarak tanımlanıyor.",
-        "Liman, beş yıllık deneyimini ele alan 20 sayfalık bir doküman yayımladı.",
-        "Sea Change proje ekibinin GreenPort Congress’te deneyimlerini paylaşması planlanıyor."
-      ],
-      "uncertainty_notes": [
-        "Sistemin performansı, kullanım oranı ve emisyon etkisine ilişkin bağımsız ölçüm verisi kaynakta yer almıyor.",
-        "Birleşik Krallık’taki ilk olma iddiası kaynak metne dayanmaktadır; ayrıca doğrulanmış değildir."
-      ],
-      "generated_at": "2026-10-05T21:57:41.260Z",
-      "generated_by": "github-models",
-      "reviewed_at": "2026-10-12T20:09:16.701Z",
-      "review_result": "published"
+      "reviewed": false
+    }
+  },
+  {
+    "id": "7a3c85a7058a86a8",
+    "status": "candidate",
+    "title_original": "Boy Awarded $65M After Excavator Crashes Into Bridge, Kills His Mom",
+    "source_name": "Equipment World",
+    "source_url": "https://www.equipmentworld.com/business/article/15836939/jury-awards-65m-to-son-of-woman-killed-in-excavator-bridge-crash",
+    "source_feed": "https://www.equipmentworld.com/feed/",
+    "published_at": "2026-10-09T14:30:00.000Z",
+    "discovered_at": "2026-10-12T22:06:06.153Z",
+    "sector": "is-makinalari",
+    "technologies": [],
+    "relevance_score": 135,
+    "editorial_fit_score": 55,
+    "summary_source": "The driver hauling the excavator had just gotten his CDL four days earlier and had not properly loaded the machine onto the trailer...",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "36c967b698f1b852",
+    "status": "candidate",
+    "title_original": "“Emily” Tunnel Boring Machine Christened for $819M D.C. Potomac River Tunnel",
+    "source_name": "Equipment World",
+    "source_url": "https://www.equipmentworld.com/technology/article/15836938/dc-water-christens-second-tbm-for-potomac-river-tunnel",
+    "source_feed": "https://www.equipmentworld.com/feed/",
+    "published_at": "2026-10-09T14:15:00.000Z",
+    "discovered_at": "2026-10-12T22:06:06.154Z",
+    "sector": "is-makinalari",
+    "technologies": [],
+    "relevance_score": 135,
+    "editorial_fit_score": 55,
+    "summary_source": "Emily will travel 3 miles south to connect with the existing Anacostia River Tunnel dug by TBM Mary.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -1036,6 +945,31 @@
     }
   },
   {
+    "id": "d69618eb20d53563",
+    "status": "candidate",
+    "title_original": "Manitou Group Introduces Largest Rotating Telehandler",
+    "source_name": "Construction Equipment Guide",
+    "source_url": "https://www.constructionequipmentguide.com/manitou-group-introduces-largest-rotating-telehandler/72472",
+    "source_feed": "https://feeds.feedburner.com/ceg",
+    "published_at": "2026-10-12T05:00:00.000Z",
+    "discovered_at": "2026-10-12T22:06:04.369Z",
+    "sector": "is-makinalari",
+    "technologies": [],
+    "relevance_score": 130,
+    "editorial_fit_score": 65,
+    "summary_source": "Manitou Group has introduced its new MRT 4080 — the largest “High Lift” in its offering of MRT Vision + rotating telehandlers....",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "27ca92b8295dcbac",
     "status": "drafted",
     "title_original": "Warrior Tractor Hosts John Deere Demo Open House Near Birmingham, Ala.",
@@ -1083,60 +1017,6 @@
       ],
       "generated_at": "2026-10-09T20:04:39.050Z",
       "generated_by": "github-models"
-    }
-  },
-  {
-    "id": "1ccecaf19882be58",
-    "status": "published",
-    "title_original": "New Perkins 5016 Diesel Engine Completes 5000 Series Range",
-    "source_name": "Construction Equipment Guide",
-    "source_url": "https://www.constructionequipmentguide.com/new-perkins-5016-diesel-engine-completes-5000-series-range/72450",
-    "source_feed": "https://feeds.feedburner.com/ceg",
-    "published_at": "2026-10-07T05:00:00.000Z",
-    "discovered_at": "2026-10-08T11:42:10.912Z",
-    "sector": "is-makinalari",
-    "technologies": [],
-    "relevance_score": 130,
-    "editorial_fit_score": 65,
-    "summary_source": "Perkins’ new 5016 full-authority electronic engine for power generation is in production. ...",
-    "editorial": {
-      "title_tr": "Perkins 5016 dizel motoru 5000 serisini tamamladı",
-      "dek_tr": "Perkins 5016, üretime alınan ve güç üretimi için tasarlanan tam yetkili elektronik kontrollü bir dizel motor olarak tanıtılıyor. Sağlanan bilgiler motorun teknik değerlerini ve mobil makine uygulamalarını açıklamıyor.",
-      "summary_tr": "Construction Equipment Guide’ın sağlanan özetine göre Perkins 5016 dizel motoru üretime girdi ve 5000 serisi ürün gamını tamamladı. Motor, güç üretimi uygulamaları için tanımlanıyor.\n\nKaynak özeti, motorun güç çıkışı, emisyon seviyesi, yakıt tüketimi veya diğer teknik özelliklerini vermiyor. Mobil iş makinelerinde kullanılacağına dair bir bilgi de paylaşılmamış.",
-      "why_it_matters_tr": "Dizel motorlardaki yeni ürün ve teknik değişiklikler iş makineleri, maden ve tarım gibi alanlarda önem taşıyabilir. Ancak bu duyuru için verilen bilgiler 5016’yı güç üretimiyle ilişkilendiriyor; mobil makine kullanımını veya sektöre özgü teknik farkı ortaya koymadığından doğrudan uygulama ilgisi belirsiz.",
-      "seo_title": "Perkins 5016 dizel motoru üretime girdi",
-      "meta_description": "Perkins 5016, güç üretimi için tam yetkili elektronik kontrollü dizel motor olarak üretime alındı ve 5000 serisi ürün gamını tamamladı.",
-      "hero_image": "",
-      "reviewed": true,
-      "key_facts": [
-        "Perkins 5016 dizel motoru üretime girdi.",
-        "Kaynak, motoru güç üretimi için tanımlıyor.",
-        "5016’nın 5000 serisi ürün gamını tamamladığı belirtiliyor.",
-        "Motor tam yetkili elektronik kontrollü olarak tanımlanıyor."
-      ],
-      "suggested_tags": [
-        "Perkins",
-        "5016",
-        "dizel motor",
-        "güç üretimi"
-      ],
-      "suggested_sector": "is-makinalari",
-      "editorial_format": "haber",
-      "suggested_technologies": [],
-      "source_facts_used": [
-        "Perkins 5016’nın güç üretimi için tasarlanmış dizel motor olarak üretime girmesi.",
-        "Motorun tam yetkili elektronik kontrollü olarak tanımlanması.",
-        "Modelin 5000 serisi ürün gamını tamamlaması."
-      ],
-      "uncertainty_notes": [
-        "Kaynak sayfasına HTTP 403 nedeniyle erişilememiş; taslak yalnızca sağlanan kısa özete ve başlığa dayanıyor.",
-        "Motorun güç, emisyon, tüketim ve diğer teknik değerleri ile mobil makine kullanımına uygunluğu kaynakta belirtilmiyor.",
-        "Teknik iddialar bağımsız olarak doğrulanmamış."
-      ],
-      "generated_at": "2026-10-08T11:43:21.484Z",
-      "generated_by": "github-models",
-      "reviewed_at": "2026-10-12T20:13:06.691Z",
-      "review_result": "published"
     }
   },
   {
@@ -1430,61 +1310,30 @@
     }
   },
   {
-    "id": "9663e7ef7089ac09",
-    "status": "published",
-    "title_original": "Grove GMK6450-1 Dismantles Berlin Tower Crane",
+    "id": "e28894a93a3432d2",
+    "status": "candidate",
+    "title_original": "Superior Makes Titanium Seal Standard on Idler Rolls",
     "source_name": "Construction Equipment Guide",
-    "source_url": "https://www.constructionequipmentguide.com/grove-gmk64501-dismantles-berlin-tower-crane/72457",
+    "source_url": "https://www.constructionequipmentguide.com/superior-makes-titanium-seal-standard-on-idler-rolls/72471",
     "source_feed": "https://feeds.feedburner.com/ceg",
-    "published_at": "2026-10-08T05:00:00.000Z",
-    "discovered_at": "2026-10-08T20:38:05.891Z",
+    "published_at": "2026-10-12T05:00:00.000Z",
+    "discovered_at": "2026-10-12T22:06:04.370Z",
     "sector": "is-makinalari",
     "technologies": [
       "yuruyus-guc-aktarma"
     ],
     "relevance_score": 128,
     "editorial_fit_score": 67,
-    "summary_source": "German rental company MOBI-HUB deployed Grove's six-axle all-terrain crane to overcome strict transport restrictions and complete heavy lifts on a constrained urban job site....",
+    "summary_source": "Superior Industries is making its titanium seal standard on all of its conveyor idlers. ...",
     "editorial": {
-      "title_tr": "Grove GMK6450-1, Berlin’deki kule vincin sökümünde görev aldı",
-      "dek_tr": "İnşaat Equipment Guide’ın özetine göre MOBI-HUB, Berlin’de kısıtlı bir kent şantiyesindeki ağır kaldırma ve kule vinç sökümü için Grove GMK6450-1 arazi tipi mobil vinci kullandı. Kaynak erişim uyarısı nedeniyle uygulamaya ilişkin ayrıntılar sınırlı.",
-      "summary_tr": "Kaynak özetinde, Almanya merkezli kiralama şirketi MOBI-HUB’ın Berlin’deki bir kule vincin sökümünde Grove GMK6450-1 modelini kullandığı belirtiliyor. Altı akslı arazi tipi vinç, kısıtlı bir kentsel çalışma alanında ağır kaldırma işlerini gerçekleştirmek üzere görevlendirilmiş.\n\nÖzet, uygulamanın ulaşım kısıtlarıyla ve şantiye koşullarıyla ilişkili olduğunu bildiriyor; ancak kaldırma kapasitesi, bom konfigürasyonu, çalışma süresi veya vincin sahadaki düzenine ilişkin ayrıntı vermiyor.",
-      "why_it_matters_tr": "Kentsel şantiyelerde ağır kaldırma ve ekipman sökümü, erişim ve nakliye kısıtlarının mobil vinç seçiminde belirleyici olabildiği uygulamalardır. Bu örnek kullanımın teknik çözümünü değerlendirmek için kaynakta bulunmayan saha ve konfigürasyon ayrıntıları gerekir.",
-      "seo_title": "Grove GMK6450-1 Berlin’de kule vinç sökümünde",
-      "meta_description": "MOBI-HUB, kaynak özetine göre Grove GMK6450-1 arazi tipi mobil vinci Berlin’deki kule vinç sökümü ve kısıtlı şantiye çalışması için kullandı.",
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
       "hero_image": "",
-      "reviewed": true,
-      "key_facts": [
-        "Kaynak özeti, Berlin'deki kule vinç sökümünde Grove GMK6450-1 kullanıldığını belirtiyor.",
-        "Vinç, MOBI-HUB adlı Alman kiralama şirketi tarafından görevlendirilmiş.",
-        "Özet, modeli altı akslı arazi tipi vinç olarak tanımlıyor.",
-        "Uygulama kısıtlı bir kentsel şantiye ve ulaşım kısıtlarıyla ilişkilendiriliyor."
-      ],
-      "suggested_tags": [
-        "Grove",
-        "GMK6450-1",
-        "mobil vinç",
-        "kule vinç",
-        "şantiye"
-      ],
-      "suggested_sector": "is-makinalari",
-      "editorial_format": "haber",
-      "suggested_technologies": [
-        "yuruyus-guc-aktarma"
-      ],
-      "source_facts_used": [
-        "Kaynak özetinde Grove GMK6450-1'in Berlin'deki kule vinç sökümünde kullanıldığı bilgisi.",
-        "MOBI-HUB'ın Alman kiralama şirketi olduğu ve vincin altı akslı arazi tipi olarak tanımlanması.",
-        "Özetin kısıtlı kentsel şantiye ve ulaşım koşullarına işaret etmesi."
-      ],
-      "uncertainty_notes": [
-        "Kaynağa erişim 403 hatasıyla sınırlı; taslak yalnızca verilen kısa kaynak özetine dayanıyor.",
-        "Kaldırma konfigürasyonu, kapasite, saha düzeni ve operasyon sonuçları kaynak özetinde yer almıyor."
-      ],
-      "generated_at": "2026-10-08T20:39:04.732Z",
-      "generated_by": "github-models",
-      "reviewed_at": "2026-10-12T20:10:43.819Z",
-      "review_result": "published"
+      "reviewed": false
     }
   },
   {
