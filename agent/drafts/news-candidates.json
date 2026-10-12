@@ -1020,60 +1020,6 @@
     }
   },
   {
-    "id": "7c8e9b257c312ef4",
-    "status": "published",
-    "title_original": "Liebherr crane selected for Casablanca Port",
-    "source_name": "Port Strategy",
-    "source_url": "https://www.portstrategy.com/news/container-cargo-handling/liebherr-crane-selected-for-casablanca-port/",
-    "source_feed": "https://www.portstrategy.com/feed",
-    "published_at": "2026-10-05T12:11:58.000Z",
-    "discovered_at": "2026-10-05T21:56:35.505Z",
-    "sector": "liman",
-    "technologies": [],
-    "relevance_score": 130,
-    "editorial_fit_score": 65,
-    "summary_source": "Marsa Maroc has chosen an LPS 550 for Casablanca, bringing Africa’s first Liebherr portal slewing crane into service",
-    "editorial": {
-      "title_tr": "Liebherr LPS 550, Kazablanka Limanı için seçildi",
-      "dek_tr": "Marsa Maroc, Kazablanka Limanı’ndaki dökme yük operasyonları için ray üzerinde çalışan Liebherr LPS 550 portal döner vinci seçti. Kaynak, bunun Afrika’daki ilk Liebherr portal döner vinci olacağını belirtiyor.",
-      "summary_tr": "LPS 550, Marsa Maroc’un Kazablanka Limanı’ndaki dökme yük elleçleme kapasitesini genişletmek üzere seçildi. Vinç ray üzerinde çalışıyor; portal tasarımı, rıhtım alanını korumayı hedefleyen bir yerleşim sunuyor.\n\nKazablanka’da konteyner, çelik ürünleri, tahıl, hayvan yemi, mineral ve araç gibi farklı yükler elleçleniyor. Marsa Maroc, 2024’te üç Liebherr LHM 550 mobil liman vincini de teslim almıştı. Kaynakta LPS 550’nin teslim veya hizmete giriş takvimi belirtilmiyor.",
-      "why_it_matters_tr": "Ray üzerinde çalışan portal vinçler, rıhtım alanının kullanımını ve dökme yük elleçleme düzenini etkileyebilir. LPS 550 seçimi, farklı yük türlerine hizmet veren limanlarda mobil vinçlere ek olarak sabit, raylı ekipman çözümlerinin de değerlendirildiğini gösteriyor.",
-      "seo_title": "Liebherr LPS 550, Kazablanka Limanı’na seçildi",
-      "meta_description": "Marsa Maroc, Kazablanka Limanı’ndaki dökme yük operasyonları için raylı Liebherr LPS 550 portal döner vincini tercih etti.",
-      "hero_image": "",
-      "reviewed": true,
-      "key_facts": [
-        "Marsa Maroc, Kazablanka Limanı’nın dökme yük operasyonları için Liebherr LPS 550’yi seçti.",
-        "LPS 550 ray üzerinde çalışan bir portal döner vinçtir.",
-        "Kaynak, bunun Afrika’daki ilk Liebherr portal döner vinci olacağını bildiriyor.",
-        "Marsa Maroc 2024’te üç Liebherr LHM 550 mobil liman vinci teslim almıştı."
-      ],
-      "suggested_tags": [
-        "Liebherr LPS 550",
-        "liman vinci",
-        "dökme yük",
-        "Kazablanka Limanı",
-        "Marsa Maroc"
-      ],
-      "suggested_sector": "liman",
-      "editorial_format": "haber",
-      "suggested_technologies": [],
-      "source_facts_used": [
-        "Marsa Maroc’un Kazablanka’daki dökme yük operasyonları için LPS 550’yi seçtiği bildiriliyor.",
-        "Vinç raylı ve portal döner vinç olarak tanımlanıyor.",
-        "Kaynak, Marsa Maroc’un 2024’te üç LHM 550 mobil liman vinci aldığını belirtiyor."
-      ],
-      "uncertainty_notes": [
-        "Teslimat ve devreye alma tarihleri ile vincin kapasite ve erişim değerleri kaynakta verilmemiş.",
-        "Afrika’daki ilk olma iddiası kaynak metne dayanmaktadır; ayrıca doğrulanmış değildir."
-      ],
-      "generated_at": "2026-10-05T21:57:41.260Z",
-      "generated_by": "github-models",
-      "reviewed_at": "2026-10-12T22:18:30.118Z",
-      "review_result": "published"
-    }
-  },
-  {
     "id": "7812ddecfeac8062",
     "status": "drafted",
     "title_original": " Loftness Introduces Stone Crusher Attachment",
