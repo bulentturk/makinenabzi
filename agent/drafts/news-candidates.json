@@ -1021,7 +1021,7 @@
   },
   {
     "id": "7c8e9b257c312ef4",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Liebherr crane selected for Casablanca Port",
     "source_name": "Port Strategy",
     "source_url": "https://www.portstrategy.com/news/container-cargo-handling/liebherr-crane-selected-for-casablanca-port/",
@@ -1041,7 +1041,7 @@
       "seo_title": "Liebherr LPS 550, Kazablanka Limanı’na seçildi",
       "meta_description": "Marsa Maroc, Kazablanka Limanı’ndaki dökme yük operasyonları için raylı Liebherr LPS 550 portal döner vincini tercih etti.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Marsa Maroc, Kazablanka Limanı’nın dökme yük operasyonları için Liebherr LPS 550’yi seçti.",
         "LPS 550 ray üzerinde çalışan bir portal döner vinçtir.",
@@ -1068,7 +1068,9 @@
         "Afrika’daki ilk olma iddiası kaynak metne dayanmaktadır; ayrıca doğrulanmış değildir."
       ],
       "generated_at": "2026-10-05T21:57:41.260Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-12T22:18:30.118Z",
+      "review_result": "published"
     }
   },
   {
