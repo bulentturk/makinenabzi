@@ -723,7 +723,7 @@
   },
   {
     "id": "65c26df92d487318",
-    "status": "drafted",
+    "status": "published",
     "title_original": "VIDEO: Wacker Neuson introduces new excavators",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/videos/video-wacker-neuson-introduces-new-and-redesigned-excavators.html",
@@ -743,7 +743,7 @@
       "seo_title": "Wacker Neuson EW135 ekskavatörünü tanıttı",
       "meta_description": "Wacker Neuson’un yeni ekskavatör lansmanlarını ele alan iVT International videosunda EW135, ürün gamının en yeni modeli olarak tanıtılıyor.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "iVT International, Wacker Neuson’un Hörsching’deki üretim ve geliştirme tesisini ziyaret etti.",
         "EW135, videoda şirketin ekskavatör gamına katılan en yeni model olarak tanıtılıyor."
@@ -765,7 +765,9 @@
         "Kaynakta EW135’in teknik özellikleri, uygulama alanı veya diğer yeni modellerin adları açıklanmıyor."
       ],
       "generated_at": "2026-10-01T11:17:44.546Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-12T20:12:04.289Z",
+      "review_result": "published"
     }
   },
   {
