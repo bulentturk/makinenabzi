@@ -1,0 +1,42 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { formatPieces } from '../../data/formats';
+import { guides } from '../../data/technical-guides';
+
+const dateFormat = new Intl.DateTimeFormat('tr-TR', { day: 'numeric', month: 'long', year: 'numeric' });
+---
+<BaseLayout
+  title="İçerik Formatları"
+  description="Makine Dosyası, Karşılaştırma ve Saha Rehberi formatlarında mobil makine teknolojileri içerikleri: sınıf dosyaları, mimari karşılaştırmalar ve saha kontrol listeleri."
+  jsonLd={{'@context':'https://schema.org','@type':'CollectionPage',name:'İçerik Formatları — Makine Nabzı',url:'https://makinenabzi.com/formatlar/',isPartOf:{'@type':'WebSite',name:'Makine Nabzı',url:'https://makinenabzi.com/'}}}
+>
+  <section class="page-head"><div class="container">
+    <span class="eyebrow">Editoryal yapı</span>
+    <h1>İçerik Formatları</h1>
+    <p>Her içerik aynı amaca hizmet etmez. Makine Dosyası sınıfı tanımlar, Karşılaştırma karar vermeyi kolaylaştırır, Saha Rehberi ise pratikte ne yapılacağını adım adım anlatır. Teknik derinlik için ayrıca <a href="/teknik-blog/">Teknik Merkez</a> dosyalarına bakabilirsiniz.</p>
+  </div></section>
+
+  <section class="section"><div class="container">
+    <h2>Yayınlanan içerikler</h2>
+    <div class="guide-list">
+      {formatPieces.map((piece) => (
+        <a class="guide-link" href={`/formatlar/${piece.slug}/`}>
+          <b>{piece.title}</b>
+          <span>{piece.format} · {dateFormat.format(new Date(piece.updated))}</span>
+        </a>
+      ))}
+      {guides.map((guide) => (
+        <a class="guide-link" href={`/teknik-blog/${guide.slug}/`}>
+          <b>{guide.title}</b>
+          <span>Teknik İnceleme</span>
+        </a>
+      ))}
+    </div>
+  </div></section>
+
+  <section class="section"><div class="container grid-3">
+    <article class="card"><span class="tag">Makine Dosyası</span><h3>Makine sınıfını tanıyın</h3><p>Sınıf anatomisi, sınıf sınırları, uygulama haritası ve seçim kriterleri.</p></article>
+    <article class="card"><span class="tag">Karşılaştırma</span><h3>Karar verin</h3><p>Mimari, enerji, lojistik ve maliyet eksenlerinde teknik karşılaştırmalar.</p></article>
+    <article class="card"><span class="tag">Saha Rehberi</span><h3>Sahada uygulayın</h3><p>Arıza belirtileri, kontrol listeleri, bakım ve uygulama pratikleri.</p></article>
+  </div></section>
+</BaseLayout>

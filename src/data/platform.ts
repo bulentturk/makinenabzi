@@ -69,12 +69,12 @@ export const technologies = [
 ] as const;
 
 export const editorialFormats = [
-  ['Haber', 'Doğrulanmış sektör ve teknoloji gelişmeleri'],
-  ['Teknik İnceleme', 'Bileşen ve sistem seviyesinde mühendislik analizi'],
-  ['Makine Dosyası', 'Makine sınıfı, üreticiler, özellikler ve kullanım alanları'],
-  ['Teknoloji Radar', 'Yükselen teknoloji, prototip ve Ar-Ge yönleri'],
-  ['Karşılaştırma', 'Teknik özellik ve mimari karşılaştırmaları'],
-  ['Saha Rehberi', 'Bakım, arıza belirtisi, seçim ve uygulama pratikleri'],
-  ['Pazar & Veri', 'Üretim, ihracat, satış ve yatırım göstergeleri'],
-  ['Fuar & Etkinlik', 'Takvim, lansmanlar ve etkinlik sonrası teknik özet']
+  ['Haber', 'Doğrulanmış sektör ve teknoloji gelişmeleri', '/haberler/'],
+  ['Teknik İnceleme', 'Bileşen ve sistem seviyesinde mühendislik analizi', '/teknik-blog/'],
+  ['Makine Dosyası', 'Makine sınıfı, üreticiler, özellikler ve kullanım alanları', '/formatlar/paletli-ekskavator-sinifi-makine-dosyasi/'],
+  ['Teknoloji Radar', 'Yükselen teknoloji, prototip ve Ar-Ge yönleri', '/formatlar/'],
+  ['Karşılaştırma', 'Teknik özellik ve mimari karşılaştırmaları', '/formatlar/dizel-elektrikli-kompakt-ekskavator-karsilastirmasi/'],
+  ['Saha Rehberi', 'Bakım, arıza belirtisi, seçim ve uygulama pratikleri', '/formatlar/hidrolik-yag-sicakligi-saha-rehberi/'],
+  ['Pazar & Veri', 'Üretim, ihracat, satış ve yatırım göstergeleri', '/formatlar/'],
+  ['Fuar & Etkinlik', 'Takvim, lansmanlar ve etkinlik sonrası teknik özet', '/fuar-takvimi/']
 ] as const;

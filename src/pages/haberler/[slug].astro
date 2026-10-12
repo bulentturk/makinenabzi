@@ -35,6 +35,12 @@ const sourceDate = dateFormat.format(new Date(item.source_published_at));
 const siteDate = dateFormat.format(new Date(item.site_published_at));
 const updatedDate = item.site_updated_at ? dateFormat.format(new Date(item.site_updated_at)) : '';
 const paragraphs = String(item.summary || '').split(/\n\s*\n/).filter(Boolean);
+const { enrichments } = await import('../../data/article-enrichments');
+const { guides } = await import('../../data/technical-guides');
+const { formatPieces } = await import('../../data/formats');
+const enrichment = enrichments.find((e) => e.slug === item.slug);
+const enrichmentGuides = guides.filter((g) => (enrichment?.relatedGuides || []).includes(g.slug));
+const enrichmentFormats = formatPieces.filter((p) => (enrichment?.relatedFormats || []).includes(p.slug));
 const wordCount = String(item.summary || '').split(/\s+/).filter(Boolean).length + String(item.why_it_matters || '').split(/\s+/).filter(Boolean).length;
 const readingMinutes = Math.max(1, Math.round(wordCount / 200));
 const related = news
@@ -111,6 +117,14 @@ const jsonLd = {
           </section>
         ) : null}
 
+        {enrichment && (
+          <section class="article-analysis">
+            <span class="eyebrow">Makine Nabzı</span>
+            <h2>{enrichment.headline}</h2>
+            {enrichment.paragraphs.map((p) => <p>{p}</p>)}
+          </section>
+        )}
+
         {item.why_it_matters ? (
           <section class="article-analysis">
             <span class="eyebrow">Makine Nabzı yorumu</span>
@@ -118,6 +132,16 @@ const jsonLd = {
             <p>{item.why_it_matters}</p>
           </section>
         ) : null}
+
+        {(enrichmentGuides.length > 0 || enrichmentFormats.length > 0) && (
+          <section class="article-source">
+            <h2>Derinlemesine okuyun</h2>
+            <ul>
+              {enrichmentGuides.map((g) => <li><a href={`/teknik-blog/${g.slug}/`}>Teknik dosya: {g.title} →</a></li>)}
+              {enrichmentFormats.map((p) => <li><a href={`/formatlar/${p.slug}/`}>{p.format}: {p.title} →</a></li>)}
+            </ul>
+          </section>
+        )}
 
         <section class="article-source">
           <h2>Kaynak</h2>

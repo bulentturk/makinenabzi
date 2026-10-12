@@ -204,8 +204,8 @@ const highlights = [
         <p>Her içerik aynı amaca hizmet etmiyor. Güncel haber hızlı bilgi verirken teknik inceleme, karşılaştırma ve saha rehberi karar vermeyi kolaylaştırır.</p>
       </div>
       <div class="format-grid">
-        {editorialFormats.map(([title, description]) => (
-          <article class="format-card"><h3>{title}</h3><p>{description}</p></article>
+        {editorialFormats.map(([title, description, path]) => (
+          <a class="format-card" href={href(path)}><h3>{title}</h3><p>{description}</p></a>
         ))}
       </div>
     </div>

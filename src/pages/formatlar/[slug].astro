@@ -1,0 +1,98 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { formatPieces } from '../../data/formats';
+
+export function getStaticPaths() {
+  return formatPieces.map((piece) => ({
+    params: { slug: piece.slug },
+    props: { piece }
+  }));
+}
+
+const { piece } = Astro.props;
+const pageUrl = Astro.site ? new URL(Astro.url.pathname, Astro.site).href : Astro.url.href;
+const { guides } = await import('../../data/technical-guides');
+const relatedGuides = guides.filter((g) => (piece.relatedGuides || []).includes(g.slug));
+const wordCount = piece.intro.join(' ').split(/\s+/).length
+  + piece.sections.reduce((t, s) => t + s.paragraphs.join(' ').split(/\s+/).length, 0);
+const readingMinutes = Math.max(1, Math.round(wordCount / 200));
+const dateFormat = new Intl.DateTimeFormat('tr-TR', { day: 'numeric', month: 'long', year: 'numeric' });
+const updatedLabel = dateFormat.format(new Date(piece.updated));
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: piece.title,
+  description: piece.dek,
+  datePublished: piece.updated,
+  dateModified: piece.updated,
+  inLanguage: 'tr-TR',
+  articleSection: piece.format,
+  mainEntityOfPage: { '@type': 'WebPage', '@id': pageUrl },
+  publisher: {
+    '@type': 'Organization',
+    name: 'Makine Nabzı',
+    url: 'https://makinenabzi.com/',
+    logo: { '@type': 'ImageObject', url: 'https://makinenabzi.com/brand-mark.svg' }
+  }
+};
+---
+<BaseLayout title={piece.title} description={piece.dek} type="article" publishedTime={piece.updated} modifiedTime={piece.updated} jsonLd={jsonLd}>
+  <article class="article-page">
+    <header class="article-hero">
+      <div class="container article-narrow">
+        <div class="article-meta">
+          <span class="tag">{piece.format}</span>
+          <time datetime={piece.updated}>Güncelleme: {updatedLabel}</time>
+          <span class="tag">{readingMinutes} dk okuma</span>
+        </div>
+        <h1>{piece.title}</h1>
+        <p class="article-dek">{piece.dek}</p>
+      </div>
+    </header>
+
+    <div class="container article-layout">
+      <div class="article-body guide-body">
+        {piece.intro.map((p) => <p>{p}</p>)}
+
+        {piece.table && (
+          <section>
+            <h2>{piece.table.caption}</h2>
+            <div class="table-wrap">
+              <table>
+                <thead><tr>{piece.table.columns.map((c) => <th>{c}</th>)}</tr></thead>
+                <tbody>
+                  {piece.table.rows.map((row) => <tr>{row.map((cell) => <td>{cell}</td>)}</tr>)}
+                </tbody>
+              </table>
+            </div>
+          </section>
+        )}
+
+        {piece.sections.map((section) => (
+          <section>
+            <h2>{section.heading}</h2>
+            {section.paragraphs.map((p) => <p>{p}</p>)}
+            {section.bullets?.length ? <ul>{section.bullets.map((b) => <li>{b}</li>)}</ul> : null}
+          </section>
+        ))}
+
+        {piece.note && <p class="guide-note">{piece.note}</p>}
+
+        {relatedGuides.length > 0 && (
+          <section class="article-source">
+            <h2>İlgili teknik dosyalar</h2>
+            <ul>
+              {relatedGuides.map((g) => <li><a href={`/teknik-blog/${g.slug}/`}>{g.title} →</a></li>)}
+            </ul>
+          </section>
+        )}
+
+        <section class="article-source">
+          <h2>İçerik formatları</h2>
+          <p>Makine Dosyası, Karşılaştırma ve Saha Rehberi içeriklerinin tamamı Formatlar bölümünde.</p>
+          <a href="/formatlar/">Tüm formatlara dön →</a>
+        </section>
+      </div>
+    </div>
+  </article>
+</BaseLayout>
