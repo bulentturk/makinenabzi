@@ -201,7 +201,7 @@
   },
   {
     "id": "6c58e485538aca08",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Caterpillar releases one-tonne micro hydraulic excavator",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/construction/cat-301-cr-expands-micro-excavator-range.html",
@@ -223,7 +223,7 @@
       "seo_title": "Caterpillar Cat 301 CR mini ekskavatörü tanıttı",
       "meta_description": "Caterpillar’ın bir ton sınıfındaki Cat 301 CR mini ekskavatörü, kompakt yarıçap tasarımı ve genişletilebilir alt takımıyla dar alanlara yönelik.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Cat 301 CR, Caterpillar tarafından tanıtılan bir mini hidrolik ekskavatördür.",
         "Kaynak makineyi bir ton sınıfında ve kompakt yarıçap tasarımlı olarak tanımlıyor.",
@@ -251,7 +251,9 @@
         "Boyutlar, kazı derinliği ve diğer performans ölçüleri verilmemiş."
       ],
       "generated_at": "2026-10-12T12:37:29.232Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-12T20:10:12.692Z",
+      "review_result": "published"
     }
   },
   {
