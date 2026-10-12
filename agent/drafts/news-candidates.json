@@ -61,6 +61,34 @@
     }
   },
   {
+    "id": "ea90d3f7d94cdddc",
+    "status": "candidate",
+    "title_original": "Techking outlines work with Boonray on tyre development for autonomous mining",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/10/12/techking-outlines-work-with-boonray-on-tyre-development-for-autonomous-mining/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-10-12T11:09:17.000Z",
+    "discovered_at": "2026-10-12T12:36:20.448Z",
+    "sector": "madencilik",
+    "technologies": [
+      "elektrifikasyon",
+      "otonomi-ai"
+    ],
+    "relevance_score": 160,
+    "editorial_fit_score": 34,
+    "summary_source": "As mining trucks become more electric and autonomous, tyre development faces new challenges. Changes in torque delivery, operating cycles and vehicle utilisation mean that tyre requirements increasingly depend on how the machine, haul road and operating conditions work together. For a tyre supplier, this creates a need to become involved earlier in equipment development and The post Techking outlines work with Boonray on tyre development for autonomous mining appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "11b4654893e0559d",
     "status": "drafted",
     "title_original": "Dyno Nobel prototypes autonomous blasthole inspection & loading technology",
@@ -117,6 +145,60 @@
     }
   },
   {
+    "id": "9593d0f21af1843e",
+    "status": "candidate",
+    "title_original": "Mona Nova to debut electric telehandler at EuroTier",
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/news/agriculture/mona-nova-to-debut-electric-telehandler-at-eurotier.html",
+    "source_feed": "https://www.ivtinternational.com/feed",
+    "published_at": "2026-10-12T11:02:11.000Z",
+    "discovered_at": "2026-10-12T12:36:20.189Z",
+    "sector": "tarim",
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "relevance_score": 158,
+    "editorial_fit_score": 67,
+    "summary_source": "Mona Motors, based in Germany, will give the first showing of its Mona Nova electric telehandler, developed for agriculture, at EuroTier 2026. The company says the machine will appeal to [...] The post Mona Nova to debut electric telehandler at EuroTier appeared first on Industrial Vehicle Technology International.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "6c58e485538aca08",
+    "status": "candidate",
+    "title_original": "Caterpillar releases one-tonne micro hydraulic excavator",
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/news/construction/cat-301-cr-expands-micro-excavator-range.html",
+    "source_feed": "https://www.ivtinternational.com/feed",
+    "published_at": "2026-10-12T10:42:29.000Z",
+    "discovered_at": "2026-10-12T12:36:20.191Z",
+    "sector": "tarim",
+    "technologies": [
+      "hidrolik"
+    ],
+    "relevance_score": 158,
+    "editorial_fit_score": 67,
+    "summary_source": "Caterpillar has introduced the Cat 301 CR (Compact Radius), a micro hydraulic excavator aimed at contractors working in confined spaces, including indoor, demolition, agricultural and landscaping applications. The one-tonne-class machine [...] The post Caterpillar releases one-tonne micro hydraulic excavator appeared first on Industrial Vehicle Technology International.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "b60812d92979c878",
     "status": "published",
     "title_original": "Superior Industries makes Titanium Seal its conveyor idler standard",
@@ -168,60 +250,6 @@
       "generated_at": "2026-10-09T11:36:27.368Z",
       "generated_by": "github-models",
       "reviewed_at": "2026-10-10T20:49:24.899Z",
-      "review_result": "published"
-    }
-  },
-  {
-    "id": "6cc0a743a32aa1b3",
-    "status": "published",
-    "title_original": "Bosch Rexroth expands telematics portfolio with Owasys",
-    "source_name": "iVT International",
-    "source_url": "https://www.ivtinternational.com/news/electronics/bosch-rexroth-expands-telematics-portfolio-with-owasys.html",
-    "source_feed": "https://www.ivtinternational.com/feed",
-    "published_at": "2026-10-08T09:14:18.000Z",
-    "discovered_at": "2026-10-08T11:42:11.388Z",
-    "sector": "is-makinalari",
-    "technologies": [
-      "elektronik-telematik"
-    ],
-    "relevance_score": 158,
-    "editorial_fit_score": 67,
-    "summary_source": "Bosch Rexroth is to expand its IoT and telematics portfolio for mobile machinery through a series of partnerships, naming telematics specialist Owasys as its first partner. The approach will see [...] The post Bosch Rexroth expands telematics portfolio with Owasys appeared first on Industrial Vehicle Technology International.",
-    "editorial": {
-      "title_tr": "Bosch Rexroth, Owasys ile mobil makine telematiğini genişletiyor",
-      "dek_tr": "Bosch Rexroth, mobil makinelere yönelik IoT ve telematik portföyünü iş birlikleriyle genişletmeyi planlıyor. Owasys, açıklanan yaklaşımın ilk iş ortağı olarak belirtiliyor.",
-      "summary_tr": "iVT International’ın aktardığına göre Bosch Rexroth, off-highway makinelerine yönelik IoT ve telematik portföyünü bir dizi iş birliğiyle genişletmeyi planlıyor. Telematik uzmanı Owasys, bu kapsamda adı verilen ilk iş ortağı.\n\nPaylaşılan kaynak özeti, iş birliğinin teknik kapsamı, uyumlu ürünler veya uygulama takvimi hakkında ayrıntı vermiyor.",
-      "why_it_matters_tr": "Makine telematiği; iş ve mobil makinelerde bağlantılı izleme ve veri aktarımı için kullanılabildiğinden, yeni iş ortaklıkları bu sistemlerin makine üreticilerine sunulma biçimini etkileyebilir. Ancak bu duyuruda entegrasyonun kapsamı açıklanmadığı için pratik etkisi henüz değerlendirilemiyor.",
-      "seo_title": "Bosch Rexroth ve Owasys’ten mobil makine telematiği",
-      "meta_description": "Bosch Rexroth, mobil ve off-highway makinelerine yönelik IoT ve telematik portföyünü iş birlikleriyle genişletiyor; Owasys ilk ortak olarak açıklandı.",
-      "hero_image": "",
-      "reviewed": true,
-      "key_facts": [
-        "Bosch Rexroth, mobil/off-highway makinelerine yönelik IoT ve telematik portföyünü iş birlikleriyle genişletmeyi planlıyor.",
-        "Owasys, açıklamada ilk iş ortağı olarak anılıyor."
-      ],
-      "suggested_tags": [
-        "Bosch Rexroth",
-        "Owasys",
-        "mobil makine",
-        "telematik",
-        "IoT"
-      ],
-      "suggested_sector": "is-makinalari",
-      "editorial_format": "haber",
-      "suggested_technologies": [
-        "elektronik-telematik"
-      ],
-      "source_facts_used": [
-        "Bosch Rexroth’un mobil/off-highway makineleri için IoT ve telematik portföyünü iş birlikleriyle genişletme planı.",
-        "Owasys’in açıklanan ilk iş ortağı olması."
-      ],
-      "uncertainty_notes": [
-        "Kaynak özeti dışında haber metnine erişim sağlanamamış; iş birliğinin teknik kapsamı, ürünleri ve takvimi doğrulanamıyor."
-      ],
-      "generated_at": "2026-10-08T11:43:21.484Z",
-      "generated_by": "github-models",
-      "reviewed_at": "2026-10-10T20:57:24.005Z",
       "review_result": "published"
     }
   },
@@ -343,6 +371,81 @@
       "generated_by": "github-models",
       "reviewed_at": "2026-10-10T16:17:14.945Z",
       "review_result": "published"
+    }
+  },
+  {
+    "id": "80f6d8056f91e987",
+    "status": "candidate",
+    "title_original": "Trioliet to expand self-propelled feed mixer range at EuroTier",
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/news/agriculture/trioliet-to-showcase-l-farmer-edition-at-eurotier.html",
+    "source_feed": "https://www.ivtinternational.com/feed",
+    "published_at": "2026-10-12T11:29:42.000Z",
+    "discovered_at": "2026-10-12T12:36:20.187Z",
+    "sector": "tarim",
+    "technologies": [],
+    "relevance_score": 150,
+    "editorial_fit_score": 55,
+    "summary_source": "Trioliet is expanding its range of self-propelled feed mixers with the Triotrac L Farmer Edition, which will be officially launched at EuroTier 2026. Two models are available, with 17 and [...] The post Trioliet to expand self-propelled feed mixer range at EuroTier appeared first on Industrial Vehicle Technology International.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "3845a473a22b92e1",
+    "status": "candidate",
+    "title_original": "Caterpillar adds two models to Next Generation mini excavator range",
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/news/construction/caterpillar-adds-two-models-to-next-generation-mini-excavator-range.html",
+    "source_feed": "https://www.ivtinternational.com/feed",
+    "published_at": "2026-10-12T11:18:47.000Z",
+    "discovered_at": "2026-10-12T12:36:20.188Z",
+    "sector": "is-makinalari",
+    "technologies": [],
+    "relevance_score": 150,
+    "editorial_fit_score": 55,
+    "summary_source": "Caterpillar has expanded its Next Generation mini excavator range with the 302.4 Compact Radius (CR) and the 302.6, two machines in the 2.4- and 2.6-tonne class sizes that complement the [...] The post Caterpillar adds two models to Next Generation mini excavator range appeared first on Industrial Vehicle Technology International.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "c770228a31869d81",
+    "status": "candidate",
+    "title_original": "Strautmann to unveil Primus 900 self-propelled mixer at EuroTier",
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/news/agriculture/strautmann-to-unveil-primus-900-self-propelled-mixer-at-eurotier.html",
+    "source_feed": "https://www.ivtinternational.com/feed",
+    "published_at": "2026-10-12T10:57:57.000Z",
+    "discovered_at": "2026-10-12T12:36:20.190Z",
+    "sector": "tarim",
+    "technologies": [],
+    "relevance_score": 150,
+    "editorial_fit_score": 55,
+    "summary_source": "Strautmann has expanded its Primus range of self-propelled feed mixers with the Primus 900, which will be shown in public for the first time at EuroTier 2026. The series comprises [...] The post Strautmann to unveil Primus 900 self-propelled mixer at EuroTier appeared first on Industrial Vehicle Technology International.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -765,62 +868,6 @@
     }
   },
   {
-    "id": "3a4d35e6ceeb8cb9",
-    "status": "published",
-    "title_original": "100 km/h in 3.9 seconds: BMW unveils upgraded iX3",
-    "source_name": "electrive",
-    "source_url": "https://www.electrive.com/2026/10/08/100-km-h-in-3-9-seconds-bmw-unveils-the-upgraded-ix3/",
-    "source_feed": "https://www.electrive.com/feed/",
-    "published_at": "2026-10-07T22:02:00.000Z",
-    "discovered_at": "2026-10-08T11:42:10.992Z",
-    "sector": "elektrifikasyon",
-    "technologies": [
-      "yuruyus-guc-aktarma"
-    ],
-    "relevance_score": 148,
-    "editorial_fit_score": 67,
-    "summary_source": "BMW is presenting the most powerful drivetrain variant of its premium iX3 eSUV to date. The new BMW iX3 M60 xDrive takes the lead in the lineup with 450 kW and is said to accelerate from 0 to 100 km/h in under four seconds. The Munich-based manufacturer plans to open order books at the end of January 2027.",
-    "editorial": {
-      "title_tr": "BMW iX3 M60 xDrive 450 kW güçle tanıtıldı",
-      "dek_tr": "BMW, iX3 serisinin 450 kW gücündeki M60 xDrive versiyonunu tanıttı. Kaynak, 0-100 km/s hızlanmasını 3,9 saniye olarak veriyor; siparişlerin Ocak 2027 sonunda açılması planlanıyor.",
-      "summary_tr": "electrive’ın aktardığı bilgilere göre BMW iX3 M60 xDrive, model serisinin en güçlü aktarma seçeneği olarak sunuluyor. Gücü 450 kW olarak belirtilen araç için 0’dan 100 km/s hıza 3,9 saniyede ulaşma değeri veriliyor.\n\nBMW’nin siparişleri Ocak 2027 sonunda açmayı planladığı aktarılıyor. Bu bilgiler binek elektrikli SUV’a ilişkin; kaynakta mobil makinelere aktarılabilecek bir teknik uygulama veya bileşen gelişmesi yer almıyor.",
-      "why_it_matters_tr": "Elektrikli aktarma sistemleri mobil makineler için genel ilgi taşısa da bu duyuru binek SUV performansına odaklanıyor ve off-highway, tarım, maden, liman ya da GSE uygulamalarına yönelik belirgin bir teknik bağlantı göstermiyor. Bu nedenle Makine Nabzı’nın makine sektörü açısından haber değeri sınırlı.",
-      "seo_title": "BMW iX3 M60 xDrive: 450 kW güç ve 3,9 saniye",
-      "meta_description": "BMW, 450 kW gücündeki iX3 M60 xDrive’ı tanıttı. Kaynakta 0-100 km/s hızlanması 3,9 saniye; sipariş başlangıcı Ocak 2027 sonu olarak veriliyor.",
-      "hero_image": "",
-      "reviewed": true,
-      "key_facts": [
-        "BMW iX3 M60 xDrive için 450 kW güç değeri veriliyor.",
-        "Kaynak, 0-100 km/s hızlanmasını 3,9 saniye olarak bildiriyor.",
-        "Siparişlerin Ocak 2027 sonunda açılması planlanıyor."
-      ],
-      "suggested_tags": [
-        "BMW",
-        "iX3 M60 xDrive",
-        "elektrikli araç",
-        "elektrikli aktarma"
-      ],
-      "suggested_sector": "elektrifikasyon",
-      "editorial_format": "haber",
-      "suggested_technologies": [
-        "yuruyus-guc-aktarma"
-      ],
-      "source_facts_used": [
-        "BMW iX3 M60 xDrive için 450 kW güç ve 0-100 km/s hızlanması için 3,9 saniye bilgileri.",
-        "Siparişlerin Ocak 2027 sonunda açılmasının planlanması.",
-        "Duyurunun binek elektrikli SUV modeliyle ilgili olması."
-      ],
-      "uncertainty_notes": [
-        "Kaynak sayfasına HTTP 403 nedeniyle erişilememiş; taslak, sağlanan haber özeti ve başlık bilgilerine dayanıyor.",
-        "Performans ve sipariş bilgileri bağımsız olarak doğrulanmamış, kaynakta aktarılan üretici duyurusu bilgileridir."
-      ],
-      "generated_at": "2026-10-08T11:43:21.484Z",
-      "generated_by": "github-models",
-      "reviewed_at": "2026-10-10T21:00:30.616Z",
-      "review_result": "published"
-    }
-  },
-  {
     "id": "8efdd3e5e51db0c6",
     "status": "drafted",
     "title_original": "Five-year journey positions Portsmouth at heart of clean ports",
@@ -872,6 +919,31 @@
       ],
       "generated_at": "2026-10-05T21:57:41.260Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "6807877b7ea0b996",
+    "status": "candidate",
+    "title_original": "Southampton completes £60m crane investment",
+    "source_name": "Port Strategy",
+    "source_url": "https://www.portstrategy.com/news/container-cargo-handling/southampton-completes-60m-crane-investment/",
+    "source_feed": "https://www.portstrategy.com/feed",
+    "published_at": "2026-10-12T09:30:19.000Z",
+    "discovered_at": "2026-10-12T12:36:24.354Z",
+    "sector": "liman",
+    "technologies": [],
+    "relevance_score": 130,
+    "editorial_fit_score": 65,
+    "summary_source": "DP World completes Southampton’s £60 million crane investment, boosting container capacity and strengthening the UK’s global trade connections",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -1320,6 +1392,31 @@
       ],
       "generated_at": "2026-10-08T20:39:04.732Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "c8a2e07066c83102",
+    "status": "candidate",
+    "title_original": "First Hudson Tunnel Project TBM begins excavation",
+    "source_name": "Tunnels & Tunnelling",
+    "source_url": "https://www.tunnelsandtunnelling.com/news/first-hudson-tunnel-project-tbm-begins-excavation/",
+    "source_feed": "https://www.tunnelsandtunnelling.com/feed/",
+    "published_at": "2026-10-12T08:23:57.000Z",
+    "discovered_at": "2026-10-12T12:36:19.484Z",
+    "sector": "is-makinalari",
+    "technologies": [],
+    "relevance_score": 126,
+    "editorial_fit_score": 55,
+    "summary_source": "First Hudson Tunnel Project TBM begins excavation. The start of tunnelling follows the ceremonial launch on September 28. The post First Hudson Tunnel Project TBM begins excavation appeared first on Tunnels and Tunnelling.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
