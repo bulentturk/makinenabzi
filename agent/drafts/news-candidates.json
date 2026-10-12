@@ -1087,7 +1087,7 @@
   },
   {
     "id": "1ccecaf19882be58",
-    "status": "drafted",
+    "status": "published",
     "title_original": "New Perkins 5016 Diesel Engine Completes 5000 Series Range",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/new-perkins-5016-diesel-engine-completes-5000-series-range/72450",
@@ -1107,7 +1107,7 @@
       "seo_title": "Perkins 5016 dizel motoru üretime girdi",
       "meta_description": "Perkins 5016, güç üretimi için tam yetkili elektronik kontrollü dizel motor olarak üretime alındı ve 5000 serisi ürün gamını tamamladı.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Perkins 5016 dizel motoru üretime girdi.",
         "Kaynak, motoru güç üretimi için tanımlıyor.",
@@ -1134,7 +1134,9 @@
         "Teknik iddialar bağımsız olarak doğrulanmamış."
       ],
       "generated_at": "2026-10-08T11:43:21.484Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-12T20:13:06.691Z",
+      "review_result": "published"
     }
   },
   {
