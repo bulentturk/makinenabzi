@@ -1,5 +1,35 @@
 [
   {
+    "id": "d45364b0995d3420",
+    "slug": "tunel-izlemede-darbogaz-sensor-degil-veri-silolari",
+    "title": "Tünel izlemede darboğaz sensör değil, veri siloları",
+    "dek": "TotaLite Genel Müdürü Epco Berger’in analizine göre tünel izlemede asıl fırsat, ölçüm verilerinin birbirinden kopuk sistemlerde kalmamasında. Sayfa açıklaması, canlı inşaat sahasının yakınında sürekli optik izlemenin otomatik total station ile 2 mm içinde eşleştiğini belirtiyor.",
+    "summary": "Tunnels & Tunnelling’de yayımlanan analiz, geleneksel ve tünel açma makinesiyle (TBM) yürütülen tünel projelerinde izleme verilerinin farklı sistemlerde dağınık kalmasını temel bir sorun olarak ele alıyor. Yazı, TotaLite Genel Müdürü Epco Berger tarafından kaleme alınmış.\n\nSayfa açıklamasında, canlı inşaatın yakınında yapılan sürekli optik izlemenin otomatik total station ölçümleriyle 2 mm içinde eşleştiği belirtiliyor. Bu karşılaştırmanın yöntemine, kapsamına veya test koşullarına dair ek ayrıntı mevcut kaynak metninde verilmemiş.",
+    "why_it_matters": "Tünel projelerinde ölçüm verilerinin ortak biçimde değerlendirilmesi, sahadaki izleme ile mühendislik kararları arasındaki bilgi akışını iyileştirme potansiyeli taşır. Farklı ölçüm sistemlerinin doğruluk ve uyumluluk iddiaları, proje koşullarına ve bağımsız doğrulamaya göre ele alınmalıdır.",
+    "key_facts": [
+      "Yazı, tünel izleme verilerinin sistemler arasında silo halinde kalmasını konu alıyor.",
+      "Analizin yazarı TotaLite Genel Müdürü Epco Berger.",
+      "Sayfa açıklaması, sürekli optik izleme ile otomatik total station arasında 2 mm içinde eşleşme bildiriyor."
+    ],
+    "format": "gorus-analiz",
+    "sector": "is-makinalari",
+    "technologies": [
+      "elektronik-telematik"
+    ],
+    "tags": [
+      "tünel izleme",
+      "jeodezik ölçüm",
+      "optik izleme",
+      "TBM",
+      "veri entegrasyonu"
+    ],
+    "source_name": "Tunnels & Tunnelling",
+    "source_url": "https://www.tunnelsandtunnelling.com/analysis/tunnel-monitorings-real-bottleneck-isnt-the-sensor-its-the-data-silo/",
+    "source_published_at": "2026-10-09T09:58:34.000Z",
+    "site_published_at": "2026-10-12T20:10:46.959Z",
+    "hero_image": ""
+  },
+  {
     "id": "9663e7ef7089ac09",
     "slug": "grove-gmk6450-1-berlin-deki-kule-vincin-sokumunde-gorev-aldi",
     "title": "Grove GMK6450-1, Berlin’deki kule vincin sökümünde görev aldı",
