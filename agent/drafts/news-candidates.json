@@ -1508,7 +1508,7 @@
   },
   {
     "id": "d45364b0995d3420",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Tunnel Monitoring’s Real Bottleneck Isn’t the Sensor: It’s the Data Silo",
     "source_name": "Tunnels & Tunnelling",
     "source_url": "https://www.tunnelsandtunnelling.com/analysis/tunnel-monitorings-real-bottleneck-isnt-the-sensor-its-the-data-silo/",
@@ -1530,7 +1530,7 @@
       "seo_title": "Tünel izlemede veri siloları ve ölçüm sistemleri",
       "meta_description": "TotaLite Genel Müdürü Epco Berger, tünel izlemede veri silolarını ele alıyor. Sayfa açıklamasına göre optik izleme, total station ile 2 mm içinde eşleşiyor.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Yazı, tünel izleme verilerinin sistemler arasında silo halinde kalmasını konu alıyor.",
         "Analizin yazarı TotaLite Genel Müdürü Epco Berger.",
@@ -1558,7 +1558,9 @@
         "2 mm eşleşme bilgisi kaynak sayfa açıklamasında yer alıyor; ölçüm yöntemi ve bağımsız doğrulama bilgisi sağlanmıyor."
       ],
       "generated_at": "2026-10-09T11:36:27.368Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-12T20:11:31.919Z",
+      "review_result": "published"
     }
   },
   {
