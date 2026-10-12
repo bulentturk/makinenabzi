@@ -923,7 +923,7 @@
   },
   {
     "id": "8efdd3e5e51db0c6",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Five-year journey positions Portsmouth at heart of clean ports",
     "source_name": "Port Strategy",
     "source_url": "https://www.portstrategy.com/news/greenport-congress/five-year-journey-positions-portsmouth-at-heart-of-clean-ports/",
@@ -945,7 +945,7 @@
       "seo_title": "Portsmouth’un kıyı elektriği deneyimi ve temiz limanlar",
       "meta_description": "Portsmouth International Port, beş yıllık kıyı elektriği deneyimini ve temiz liman teknolojilerinin yaygınlaştırılmasına ilişkin konuları raporladı.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Portsmouth International Port, kıyı elektriği deneyimini anlatan 20 sayfalık bir doküman yayımladı.",
         "Kaynağa göre limanda Birleşik Krallık’ın ilk yüksek gerilimli, çok rıhtımlı ve çok kullanıcılı kıyı elektriği sistemi bulunuyor.",
@@ -972,7 +972,9 @@
         "Birleşik Krallık’taki ilk olma iddiası kaynak metne dayanmaktadır; ayrıca doğrulanmış değildir."
       ],
       "generated_at": "2026-10-05T21:57:41.260Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-12T20:09:16.701Z",
+      "review_result": "published"
     }
   },
   {
