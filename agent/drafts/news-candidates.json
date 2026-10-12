@@ -146,7 +146,7 @@
   },
   {
     "id": "9593d0f21af1843e",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Mona Nova to debut electric telehandler at EuroTier",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/agriculture/mona-nova-to-debut-electric-telehandler-at-eurotier.html",
@@ -168,7 +168,7 @@
       "seo_title": "Mona Nova elektrikli teleskopik yükleyici EuroTier 2026’da",
       "meta_description": "Mona Motors, tarım için geliştirdiği Mona Nova elektrikli teleskopik yükleyiciyi EuroTier 2026’da tanıtacak. Kaynakta 46 kWh batarya belirtiliyor.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Mona Nova, tarımsal kullanım için geliştirilen elektrikli bir teleskopik yükleyici olarak tanıtılıyor.",
         "Mona Motors, makinenin ilk gösterimini EuroTier 2026’da yapacağını belirtiyor.",
@@ -194,7 +194,9 @@
         "Şarj süresi, çalışma süresi ve performans koşulları belirtilmemiş."
       ],
       "generated_at": "2026-10-12T12:37:29.232Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-12T20:09:45.051Z",
+      "review_result": "published"
     }
   },
   {
