@@ -1,5 +1,36 @@
 [
   {
+    "id": "9663e7ef7089ac09",
+    "slug": "grove-gmk6450-1-berlin-deki-kule-vincin-sokumunde-gorev-aldi",
+    "title": "Grove GMK6450-1, Berlin’deki kule vincin sökümünde görev aldı",
+    "dek": "İnşaat Equipment Guide’ın özetine göre MOBI-HUB, Berlin’de kısıtlı bir kent şantiyesindeki ağır kaldırma ve kule vinç sökümü için Grove GMK6450-1 arazi tipi mobil vinci kullandı. Kaynak erişim uyarısı nedeniyle uygulamaya ilişkin ayrıntılar sınırlı.",
+    "summary": "Kaynak özetinde, Almanya merkezli kiralama şirketi MOBI-HUB’ın Berlin’deki bir kule vincin sökümünde Grove GMK6450-1 modelini kullandığı belirtiliyor. Altı akslı arazi tipi vinç, kısıtlı bir kentsel çalışma alanında ağır kaldırma işlerini gerçekleştirmek üzere görevlendirilmiş.\n\nÖzet, uygulamanın ulaşım kısıtlarıyla ve şantiye koşullarıyla ilişkili olduğunu bildiriyor; ancak kaldırma kapasitesi, bom konfigürasyonu, çalışma süresi veya vincin sahadaki düzenine ilişkin ayrıntı vermiyor.",
+    "why_it_matters": "Kentsel şantiyelerde ağır kaldırma ve ekipman sökümü, erişim ve nakliye kısıtlarının mobil vinç seçiminde belirleyici olabildiği uygulamalardır. Bu örnek kullanımın teknik çözümünü değerlendirmek için kaynakta bulunmayan saha ve konfigürasyon ayrıntıları gerekir.",
+    "key_facts": [
+      "Kaynak özeti, Berlin'deki kule vinç sökümünde Grove GMK6450-1 kullanıldığını belirtiyor.",
+      "Vinç, MOBI-HUB adlı Alman kiralama şirketi tarafından görevlendirilmiş.",
+      "Özet, modeli altı akslı arazi tipi vinç olarak tanımlıyor.",
+      "Uygulama kısıtlı bir kentsel şantiye ve ulaşım kısıtlarıyla ilişkilendiriliyor."
+    ],
+    "format": "haber",
+    "sector": "is-makinalari",
+    "technologies": [
+      "yuruyus-guc-aktarma"
+    ],
+    "tags": [
+      "Grove",
+      "GMK6450-1",
+      "mobil vinç",
+      "kule vinç",
+      "şantiye"
+    ],
+    "source_name": "Construction Equipment Guide",
+    "source_url": "https://www.constructionequipmentguide.com/grove-gmk64501-dismantles-berlin-tower-crane/72457",
+    "source_published_at": "2026-10-08T05:00:00.000Z",
+    "site_published_at": "2026-10-12T20:10:12.203Z",
+    "hero_image": ""
+  },
+  {
     "id": "6c58e485538aca08",
     "slug": "caterpillar-bir-ton-sinifi-cat-301-cr-mini-ekskavatoru-tanitti",
     "title": "Caterpillar, bir ton sınıfı Cat 301 CR mini ekskavatörü tanıttı",
