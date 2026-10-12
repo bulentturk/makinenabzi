@@ -1,0 +1,67 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout
+  title="İletişim"
+  description="Makine Nabzı'na editoryal öneri, düzeltme bildirimi ve iş birliği için ulaşın. Mesajınız GitHub üzerinden repoya kaydedilir."
+  jsonLd={{'@context':'https://schema.org','@type':'ContactPage',name:'İletişim — Makine Nabzı',url:'https://makinenabzi.com/iletisim/',isPartOf:{'@type':'WebSite',name:'Makine Nabzı',url:'https://makinenabzi.com/'}}}
+>
+  <section class="page-head"><div class="container">
+    <span class="eyebrow">Bize ulaşın</span>
+    <h1>İletişim</h1>
+    <p>Editoryal öneriler, düzeltme bildirimleri, teknik sorular ve iş birlikleri için aşağıdaki formu kullanın. Mesajınız, Makine Nabzı'nın GitHub deposunda bir konu (issue) olarak açılır; böylece şeffaf biçimde takip edilir.</p>
+  </div></section>
+
+  <section class="section"><div class="container article-narrow">
+
+    <form id="iletisim-form" class="contact-form">
+      <label>İsim <span class="optional">(opsiyonel)</span>
+        <input type="text" name="isim" autocomplete="name" />
+      </label>
+      <label>E-posta <span class="optional">(opsiyonel — yanıtlanmamı istiyorsanız)</span>
+        <input type="email" name="eposta" autocomplete="email" />
+      </label>
+      <label>Konu
+        <select name="konu">
+          <option>Editoryal öneri</option>
+          <option>Düzeltme bildirimi</option>
+          <option>Teknik soru</option>
+          <option>Kaynak önerisi</option>
+          <option>İş birliği</option>
+          <option>Diğer</option>
+        </select>
+      </label>
+      <label>Mesajınız
+        <textarea name="mesaj" rows="8" required></textarea>
+      </label>
+      <p class="contact-note"><strong>Dikkat:</strong> Gönderdiğiniz mesaj GitHub'da herkese açık bir konu olarak açılır. Kişisel veri veya gizli bilgi paylaşmayın; talebiniz gizliyse bunu belirtin, uygun kanaldan dönüş yapılır.</p>
+      <button class="button primary" type="submit">Mesajı GitHub'da aç →</button>
+    </form>
+
+    <p class="contact-alt">GitHub hesabınız yoksa: <a href="https://github.com/bulentturk/makinenabzi/issues" target="_blank" rel="noopener noreferrer">mevcut konulara bakabilir</a> veya site içeriğiyle ilgili herhangi bir sayfadan bize ulaşmanın alternatif yolunu sorabilirsiniz.</p>
+
+  </div></section>
+
+  <script is:inline>
+    const form = document.getElementById('iletisim-form');
+    form?.addEventListener('submit', (event) => {
+      event.preventDefault();
+      const data = new FormData(form);
+      const konu = String(data.get('konu') || 'Genel');
+      const title = '[İletişim] ' + konu;
+      const body = [
+        '**İsim:** ' + (data.get('isim') || '-'),
+        '**E-posta:** ' + (data.get('eposta') || '-'),
+        '**Konu:** ' + konu,
+        '',
+        String(data.get('mesaj') || ''),
+        '',
+        '_makinenabzi.com iletişim formundan gönderildi_'
+      ].join('\n');
+      const url = 'https://github.com/bulentturk/makinenabzi/issues/new'
+        + '?title=' + encodeURIComponent(title)
+        + '&body=' + encodeURIComponent(body);
+      window.open(url, '_blank', 'noopener');
+    });
+  </script>
+</BaseLayout>

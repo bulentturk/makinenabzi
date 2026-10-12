@@ -5,7 +5,7 @@ import { guides } from '../data/technical-guides';
 type NewsItem = { slug: string; site_published_at?: string; site_updated_at?: string };
 const items = news as NewsItem[];
 
-const staticPages = ['/', '/haberler/', '/teknik-blog/', '/fuar-takvimi/', '/kaynaklar/', '/hakkimizda/', '/gizlilik/'];
+const staticPages = ['/', '/haberler/', '/teknik-blog/', '/fuar-takvimi/', '/kaynaklar/', '/hakkimizda/', '/gizlilik/', '/iletisim/'];
 
 export const GET: APIRoute = ({ site }) => {
   const origin = site ?? new URL('https://makinenabzi.com/');
