@@ -731,6 +731,31 @@
     }
   },
   {
+    "id": "09f45c924cc23f94",
+    "status": "candidate",
+    "title_original": "Roadrunner’s New Grader Attachments Could Replace Motor Grader",
+    "source_name": "Equipment World",
+    "source_url": "https://www.equipmentworld.com/construction-equipment/compact-equipment/article/15837309/roadrunner-equipment-launches-new-skid-steer-dualblade-graders",
+    "source_feed": "https://www.equipmentworld.com/feed/",
+    "published_at": "2026-10-13T16:53:31.000Z",
+    "discovered_at": "2026-10-13T20:35:34.220Z",
+    "sector": "tarim",
+    "technologies": [],
+    "relevance_score": 145,
+    "editorial_fit_score": 65,
+    "summary_source": "The skid steer, CTL, tractor attachment fills a gap between box graders and motor graders by adjusting blade sides independently...",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "c1c13b7e0672d5c1",
     "status": "candidate",
     "title_original": "Africa’s first non-ferrous mining TBM advances further at NFCA’s Chambishi",
@@ -756,44 +781,21 @@
     }
   },
   {
-    "id": "7a3c85a7058a86a8",
+    "id": "475f8e43a2dd44f0",
     "status": "candidate",
-    "title_original": "Boy Awarded $65M After Excavator Crashes Into Bridge, Kills His Mom",
-    "source_name": "Equipment World",
-    "source_url": "https://www.equipmentworld.com/business/article/15836939/jury-awards-65m-to-son-of-woman-killed-in-excavator-bridge-crash",
-    "source_feed": "https://www.equipmentworld.com/feed/",
-    "published_at": "2026-10-09T14:30:00.000Z",
-    "discovered_at": "2026-10-12T22:06:06.153Z",
+    "title_original": "Great Basin Transmission Breaks Ground On New Line",
+    "source_name": "Construction Equipment Guide",
+    "source_url": "https://www.constructionequipmentguide.com/great-basin-transmission-breaks-ground-on-new-line/72492",
+    "source_feed": "https://feeds.feedburner.com/ceg",
+    "published_at": "2026-10-13T05:00:00.000Z",
+    "discovered_at": "2026-10-13T20:35:32.475Z",
     "sector": "is-makinalari",
-    "technologies": [],
-    "relevance_score": 135,
-    "editorial_fit_score": 55,
-    "summary_source": "The driver hauling the excavator had just gotten his CDL four days earlier and had not properly loaded the machine onto the trailer...",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
-  },
-  {
-    "id": "36c967b698f1b852",
-    "status": "candidate",
-    "title_original": "“Emily” Tunnel Boring Machine Christened for $819M D.C. Potomac River Tunnel",
-    "source_name": "Equipment World",
-    "source_url": "https://www.equipmentworld.com/technology/article/15836938/dc-water-christens-second-tbm-for-potomac-river-tunnel",
-    "source_feed": "https://www.equipmentworld.com/feed/",
-    "published_at": "2026-10-09T14:15:00.000Z",
-    "discovered_at": "2026-10-12T22:06:06.154Z",
-    "sector": "is-makinalari",
-    "technologies": [],
-    "relevance_score": 135,
-    "editorial_fit_score": 55,
-    "summary_source": "Emily will travel 3 miles south to connect with the existing Anacostia River Tunnel dug by TBM Mary.",
+    "technologies": [
+      "yuruyus-guc-aktarma"
+    ],
+    "relevance_score": 138,
+    "editorial_fit_score": 77,
+    "summary_source": "Great Basin Transmission, broke ground on the Southwest Intertie Project-North (SWIP-North), a new 285-mi., 500 kilovolt (kV) transmission line....",
     "editorial": {
       "title_tr": "",
       "dek_tr": "",
@@ -1171,6 +1173,33 @@
     }
   },
   {
+    "id": "6d78a59e5df86b58",
+    "status": "candidate",
+    "title_original": "GridLiance West's Transmission Upgrades Project Debuts",
+    "source_name": "Construction Equipment Guide",
+    "source_url": "https://www.constructionequipmentguide.com/gridliance-wests-transmission-upgrades-project-debuts/72491",
+    "source_feed": "https://feeds.feedburner.com/ceg",
+    "published_at": "2026-10-13T05:00:00.000Z",
+    "discovered_at": "2026-10-13T20:35:32.476Z",
+    "sector": "is-makinalari",
+    "technologies": [
+      "yuruyus-guc-aktarma"
+    ],
+    "relevance_score": 128,
+    "editorial_fit_score": 67,
+    "summary_source": "...",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "e28894a93a3432d2",
     "status": "candidate",
     "title_original": "Superior Makes Titanium Seal Standard on Idler Rolls",
@@ -1211,6 +1240,56 @@
     "relevance_score": 126,
     "editorial_fit_score": 55,
     "summary_source": "First Hudson Tunnel Project TBM begins excavation. The start of tunnelling follows the ceremonial launch on September 28. The post First Hudson Tunnel Project TBM begins excavation appeared first on Tunnels and Tunnelling.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "5106106b69d2d3aa",
+    "status": "candidate",
+    "title_original": "Link-Belt Crane RTC-80130 SII Helps Expedite Emergency Services",
+    "source_name": "Construction Equipment Guide",
+    "source_url": "https://www.constructionequipmentguide.com/linkbelt-crane-rtc80130-sii-helps-expedite-emergency-services/72488",
+    "source_feed": "https://feeds.feedburner.com/ceg",
+    "published_at": "2026-10-13T05:00:00.000Z",
+    "discovered_at": "2026-10-13T20:35:32.477Z",
+    "sector": "is-makinalari",
+    "technologies": [],
+    "relevance_score": 120,
+    "editorial_fit_score": 55,
+    "summary_source": "A Link-Belt Cranes 130-ton RTC-80130 SII assisted bridge construction in northern California to expedite emergency services response times....",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "7e74c1b5f9d6dbe4",
+    "status": "candidate",
+    "title_original": "Nutter Family Foundation Salutes 20 Years of Dozer Days",
+    "source_name": "Construction Equipment Guide",
+    "source_url": "https://www.constructionequipmentguide.com/nutter-family-foundation-salutes-20-years-of-dozer-days/72476",
+    "source_feed": "https://feeds.feedburner.com/ceg",
+    "published_at": "2026-10-13T05:00:00.000Z",
+    "discovered_at": "2026-10-13T20:35:32.483Z",
+    "sector": "is-makinalari",
+    "technologies": [],
+    "relevance_score": 120,
+    "editorial_fit_score": 55,
+    "summary_source": "The Nutter Family Foundation celebrated 20 years of big machines at Dozer Days Vancouver in Washington state....",
     "editorial": {
       "title_tr": "",
       "dek_tr": "",
