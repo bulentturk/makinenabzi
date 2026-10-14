@@ -887,6 +887,31 @@
     }
   },
   {
+    "id": "253497b7c5302031",
+    "status": "candidate",
+    "title_original": "Rolls-Royce licenses marine engine production in Saudi Arabia",
+    "source_name": "Marine Industry News",
+    "source_url": "https://marineindustrynews.co.uk/rolls-royce-licenses-marine-engine-production-in-saudi-arabia/",
+    "source_feed": "https://marineindustrynews.co.uk/feed/",
+    "published_at": "2026-10-14T07:15:04.000Z",
+    "discovered_at": "2026-10-14T19:15:38.881Z",
+    "sector": "marine-yatcilik",
+    "technologies": [],
+    "relevance_score": 138,
+    "editorial_fit_score": 55,
+    "summary_source": "Rolls-Royce Power Systems has signed a licensing agreement with Saudi Engines Manufacturing Company (Makeen) to manufacture and assemble mtu Series 2000 marine engines in Saudi Arabia. Rolls-Royce says it is the first high-speed engine manufacturer to license local production in the country. The deal follows a framework license agreement signed in November 2023, which set […] The post Rolls-Royce licenses marine engine production in Saudi Arabia appeared first on Marine Industry News.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "475f8e43a2dd44f0",
     "status": "candidate",
     "title_original": "Great Basin Transmission Breaks Ground On New Line",
@@ -902,6 +927,31 @@
     "relevance_score": 138,
     "editorial_fit_score": 77,
     "summary_source": "Great Basin Transmission, broke ground on the Southwest Intertie Project-North (SWIP-North), a new 285-mi., 500 kilovolt (kV) transmission line....",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "58d1491d23c6bcdd",
+    "status": "candidate",
+    "title_original": "Potain Launches ECS, New Smart Tower Crane Control",
+    "source_name": "Construction Equipment Guide",
+    "source_url": "https://www.constructionequipmentguide.com/potain-launches-ecs-new-smart-tower-crane-control/72494",
+    "source_feed": "https://feeds.feedburner.com/ceg",
+    "published_at": "2026-10-14T05:00:00.000Z",
+    "discovered_at": "2026-10-14T19:15:38.134Z",
+    "sector": "is-makinalari",
+    "technologies": [],
+    "relevance_score": 130,
+    "editorial_fit_score": 65,
+    "summary_source": "Customizable control, intelligent data logging and faster fault diagnosis define Potain's new ECS....",
     "editorial": {
       "title_tr": "",
       "dek_tr": "",
@@ -1276,6 +1326,33 @@
       ],
       "generated_at": "2026-10-01T20:18:05.206Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "f776142673e94464",
+    "status": "candidate",
+    "title_original": "3West Equipment Builds Hydraulic Breaker Business",
+    "source_name": "Construction Equipment Guide",
+    "source_url": "https://www.constructionequipmentguide.com/3west-equipment-builds-hydraulic-breaker-business/72501",
+    "source_feed": "https://feeds.feedburner.com/ceg",
+    "published_at": "2026-10-14T05:00:00.000Z",
+    "discovered_at": "2026-10-14T19:15:38.127Z",
+    "sector": "is-makinalari",
+    "technologies": [
+      "hidrolik"
+    ],
+    "relevance_score": 128,
+    "editorial_fit_score": 67,
+    "summary_source": "...",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -1823,6 +1900,31 @@
       ],
       "generated_at": "2026-10-10T10:54:00.297Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "eb8780c5757ab938",
+    "status": "candidate",
+    "title_original": "Charity auction of Silver Jubilee Ford tractor",
+    "source_name": "profi",
+    "source_url": "https://www.profi.co.uk/news/charity-auction-of-silver-jubilee-ford-tractor/",
+    "source_feed": "https://www.profi.co.uk/feed/",
+    "published_at": "2026-10-14T18:34:57.000Z",
+    "discovered_at": "2026-10-14T19:15:39.090Z",
+    "sector": "tarim",
+    "technologies": [],
+    "relevance_score": 115,
+    "editorial_fit_score": 55,
+    "summary_source": "A father whose son received a life-saving heart transplant at Royal Papworth hospital is donating all the proceeds from the sale of his 1991 Ford 7810 Silver Jubilee tractor to the Cambridge-based hospital. The post Charity auction of Silver Jubilee Ford tractor appeared first on Profi.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   }
 ]
