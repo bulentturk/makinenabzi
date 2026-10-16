@@ -635,7 +635,7 @@
   },
   {
     "id": "a20e0227a83484d4",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Kubota upgrades KX016-5 and KX019-5 compact excavators",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/construction/kubota-upgrades-kx016-5-and-kx019-5-compact-excavators.html",
@@ -655,7 +655,7 @@
       "seo_title": "Kubota KX016-5 ve KX019-5 ekskavatörlerini güncelledi",
       "meta_description": "Kubota'nın güncellediği KX016-5 ve KX019-5 modellerinde oransal yardımcı hidrolik, isteğe bağlı 45 l/dak yüksek debi paketi ve yenilenmiş kabin var.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Kubota KX016-5 ve KX019-5 modellerini güncelledi.",
         "Modeller Avrupa pazarının 1–2 ton sınıfı için tanımlanıyor.",
@@ -687,7 +687,9 @@
         "Kabin değişikliklerinin kapsamı ve modellerin diğer teknik özellikleri kaynakta açıklanmıyor."
       ],
       "generated_at": "2026-09-30T19:56:27.622Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-16T20:17:50.138Z",
+      "review_result": "published"
     }
   },
   {
