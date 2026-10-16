@@ -1741,7 +1741,7 @@
   },
   {
     "id": "9db0e8169c23e39d",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Newman Tractor Celebrates 50 Years at 2026 Paul Bunyan Show",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/newman-tractor-celebrates-50-years-at-2026-paul-bunyan-show/72391",
@@ -1761,7 +1761,7 @@
       "seo_title": "Newman Tractor, Paul Bunyan Show’da 50. yılını kutluyor",
       "meta_description": "Newman Tractor’ın 2026 Paul Bunyan Show’da 50. yılını kutlayacağı bildiriliyor. Şirket ve etkinlik ayrıntıları sağlanan kaynak metninde yer almıyor.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Başlıkta Newman Tractor’ın 50. yılını kutlayacağı belirtiliyor.",
         "Kutlamanın 2026 Paul Bunyan Show’da yapılacağı başlıkta yer alıyor."
@@ -1784,7 +1784,9 @@
         "Etkinlikte ürün tanıtımı veya teknik gelişme olduğuna dair bilgi yok."
       ],
       "generated_at": "2026-10-02T10:49:36.070Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-16T21:12:24.792Z",
+      "review_result": "published"
     }
   },
   {
