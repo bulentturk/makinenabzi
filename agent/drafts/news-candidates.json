@@ -1260,7 +1260,7 @@
   },
   {
     "id": "d2192db9679540a7",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Powerful All-Rounder, New Tadano AC 3.060-2",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/powerful-allrounder-new-tadano-ac-30602/72369",
@@ -1280,7 +1280,7 @@
       "seo_title": "Tadano AC 3.060-2 yeni taxi vinç modelini geliştirdi",
       "meta_description": "Tadano, AC 3.060-2 adlı yeni taxi vinci geliştirdi. Erişilebilen kaynakta vincin kapasitesi ve teknik özelliklerine ilişkin ayrıntı bulunmuyor.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Yeni modelin adı Tadano AC 3.060-2.",
         "Tadano modeli taxi vinç olarak tanımlıyor.",
@@ -1306,7 +1306,9 @@
         "Kaynağın güçlü ve esnek nitelendirmeleri teknik veriyle desteklenmediğinden üretici değerlendirmesi olarak ele alınmalıdır."
       ],
       "generated_at": "2026-09-30T19:56:27.622Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-16T19:00:32.003Z",
+      "review_result": "published"
     }
   },
   {
