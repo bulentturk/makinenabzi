@@ -1079,7 +1079,7 @@
   },
   {
     "id": "27ca92b8295dcbac",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Warrior Tractor Hosts John Deere Demo Open House Near Birmingham, Ala.",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/warrior-tractor-hosts-john-deere-demo-open-house-near-birmingham-ala/72465",
@@ -1099,7 +1099,7 @@
       "seo_title": "Warrior Tractor, John Deere ekskavatör etkinliği düzenledi",
       "meta_description": "Warrior Tractor'ın Birmingham yakınlarında düzenlediği etkinlikte John Deere P-Tier ekskavatörlerinin gösterildiği bildirildi; teknik ayrıntılar paylaşılmadı.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Başlığa göre etkinliği Warrior Tractor düzenledi.",
         "Etkinlik Birmingham, Alabama yakınlarında gerçekleşti.",
@@ -1124,7 +1124,9 @@
         "Gösterilen modellerin adları ve teknik özellikleri belirtilmiyor."
       ],
       "generated_at": "2026-10-09T20:04:39.050Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-16T20:23:40.965Z",
+      "review_result": "published"
     }
   },
   {
