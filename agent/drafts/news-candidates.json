@@ -1535,7 +1535,7 @@
   },
   {
     "id": "35b68591fe3ece70",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Selecting Wheel Loaders vs. Excavators at the Crusher",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/selecting-wheel-loaders-vs-excavators-at-the-crusher/72430",
@@ -1555,7 +1555,7 @@
       "seo_title": "Kırıcı beslemesinde yükleyici ve ekskavatör karşılaştırması",
       "meta_description": "Kırıcıda yükleme için lastik tekerlekli yükleyici ile paletli ekskavatörün seçimi ele alınıyor. Kaynak özeti teknik karşılaştırma ölçütlerini açıklamıyor.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Kaynak, kırıcıda yükleme için lastik tekerlekli yükleyici ve paletli ekskavatörü karşılaştırıyor.",
         "Kaynak özeti, Volvo CE'nin iki makine tipinin artı ve eksilerini ele aldığını belirtiyor."
@@ -1579,7 +1579,9 @@
         "Volvo CE'nin değerlendirmesi bağımsız saha testi veya doğrulanmış performans verisi olarak sunulamaz."
       ],
       "generated_at": "2026-10-06T20:08:47.986Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-16T21:05:50.980Z",
+      "review_result": "published"
     }
   },
   {
