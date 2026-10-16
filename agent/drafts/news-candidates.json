@@ -1669,7 +1669,7 @@
   },
   {
     "id": "5971013e4cb9f608",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Prillaman's Crane Expands Fleet with Liebherr Mobile Crane",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/prillamans-crane-expands-fleet-with-liebherr-mobile-crane/72415",
@@ -1689,7 +1689,7 @@
       "seo_title": "Prillaman Crane, 11. Liebherr vincini teslim alıyor",
       "meta_description": "Prillaman Crane & Rigging, LTM 1250-5.1 mobil vinci filosuna katarak Liebherr vinci sayısını 11’e çıkarıyor.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Prillaman Crane & Rigging, Liebherr LTM 1250-5.1 mobil vinci teslim alıyor.",
         "Kaynak özeti, bunun şirketin 11. Liebherr vinci olduğunu belirtiyor."
@@ -1712,7 +1712,9 @@
         "Teknik özellikler, teslimat tarihi ve vincin planlanan kullanım alanı doğrulanamıyor."
       ],
       "generated_at": "2026-10-05T21:57:41.260Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-16T19:02:23.764Z",
+      "review_result": "published"
     }
   },
   {
