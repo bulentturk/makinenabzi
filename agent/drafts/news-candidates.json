@@ -1115,7 +1115,7 @@
   },
   {
     "id": "7812ddecfeac8062",
-    "status": "drafted",
+    "status": "published",
     "title_original": " Loftness Introduces Stone Crusher Attachment",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/loftness-introduces-stone-crusher-attachment/72409",
@@ -1135,7 +1135,7 @@
       "seo_title": "Loftness Stone Ax taş kırıcı ataşmanını tanıttı",
       "meta_description": "Loftness Specialized Equipment, Stone Ax taş kırıcı ataşmanını duyurdu. Uyumlu taşıyıcılar ve teknik özellikler mevcut kaynakta açıklanmıyor.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Loftness Specialized Equipment, Stone Ax adlı taş kırıcı ataşmanını tanıttı."
       ],
@@ -1156,7 +1156,9 @@
         "Ataşmanın teknik değerleri, uyumlu makineleri, bulunabilirliği ve uygulama koşulları doğrulanamıyor."
       ],
       "generated_at": "2026-10-02T19:52:19.544Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-16T18:55:14.421Z",
+      "review_result": "published"
     }
   },
   {
