@@ -1163,7 +1163,7 @@
   },
   {
     "id": "187773c0f3a9607f",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Manitou Group Introduces Largest &#8220;High Lift&#8221;  Rotating Telehandler in Current Offering",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/manitou-group-introduces-largest-high-lift-rotating-telehandler-in-current-offering/72394",
@@ -1183,7 +1183,7 @@
       "seo_title": "Manitou MRT 4080 döner telehandler serisine katıldı",
       "meta_description": "Manitou Group, MRT Vision+ serisinin en büyük “High Lift” modeli olarak tanımladığı MRT 4080 döner telehandler’ı tanıttı.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Manitou Group, MRT 4080 modelini tanıttı.",
         "Model, MRT Vision+ döner telehandler serisine ait.",
@@ -1205,7 +1205,9 @@
         "Kaynak sayfasına erişim 403 hatasıyla başarısız olmuş; taslak yalnızca başlık ve kısa RSS özetine dayanıyor. Teknik özellikler ve uygulama ayrıntıları doğrulanamıyor."
       ],
       "generated_at": "2026-10-01T20:18:05.206Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-16T18:56:33.991Z",
+      "review_result": "published"
     }
   },
   {
