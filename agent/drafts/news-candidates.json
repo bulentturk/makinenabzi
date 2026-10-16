@@ -748,7 +748,7 @@
   },
   {
     "id": "a5df70d023481fa0",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Komatsu Europe launches PW75MR-5 compact wheeled excavator",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/construction/komatsu-europe-launches-pw75mr-5-compact-wheeled-excavator.html",
@@ -768,7 +768,7 @@
       "seo_title": "Komatsu PW75MR-5 kompakt lastikli ekskavatörü tanıttı",
       "meta_description": "Komatsu Europe’ın PW75MR-5 modeli 7,5 tonun altında çalışma ağırlığı, 2 metre genişlik ve dört tekerlekten yönlendirme sunuyor.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Model Komatsu Europe tarafından tanıtıldı.",
         "PW75MR-5’in çalışma ağırlığı 7,5 tonun altında olarak belirtiliyor.",
@@ -791,7 +791,9 @@
         "Teknik bilgiler kaynak açıklamasına dayanıyor; bağımsız doğrulama veya saha performansı verisi sağlanmamış."
       ],
       "generated_at": "2026-10-01T20:18:05.206Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-16T20:23:06.695Z",
+      "review_result": "published"
     }
   },
   {
