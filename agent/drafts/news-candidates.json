@@ -1212,7 +1212,7 @@
   },
   {
     "id": "e9f71fff0086bb8c",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Kubota Introduces All-New BX90 Sub-Compact Tractor Series",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/kubota-introduces-allnew-bx90-subcompact-tractor-series/72374",
@@ -1232,7 +1232,7 @@
       "seo_title": "Kubota BX90 serisine beş yeni kompakt traktör ekledi",
       "meta_description": "Kubota, BX90 kompakt traktör serisini beş yeni model ve üç donanım seviyesiyle tanıttı. Kaynakta teknik özellikler hakkında ayrıntı yer almıyor.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Kubota, BX90 serisi için beş yeni model tanıttı.",
         "Seride üç donanım seviyesi bulunuyor."
@@ -1253,7 +1253,9 @@
         "Kaynak özeti yalnızca model sayısı ve donanım seviyesi bilgisini içeriyor; teknik özellikler ve hedeflenen uygulamalar belirtilmiyor."
       ],
       "generated_at": "2026-09-30T10:50:42.237Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-16T18:59:12.624Z",
+      "review_result": "published"
     }
   },
   {
