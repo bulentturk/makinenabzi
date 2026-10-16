@@ -467,7 +467,7 @@
   },
   {
     "id": "56f94264cdfd30b0",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Massey Ferguson launches 7S Mark 2 tractor range",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/agriculture/massey-ferguson-launches-7s-mark-2-tractor-range.html",
@@ -487,7 +487,7 @@
       "seo_title": "Massey Ferguson 7S Mark 2 traktör serisini tanıttı",
       "meta_description": "Massey Ferguson'un altı modelden oluşan 7S Mark 2 serisi 170-245 hp güç aralığında. Üretim ve ilk teslimatların 2027 ilkbaharında başlaması planlanıyor.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "7S Mark 2 serisi altı modelden oluşuyor.",
         "Güç aralığı 170-245 hp olarak veriliyor.",
@@ -516,7 +516,9 @@
         "Üretim ve teslimat takvimi planlanan tarih olarak aktarılmıştır."
       ],
       "generated_at": "2026-10-09T20:04:39.050Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-16T20:14:59.620Z",
+      "review_result": "published"
     }
   },
   {
