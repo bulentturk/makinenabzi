@@ -1,5 +1,36 @@
 [
   {
+    "id": "56f94264cdfd30b0",
+    "slug": "massey-ferguson-7s-mark-2-traktor-serisini-tanitti",
+    "title": "Massey Ferguson, 7S Mark 2 traktör serisini tanıttı",
+    "dek": "Altı modelden oluşan seri 170-245 hp güç aralığını kapsıyor. Üretim ve ilk teslimatların 2027 ilkbaharında başlaması planlanıyor.",
+    "summary": "Massey Ferguson, 7S Mark 2 adıyla altı traktörlük yeni bir seri tanıttı. Kaynak özetine göre modeller 170-245 hp aralığında güç sunuyor.\n\nSeride yeni AGCO Power motor, Dyna-VT şanzıman ve yeniden tasarlanmış kabin bulunuyor. Tam üretim ile ilk teslimatların 2027 ilkbaharında başlaması bekleniyor.",
+    "why_it_matters": "Seri, tarım makinelerinde motor ve şanzıman güncellemelerinin farklı güç sınıflarındaki traktörlere nasıl yansıtıldığına dair bir ürün gelişmesi sunuyor. Ancak kaynakta motorun veya şanzımanın teknik özellikleri ve önceki modellere göre değişiklikleri açıklanmıyor.",
+    "key_facts": [
+      "7S Mark 2 serisi altı modelden oluşuyor.",
+      "Güç aralığı 170-245 hp olarak veriliyor.",
+      "Seride yeni AGCO Power motor ve Dyna-VT şanzıman bulunuyor.",
+      "Üretim ve ilk teslimatların 2027 ilkbaharında başlaması planlanıyor."
+    ],
+    "format": "haber",
+    "sector": "tarim",
+    "technologies": [
+      "yuruyus-guc-aktarma"
+    ],
+    "tags": [
+      "Massey Ferguson",
+      "7S Mark 2",
+      "traktör",
+      "tarım makineleri",
+      "Dyna-VT"
+    ],
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/news/agriculture/massey-ferguson-launches-7s-mark-2-tractor-range.html",
+    "source_published_at": "2026-10-08T13:19:48.000Z",
+    "site_published_at": "2026-10-16T20:10:13.267Z",
+    "hero_image": ""
+  },
+  {
     "id": "c4dcc57ea974eef5",
     "slug": "massey-ferguson-itl-ile-kompakt-traktor-tedarik-ortakligi-kurdu",
     "title": "Massey Ferguson, ITL ile kompakt traktör tedarik ortaklığı kurdu",
