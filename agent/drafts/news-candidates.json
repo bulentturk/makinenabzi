@@ -1566,7 +1566,7 @@
   },
   {
     "id": "ce944600d105fe80",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Patriot Crane Adds Tadano AC 5.250L-2 to Fleet",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/patriot-crane-adds-tadano-ac-5250l2-to-fleet/72429",
@@ -1586,7 +1586,7 @@
       "seo_title": "Patriot Crane filosuna Tadano AC 5.250L-2 vinci ekledi",
       "meta_description": "Patriot Crane, kaynakta 300 ton kapasiteli arazi tipi mobil vinç olarak tanımlanan Tadano AC 5.250L-2 modelini filosuna kattı.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Patriot Crane, Tadano AC 5.250L-2 modelini filosuna ekledi.",
         "Kaynak özeti modeli 300 ton kapasiteli arazi tipi mobil vinç olarak tanımlıyor."
@@ -1610,7 +1610,9 @@
         "Erişim, teknoloji ve taşıma seçeneklerine ilişkin kaynakta sayısal veya teknik ayrıntı verilmemiştir."
       ],
       "generated_at": "2026-10-06T20:08:47.986Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-16T19:01:46.044Z",
+      "review_result": "published"
     }
   },
   {
