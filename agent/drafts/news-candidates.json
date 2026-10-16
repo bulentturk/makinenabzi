@@ -174,34 +174,6 @@
     }
   },
   {
-    "id": "ea90d3f7d94cdddc",
-    "status": "candidate",
-    "title_original": "Techking outlines work with Boonray on tyre development for autonomous mining",
-    "source_name": "International Mining",
-    "source_url": "https://im-mining.com/2026/10/12/techking-outlines-work-with-boonray-on-tyre-development-for-autonomous-mining/",
-    "source_feed": "https://im-mining.com/feed/",
-    "published_at": "2026-10-12T11:09:17.000Z",
-    "discovered_at": "2026-10-12T12:36:20.448Z",
-    "sector": "madencilik",
-    "technologies": [
-      "elektrifikasyon",
-      "otonomi-ai"
-    ],
-    "relevance_score": 160,
-    "editorial_fit_score": 34,
-    "summary_source": "As mining trucks become more electric and autonomous, tyre development faces new challenges. Changes in torque delivery, operating cycles and vehicle utilisation mean that tyre requirements increasingly depend on how the machine, haul road and operating conditions work together. For a tyre supplier, this creates a need to become involved earlier in equipment development and The post Techking outlines work with Boonray on tyre development for autonomous mining appeared first on International Mining.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
-  },
-  {
     "id": "11b4654893e0559d",
     "status": "drafted",
     "title_original": "Dyno Nobel prototypes autonomous blasthole inspection & loading technology",
@@ -309,118 +281,6 @@
       "meta_description": "",
       "hero_image": "",
       "reviewed": false
-    }
-  },
-  {
-    "id": "9593d0f21af1843e",
-    "status": "published",
-    "title_original": "Mona Nova to debut electric telehandler at EuroTier",
-    "source_name": "iVT International",
-    "source_url": "https://www.ivtinternational.com/news/agriculture/mona-nova-to-debut-electric-telehandler-at-eurotier.html",
-    "source_feed": "https://www.ivtinternational.com/feed",
-    "published_at": "2026-10-12T11:02:11.000Z",
-    "discovered_at": "2026-10-12T12:36:20.189Z",
-    "sector": "tarim",
-    "technologies": [
-      "elektrifikasyon"
-    ],
-    "relevance_score": 158,
-    "editorial_fit_score": 67,
-    "summary_source": "Mona Motors, based in Germany, will give the first showing of its Mona Nova electric telehandler, developed for agriculture, at EuroTier 2026. The company says the machine will appeal to [...] The post Mona Nova to debut electric telehandler at EuroTier appeared first on Industrial Vehicle Technology International.",
-    "editorial": {
-      "title_tr": "Mona Motors, elektrikli Mona Nova teleskopik yükleyiciyi EuroTier’de tanıtacak",
-      "dek_tr": "Mona Motors, tarım için geliştirdiği Mona Nova elektrikli teleskopik yükleyicinin ilk gösterimini EuroTier 2026’da yapacağını bildirdi. Kaynakta makinenin kaldırma kapasitesi 2,7 ton, kaldırma yüksekliği 6,3 metre ve batarya kapasitesi 46 kWh olarak veriliyor.",
-      "summary_tr": "Almanya merkezli Mona Motors, tarımsal kullanım için geliştirdiği Mona Nova elektrikli teleskopik yükleyiciyi EuroTier 2026’da ilk kez sergilemeyi planlıyor.\n\nKaynakta makine için 2,7 ton kaldırma kapasitesi, 6,3 metre kaldırma yüksekliği ve 46 kWh batarya kapasitesi belirtiliyor. Şarj süresi, çalışma süresi ve performans koşulları hakkında bilgi verilmiyor.",
-      "why_it_matters_tr": "Elektrikli teleskopik yükleyiciler, tarım işletmelerinde malzeme elleçleme ve yükleme işlerinde dizel makinelere alternatif oluşturabilir. Ancak bu modelin çalışma süresi ve saha performansı gibi pratik ölçütleri kaynakta açıklanmıyor.",
-      "seo_title": "Mona Nova elektrikli teleskopik yükleyici EuroTier 2026’da",
-      "meta_description": "Mona Motors, tarım için geliştirdiği Mona Nova elektrikli teleskopik yükleyiciyi EuroTier 2026’da tanıtacak. Kaynakta 46 kWh batarya belirtiliyor.",
-      "hero_image": "",
-      "reviewed": true,
-      "key_facts": [
-        "Mona Nova, tarımsal kullanım için geliştirilen elektrikli bir teleskopik yükleyici olarak tanıtılıyor.",
-        "Mona Motors, makinenin ilk gösterimini EuroTier 2026’da yapacağını belirtiyor.",
-        "Kaynakta 2,7 ton kaldırma kapasitesi, 6,3 metre kaldırma yüksekliği ve 46 kWh batarya kapasitesi veriliyor."
-      ],
-      "suggested_tags": [
-        "Mona Motors",
-        "Mona Nova",
-        "elektrikli teleskopik yükleyici",
-        "tarım makineleri"
-      ],
-      "suggested_sector": "tarim",
-      "editorial_format": "haber",
-      "suggested_technologies": [
-        "elektrifikasyon"
-      ],
-      "source_facts_used": [
-        "Mona Motors’un Mona Nova’yı tarım için geliştirdiği ve EuroTier 2026’da ilk kez göstereceği bilgisi.",
-        "Kaynakta belirtilen 2,7 ton kapasite, 6,3 metre kaldırma yüksekliği ve 46 kWh batarya."
-      ],
-      "uncertainty_notes": [
-        "Teknik veriler kaynakta yer alıyor; bağımsız test veya doğrulama bilgisi sunulmuyor.",
-        "Şarj süresi, çalışma süresi ve performans koşulları belirtilmemiş."
-      ],
-      "generated_at": "2026-10-12T12:37:29.232Z",
-      "generated_by": "github-models",
-      "reviewed_at": "2026-10-12T20:09:45.051Z",
-      "review_result": "published"
-    }
-  },
-  {
-    "id": "6c58e485538aca08",
-    "status": "published",
-    "title_original": "Caterpillar releases one-tonne micro hydraulic excavator",
-    "source_name": "iVT International",
-    "source_url": "https://www.ivtinternational.com/news/construction/cat-301-cr-expands-micro-excavator-range.html",
-    "source_feed": "https://www.ivtinternational.com/feed",
-    "published_at": "2026-10-12T10:42:29.000Z",
-    "discovered_at": "2026-10-12T12:36:20.191Z",
-    "sector": "tarim",
-    "technologies": [
-      "hidrolik"
-    ],
-    "relevance_score": 158,
-    "editorial_fit_score": 67,
-    "summary_source": "Caterpillar has introduced the Cat 301 CR (Compact Radius), a micro hydraulic excavator aimed at contractors working in confined spaces, including indoor, demolition, agricultural and landscaping applications. The one-tonne-class machine [...] The post Caterpillar releases one-tonne micro hydraulic excavator appeared first on Industrial Vehicle Technology International.",
-    "editorial": {
-      "title_tr": "Caterpillar, bir ton sınıfı Cat 301 CR mini ekskavatörü tanıttı",
-      "dek_tr": "Cat 301 CR, dar alanlarda çalışmak üzere tasarlanmış kompakt yarıçaplı bir hidrolik mini ekskavatör olarak tanıtılıyor. Kaynağa göre makinede genişletilebilir alt takım bulunuyor; uygulamalar arasında yıkım, tarım ve peyzaj işleri sayılıyor.",
-      "summary_tr": "Caterpillar, dar çalışma alanlarına yönelik Cat 301 CR (Compact Radius) mini ekskavatörü ürün gamına ekledi. Kaynak, makineyi bir ton sınıfında ve hidrolik olarak tanımlıyor.\n\nKompakt yarıçap tasarımı ve genişletilebilir alt takım, kaynakta öne çıkarılan özellikler. İç mekân, yıkım, tarım ve peyzaj işleri olası kullanım alanları arasında listeleniyor; teknik ölçüler ve performans verileri paylaşılmıyor.",
-      "why_it_matters_tr": "Kompakt ekskavatörler, daha büyük makinelerin manevra alanının sınırlı olduğu şantiyeler ve tarımsal işletmelerde yardımcı olabilir. Cat 301 CR’nin gerçek çalışma kapasitesini karşılaştırmak için kaynakta yer almayan ölçü, erişim ve performans verileri gerekir.",
-      "seo_title": "Caterpillar Cat 301 CR mini ekskavatörü tanıttı",
-      "meta_description": "Caterpillar’ın bir ton sınıfındaki Cat 301 CR mini ekskavatörü, kompakt yarıçap tasarımı ve genişletilebilir alt takımıyla dar alanlara yönelik.",
-      "hero_image": "",
-      "reviewed": true,
-      "key_facts": [
-        "Cat 301 CR, Caterpillar tarafından tanıtılan bir mini hidrolik ekskavatördür.",
-        "Kaynak makineyi bir ton sınıfında ve kompakt yarıçap tasarımlı olarak tanımlıyor.",
-        "Genişletilebilir alt takım belirtilen özellikler arasındadır.",
-        "Kaynakta iç mekân, yıkım, tarım ve peyzaj uygulamaları sayılıyor."
-      ],
-      "suggested_tags": [
-        "Caterpillar",
-        "Cat 301 CR",
-        "mini ekskavatör",
-        "kompakt iş makineleri"
-      ],
-      "suggested_sector": "is-makinalari",
-      "editorial_format": "haber",
-      "suggested_technologies": [
-        "hidrolik",
-        "yuruyus-guc-aktarma"
-      ],
-      "source_facts_used": [
-        "Cat 301 CR’nin Caterpillar tarafından tanıtıldığı ve bir ton sınıfında hidrolik mini ekskavatör olarak tanımlandığı bilgisi.",
-        "Kompakt yarıçap tasarımı, genişletilebilir alt takım ve kaynakta sıralanan kullanım alanları."
-      ],
-      "uncertainty_notes": [
-        "Ürün özellikleri ve kullanım alanları kaynakta aktarılıyor; bağımsız test veya doğrulama bilgisi yok.",
-        "Boyutlar, kazı derinliği ve diğer performans ölçüleri verilmemiş."
-      ],
-      "generated_at": "2026-10-12T12:37:29.232Z",
-      "generated_by": "github-models",
-      "reviewed_at": "2026-10-12T20:10:12.692Z",
-      "review_result": "published"
     }
   },
   {
@@ -539,81 +399,6 @@
     "relevance_score": 150,
     "editorial_fit_score": 55,
     "summary_source": "Steyr will present a cross-section of its forestry tractor range at Interforst 2026 in Munich, Germany, which runs this week from 15 to 18 October, with models spanning compact utility [...] The post Steyr brings five-model forestry line-up to Interforst appeared first on Industrial Vehicle Technology International.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
-  },
-  {
-    "id": "80f6d8056f91e987",
-    "status": "candidate",
-    "title_original": "Trioliet to expand self-propelled feed mixer range at EuroTier",
-    "source_name": "iVT International",
-    "source_url": "https://www.ivtinternational.com/news/agriculture/trioliet-to-showcase-l-farmer-edition-at-eurotier.html",
-    "source_feed": "https://www.ivtinternational.com/feed",
-    "published_at": "2026-10-12T11:29:42.000Z",
-    "discovered_at": "2026-10-12T12:36:20.187Z",
-    "sector": "is-makinalari",
-    "technologies": [],
-    "relevance_score": 150,
-    "editorial_fit_score": 55,
-    "summary_source": "Trioliet is expanding its range of self-propelled feed mixers with the Triotrac L Farmer Edition, which will be officially launched at EuroTier 2026. Two models are available, with 17 and [...] The post Trioliet to expand self-propelled feed mixer range at EuroTier appeared first on Industrial Vehicle Technology International.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
-  },
-  {
-    "id": "3845a473a22b92e1",
-    "status": "candidate",
-    "title_original": "Caterpillar adds two models to Next Generation mini excavator range",
-    "source_name": "iVT International",
-    "source_url": "https://www.ivtinternational.com/news/construction/caterpillar-adds-two-models-to-next-generation-mini-excavator-range.html",
-    "source_feed": "https://www.ivtinternational.com/feed",
-    "published_at": "2026-10-12T11:18:47.000Z",
-    "discovered_at": "2026-10-12T12:36:20.188Z",
-    "sector": "is-makinalari",
-    "technologies": [],
-    "relevance_score": 150,
-    "editorial_fit_score": 55,
-    "summary_source": "Caterpillar has expanded its Next Generation mini excavator range with the 302.4 Compact Radius (CR) and the 302.6, two machines in the 2.4- and 2.6-tonne class sizes that complement the [...] The post Caterpillar adds two models to Next Generation mini excavator range appeared first on Industrial Vehicle Technology International.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
-  },
-  {
-    "id": "c770228a31869d81",
-    "status": "candidate",
-    "title_original": "Strautmann to unveil Primus 900 self-propelled mixer at EuroTier",
-    "source_name": "iVT International",
-    "source_url": "https://www.ivtinternational.com/news/agriculture/strautmann-to-unveil-primus-900-self-propelled-mixer-at-eurotier.html",
-    "source_feed": "https://www.ivtinternational.com/feed",
-    "published_at": "2026-10-12T10:57:57.000Z",
-    "discovered_at": "2026-10-12T12:36:20.190Z",
-    "sector": "is-makinalari",
-    "technologies": [],
-    "relevance_score": 150,
-    "editorial_fit_score": 55,
-    "summary_source": "Strautmann has expanded its Primus range of self-propelled feed mixers with the Primus 900, which will be shown in public for the first time at EuroTier 2026. The series comprises [...] The post Strautmann to unveil Primus 900 self-propelled mixer at EuroTier appeared first on Industrial Vehicle Technology International.",
     "editorial": {
       "title_tr": "",
       "dek_tr": "",
@@ -998,6 +783,83 @@
     }
   },
   {
+    "id": "f53d4390760cc62a",
+    "status": "candidate",
+    "title_original": "Castoldi waterjets power fully electric Ravenna Futura",
+    "source_name": "Marine Industry News",
+    "source_url": "https://marineindustrynews.co.uk/castoldi-waterjets-power-fully-electric-ravenna-futura/",
+    "source_feed": "https://marineindustrynews.co.uk/feed/",
+    "published_at": "2026-10-16T07:45:00.000Z",
+    "discovered_at": "2026-10-16T18:43:52.678Z",
+    "sector": "marine-yatcilik",
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "relevance_score": 146,
+    "editorial_fit_score": 79,
+    "summary_source": "Ravenna Futura, a fully electric, zero-emission workboat, has been launched in Ravenna, Italy. The 15-metre vessel was built to operate in the Port of Ravenna, using lithium and lead battery packs integrated with photovoltaic solar panels and an electric motor coupled to waterjets. Ravenna Futura uses twin Castoldi TD 284 EVT waterjets paired with electric […] The post Castoldi waterjets power fully electric Ravenna Futura appeared first on Marine Industry News.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "48efd3d54f9610d2",
+    "status": "candidate",
+    "title_original": "Manitou’s New MRT 4080 Telehandler: A 3-in-1 Machine That Extends 131 Feet",
+    "source_name": "Equipment World",
+    "source_url": "https://www.equipmentworld.com/aeriallifting-equipment/telehandlers/article/15837478/manitou-mrt-4080-rotary-telehandler-reaches-131-feet",
+    "source_feed": "https://www.equipmentworld.com/feed/",
+    "published_at": "2026-10-16T16:05:00.000Z",
+    "discovered_at": "2026-10-16T18:43:52.744Z",
+    "sector": "is-makinalari",
+    "technologies": [],
+    "relevance_score": 145,
+    "editorial_fit_score": 65,
+    "summary_source": "The largest High Lift MRT combines telehandler, crane and aerial work platform abilities, with up to 17,637 pounds of lifting...",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "50dd9a5952fc8d5b",
+    "status": "candidate",
+    "title_original": "Kubota Revamps BX90 Subcompact Tractor Line With More Power and Capability",
+    "source_name": "Equipment World",
+    "source_url": "https://www.equipmentworld.com/ag-equipment/tractors/article/15837445/kubota-completely-redesigns-bx90-subcompact-tractor-line",
+    "source_feed": "https://www.equipmentworld.com/feed/",
+    "published_at": "2026-10-16T16:00:00.000Z",
+    "discovered_at": "2026-10-16T18:43:52.745Z",
+    "sector": "tarim",
+    "technologies": [],
+    "relevance_score": 145,
+    "editorial_fit_score": 55,
+    "summary_source": "The five new models are completely redesigned for year-round work — mowing, digging, clearing snow and loading.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "09f45c924cc23f94",
     "status": "candidate",
     "title_original": "Roadrunner’s New Grader Attachments Could Replace Motor Grader",
@@ -1023,19 +885,19 @@
     }
   },
   {
-    "id": "c1c13b7e0672d5c1",
+    "id": "a2e289bd4e54672e",
     "status": "candidate",
-    "title_original": "Africa’s first non-ferrous mining TBM advances further at NFCA’s Chambishi",
+    "title_original": "Sandvik Rock Processing’s Reborn crusher program gains traction in Africa",
     "source_name": "International Mining",
-    "source_url": "https://im-mining.com/2026/10/12/africas-first-non-ferrous-mining-tbm-advances-further-at-nfcas-chambishi/",
+    "source_url": "https://im-mining.com/2026/10/16/sandvik-rock-processings-reborn-crusher-program-gains-traction-in-africa/",
     "source_feed": "https://im-mining.com/feed/",
-    "published_at": "2026-10-12T15:47:03.000Z",
-    "discovered_at": "2026-10-12T22:06:05.266Z",
+    "published_at": "2026-10-16T10:07:16.000Z",
+    "discovered_at": "2026-10-16T18:43:52.921Z",
     "sector": "madencilik",
     "technologies": [],
     "relevance_score": 140,
-    "editorial_fit_score": 55,
-    "summary_source": "Africa’s first non-ferrous metal mining TBM – China Nonferrous Metals No. 2 – was jointly built by CRCC subsidiary China Railway Construction Heavy Industry (CRCHI) and China Metallurgical Corporation 15, with the companies also providing full-process technical operation and maintenance services. During the trial excavation period this year from August 26 to September 25 at The post Africa’s first non-ferrous mining TBM advances further at NFCA’s Chambishi appeared first on International Mining.",
+    "editorial_fit_score": 65,
+    "summary_source": "Mines and quarries across Africa are pushing to maximise output from existing infrastructure while keeping capital expenditure under tight control, with Sandvik Rock Processing’s Reborn program does just this for ageing crushing equipment, the OEM says. “Our Reborn program is more than a refurbishment,” PC Kruger, Business Line Manager Crushing at Sandvik Rock Processing, says. The post Sandvik Rock Processing’s Reborn crusher program gains traction in Africa appeared first on International Mining.",
     "editorial": {
       "title_tr": "",
       "dek_tr": "",
@@ -1199,58 +1061,6 @@
       "meta_description": "",
       "hero_image": "",
       "reviewed": false
-    }
-  },
-  {
-    "id": "6807877b7ea0b996",
-    "status": "published",
-    "title_original": "Southampton completes £60m crane investment",
-    "source_name": "Port Strategy",
-    "source_url": "https://www.portstrategy.com/news/container-cargo-handling/southampton-completes-60m-crane-investment/",
-    "source_feed": "https://www.portstrategy.com/feed",
-    "published_at": "2026-10-12T09:30:19.000Z",
-    "discovered_at": "2026-10-12T12:36:24.354Z",
-    "sector": "liman",
-    "technologies": [],
-    "relevance_score": 130,
-    "editorial_fit_score": 65,
-    "summary_source": "DP World completes Southampton’s £60 million crane investment, boosting container capacity and strengthening the UK’s global trade connections",
-    "editorial": {
-      "title_tr": "DP World Southampton’ın 60 milyon sterlinlik vinç yatırımı tamamlandı",
-      "dek_tr": "Associated British Ports, DP World Southampton’a iki yeni rıhtım vincinin ulaştığını ve 60 milyon sterlinlik yatırım programının tamamlandığını duyurdu. Kaynak, terminalin yılda yaklaşık iki milyon konteyner elleçlediğini belirtiyor.",
-      "summary_tr": "Associated British Ports (ABP), DP World Southampton terminaline iki yeni rıhtım vincinin geldiğini açıkladı. Bu teslimatla, limandaki vinç yatırımı programının toplam 60 milyon sterlinlik kısmı tamamlandı.\n\nKaynak, Southampton konteyner terminalinin yılda yaklaşık iki milyon konteyner işlediğini ve terminalin DP World tarafından işletildiğini bildiriyor. Yeni vinçlerin teknik özellikleri, kapasitesi ve devreye alınma takvimi paylaşılmıyor.",
-      "why_it_matters_tr": "Rıhtım vinçleri, konteyner terminallerinin gemi ve kara taşımacılığı arasındaki yük aktarımında temel ekipmanlarıdır. Southampton yatırımının etkisini ekipman kapasitesi veya operasyon verimliliği açısından değerlendirmek için vinçlerin teknik özellikleri ve işletme sonuçları gerekir.",
-      "seo_title": "DP World Southampton’ın 60 milyon sterlinlik vinç yatırımı",
-      "meta_description": "Southampton’a iki yeni rıhtım vincinin ulaşmasıyla DP World’ün 60 milyon sterlinlik yatırım programı tamamlandı; terminal yılda yaklaşık iki milyon konteyner işliyor.",
-      "hero_image": "",
-      "reviewed": true,
-      "key_facts": [
-        "DP World Southampton’a iki yeni rıhtım vinci ulaştı.",
-        "ABP, teslimatla 60 milyon sterlinlik vinç yatırım programının tamamlandığını bildirdi.",
-        "Kaynak, terminalin yılda yaklaşık iki milyon konteyner işlediğini belirtiyor.",
-        "Southampton konteyner terminali DP World tarafından işletiliyor."
-      ],
-      "suggested_tags": [
-        "DP World",
-        "Southampton Limanı",
-        "rıhtım vinci",
-        "konteyner terminali"
-      ],
-      "suggested_sector": "liman",
-      "editorial_format": "haber",
-      "suggested_technologies": [],
-      "source_facts_used": [
-        "Southampton’a iki yeni rıhtım vincinin ulaştığı ve 60 milyon sterlinlik yatırım programının tamamlandığı bilgisi.",
-        "Terminalin yılda yaklaşık iki milyon konteyner işlediği ve DP World tarafından işletildiği bilgisi."
-      ],
-      "uncertainty_notes": [
-        "Vinçlerin üreticisi, modeli, teknik kapasitesi ve devreye alınma takvimi kaynakta belirtilmiyor.",
-        "Yatırımın operasyonel verimliliğe etkisine dair ölçüm veya bağımsız doğrulama sunulmuyor."
-      ],
-      "generated_at": "2026-10-12T12:37:29.232Z",
-      "generated_by": "github-models",
-      "reviewed_at": "2026-10-12T20:12:36.715Z",
-      "review_result": "published"
     }
   },
   {
