@@ -1,5 +1,35 @@
 [
   {
+    "id": "11b4654893e0559d",
+    "slug": "dyno-nobel-otonom-blasthole-denetim-ve-yukleme-teknolojisinin-prototipini-tanitti",
+    "title": "Dyno Nobel, otonom blasthole denetim ve yükleme teknolojisinin prototipini tanıttı",
+    "dek": "Dyno Nobel, sondaj deliklerinin denetlenmesi ve patlayıcıyla yüklenmesi süreçlerini otonom biçimde yürütmeyi hedefleyen bir prototip duyurdu. Kaynak, sistemin yatırımcılara New York'ta tanıtıldığını aktarıyor.",
+    "summary": "International Mining'in haber özetine göre Dyno Nobel, maden sahalarındaki delme-patlatma basamağı için blasthole denetim ve yükleme teknolojisinin prototipini tanıttı. Sistem, bu süreçleri uçtan uca otonom biçimde koordine etmeyi hedefliyor.\n\nKaynak, teknolojinin beş yıllık bir Ar-Ge çalışmasının ardından yatırımcılara New York'ta sunulduğunu bildiriyor. Bu bilgi şirketin duyurusunu aktaran haber özetine dayanıyor; prototipin saha performansı veya ticari kullanıma hazır olup olmadığına ilişkin veri verilmemiş.",
+    "why_it_matters": "Delik denetimi ve patlayıcı yükleme, madenlerde iş güvenliği ve operasyon akışı açısından kritik adımlardır. Bu görevlerin otonomlaştırılması, sahada personelin maruziyetini ve süreçlerin koordinasyonunu etkileyebilir; ancak olası faydaların değerlendirilmesi için saha denemeleri ve performans verileri gerekir.",
+    "key_facts": [
+      "Dyno Nobel, blasthole denetim ve yükleme teknolojisi için bir prototip tanıttı.",
+      "Teknoloji, delme-patlatma sürecini otonom biçimde koordine etmeyi hedefliyor.",
+      "Haber özeti, çalışmanın beş yıllık Ar-Ge sürecinin ardından tanıtıldığını ve yatırımcılara New York'ta sunulduğunu belirtiyor."
+    ],
+    "format": "haber",
+    "sector": "madencilik",
+    "technologies": [
+      "otonomi-ai"
+    ],
+    "tags": [
+      "Dyno Nobel",
+      "madencilik",
+      "otonom sistemler",
+      "delme ve patlatma",
+      "iş güvenliği"
+    ],
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/10/01/dyno-nobel-prototypes-autonomous-blasthole-inspection-loading-technology/",
+    "source_published_at": "2026-10-01T10:24:07.000Z",
+    "site_published_at": "2026-10-16T21:56:01.006Z",
+    "hero_image": ""
+  },
+  {
     "id": "1435e858f764b7f4",
     "slug": "yenilenen-tbm-roberta-grand-paris-express-te-ikinci-tunel-surusune-hazirlaniyor",
     "title": "Yenilenen TBM Roberta, Grand Paris Express’te ikinci tünel sürüşüne hazırlanıyor",
