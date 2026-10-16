@@ -1844,7 +1844,7 @@
   },
   {
     "id": "f3448f872b491eac",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Liebherr's Game of Cranes Returns: Best Mobile Crane Operator",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/liebherrs-game-of-cranes-returns-best-mobile-crane-operator/72368",
@@ -1864,7 +1864,7 @@
       "seo_title": "Liebherr Game of Cranes yarışması 2027'de dönüyor",
       "meta_description": "Liebherr'in mobil vinç operatörleri için düzenlediği Game of Cranes, beş bölgesel eleme turunun ardından 2027'de Ehingen finaliyle sürecek.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Liebherr'in Game of Cranes etkinliği yeniden düzenleniyor.",
         "Süreçte uzman paneli oylaması ve beş bölgesel eleme turu bulunuyor.",
@@ -1887,7 +1887,9 @@
         "Kaynağa erişim HTTP 403 ile engellenmiş; katılım koşulları, tarihler ve yarışma formatının ayrıntıları doğrulanamıyor."
       ],
       "generated_at": "2026-10-02T19:52:19.544Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-16T21:30:38.298Z",
+      "review_result": "published"
     }
   },
   {
