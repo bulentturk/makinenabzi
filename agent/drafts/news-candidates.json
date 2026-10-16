@@ -1637,7 +1637,7 @@
   },
   {
     "id": "406a1a6333446fb2",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Potain Cranes Build €30M Italian Complex",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/potain-cranes-build-eur30m-italian-complex/72428",
@@ -1657,7 +1657,7 @@
       "seo_title": "Potain Evy 30-23 ve MDT 259 J12 İtalya’da görevde",
       "meta_description": "Potain Evy 30-23 ve MDT 259 J12, İtalya’nın Ripalimosani kentindeki Mulino Caputo tesisi inşaatında kullanılıyor.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "İnşaat projesi İtalya’nın Ripalimosani kentinde yürütülüyor.",
         "Şantiyede Potain Evy 30-23 kendinden kurmalı vinç kullanılıyor.",
@@ -1684,7 +1684,9 @@
         "Vinçlerin kapasitesi, teknik özellikleri ve projedeki görev dağılımı kaynak özetinde açıklanmıyor."
       ],
       "generated_at": "2026-10-07T11:27:20.178Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-16T21:06:41.593Z",
+      "review_result": "published"
     }
   },
   {
