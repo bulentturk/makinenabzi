@@ -1944,7 +1944,7 @@
   },
   {
     "id": "1435e858f764b7f4",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Refurbished TBM ready for second Grand Paris Express drive",
     "source_name": "Tunnels & Tunnelling",
     "source_url": "https://www.tunnelsandtunnelling.com/news/refurbished-tbm-ready-for-second-grand-paris-express-drive/",
@@ -1964,7 +1964,7 @@
       "seo_title": "TBM Roberta Grand Paris Express’te ikinci sürüşe hazırlanıyor",
       "meta_description": "Daha önce Grand Paris Express’in 16. Hattı’nda kullanılan TBM Roberta yenilendi. Makinenin ikinci sürüşü için hazır olduğu bildirildi.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "TBM Roberta daha önce Grand Paris Express’in 16. Hattı’nda kullanıldı.",
         "Makine yenilendi ve Grand Paris Express’te ikinci sürüşüne hazır olduğu bildirildi."
@@ -1987,7 +1987,9 @@
         "Yenilemeye ilişkin performans veya kullanım ömrü iddialarını doğrulayacak bağımsız veri sunulmuyor."
       ],
       "generated_at": "2026-10-10T10:54:00.297Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-16T21:56:02.810Z",
+      "review_result": "published"
     }
   },
   {
