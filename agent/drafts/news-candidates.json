@@ -523,7 +523,7 @@
   },
   {
     "id": "b0768c2ab972e946",
-    "status": "drafted",
+    "status": "published",
     "title_original": "FLS to deliver world’s largest gyratory as part of Chile copper mine expansion package",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/10/08/fls-to-deliver-worlds-largest-gyratory-as-part-of-chile-copper-mine-expansion-package/",
@@ -543,7 +543,7 @@
       "seo_title": "FLS, Şili projesine büyük ölçekli TSUV kırıcı sağlayacak",
       "meta_description": "FLS, kuzey Şili'deki bakır madeni genişletmesi için 360 milyon DKK tutarında sipariş aldığını açıkladı. Pakette 1.600 x 3.300 TSUV kırıcı var.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "FLS, kuzey Şili'deki bakır madeni genişletme projesi için 360 milyon DKK değerinde sipariş aldığını söylüyor.",
         "Sipariş kırma ve öğütme teknolojilerini kapsıyor.",
@@ -572,7 +572,9 @@
         "1.600 x 3.300 ölçülerinin birimi ve ekipmanın kapasite ya da performans verileri mevcut metinde belirtilmiyor."
       ],
       "generated_at": "2026-10-09T20:04:39.050Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-16T20:15:27.430Z",
+      "review_result": "published"
     }
   },
   {
