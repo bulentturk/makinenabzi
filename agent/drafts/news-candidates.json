@@ -1791,7 +1791,7 @@
   },
   {
     "id": "499a87561d3843fd",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Caterpillar Enters Agreement to Acquire Fabick Cat",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/caterpillar-enters-agreement-to-acquire-fabick-cat/72371",
@@ -1811,7 +1811,7 @@
       "seo_title": "Caterpillar, Fabick Cat’i satın almak üzere anlaştı",
       "meta_description": "Caterpillar’ın John Fabick Tractor Company’yi satın almak üzere anlaşmaya vardığı bildirildi. İşlemin koşulları ve tamamlanma takvimi kaynakta yok.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Caterpillar’ın satın almak üzere anlaşma yaptığı başlıkta belirtiliyor.",
         "Sağlanan kısa metin hedef şirketi John Fabick Tractor Company olarak adlandırıyor.",
@@ -1837,7 +1837,9 @@
         "Satın alma sonrası bayi ağına veya operasyonlara etkisi hakkında kaynakta bilgi yok."
       ],
       "generated_at": "2026-10-02T10:49:36.070Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-16T21:14:26.070Z",
+      "review_result": "published"
     }
   },
   {
