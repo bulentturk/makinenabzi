@@ -1329,7 +1329,7 @@
   },
   {
     "id": "fe0c7938f6f35c89",
-    "status": "drafted",
+    "status": "published",
     "title_original": "WW Builders Inc. Adds Tadano PM Knuckle Boom Crane",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/ww-builders-inc-adds-tadano-pm-knuckle-boom-crane/72382",
@@ -1349,7 +1349,7 @@
       "seo_title": "WW Builders filosuna Tadano PM knuckle boom vinç ekledi",
       "meta_description": "WW Builders Inc., filosuna Tadano PM 38525 SP + J813.20 knuckle boom vinci kattı; kaynakta teknik özellik ve kullanım ayrıntısı paylaşılmadı.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "WW Builders Inc. filosuna yeni bir vinç ekledi.",
         "Ekipman Tadano PM 38525 SP + J813.20 olarak tanımlanıyor.",
@@ -1372,7 +1372,9 @@
         "Kaynak sayfasına erişim 403 hatasıyla başarısız olmuş; taslak kısa RSS özetine dayanıyor. Vincin araç üstü montajı, kapasitesi ve kullanım amacı kaynakta doğrulanmıyor."
       ],
       "generated_at": "2026-10-01T20:18:05.206Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-16T20:54:34.157Z",
+      "review_result": "published"
     }
   },
   {
