@@ -412,7 +412,7 @@
   },
   {
     "id": "c4dcc57ea974eef5",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Massey Ferguson enters compact tractor supply deal with ITL",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/agriculture/massey-ferguson-enters-compact-tractor-supply-deal-with-itl.html",
@@ -432,7 +432,7 @@
       "seo_title": "Massey Ferguson ve ITL’den kompakt traktör ortaklığı",
       "meta_description": "Massey Ferguson ve ITL, 20 hp’den başlayan kompakt traktör serisi için tedarik ortaklığı kurdu. Avrupa ve Orta Doğu lansmanı 2027 için planlanıyor.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Massey Ferguson ile International Tractors Limited arasında tedarik ortaklığı duyuruldu.",
         "Kaynak açıklamasına göre yeni kompakt traktör serisi 20 hp'den başlayacak.",
@@ -460,7 +460,9 @@
         "2027 lansmanı kaynak açıklamasında plan olarak belirtiliyor; gerçekleşmiş bir lansman değil."
       ],
       "generated_at": "2026-10-08T20:39:04.732Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-16T20:10:14.472Z",
+      "review_result": "published"
     }
   },
   {
