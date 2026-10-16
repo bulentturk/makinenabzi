@@ -694,7 +694,7 @@
   },
   {
     "id": "5c918d8e9114fbdc",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Claas launches Arion 5 CMatic four-cylinder tractor range",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/agriculture/claas-launches-arion-5-cmatic-four-cylinder-tractor-range.html",
@@ -714,7 +714,7 @@
       "seo_title": "Claas Arion 5 CMatic traktör serisini tanıttı",
       "meta_description": "Claas’ın üç modelden oluşan Arion 5 CMatic traktör ailesi 145–180 hp güç aralığında ve CMATIC sürekli değişken şanzımanla sunuluyor.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Arion 5 CMatic ailesi üç dört silindirli modelden oluşuyor.",
         "Serinin bildirilen güç aralığı 145–180 hp.",
@@ -741,7 +741,9 @@
         "Performans veya verimlilik karşılaştırmasına ilişkin bağımsız test verisi bulunmuyor."
       ],
       "generated_at": "2026-10-01T11:17:44.546Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-16T20:20:43.899Z",
+      "review_result": "published"
     }
   },
   {
