@@ -384,31 +384,6 @@
     }
   },
   {
-    "id": "6eb02daed0a273d5",
-    "status": "candidate",
-    "title_original": "IPAF Summit ve IAPA 2026, İstanbul’da küresel platform sektörünü buluşturdu",
-    "source_name": "LHT",
-    "source_url": "https://www.lht.com.tr/ipaf-summit-ve-iapa-2026-istanbulda-kuresel-platform-sektorunu-bulusturdu/",
-    "source_feed": "https://www.lht.com.tr/feed/",
-    "published_at": "2026-10-16T08:27:28.000Z",
-    "discovered_at": "2026-10-17T22:47:47.144Z",
-    "sector": "arac-ustu-ekipman",
-    "technologies": [],
-    "relevance_score": 146,
-    "editorial_fit_score": 65,
-    "summary_source": "İstanbul’da düzenlenen IPAF Summit ve IAPA 2026, Türkiye’nin personel yükseltici platform sektöründeki büyümesini ve bölgesel iş birliği potansiyelini uluslararası gündeme taşıdı. Platformder Başkanı Saruhan Günaydın’ın Türkiye’yi üretim, dağıtım ve servis alanlarında bölgesel bir merkez olarak değerlendirme çağrısıyla başlayan etkinlikte, IPAF’ın dijital eğitim uygulamalarına ilişkin yeni planları paylaşılırken, sektörün başarılı şirketleri, ürünleri ve profesyonelleri IAPA ödülleriyle […]",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
-  },
-  {
     "id": "f53d4390760cc62a",
     "status": "candidate",
     "title_original": "Castoldi waterjets power fully electric Ravenna Futura",
@@ -424,31 +399,6 @@
     "relevance_score": 146,
     "editorial_fit_score": 79,
     "summary_source": "Ravenna Futura, a fully electric, zero-emission workboat, has been launched in Ravenna, Italy. The 15-metre vessel was built to operate in the Port of Ravenna, using lithium and lead battery packs integrated with photovoltaic solar panels and an electric motor coupled to waterjets. Ravenna Futura uses twin Castoldi TD 284 EVT waterjets paired with electric […] The post Castoldi waterjets power fully electric Ravenna Futura appeared first on Marine Industry News.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
-  },
-  {
-    "id": "226f0f591ad7025e",
-    "status": "candidate",
-    "title_original": "Ertek, Easy Lift’in yeni tasarımlı RA31 örümcek platformunu ilk satın alan firma oldu",
-    "source_name": "LHT",
-    "source_url": "https://www.lht.com.tr/ertek-easy-liftin-yeni-tasarimli-ra31-orumcek-platformunu-ilk-satin-alan-firma-oldu/",
-    "source_feed": "https://www.lht.com.tr/feed/",
-    "published_at": "2026-10-14T07:55:43.000Z",
-    "discovered_at": "2026-10-17T22:47:47.147Z",
-    "sector": "arac-ustu-ekipman",
-    "technologies": [],
-    "relevance_score": 146,
-    "editorial_fit_score": 65,
-    "summary_source": "Easy Lift, 20. kuruluş yıl dönümünde yeni marka kimliğini tanıttı. Markanın yeni renk tasarımını taşıyan RA31 örümcek platformunu satın alan ilk firma, Türkiye merkezli Ertek oldu. Ertek’in İzmir Optimum AVM’ye sattığı platform, alışveriş merkezindeki tabela değiştirme çalışmalarında kullanılmaya başlandı. Kasım 2026’dan itibaren yeni tasarım, üretilecek platformlara kademeli olarak uygulanacak. İtalya merkezli personel yükseltici platform üreticisi […]",
     "editorial": {
       "title_tr": "",
       "dek_tr": "",
@@ -792,6 +742,31 @@
     }
   },
   {
+    "id": "6eb02daed0a273d5",
+    "status": "candidate",
+    "title_original": "IPAF Summit ve IAPA 2026, İstanbul’da küresel platform sektörünü buluşturdu",
+    "source_name": "LHT",
+    "source_url": "https://www.lht.com.tr/ipaf-summit-ve-iapa-2026-istanbulda-kuresel-platform-sektorunu-bulusturdu/",
+    "source_feed": "https://www.lht.com.tr/feed/",
+    "published_at": "2026-10-16T08:27:28.000Z",
+    "discovered_at": "2026-10-17T22:47:47.144Z",
+    "sector": "arac-ustu-ekipman",
+    "technologies": [],
+    "relevance_score": 115,
+    "editorial_fit_score": 65,
+    "summary_source": "İstanbul’da düzenlenen IPAF Summit ve IAPA 2026, Türkiye’nin personel yükseltici platform sektöründeki büyümesini ve bölgesel iş birliği potansiyelini uluslararası gündeme taşıdı. Platformder Başkanı Saruhan Günaydın’ın Türkiye’yi üretim, dağıtım ve servis alanlarında bölgesel bir merkez olarak değerlendirme çağrısıyla başlayan etkinlikte, IPAF’ın dijital eğitim uygulamalarına ilişkin yeni planları paylaşılırken, sektörün başarılı şirketleri, ürünleri ve profesyonelleri IAPA ödülleriyle […]",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "eb8780c5757ab938",
     "status": "candidate",
     "title_original": "Charity auction of Silver Jubilee Ford tractor",
@@ -805,6 +780,56 @@
     "relevance_score": 115,
     "editorial_fit_score": 55,
     "summary_source": "A father whose son received a life-saving heart transplant at Royal Papworth hospital is donating all the proceeds from the sale of his 1991 Ford 7810 Silver Jubilee tractor to the Cambridge-based hospital. The post Charity auction of Silver Jubilee Ford tractor appeared first on Profi.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "226f0f591ad7025e",
+    "status": "candidate",
+    "title_original": "Ertek, Easy Lift’in yeni tasarımlı RA31 örümcek platformunu ilk satın alan firma oldu",
+    "source_name": "LHT",
+    "source_url": "https://www.lht.com.tr/ertek-easy-liftin-yeni-tasarimli-ra31-orumcek-platformunu-ilk-satin-alan-firma-oldu/",
+    "source_feed": "https://www.lht.com.tr/feed/",
+    "published_at": "2026-10-14T07:55:43.000Z",
+    "discovered_at": "2026-10-17T22:47:47.147Z",
+    "sector": "arac-ustu-ekipman",
+    "technologies": [],
+    "relevance_score": 115,
+    "editorial_fit_score": 65,
+    "summary_source": "Easy Lift, 20. kuruluş yıl dönümünde yeni marka kimliğini tanıttı. Markanın yeni renk tasarımını taşıyan RA31 örümcek platformunu satın alan ilk firma, Türkiye merkezli Ertek oldu. Ertek’in İzmir Optimum AVM’ye sattığı platform, alışveriş merkezindeki tabela değiştirme çalışmalarında kullanılmaya başlandı. Kasım 2026’dan itibaren yeni tasarım, üretilecek platformlara kademeli olarak uygulanacak. İtalya merkezli personel yükseltici platform üreticisi […]",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "9ec5aeef0e9d1b68",
+    "status": "candidate",
+    "title_original": "Küresel iş makinesi satışlarının yarısını ekskavatörler oluşturuyor",
+    "source_name": "Makina Market",
+    "source_url": "https://makina-market.com.tr/kuresel-is-makinesi-satislarinin-yarisini-ekskavatorler-olusturuyor/",
+    "source_feed": "https://makina-market.com.tr/feed/",
+    "published_at": "2026-10-16T08:48:13.000Z",
+    "discovered_at": "2026-10-17T22:54:30.125Z",
+    "sector": "is-makinalari",
+    "technologies": [],
+    "relevance_score": 106,
+    "editorial_fit_score": 55,
+    "summary_source": "Off-Highway Research verilerine göre, 2025 yılında dünya genelinde 570 binden fazla mini, lastikli ve paletli ekskavatör satıldı. Yaklaşık… The post Küresel iş makinesi satışlarının yarısını ekskavatörler oluşturuyor first appeared on Makina Market.",
     "editorial": {
       "title_tr": "",
       "dek_tr": "",
