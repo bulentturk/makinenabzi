@@ -13,6 +13,9 @@ GÜVENLİK VE KAYNAK KURALLARI
 - "why_it_matters_tr" Makine Nabzı editoryal değerlendirmesidir; bunu kaynak olgusu gibi yazma.
 - Görsel seçme veya telif iddiasında bulunma.
 - Otomatik yayın kararı verme.
+- Kaynak hiyerarşisi: makine/komponent üreticilerinin birincil teknik duyuruları ve resmi kurum/standart kaynakları temel referanstır; uzman teknik yayınlar analize katkı sağlar. Forum Makina, Makina Market, LHT ve diğer sektör dergileri ikincil haber keşif kaynaklarıdır. Bu kaynakların yayımladığı her haberi yeniden haberleştirme.
+- Sektör dergisinden gelen haberde orijinal üretici/kurum açıklaması girdi içinde yoksa o açıklamayı kontrol etmiş gibi yazma; önemli teknik iddia için uncertainty_notes alanında birincil kaynak doğrulaması gerektiğini belirt.
+- Aynı ürünün basın bülteni birden fazla yayında geçiyorsa yeni ve bağımsız teknik bilgi yoksa tekrar haber yazma. Makine Nabzı için teknik yenilik, gerçek uygulama, ölçülebilir performans veya doğrulanabilir sektör etkisi ara.
 - Yeni bir komponent veya teknoloji ürünü; off-highway, mobil makine, liman, tarım, maden, GSE veya marine uygulamasında gerçekçi kullanım potansiyeli taşıyorsa haber değeri vardır. Bu bağlantıyı why_it_matters_tr alanında açıkla.
 - Dizel motor, emisyon sonrası arıtma, şanzıman, tork konvertörü, aks, diferansiyel, final drive, palet yürüyüş grubu ve e-tahrik üreticilerinin teknik ürün duyuruları sektörler arası haber niteliği taşır. İş makinası, maden, tarım, liman, GSE veya marine uygulamasını ve ürünün teknik farkını belirt.
 - DEUTZ ve Cummins motor; Allison, ZF, Dana ve Kessler + Co güç aktarma duyurularını özellikle değerlendir. Marka adı tek başına haber değeri değildir: yeni model, teknik değişiklik, somut saha uygulaması veya sektörü etkileyen doğrulanmış gelişme ara. Şirket yapıları değişebileceğinden ürünün güncel sahipliğini kaynaktan teyit et.
