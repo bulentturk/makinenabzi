@@ -1,1 +1,48 @@
-[]
+[
+  {
+    "source": "Normet",
+    "url": "https://www.normet.com/en/news",
+    "ok": true,
+    "links": 25,
+    "new_links": 25,
+    "checked_at": "2026-10-17T23:06:56.245Z",
+    "duration_ms": 1378
+  },
+  {
+    "source": "Epiroc",
+    "url": "https://www.epiroc.com/en-us/newsroom",
+    "ok": false,
+    "links": 0,
+    "new_links": 0,
+    "checked_at": "2026-10-17T23:06:55.714Z",
+    "duration_ms": 796,
+    "error": "HTTP 403"
+  },
+  {
+    "source": "Sandvik Mining",
+    "url": "https://www.mining.sandvik/en/news-and-media/",
+    "ok": true,
+    "links": 2,
+    "new_links": 2,
+    "checked_at": "2026-10-17T23:06:55.945Z",
+    "duration_ms": 1026
+  },
+  {
+    "source": "Getman",
+    "url": "https://getman.com/news-announcements/",
+    "ok": true,
+    "links": 2,
+    "new_links": 2,
+    "checked_at": "2026-10-17T23:06:55.616Z",
+    "duration_ms": 696
+  },
+  {
+    "source": "Hencon",
+    "url": "https://www.hencon.com/news/",
+    "ok": true,
+    "links": 0,
+    "new_links": 0,
+    "checked_at": "2026-10-17T23:06:56.430Z",
+    "duration_ms": 1509
+  }
+]
