@@ -14,11 +14,11 @@ const MAX_PER_SOURCE = Number(process.env.NEWS_MAX_PER_SOURCE || 15);
 const cutoff = Date.now() - DAYS * 86400000;
 
 const rules = [
-  ['elektrifikasyon', ['electric','battery','bms','charging','charger','inverter','electrification','hybrid','fuel cell','zero emission','dc-dc','motor controller','axial flux','e-axle','shore power','elektrikli','batarya','sarj','hibrit']],
-  ['otonomi-ai', ['autonomous','automation','ai ','artificial intelligence','machine vision','lidar','radar','driverless','remote operation']],
-  ['elektronik-telematik', ['telematics','telemetry','connected','can bus','j1939','canopen','software','digital','remote monitoring','fleet management','sensor','encoder','controller','ecu','vcu','hmi','joystick','drive-by-wire','steer-by-wire','telematik','uzaktan izleme','kontrol unitesi']],
-  ['yuruyus-guc-aktarma', ['transmission','drivetrain','powertrain','powershift','hydrostatic','axle','differential','final drive','torque converter','gearbox','undercarriage','track chain','track roller','track shoe','idler','sprocket']],
-  ['hidrolik', ['hydraulic','pump','valve','fluid power','hydrostatic','hidrolik','pompa','valf']],
+  ['elektrifikasyon', ['electric','battery','bms','charging','charger','inverter','electrification','hybrid','fuel cell','zero emission','dc-dc','motor controller','axial flux','e-axle','shore power','elektrikli','batarya','sarj','hibrit','elektrik motoru','elektrikli yukleyici','elektrikli ekskavator','elektrikli forklift']],
+  ['otonomi-ai', ['autonomous','automation','ai ','artificial intelligence','machine vision','lidar','radar','driverless','remote operation','otonom','yapay zeka','uzaktan kumanda','surucusuz']],
+  ['elektronik-telematik', ['telematics','telemetry','connected','can bus','j1939','canopen','software','digital','remote monitoring','fleet management','sensor','encoder','controller','ecu','vcu','hmi','joystick','drive-by-wire','steer-by-wire','telematik','uzaktan izleme','kontrol unitesi','kontrol sistemi','filo yonetimi','sensor','sensör']],
+  ['yuruyus-guc-aktarma', ['transmission','drivetrain','powertrain','powershift','hydrostatic','axle','differential','final drive','torque converter','gearbox','undercarriage','track chain','track roller','track shoe','idler','sprocket','sanziman','aks','diferansiyel','redüktor','reduktor','yuruyus takimi','palet','yuruyus sistemi']],
+  ['hidrolik', ['hydraulic','pump','valve','fluid power','hydrostatic','hidrolik','pompa','valf','hidromotor','hidrolik motor']],
   ['emisyon-stage-v', ['stage v','tier 4','dpf','scr','adblue','diesel exhaust','aftertreatment']],
   ['fonksiyonel-guvenlik', ['safety','functional safety','iso 13849','collision avoidance','fail-safe','redundant control','sil 2','sil 3']],
   ['termal-yonetim', ['thermal','cooling','heat management','radiator']]
@@ -27,11 +27,11 @@ const rules = [
 const sectorRules = [
   ['havaalani-gse', ['ground support equipment','ground handling equipment','gse','aircraft tug','aircraft towing','pushback tractor','baggage tractor','baggage tug','belt loader','cargo loader','ground power unit','de-icing truck','passenger stairs','airport fire truck','airside vehicle','apron vehicle']],
   ['marine-yatcilik', ['marine propulsion','marine engine','boat engine','outboard motor','inboard motor','electric boat','electric yacht','electric ferry','hybrid vessel','workboat','thruster','deck machinery','shore power','yacht equipment','ship propulsion']],
-  ['madencilik', ['mining','mine','open pit','quarry','lhd','haul truck','drill rig','maden','madencilik','yer alti','acik ocak']],
-  ['liman', ['port','terminal','container','reach stacker','straddle carrier','harbour crane','liman','konteyner','vinc']],
-  ['tarim', ['agriculture','agricultural','tractor','harvester','farm ','combine','tarim','traktor','bicerdover']],
-  ['arac-ustu-ekipman', ['truck-mounted','aerial platform','concrete pump','mixer truck','refuse truck','municipal']],
-  ['is-makinalari', ['excavator','loader','dozer','grader','construction equipment','compact equipment','road machinery','is makinasi','ekskavator','yukleyici','greyder']]
+  ['madencilik', ['mining','mine','open pit','quarry','lhd','haul truck','drill rig','maden','madencilik','yer alti','acik ocak','maden kamyonu','delgi makinasi']],
+  ['liman', ['port','terminal','container','reach stacker','straddle carrier','harbour crane','liman','konteyner','vinc','ellecleme','istif makinasi','reachstacker']],
+  ['tarim', ['agriculture','agricultural','tractor','harvester','farm ','combine','tarim','traktor','bicerdover','tarim makineleri']],
+  ['arac-ustu-ekipman', ['truck-mounted','aerial platform','concrete pump','mixer truck','refuse truck','municipal','mobil vinc','beton pompasi','personel yukseltici','sepetli platform','kamyon ustu','ustyapi']],
+  ['is-makinalari', ['excavator','loader','dozer','grader','construction equipment','compact equipment','road machinery','is makinasi','is makineleri','insaat makineleri','ekskavator','yukleyici','greyder','buldozer','santiye','kompakt ekipman']]
 ];
 
 function tagsFrom(text) {
@@ -59,7 +59,7 @@ const machineryTerms = [
   'marine propulsion','marine engine','outboard motor','electric boat','workboat','thruster','deck machinery','shore power',
   'is makinasi','ekskavator','yukleyici','greyder','vinc','maden kamyonu','delici makine',
   'traktor','bicerdover','liman ekipmani','hidrolik','pompa','valf','guc aktarimi',
-  'elektrik motoru','telematik','kontrol unitesi','sensor','sanziman'
+  'elektrik motoru','telematik','kontrol unitesi','sensor','sanziman','is makineleri','insaat makineleri','kazici yukleyici','buldozer','asfalt finiseri','forklift','istif makineleri','istif makinasi','personel yukseltici','sepetli platform','telehandler','mobil vinc','beton pompasi','elektrikli yukleyici','paletli yukleyici','is makinesi','santiye'
 ];
 const weakBusinessTerms = [
   'apprentice','graduate','reconciliation action plan','merger','acquisition','supply resilience',
@@ -74,7 +74,7 @@ function editorialFit(item, source) {
   let fit = 0;
   if (machineryTerms.some(w => hasTerm(text, w))) fit += 55;
   fit += tags.length * 12;
-  if (['launch','introduces','introduce','new','fleet','system','platform','retrofit','upgrade'].some(w => hasTerm(title, w))) fit += 10;
+  if (['launch','introduces','introduce','new','fleet','system','platform','retrofit','upgrade','tanitti','tanitildi','yeni','gelistirdi','gelistirildi','devreye aldi','uretime basladi','pazara sundu','lansman'].some(w => hasTerm(title, w))) fit += 10;
   if (weakBusinessTerms.some(w => hasTerm(text, w))) fit -= 30;
   if (source.sector === 'liman' && ['equipment','terminal operations','crane','reach stacker'].some(w => hasTerm(text,w))) fit += 10;
   if (source.sector === 'madencilik' && ['autonomous','battery electric','haul truck','lhd','drill rig','equipment'].some(w => hasTerm(text,w))) fit += 10;
@@ -91,7 +91,7 @@ function score(item, source) {
   s += Math.max(0, Math.min(40, editorialFit(item, source)));
   if (['deutz','cummins','allison','zf','dana','kessler'].some(name => hasTerm(text,name))
       && ['diesel engine','transmission','gearbox','axle','drivetrain','final drive','powertrain','off-highway','mining'].some(term => hasTerm(text,term))) s += 15;
-  if (/(launch|introduc|new |electric|autonom|battery|technology|system|platform|retrofit)/.test(text)) s += 10;
+  if (/(launch|introduc|new |electric|autonom|battery|technology|system|platform|retrofit|tanitt|gelistir|yeni |elektrikli|otonom|hidrolik)/.test(text)) s += 10;
   return s;
 }
 function idFor(url,title) {

@@ -537,16 +537,27 @@
     "origin": "sector-expansion"
   },
   {
-    "name": "Forum Makine",
-    "url": null,
+    "name": "Forum Makina",
+    "url": "https://www.forummakina.com.tr/",
     "kind": "industry_media",
     "focus": [
+      "turkiye",
       "is-makinalari",
-      "turkiye"
+      "istif-makinalari",
+      "elektrifikasyon",
+      "urun-lansmani",
+      "saha-haberleri",
+      "pazar-verisi"
     ],
-    "status": "needs-url-verification",
-    "priority": 85,
-    "origin": "user-list"
+    "status": "watchlist-web-no-verified-rss",
+    "priority": 100,
+    "origin": "user-suggestion",
+    "region": "TR",
+    "watch_urls": [
+      "https://www.forummakina.com.tr/tr/haberler",
+      "https://www.forummakina.com.tr/tr/dergiler"
+    ],
+    "editorial_note": "Inspect headlines as leads; independently check facts with OEM/association; never republish text or photos without permission."
   },
   {
     "name": "Powertrain International Marine",
@@ -1050,5 +1061,139 @@
     "status": "watchlist-web-filtered",
     "priority": 55,
     "origin": "user-list"
+  },
+  {
+    "name": "Makina Market",
+    "url": "https://makina-market.com.tr/",
+    "kind": "industry_media",
+    "focus": [
+      "turkiye",
+      "is-makinalari",
+      "madencilik",
+      "urun-lansmani",
+      "elektrifikasyon",
+      "saha-haberleri",
+      "liman",
+      "vincler"
+    ],
+    "status": "active-rss",
+    "priority": 100,
+    "origin": "turkiye-research",
+    "region": "TR",
+    "feed": "https://makina-market.com.tr/feed/",
+    "last_rss_validation": "2026-10-18"
+  },
+  {
+    "name": "LHT",
+    "url": "https://www.lht.com.tr/",
+    "kind": "industry_media",
+    "focus": [
+      "turkiye",
+      "kaldirma",
+      "vincler",
+      "telehandler",
+      "personel-platformu",
+      "forklift",
+      "istif",
+      "agir-tasima"
+    ],
+    "status": "active-rss",
+    "priority": 96,
+    "origin": "turkiye-research",
+    "region": "TR",
+    "feed": "https://www.lht.com.tr/feed/",
+    "last_rss_validation": "2026-10-18"
+  },
+  {
+    "name": "İMMB",
+    "url": "https://www.ismakinalari.org.tr/",
+    "kind": "industry_association",
+    "focus": [
+      "turkiye",
+      "is-makinalari",
+      "hidrolik",
+      "bakim",
+      "egitim",
+      "teknik-bilgi",
+      "etkinlik"
+    ],
+    "status": "watchlist-web",
+    "priority": 94,
+    "origin": "turkiye-research",
+    "region": "TR",
+    "watch_urls": [
+      "https://ismakinalari.org.tr/tr/haberler"
+    ]
+  },
+  {
+    "name": "İSDER",
+    "url": "https://isder.org.tr/",
+    "kind": "industry_association",
+    "focus": [
+      "turkiye",
+      "istif-makinalari",
+      "forklift",
+      "depo",
+      "pazar-verisi",
+      "otonom-ic-lojistik"
+    ],
+    "status": "watchlist-web",
+    "priority": 93,
+    "origin": "turkiye-research",
+    "region": "TR"
+  },
+  {
+    "name": "PLATFORMDER",
+    "url": "https://www.platformder.org.tr/",
+    "kind": "industry_association",
+    "focus": [
+      "turkiye",
+      "personel-platformu",
+      "yuksekte-calisma",
+      "güvenlik",
+      "kiralama",
+      "mevzuat"
+    ],
+    "status": "active-rss",
+    "priority": 91,
+    "origin": "turkiye-research",
+    "region": "TR",
+    "feed": "https://www.platformder.org.tr/feed/",
+    "last_rss_validation": "2026-10-18"
+  },
+  {
+    "name": "TARMAKBİR",
+    "url": "https://tarmakbir.org/",
+    "kind": "industry_association",
+    "focus": [
+      "turkiye",
+      "tarim-makinalari",
+      "traktor",
+      "teknoloji",
+      "ihracat",
+      "istatistik",
+      "fuar"
+    ],
+    "status": "watchlist-web",
+    "priority": 92,
+    "origin": "turkiye-research",
+    "region": "TR"
+  },
+  {
+    "name": "İŞİM Kümelenmesi",
+    "url": "https://www.isim.org.tr/",
+    "kind": "industry_association",
+    "focus": [
+      "turkiye",
+      "is-makinalari",
+      "komponent",
+      "ureticiler",
+      "yedek-parca",
+      "ihracat"
+    ],
+    "status": "watchlist-web",
+    "priority": 80,
+    "origin": "turkiye-research",
+    "region": "TR"
   }
 ]

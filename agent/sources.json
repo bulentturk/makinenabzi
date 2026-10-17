@@ -160,5 +160,23 @@
     "url": "https://imder.org.tr/feed/",
     "sector": "is-makinalari",
     "priority": 84
+  },
+  {
+    "name": "Makina Market",
+    "url": "https://makina-market.com.tr/feed/",
+    "sector": "is-makinalari",
+    "priority": 100
+  },
+  {
+    "name": "LHT",
+    "url": "https://www.lht.com.tr/feed/",
+    "sector": "arac-ustu-ekipman",
+    "priority": 96
+  },
+  {
+    "name": "PLATFORMDER",
+    "url": "https://www.platformder.org.tr/feed/",
+    "sector": "arac-ustu-ekipman",
+    "priority": 91
   }
 ]
