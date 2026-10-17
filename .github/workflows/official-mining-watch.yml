@@ -1,0 +1,34 @@
+name: Official Underground Mining Watch
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 6 * * *'
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/official-mining-watch.yml'
+      - 'agent/official-mining-sources.json'
+      - 'scripts/official-mining-watch.mjs'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: official-mining-watch
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Check official mining newsrooms
+        run: node scripts/retry-main-write.mjs official
+      - name: Write watch health summary
+        if: always()
+        run: |
+          node -e "const fs=require('fs');const x=JSON.parse(fs.readFileSync('agent/drafts/official-mining-health.json'));console.log(x.map(y=>[y.source,y.ok?'OK':y.error,'links='+y.links,'new='+y.new_links].join(' | ')).join('\n'))"
