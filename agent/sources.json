@@ -185,13 +185,5 @@
     "sector": "madencilik",
     "priority": 96,
     "focus": "underground"
-  },
-  {
-    "name": "Hencon",
-    "url": "https://www.hencon.com/news/feed/",
-    "sector": "madencilik",
-    "priority": 94,
-    "focus": "underground",
-    "require_equipment_context": "underground"
   }
 ]
