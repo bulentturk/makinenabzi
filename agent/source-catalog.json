@@ -550,14 +550,15 @@
       "pazar-verisi"
     ],
     "status": "watchlist-web-no-verified-rss",
-    "priority": 100,
+    "priority": 64,
     "origin": "user-suggestion",
     "region": "TR",
     "watch_urls": [
       "https://www.forummakina.com.tr/tr/haberler",
       "https://www.forummakina.com.tr/tr/dergiler"
     ],
-    "editorial_note": "Inspect headlines as leads; independently check facts with OEM/association; never republish text or photos without permission."
+    "editorial_note": "Keep as a sector-news discovery lead. Prioritize original OEM/manufacturer/association release for technical claims; avoid routine press-release rewrites and duplicates.",
+    "editorial_role": "secondary-industry-press"
   },
   {
     "name": "Powertrain International Marine",
@@ -659,8 +660,10 @@
     ],
     "status": "active-rss",
     "feed": "https://www.teknikport.com/feed/",
-    "priority": 82,
-    "origin": "user-list"
+    "priority": 67,
+    "origin": "user-list",
+    "editorial_role": "secondary-industry-press",
+    "editorial_note": "Keep as a sector-news discovery lead. Prioritize original OEM/manufacturer/association release for technical claims; avoid routine press-release rewrites and duplicates."
   },
   {
     "name": "Dana Press Releases",
@@ -992,8 +995,10 @@
     ],
     "status": "active-rss",
     "feed": "https://sanayigazetesi.com.tr/feed/",
-    "priority": 72,
-    "origin": "agent-research-2026-10"
+    "priority": 60,
+    "origin": "agent-research-2026-10",
+    "editorial_role": "secondary-industry-press",
+    "editorial_note": "Keep as a sector-news discovery lead. Prioritize original OEM/manufacturer/association release for technical claims; avoid routine press-release rewrites and duplicates."
   },
   {
     "name": "Green Car Congress",
@@ -1077,11 +1082,13 @@
       "vincler"
     ],
     "status": "active-rss",
-    "priority": 100,
+    "priority": 66,
     "origin": "turkiye-research",
     "region": "TR",
     "feed": "https://makina-market.com.tr/feed/",
-    "last_rss_validation": "2026-10-18"
+    "last_rss_validation": "2026-10-18",
+    "editorial_role": "secondary-industry-press",
+    "editorial_note": "Keep as a sector-news discovery lead. Prioritize original OEM/manufacturer/association release for technical claims; avoid routine press-release rewrites and duplicates."
   },
   {
     "name": "LHT",
@@ -1098,11 +1105,13 @@
       "agir-tasima"
     ],
     "status": "active-rss",
-    "priority": 96,
+    "priority": 65,
     "origin": "turkiye-research",
     "region": "TR",
     "feed": "https://www.lht.com.tr/feed/",
-    "last_rss_validation": "2026-10-18"
+    "last_rss_validation": "2026-10-18",
+    "editorial_role": "secondary-industry-press",
+    "editorial_note": "Keep as a sector-news discovery lead. Prioritize original OEM/manufacturer/association release for technical claims; avoid routine press-release rewrites and duplicates."
   },
   {
     "name": "İMMB",
