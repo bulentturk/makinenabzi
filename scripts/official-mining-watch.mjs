@@ -51,17 +51,28 @@ function findLinks(html,source) {
 async function scan(source) {
   const time=Date.now();
   try {
-    const response=await fetch(source.url,{
-      signal:AbortSignal.timeout(15000),
-      headers:{'user-agent':'MakineNabziOEMWatch/1.0 (+https://makinenabzi.com)','accept':'text/html'}
-    });
-    if(!response.ok)throw new Error('HTTP '+response.status);
-    const html=await response.text();
-    if(!/html/i.test(response.headers.get('content-type') || '') && !/<html/i.test(html))
-      throw new Error('HTML expected');
-    const items=findLinks(html,source);
+    let html='';
+    let fetchedUrl='';
+    let lastError='';
+    for (const candidateUrl of [source.url,...(source.fallback_urls || [])]) {
+      try {
+        const response=await fetch(candidateUrl,{
+          signal:AbortSignal.timeout(15000),
+          headers:{'user-agent':'MakineNabziOEMWatch/1.0 (+https://makinenabzi.com)','accept':'text/html'}
+        });
+        if(!response.ok)throw new Error('HTTP '+response.status);
+        const body=await response.text();
+        if(!/html/i.test(response.headers.get('content-type') || '') && !/<html/i.test(body))
+          throw new Error('HTML expected');
+        html=body;
+        fetchedUrl=candidateUrl;
+        break;
+      } catch(e) { lastError=String(e?.message || e); }
+    }
+    if (!fetchedUrl)throw new Error(lastError || 'All source URLs unavailable');
+    const items=findLinks(html,{...source,url:fetchedUrl});
     const unseen=items.filter(x=>!already.has(x.id));
-    return {source:source.name,url:source.url,ok:true,links:items.length,new_links:unseen.length,
+    return {source:source.name,url:fetchedUrl,ok:true,links:items.length,new_links:unseen.length,
       checked_at:new Date().toISOString(),duration_ms:Date.now()-time,items};
   } catch(error) {
     return {source:source.name,url:source.url,ok:false,links:0,new_links:0,
