@@ -1,5 +1,6 @@
 import fs from 'node:fs/promises';
 import crypto from 'node:crypto';
+import { hasUndergroundContext } from './news-context.mjs';
 
 const SOURCES = new URL('../agent/official-mining-sources.json', import.meta.url);
 const LEADS = new URL('../agent/drafts/official-mining-leads.json', import.meta.url);
@@ -41,7 +42,7 @@ function findLinks(html,source) {
     if (title.length < 26 || title.length > 260 || !topic.test(title)) continue;
     const id=crypto.createHash('sha1').update(uri.href).digest('hex').slice(0,16);
     found.set(id,{id,source_name:source.name,source_url:uri.href,title_original:title,
-      sector:'madencilik',subsector:'yeraltı-madenciliği',
+      sector:'madencilik',subsector:hasUndergroundContext(title) ? 'yeraltı-madenciliği' : null,
       status:'lead',source_type:'official_manufacturer',verified_publication_date:false,
       first_seen_at:already.get(id)?.first_seen_at || new Date().toISOString()});
   }
