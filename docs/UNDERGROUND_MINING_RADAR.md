@@ -25,7 +25,7 @@ Türkiye'de Yeraltı Haber gibi sektör yayınları yalnızca haber keşfi için
 - `agent/official-mining-sources.json`: üreticilerin resmi haber sayfaları.
 - `scripts/official-mining-watch.mjs`: bu sayfalardaki yeni olabilecek teknik haber bağlantılarını düzenli keşfeder, `official-mining-leads.json` ve `official-mining-health.json` dosyalarına yazar.
 - `.github/workflows/official-mining-watch.yml`: günlük kontrol (GitHub Actions planlaması UTC 06:00; Türkiye saati 09:00).
-- Getman ve Hencon'un aday RSS akışları `agent/sources.json` üzerinden ayrıca denenir. Başarısız URL varsa kaldırılır, resmi web listesi izlemeye devam eder.
+- Getman RSS akışı test edildi ve aktif kaynaklara alındı. Hencon RSS denemesi biçim hatası verdiği için çıkarıldı; resmi haber sayfası izleme listesinde kaldı. Epiroc'un bazı ülke sürümleri otomasyon sunucularını 403 ile engelleyebilir, alternatif resmi URL'ler denenir.
 - Yalnız haber bağlantısının keşfedilmesi **doğrulanmış yayın tarihi veya haber metni değildir**. Bu kayıtlar doğrudan yayın PR'ına dönüşmez; içerik doğrulaması ve editoryal onay gereklidir.
 - Resmi sitedeki HTML yapısı değişirse sağlık raporunda bağlantı sayıları incelenir.
 
