@@ -1204,5 +1204,137 @@
     "priority": 80,
     "origin": "turkiye-research",
     "region": "TR"
+  },
+  {
+    "name": "Normet",
+    "url": "https://www.normet.com/",
+    "kind": "official_manufacturer",
+    "source_type": "manufacturer",
+    "news_url": "https://www.normet.com/en/news",
+    "focus": [
+      "underground-mining",
+      "shotcrete",
+      "sprayed-concrete",
+      "explosives-charging",
+      "scaling",
+      "electrification",
+      "autonomy",
+      "tunnelling",
+      "support-equipment"
+    ],
+    "priority": 100,
+    "status": "watchlist-web-primary",
+    "region": "GLOBAL",
+    "origin": "user-underground-mining-radar",
+    "app_follow_key": "manufacturer:normet"
+  },
+  {
+    "name": "Epiroc",
+    "url": "https://www.epiroc.com/",
+    "kind": "official_manufacturer",
+    "source_type": "manufacturer",
+    "news_url": "https://www.epiroc.com/en-us/newsroom",
+    "focus": [
+      "underground-mining",
+      "lhd",
+      "underground-truck",
+      "drilling",
+      "rock-bolting",
+      "deep-automation",
+      "battery-electric",
+      "charging"
+    ],
+    "priority": 100,
+    "status": "watchlist-web-primary",
+    "region": "GLOBAL",
+    "origin": "user-underground-mining-radar",
+    "app_follow_key": "manufacturer:epiroc"
+  },
+  {
+    "name": "Sandvik Mining",
+    "url": "https://www.mining.sandvik/en/",
+    "kind": "official_manufacturer",
+    "source_type": "manufacturer",
+    "news_url": "https://www.mining.sandvik/en/news-and-media/news-archive/",
+    "focus": [
+      "underground-mining",
+      "lhd",
+      "underground-truck",
+      "drilling",
+      "rock-bolting",
+      "automine",
+      "battery-electric",
+      "fleet-management"
+    ],
+    "priority": 100,
+    "status": "watchlist-web-primary",
+    "region": "GLOBAL",
+    "origin": "user-underground-mining-radar",
+    "app_follow_key": "manufacturer:sandvik-mining"
+  },
+  {
+    "name": "Getman",
+    "url": "https://getman.com/",
+    "kind": "official_manufacturer",
+    "source_type": "manufacturer",
+    "news_url": "https://getman.com/news-announcements/",
+    "focus": [
+      "underground-mining",
+      "scaler",
+      "utility-vehicle",
+      "production-support",
+      "material-transport",
+      "ground-support",
+      "underground-maintenance"
+    ],
+    "priority": 96,
+    "status": "active-rss",
+    "feed": "https://getman.com/category/news-announcements/feed/",
+    "region": "GLOBAL",
+    "origin": "user-underground-mining-radar",
+    "app_follow_key": "manufacturer:getman",
+    "last_rss_validation": "2026-10-18"
+  },
+  {
+    "name": "Hencon",
+    "url": "https://www.hencon.com/",
+    "kind": "official_manufacturer",
+    "source_type": "manufacturer",
+    "news_url": "https://www.hencon.com/news/",
+    "focus": [
+      "underground-mining",
+      "special-purpose-vehicles",
+      "hydrostatic-drive",
+      "electrification",
+      "vacuum-equipment",
+      "mining-support",
+      "industrial-mobile-equipment"
+    ],
+    "priority": 94,
+    "status": "watchlist-web-primary",
+    "region": "GLOBAL",
+    "origin": "user-underground-mining-radar",
+    "app_follow_key": "manufacturer:hencon"
+  },
+  {
+    "name": "Yeraltı Haber",
+    "url": "https://www.yeraltihaber.com/",
+    "kind": "industry_media",
+    "source_type": "sector_media",
+    "focus": [
+      "underground-mining",
+      "turkiye",
+      "tunnelling",
+      "geotechnics",
+      "mining-technology",
+      "mine-equipment",
+      "safety"
+    ],
+    "priority": 66,
+    "status": "watchlist-web",
+    "region": "TR",
+    "origin": "user-underground-mining-radar",
+    "app_follow_key": "publication:yeraltihaber",
+    "editorial_note": "Sector publication used to discover leads; corroborate technical claims with the equipment manufacturer or mine operator. RSS not verified."
   }
 ]

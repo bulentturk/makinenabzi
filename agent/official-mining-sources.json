@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Normet",
+    "url": "https://www.normet.com/en/news",
+    "article_path": "^/en/news/[^/?#]+",
+    "kind": "official_manufacturer",
+    "sector": "madencilik",
+    "priority": 100
+  },
+  {
+    "name": "Epiroc",
+    "url": "https://www.epiroc.com/en-us/newsroom",
+    "article_path": "^/en-[a-z]{2}/newsroom/20[0-9]{2}/",
+    "kind": "official_manufacturer",
+    "sector": "madencilik",
+    "priority": 100,
+    "fallback_urls": [
+      "https://www.epiroc.com/en-bf/newsroom",
+      "https://www.epiroc.com/en-ph/newsroom"
+    ]
+  },
+  {
+    "name": "Sandvik Mining",
+    "url": "https://www.mining.sandvik/en/news-and-media/",
+    "article_path": "^/en/news-and-media/news-archive/20[0-9]{2}/",
+    "kind": "official_manufacturer",
+    "sector": "madencilik",
+    "priority": 100
+  },
+  {
+    "name": "Getman",
+    "url": "https://getman.com/news-announcements/",
+    "article_path": "^/(?!news-announcements/?$|category/|wp-content/)[a-z0-9-]+/?$",
+    "kind": "official_manufacturer",
+    "sector": "madencilik",
+    "priority": 96
+  },
+  {
+    "name": "Hencon",
+    "url": "https://www.hencon.com/news/",
+    "article_path": "^/news/[^/?#]+/?$",
+    "kind": "official_manufacturer",
+    "sector": "madencilik",
+    "priority": 94
+  }
+]

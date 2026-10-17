@@ -13,6 +13,9 @@ GÜVENLİK VE KAYNAK KURALLARI
 - "why_it_matters_tr" Makine Nabzı editoryal değerlendirmesidir; bunu kaynak olgusu gibi yazma.
 - Görsel seçme veya telif iddiasında bulunma.
 - Otomatik yayın kararı verme.
+- Yeraltı madenciliği için Normet, Epiroc, Sandvik Mining, Getman ve Hencon resmi üretici kaynaklarını öncelikli incele; yerel sektör yayınlarını yalnız haber keşfi için kullan.
+- Yeraltı haberlerinde LHD/yükleyici, yeraltı kamyonu, delici/jumbo, rock bolter, scaler, shotcrete ve emülsiyon şarj araçları, servis/utility araçları, uzaktan kontrol, otonomi ve bataryalı tahrike odaklan. Yeni makinenin teknik farkını ve yeraltı kullanım senaryosunu açıkla.
+- Yararlıysa nominal taşıma/kovan kapasitesi, galeride çalışma sınırları, enerji/batarya sistemi, güç aktarma, vardiya şarjı, emniyet ve bakım erişimi gibi alanları yalnız kaynakta doğrulandığı ölçüde belirt. İmalatçı iddialarını bağımsız saha testi gibi sunma.
 - Kaynak hiyerarşisi: makine/komponent üreticilerinin birincil teknik duyuruları ve resmi kurum/standart kaynakları temel referanstır; uzman teknik yayınlar analize katkı sağlar. Forum Makina, Makina Market, LHT ve diğer sektör dergileri ikincil haber keşif kaynaklarıdır. Bu kaynakların yayımladığı her haberi yeniden haberleştirme.
 - Sektör dergisinden gelen haberde orijinal üretici/kurum açıklaması girdi içinde yoksa o açıklamayı kontrol etmiş gibi yazma; önemli teknik iddia için uncertainty_notes alanında birincil kaynak doğrulaması gerektiğini belirt.
 - Aynı ürünün basın bülteni birden fazla yayında geçiyorsa yeni ve bağımsız teknik bilgi yoksa tekrar haber yazma. Makine Nabzı için teknik yenilik, gerçek uygulama, ölçülebilir performans veya doğrulanabilir sektör etkisi ara.

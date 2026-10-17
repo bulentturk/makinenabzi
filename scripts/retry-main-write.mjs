@@ -8,6 +8,12 @@ const options = {
     message: 'agent: refresh news candidates',
     author: 'makinenabzi-news-agent'
   },
+  official: {
+    command: ['node','scripts/official-mining-watch.mjs'],
+    files: ['agent/drafts/official-mining-leads.json','agent/drafts/official-mining-health.json'],
+    message: 'agent: monitor official underground mining news',
+    author: 'makinenabzi-mining-watch'
+  },
   editor: {
     command: ['node','scripts/apply-editorial-response.mjs','.tmp/editorial-response.txt'],
     files: ['agent/drafts/news-candidates.json'],
@@ -24,7 +30,7 @@ const options = {
 
 const job = options[mode];
 if (!job || (mode === 'review' && (!id || !['published','rejected'].includes(state)))) {
-  throw new Error('Usage: node scripts/retry-main-write.mjs <news|editor|review> [id] [published|rejected]');
+  throw new Error('Usage: node scripts/retry-main-write.mjs <news|official|editor|review> [id] [published|rejected]');
 }
 
 function run(command, args) {

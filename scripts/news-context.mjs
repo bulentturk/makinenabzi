@@ -42,6 +42,22 @@ const powertrainEquipmentTerms = [
   'terratran','final drive','planetary drive','haul truck','dump truck','fire truck','refuse truck'
 ];
 
+const undergroundEquipmentTerms = [
+  'underground mine','underground mining','underground mining equipment','underground truck',
+  'underground loader','mine service vehicle','mine support vehicle','lhd','load haul dump',
+  'rock bolter','bolter','rock scaler','scaler','shotcrete','sprayed concrete',
+  'emulsion charging','explosives charging','longhole drill','jumbo','drill jumbo',
+  'face drilling','raise boring','mine ventilation','battery electric underground',
+  'underground electrification','mine rescue vehicle','mining utility vehicle',
+  'yeraltı madenciliği','yer alti madenciligi','yeraltı yükleyici','yer alti yukleyici',
+  'yeraltı kamyonu','maden servis aracı','püskürtme beton','iksa','tahkimat'
+];
+
+export function hasUndergroundContext(text) {
+  const haystack = normalized(text);
+  return undergroundEquipmentTerms.some(term => hasTerm(haystack,term));
+}
+
 const limanEquipmentTerms = [
   'port crane','mobile harbour crane','mobile harbor crane','harbour crane','harbor crane',
   'reach stacker','straddle carrier','terminal tractor','container terminal','container handling',
@@ -54,6 +70,6 @@ export function hasSectorEquipmentContext(text, sector) {
     ? normalized(text).replace(/allison transmission/g, 'allison')
     : normalized(text);
   const terms = sector === 'gse' ? gseTerms : sector === 'marine' ? marineEquipmentTerms
-    : sector === 'powertrain' ? powertrainEquipmentTerms : sector === 'liman' ? limanEquipmentTerms : [];
+    : sector === 'powertrain' ? powertrainEquipmentTerms : sector === 'liman' ? limanEquipmentTerms : sector === 'underground' ? undergroundEquipmentTerms : [];
   return terms.some(term => hasTerm(haystack,term));
 }

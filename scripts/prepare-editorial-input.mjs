@@ -53,6 +53,7 @@ async function enrich(candidate) {
     source_url: candidate.source_url,
     published_at: candidate.published_at,
     current_sector: candidate.sector,
+    current_subsector: candidate.subsector || null,
     current_technologies: candidate.technologies,
     relevance_score: candidate.relevance_score,
     editorial_fit_score: candidate.editorial_fit_score,

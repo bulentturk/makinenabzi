@@ -178,5 +178,12 @@
     "url": "https://www.platformder.org.tr/feed/",
     "sector": "arac-ustu-ekipman",
     "priority": 91
+  },
+  {
+    "name": "Getman",
+    "url": "https://getman.com/category/news-announcements/feed/",
+    "sector": "madencilik",
+    "priority": 96,
+    "focus": "underground"
   }
 ]
