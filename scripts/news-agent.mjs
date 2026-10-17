@@ -31,7 +31,7 @@ const sectorRules = [
   ['liman', ['port','terminal','container','reach stacker','straddle carrier','harbour crane','liman','konteyner','vinc','ellecleme','istif makinasi','reachstacker']],
   ['tarim', ['agriculture','agricultural','tractor','harvester','farm ','combine','tarim','traktor','bicerdover','tarim makineleri']],
   ['arac-ustu-ekipman', ['truck-mounted','aerial platform','concrete pump','mixer truck','refuse truck','municipal','mobil vinc','beton pompasi','personel yukseltici','sepetli platform','kamyon ustu','ustyapi']],
-  ['is-makinalari', ['excavator','loader','dozer','grader','construction equipment','compact equipment','road machinery','is makinasi','ekskavator','yukleyici','greyder']]
+  ['is-makinalari', ['excavator','loader','dozer','grader','construction equipment','compact equipment','road machinery','is makinasi','is makineleri','insaat makineleri','ekskavator','yukleyici','greyder','buldozer','santiye','kompakt ekipman']]
 ];
 
 function tagsFrom(text) {
