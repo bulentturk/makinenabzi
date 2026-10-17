@@ -1288,11 +1288,12 @@
       "underground-maintenance"
     ],
     "priority": 96,
-    "status": "rss-validation-pending",
+    "status": "active-rss",
     "feed": "https://getman.com/category/news-announcements/feed/",
     "region": "GLOBAL",
     "origin": "user-underground-mining-radar",
-    "app_follow_key": "manufacturer:getman"
+    "app_follow_key": "manufacturer:getman",
+    "last_rss_validation": "2026-10-18"
   },
   {
     "name": "Hencon",
@@ -1310,8 +1311,7 @@
       "industrial-mobile-equipment"
     ],
     "priority": 94,
-    "status": "rss-validation-pending",
-    "feed": "https://www.hencon.com/news/feed/",
+    "status": "watchlist-web-primary",
     "region": "GLOBAL",
     "origin": "user-underground-mining-radar",
     "app_follow_key": "manufacturer:hencon"
