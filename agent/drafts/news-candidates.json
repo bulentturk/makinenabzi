@@ -58,7 +58,8 @@
       ],
       "generated_at": "2026-10-05T11:57:59.582Z",
       "generated_by": "github-models"
-    }
+    },
+    "subsector": null
   },
   {
     "id": "d487a19e0fc5c908",
@@ -87,7 +88,8 @@
       "meta_description": "",
       "hero_image": "",
       "reviewed": false
-    }
+    },
+    "subsector": null
   },
   {
     "id": "429ed57463198919",
@@ -115,7 +117,8 @@
       "meta_description": "",
       "hero_image": "",
       "reviewed": false
-    }
+    },
+    "subsector": null
   },
   {
     "id": "c830b35b3d7a89c7",
@@ -143,7 +146,8 @@
       "meta_description": "",
       "hero_image": "",
       "reviewed": false
-    }
+    },
+    "subsector": null
   },
   {
     "id": "01defad418e09ff5",
@@ -160,7 +164,7 @@
       "fonksiyonel-guvenlik"
     ],
     "relevance_score": 166,
-    "editorial_fit_score": 79,
+    "editorial_fit_score": 91,
     "summary_source": "Epiroc’s 10 t Scooptram underground loader has received a major upgrade, featuring a new design, enhanced serviceability, compliance with new CE standards and Stage V engine alternative, helping the Scooptram ST10 P deliver increased safety, productivity and reliability for underground operations. The Scooptram ST10 P is part of Epiroc’s new Power series, offering reliable performance, The post Epiroc revamps Scooptram 10 tonne underground loader to boost safety, productivity and reliability appeared first on International Mining.",
     "editorial": {
       "title_tr": "",
@@ -171,7 +175,8 @@
       "meta_description": "",
       "hero_image": "",
       "reviewed": false
-    }
+    },
+    "subsector": "yeraltı-madenciliği"
   },
   {
     "id": "11b4654893e0559d",
@@ -227,7 +232,8 @@
       ],
       "generated_at": "2026-10-02T19:52:19.544Z",
       "generated_by": "github-models"
-    }
+    },
+    "subsector": null
   },
   {
     "id": "0152a9ce3fabe6a8",
@@ -254,7 +260,8 @@
       "meta_description": "",
       "hero_image": "",
       "reviewed": false
-    }
+    },
+    "subsector": null
   },
   {
     "id": "0918791c0b3a7e1d",
@@ -272,6 +279,35 @@
     "relevance_score": 153,
     "editorial_fit_score": 77,
     "summary_source": "The compact, three-axle model for the U.S. has a 164-foot main boom, with extensions up to 52.5 feet available.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    },
+    "subsector": null
+  },
+  {
+    "id": "c3ffa8435fefc0c6",
+    "status": "candidate",
+    "title_original": "Normet, Codelco partner on El Teniente-focused automation program",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/10/16/normet-codelco-partner-on-el-teniente-focused-automation-program/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-10-16T08:36:19.000Z",
+    "discovered_at": "2026-10-17T23:07:07.663Z",
+    "sector": "madencilik",
+    "subsector": "yeraltı-madenciliği",
+    "technologies": [
+      "otonomi-ai"
+    ],
+    "relevance_score": 152,
+    "editorial_fit_score": 34,
+    "summary_source": "Normet and Codelco have entered into a five-year technology development program to advance autonomous and remotely operated underground mining technologies. The collaboration will focus on developing safer, more productive mining processes through technology pilots at Codelco’s El Teniente mine in Chile. The program will concentrate on three key development areas: autonomous concrete transport and spraying The post Normet, Codelco partner on El Teniente-focused automation program appeared first on International Mining.",
     "editorial": {
       "title_tr": "",
       "dek_tr": "",
@@ -306,7 +342,8 @@
       "meta_description": "",
       "hero_image": "",
       "reviewed": false
-    }
+    },
+    "subsector": null
   },
   {
     "id": "9083051e58f5b196",
@@ -331,7 +368,8 @@
       "meta_description": "",
       "hero_image": "",
       "reviewed": false
-    }
+    },
+    "subsector": null
   },
   {
     "id": "f6b8f4b3708cdd5f",
@@ -356,7 +394,8 @@
       "meta_description": "",
       "hero_image": "",
       "reviewed": false
-    }
+    },
+    "subsector": null
   },
   {
     "id": "c46a2dffd5e69222",
@@ -381,7 +420,8 @@
       "meta_description": "",
       "hero_image": "",
       "reviewed": false
-    }
+    },
+    "subsector": null
   },
   {
     "id": "f53d4390760cc62a",
@@ -408,7 +448,8 @@
       "meta_description": "",
       "hero_image": "",
       "reviewed": false
-    }
+    },
+    "subsector": null
   },
   {
     "id": "48efd3d54f9610d2",
@@ -433,7 +474,8 @@
       "meta_description": "",
       "hero_image": "",
       "reviewed": false
-    }
+    },
+    "subsector": null
   },
   {
     "id": "50dd9a5952fc8d5b",
@@ -458,7 +500,8 @@
       "meta_description": "",
       "hero_image": "",
       "reviewed": false
-    }
+    },
+    "subsector": null
   },
   {
     "id": "a2e289bd4e54672e",
@@ -483,7 +526,8 @@
       "meta_description": "",
       "hero_image": "",
       "reviewed": false
-    }
+    },
+    "subsector": null
   },
   {
     "id": "9b56abaf537b5d50",
@@ -510,7 +554,8 @@
       "meta_description": "",
       "hero_image": "",
       "reviewed": false
-    }
+    },
+    "subsector": null
   },
   {
     "id": "253497b7c5302031",
@@ -535,7 +580,8 @@
       "meta_description": "",
       "hero_image": "",
       "reviewed": false
-    }
+    },
+    "subsector": null
   },
   {
     "id": "1b486af9df842d29",
@@ -560,7 +606,8 @@
       "meta_description": "",
       "hero_image": "",
       "reviewed": false
-    }
+    },
+    "subsector": null
   },
   {
     "id": "fc6ee4931d3d4ccd",
@@ -585,7 +632,8 @@
       "meta_description": "",
       "hero_image": "",
       "reviewed": false
-    }
+    },
+    "subsector": null
   },
   {
     "id": "58d1491d23c6bcdd",
@@ -610,7 +658,8 @@
       "meta_description": "",
       "hero_image": "",
       "reviewed": false
-    }
+    },
+    "subsector": null
   },
   {
     "id": "f776142673e94464",
@@ -637,7 +686,8 @@
       "meta_description": "",
       "hero_image": "",
       "reviewed": false
-    }
+    },
+    "subsector": null
   },
   {
     "id": "4e2c5c42bead9f6b",
@@ -664,7 +714,8 @@
       "meta_description": "",
       "hero_image": "",
       "reviewed": false
-    }
+    },
+    "subsector": null
   },
   {
     "id": "dea76e0d0d44b608",
@@ -689,7 +740,8 @@
       "meta_description": "",
       "hero_image": "",
       "reviewed": false
-    }
+    },
+    "subsector": null
   },
   {
     "id": "699c72b40822b7f1",
@@ -714,7 +766,8 @@
       "meta_description": "",
       "hero_image": "",
       "reviewed": false
-    }
+    },
+    "subsector": null
   },
   {
     "id": "d3b74e45e9b7896f",
@@ -739,7 +792,8 @@
       "meta_description": "",
       "hero_image": "",
       "reviewed": false
-    }
+    },
+    "subsector": null
   },
   {
     "id": "6eb02daed0a273d5",
@@ -764,7 +818,8 @@
       "meta_description": "",
       "hero_image": "",
       "reviewed": false
-    }
+    },
+    "subsector": null
   },
   {
     "id": "eb8780c5757ab938",
@@ -789,7 +844,8 @@
       "meta_description": "",
       "hero_image": "",
       "reviewed": false
-    }
+    },
+    "subsector": null
   },
   {
     "id": "226f0f591ad7025e",
@@ -814,7 +870,8 @@
       "meta_description": "",
       "hero_image": "",
       "reviewed": false
-    }
+    },
+    "subsector": null
   },
   {
     "id": "9ec5aeef0e9d1b68",
@@ -839,6 +896,7 @@
       "meta_description": "",
       "hero_image": "",
       "reviewed": false
-    }
+    },
+    "subsector": null
   }
 ]
