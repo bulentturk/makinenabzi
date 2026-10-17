@@ -1,6 +1,6 @@
 export interface FormatSection {
   heading: string;
-  paragraphs: string[];
+  paragraphs?: string[];
   bullets?: string[];
 }
 
