@@ -257,33 +257,6 @@
     }
   },
   {
-    "id": "debf93b0eef26fac",
-    "status": "candidate",
-    "title_original": "Haultrax HX Coach brings operational coaching insights into its FMS",
-    "source_name": "International Mining",
-    "source_url": "https://im-mining.com/2026/10/13/haultrax-hx-coach-brings-operational-coaching-insights-into-its-fms/",
-    "source_feed": "https://im-mining.com/feed/",
-    "published_at": "2026-10-13T10:21:41.000Z",
-    "discovered_at": "2026-10-13T12:21:43.341Z",
-    "sector": "madencilik",
-    "technologies": [
-      "elektronik-telematik"
-    ],
-    "relevance_score": 158,
-    "editorial_fit_score": 67,
-    "summary_source": "For more than 15 years, Haultrax says it has worked alongside mining operations to improve the way their fleets perform, combining technology with on-site operational expertise, coaching and training. Now, the company is bringing that expertise directly into its Fleet Management System. At IMARC 2026, Haultrax will introduce HX Coach, described as a major new The post Haultrax HX Coach brings operational coaching insights into its FMS appeared first on International Mining.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
-  },
-  {
     "id": "0918791c0b3a7e1d",
     "status": "candidate",
     "title_original": "Tadano Unveils New AC 3.060-2 All-Terrain Mobile Crane for Tight Spaces",
@@ -476,31 +449,6 @@
     "relevance_score": 145,
     "editorial_fit_score": 55,
     "summary_source": "The five new models are completely redesigned for year-round work — mowing, digging, clearing snow and loading.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
-  },
-  {
-    "id": "09f45c924cc23f94",
-    "status": "candidate",
-    "title_original": "Roadrunner’s New Grader Attachments Could Replace Motor Grader",
-    "source_name": "Equipment World",
-    "source_url": "https://www.equipmentworld.com/construction-equipment/compact-equipment/article/15837309/roadrunner-equipment-launches-new-skid-steer-dualblade-graders",
-    "source_feed": "https://www.equipmentworld.com/feed/",
-    "published_at": "2026-10-13T16:53:31.000Z",
-    "discovered_at": "2026-10-13T20:35:34.220Z",
-    "sector": "tarim",
-    "technologies": [],
-    "relevance_score": 145,
-    "editorial_fit_score": 65,
-    "summary_source": "The skid steer, CTL, tractor attachment fills a gap between box graders and motor graders by adjusting blade sides independently...",
     "editorial": {
       "title_tr": "",
       "dek_tr": "",
