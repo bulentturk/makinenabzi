@@ -1076,11 +1076,12 @@
       "liman",
       "vincler"
     ],
-    "status": "rss-validation-pending",
+    "status": "active-rss",
     "priority": 100,
     "origin": "turkiye-research",
     "region": "TR",
-    "feed": "https://makina-market.com.tr/feed/"
+    "feed": "https://makina-market.com.tr/feed/",
+    "last_rss_validation": "2026-10-18"
   },
   {
     "name": "LHT",
@@ -1096,11 +1097,12 @@
       "istif",
       "agir-tasima"
     ],
-    "status": "rss-validation-pending",
+    "status": "active-rss",
     "priority": 96,
     "origin": "turkiye-research",
     "region": "TR",
-    "feed": "https://www.lht.com.tr/feed/"
+    "feed": "https://www.lht.com.tr/feed/",
+    "last_rss_validation": "2026-10-18"
   },
   {
     "name": "İMMB",
@@ -1152,11 +1154,12 @@
       "kiralama",
       "mevzuat"
     ],
-    "status": "rss-validation-pending",
+    "status": "active-rss",
     "priority": 91,
     "origin": "turkiye-research",
     "region": "TR",
-    "feed": "https://www.platformder.org.tr/feed/"
+    "feed": "https://www.platformder.org.tr/feed/",
+    "last_rss_validation": "2026-10-18"
   },
   {
     "name": "TARMAKBİR",
