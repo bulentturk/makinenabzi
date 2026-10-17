@@ -59,7 +59,7 @@ const machineryTerms = [
   'marine propulsion','marine engine','outboard motor','electric boat','workboat','thruster','deck machinery','shore power',
   'is makinasi','ekskavator','yukleyici','greyder','vinc','maden kamyonu','delici makine',
   'traktor','bicerdover','liman ekipmani','hidrolik','pompa','valf','guc aktarimi',
-  'elektrik motoru','telematik','kontrol unitesi','sensor','sanziman','is makineleri','insaat makineleri','kazici yukleyici','buldozer','asfalt finiseri','forklift','istif makineleri','istif makinasi','personel yukseltici','platform','telehandler','mobil vinc','beton pompasi','elektrikli yukleyici','paletli yukleyici','is makinesi','santiye'
+  'elektrik motoru','telematik','kontrol unitesi','sensor','sanziman','is makineleri','insaat makineleri','kazici yukleyici','buldozer','asfalt finiseri','forklift','istif makineleri','istif makinasi','personel yukseltici','sepetli platform','telehandler','mobil vinc','beton pompasi','elektrikli yukleyici','paletli yukleyici','is makinesi','santiye'
 ];
 const weakBusinessTerms = [
   'apprentice','graduate','reconciliation action plan','merger','acquisition','supply resilience',
