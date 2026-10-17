@@ -1,7 +1,7 @@
 import fs from 'node:fs/promises';
 import crypto from 'node:crypto';
 import Parser from 'rss-parser';
-import { normalized, hasTerm, hasMobileContext, hasSectorEquipmentContext } from './news-context.mjs';
+import { normalized, hasTerm, hasMobileContext, hasSectorEquipmentContext, hasUndergroundContext } from './news-context.mjs';
 
 const parser = new Parser({ timeout: 12000 });
 const sources = JSON.parse(await fs.readFile(process.env.NEWS_SOURCES_FILE || new URL('../agent/sources.json', import.meta.url), 'utf8'));
@@ -27,7 +27,7 @@ const rules = [
 const sectorRules = [
   ['havaalani-gse', ['ground support equipment','ground handling equipment','gse','aircraft tug','aircraft towing','pushback tractor','baggage tractor','baggage tug','belt loader','cargo loader','ground power unit','de-icing truck','passenger stairs','airport fire truck','airside vehicle','apron vehicle']],
   ['marine-yatcilik', ['marine propulsion','marine engine','boat engine','outboard motor','inboard motor','electric boat','electric yacht','electric ferry','hybrid vessel','workboat','thruster','deck machinery','shore power','yacht equipment','ship propulsion']],
-  ['madencilik', ['mining','mine','open pit','quarry','lhd','haul truck','drill rig','maden','madencilik','yer alti','acik ocak','maden kamyonu','delgi makinasi']],
+  ['madencilik', ['mining','mine','open pit','quarry','lhd','haul truck','drill rig','underground mining','underground mine','rock bolter','scaler','shotcrete','emulsion charging','jumbo','mine service vehicle','maden','madencilik','yer alti','yeraltı','acik ocak','maden kamyonu','delgi makinasi','tahkimat']],
   ['liman', ['port','terminal','container','reach stacker','straddle carrier','harbour crane','liman','konteyner','vinc','ellecleme','istif makinasi','reachstacker']],
   ['tarim', ['agriculture','agricultural','tractor','harvester','farm ','combine','tarim','traktor','bicerdover','tarim makineleri']],
   ['arac-ustu-ekipman', ['truck-mounted','aerial platform','concrete pump','mixer truck','refuse truck','municipal','mobil vinc','beton pompasi','personel yukseltici','sepetli platform','kamyon ustu','ustyapi']],
@@ -47,6 +47,7 @@ const machineryTerms = [
   'excavator','loader','wheel loader','dozer','grader','skid steer','compact track loader',
   'crane','reach stacker','straddle carrier','terminal tractor','forklift','telehandler',
   'haul truck','dump truck','mining truck','lhd','drill rig','crusher','conveyor','tbm',
+  'underground truck','underground loader','mine support vehicle','rock bolter','rock scaler','scaler','shotcrete','sprayed concrete','emulsion charging','longhole drill','drill jumbo','mine ventilation',
   'mixer','concrete pump','aerial platform','tractor','harvester','undercarriage','track chain','track roller','track shoe','track link','idler','sprocket',
   'diesel engine','combustion engine','engine platform','aftertreatment','stage v engine',
   'transmission','automatic transmission','powershift','powertrain','drivetrain','hydrostatic','final drive','axle','planetary axle','differential',
@@ -78,6 +79,7 @@ function editorialFit(item, source) {
   if (weakBusinessTerms.some(w => hasTerm(text, w))) fit -= 30;
   if (source.sector === 'liman' && ['equipment','terminal operations','crane','reach stacker'].some(w => hasTerm(text,w))) fit += 10;
   if (source.sector === 'madencilik' && ['autonomous','battery electric','haul truck','lhd','drill rig','equipment'].some(w => hasTerm(text,w))) fit += 10;
+  if (source.sector === 'madencilik' && hasUndergroundContext(text)) fit += 12;
   if (source.sector === 'marine-yatcilik' && ['marine propulsion','electric boat','battery','thruster','shore power','deck machinery'].some(w => hasTerm(text,w))) fit += 12;
   if (source.sector === 'havaalani-gse' && ['ground support equipment','aircraft tug','pushback tractor','belt loader','ground power unit','baggage tractor'].some(w => hasTerm(text,w))) fit += 12;
   if (source.focus === 'powertrain' && ['diesel engine','transmission','drivetrain','axle','aftertreatment','powershift','undercarriage','track chain','track roller'].some(w => hasTerm(text,w))) fit += 12;
@@ -89,6 +91,7 @@ function score(item, source) {
   let s = source.priority || 50;
   s += tagsFrom(text).length * 8;
   s += Math.max(0, Math.min(40, editorialFit(item, source)));
+  if (source.sector === 'madencilik' && hasUndergroundContext(text) && source.focus === 'underground') s += 12;
   if (['deutz','cummins','allison','zf','dana','kessler'].some(name => hasTerm(text,name))
       && ['diesel engine','transmission','gearbox','axle','drivetrain','final drive','powertrain','off-highway','mining'].some(term => hasTerm(text,term))) s += 15;
   if (/(launch|introduc|new |electric|autonom|battery|technology|system|platform|retrofit|tanitt|gelistir|yeni |elektrikli|otonom|hidrolik)/.test(text)) s += 10;
@@ -120,6 +123,7 @@ previous = previous
     return {
       ...item,
       sector: sectorFrom(text, source.sector),
+      subsector: sectorFrom(text, source.sector) === 'madencilik' && hasUndergroundContext(text) ? 'yeraltı-madenciliği' : (item.subsector || null),
       technologies: tagsFrom(text),
       editorial_fit_score: fit,
       relevance_score: score(pseudo, source)
@@ -163,6 +167,7 @@ async function collectSource(source) {
         published_at: new Date(date).toISOString(),
         discovered_at: new Date().toISOString(),
         sector: sectorFrom(text, source.sector),
+        subsector: sectorFrom(text, source.sector) === 'madencilik' && hasUndergroundContext(text) ? 'yeraltı-madenciliği' : null,
         technologies: tagsFrom(text),
         relevance_score: score(item, source),
         editorial_fit_score: fit,
