@@ -47,7 +47,7 @@
     "name": "Teknikport",
     "url": "https://www.teknikport.com/feed/",
     "sector": "is-makinalari",
-    "priority": 82
+    "priority": 67
   },
   {
     "name": "Marine Industry News",
@@ -152,7 +152,7 @@
     "name": "Sanayi Gazetesi",
     "url": "https://sanayigazetesi.com.tr/feed/",
     "sector": "is-makinalari",
-    "priority": 72,
+    "priority": 60,
     "require_mobile_context": true
   },
   {
@@ -165,13 +165,13 @@
     "name": "Makina Market",
     "url": "https://makina-market.com.tr/feed/",
     "sector": "is-makinalari",
-    "priority": 100
+    "priority": 66
   },
   {
     "name": "LHT",
     "url": "https://www.lht.com.tr/feed/",
     "sector": "arac-ustu-ekipman",
-    "priority": 96
+    "priority": 65
   },
   {
     "name": "PLATFORMDER",
