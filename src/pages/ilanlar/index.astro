@@ -1,0 +1,92 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ListingCard from '../../components/ListingCard.astro';
+import data from '../../data/listings.json';
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const href = (p: string) => `${base}${p}`;
+
+const listings = data.listings ?? [];
+const sectors = data.sectors ?? [];
+const categories = [...new Set(listings.map((item) => item.categoryLabel))];
+const activeSectors = sectors.filter((sector) => sector.count > 0);
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: 'Makine Nabzı ilanları',
+  numberOfItems: listings.length,
+  itemListElement: listings.slice(0, 20).map((item, index) => ({
+    '@type': 'ListItem',
+    position: index + 1,
+    url: new URL(`/ilanlar/${item.sectorSlug}/${item.slug}/`, Astro.site ?? 'https://makinenabzi.com').href,
+    name: item.title,
+  })),
+};
+---
+
+<BaseLayout
+  title="İlanlar"
+  description="İş makinaları, madencilik, liman, tarım ve elektrifikasyon sektörlerinde satılık, kiralık ve yedek parça ilanları. Makine Nabzı ilan pazarı."
+  jsonLd={jsonLd}
+>
+  <section class="page-head"><div class="container">
+    <span class="eyebrow">Makine pazarı</span>
+    <h1>İlanlar</h1>
+    <p>Sektör sektör satılık, kiralık, yedek parça ve hizmet ilanları. Her ilan editör onayından geçer; ilanların sahibi bellidir ve iletişim doğrudan satıcıyla kurulur.</p>
+  </div></section>
+
+  <section class="section"><div class="container">
+    <nav class="sector-filter" aria-label="İlan sektörleri">
+      <a href={href('/ilanlar/')} aria-current="page">Tümü ({listings.length})</a>
+      {activeSectors.map((sector) => (
+        <a href={href(`/ilanlar/${sector.slug}/`)}>{sector.label} ({sector.count})</a>
+      ))}
+    </nav>
+
+    {categories.length > 0 && (
+      <div class="section-head">
+        <div>
+          <span class="eyebrow">Yayındaki ilanlar</span>
+          <h2>{listings.length} ilan.</h2>
+          <p>{categories.join(' · ')}</p>
+        </div>
+        <a class="link-arrow" href={href('/ilan-ver/')}>İlan ver →</a>
+      </div>
+    )}
+
+    {listings.length === 0 ? (
+      <div class="listing-empty">
+        <h2>Henüz yayınlanmış ilan yok.</h2>
+        <p>İlanlar editör onayından sonra burada listelenir. İlk ilanı sen vermek istersen formu doldur; onaydan sonra yayına alınır.</p>
+        <a class="button primary" href={href('/ilan-ver/')}>İlan ver</a>
+      </div>
+    ) : (
+      <div class="listing-grid">
+        {listings.map((listing) => (
+          <ListingCard
+            listing={listing}
+            href={href(`/ilanlar/${listing.sectorSlug}/${listing.slug}/`)}
+            showSector
+          />
+        ))}
+      </div>
+    )}
+
+    <div class="section-head" style="margin-top:64px">
+      <div>
+        <span class="eyebrow">Sektörler</span>
+        <h2>Her sektörün kendi pazarı.</h2>
+      </div>
+    </div>
+    <div class="listing-sector-grid">
+      {sectors.map((sector) => (
+        <a class="card" href={href(`/ilanlar/${sector.slug}/`)}>
+          <span class="tag">{sector.count} ilan</span>
+          <h3>{sector.label}</h3>
+          <p>{sector.label} kategorisindeki güncel ilanlar.</p>
+        </a>
+      ))}
+    </div>
+  </div></section>
+</BaseLayout>

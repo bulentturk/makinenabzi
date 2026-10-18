@@ -1,0 +1,88 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import ListingCard from '../../../components/ListingCard.astro';
+import data from '../../../data/listings.json';
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const href = (p: string) => `${base}${p}`;
+
+export function getStaticPaths() {
+  const sectors = data.sectors ?? [];
+  return sectors
+    .filter((sector) => sector.count > 0)
+    .map((sector) => ({
+      params: { sektor: sector.slug },
+      props: { sector },
+    }));
+}
+
+const { sector } = Astro.props;
+const listings = (data.listings ?? []).filter(
+  (item) => item.sectorSlug === sector.slug,
+);
+const otherSectors = (data.sectors ?? []).filter(
+  (item) => item.count > 0 && item.slug !== sector.slug,
+);
+const categories = [...new Set(listings.map((item) => item.categoryLabel))];
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: `${sector.label} ilanları`,
+  numberOfItems: listings.length,
+  itemListElement: listings.map((item, index) => ({
+    '@type': 'ListItem',
+    position: index + 1,
+    url: new URL(`/ilanlar/${item.sectorSlug}/${item.slug}/`, Astro.site ?? 'https://makinenabzi.com').href,
+    name: item.title,
+  })),
+};
+---
+
+<BaseLayout
+  title={`${sector.label} İlanları`}
+  description={`${sector.label} kategorisinde satılık, kiralık, yedek parça ve hizmet ilanları. ${listings.length} güncel ilan, doğrudan satıcı iletişimi.`}
+  jsonLd={jsonLd}
+>
+  <section class="page-head"><div class="container">
+    <nav class="article-meta" aria-label="Sayfa yolu">
+      <a href={href('/ilanlar/')}>İlanlar</a>
+      <span aria-hidden="true">/</span>
+      <span>{sector.label}</span>
+    </nav>
+    <h1>{sector.label} ilanları</h1>
+    <p>{sector.label} alanında yayında olan {listings.length} ilan. Filtrelemek için diğer sektörlere geçebilirsiniz.</p>
+  </div></section>
+
+  <section class="section"><div class="container">
+    <nav class="sector-filter" aria-label="İlan sektörleri">
+      <a href={href('/ilanlar/')}>Tümü ({data.total})</a>
+      <a href={href(`/ilanlar/${sector.slug}/`)} aria-current="page">
+        {sector.label} ({sector.count})
+      </a>
+      {otherSectors.map((item) => (
+        <a href={href(`/ilanlar/${item.slug}/`)}>{item.label} ({item.count})</a>
+      ))}
+    </nav>
+
+    {categories.length > 0 && (
+      <div class="section-head">
+        <div>
+          <span class="eyebrow">Yayındaki ilanlar</span>
+          <h2>{sector.label}.</h2>
+          <p>{categories.join(' · ')}</p>
+        </div>
+        <a class="link-arrow" href={href('/ilan-ver/')}>İlan ver →</a>
+      </div>
+    )}
+
+    <div class="listing-grid">
+      {listings.map((listing) => (
+        <ListingCard
+          listing={listing}
+          href={href(`/ilanlar/${listing.sectorSlug}/${listing.slug}/`)}
+        />
+      ))}
+    </div>
+  </div></section>
+</BaseLayout>

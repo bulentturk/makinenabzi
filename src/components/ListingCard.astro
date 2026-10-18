@@ -1,0 +1,78 @@
+---
+/**
+ * İlan kartı — vitrin ve sektör sayfalarında ortak kullanılır.
+ * Fiyat gizliyse "Fiyat sorunuz" gösterilir; hiçbir alan zorunlu değildir.
+ */
+interface Listing {
+  slug: string;
+  title: string;
+  sectorSlug: string;
+  sector: string;
+  categoryLabel: string;
+  brand: string | null;
+  model: string | null;
+  year: number | null;
+  hours: number | null;
+  conditionLabel: string | null;
+  city: string | null;
+  price: number | null;
+  currency: string;
+  priceHidden: boolean;
+  cover: string | null;
+}
+
+interface Props {
+  listing: Listing;
+  href: string;
+  showSector?: boolean;
+}
+
+const { listing, href, showSector = false } = Astro.props;
+
+function formatPrice(price: number, currency: string): string {
+  try {
+    return new Intl.NumberFormat('tr-TR', {
+      style: 'currency',
+      currency,
+      maximumFractionDigits: 0,
+    }).format(price);
+  } catch {
+    return `${new Intl.NumberFormat('tr-TR').format(price)} ${currency}`;
+  }
+}
+
+const specs = [
+  [listing.brand, listing.model].filter(Boolean).join(' '),
+  listing.year ? String(listing.year) : null,
+  listing.hours !== null
+    ? `${new Intl.NumberFormat('tr-TR').format(listing.hours)} saat`
+    : null,
+  listing.conditionLabel,
+].filter(Boolean);
+
+const priceLabel = listing.priceHidden || listing.price === null
+  ? 'Fiyat sorunuz'
+  : formatPrice(listing.price, listing.currency);
+---
+
+<a class="listing-card" href={href}>
+  {listing.cover && (
+    <img
+      class="listing-cover"
+      src={listing.cover}
+      alt={`${listing.title} — kapak fotoğrafı`}
+      loading="lazy"
+      decoding="async"
+    />
+  )}
+  <div class="listing-body">
+    <div class="article-meta">
+      <span class="tag">{listing.categoryLabel}</span>
+      {showSector && <span class="tag tag-muted">{listing.sector}</span>}
+      {listing.city && <span>{listing.city}</span>}
+    </div>
+    <h3>{listing.title}</h3>
+    {specs.length > 0 && <p class="listing-specs">{specs.join(' · ')}</p>}
+    <strong>{priceLabel} →</strong>
+  </div>
+</a>

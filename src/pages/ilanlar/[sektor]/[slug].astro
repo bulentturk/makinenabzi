@@ -1,0 +1,215 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import ListingCard from '../../../components/ListingCard.astro';
+import data from '../../../data/listings.json';
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const href = (p: string) => `${base}${p}`;
+
+export function getStaticPaths() {
+  const listings = data.listings ?? [];
+  return listings.map((listing) => ({
+    params: { sektor: listing.sectorSlug, slug: listing.slug },
+    props: { listing },
+  }));
+}
+
+const { listing } = Astro.props;
+const origin = Astro.site ?? new URL('https://makinenabzi.com');
+const canonical = new URL(`/ilanlar/${listing.sectorSlug}/${listing.slug}/`, origin).href;
+
+const related = (data.listings ?? [])
+  .filter(
+    (item) => item.sectorSlug === listing.sectorSlug && item.slug !== listing.slug,
+  )
+  .slice(0, 3);
+
+function formatPrice(price: number, currency: string): string {
+  try {
+    return new Intl.NumberFormat('tr-TR', {
+      style: 'currency',
+      currency,
+      maximumFractionDigits: 0,
+    }).format(price);
+  } catch {
+    return `${new Intl.NumberFormat('tr-TR').format(price)} ${currency}`;
+  }
+}
+
+const priceLabel =
+  listing.priceHidden || listing.price === null
+    ? 'Fiyat sorunuz'
+    : formatPrice(listing.price, listing.currency);
+
+const specs = [
+  ['Marka', listing.brand],
+  ['Model', listing.model],
+  ['Yıl', listing.year ? String(listing.year) : null],
+  [
+    'Çalışma saati',
+    listing.hours !== null
+      ? `${new Intl.NumberFormat('tr-TR').format(listing.hours)} saat`
+      : null,
+  ],
+  ['Durum', listing.conditionLabel],
+  ['Konum', listing.city],
+  ['İlan tipi', listing.categoryLabel],
+  ['Sektör', listing.sector],
+].filter(([, value]) => Boolean(value));
+
+const paragraphs = String(listing.description)
+  .split(/\n{2,}/)
+  .map((part) => part.trim())
+  .filter(Boolean);
+
+const maskedPhone = listing.contactPhone.replace(
+  /^(\d{3})\d+(\d{2})$/,
+  '$1 *** ** $2',
+);
+
+const conditionUrl =
+  listing.condition === 'sifir'
+    ? 'https://schema.org/NewCondition'
+    : 'https://schema.org/UsedCondition';
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Product',
+  name: listing.title,
+  description: paragraphs[0] ?? listing.title,
+  ...(listing.brand ? { brand: { '@type': 'Brand', name: listing.brand } } : {}),
+  ...(listing.images.length > 0 ? { image: listing.images } : {}),
+  ...(listing.price !== null && !listing.priceHidden
+    ? {
+        offers: {
+          '@type': 'Offer',
+          price: listing.price,
+          priceCurrency: listing.currency,
+          availability: 'https://schema.org/InStock',
+          itemCondition: conditionUrl,
+          url: canonical,
+        },
+      }
+    : {}),
+  ...(listing.category === 'yedek-parca' || listing.category === 'hizmet'
+    ? { category: listing.categoryLabel }
+    : {}),
+};
+---
+
+<BaseLayout
+  title={listing.title}
+  description={`${listing.title} — ${listing.sector} · ${listing.city ?? 'Türkiye'} · ${priceLabel}`}
+  image={listing.cover ?? undefined}
+  jsonLd={jsonLd}
+>
+  <section class="article-hero"><div class="container article-narrow">
+    <nav class="article-meta" aria-label="Sayfa yolu">
+      <a href={href('/ilanlar/')}>İlanlar</a>
+      <span aria-hidden="true">/</span>
+      <a href={href(`/ilanlar/${listing.sectorSlug}/`)}>{listing.sector}</a>
+      <span aria-hidden="true">/</span>
+      <span>{listing.categoryLabel}</span>
+    </nav>
+    <h1>{listing.title}</h1>
+    <p class="article-dek">{listing.city ? `${listing.city} · ` : ''}{priceLabel}</p>
+    <div class="article-meta" style="margin-top:14px">
+      <time datetime={listing.updatedAt}>Güncelleme: {new Intl.DateTimeFormat('tr-TR', { day: 'numeric', month: 'long', year: 'numeric' }).format(new Date(listing.updatedAt))}</time>
+      <span>·</span>
+      <span>{listing.views} görüntülenme</span>
+    </div>
+  </div></section>
+
+  <section class="section" style="padding-top:0"><div class="container">
+    <div class="listing-layout">
+      <div>
+        {listing.images.length > 0 ? (
+          <div class="listing-gallery">
+            <img
+              class="listing-hero"
+              src={listing.images[0]}
+              alt={`${listing.title} — fotoğraf 1`}
+              loading="eager"
+              decoding="async"
+            />
+            {listing.images.length > 1 && (
+              <div class="listing-thumbs">
+                {listing.images.slice(1, 7).map((image, index) => (
+                  <img
+                    src={image}
+                    alt={`${listing.title} — fotoğraf ${index + 2}`}
+                    loading="lazy"
+                    decoding="async"
+                  />
+                ))}
+              </div>
+            )}
+          </div>
+        ) : (
+          <div class="listing-placeholder">Bu ilan için fotoğraf eklenmemiş.</div>
+        )}
+
+        <h2 class="listing-section-title">Açıklama</h2>
+        <div class="listing-description">
+          {paragraphs.map((paragraph) => <p>{paragraph}</p>)}
+        </div>
+      </div>
+
+      <aside>
+        <div class="listing-spec-box">
+          <span class="eyebrow">Künye</span>
+          <dl class="listing-specs-list">
+            {specs.map(([label, value]) => (
+              <div>
+                <dt>{label}</dt>
+                <dd>{value}</dd>
+              </div>
+            ))}
+          </dl>
+        </div>
+
+        <div class="listing-contact">
+          <span class="eyebrow">İletişim</span>
+          <p class="listing-seller">{listing.contactName}</p>
+          <p class="listing-phone" data-phone={listing.contactPhone}>
+            <span data-phone-label>{maskedPhone}</span>
+          </p>
+          <button class="button primary" type="button" data-phone-reveal>
+            Numarayı göster
+          </button>
+          <p class="listing-note">
+            İlan sahibiyle görüşürken Makine Nabzı üzerinden geldiğinizi belirtebilirsiniz.
+            Anlaşmadan önce makineyi yerinde görün ve evrakını kontrol edin.
+          </p>
+        </div>
+      </aside>
+    </div>
+
+    {related.length > 0 && (
+      <>
+        <h2 class="listing-section-title" style="margin-top:56px">Aynı sektördeki ilanlar</h2>
+        <div class="listing-grid">
+          {related.map((item) => (
+            <ListingCard
+              listing={item}
+              href={href(`/ilanlar/${item.sectorSlug}/${item.slug}/`)}
+            />
+          ))}
+        </div>
+      </>
+    )}
+  </div></section>
+
+  <script is:inline>
+    document.querySelectorAll('[data-phone-reveal]').forEach((button) => {
+      button.addEventListener('click', () => {
+        const holder = button.parentElement?.querySelector('[data-phone]');
+        const label = holder?.querySelector('[data-phone-label]');
+        const phone = holder?.dataset.phone;
+        if (!label || !phone) return;
+        label.textContent = phone;
+        button.remove();
+      });
+    });
+  </script>
+</BaseLayout>

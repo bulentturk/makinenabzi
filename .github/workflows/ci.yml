@@ -28,6 +28,7 @@ jobs:
       - run: node --check scripts/finalize-review.mjs
       - run: node --check scripts/mark-review-state.mjs
       - run: node --check scripts/retry-main-write.mjs
+      - run: node --check scripts/sync-listings.mjs
       - run: npm test
       - name: Probe source feeds without publishing
         run: npm run agent:news

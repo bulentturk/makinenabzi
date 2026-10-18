@@ -1,0 +1,10 @@
+[
+  { "slug": "is-makinalari", "label": "İş Makinaları" },
+  { "slug": "madencilik", "label": "Madencilik" },
+  { "slug": "liman", "label": "Liman & Malzeme Elleçleme" },
+  { "slug": "tarim", "label": "Tarım Makinaları" },
+  { "slug": "arac-ustu-ekipman", "label": "Araç Üstü Ekipman" },
+  { "slug": "elektrifikasyon", "label": "Elektrifikasyon & Dönüşüm" },
+  { "slug": "marine-yatcilik", "label": "Marine & Yatçılık" },
+  { "slug": "havaalani-gse", "label": "Havalimanı & GSE" }
+]
