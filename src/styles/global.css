@@ -178,3 +178,33 @@ h1,h2,h3{line-height:1.12;margin:0}.hero h1{font-size:clamp(2.7rem,6vw,5.8rem);m
 .listing-note{color:var(--muted);font-size:.8rem;margin:14px 0 0}
 @media(max-width:900px){.listing-grid,.listing-sector-grid{grid-template-columns:repeat(2,1fr)}.listing-layout{grid-template-columns:1fr}}
 @media(max-width:620px){.listing-grid,.listing-sector-grid{grid-template-columns:1fr}}
+
+/* Hesap (üyelik) */
+.hesap-grid{display:grid;grid-template-columns:minmax(0,1fr) minmax(300px,.72fr);gap:26px;align-items:start}
+.hesap-card{padding:28px;border:1px solid var(--line);border-radius:var(--radius);background:linear-gradient(180deg,var(--surface),rgba(13,24,35,.72));box-shadow:var(--shadow)}
+.hesap-card h2{font-size:clamp(1.4rem,2.4vw,1.85rem);letter-spacing:-.03em}
+.hesap-note{color:var(--muted);font-size:.9rem;margin:10px 0 0;line-height:1.6}
+.hesap-actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:18px}
+.hesap-card button.button{font:inherit;cursor:pointer;background:transparent;color:var(--text)}
+.hesap-card button.button.primary{background:var(--cyan);color:#041019}
+.hesap-card button.button:disabled{opacity:.6;cursor:progress}
+.hesap-google{gap:9px}
+.hesap-divider{display:flex;align-items:center;gap:12px;margin:20px 0 4px;color:var(--muted);font-size:.76rem;text-transform:uppercase;letter-spacing:.12em}
+.hesap-divider:before,.hesap-divider:after{content:"";height:1px;flex:1;background:var(--line)}
+.hesap-field{display:grid;gap:7px;margin-top:16px}
+.hesap-field label{font-size:.8rem;font-weight:700;color:#c1d0dc}
+.hesap-field input{width:100%;min-height:46px;padding:0 14px;border-radius:12px;border:1px solid var(--line);background:#08111a;color:var(--text);font:inherit}
+.hesap-field input:focus{outline:2px solid rgba(95,208,255,.45);outline-offset:1px;border-color:var(--cyan)}
+.hesap-field input::placeholder{color:#5c7183}
+.hesap-error{margin:14px 0 0;color:#ff9c9c;font-size:.85rem}
+.hesap-fine{margin-top:20px;padding-top:16px;border-top:1px solid rgba(255,255,255,.06);font-size:.78rem}
+.hesap-fine a{color:var(--cyan);text-decoration:underline}
+.hesap-side{padding:26px;border:1px solid var(--line);border-radius:var(--radius);background:rgba(255,255,255,.018)}
+.hesap-side h2{font-size:1.2rem}
+.hesap-steps{list-style:none;counter-reset:hesap;padding:0;margin:18px 0 0;display:grid;gap:14px}
+.hesap-steps li{counter-increment:hesap;display:grid;gap:3px;padding-left:38px;position:relative}
+.hesap-steps li:before{content:counter(hesap);position:absolute;left:0;top:1px;width:26px;height:26px;display:grid;place-items:center;border-radius:50%;background:rgba(95,208,255,.12);color:var(--cyan);font-size:.78rem;font-weight:800}
+.hesap-steps strong{font-size:.92rem}
+.hesap-steps span{color:var(--muted);font-size:.84rem;line-height:1.55}
+.hesap-side a{color:var(--cyan)}
+@media(max-width:900px){.hesap-grid{grid-template-columns:1fr}}

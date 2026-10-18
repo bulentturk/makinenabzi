@@ -84,7 +84,7 @@ const fullTitle = title === siteName ? title : `${title} | ${siteName}`;
           {nav.map(([label, path]) => <a href={href(path)}>{label}</a>)}
         </nav>
 
-        <a class="nav-account" href={href('/app/auth/')}>
+        <a class="nav-account" href={href('/hesap/')}>
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M20 21a8 8 0 0 0-16 0"/><circle cx="12" cy="8" r="4"/></svg>
           <span>Hesap / Üye ol</span>
         </a>
@@ -120,7 +120,7 @@ const fullTitle = title === siteName ? title : `${title} | ${siteName}`;
         </div>
         <div>
           <h3>Makine Nabzı</h3>
-          <a href={href('/app/auth/')}>Hesap · Üye ol</a>
+          <a href={href('/hesap/')}>Hesap · Üye ol</a>
           <a href={href('/hakkimizda/')}>Hakkımızda</a>
           <a href={href('/iletisim/')}>İletişim</a>
           <a href={href('/gizlilik/')}>Gizlilik ve KVKK</a>

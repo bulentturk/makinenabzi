@@ -11,7 +11,12 @@
     "agent:news": "node scripts/news-agent.mjs"
   },
   "dependencies": {
+    "@astrojs/react": "^7.1.0",
+    "@convex-dev/auth": "^0.0.90",
     "astro": "^6.0.0",
+    "convex": "^1.47.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
     "rss-parser": "^3.13.0"
   }
 }

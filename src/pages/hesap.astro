@@ -1,0 +1,54 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import HesapAuth from '../components/HesapAuth';
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const href = (p: string) => `${base}${p}`;
+
+// Convex dağıtım adresi gizli değil; ortam değişkeni yoksa geliştirme
+// dağıtımı kullanılır.
+const convexUrl =
+  import.meta.env.PUBLIC_CONVEX_URL ?? 'https://flexible-ibex-197.eu-west-1.convex.cloud';
+
+const steps = [
+  ['Hesap aç', 'Google ya da e-posta koduyla; şifre yok.'],
+  ['İlan ver', 'Makine künyesi, fotoğraflar ve iletişim bilgisi.'],
+  ['Editoryal onay', 'İlan yayına girmeden önce incelenir.'],
+  ['Yönet', 'İlanlarını düzenle, satıldı işaretle, kaldır.'],
+];
+---
+
+<BaseLayout
+  title="Hesap"
+  description="Makine Nabzı hesabı açın: ilan verin, ilanlarınızı yönetin, favorilerinizi saklayın. Google veya e-posta koduyla şifresiz giriş."
+>
+  <section class="page-head"><div class="container">
+    <span class="eyebrow">Üyelik</span>
+    <h1>Hesap</h1>
+    <p>İlan vermek, ilanlarını yönetmek ve favorilerini saklamak için hesap açın. Aynı hesap Android uygulamasında da geçerlidir.</p>
+  </div></section>
+
+  <section class="section"><div class="container">
+    <div class="hesap-grid">
+      <div>
+        <HesapAuth client:only="react" convexUrl={convexUrl} />
+      </div>
+
+      <aside class="hesap-side">
+        <h2>Hesapla neler yapılır?</h2>
+        <ol class="hesap-steps">
+          {steps.map(([title, body]) => (
+            <li>
+              <strong>{title}</strong>
+              <span>{body}</span>
+            </li>
+          ))}
+        </ol>
+        <p class="hesap-note">
+          İlan vermek ücretsizdir. Bireysel satıcılar ve firmalar ilan verebilir;
+          ilanlar editör onayından sonra <a href={href('/ilanlar/')}>ilanlar sayfasında</a> yayınlanır.
+        </p>
+      </aside>
+    </div>
+  </div></section>
+</BaseLayout>
