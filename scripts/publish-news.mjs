@@ -8,6 +8,20 @@ export function istanbulDay(date = new Date()) {
   return { day: `${value.year}-${value.month}-${value.day}`, weekday: value.weekday };
 }
 
+export function autoEligible(item, now = new Date()) {
+  const e = item.editorial;
+  const inaccessible = (e.uncertainty_notes || []).some(note =>
+    /(?:403|404|erişilemedi|alınamadı|açılamadı|ulaşılamadı|unavailable|inaccessible)/i.test(note));
+  const fresh = Number.isFinite(Date.parse(item.published_at)) && now - new Date(item.published_at) <= 30 * 86400000;
+  return /^https:\/\//.test(item.source_url || '') && fresh && !inaccessible
+    && (e.summary_tr || '').length >= 250 && Array.isArray(e.key_facts) && e.key_facts.length >= 2;
+}
+
+export function autoPublishedToday(published, now = new Date()) {
+  const today = istanbulDay(now).day;
+  return published.some(item => item.publish_mode === 'automatic' && istanbulDay(new Date(item.site_published_at)).day === today);
+}
+
 export function selectDraft(candidates, published, sources, excludedIds = [], eligible = () => true) {
   const sourceByName = new Map(sources.map(source => [source.name, source]));
   const used = new Set([...published.map(item => item.id), ...excludedIds]);

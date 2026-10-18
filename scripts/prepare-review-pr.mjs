@@ -1,7 +1,7 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { pathToFileURL } from 'node:url';
-import { selectDraft, toPublished } from './publish-news.mjs';
+import { autoEligible, autoPublishedToday, selectDraft, toPublished } from './publish-news.mjs';
 
 const CANDIDATES = process.env.REVIEW_CANDIDATES_FILE || new URL('../agent/drafts/news-candidates.json', import.meta.url);
 const PUBLISHED = process.env.REVIEW_PUBLISHED_FILE || new URL('../src/data/published-news.json', import.meta.url);
@@ -12,7 +12,12 @@ const candidates = JSON.parse(await fs.readFile(CANDIDATES,'utf8'));
 const published = JSON.parse(await fs.readFile(PUBLISHED,'utf8'));
 const sources = JSON.parse(await fs.readFile(SOURCES,'utf8'));
 const excluded = (process.env.REVIEW_EXCLUDED_IDS || '').split(',').filter(Boolean);
-const selected = selectDraft(candidates, published, sources, excluded);
+const now = new Date(process.env.REVIEW_NOW || Date.now());
+// Keep the best eligible story available for the next weekday automatic slot.
+// Once today's automatic story is live, remaining drafts may enter the PR queue.
+const reserved = autoPublishedToday(published, now) ? null
+  : selectDraft(candidates, published, sources, excluded, item => autoEligible(item, now));
+const selected = selectDraft(candidates, published, sources, [...excluded, ...(reserved ? [reserved.id] : [])]);
 
 await fs.mkdir(TMP,{recursive:true});
 
