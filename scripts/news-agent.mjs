@@ -25,12 +25,12 @@ const rules = [
 ];
 
 const sectorRules = [
-  ['havaalani-gse', ['ground support equipment','ground handling equipment','gse','aircraft tug','aircraft towing','pushback tractor','baggage tractor','baggage tug','belt loader','cargo loader','ground power unit','de-icing truck','passenger stairs','airport fire truck','airside vehicle','apron vehicle']],
-  ['marine-yatcilik', ['marine propulsion','marine engine','boat engine','outboard motor','inboard motor','electric boat','electric yacht','electric ferry','hybrid vessel','workboat','thruster','deck machinery','shore power','yacht equipment','ship propulsion']],
+  ['havaalani-gse', ['ground support equipment','ground handling equipment','gse','aircraft tug','aircraft towing','pushback tractor','baggage tractor','baggage tug','belt loader','cargo loader','ground power unit','de-icing truck','passenger stairs','airport fire truck','airside vehicle','apron vehicle','yer hizmetleri','yer destek ekipmani','ucak cekici','bagaj traktoru','yer guc unitesi','apron araci']],
+  ['marine-yatcilik', ['marine propulsion','marine engine','boat engine','outboard motor','inboard motor','electric boat','electric yacht','electric ferry','hybrid vessel','workboat','thruster','deck machinery','shore power','yacht equipment','ship propulsion','tekne ekipmani','yat ekipmani','gemi tahrik','marine motor','deniz motoru','guverte ekipmani']],
   ['madencilik', ['mining','mine','open pit','quarry','lhd','haul truck','drill rig','underground mining','underground mine','rock bolter','scaler','shotcrete','emulsion charging','jumbo','mine service vehicle','maden','madencilik','yer alti','yeraltı','acik ocak','maden kamyonu','delgi makinasi','tahkimat']],
-  ['liman', ['port','terminal','container','reach stacker','straddle carrier','harbour crane','liman','konteyner','vinc','ellecleme','istif makinasi','reachstacker']],
-  ['tarim', ['agriculture','agricultural','tractor','harvester','farm ','combine','tarim','traktor','bicerdover','tarim makineleri']],
-  ['arac-ustu-ekipman', ['truck-mounted','aerial platform','concrete pump','mixer truck','refuse truck','municipal','mobil vinc','beton pompasi','personel yukseltici','sepetli platform','kamyon ustu','ustyapi']],
+  ['liman', ['port','terminal','container','reach stacker','straddle carrier','harbour crane','liman','konteyner','vinc','ellecleme','istif makinasi','reachstacker','liman vinci','terminal traktoru','konteyner ellecleme']],
+  ['tarim', ['agriculture','agricultural','tractor','harvester','farm ','combine','tarim','traktor','bicerdover','tarim makineleri','tarim makinasi','hassas tarim','tarim teknolojileri','tarim robotu']],
+  ['arac-ustu-ekipman', ['truck-mounted','aerial platform','concrete pump','mixer truck','refuse truck','municipal','mobil vinc','beton pompasi','beton dagitici','personel yukseltici','sepetli platform','kamyon ustu','arac ustu ekipman','cop toplama araci','ustyapi']],
   ['is-makinalari', ['excavator','loader','dozer','grader','construction equipment','compact equipment','road machinery','is makinasi','is makineleri','insaat makineleri','ekskavator','yukleyici','greyder','buldozer','santiye','kompakt ekipman']]
 ];
 
@@ -57,9 +57,13 @@ const machineryTerms = [
   'sensor','encoder','controller','joystick','hmi','ecu','vcu','can bus','j1939','canopen',
   'steer-by-wire','drive-by-wire','actuator','motor controller','dc-dc','e-axle','axial flux',
   'ground support equipment','gse','pushback tractor','aircraft tug','baggage tractor','belt loader','cargo loader','ground power unit',
+  'yer hizmetleri','yer destek ekipmani','ucak cekici','bagaj traktoru','yer guc unitesi','apron araci',
   'marine propulsion','marine engine','outboard motor','electric boat','workboat','thruster','deck machinery','shore power',
+  'tekne ekipmani','yat ekipmani','gemi tahrik','marine motor','deniz motoru','guverte ekipmani',
   'is makinasi','ekskavator','yukleyici','greyder','vinc','maden kamyonu','delici makine',
+  'maden ekipmani','yeralti yukleyici','kaya bulonlama','puskurtme beton','beton dagitici',
   'traktor','bicerdover','liman ekipmani','hidrolik','pompa','valf','guc aktarimi',
+  'hassas tarim','tarim teknolojileri','tarim makinasi','tarim robotu','terminal traktoru','konteyner ellecleme',
   'elektrik motoru','telematik','kontrol unitesi','sensor','sanziman','is makineleri','insaat makineleri','kazici yukleyici','buldozer','asfalt finiseri','forklift','istif makineleri','istif makinasi','personel yukseltici','sepetli platform','telehandler','mobil vinc','beton pompasi','elektrikli yukleyici','paletli yukleyici','is makinesi','santiye'
 ];
 const weakBusinessTerms = [
