@@ -150,65 +150,6 @@
     "subsector": null
   },
   {
-    "id": "11b4654893e0559d",
-    "status": "published",
-    "title_original": "Dyno Nobel prototypes autonomous blasthole inspection & loading technology",
-    "source_name": "International Mining",
-    "source_url": "https://im-mining.com/2026/10/01/dyno-nobel-prototypes-autonomous-blasthole-inspection-loading-technology/",
-    "source_feed": "https://im-mining.com/feed/",
-    "published_at": "2026-10-01T10:24:07.000Z",
-    "discovered_at": "2026-10-01T11:16:42.083Z",
-    "sector": "madencilik",
-    "technologies": [
-      "otonomi-ai",
-      "fonksiyonel-guvenlik"
-    ],
-    "relevance_score": 160,
-    "editorial_fit_score": 34,
-    "summary_source": "Following five years of what is described as intense R&D, global leader in explosives Dyno Nobel has unveiled a fully autonomous system which tackles one of mining’s last, manual, and safety-critical processes – the drill and blast bench. The “world-first,” end-to-end autonomously orchestrated blast hole inspection and loading technology, unveiled to investors in New York, The post Dyno Nobel prototypes autonomous blasthole inspection & loading technology appeared first on International Mining.",
-    "editorial": {
-      "title_tr": "Dyno Nobel, otonom blasthole denetim ve yükleme teknolojisinin prototipini tanıttı",
-      "dek_tr": "Dyno Nobel, sondaj deliklerinin denetlenmesi ve patlayıcıyla yüklenmesi süreçlerini otonom biçimde yürütmeyi hedefleyen bir prototip duyurdu. Kaynak, sistemin yatırımcılara New York'ta tanıtıldığını aktarıyor.",
-      "summary_tr": "International Mining'in haber özetine göre Dyno Nobel, maden sahalarındaki delme-patlatma basamağı için blasthole denetim ve yükleme teknolojisinin prototipini tanıttı. Sistem, bu süreçleri uçtan uca otonom biçimde koordine etmeyi hedefliyor.\n\nKaynak, teknolojinin beş yıllık bir Ar-Ge çalışmasının ardından yatırımcılara New York'ta sunulduğunu bildiriyor. Bu bilgi şirketin duyurusunu aktaran haber özetine dayanıyor; prototipin saha performansı veya ticari kullanıma hazır olup olmadığına ilişkin veri verilmemiş.",
-      "why_it_matters_tr": "Delik denetimi ve patlayıcı yükleme, madenlerde iş güvenliği ve operasyon akışı açısından kritik adımlardır. Bu görevlerin otonomlaştırılması, sahada personelin maruziyetini ve süreçlerin koordinasyonunu etkileyebilir; ancak olası faydaların değerlendirilmesi için saha denemeleri ve performans verileri gerekir.",
-      "seo_title": "Dyno Nobel otonom patlatma deliği sistemi prototipi",
-      "meta_description": "Dyno Nobel, madenlerde blasthole denetimi ve patlayıcı yüklemeyi otonom koordine etmeyi hedefleyen bir prototip tanıttı; saha verileri paylaşılmadı.",
-      "hero_image": "",
-      "reviewed": true,
-      "key_facts": [
-        "Dyno Nobel, blasthole denetim ve yükleme teknolojisi için bir prototip tanıttı.",
-        "Teknoloji, delme-patlatma sürecini otonom biçimde koordine etmeyi hedefliyor.",
-        "Haber özeti, çalışmanın beş yıllık Ar-Ge sürecinin ardından tanıtıldığını ve yatırımcılara New York'ta sunulduğunu belirtiyor."
-      ],
-      "suggested_tags": [
-        "Dyno Nobel",
-        "madencilik",
-        "otonom sistemler",
-        "delme ve patlatma",
-        "iş güvenliği"
-      ],
-      "suggested_sector": "madencilik",
-      "editorial_format": "haber",
-      "suggested_technologies": [
-        "otonomi-ai"
-      ],
-      "source_facts_used": [
-        "International Mining özetinde Dyno Nobel'in blasthole denetimi ve yüklemesi için otonom teknoloji prototipi tanıttığı belirtiliyor.",
-        "Özet, çalışmayı beş yıllık Ar-Ge süreciyle ilişkilendiriyor ve yatırımcılara New York'ta sunulduğunu aktarıyor."
-      ],
-      "uncertainty_notes": [
-        "Kaynağa erişim HTTP 403 ile engellenmiş; haber yalnızca kısa özet üzerinden değerlendirildi.",
-        "Otonomi düzeyi, prototipin teknik mimarisi, saha testleri, performansı ve ticari kullanıma geçiş planı doğrulanamıyor.",
-        "Beş yıllık Ar-Ge ve sistemin kapsamına ilişkin ifadeler haber özetinde aktarılıyor; bağımsız doğrulama veya test sonucu sunulmuyor."
-      ],
-      "generated_at": "2026-10-02T19:52:19.544Z",
-      "generated_by": "github-models",
-      "reviewed_at": "2026-10-18T17:12:00.537Z",
-      "review_result": "published"
-    },
-    "subsector": null
-  },
-  {
     "id": "0152a9ce3fabe6a8",
     "status": "candidate",
     "title_original": "Wolong Electric & AEAUTO enter mining truck diesel to electric conversion market",
@@ -235,6 +176,34 @@
       "reviewed": false
     },
     "subsector": null
+  },
+  {
+    "id": "ef72713d42c3dd38",
+    "status": "candidate",
+    "title_original": "Sweden-based Nordic Quick Systems to join the Can-Am family",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/10/18/sweden-based-nordic-quick-systems-to-join-the-can-am-family/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-10-18T15:24:15.000Z",
+    "discovered_at": "2026-10-18T17:57:51.622Z",
+    "sector": "madencilik",
+    "subsector": null,
+    "technologies": [
+      "yuruyus-guc-aktarma"
+    ],
+    "relevance_score": 155,
+    "editorial_fit_score": 37,
+    "summary_source": "Can-Am Chains has acquired Nordic Quick Systems AB (NQS), a Sweden-based company specialising in sprocket systems and related solutions for industrial applications, such as mining. The acquisition brings together two complementary businesses with a shared focus on engineered solutions, customer service and long-term relationships, Can-Am Chains says. NQS’s quick-change sprocket technology complements Can-Am’s established portfolio The post Sweden-based Nordic Quick Systems to join the Can-Am family appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
   },
   {
     "id": "0918791c0b3a7e1d",
@@ -633,32 +602,6 @@
     "relevance_score": 116,
     "editorial_fit_score": 55,
     "summary_source": "The Belgrade Metro will be delivered in three phases. The post TBM due to arrive for Belgrade Metro appeared first on Tunnels and Tunnelling.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    },
-    "subsector": null
-  },
-  {
-    "id": "d3b74e45e9b7896f",
-    "status": "candidate",
-    "title_original": "Hong Kong East Drainage Tunnel consortium appointed",
-    "source_name": "Tunnels & Tunnelling",
-    "source_url": "https://www.tunnelsandtunnelling.com/news/hong-kong-east-drainage-tunnel-consortium-appointed/",
-    "source_feed": "https://www.tunnelsandtunnelling.com/feed/",
-    "published_at": "2026-10-14T09:20:47.000Z",
-    "discovered_at": "2026-10-14T09:51:06.525Z",
-    "sector": "is-makinalari",
-    "technologies": [],
-    "relevance_score": 116,
-    "editorial_fit_score": 55,
-    "summary_source": "Hong Kong East Drainage Tunnel consortium appointed The 3.6km tunnel will be constructed by TBM, drill-and-blast and pipe jacking. The post Hong Kong East Drainage Tunnel consortium appointed appeared first on Tunnels and Tunnelling.",
     "editorial": {
       "title_tr": "",
       "dek_tr": "",
