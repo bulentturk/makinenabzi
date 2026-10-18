@@ -151,7 +151,7 @@
   },
   {
     "id": "0152a9ce3fabe6a8",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Wolong Electric & AEAUTO enter mining truck diesel to electric conversion market",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/10/15/wolong-electric-aeauto-enter-mining-truck-diesel-to-electric-conversion-market/",
@@ -166,14 +166,40 @@
     "editorial_fit_score": 67,
     "summary_source": "There is already a booming market in diesel to electric mining truck conversion in China – while IM has previously detailed the work being carried out by companies like HATL (Fujian Hongda Contemporary Amperex Technology Co Ltd) and Huigong Group via Xingdong Lithium Battery Technology Co Ltd (XDLE); but other companies are getting involved in The post Wolong Electric & AEAUTO enter mining truck diesel to electric conversion market appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Wolong Electric ve AEAUTO maden kamyonlarında elektrik dönüşümüne giriyor",
+      "dek_tr": "International Mining, Wolong Electric ile AEAUTO’nun maden kamyonlarını dizelden elektriğe dönüştürme pazarına girdiğini bildiriyor. Dönüşümün kapsamı ve teknik çözüm ayrıntıları mevcut kaynak metninde bulunmuyor.",
+      "summary_tr": "International Mining’in başlık ve kısa özetine göre Wolong Electric ve AEAUTO, maden kamyonlarında dizel-elektrik dönüşümü pazarına giriyor. Yayın, Çin’de bu alanda başka şirketlerin de çalıştığını belirtiyor.\n\nEldeki kaynak metni, dönüşümün hangi kamyon modellerine uygulanacağına, batarya veya tahrik sistemine, performansa ya da sahadaki uygulamalara ilişkin teknik bilgi sunmuyor. Bu nedenle gelişme, teknik çözümün doğrulanmış özelliklerinden ziyade pazara yeni şirketlerin katılımı olarak ele alınabilir.",
+      "why_it_matters_tr": "Mevcut maden kamyonlarının elektrikli tahrike dönüştürülmesi, filoların yeni araç alımı yerine mevcut ekipman üzerinden elektrifikasyon seçeneklerini değerlendirmesine olanak sağlayabilir. Ancak bu yaklaşımın uygulama ve işletme açısından etkisi, dönüşüm mimarisi ve saha verileri açıklanmadan ölçülemiyor.",
+      "seo_title": "Wolong ve AEAUTO maden kamyonlarını elektriğe dönüştürecek",
+      "meta_description": "Wolong Electric ve AEAUTO, maden kamyonlarında dizel-elektrik dönüşümü pazarına giriyor. Mevcut kaynakta teknik çözüm ve saha verileri açıklanmıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "International Mining, Wolong Electric ve AEAUTO’nun maden kamyonlarını dizelden elektriğe dönüştürme pazarına girdiğini bildiriyor.",
+        "Yayın, Çin’de başka şirketlerin de maden kamyonu dönüşüm çalışmaları yürüttüğünü belirtiyor."
+      ],
+      "suggested_tags": [
+        "maden kamyonu",
+        "elektrifikasyon",
+        "Wolong Electric",
+        "AEAUTO"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "International Mining başlığı Wolong Electric ve AEAUTO’nun maden kamyonlarında dizel-elektrik dönüşümü pazarına girişini bildiriyor.",
+        "Kısa özet, Çin’de başka şirketlerin de dönüşüm faaliyetleri bulunduğunu söylüyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası HTTP 403 nedeniyle alınamamış; teknik bilgiler yalnızca kısa özetten ibarettir.",
+        "Dönüşümün araç kapsamı, batarya sistemi, tahrik mimarisi ve saha uygulaması için birincil şirket kaynaklarıyla doğrulama gerekir.",
+        "Çin’deki pazarın büyüklüğüne ilişkin ifade kaynak yayının değerlendirmesidir; bağımsız pazar verisi sunulmamıştır."
+      ],
+      "generated_at": "2026-10-18T17:58:53.611Z",
+      "generated_by": "github-models"
     },
     "subsector": null
   },
@@ -482,7 +508,7 @@
   },
   {
     "id": "9b56abaf537b5d50",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Oshkosh S-Series Introduces New Axle Configurations",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/oshkosh-sseries-introduces-new-axle-configurations/72517",
@@ -497,14 +523,39 @@
     "editorial_fit_score": 77,
     "summary_source": "OshKosh introduces new S-Series Federal Bridge High-Lift Tag Axle configurations for front discharge concrete mixers....",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Oshkosh S-Series beton mikserlerine yeni aks seçenekleri",
+      "dek_tr": "Oshkosh, önden boşaltmalı beton mikserleri için S-Series Federal Bridge High-Lift Tag Axle konfigürasyonlarını duyurdu. Kaynakta aksların teknik özellikleri ve uygulama sınırları yer almıyor.",
+      "summary_tr": "Construction Equipment Guide’ın başlık ve kısa özetine göre Oshkosh, S-Series önden boşaltmalı beton mikserleri için yeni Federal Bridge High-Lift Tag Axle konfigürasyonları sunuyor.\n\nKaynak içeriği aksların taşıma kapasitesi, dingil yükleri, uyumluluk veya çalışma performansı hakkında ayrıntı vermiyor. Bu nedenle konfigürasyonların teknik farkını ve hangi araçlara uygulanacağını doğrulamak için üretici bilgisi gerekiyor.",
+      "why_it_matters_tr": "Aks konfigürasyonları, beton mikserlerinin yük dağılımı ve yol kullanım koşullarıyla ilgili seçimleri etkileyebilir. Ancak bu duyurudaki seçeneklerin operatör veya filo açısından sağlayacağı somut fark, teknik veriler olmadan değerlendirilemiyor.",
+      "seo_title": "Oshkosh S-Series için yeni aks konfigürasyonları",
+      "meta_description": "Oshkosh, S-Series önden boşaltmalı beton mikserleri için yeni High-Lift Tag Axle seçeneklerini duyurdu. Teknik ayrıntılar kaynakta paylaşılmıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Yeni konfigürasyonlar Oshkosh S-Series önden boşaltmalı beton mikserleri için duyurulmuş.",
+        "Konfigürasyon adı Federal Bridge High-Lift Tag Axle."
+      ],
+      "suggested_tags": [
+        "Oshkosh",
+        "beton mikseri",
+        "aks",
+        "güç aktarma"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "yuruyus-guc-aktarma"
+      ],
+      "source_facts_used": [
+        "Construction Equipment Guide başlığı ve kısa özetinde S-Series için yeni aks konfigürasyonlarının tanıtıldığı belirtiliyor.",
+        "Kısa özet, uygulamayı önden boşaltmalı beton mikserleriyle ilişkilendiriyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası HTTP 403 nedeniyle alınamamış; eldeki metin yalnızca başlık ve kısa özettir.",
+        "Aksın teknik özellikleri, araç uyumluluğu ve konfigürasyonların kullanım koşulları için birincil üretici kaynağı doğrulaması gerekir."
+      ],
+      "generated_at": "2026-10-18T17:58:53.611Z",
+      "generated_by": "github-models"
     },
     "subsector": null
   },
@@ -536,7 +587,7 @@
   },
   {
     "id": "4e2c5c42bead9f6b",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Siloking Selfline 4.0 Compact 1612-13 with DryScan: Knowing more",
     "source_name": "profi",
     "source_url": "https://www.profi.co.uk/test-centre/siloking-selfline-4-0-compact-1612-13-with-dryscan-knowing-more/",
@@ -551,14 +602,42 @@
     "editorial_fit_score": 67,
     "summary_source": "PRACTICAL TEST: Siloking was using NIRS 10 years ago, so what makes it different this time round? Our test shows why the sensor tech can do more than just measure dry matter. The post Siloking Selfline 4.0 Compact 1612-13 with DryScan: Knowing more appeared first on Profi.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Siloking Selfline 4.0 Compact 1612-13: DryScan kuru madde ölçümünün ötesinde",
+      "dek_tr": "profi, Siloking Selfline 4.0 Compact 1612-13 üzerindeki DryScan sensörünü pratik testinde inceliyor. Sağlanan metin, sensörün kuru madde ölçümü dışındaki işlevlerini açıklamıyor.",
+      "summary_tr": "profi’nin başlığı ve açıklaması, Siloking Selfline 4.0 Compact 1612-13 yem karma makinesindeki DryScan sensörüne yönelik bir pratik testi konu alıyor. Yayın, NIRS teknolojisinin kuru madde ölçümünün ötesinde ne yapabildiğini sorguluyor.\n\nAncak sağlanan kaynak metni, testin bulgularını veya DryScan’in ölçtüğü diğer parametreleri içermiyor; bu bölüm gübre dağıtıcılarına yönelik modifikasyon önerilerinden söz ediyor. Bu nedenle sensörün işlevleri ve performansı hakkında daha ileri teknik sonuç çıkarmak mümkün değil.",
+      "why_it_matters_tr": "Yem karma sürecinde sensör verileri, karışım ve besleme kararlarına katkı sağlayabilir. DryScan’in hangi ölçümleri hangi koşullarda yaptığı açıklanırsa, teknolojinin tarım makinesi operatörleri ve işletmeler için pratik değeri daha net değerlendirilebilir.",
+      "seo_title": "Siloking Selfline 4.0 Compact ve DryScan sensör testi",
+      "meta_description": "profi, Siloking Selfline 4.0 Compact 1612-13 üzerindeki DryScan NIRS sensörünü inceliyor; sağlanan metinde test bulguları yer almıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Başlık, Siloking Selfline 4.0 Compact 1612-13 modelini DryScan ile birlikte anıyor.",
+        "profi açıklaması, NIRS sensörünün kuru madde ölçümünden daha fazlasını yapıp yapmadığını konu ediyor.",
+        "Sağlanan kaynak metni gübre dağıtıcılarıyla ilgili olup test sonuçlarını içermiyor."
+      ],
+      "suggested_tags": [
+        "Siloking",
+        "Selfline 4.0 Compact",
+        "DryScan",
+        "NIRS",
+        "tarım makineleri"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektronik-telematik"
+      ],
+      "source_facts_used": [
+        "profi başlığı, Siloking Selfline 4.0 Compact 1612-13 ile DryScan’i ilişkilendiriyor.",
+        "Sayfa açıklaması, NIRS sensörünün kuru madde ölçümü dışındaki yeteneklerini sorgulayan bir pratik test olduğunu belirtiyor.",
+        "Sağlanan kaynak metninde gübre dağıtıcı modifikasyonlarından söz ediliyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak metni, başlık ve açıklamayla uyuşmuyor; test bulguları ve DryScan’in teknik işlevleri doğrulanamıyor.",
+        "Sensörün ölçüm parametreleri, doğruluğu ve gerçek çalışma koşullarındaki performansı için orijinal test içeriği veya üretici teknik kaynağı gerekir."
+      ],
+      "generated_at": "2026-10-18T17:58:53.611Z",
+      "generated_by": "github-models"
     },
     "subsector": null
   },
