@@ -238,7 +238,7 @@
   },
   {
     "id": "0918791c0b3a7e1d",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Tadano Unveils New AC 3.060-2 All-Terrain Mobile Crane for Tight Spaces",
     "source_name": "Equipment World",
     "source_url": "https://www.equipmentworld.com/aeriallifting-equipment/cranes/article/15837525/tadano-unveils-3axle-mobile-allterrain-ac-30602-crane-for-us",
@@ -260,7 +260,7 @@
       "seo_title": "Tadano AC 3.060-2 üç akslı mobil vinç tanıtıldı",
       "meta_description": "Tadano AC 3.060-2, ABD pazarı için sunulan üç akslı arazi tipi mobil vinç. Ana bomu 164 ft, uzatma seçenekleri 52,5 ft’ye kadar.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "AC 3.060-2, ABD pazarı için tanıtılan üç akslı arazi tipi mobil vinç olarak aktarılıyor.",
         "Kaynakta ana bom uzunluğu 164 ft olarak veriliyor.",
@@ -285,7 +285,9 @@
         "Ölçüler kaynakta feet cinsinden verildi; kaldırma kapasitesi, çalışma konfigürasyonu, teknik özellikler ve bölgesel bulunabilirlik doğrulanamıyor."
       ],
       "generated_at": "2026-10-18T17:09:48.212Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-18T17:22:47.814Z",
+      "review_result": "published"
     },
     "subsector": null
   },
