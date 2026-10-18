@@ -371,7 +371,7 @@
   },
   {
     "id": "f53d4390760cc62a",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Castoldi waterjets power fully electric Ravenna Futura",
     "source_name": "Marine Industry News",
     "source_url": "https://marineindustrynews.co.uk/castoldi-waterjets-power-fully-electric-ravenna-futura/",
@@ -393,7 +393,7 @@
       "seo_title": "Ravenna Futura’da elektrikli Castoldi su jeti tahriki",
       "meta_description": "Ravenna Futura iş teknesi, iki Castoldi TD 284 EVT su jeti, elektrik motorları, akü paketleri ve fotovoltaik panellerle çalışıyor.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Ravenna Futura, Ravenna Limanı’nda çalışmak üzere inşa edilmiş 15 metrelik elektrikli bir iş teknesi olarak tanıtıldı.",
         "Teknede lityum ve kurşun akü paketleri ile fotovoltaik paneller bulunuyor.",
@@ -425,7 +425,9 @@
         "Dar alanlardaki manevra ve itki tepkisine ilişkin değerlendirmeler üretici beyanıdır; bağımsız test sonucu olarak doğrulanmamıştır."
       ],
       "generated_at": "2026-10-18T17:09:48.212Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-18T17:19:05.900Z",
+      "review_result": "published"
     },
     "subsector": null
   },
