@@ -1,0 +1,145 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { sectors } from '../../data/platform';
+import { categories, demoListings } from '../../data/market-demo';
+import '../../styles/market.css';
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const href = (path: string) => base + path;
+const sectorNames = Object.fromEntries(sectors.map((sector) => [sector.slug, sector.title]));
+---
+<BaseLayout
+  title="Makine Pazarı — Pilot"
+  description="İş makinaları, madencilik, liman, tarım, GSE ve marine sektörlerinde satılık ve kiralık makine ilanları için pilot tasarım."
+  noindex={true}
+>
+  <section class="market-hero">
+    <div class="container market-hero-grid">
+      <div>
+        <span class="eyebrow">Makine Nabzı / Pilot</span>
+        <h1>Makine Pazarı<span>.</span></h1>
+        <p>Satılık ve kiralık ekipmanı sektörüne, kullanımına ve bulunduğu yere göre keşfedin. Bu ekranlar tasarım denemesidir; aşağıdaki ilanlar gerçek teklif değildir.</p>
+        <div class="market-hero-actions">
+          <a class="button primary" href="#ilanlar">Örnek ilanlara bak</a>
+          <a class="button ghost" href={href('/ilanlar/yeni/')}>İlan verme ekranı →</a>
+        </div>
+      </div>
+      <div class="market-hero-stat" aria-label="Pilot kapsamı">
+        <span>PİLOT KAPSAMI</span>
+        <strong>08</strong><small>sektör</small>
+        <strong>10</strong><small>temsili ilan</small>
+        <p>Satılık · Kiralık · Motor ve güç aktarma</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section market-section" id="ilanlar">
+    <div class="container">
+      <div class="market-section-head">
+        <div>
+          <span class="eyebrow">Ekipmanı bul</span>
+          <h2>İhtiyacına göre daralt.</h2>
+          <p>Bir makine birden fazla sektörde yer alabilir. Filtreleri birlikte kullanabilirsin.</p>
+        </div>
+        <a class="market-post-link" href={href('/ilanlar/yeni/')}>+ İlan verme taslağı</a>
+      </div>
+
+      <div class="market-toolbar" aria-label="İlan filtreleri">
+        <fieldset class="market-offer-switch">
+          <legend>İlan türü</legend>
+          <label><input type="radio" name="offer" value="all" checked /><span>Tümü</span></label>
+          <label><input type="radio" name="offer" value="sale" /><span>Satılık</span></label>
+          <label><input type="radio" name="offer" value="rent" /><span>Kiralık</span></label>
+        </fieldset>
+        <label class="market-field"><span>Sektör</span>
+          <select id="market-sector">
+            <option value="">Tüm sektörler</option>
+            {sectors.map((sector) => <option value={sector.slug}>{sector.title}</option>)}
+          </select>
+        </label>
+        <label class="market-field"><span>Makine / parça türü</span>
+          <select id="market-category">
+            <option value="">Tüm türler</option>
+            {categories.map((category) => <option value={category}>{category}</option>)}
+          </select>
+        </label>
+        <label class="market-field market-search"><span>Ara</span>
+          <input id="market-search" type="search" placeholder="Makine, model veya şehir" autocomplete="off" />
+        </label>
+      </div>
+
+      <div class="market-result-line">
+        <p aria-live="polite"><strong id="market-count">{demoListings.length}</strong> örnek ilan gösteriliyor</p>
+        <button type="button" id="market-reset">Filtreleri temizle</button>
+      </div>
+
+      <div class="market-grid">
+        {demoListings.map((item) => (
+          <a class="market-card" href={href('/ilanlar/' + item.slug + '/')}
+            data-offer={item.offer} data-sectors={item.sectors.join(',')}
+            data-category={item.category}
+            data-search={(item.title + ' ' + item.brand + ' ' + item.model + ' ' + item.location).toLocaleLowerCase('tr-TR')}>
+            <div class="market-card-photo">
+              <img src={href(item.image)} alt="Temsili sektör görseli; ilandaki makinenin fotoğrafı değildir" loading="lazy" />
+              <span class="market-demo-badge">DEMO · Gerçek ilan değil</span>
+            </div>
+            <div class="market-card-body">
+              <div class="market-card-top"><span class="market-type">{item.offer === 'sale' ? 'Satılık' : 'Kiralık'}</span><span>{item.location}</span></div>
+              <h3>{item.title}</h3>
+              <p class="market-card-category">{item.category} · {sectorNames[item.sectors[0]]}</p>
+              <div class="market-card-specs"><span>{item.year}</span><span>{item.hours === null ? 'Saat belirtilmedi' : item.hours.toLocaleString('tr-TR') + ' saat'}</span><span>{item.condition}</span></div>
+              <div class="market-card-foot"><strong>{item.price}</strong><span>İncele →</span></div>
+            </div>
+          </a>
+        ))}
+      </div>
+      <div class="market-empty" id="market-empty" hidden>
+        <h3>Bu seçimde örnek ilan yok.</h3>
+        <p>Diğer sektör veya ilan türlerine bakabilirsin. Gerçek ilanlar açıldığında bu alan güncellenecek.</p>
+      </div>
+      <p class="market-disclaimer">Bu pilotta marka, model, fiyat, şehir ve teknik değerler yalnızca ekran tasarımını göstermek için oluşturulmuştur. Satış veya kiralama teklifi değildir.</p>
+    </div>
+  </section>
+
+  <script is:inline>
+    const sector = document.querySelector('#market-sector');
+    const category = document.querySelector('#market-category');
+    const search = document.querySelector('#market-search');
+    const cards = [...document.querySelectorAll('.market-card')];
+    const count = document.querySelector('#market-count');
+    const empty = document.querySelector('#market-empty');
+    const offer = () => document.querySelector('input[name="offer"]:checked')?.value || 'all';
+    const params = new URLSearchParams(location.search);
+    if ([...sector.options].some(option => option.value === params.get('sektor'))) sector.value = params.get('sektor') || '';
+    if ([...category.options].some(option => option.value === params.get('tur'))) category.value = params.get('tur') || '';
+    const requestedOffer = params.get('ilan');
+    if (['sale', 'rent'].includes(requestedOffer)) document.querySelector('input[name="offer"][value="' + requestedOffer + '"]').checked = true;
+    function apply() {
+      const needle = search.value.trim().toLocaleLowerCase('tr-TR');
+      let visible = 0;
+      cards.forEach(card => {
+        const match = (offer() === 'all' || card.dataset.offer === offer())
+          && (!sector.value || card.dataset.sectors.split(',').includes(sector.value))
+          && (!category.value || card.dataset.category === category.value)
+          && (!needle || card.dataset.search.includes(needle));
+        card.hidden = !match;
+        if (match) visible++;
+      });
+      count.textContent = String(visible);
+      empty.hidden = visible !== 0;
+      const url = new URL(location.href);
+      for (const [key, value] of [['sektor', sector.value], ['tur', category.value], ['ilan', offer() === 'all' ? '' : offer()]]) {
+        if (value) url.searchParams.set(key, value); else url.searchParams.delete(key);
+      }
+      history.replaceState(null, '', url);
+    }
+    document.querySelectorAll('input[name="offer"]').forEach(input => input.addEventListener('change', apply));
+    [sector, category, search].forEach(input => input.addEventListener('input', apply));
+    document.querySelector('#market-reset').addEventListener('click', () => {
+      sector.value = ''; category.value = ''; search.value = '';
+      document.querySelector('input[name="offer"][value="all"]').checked = true;
+      apply();
+    });
+    apply();
+  </script>
+</BaseLayout>
