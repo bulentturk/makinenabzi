@@ -12,6 +12,8 @@ import { defineConfig } from "vite";
  * derlemesinde yeri yok.
  */
 export default defineConfig({
+  // Alt yol yayını: GitHub Pages'te /app/ altında çalışsın diye.
+  base: process.env.VITE_APP_BASE || "/",
   plugins: [react(), tailwindcss()],
   resolve: {
     alias: {

@@ -40,6 +40,20 @@ jobs:
           fi
       - name: Build
         run: npm run build
+      - name: Build member app under /app/
+        env:
+          VITE_APP_BASE: /app/
+        run: |
+          cd app
+          npm ci
+          npm run build
+          mkdir -p ../dist/app
+          cp -r dist/. ../dist/app/
+          # Statik sunucuda SPA yolları için hazır giriş noktaları
+          for route in auth dashboard; do
+            mkdir -p "../dist/app/$route"
+            cp dist/index.html "../dist/app/$route/index.html"
+          done
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact

@@ -93,15 +93,21 @@ class RootErrorBoundary extends React.Component<
   }
 }
 
-const convexUrl = import.meta.env.VITE_CONVEX_URL as string | undefined;
+// Convex dağıtım adresi gizli değil; derlemede ortam değişkeni yoksa bu
+// varsayılan kullanılır (GitHub Pages derlemesi anahtar gerektirmesin).
+const convexUrl =
+  (import.meta.env.VITE_CONVEX_URL as string | undefined) ??
+  "https://flexible-ibex-197.eu-west-1.convex.cloud";
 const convex = convexUrl ? new ConvexReactClient(convexUrl) : null;
+// /app/ alt yolunda çalışırken yönlendirme kökü de o path olmalı.
+const routerBase = import.meta.env.BASE_URL.replace(/\/$/, "") || undefined;
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
     <RootErrorBoundary>
       {convex ? (
         <ConvexAuthProvider client={convex}>
-          <BrowserRouter>
+            <BrowserRouter basename={routerBase}>
             <Suspense fallback={<RouteLoading />}>
               <Routes>
                 {/* Native Android'de tanıtım sayfası atlanır: açılışta doğrudan

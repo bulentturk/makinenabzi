@@ -16,4 +16,15 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       <a class="button ghost glass" href="/fuar-takvimi/">Fuar takvimi</a>
     </div>
   </div></section>
+
+  <script is:inline>
+    // Uygulama /app/ altında yaşıyor. Statik sunucuda /app/auth gibi yollar
+    // 404'e düşerse sonuna slash ekleyerek hazır index.html'e çevir.
+    if (location.pathname.startsWith('/app/')) {
+      const rest = location.pathname.slice(5);
+      if (rest && !rest.endsWith('/')) {
+        location.replace('/app/' + rest + '/' + location.search + location.hash);
+      }
+    }
+  </script>
 </BaseLayout>
