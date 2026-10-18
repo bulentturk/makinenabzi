@@ -151,7 +151,7 @@
   },
   {
     "id": "0152a9ce3fabe6a8",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Wolong Electric & AEAUTO enter mining truck diesel to electric conversion market",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/10/15/wolong-electric-aeauto-enter-mining-truck-diesel-to-electric-conversion-market/",
@@ -173,7 +173,7 @@
       "seo_title": "Wolong ve AEAUTO maden kamyonlarını elektriğe dönüştürecek",
       "meta_description": "Wolong Electric ve AEAUTO, maden kamyonlarında dizel-elektrik dönüşümü pazarına giriyor. Mevcut kaynakta teknik çözüm ve saha verileri açıklanmıyor.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "International Mining, Wolong Electric ve AEAUTO’nun maden kamyonlarını dizelden elektriğe dönüştürme pazarına girdiğini bildiriyor.",
         "Yayın, Çin’de başka şirketlerin de maden kamyonu dönüşüm çalışmaları yürüttüğünü belirtiyor."
@@ -199,7 +199,9 @@
         "Çin’deki pazarın büyüklüğüne ilişkin ifade kaynak yayının değerlendirmesidir; bağımsız pazar verisi sunulmamıştır."
       ],
       "generated_at": "2026-10-18T17:58:53.611Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-18T19:22:02.934Z",
+      "review_result": "published"
     },
     "subsector": null
   },

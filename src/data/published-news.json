@@ -1,5 +1,35 @@
 [
   {
+    "id": "0152a9ce3fabe6a8",
+    "slug": "wolong-electric-ve-aeauto-maden-kamyonlarinda-elektrik-donusumune-giriyor",
+    "title": "Wolong Electric ve AEAUTO maden kamyonlarında elektrik dönüşümüne giriyor",
+    "dek": "International Mining, Wolong Electric ile AEAUTO’nun maden kamyonlarını dizelden elektriğe dönüştürme pazarına girdiğini bildiriyor. Dönüşümün kapsamı ve teknik çözüm ayrıntıları mevcut kaynak metninde bulunmuyor.",
+    "summary": "International Mining’in başlık ve kısa özetine göre Wolong Electric ve AEAUTO, maden kamyonlarında dizel-elektrik dönüşümü pazarına giriyor. Yayın, Çin’de bu alanda başka şirketlerin de çalıştığını belirtiyor.\n\nEldeki kaynak metni, dönüşümün hangi kamyon modellerine uygulanacağına, batarya veya tahrik sistemine, performansa ya da sahadaki uygulamalara ilişkin teknik bilgi sunmuyor. Bu nedenle gelişme, teknik çözümün doğrulanmış özelliklerinden ziyade pazara yeni şirketlerin katılımı olarak ele alınabilir.",
+    "why_it_matters": "Mevcut maden kamyonlarının elektrikli tahrike dönüştürülmesi, filoların yeni araç alımı yerine mevcut ekipman üzerinden elektrifikasyon seçeneklerini değerlendirmesine olanak sağlayabilir. Ancak bu yaklaşımın uygulama ve işletme açısından etkisi, dönüşüm mimarisi ve saha verileri açıklanmadan ölçülemiyor.",
+    "key_facts": [
+      "International Mining, Wolong Electric ve AEAUTO’nun maden kamyonlarını dizelden elektriğe dönüştürme pazarına girdiğini bildiriyor.",
+      "Yayın, Çin’de başka şirketlerin de maden kamyonu dönüşüm çalışmaları yürüttüğünü belirtiyor."
+    ],
+    "format": "haber",
+    "sector": "madencilik",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "tags": [
+      "maden kamyonu",
+      "elektrifikasyon",
+      "Wolong Electric",
+      "AEAUTO"
+    ],
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/10/15/wolong-electric-aeauto-enter-mining-truck-diesel-to-electric-conversion-market/",
+    "source_published_at": "2026-10-15T16:14:39.000Z",
+    "site_published_at": "2026-10-18T19:22:02.932Z",
+    "hero_image": "",
+    "publish_mode": "approved"
+  },
+  {
     "id": "9b56abaf537b5d50",
     "slug": "oshkosh-s-series-beton-mikserlerine-yeni-aks-secenekleri",
     "title": "Oshkosh S-Series beton mikserlerine yeni aks seçenekleri",
