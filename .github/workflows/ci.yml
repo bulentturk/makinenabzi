@@ -23,6 +23,9 @@ jobs:
       - run: node --check scripts/prepare-editorial-input.mjs
       - run: node --check scripts/apply-editorial-response.mjs
       - run: node --check scripts/prepare-review-pr.mjs
+      - run: node --check scripts/publish-news.mjs
+      - run: node --check scripts/auto-publish.mjs
+      - run: node --check scripts/finalize-review.mjs
       - run: node --check scripts/mark-review-state.mjs
       - run: node --check scripts/retry-main-write.mjs
       - run: npm test

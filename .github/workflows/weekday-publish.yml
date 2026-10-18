@@ -1,0 +1,46 @@
+name: Weekday Auto Publish
+
+on:
+  schedule:
+    # 09:17 in Türkiye, Monday through Friday.
+    - cron: '17 6 * * 1-5'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: read
+  actions: write
+
+concurrency:
+  group: weekday-auto-publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout current main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Exclude open approval PR articles
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          IDS=$(gh pr list --state open --limit 100 --json headRefName --jq '[.[].headRefName | select(startswith("editorial-auto-")) | ltrimstr("editorial-auto-")] | join(",")')
+          echo "AUTO_EXCLUDED_IDS=$IDS" >> "$GITHUB_ENV"
+
+      - name: Publish at most one eligible weekday article
+        run: node scripts/retry-main-write.mjs auto
+
+      - name: Deploy current news feed
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy.yml --ref main

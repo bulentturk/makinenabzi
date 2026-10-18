@@ -21,16 +21,22 @@ const options = {
     author: 'makinenabzi-editor-agent'
   },
   review: {
-    command: ['node','scripts/mark-review-state.mjs',id,state],
-    files: ['agent/drafts/news-candidates.json'],
+    command: ['node','scripts/finalize-review.mjs',id,state],
+    files: ['agent/drafts/news-candidates.json','src/data/published-news.json'],
     message: 'agent: record editorial review result',
+    author: 'makinenabzi-editorial-agent'
+  },
+  auto: {
+    command: ['node','scripts/auto-publish.mjs'],
+    files: ['agent/drafts/news-candidates.json','src/data/published-news.json'],
+    message: 'agent: publish weekday news',
     author: 'makinenabzi-editorial-agent'
   }
 };
 
 const job = options[mode];
 if (!job || (mode === 'review' && (!id || !['published','rejected'].includes(state)))) {
-  throw new Error('Usage: node scripts/retry-main-write.mjs <news|official|editor|review> [id] [published|rejected]');
+  throw new Error('Usage: node scripts/retry-main-write.mjs <news|official|editor|review|auto> [id] [published|rejected]');
 }
 
 function run(command, args) {

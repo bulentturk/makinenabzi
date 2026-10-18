@@ -26,13 +26,15 @@ test('review write preserves an approval committed while its runner was stale', 
     command(writer,'git',['config','user.email','test@example.invalid']);
     await fs.mkdir(path.join(writer,'scripts'));
     await fs.mkdir(path.join(writer,'agent','drafts'),{recursive:true});
-    await Promise.all(['retry-main-write.mjs','mark-review-state.mjs'].map(name => fs.copyFile(path.join(scripts,name),path.join(writer,'scripts',name))));
+    await fs.mkdir(path.join(writer,'src','data'),{recursive:true});
+    await Promise.all(['retry-main-write.mjs','finalize-review.mjs'].map(name => fs.copyFile(path.join(scripts,name),path.join(writer,'scripts',name))));
     const candidates=[
-      {id:'first',status:'drafted',editorial:{}},
-      {id:'second',status:'drafted',editorial:{}}
+      {id:'aaaaaaaaaaaaaaaa',status:'drafted',editorial:{}},
+      {id:'bbbbbbbbbbbbbbbb',status:'drafted',editorial:{}}
     ];
     const file='agent/drafts/news-candidates.json';
     await fs.writeFile(path.join(writer,file),JSON.stringify(candidates));
+    await fs.writeFile(path.join(writer,'src/data/published-news.json'),'[]');
     command(writer,'git',['add','.']);
     command(writer,'git',['commit','-m','initial']);
     command(writer,'git',['push','origin','HEAD:main']);
@@ -46,11 +48,11 @@ test('review write preserves an approval committed while its runner was stale', 
     command(other,'git',['commit','-m','parallel approval']);
     command(other,'git',['push','origin','HEAD:main']);
 
-    command(writer,process.execPath,['scripts/retry-main-write.mjs','review','second','rejected']);
+    command(writer,process.execPath,['scripts/retry-main-write.mjs','review','bbbbbbbbbbbbbbbb','rejected']);
     command(other,'git',['pull','--ff-only']);
     const result=JSON.parse(await fs.readFile(path.join(other,file),'utf8'));
-    assert.equal(result.find(item=>item.id==='first').status,'published');
-    assert.equal(result.find(item=>item.id==='second').status,'rejected');
+    assert.equal(result.find(item=>item.id==='aaaaaaaaaaaaaaaa').status,'published');
+    assert.equal(result.find(item=>item.id==='bbbbbbbbbbbbbbbb').status,'rejected');
   } finally {
     await fs.rm(dir,{recursive:true,force:true});
   }

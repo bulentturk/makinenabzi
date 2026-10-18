@@ -1,36 +1,18 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { pathToFileURL } from 'node:url';
-import { hasMobileContext, hasSectorEquipmentContext } from './news-context.mjs';
+import { selectDraft, toPublished } from './publish-news.mjs';
 
 const CANDIDATES = process.env.REVIEW_CANDIDATES_FILE || new URL('../agent/drafts/news-candidates.json', import.meta.url);
 const PUBLISHED = process.env.REVIEW_PUBLISHED_FILE || new URL('../src/data/published-news.json', import.meta.url);
 const SOURCES = process.env.REVIEW_SOURCES_FILE || new URL('../agent/sources.json', import.meta.url);
 const TMP = process.env.REVIEW_TMP_DIR ? pathToFileURL(path.resolve(process.env.REVIEW_TMP_DIR) + path.sep) : new URL('../.tmp/', import.meta.url);
 
-function slugify(input='') {
-  const map = { 'ç':'c','Ç':'c','ğ':'g','Ğ':'g','ı':'i','İ':'i','ö':'o','Ö':'o','ş':'s','Ş':'s','ü':'u','Ü':'u' };
-  return input.split('').map(ch => map[ch] ?? ch).join('')
-    .toLowerCase()
-    .normalize('NFKD').replace(/[\u0300-\u036f]/g,'')
-    .replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'').slice(0,90);
-}
-
 const candidates = JSON.parse(await fs.readFile(CANDIDATES,'utf8'));
 const published = JSON.parse(await fs.readFile(PUBLISHED,'utf8'));
 const sources = JSON.parse(await fs.readFile(SOURCES,'utf8'));
-const sourceByName = new Map(sources.map(source => [source.name,source]));
-const publishedIds = new Set(published.map(x => x.id));
-
-const selected = candidates
-  .filter(x => x.status === 'drafted' && x.editorial?.title_tr && !publishedIds.has(x.id))
-  .filter(x => {
-    const source = sourceByName.get(x.source_name);
-    const text = `${x.title_original} ${x.summary_source}`;
-    return (!source?.require_mobile_context || hasMobileContext(text))
-      && (!source?.require_equipment_context || hasSectorEquipmentContext(text,source.require_equipment_context));
-  })
-  .sort((a,b) => (b.editorial_fit_score - a.editorial_fit_score) || (b.relevance_score - a.relevance_score))[0];
+const excluded = (process.env.REVIEW_EXCLUDED_IDS || '').split(',').filter(Boolean);
+const selected = selectDraft(candidates, published, sources, excluded);
 
 await fs.mkdir(TMP,{recursive:true});
 
@@ -41,34 +23,13 @@ if (!selected) {
 }
 
 const e = selected.editorial;
-const slug = slugify(e.title_tr);
 const branch = 'editorial-auto-' + selected.id;
-const item = {
-  id: selected.id,
-  slug,
-  title: e.title_tr,
-  dek: e.dek_tr || '',
-  summary: e.summary_tr || '',
-  why_it_matters: e.why_it_matters_tr || '',
-  key_facts: Array.isArray(e.key_facts) ? e.key_facts : [],
-  format: e.editorial_format === 'gorus-analiz' ? 'gorus-analiz' : 'haber',
-  sector: e.suggested_sector || selected.sector,
-  subsector: selected.subsector || null,
-  technologies: Array.isArray(e.suggested_technologies) && e.suggested_technologies.length ? e.suggested_technologies : selected.technologies,
-  tags: Array.isArray(e.suggested_tags) ? e.suggested_tags : [],
-  source_name: selected.source_name,
-  source_url: selected.source_url,
-  source_published_at: selected.published_at,
-  site_published_at: new Date().toISOString(),
-  hero_image: e.hero_image || ''
-};
-
-const next = [item, ...published];
+const item = toPublished(selected);
 const body = [
   'Bu PR Makine Nabzı editoryal ajanı tarafından otomatik hazırlanmıştır.',
   '',
   '## Onay',
-  '- **Merge** → haber yayınlanır.',
+  '- **Merge** → haber otomatik olarak siteye aktarılır.',
   '- **Close** → haber reddedilir ve sıradaki haber hazırlanır.',
   '- PR yorumu → revizyon isteği.',
   '',
@@ -102,8 +63,8 @@ const body = [
 await fs.writeFile(new URL('review-count.txt',TMP),'1');
 await fs.writeFile(new URL('review-branch.txt',TMP),branch);
 await fs.writeFile(new URL('review-id.txt',TMP),selected.id);
-await fs.writeFile(new URL('review-news.json',TMP),JSON.stringify(next,null,2)+'\n');
+await fs.writeFile(new URL('review-news.json',TMP),JSON.stringify(item,null,2)+'\n');
 await fs.writeFile(new URL('review-pr-title.txt',TMP),'Yayın Onayı: ' + item.title);
 await fs.writeFile(new URL('review-pr-body.md',TMP),body+'\n');
 
-console.log(JSON.stringify({selected:1,id:selected.id,title:item.title,branch,slug},null,2));
+console.log(JSON.stringify({selected:1,id:selected.id,title:item.title,branch,slug:item.slug},null,2));
