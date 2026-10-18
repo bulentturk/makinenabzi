@@ -17,7 +17,6 @@ import { initNativeShell, isNative } from "@/lib/capacitor";
 
 initNativeShell();
 
-const Landing = lazy(() => import("./pages/Landing.tsx"));
 const AuthPage = lazy(() => import("./pages/Auth.tsx"));
 const Dashboard = lazy(() => import("./pages/Dashboard.tsx"));
 const NotFound = lazy(() => import("./pages/NotFound.tsx"));
@@ -110,14 +109,9 @@ createRoot(document.getElementById("root")!).render(
             <BrowserRouter basename={routerBase}>
             <Suspense fallback={<RouteLoading />}>
               <Routes>
-                {/* Native Android'de tanıtım sayfası atlanır: açılışta doğrudan
-                    uygulama açılır. Web'de pazarlama sayfası olduğu gibi kalır. */}
-                <Route
-                  path="/"
-                  element={
-                    isNative() ? <Navigate to="/dashboard" replace /> : <Landing />
-                  }
-                />
+                {/* Üye alanı sitenin /app/ yolunda yaşıyor; ayrı bir tanıtım
+                    sayfasına gerek yok, kök doğrudan panele gider. */}
+                <Route path="/" element={<Navigate to="/dashboard" replace />} />
                 <Route
                   path="/auth"
                   element={<AuthPage redirectAfterAuth="/dashboard" />}
