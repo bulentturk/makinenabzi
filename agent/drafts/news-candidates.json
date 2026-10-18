@@ -93,7 +93,7 @@
   },
   {
     "id": "429ed57463198919",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Bradken SmartRoller™ enables safer & more efficient undercarriage operation",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/10/15/bradken-smartroller-enables-safer-more-efficient-undercarriage-operation/",
@@ -109,14 +109,41 @@
     "editorial_fit_score": 79,
     "summary_source": "Bradken, a global leader in mining wear parts solutions, has recently launched Bradken SmartRoller™ – a digital product which it says can improve excavator undercarriage performance significantly. It enables real-time, continuous remote monitoring of undercarriage roller temperature, leading to maximised productivity and reduced lifecycle costs. Temperature trends indicate wear progression and early alerts enable proactive The post Bradken SmartRoller™ enables safer & more efficient undercarriage operation appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Bradken SmartRoller, ekskavatör alt takım makaralarının sıcaklığını uzaktan izliyor",
+      "dek_tr": "International Mining’in aktardığına göre Bradken SmartRoller, ekskavatör alt takım makaralarının sıcaklığını sürekli ve uzaktan izleyerek aşınma eğilimleri için erken uyarı sağlamayı hedefliyor.",
+      "summary_tr": "Bradken’in yeni dijital ürünü SmartRoller, ekskavatör alt takım makaralarının sıcaklığını gerçek zamanlı ve sürekli olarak uzaktan izlemek üzere tanıtıldı.\n\nInternational Mining’in haberine göre sistem, sıcaklık eğilimlerini aşınmanın ilerleyişine işaret edebilecek bir gösterge olarak kullanıyor ve erken uyarılarla önleyici müdahaleyi desteklemeyi amaçlıyor. Haberde sensör tasarımı, ölçüm aralığı veya sahadaki performans sonuçları hakkında ayrıntı bulunmuyor.",
+      "why_it_matters_tr": "Alt takım aşınmasının izlenmesi, maden sahalarında planlı bakım ve ekipman kullanılabilirliği açısından önem taşıyabilir. Ancak sistemin bu sonuçlara katkısı, mevcut kaynakta bağımsız saha verileriyle gösterilmiyor.",
+      "seo_title": "Bradken SmartRoller ile ekskavatör alt takımı izleme",
+      "meta_description": "Bradken SmartRoller, ekskavatör alt takım makaralarının sıcaklığını uzaktan izleyerek aşınma eğilimleri için erken uyarı sağlamayı hedefliyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Bradken SmartRoller, ekskavatör alt takım makaralarının sıcaklığını uzaktan izlemek üzere tanıtıldı.",
+        "International Mining, sıcaklık eğilimleri ve erken uyarıların aşınma takibinde kullanılmasının hedeflendiğini aktarıyor."
+      ],
+      "suggested_tags": [
+        "Bradken",
+        "SmartRoller",
+        "ekskavatör",
+        "alt takım",
+        "kestirimci bakım"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektronik-telematik",
+        "yuruyus-guc-aktarma"
+      ],
+      "source_facts_used": [
+        "International Mining’in aktardığı SmartRoller tanıtımı ve ürünün sürekli uzaktan sıcaklık izleme işlevi",
+        "Haberde sıcaklık eğilimlerinin aşınma ilerleyişiyle, erken uyarıların ise önleyici müdahaleyle ilişkilendirilmesi"
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası alınamadı; mevcut haber özeti ürünün sensör ve iletişim mimarisi, ölçüm aralığı veya performans verilerini içermiyor.",
+        "Üreticinin birincil duyurusu ve bağımsız saha doğrulaması mevcut girdide yer almıyor; verimlilik, maliyet ve güvenlik etkileri doğrulanmış sonuç olarak sunulmamalı."
+      ],
+      "generated_at": "2026-10-18T17:09:48.212Z",
+      "generated_by": "github-models"
     },
     "subsector": null
   },
@@ -207,7 +234,7 @@
   },
   {
     "id": "0918791c0b3a7e1d",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Tadano Unveils New AC 3.060-2 All-Terrain Mobile Crane for Tight Spaces",
     "source_name": "Equipment World",
     "source_url": "https://www.equipmentworld.com/aeriallifting-equipment/cranes/article/15837525/tadano-unveils-3axle-mobile-allterrain-ac-30602-crane-for-us",
@@ -222,14 +249,39 @@
     "editorial_fit_score": 77,
     "summary_source": "The compact, three-axle model for the U.S. has a 164-foot main boom, with extensions up to 52.5 feet available.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Tadano AC 3.060-2: ABD pazarı için üç akslı arazi tipi mobil vinç",
+      "dek_tr": "Equipment World’ün kısa haberine göre kompakt AC 3.060-2, ABD pazarı için sunulan üç akslı bir arazi tipi mobil vinç. Ana bomu 164 ft; 52,5 ft’ye kadar uzatma seçenekleri bulunuyor.",
+      "summary_tr": "Equipment World, Tadano’nun AC 3.060-2 modelini ABD pazarı için geliştirilen kompakt, üç akslı arazi tipi mobil vinç olarak tanıtıyor.\n\nHaberde ana bom uzunluğu 164 ft, mevcut uzatma seçeneklerinin uzunluğu ise 52,5 ft’ye kadar olarak veriliyor. Kaynakta kaldırma kapasitesi, çalışma yarıçapı, şasi veya güç aktarma özellikleri açıklanmıyor.",
+      "why_it_matters_tr": "Üç akslı kompakt vinçler, erişimin ve saha alanının kısıtlı olduğu kaldırma işlerinde değerlendirilebilir. Ancak modelin bu tür sahalardaki kapasitesi veya operasyonel avantajı, mevcut kısa kaynak metninden doğrulanamıyor.",
+      "seo_title": "Tadano AC 3.060-2 üç akslı mobil vinç tanıtıldı",
+      "meta_description": "Tadano AC 3.060-2, ABD pazarı için sunulan üç akslı arazi tipi mobil vinç. Ana bomu 164 ft, uzatma seçenekleri 52,5 ft’ye kadar.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "AC 3.060-2, ABD pazarı için tanıtılan üç akslı arazi tipi mobil vinç olarak aktarılıyor.",
+        "Kaynakta ana bom uzunluğu 164 ft olarak veriliyor.",
+        "Kaynakta 52,5 ft’ye kadar uzatma seçeneği belirtiliyor."
+      ],
+      "suggested_tags": [
+        "Tadano",
+        "AC 3.060-2",
+        "mobil vinç",
+        "arazi tipi vinç",
+        "kaldırma ekipmanı"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Equipment World’ün modeli ABD pazarı için kompakt ve üç akslı olarak tanımlaması",
+        "Haberde verilen 164 ft ana bom ve 52,5 ft’ye kadar uzatma ölçüleri"
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası alınamadı ve mevcut haber metni sınırlı; Tadano’nun birincil ürün duyurusu girdide bulunmuyor.",
+        "Ölçüler kaynakta feet cinsinden verildi; kaldırma kapasitesi, çalışma konfigürasyonu, teknik özellikler ve bölgesel bulunabilirlik doğrulanamıyor."
+      ],
+      "generated_at": "2026-10-18T17:09:48.212Z",
+      "generated_by": "github-models"
     },
     "subsector": null
   },
@@ -315,7 +367,7 @@
   },
   {
     "id": "f53d4390760cc62a",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Castoldi waterjets power fully electric Ravenna Futura",
     "source_name": "Marine Industry News",
     "source_url": "https://marineindustrynews.co.uk/castoldi-waterjets-power-fully-electric-ravenna-futura/",
@@ -330,14 +382,46 @@
     "editorial_fit_score": 79,
     "summary_source": "Ravenna Futura, a fully electric, zero-emission workboat, has been launched in Ravenna, Italy. The 15-metre vessel was built to operate in the Port of Ravenna, using lithium and lead battery packs integrated with photovoltaic solar panels and an electric motor coupled to waterjets. Ravenna Futura uses twin Castoldi TD 284 EVT waterjets paired with electric […] The post Castoldi waterjets power fully electric Ravenna Futura appeared first on Marine Industry News.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Ravenna Futura, çift Castoldi TD 284 EVT su jetiyle elektrikli tahrik kullanıyor",
+      "dek_tr": "Ravenna Limanı’nda çalışmak üzere inşa edilen 15 metrelik iş teknesinde elektrik motorları, lityum ve kurşun akü paketleri, fotovoltaik paneller ve iki TD 284 EVT su jeti bir araya geliyor.",
+      "summary_tr": "Marine Industry News’e göre Ravenna Futura, İtalya’nın Ravenna kentinde hizmet vermek üzere denize indirilen 15 metrelik, tamamen elektrikli bir iş teknesi. Teknenin enerji sisteminde lityum ve kurşun akü paketleri ile fotovoltaik paneller bulunuyor.\n\nTahrik düzeninde elektrik motorlarına bağlı iki Castoldi TD 284 EVT su jeti kullanılıyor. Haberde, teknenin çalışması sırasında egzoz emisyonu oluşmadığı belirtiliyor. Açıkta dönen pervanesi bulunmayan su jeti düzeninin sığ sularda ve hassas doğal alanlarda deniz yaşamına yönelik riskleri azaltmasının amaçlandığı aktarılıyor.\n\nCastoldi, su jetlerinin hassas yönlendirme ve farklı hızlarda hızlı itki tepkisi sağladığını; bu özelliklerin liman ve dar kanallardaki manevraları desteklediğini belirtiyor. Bu performans ifadeleri üreticiye atfediliyor; haberde bağımsız test verisi sunulmuyor.",
+      "why_it_matters_tr": "Elektrikli iş teknesinde su jeti tahrikinin kullanılması, liman ve dar su yollarındaki çalışma senaryoları için batarya-elektrik motoru entegrasyonuna bir örnek sunuyor. Uygulamanın menzil, enerji tüketimi veya operasyonel performansı hakkında kaynakta ölçüm bulunmadığından bu başlıklarda sonuç çıkarmak mümkün değil.",
+      "seo_title": "Ravenna Futura’da elektrikli Castoldi su jeti tahriki",
+      "meta_description": "Ravenna Futura iş teknesi, iki Castoldi TD 284 EVT su jeti, elektrik motorları, akü paketleri ve fotovoltaik panellerle çalışıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Ravenna Futura, Ravenna Limanı’nda çalışmak üzere inşa edilmiş 15 metrelik elektrikli bir iş teknesi olarak tanıtıldı.",
+        "Teknede lityum ve kurşun akü paketleri ile fotovoltaik paneller bulunuyor.",
+        "Tahrik sistemi, elektrik motorlarına bağlı iki Castoldi TD 284 EVT su jetinden oluşuyor.",
+        "Kaynak, teknenin çalışması sırasında egzoz emisyonu oluşmadığını bildiriyor."
+      ],
+      "suggested_tags": [
+        "Ravenna Futura",
+        "Castoldi",
+        "TD 284 EVT",
+        "elektrikli iş teknesi",
+        "su jeti",
+        "liman ekipmanları"
+      ],
+      "suggested_sector": "marine-yatcilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "Marine Industry News’in aktardığı 15 metrelik tekne ve Ravenna Limanı’nda çalışma amacı",
+        "Teknedeki lityum ve kurşun akü paketleri, fotovoltaik paneller ve elektrik motorlarına bağlı çift TD 284 EVT su jeti",
+        "Kaynağın çalışma sırasında egzoz emisyonu oluşmadığı yönündeki bilgisi",
+        "Dar alanlarda manevraya ilişkin ifadelerin Castoldi’ye atfedilmesi"
+      ],
+      "uncertainty_notes": [
+        "Üretici veya tekne işletmecisinin birincil teknik duyurusu mevcut girdide yer almıyor.",
+        "Menzil, batarya kapasitesi, şarj süresi, güç değerleri ve bağımsız manevra ya da enerji verimliliği testleri kaynakta verilmemiş.",
+        "Dar alanlardaki manevra ve itki tepkisine ilişkin değerlendirmeler üretici beyanıdır; bağımsız test sonucu olarak doğrulanmamıştır."
+      ],
+      "generated_at": "2026-10-18T17:09:48.212Z",
+      "generated_by": "github-models"
     },
     "subsector": null
   },
