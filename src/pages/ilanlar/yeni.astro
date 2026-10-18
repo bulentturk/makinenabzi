@@ -12,11 +12,20 @@ const href = (path: string) => base + path;
     <nav class="market-crumb" aria-label="Konum"><a href={href('/')}>Ana sayfa</a><span>/</span><a href={href('/ilanlar/')}>Makine Pazarı</a><span>/</span><span>İlan verme taslağı</span></nav>
     <span class="eyebrow">Pilot form</span>
     <h1>İlanını oluştur.</h1>
-    <p class="market-form-intro">Bilgileri doldurup ilan kartının önizlemesini görebilirsin. Bu denemede form hiçbir yere gönderilmez veya kaydedilmez.</p>
+    <p class="market-form-intro">Bu pilotta formu deneyip ilan kartını önizleyebilirsin. Gerçek ilan yayımlamak için e-posta ile doğrulanmış üyelik ve ilan onayı gerekecek; bu form hiçbir veri göndermez veya kaydetmez.</p>
   </div></section>
 
   <section class="section market-section"><div class="container market-form-layout">
     <form id="market-form" class="market-form">
+      <div class="market-form-section">
+        <div class="market-form-heading"><span>00</span><div><h2>Yayın için üyelik.</h2><p>Gerçek ilanları yalnız doğrulanmış üyeler oluşturup yönetebilecek.</p></div></div>
+        <div class="market-sector-tags" aria-label="Planlanan üyelik türleri">
+          <span class="tag">Bireysel satıcı</span>
+          <span class="tag">Kurumsal satıcı</span>
+          <span class="tag">E-posta doğrulaması</span>
+        </div>
+        <p class="market-disclaimer">Misafir hesabıyla ilan yayımlanmayacak. İlan, editör kontrolünden sonra görünür olacak. Şu an aşağıdaki alanlar yalnız tasarım önizlemesidir; üyelik veya ilan kaydı yapılmaz.</p>
+      </div>
       <div class="market-form-section">
         <div class="market-form-heading"><span>01</span><div><h2>Ne sunuyorsun?</h2><p>İlan türünü ve ekipmanın bulunacağı sektörleri seç.</p></div></div>
         <div class="market-form-grid">
@@ -77,7 +86,7 @@ const href = (path: string) => base + path;
           <p id="preview-description"></p>
         </div>
       </div>
-      <p class="market-privacy-note">Bu aşamada hesap, ilan kaydı, fotoğraf yükleme ve satıcı iletişimi açık değildir. Önizleme yalnızca bu sayfada görünür.</p>
+      <p class="market-privacy-note">Pilot önizleme herkese açıktır. Gerçek yayında ilan verme ve satıcıyla iletişim doğrulanmış üyelik gerektirecek; ilanlar yönetici onayından geçecektir.</p>
     </aside>
   </div></section>
 
