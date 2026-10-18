@@ -11,9 +11,9 @@ import { ConvexAuthProvider } from "@convex-dev/auth/react";
 import { ConvexReactClient } from "convex/react";
 import React, { StrictMode, lazy, Suspense } from "react";
 import { createRoot } from "react-dom/client";
-import { BrowserRouter, Route, Routes } from "react-router";
+import { BrowserRouter, Navigate, Route, Routes } from "react-router";
 import "./index.css";
-import { initNativeShell } from "@/lib/capacitor";
+import { initNativeShell, isNative } from "@/lib/capacitor";
 
 initNativeShell();
 
@@ -104,7 +104,14 @@ createRoot(document.getElementById("root")!).render(
           <BrowserRouter>
             <Suspense fallback={<RouteLoading />}>
               <Routes>
-                <Route path="/" element={<Landing />} />
+                {/* Native Android'de tanıtım sayfası atlanır: açılışta doğrudan
+                    uygulama açılır. Web'de pazarlama sayfası olduğu gibi kalır. */}
+                <Route
+                  path="/"
+                  element={
+                    isNative() ? <Navigate to="/dashboard" replace /> : <Landing />
+                  }
+                />
                 <Route
                   path="/auth"
                   element={<AuthPage redirectAfterAuth="/dashboard" />}
@@ -112,7 +119,7 @@ createRoot(document.getElementById("root")!).render(
                 <Route
                   path="/dashboard"
                   element={
-                    <RequireAuth>
+                    <RequireAuth redirectImmediately={isNative()}>
                       <Dashboard />
                     </RequireAuth>
                   }
