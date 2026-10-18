@@ -1,5 +1,36 @@
 [
   {
+    "id": "429ed57463198919",
+    "slug": "bradken-smartroller-ekskavator-alt-takim-makaralarinin-sicakligini-uzaktan-izliyor",
+    "title": "Bradken SmartRoller, ekskavatör alt takım makaralarının sıcaklığını uzaktan izliyor",
+    "dek": "International Mining’in aktardığına göre Bradken SmartRoller, ekskavatör alt takım makaralarının sıcaklığını sürekli ve uzaktan izleyerek aşınma eğilimleri için erken uyarı sağlamayı hedefliyor.",
+    "summary": "Bradken’in yeni dijital ürünü SmartRoller, ekskavatör alt takım makaralarının sıcaklığını gerçek zamanlı ve sürekli olarak uzaktan izlemek üzere tanıtıldı.\n\nInternational Mining’in haberine göre sistem, sıcaklık eğilimlerini aşınmanın ilerleyişine işaret edebilecek bir gösterge olarak kullanıyor ve erken uyarılarla önleyici müdahaleyi desteklemeyi amaçlıyor. Haberde sensör tasarımı, ölçüm aralığı veya sahadaki performans sonuçları hakkında ayrıntı bulunmuyor.",
+    "why_it_matters": "Alt takım aşınmasının izlenmesi, maden sahalarında planlı bakım ve ekipman kullanılabilirliği açısından önem taşıyabilir. Ancak sistemin bu sonuçlara katkısı, mevcut kaynakta bağımsız saha verileriyle gösterilmiyor.",
+    "key_facts": [
+      "Bradken SmartRoller, ekskavatör alt takım makaralarının sıcaklığını uzaktan izlemek üzere tanıtıldı.",
+      "International Mining, sıcaklık eğilimleri ve erken uyarıların aşınma takibinde kullanılmasının hedeflendiğini aktarıyor."
+    ],
+    "format": "haber",
+    "sector": "madencilik",
+    "subsector": null,
+    "technologies": [
+      "elektronik-telematik",
+      "yuruyus-guc-aktarma"
+    ],
+    "tags": [
+      "Bradken",
+      "SmartRoller",
+      "ekskavatör",
+      "alt takım",
+      "kestirimci bakım"
+    ],
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/10/15/bradken-smartroller-enables-safer-more-efficient-undercarriage-operation/",
+    "source_published_at": "2026-10-15T09:18:24.000Z",
+    "site_published_at": "2026-10-18T17:12:00.717Z",
+    "hero_image": ""
+  },
+  {
     "id": "11b4654893e0559d",
     "slug": "dyno-nobel-otonom-blasthole-denetim-ve-yukleme-teknolojisinin-prototipini-tanitti",
     "title": "Dyno Nobel, otonom blasthole denetim ve yükleme teknolojisinin prototipini tanıttı",
