@@ -13,7 +13,7 @@
     "android:sync": "cap sync android",
     "android:build": "npm run build && cap sync android",
     "android:open": "cap open android",
-    "assets:generate": "capacitor-assets generate --iconBackgroundColor '#0b1722' --iconBackgroundColorDark '#0b1722' --splashBackgroundColor '#0b1722' --splashBackgroundColorDark '#0b1722'"
+    "assets:generate": "capacitor-assets generate --iconBackgroundColor=#0b1722 --iconBackgroundColorDark=#0b1722 --splashBackgroundColor=#0b1722 --splashBackgroundColorDark=#0b1722 && node scripts/restore-pwa-manifest.mjs"
   },
   "dependencies": {
     "@convex-dev/auth": "^0.0.90",
