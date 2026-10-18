@@ -185,5 +185,54 @@
     "sector": "madencilik",
     "priority": 96,
     "focus": "underground"
+  },
+  {
+    "name": "Madencilik Türkiye",
+    "url": "https://madencilikturkiye.com/feed/",
+    "sector": "madencilik",
+    "priority": 94
+  },
+  {
+    "name": "Türkiye Madenciler Derneği",
+    "url": "https://turkiyemadencilerdernegi.org.tr/feed/",
+    "sector": "madencilik",
+    "priority": 90
+  },
+  {
+    "name": "Vinç & Platform",
+    "url": "https://vincveplatform.com/feed/",
+    "sector": "arac-ustu-ekipman",
+    "priority": 84
+  },
+  {
+    "name": "TARMAKBİR",
+    "url": "https://tarmakbir.org/feed/",
+    "sector": "tarim",
+    "priority": 92
+  },
+  {
+    "name": "TARMAKDER",
+    "url": "https://tarmakder.org.tr/feed/",
+    "sector": "tarim",
+    "priority": 88
+  },
+  {
+    "name": "YATED",
+    "url": "https://yated.org.tr/feed/",
+    "sector": "marine-yatcilik",
+    "priority": 92,
+    "require_equipment_context": "marine"
+  },
+  {
+    "name": "ARÜSDER",
+    "url": "https://www.arusder.org.tr/feed/",
+    "sector": "arac-ustu-ekipman",
+    "priority": 92
+  },
+  {
+    "name": "Boom Makina",
+    "url": "https://boom.com.tr/feed/",
+    "sector": "arac-ustu-ekipman",
+    "priority": 82
   }
 ]
