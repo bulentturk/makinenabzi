@@ -190,34 +190,136 @@ const schema = defineSchema(
       .index("by_sector", ["sector"])
       .index("by_status", ["status"]),
 
-    // ---- İlanlar (satılık / kiralık / yedek parça) ----
+    // ---- İlanlar (satılık / kiralık / yedek parça / hizmet) ----
+    // Sahiplik: `ownerId`. İstemciden gelen sahip bilgisi asla kabul edilmez;
+    // sunucu tarafında oturumdan yazılır (bkz. lib/authz.ts).
     listings: defineTable({
+      slug: v.string(), // URL parçası: /ilanlar/[sektor]/[slug]/
       title: v.string(),
       description: v.string(),
+      sector: v.string(), // "İş Makinaları" | "Madencilik" | ...
       category: v.union(
         v.literal("satilik"),
         v.literal("kiralik"),
         v.literal("yedek-parca"),
         v.literal("hizmet"),
       ),
+      // Makine künyesi
+      brand: v.optional(v.string()),
+      model: v.optional(v.string()),
+      year: v.optional(v.number()),
+      hours: v.optional(v.number()),
+      condition: v.optional(
+        v.union(
+          v.literal("sifir"),
+          v.literal("ikinci-el"),
+          v.literal("yenilenmis"),
+        ),
+      ),
+      powerKw: v.optional(v.number()),
+      weightKg: v.optional(v.number()),
+      // Konum ve fiyat
+      city: v.optional(v.string()),
+      country: v.optional(v.string()),
       price: v.optional(v.number()),
       currency: v.optional(v.string()),
-      city: v.optional(v.string()),
+      priceHidden: v.optional(v.boolean()),
+      // Sahiplik
+      ownerId: v.id("users"),
       companyId: v.optional(v.id("companies")),
       contactName: v.string(),
       contactPhone: v.string(),
-      images: v.array(v.string()),
+      contactEmail: v.optional(v.string()),
+      // Yayın durumu
       status: v.union(
         v.literal("pending"),
         v.literal("approved"),
         v.literal("rejected"),
+        v.literal("sold"),
         v.literal("expired"),
       ),
-      createdBy: v.id("users"),
+      rejectionReason: v.optional(v.string()),
+      images: v.array(v.id("_storage")),
+      coverImage: v.optional(v.id("_storage")),
+      views: v.number(),
+      expiresAt: v.number(),
+      bumpedAt: v.optional(v.number()),
+      featuredUntil: v.optional(v.number()),
+      createdAt: v.number(),
+      updatedAt: v.number(),
+    })
+      .index("by_slug", ["slug"])
+      .index("by_status_createdAt", ["status", "createdAt"])
+      .index("by_owner", ["ownerId"])
+      .index("by_sector_status", ["sector", "status"]),
+
+    // ---- Üyelik profili (bireysel satıcı / firma) ----
+    profiles: defineTable({
+      userId: v.id("users"),
+      type: v.union(
+        v.literal("bireysel"),
+        v.literal("bayi"),
+        v.literal("servis"),
+        v.literal("oem"),
+        v.literal("kurumsal"),
+      ),
+      displayName: v.string(),
+      companyId: v.optional(v.id("companies")),
+      city: v.optional(v.string()),
+      phone: v.optional(v.string()),
+      about: v.optional(v.string()),
+      logoStorageId: v.optional(v.id("_storage")),
+      verification: v.union(
+        v.literal("yok"),
+        v.literal("bekliyor"),
+        v.literal("dogrulandi"),
+      ),
+      // Aktif ilan hakkı; boşsa `type`'a göre varsayılan uygulanır.
+      listingQuota: v.optional(v.number()),
+      createdAt: v.number(),
+      updatedAt: v.number(),
+    })
+      .index("by_user", ["userId"])
+      .index("by_company", ["companyId"]),
+
+    // ---- İlan şikayeti ----
+    listingReports: defineTable({
+      listingId: v.id("listings"),
+      reporterId: v.id("users"),
+      reason: v.string(),
+      note: v.optional(v.string()),
+      status: v.union(
+        v.literal("acik"),
+        v.literal("incelendi"),
+        v.literal("reddedildi"),
+      ),
       createdAt: v.number(),
     })
-      .index("by_status_createdAt", ["status", "createdAt"])
-      .index("by_createdBy", ["createdBy"]),
+      .index("by_listing", ["listingId"])
+      .index("by_status_createdAt", ["status", "createdAt"]),
+
+    // ---- İlan favorileri ----
+    listingFavorites: defineTable({
+      listingId: v.id("listings"),
+      userId: v.id("users"),
+      createdAt: v.number(),
+    })
+      .index("by_user", ["userId"])
+      .index("by_user_listing", ["userId", "listingId"]),
+
+    // ---- Moderasyon günlüğü (kim ne zaman onayladı) ----
+    moderationLog: defineTable({
+      kind: v.literal("listing"),
+      targetId: v.id("listings"),
+      action: v.union(
+        v.literal("approve"),
+        v.literal("reject"),
+        v.literal("close"),
+      ),
+      reason: v.optional(v.string()),
+      adminId: v.id("users"),
+      createdAt: v.number(),
+    }).index("by_target", ["targetId"]),
 
     // ---- Dergi sayıları (offline okuma paketi) ----
     magazines: defineTable({

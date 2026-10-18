@@ -226,12 +226,20 @@ Uygulamaya eklenecekler: sektör bazlı ilan listesi, ilan detayı, "ilan ver" f
 12. Ücretli öne çıkarma (opsiyonel, sonra karar).
 13. Telefon doğrulaması ve gelişmiş spam koruması.
 
-## 11. Açık kararlar (senin onayın gerekiyor)
+## 11. Onaylanan kararlar
 
-1. **Üye alanı nerede çalışsın?**
-   - (a) Sitenin içinde React adası olarak — `/ilan-ver/`, `/hesabim/`
-   - (b) Mevcut `app.makinenabzi.com` panelinde — site sadece listeleme yapar
-2. **Kim ilan verebilsin?** Bireysel satıcı da, yalnızca firma da olabilir.
-3. **Yayın modeli?** Ön onay mı, otomatik yayın + şikayet mi?
-4. **Görseller nerede dursun?** Convex depolama mı, harici bağlantı mı?
-5. **İlan süresi ve kota?** Örn. 60 gün, üye başına 3 aktif ilan.
+| Karar | Seçim |
+| --- | --- |
+| Üye alanı | **Hem sitede hem app panelinde.** Kimlik Convex Auth'ta ortak olduğu için hesaplar iki ortamda aynıdır; ekranlar ortak Convex fonksiyonlarını kullanır. |
+| İlan veren | **Bireysel + firma.** Doğrulanmamış satıcı "bireysel" etiketiyle görünür. |
+| Yayın modeli | **Ön onay.** `pending → approved` yalnızca editör onayıyla. |
+| Görseller | **Convex depolama.** Yükleme `generateUploadUrl`, okuma imzalı URL. |
+| İlan süresi / kota | 60 gün; bireysel 3, doğrulanmış firma 10 aktif ilan (profil bazında artırılabilir). |
+
+### Üyelik neden iki ortamda da çalışır
+
+Kimlik doğrulama Convex'te tutulduğu için tek hesap hem `makinenabzi.com`
+hem Android uygulaması için geçerlidir. Sitede `/ilan-ver/` ve `/hesabim/`
+sayfaları, uygulamada ise "İlan Ver" / "İlanlarım" ekranları **aynı** Convex
+fonksiyonlarını çağırır; kurallar tek yerde (`listings.ts` + `lib/authz.ts`)
+tanımlıdır. Böylece bir ortamda verilen ilan diğerinde anında görünür.
