@@ -1,5 +1,35 @@
 [
   {
+    "id": "9b56abaf537b5d50",
+    "slug": "oshkosh-s-series-beton-mikserlerine-yeni-aks-secenekleri",
+    "title": "Oshkosh S-Series beton mikserlerine yeni aks seçenekleri",
+    "dek": "Oshkosh, önden boşaltmalı beton mikserleri için S-Series Federal Bridge High-Lift Tag Axle konfigürasyonlarını duyurdu. Kaynakta aksların teknik özellikleri ve uygulama sınırları yer almıyor.",
+    "summary": "Construction Equipment Guide’ın başlık ve kısa özetine göre Oshkosh, S-Series önden boşaltmalı beton mikserleri için yeni Federal Bridge High-Lift Tag Axle konfigürasyonları sunuyor.\n\nKaynak içeriği aksların taşıma kapasitesi, dingil yükleri, uyumluluk veya çalışma performansı hakkında ayrıntı vermiyor. Bu nedenle konfigürasyonların teknik farkını ve hangi araçlara uygulanacağını doğrulamak için üretici bilgisi gerekiyor.",
+    "why_it_matters": "Aks konfigürasyonları, beton mikserlerinin yük dağılımı ve yol kullanım koşullarıyla ilgili seçimleri etkileyebilir. Ancak bu duyurudaki seçeneklerin operatör veya filo açısından sağlayacağı somut fark, teknik veriler olmadan değerlendirilemiyor.",
+    "key_facts": [
+      "Yeni konfigürasyonlar Oshkosh S-Series önden boşaltmalı beton mikserleri için duyurulmuş.",
+      "Konfigürasyon adı Federal Bridge High-Lift Tag Axle."
+    ],
+    "format": "haber",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [
+      "yuruyus-guc-aktarma"
+    ],
+    "tags": [
+      "Oshkosh",
+      "beton mikseri",
+      "aks",
+      "güç aktarma"
+    ],
+    "source_name": "Construction Equipment Guide",
+    "source_url": "https://www.constructionequipmentguide.com/oshkosh-sseries-introduces-new-axle-configurations/72517",
+    "source_published_at": "2026-10-15T05:00:00.000Z",
+    "site_published_at": "2026-10-18T19:15:34.046Z",
+    "hero_image": "",
+    "publish_mode": "approved"
+  },
+  {
     "id": "0918791c0b3a7e1d",
     "slug": "tadano-ac-3-060-2-abd-pazari-icin-uc-aksli-arazi-tipi-mobil-vinc",
     "title": "Tadano AC 3.060-2: ABD pazarı için üç akslı arazi tipi mobil vinç",

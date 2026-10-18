@@ -508,7 +508,7 @@
   },
   {
     "id": "9b56abaf537b5d50",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Oshkosh S-Series Introduces New Axle Configurations",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/oshkosh-sseries-introduces-new-axle-configurations/72517",
@@ -530,7 +530,7 @@
       "seo_title": "Oshkosh S-Series için yeni aks konfigürasyonları",
       "meta_description": "Oshkosh, S-Series önden boşaltmalı beton mikserleri için yeni High-Lift Tag Axle seçeneklerini duyurdu. Teknik ayrıntılar kaynakta paylaşılmıyor.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Yeni konfigürasyonlar Oshkosh S-Series önden boşaltmalı beton mikserleri için duyurulmuş.",
         "Konfigürasyon adı Federal Bridge High-Lift Tag Axle."
@@ -555,7 +555,9 @@
         "Aksın teknik özellikleri, araç uyumluluğu ve konfigürasyonların kullanım koşulları için birincil üretici kaynağı doğrulaması gerekir."
       ],
       "generated_at": "2026-10-18T17:58:53.611Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-18T19:15:34.048Z",
+      "review_result": "published"
     },
     "subsector": null
   },
