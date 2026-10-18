@@ -318,7 +318,7 @@
   },
   {
     "id": "6ce3069380adcf0a",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "New BOTON Brazil entity enhances local service capabilities for mining customers",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/10/15/new-boton-brazil-entity-enhances-local-service-capabilities-for-mining-customers/",
@@ -331,20 +331,46 @@
     "editorial_fit_score": 65,
     "summary_source": "BOTON Brasil Conveyors Services Pecém Ltd was officially established on October 14, 2026, marking an important step in BOTON’s continued expansion of its global service network and strengthening its presence in South America. BOTON, based in Wuxi, China is one of the world’s fastest growing mining conveyor belt suppliers, already counting Rio Tinto, BHP, Hancock The post New BOTON Brazil entity enhances local service capabilities for mining customers appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "BOTON, Brezilya’da madencilik konveyörleri için hizmet şirketi kurdu",
+      "dek_tr": "BOTON Brasil Conveyors Services Pecém Ltd, 14 Ekim 2026’da resmen kuruldu. International Mining’in haberine göre yeni şirket, BOTON’un Güney Amerika’daki hizmet ağını genişletme adımının parçası.",
+      "summary_tr": "International Mining’in aktardığına göre Çin’in Wuxi kentinde bulunan BOTON, Brezilya’da BOTON Brasil Conveyors Services Pecém Ltd adlı şirketi kurdu. Şirket 14 Ekim 2026’da resmen oluşturuldu.\n\nHaberde bu adım, BOTON’un küresel hizmet ağını genişletme ve Güney Amerika’daki varlığını güçlendirme çalışması olarak tanımlanıyor. Kurulacak hizmetlerin kapsamı veya şirketin operasyonel kapasitesi hakkında kaynak metinde ayrıntı bulunmuyor.",
+      "why_it_matters_tr": "Konveyör bantları madenlerde malzeme akışının temel bileşenlerinden; yerel hizmet yapılanması, bakım ve destek erişimini etkileyebilir. Ancak bu şirketin hangi hizmetleri, ne zaman ve hangi kapasiteyle sunacağı mevcut kaynakta açıklanmıyor.",
+      "seo_title": "BOTON, Brezilya’da madencilik hizmet şirketi kurdu",
+      "meta_description": "BOTON Brasil Conveyors Services Pecém Ltd 14 Ekim 2026’da kuruldu. Şirketin hizmet kapsamı ve operasyonel kapasitesi henüz açıklanmadı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "BOTON Brasil Conveyors Services Pecém Ltd 14 Ekim 2026’da resmen kuruldu.",
+        "International Mining, kuruluşu BOTON’un küresel hizmet ağını ve Güney Amerika’daki varlığını genişletme adımı olarak aktarıyor.",
+        "BOTON’un merkezi Wuxi, Çin olarak belirtiliyor."
+      ],
+      "suggested_tags": [
+        "BOTON",
+        "konveyör bantları",
+        "madencilik",
+        "Brezilya",
+        "servis ağı"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "International Mining haberindeki şirketin resmî kuruluş tarihi ve adı",
+        "Haberde bildirilen BOTON’un Wuxi merkezli olduğu bilgisi",
+        "Haberde kuruluşun hizmet ağı ve Güney Amerika varlığıyla ilişkilendirilmesi"
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfasına erişilemedi; taslak, verilen kısa kaynak metnine dayanıyor.",
+        "Yeni şirketin hizmet kapsamı, tesisleri, personeli ve operasyon başlangıç tarihi belirtilmiyor; önemli operasyonel iddialar için BOTON’un birincil açıklaması doğrulanmalı."
+      ],
+      "generated_at": "2026-10-18T19:43:54.634Z",
+      "generated_by": "github-models"
     },
     "subsector": null
   },
   {
     "id": "9083051e58f5b196",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Valtra introduces sixth-generation T Series tractor range",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/agriculture/valtra-introduces-sixth-generation-t-series-tractor-range.html",
@@ -357,14 +383,45 @@
     "editorial_fit_score": 65,
     "summary_source": "Valtra has introduced the sixth-generation T Series, a 170 to 245hp tractor range built around a new AGCO Power Core75 engine, a reworked SmartTouch Gen2 operator interface and factory-ready connectivity [...] The post Valtra introduces sixth-generation T Series tractor range appeared first on Industrial Vehicle Technology International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Valtra, altıncı nesil T Serisi traktörlerini tanıttı",
+      "dek_tr": "Yeni T Serisi, 170-245 hp güç aralığında sunuluyor. Kaynak özeti; AGCO Power Core75 motoru, SmartTouch Gen2 operatör arayüzünü ve fabrikada bağlantı sistemlerine hazır donanımı öne çıkarıyor.",
+      "summary_tr": "iVT International’ın haber özetine göre Valtra, altıncı nesil T Serisi traktör ailesini tanıttı. Seri 170-245 hp güç aralığında konumlandırılıyor ve yeni AGCO Power Core75 motorla sunuluyor.\n\nÖzette ayrıca yenilenen SmartTouch Gen2 operatör arayüzü ile fabrikada bağlantı sistemlerine hazır olma özelliği belirtiliyor. Motorun teknik özellikleri, arayüz değişikliklerinin kapsamı ve bağlantı işlevleri hakkında verilen kaynak metinde ayrıntı yer almıyor.",
+      "why_it_matters_tr": "Motor, operatör arayüzü ve bağlantı donanımındaki değişiklikler, traktörün güç sistemi ve dijital işlevlerini birlikte değerlendirmek isteyen tarım makinesi kullanıcıları için önem taşıyor. Ancak kaynakta bu yeniliklerin performans veya işletme maliyetlerine etkisini gösterecek ölçüm bulunmuyor.",
+      "seo_title": "Valtra altıncı nesil T Serisi traktörlerini tanıttı",
+      "meta_description": "Valtra'nın yeni T Serisi 170-245 hp aralığında. AGCO Power Core75 motor, SmartTouch Gen2 arayüz ve fabrikada bağlantıya hazır donanım öne çıkıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Valtra altıncı nesil T Serisi traktör ailesini tanıttı.",
+        "Kaynak özeti güç aralığını 170-245 hp olarak veriyor.",
+        "Özette AGCO Power Core75 motor ve SmartTouch Gen2 arayüz adı geçiyor.",
+        "Traktörlerin fabrikada bağlantı sistemlerine hazır olduğu belirtiliyor."
+      ],
+      "suggested_tags": [
+        "Valtra",
+        "T Serisi",
+        "tarım traktörü",
+        "AGCO Power Core75",
+        "SmartTouch Gen2",
+        "bağlantılı makineler"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektronik-telematik"
+      ],
+      "source_facts_used": [
+        "iVT International kaynak özetindeki altıncı nesil T Serisi tanıtımı",
+        "Özette verilen 170-245 hp güç aralığı",
+        "AGCO Power Core75 motor ve SmartTouch Gen2 arayüz bilgileri",
+        "Fabrikada bağlantıya hazır olma bilgisi"
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası zaman aşımına uğradı; taslak yalnızca verilen kısa özet ve başlığa dayanıyor.",
+        "Motor performansı, emisyon seviyesi, şanzıman seçenekleri, bağlantı özellikleri ve pazar takvimi için üreticinin birincil teknik duyurusu doğrulanmalı."
+      ],
+      "generated_at": "2026-10-18T19:43:54.634Z",
+      "generated_by": "github-models"
     },
     "subsector": null
   },
@@ -432,7 +489,7 @@
   },
   {
     "id": "48efd3d54f9610d2",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Manitou’s New MRT 4080 Telehandler: A 3-in-1 Machine That Extends 131 Feet",
     "source_name": "Equipment World",
     "source_url": "https://www.equipmentworld.com/aeriallifting-equipment/telehandlers/article/15837478/manitou-mrt-4080-rotary-telehandler-reaches-131-feet",
@@ -445,14 +502,41 @@
     "editorial_fit_score": 65,
     "summary_source": "The largest High Lift MRT combines telehandler, crane and aerial work platform abilities, with up to 17,637 pounds of lifting...",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Manitou MRT 4080 döner teleskopik yükleyici 131 feet erişim sunuyor",
+      "dek_tr": "Equipment World’e göre MRT 4080, teleskopik yükleyici, vinç ve yükseltilebilir çalışma platformu işlevlerini tek makinede birleştiriyor. Haberde azami kaldırma kapasitesi 17.637 lb olarak veriliyor.",
+      "summary_tr": "Equipment World, Manitou’nun MRT 4080 modelini High Lift MRT ailesinin en büyük makinesi olarak tanımlıyor. Haberin başlığı 131 feet erişimden söz ederken, kısa kaynak özeti makinenin teleskopik yükleyici, vinç ve yükseltilebilir çalışma platformu işlevlerini bir arada sunduğunu belirtiyor.\n\nKaynak özetinde kaldırma kapasitesi 17.637 lb’ye kadar olarak aktarılıyor. Verilen metin; yük diyagramı, erişim ve kapasite değerlerinin hangi konfigürasyonda geçerli olduğu ya da makinenin teknik donanımına ilişkin ayrıntıları içermiyor.",
+      "why_it_matters_tr": "Birden fazla kaldırma ve erişim işlevinin tek makinede sunulması, şantiyelerde ekipman kullanım seçeneklerini etkileyebilir. Ancak kapasite ve erişim değerleri uygulamaya ve konfigürasyona bağlı olabileceğinden, seçim için üreticinin yük tabloları ve teknik belgeleri esas alınmalı.",
+      "seo_title": "Manitou MRT 4080: 131 feet erişimli döner yükleyici",
+      "meta_description": "Manitou MRT 4080, habere göre teleskopik yükleyici, vinç ve çalışma platformu işlevlerini birleştiriyor; kaldırma kapasitesi 17.637 lb’ye kadar.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Haberde ürün Manitou MRT 4080 olarak adlandırılıyor.",
+        "Equipment World başlığında erişim 131 feet olarak veriliyor.",
+        "Kaynak özeti teleskopik yükleyici, vinç ve yükseltilebilir çalışma platformu işlevlerini sıralıyor.",
+        "Kaldırma kapasitesi kaynak özetinde 17.637 lb’ye kadar olarak belirtiliyor."
+      ],
+      "suggested_tags": [
+        "Manitou",
+        "MRT 4080",
+        "döner teleskopik yükleyici",
+        "kaldırma ekipmanı",
+        "şantiye makineleri"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Equipment World başlığındaki MRT 4080 model adı ve 131 feet erişim bilgisi",
+        "Kaynak özetindeki üç işlev tanımı",
+        "Kaynak özetinde bildirilen 17.637 lb’ye kadar kaldırma kapasitesi"
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfasına erişilemedi; taslak verilen kısa özet ve başlıkla sınırlı.",
+        "131 feet erişim ve 17.637 lb kapasitenin geçerli olduğu konfigürasyon ile çalışma koşulları belirtilmiyor; üretici teknik belgeleriyle doğrulanmalı."
+      ],
+      "generated_at": "2026-10-18T19:43:54.634Z",
+      "generated_by": "github-models"
     },
     "subsector": null
   },
