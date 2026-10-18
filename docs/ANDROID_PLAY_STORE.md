@@ -3,7 +3,8 @@
 Uygulama adı: **Makine Nabzı**
 Paket: `com.makinenabzi.app`
 Yöntem: Mevcut PWA (`app/`) + Capacitor 6 Android sarmalama. Sıfırdan Kotlin yazımı yok.
-Durum: `./gradlew assembleDebug` ile APK üretildi (doğrulandı).
+Durum: `./gradlew assembleDebug` ile APK üretildi ve doğrulandı
+(`com.makinenabzi.app`, etiket "Makine Nabzı", ~5.2 MB, minSdk 22 / targetSdk 34).
 
 ## Kritik iki kural (yoksa Gradle derlemez)
 
@@ -41,10 +42,21 @@ Renk bayrakları `--flag=#0b1722` biçiminde yazılmalı: tırnaklı yazım Powe
 cd app
 npm install
 npm run build            # dist/ üretir
-npx cap sync android     # dist'i android/assets'e kopyalar
+npx cap sync android     # dist'i android/assets'e kopyalar + Cordova eklenti klasörünü üretir
 cd android
 ./gradlew assembleDebug  # APK: android/app/build/outputs/apk/debug/app-debug.apk
 ```
+
+> **Önemli:** `npx cap sync android` atlanırsa derleme
+> `Could not read script .../capacitor-cordova-android-plugins/cordova.variables.gradle`
+> hatasıyla durur. Capacitor kendi `.gitignore`'unda bu klasörü dışladığı için
+> repoda yoktur; her taze klonda `cap sync` bir kez çalıştırılmalı.
+> `npm run android:build` komutu build + sync'i birlikte yapar.
+
+İlk kez derlerken `android/local.properties` içinde `sdk.dir` yoksa Gradle SDK'yı
+bulamaz. Android Studio projeyi açtığında bu dosyayı kendisi yazar; komut
+satırından derliyorsan elle `sdk.dir=C:/Users/<kullanici>/AppData/Local/Android/Sdk`
+ekle (dosya `.gitignore`'da, repoya girmez).
 
 Android Studio ile: `app/android` klasörünü aç → Gradle sync → `Run` (emülatör/cihaz).
 
