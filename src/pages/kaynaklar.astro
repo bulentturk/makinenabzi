@@ -7,14 +7,15 @@ const groups: [string, string[]][] = [
   ['Motor & güç aktarma', ['Powertrain International Off-Highway','Power Progress Off-Highway','DEUTZ Press Releases','Cummins Press Releases','Perkins Press Releases','Volvo Penta News','ZF Press','Allison Transmission Newsroom','Dana Press Releases','Kessler + Co Press','Carraro News','Power Transmission Engineering','Gear Technology','Green Car Congress']],
   ['Paletli yürüyüş & alt takım', ['Berco News','ITM Group']],
   ['Bileşen & hidrolik', ['Hydraulics & Pneumatics','Fluid Power World','Fluid Power Journal','NFPA','Teknikport']],
-  ['Madencilik', ['E&MJ','International Mining','Mining Magazine','Global Mining Review','MINING.COM','Australian Mining','ICMM']],
-  ['Liman & malzeme elleçleme', ['Port Technology International','Port Strategy','HANSA','Container News','International Cranes & Specialized Transport','FEM','IAPH']],
-  ['Tarım', ['Farm Equipment','profi','Future Farming','AgFunderNews','Farm Progress','Farmers Weekly','CEMA','TARMAKBİR']],
-  ['Havalimanı & GSE', ['Passenger Terminal Today','Airport Suppliers','Aviation24 Ground Handling','Aviation Pros Ground Support Worldwide','Airport Industry-News Ground Support','Ground Handling International','GSE Expo Europe']],
-  ['Marine & yatçılık', ['Marine Industry News','Marine Industry News Electric Boats','The Maritime Executive','Marine Insight','Powertrain International Marine','METSTRADE','IBEX']],
+  ['Madencilik', ['Normet','Epiroc','Sandvik Mining','Getman','Hencon','International Mining','Mining Magazine','Global Mining Review','MINING.COM','E&MJ','Madencilik Türkiye','Türkiye Madenciler Derneği','Yeraltı Haber','YMGV','MAPEG']],
+  ['Liman & malzeme elleçleme', ['TÜRKLİM','Port Technology International','Port Strategy','HANSA','Container News','International Cranes & Specialized Transport','FEM','IAPH']],
+  ['Tarım', ['TARMAKBİR','TARMAKDER','TürkTraktör','Farm Equipment','profi','Future Farming','AgFunderNews','Farm Progress','Farmers Weekly','CEMA']],
+  ['Araç üstü ekipman & kaldırma', ['ARÜSDER','PLATFORMDER','LHT','Vinç & Platform','Boom Makina']],
+  ['Havalimanı & GSE', ['DENGE GSE','DHMİ','SHGM','Passenger Terminal Today','Airport Suppliers','Aviation24 Ground Handling','Aviation Pros Ground Support Worldwide','Airport Industry-News Ground Support','Ground Handling International','GSE Expo Europe']],
+  ['Marine & yatçılık', ['YATED','GİSBİR','Türk Loydu','Motoryat','Marine Industry News','Marine Industry News Electric Boats','The Maritime Executive','Marine Insight','Powertrain International Marine','METSTRADE','IBEX']],
   ['Elektrifikasyon & batarya', ['electrive','Charged EVs','Battery Technology','Energy-Storage.news']],
-  ['İş Makinaları OEM basın odaları', ['Caterpillar Newsroom','Komatsu News','Volvo CE News','Liebherr Press','Wacker Neuson News','JCB News','Manitou News','Hitachi CM News']],
-  ['Türkiye kurumları', ['MAİB','MAKFED','İMDER','İSDER','AKDER','MAPEG','Sanayi Gazetesi','TMMOB meslek odaları']]
+  ['İş Makinaları OEM basın odaları', ['HİDROMEK','Caterpillar Newsroom','Komatsu News','Volvo CE News','Liebherr Press','Wacker Neuson News','JCB News','Manitou News','Hitachi CM News']],
+  ['Türkiye iş makinaları & sanayi', ['İMDER','İSDER','İMMB','İŞİM Kümelenmesi','Forum Makina','Makina Market','MAKFED','TAYSAD','Anadolu Isuzu','Sanayi Gazetesi']]
 ];
 const byName = new Map(catalog.map(source => [source.name,source]));
 const eventSources: Record<string,string> = {

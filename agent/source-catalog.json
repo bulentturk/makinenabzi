@@ -1336,5 +1336,374 @@
     "origin": "user-underground-mining-radar",
     "app_follow_key": "publication:yeraltihaber",
     "editorial_note": "Sector publication used to discover leads; corroborate technical claims with the equipment manufacturer or mine operator. RSS not verified."
+  },
+  {
+    "name": "Madencilik Türkiye",
+    "url": "https://madencilikturkiye.com/haberler/",
+    "kind": "industry_media",
+    "focus": [
+      "turkiye",
+      "madencilik",
+      "yeraltı-madenciliği",
+      "maden-ekipmani",
+      "teknoloji",
+      "saha-haberleri"
+    ],
+    "status": "active-rss",
+    "feed": "https://madencilikturkiye.com/feed/",
+    "priority": 94,
+    "origin": "turkiye-deep-research-2026-10",
+    "region": "TR",
+    "editorial_role": "primary-local-industry-media"
+  },
+  {
+    "name": "Türkiye Madenciler Derneği",
+    "url": "https://turkiyemadencilerdernegi.org.tr/guncel/",
+    "kind": "association",
+    "focus": [
+      "turkiye",
+      "madencilik",
+      "isg",
+      "sektor-verisi",
+      "etkinlik"
+    ],
+    "status": "active-rss",
+    "feed": "https://turkiyemadencilerdernegi.org.tr/feed/",
+    "priority": 93,
+    "origin": "turkiye-deep-research-2026-10",
+    "region": "TR",
+    "editorial_role": "primary-association"
+  },
+  {
+    "name": "TÜRKLİM",
+    "url": "https://www.turklim.org/",
+    "kind": "association",
+    "focus": [
+      "turkiye",
+      "liman",
+      "terminal",
+      "ellecleme",
+      "dijitallesme",
+      "sektor-verisi"
+    ],
+    "status": "watchlist-web-priority",
+    "priority": 94,
+    "origin": "turkiye-deep-research-2026-10",
+    "region": "TR",
+    "watch_urls": [
+      "https://www.turklim.org/",
+      "https://edergi.turklim.org/"
+    ],
+    "editorial_role": "primary-association"
+  },
+  {
+    "name": "TARMAKDER",
+    "url": "https://tarmakder.org.tr/",
+    "kind": "association",
+    "focus": [
+      "turkiye",
+      "tarim-makinalari",
+      "tarim-teknolojileri",
+      "mekanizasyon"
+    ],
+    "status": "active-rss",
+    "feed": "https://tarmakder.org.tr/feed/",
+    "priority": 88,
+    "origin": "turkiye-deep-research-2026-10",
+    "region": "TR",
+    "editorial_role": "primary-association"
+  },
+  {
+    "name": "ARÜSDER",
+    "url": "https://www.arusder.org.tr/",
+    "kind": "association",
+    "focus": [
+      "turkiye",
+      "arac-ustu-ekipman",
+      "beton-pompasi",
+      "mobil-vinc",
+      "belediye-ekipmani",
+      "is-makinalari"
+    ],
+    "status": "active-rss",
+    "feed": "https://www.arusder.org.tr/feed/",
+    "priority": 92,
+    "origin": "turkiye-deep-research-2026-10",
+    "region": "TR",
+    "editorial_role": "primary-association"
+  },
+  {
+    "name": "Vinç & Platform",
+    "url": "https://vincveplatform.com/haber/",
+    "kind": "industry_media",
+    "focus": [
+      "turkiye",
+      "arac-ustu-ekipman",
+      "mobil-vinc",
+      "personel-platformu",
+      "agir-tasima",
+      "istif",
+      "liman"
+    ],
+    "status": "active-rss",
+    "feed": "https://vincveplatform.com/feed/",
+    "priority": 84,
+    "origin": "turkiye-deep-research-2026-10",
+    "region": "TR",
+    "editorial_role": "specialist-industry-media"
+  },
+  {
+    "name": "Boom Makina",
+    "url": "https://boom.com.tr/tr/haberler/",
+    "kind": "manufacturer_pressroom",
+    "focus": [
+      "turkiye",
+      "arac-ustu-ekipman",
+      "beton-pompasi",
+      "beton-dagitim",
+      "ihracat"
+    ],
+    "status": "active-rss",
+    "feed": "https://boom.com.tr/feed/",
+    "priority": 82,
+    "origin": "turkiye-deep-research-2026-10",
+    "region": "TR",
+    "editorial_role": "primary-manufacturer"
+  },
+  {
+    "name": "YATED",
+    "url": "https://yated.org.tr/haber-ve-duyurular/",
+    "kind": "association",
+    "focus": [
+      "turkiye",
+      "marine-yatcilik",
+      "tekne-ekipmani",
+      "enerji-donusumu",
+      "fuar"
+    ],
+    "status": "active-rss",
+    "feed": "https://yated.org.tr/feed/",
+    "priority": 92,
+    "origin": "turkiye-deep-research-2026-10",
+    "region": "TR",
+    "editorial_role": "primary-association"
+  },
+  {
+    "name": "GİSBİR",
+    "url": "https://gisbir.org/haberler/",
+    "kind": "association",
+    "focus": [
+      "turkiye",
+      "gemi-insa",
+      "tersane",
+      "marine-teknoloji",
+      "yesil-donusum",
+      "dijitallesme"
+    ],
+    "status": "watchlist-web-priority",
+    "priority": 90,
+    "origin": "turkiye-deep-research-2026-10",
+    "region": "TR",
+    "editorial_role": "primary-association"
+  },
+  {
+    "name": "Türk Loydu",
+    "url": "https://www.turkloydu.org/yayinlar/haberler/",
+    "kind": "institution",
+    "focus": [
+      "turkiye",
+      "marine-yatcilik",
+      "klaslama",
+      "teknik-standart",
+      "belgelendirme",
+      "tahrik"
+    ],
+    "status": "watchlist-web-priority",
+    "priority": 88,
+    "origin": "turkiye-deep-research-2026-10",
+    "region": "TR",
+    "editorial_role": "primary-technical-institution"
+  },
+  {
+    "name": "Motoryat",
+    "url": "https://motoryat.com/haberler",
+    "kind": "industry_media",
+    "focus": [
+      "turkiye",
+      "marine-yatcilik",
+      "tekne-ekipmani",
+      "marine-teknoloji",
+      "yeni-modeller"
+    ],
+    "status": "watchlist-web",
+    "priority": 76,
+    "origin": "turkiye-deep-research-2026-10",
+    "region": "TR",
+    "editorial_role": "specialist-industry-media"
+  },
+  {
+    "name": "HİDROMEK",
+    "url": "https://www.hidromek.com/tr-TR/basin-bultenleri",
+    "kind": "manufacturer_pressroom",
+    "focus": [
+      "turkiye",
+      "is-makinalari",
+      "madencilik",
+      "telehandler",
+      "elektrifikasyon",
+      "urun-lansmani"
+    ],
+    "status": "watchlist-web-primary",
+    "priority": 96,
+    "origin": "turkiye-deep-research-2026-10",
+    "region": "TR",
+    "editorial_role": "primary-manufacturer"
+  },
+  {
+    "name": "TürkTraktör",
+    "url": "https://www.turktraktor.com.tr/hakkimizda/bizden-haberler",
+    "kind": "manufacturer_pressroom",
+    "focus": [
+      "turkiye",
+      "tarim-makinalari",
+      "is-makinalari",
+      "hassas-tarim",
+      "otonomi",
+      "stage-v"
+    ],
+    "status": "watchlist-web-primary",
+    "priority": 95,
+    "origin": "turkiye-deep-research-2026-10",
+    "region": "TR",
+    "editorial_role": "primary-manufacturer"
+  },
+  {
+    "name": "Anadolu Isuzu",
+    "url": "https://anadoluisuzu.com.tr/haberler",
+    "kind": "manufacturer_pressroom",
+    "focus": [
+      "turkiye",
+      "arac-ustu-ekipman",
+      "ticari-arac",
+      "elektrifikasyon",
+      "ozel-amacli-arac"
+    ],
+    "status": "watchlist-web",
+    "priority": 82,
+    "origin": "turkiye-deep-research-2026-10",
+    "region": "TR",
+    "editorial_role": "primary-manufacturer"
+  },
+  {
+    "name": "DENGE GSE",
+    "url": "https://www.denge.com.tr/",
+    "kind": "manufacturer_pressroom",
+    "focus": [
+      "turkiye",
+      "havaalani-gse",
+      "yer-destek-ekipmani",
+      "apron",
+      "ihracat"
+    ],
+    "status": "watchlist-web-primary",
+    "priority": 94,
+    "origin": "turkiye-deep-research-2026-10",
+    "region": "TR",
+    "editorial_role": "primary-manufacturer"
+  },
+  {
+    "name": "DHMİ",
+    "url": "https://www.dhmi.gov.tr/Sayfalar/HaberlerListesi.aspx",
+    "kind": "institution",
+    "focus": [
+      "turkiye",
+      "havaalani-gse",
+      "apron-araclari",
+      "elektrikli-arac",
+      "havalimani-teknolojileri",
+      "istatistik"
+    ],
+    "status": "watchlist-web-priority",
+    "priority": 90,
+    "origin": "turkiye-deep-research-2026-10",
+    "region": "TR",
+    "watch_urls": [
+      "https://www.dhmi.gov.tr/Sayfalar/Projelerimiz.aspx",
+      "https://www.dhmi.gov.tr/Sayfalar/HaberlerListesi.aspx"
+    ],
+    "editorial_role": "primary-public-institution"
+  },
+  {
+    "name": "SHGM",
+    "url": "https://web.shgm.gov.tr/tr/haberler/",
+    "kind": "institution",
+    "focus": [
+      "turkiye",
+      "havaalani-gse",
+      "yer-hizmetleri",
+      "mevzuat",
+      "ruhsat"
+    ],
+    "status": "watchlist-web-priority",
+    "priority": 87,
+    "origin": "turkiye-deep-research-2026-10",
+    "region": "TR",
+    "watch_urls": [
+      "https://web.shgm.gov.tr/tr/s/18-yer-hizmetleri-kuruluslari",
+      "https://web.shgm.gov.tr/tr/havacilik-isletmeleri/7573-havaalani-heliport-yer-hizmetleri-ve-terminal-isletmeleri"
+    ],
+    "editorial_role": "primary-regulator"
+  },
+  {
+    "name": "MAKFED",
+    "url": "https://www.makfed.org/",
+    "kind": "association",
+    "focus": [
+      "turkiye",
+      "makine-imalati",
+      "komponent",
+      "dijitallesme",
+      "yesil-donusum"
+    ],
+    "status": "watchlist-web-priority",
+    "priority": 86,
+    "origin": "turkiye-deep-research-2026-10",
+    "region": "TR",
+    "editorial_role": "primary-association"
+  },
+  {
+    "name": "TAYSAD",
+    "url": "https://www.taysad.org.tr/tr/haberler",
+    "kind": "association",
+    "focus": [
+      "turkiye",
+      "guc-aktarma",
+      "elektrifikasyon",
+      "komponent",
+      "akilli-uretim",
+      "tedarik-sanayi"
+    ],
+    "status": "watchlist-web-priority",
+    "priority": 84,
+    "origin": "turkiye-deep-research-2026-10",
+    "region": "TR",
+    "editorial_role": "primary-association"
+  },
+  {
+    "name": "YMGV",
+    "url": "https://ymgv.org.tr/",
+    "kind": "association",
+    "focus": [
+      "turkiye",
+      "madencilik",
+      "maden-teknolojileri",
+      "etkinlik",
+      "sektor-politikasi"
+    ],
+    "status": "watchlist-web",
+    "priority": 78,
+    "origin": "turkiye-deep-research-2026-10",
+    "region": "TR",
+    "editorial_role": "sector-foundation"
   }
 ]
