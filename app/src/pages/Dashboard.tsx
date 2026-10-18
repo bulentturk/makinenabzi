@@ -2,6 +2,7 @@ import { AppShell, type AppTab } from "@/components/app/AppShell";
 import { ArticleReader } from "@/components/app/ArticleReader";
 import { ExploreView } from "@/components/app/ExploreView";
 import { FeedView } from "@/components/app/FeedView";
+import { MarketView } from "@/components/app/MarketView";
 import { NotificationCenter } from "@/components/app/NotificationCenter";
 import { SavedList } from "@/components/app/SavedList";
 import { SettingsPanel } from "@/components/app/SettingsPanel";
@@ -125,6 +126,8 @@ export default function Dashboard() {
         {tab === "kesfet" && (
           <ExploreView onSearchArticles={handleSearchArticles} />
         )}
+
+        {tab === "pazar" && <MarketView isEditor={user?.role === "admin"} />}
 
         {tab === "bildirimler" && (
           <NotificationCenter

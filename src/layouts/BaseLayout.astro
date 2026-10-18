@@ -30,7 +30,7 @@ const nav = [
   ['Sektörler', '/#sektorler'],
   ['Teknoloji', '/#teknoloji'],
   ['Haberler', '/haberler/'],
-  ['Makine Pazarı', '/ilanlar/'],
+  ['İlanlar', '/ilanlar/'],
   ['Teknik Merkez', '/teknik-blog/'],
   ['Fuarlar', '/fuar-takvimi/'],
   ['Kaynaklar', '/kaynaklar/'],
@@ -100,7 +100,8 @@ const fullTitle = title === siteName ? title : `${title} | ${siteName}`;
         <div>
           <h3>Keşfet</h3>
           <a href={href('/haberler/')}>Haberler</a>
-          <a href={href('/ilanlar/')}>Makine Pazarı · Pilot</a>
+          <a href={href('/ilanlar/')}>İlanlar</a>
+          <a href={href('/ilan-ver/')}>İlan ver</a>
           <a href={href('/rss.xml')}>RSS ile takip et</a>
           <a href={href('/teknik-blog/')}>Teknik Merkez</a>
           <a href={href('/formatlar/')}>İçerik Formatları</a>

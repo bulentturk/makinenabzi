@@ -1,0 +1,73 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const href = (p: string) => `${base}${p}`;
+
+const steps = [
+  {
+    title: 'Hesabınızla giriş yapın',
+    body: 'E-posta adresinize tek kullanımlık kod gönderilir; şifre gerekmez. Aynı hesap Android uygulamasında da geçerlidir.',
+  },
+  {
+    title: 'Makine bilgilerini girin',
+    body: 'Sektör, marka, model, yıl, çalışma saati, konum ve fiyat. Fotoğraf ekleyin (en fazla 8).',
+  },
+  {
+    title: 'Editör onayı',
+    body: 'İlanlar yayına girmeden önce incelenir. Onaylanan ilan aynı gün içinde listelenir.',
+  },
+  {
+    title: 'İlanı yönetin',
+    body: 'İlanlarım ekranından düzenleyin, satıldı olarak işaretleyin veya kaldırın. Düzenlenen ilan yeniden onaya gider.',
+  },
+];
+
+const rules = [
+  'Yalnızca sahibi olduğunuz veya satış yetkiniz bulunan makineleri listeleyin.',
+  'Fotoğraflar makineye ait ve güncel olmalı; başka ilanlardan alınmış görsel kullanılamaz.',
+  'Fiyat, yıl ve çalışma saati bilgileri doğru olmalı; yanıltıcı künye ilanı kaldırılır.',
+  'Aynı makine için birden fazla ilan açılamaz.',
+  'İletişim bilgileri gerçek olmalı; ilan sahibi doğrudan iletişimden sorumludur.',
+];
+---
+
+<BaseLayout
+  title="İlan Ver"
+  description="Makine Nabzı'nda iş makinesi, yedek parça veya hizmet ilanı verin. Sektör seçin, künyeyi girin, editör onayından sonra ilan yayına alınır."
+>
+  <section class="page-head"><div class="container">
+    <span class="eyebrow">Makine pazarı</span>
+    <h1>İlan ver</h1>
+    <p>İlan vermek ücretsizdir. Bireysel satıcılar ve firmalar ilan verebilir; ilanlar yayına girmeden önce editör onayından geçer.</p>
+  </div></section>
+
+  <section class="section"><div class="container">
+    <div class="notice">
+      <strong>Form kısa süre içinde açılacak.</strong> İlan verme formu şu anda hazırlanıyor.
+      Bu arada <a href={href('/iletisim/')}>iletişim sayfasından</a> ilan bilgilerinizi bize gönderebilirsiniz.
+    </div>
+
+    <div class="section-head" style="margin-top:56px">
+      <div><span class="eyebrow">Nasıl işler</span><h2>Dört adımda ilan.</h2></div>
+    </div>
+    <div class="grid-4">
+      {steps.map((step, index) => (
+        <article class="card">
+          <span class="tag">{index + 1}. adım</span>
+          <h3>{step.title}</h3>
+          <p>{step.body}</p>
+        </article>
+      ))}
+    </div>
+
+    <div class="section-head" style="margin-top:56px">
+      <div><span class="eyebrow">Kurallar</span><h2>İlan kuralları.</h2></div>
+    </div>
+    <div class="card">
+      <ul class="clean-list">
+        {rules.map((rule) => <li>{rule}</li>)}
+      </ul>
+    </div>
+  </div></section>
+</BaseLayout>

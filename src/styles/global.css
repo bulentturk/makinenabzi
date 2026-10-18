@@ -143,3 +143,37 @@ h1,h2,h3{line-height:1.12;margin:0}.hero h1{font-size:clamp(2.7rem,6vw,5.8rem);m
 .event-sector-strip{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:52px}.event-sector-strip span{padding:9px 13px;border:1px solid var(--line);border-radius:999px;color:#aec0ce;font-size:.8rem}
 .event-year{margin-bottom:70px}.event-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}.event-card{padding:24px;border:1px solid var(--line);border-radius:18px;background:linear-gradient(180deg,var(--surface),rgba(8,17,26,.82));min-height:300px;display:flex;flex-direction:column}.event-card-priority{border-color:rgba(95,208,255,.32)}.event-topline{display:flex;justify-content:space-between;align-items:center;gap:10px}.event-priority{font-size:.68rem;text-transform:uppercase;letter-spacing:.1em;color:var(--cyan)}.event-card h3{font-size:1.4rem;margin:20px 0 10px}.event-date{font-weight:800;color:#eef7fc}.event-place{font-size:.9rem;color:var(--cyan);margin-top:4px}.event-card p{color:var(--muted);line-height:1.65;flex:1}.event-card a{color:var(--cyan);font-weight:800}.event-note{display:flex;gap:14px;padding:22px;border:1px solid var(--line);border-radius:14px;background:var(--surface);color:var(--muted)}.event-note strong{color:white;white-space:nowrap}
 @media(max-width:950px){.event-grid{grid-template-columns:repeat(2,1fr)}}@media(max-width:620px){.event-grid{grid-template-columns:1fr}.event-note{display:block}.event-note strong{display:block;margin-bottom:8px}}
+
+/* İlanlar (makine pazarı) */
+.listing-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.listing-card{display:flex;flex-direction:column;border:1px solid var(--line);border-radius:18px;background:linear-gradient(180deg,var(--surface),rgba(13,24,35,.72));overflow:hidden;transition:.2s ease}
+.listing-card:hover{transform:translateY(-3px);border-color:rgba(95,208,255,.42)}
+.listing-cover{width:100%;aspect-ratio:16/10;object-fit:cover;background:#0b1620;display:block}
+.listing-body{padding:22px;display:flex;flex-direction:column;gap:10px;flex:1}
+.listing-body h3{font-size:1.2rem;margin:0}
+.listing-body strong{color:var(--cyan);margin-top:auto}
+.listing-specs{color:var(--muted);font-size:.86rem;margin:0}
+.tag-muted{background:rgba(255,255,255,.06);color:#b9c9d6}
+.listing-empty{padding:34px;border:1px dashed var(--line);border-radius:18px;background:var(--surface)}
+.listing-empty h2{font-size:1.5rem;margin-bottom:10px}
+.listing-empty p{color:var(--muted);max-width:620px;margin:0 0 18px}
+.listing-sector-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
+.listing-layout{display:grid;grid-template-columns:minmax(0,1fr) 340px;gap:44px;align-items:start}
+.listing-gallery{display:grid;gap:12px}
+.listing-hero{width:100%;max-height:520px;object-fit:cover;border-radius:18px;border:1px solid var(--line);display:block}
+.listing-thumbs{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+.listing-thumbs img{width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:12px;border:1px solid var(--line)}
+.listing-placeholder{padding:40px;border:1px dashed var(--line);border-radius:18px;color:var(--muted);text-align:center}
+.listing-section-title{font-size:1.6rem;margin:44px 0 16px}
+.listing-description p{color:#c6d2dc;line-height:1.85}
+.listing-spec-box,.listing-contact{padding:24px;border:1px solid var(--line);border-radius:18px;background:var(--surface)}
+.listing-contact{margin-top:18px}
+.listing-specs-list{margin:16px 0 0;display:grid;gap:10px}
+.listing-specs-list>div{display:flex;justify-content:space-between;gap:14px;border-top:1px solid rgba(255,255,255,.06);padding-top:10px}
+.listing-specs-list dt{color:var(--muted);font-size:.85rem}
+.listing-specs-list dd{margin:0;font-weight:700;text-align:right}
+.listing-seller{margin:14px 0 4px;font-weight:700;font-size:1.05rem}
+.listing-phone{margin:0 0 14px;font-size:1.25rem;letter-spacing:.08em;color:var(--cyan-2)}
+.listing-note{color:var(--muted);font-size:.8rem;margin:14px 0 0}
+@media(max-width:900px){.listing-grid,.listing-sector-grid{grid-template-columns:repeat(2,1fr)}.listing-layout{grid-template-columns:1fr}}
+@media(max-width:620px){.listing-grid,.listing-sector-grid{grid-template-columns:1fr}}

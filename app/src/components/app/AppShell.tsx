@@ -6,6 +6,7 @@ import {
   Compass,
   Newspaper,
   Settings,
+  Store,
   type LucideIcon,
 } from "lucide-react";
 import type { ReactNode } from "react";
@@ -13,6 +14,7 @@ import type { ReactNode } from "react";
 export type AppTab =
   | "akis"
   | "kesfet"
+  | "pazar"
   | "bildirimler"
   | "kaydedilenler"
   | "ayarlar";
@@ -20,6 +22,7 @@ export type AppTab =
 const TABS: ReadonlyArray<{ id: AppTab; label: string; icon: LucideIcon }> = [
   { id: "akis", label: "Akış", icon: Newspaper },
   { id: "kesfet", label: "Keşfet", icon: Compass },
+  { id: "pazar", label: "Pazar", icon: Store },
   { id: "bildirimler", label: "Bildirimler", icon: Bell },
   { id: "kaydedilenler", label: "Kaydedilen", icon: Bookmark },
   { id: "ayarlar", label: "Ayarlar", icon: Settings },
@@ -117,7 +120,7 @@ export function AppShell({
         className="fixed inset-x-0 bottom-0 z-30 border-t border-border/70 bg-background/90 backdrop-blur-md lg:hidden"
         style={{ paddingBottom: "env(safe-area-inset-bottom, 0px)" }}
       >
-        <div className="mx-auto grid max-w-2xl grid-cols-5">
+        <div className="mx-auto grid max-w-2xl grid-cols-6">
           {TABS.map((item) => {
             const Icon = item.icon;
             const active = tab === item.id;

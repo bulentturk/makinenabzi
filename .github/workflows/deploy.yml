@@ -3,6 +3,9 @@ name: Deploy Astro site to Pages
 on:
   push:
     branches: [main]
+  # İlanlar editör onayıyla Convex'e yazılır; siteyi günde bir kez tazele.
+  schedule:
+    - cron: '0 4 * * *'
   workflow_dispatch:
 
 permissions:
@@ -26,6 +29,15 @@ jobs:
           node-version: 22
       - name: Install dependencies
         run: npm install
+      - name: Sync listings from Convex
+        env:
+          VITE_CONVEX_URL: ${{ secrets.VITE_CONVEX_URL }}
+        run: |
+          if [ -n "$VITE_CONVEX_URL" ]; then
+            node scripts/sync-listings.mjs --strict
+          else
+            echo "VITE_CONVEX_URL tanımlı değil; mevcut src/data/listings.json kullanılıyor."
+          fi
       - name: Build
         run: npm run build
       - name: Setup Pages

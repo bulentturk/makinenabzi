@@ -1,0 +1,47 @@
+{
+  "generatedAt": "2026-10-18T20:00:15.233Z",
+  "total": 0,
+  "sectors": [
+    {
+      "slug": "is-makinalari",
+      "label": "İş Makinaları",
+      "count": 0
+    },
+    {
+      "slug": "madencilik",
+      "label": "Madencilik",
+      "count": 0
+    },
+    {
+      "slug": "liman",
+      "label": "Liman & Malzeme Elleçleme",
+      "count": 0
+    },
+    {
+      "slug": "tarim",
+      "label": "Tarım Makinaları",
+      "count": 0
+    },
+    {
+      "slug": "arac-ustu-ekipman",
+      "label": "Araç Üstü Ekipman",
+      "count": 0
+    },
+    {
+      "slug": "elektrifikasyon",
+      "label": "Elektrifikasyon & Dönüşüm",
+      "count": 0
+    },
+    {
+      "slug": "marine-yatcilik",
+      "label": "Marine & Yatçılık",
+      "count": 0
+    },
+    {
+      "slug": "havaalani-gse",
+      "label": "Havalimanı & GSE",
+      "count": 0
+    }
+  ],
+  "listings": []
+}

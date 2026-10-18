@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Makine Nabzı</string>
+    <string name="title_activity_main">Makine Nabzı</string>
+    <string name="package_name">com.makinenabzi.app</string>
+    <string name="custom_url_scheme">com.makinenabzi.app</string>
+</resources>

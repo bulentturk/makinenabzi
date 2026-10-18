@@ -16,9 +16,10 @@ import { internalMutation } from "./_generated/server";
 export const ensureSeeded = internalMutation({
   args: {},
   handler: async (ctx) => {
-    const [fair, source] = await Promise.all([
+    const [fair, source, company] = await Promise.all([
       ctx.db.query("fairs").first(),
       ctx.db.query("sources").first(),
+      ctx.db.query("companies").first(),
     ]);
 
     const filled: string[] = [];
@@ -30,6 +31,10 @@ export const ensureSeeded = internalMutation({
     if (!source) {
       const result = await ctx.runMutation(internal.sources.reseed, {});
       filled.push(`sources:${result.imported}`);
+    }
+    if (!company) {
+      const result = await ctx.runMutation(internal.companies.reseed, {});
+      if (!("skipped" in result)) filled.push(`companies:${result.imported}`);
     }
 
     return {
