@@ -36,6 +36,12 @@ jobs:
           if [ "$PR_MERGED" = "true" ]; then STATE=published; else STATE=rejected; fi
           node scripts/retry-main-write.mjs review "$ID" "$STATE"
 
+      - name: Deploy an approved article
+        if: github.event.pull_request.merged == true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy.yml --ref main
+
       - name: Start next editorial review
         env:
           GH_TOKEN: ${{ github.token }}
