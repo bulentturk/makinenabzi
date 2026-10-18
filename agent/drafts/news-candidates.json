@@ -149,7 +149,7 @@
   },
   {
     "id": "11b4654893e0559d",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Dyno Nobel prototypes autonomous blasthole inspection & loading technology",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/10/01/dyno-nobel-prototypes-autonomous-blasthole-inspection-loading-technology/",
@@ -172,7 +172,7 @@
       "seo_title": "Dyno Nobel otonom patlatma deliği sistemi prototipi",
       "meta_description": "Dyno Nobel, madenlerde blasthole denetimi ve patlayıcı yüklemeyi otonom koordine etmeyi hedefleyen bir prototip tanıttı; saha verileri paylaşılmadı.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Dyno Nobel, blasthole denetim ve yükleme teknolojisi için bir prototip tanıttı.",
         "Teknoloji, delme-patlatma sürecini otonom biçimde koordine etmeyi hedefliyor.",
@@ -200,7 +200,9 @@
         "Beş yıllık Ar-Ge ve sistemin kapsamına ilişkin ifadeler haber özetinde aktarılıyor; bağımsız doğrulama veya test sonucu sunulmuyor."
       ],
       "generated_at": "2026-10-02T19:52:19.544Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-18T17:12:00.537Z",
+      "review_result": "published"
     },
     "subsector": null
   },
