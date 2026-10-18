@@ -3,6 +3,8 @@
 # Kabuk betikleri LF kalmalı; CRLF olursa Linux/macOS'ta gradlew çalışmaz.
 gradlew text eol=lf
 *.sh text eol=lf
+*.gradle text eol=lf
+*.properties text eol=lf
 *.bat text eol=crlf
 *.cmd text eol=crlf
 *.ps1 text eol=crlf
