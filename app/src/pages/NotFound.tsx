@@ -33,10 +33,13 @@ export default function NotFound() {
             variant="outline"
             className="h-10 rounded-xl border-border/80 px-5"
           >
-            <Link to="/">
+            {/* Sitenin köküne dön: /app/ içindeki "/" panele gider. */}
+            <a
+              href={import.meta.env.BASE_URL.replace(/\/app\/$/, "/") || "/"}
+            >
               <ArrowLeft className="size-4" />
               Ana sayfa
-            </Link>
+            </a>
           </Button>
         </div>
       </motion.div>

@@ -80,7 +80,11 @@ export function RequireAuth({
             <Button
               variant="ghost"
               className="w-full"
-              onClick={() => navigate("/")}
+              // Üye alanı sitenin alt yolu; "ana sayfa" sitenin köküne dönmeli.
+              onClick={() => {
+                window.location.href =
+                  import.meta.env.BASE_URL.replace(/\/app\/$/, "/") || "/";
+              }}
             >
               Ana sayfaya dön
             </Button>
