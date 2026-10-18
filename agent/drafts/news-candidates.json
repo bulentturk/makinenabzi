@@ -318,7 +318,7 @@
   },
   {
     "id": "6ce3069380adcf0a",
-    "status": "drafted",
+    "status": "published",
     "title_original": "New BOTON Brazil entity enhances local service capabilities for mining customers",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/10/15/new-boton-brazil-entity-enhances-local-service-capabilities-for-mining-customers/",
@@ -338,7 +338,7 @@
       "seo_title": "BOTON, Brezilya’da madencilik hizmet şirketi kurdu",
       "meta_description": "BOTON Brasil Conveyors Services Pecém Ltd 14 Ekim 2026’da kuruldu. Şirketin hizmet kapsamı ve operasyonel kapasitesi henüz açıklanmadı.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "BOTON Brasil Conveyors Services Pecém Ltd 14 Ekim 2026’da resmen kuruldu.",
         "International Mining, kuruluşu BOTON’un küresel hizmet ağını ve Güney Amerika’daki varlığını genişletme adımı olarak aktarıyor.",
@@ -364,7 +364,9 @@
         "Yeni şirketin hizmet kapsamı, tesisleri, personeli ve operasyon başlangıç tarihi belirtilmiyor; önemli operasyonel iddialar için BOTON’un birincil açıklaması doğrulanmalı."
       ],
       "generated_at": "2026-10-18T19:43:54.634Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-18T19:59:22.520Z",
+      "review_result": "published"
     },
     "subsector": null
   },
