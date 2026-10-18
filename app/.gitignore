@@ -15,4 +15,4 @@ android/capacitor-cordova-android-plugins/build/
 *.iml
 .idea/
 # Convex istemcisi `npx convex dev` / `npx convex deploy` ile üretilir.
-src/convex/_generated
+# Convex tipleri depoda tutulur: GitHub Pages derlemesi kimlik bilgisi istemesin.
