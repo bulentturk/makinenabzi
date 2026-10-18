@@ -1,0 +1,16 @@
+* text=auto
+
+# Kabuk betikleri LF kalmalı; CRLF olursa Linux/macOS'ta gradlew çalışmaz.
+gradlew text eol=lf
+*.sh text eol=lf
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+
+# İkili dosyalar
+*.png binary
+*.jpg binary
+*.webp binary
+*.jar binary
+*.keystore binary
+*.aab binary
