@@ -11,7 +11,7 @@ Temiz haber adaylarını kaynak sayfasındaki olgulara dayalı Türkçe editorya
 5. Çıktı katı biçimde doğrulanır.
 6. Haber status alanı candidate -> drafted olur.
 7. Türkiye saatiyle hafta içi 09:17'de, açık onay PR'ına ayrılmamış ve kaynak erişimi ile içerik ölçütlerini karşılayan en yüksek puanlı bir taslak doğrudan yayımlanır. Aynı gün yeniden çalıştırılsa ikinci otomatik haber yayımlanmaz. Uygun taslak yoksa boş veya doğrulanmamış haber üretilmez.
-8. Diğer taslaklar için, önceden olduğu gibi, açık onay PR'ı yokken bir onay PR'ı açılır. PR yalnız kendi haber kaydını içerir; günlük yayın ile ana haber dosyasında çakışmaz.
+8. Onay PR'ı hazırlanırken en iyi uygun taslak sıradaki günlük otomatik yayın için ayrılır. Diğer taslaklar için açık onay PR'ı yokken bir onay PR'ı açılır. Otomatik yayın sonrasında kalan adayların PR kuyruğu yeniden çalışır. PR yalnız kendi haber kaydını içerir; günlük yayın ile ana haber dosyasında çakışmaz.
 
 ## Güvenlik
 - Kaynak web sayfası güvenilmeyen veri olarak değerlendirilir.

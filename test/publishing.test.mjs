@@ -72,6 +72,21 @@ test('selection skips already published and excluded IDs', async () => {
   assert.equal(selectDraft(items, [{ id: idA }], [{ name: 'Source' }]).id, idB);
 });
 
+test('approval queue reserves the best eligible story for automatic publication', async () => {
+  const f = await fixture();
+  try {
+    const env = { REVIEW_CANDIDATES_FILE: f.candidates, REVIEW_PUBLISHED_FILE: f.published,
+      REVIEW_SOURCES_FILE: f.sources, REVIEW_TMP_DIR: f.dir, REVIEW_NOW: '2026-10-19T05:30:00Z' };
+    run('prepare-review-pr.mjs', env);
+    assert.equal((await fs.readFile(path.join(f.dir, 'review-id.txt'), 'utf8')).trim(), idB);
+    const candidates = JSON.parse(await fs.readFile(f.candidates, 'utf8'));
+    candidates.splice(1);
+    await fs.writeFile(f.candidates, JSON.stringify(candidates));
+    run('prepare-review-pr.mjs', env);
+    assert.equal((await fs.readFile(path.join(f.dir, 'review-count.txt'), 'utf8')).trim(), '0');
+  } finally { await fs.rm(f.dir, { recursive: true, force: true }); }
+});
+
 test('merged approval materializes only its article and is safe to retry', async () => {
   const f = await fixture();
   try {
