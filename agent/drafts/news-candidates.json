@@ -493,7 +493,7 @@
   },
   {
     "id": "48efd3d54f9610d2",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Manitou’s New MRT 4080 Telehandler: A 3-in-1 Machine That Extends 131 Feet",
     "source_name": "Equipment World",
     "source_url": "https://www.equipmentworld.com/aeriallifting-equipment/telehandlers/article/15837478/manitou-mrt-4080-rotary-telehandler-reaches-131-feet",
@@ -513,7 +513,7 @@
       "seo_title": "Manitou MRT 4080: 131 feet erişimli döner yükleyici",
       "meta_description": "Manitou MRT 4080, habere göre teleskopik yükleyici, vinç ve çalışma platformu işlevlerini birleştiriyor; kaldırma kapasitesi 17.637 lb’ye kadar.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Haberde ürün Manitou MRT 4080 olarak adlandırılıyor.",
         "Equipment World başlığında erişim 131 feet olarak veriliyor.",
@@ -540,7 +540,9 @@
         "131 feet erişim ve 17.637 lb kapasitenin geçerli olduğu konfigürasyon ile çalışma koşulları belirtilmiyor; üretici teknik belgeleriyle doğrulanmalı."
       ],
       "generated_at": "2026-10-18T19:43:54.634Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-18T20:34:30.968Z",
+      "review_result": "published"
     },
     "subsector": null
   },
