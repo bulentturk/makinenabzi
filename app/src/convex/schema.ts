@@ -159,6 +159,89 @@ const schema = defineSchema(
     })
       .index("by_user", ["userId"])
       .index("by_user_article", ["userId", "articleId"]),
+
+    // ---- Firma rehberi (OEM / bayi / servis / tedarikçi) ----
+    companies: defineTable({
+      key: v.string(),
+      name: v.string(),
+      sector: v.string(),
+      kind: v.union(
+        v.literal("oem"),
+        v.literal("dealer"),
+        v.literal("service"),
+        v.literal("supplier"),
+      ),
+      city: v.optional(v.string()),
+      country: v.optional(v.string()),
+      description: v.optional(v.string()),
+      website: v.optional(v.string()),
+      phone: v.optional(v.string()),
+      logoUrl: v.optional(v.string()),
+      verified: v.boolean(),
+      status: v.union(
+        v.literal("pending"),
+        v.literal("approved"),
+        v.literal("rejected"),
+      ),
+      createdBy: v.optional(v.id("users")),
+      createdAt: v.number(),
+    })
+      .index("by_key", ["key"])
+      .index("by_sector", ["sector"])
+      .index("by_status", ["status"]),
+
+    // ---- İlanlar (satılık / kiralık / yedek parça) ----
+    listings: defineTable({
+      title: v.string(),
+      description: v.string(),
+      category: v.union(
+        v.literal("satilik"),
+        v.literal("kiralik"),
+        v.literal("yedek-parca"),
+        v.literal("hizmet"),
+      ),
+      price: v.optional(v.number()),
+      currency: v.optional(v.string()),
+      city: v.optional(v.string()),
+      companyId: v.optional(v.id("companies")),
+      contactName: v.string(),
+      contactPhone: v.string(),
+      images: v.array(v.string()),
+      status: v.union(
+        v.literal("pending"),
+        v.literal("approved"),
+        v.literal("rejected"),
+        v.literal("expired"),
+      ),
+      createdBy: v.id("users"),
+      createdAt: v.number(),
+    })
+      .index("by_status_createdAt", ["status", "createdAt"])
+      .index("by_createdBy", ["createdBy"]),
+
+    // ---- Dergi sayıları (offline okuma paketi) ----
+    magazines: defineTable({
+      issueNo: v.number(),
+      title: v.string(),
+      coverUrl: v.optional(v.string()),
+      pdfUrl: v.optional(v.string()),
+      articleIds: v.array(v.id("articles")),
+      isPublished: v.boolean(),
+      publishedAt: v.number(),
+    })
+      .index("by_issueNo", ["issueNo"])
+      .index("by_publishedAt", ["publishedAt"]),
+
+    // ---- Native push tokenları (FCM → Convex) ----
+    pushTokens: defineTable({
+      userId: v.id("users"),
+      token: v.string(),
+      platform: v.union(v.literal("android"), v.literal("web")),
+      createdAt: v.number(),
+      updatedAt: v.number(),
+    })
+      .index("by_user", ["userId"])
+      .index("by_token", ["token"]),
   },
   {
     schemaValidation: false,

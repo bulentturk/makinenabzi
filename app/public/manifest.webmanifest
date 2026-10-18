@@ -1,4 +1,5 @@
 {
+  "id": "/",
   "name": "Makine Nabzı — Mobil Makine Haberleri",
   "short_name": "Makine Nabzı",
   "description": "İş makinaları, madencilik, liman, tarım, araç üstü ekipman ve elektrifikasyonda haber ve teknik analiz. Sektörünüzü seçin, yeni gelişmeleri bildirim olarak alın.",
@@ -22,6 +23,24 @@
       "src": "/app-icon-maskable.svg",
       "sizes": "any",
       "type": "image/svg+xml",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
       "purpose": "maskable"
     }
   ]
