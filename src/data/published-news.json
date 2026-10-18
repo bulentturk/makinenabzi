@@ -1,5 +1,38 @@
 [
   {
+    "id": "f53d4390760cc62a",
+    "slug": "ravenna-futura-cift-castoldi-td-284-evt-su-jetiyle-elektrikli-tahrik-kullaniyor",
+    "title": "Ravenna Futura, çift Castoldi TD 284 EVT su jetiyle elektrikli tahrik kullanıyor",
+    "dek": "Ravenna Limanı’nda çalışmak üzere inşa edilen 15 metrelik iş teknesinde elektrik motorları, lityum ve kurşun akü paketleri, fotovoltaik paneller ve iki TD 284 EVT su jeti bir araya geliyor.",
+    "summary": "Marine Industry News’e göre Ravenna Futura, İtalya’nın Ravenna kentinde hizmet vermek üzere denize indirilen 15 metrelik, tamamen elektrikli bir iş teknesi. Teknenin enerji sisteminde lityum ve kurşun akü paketleri ile fotovoltaik paneller bulunuyor.\n\nTahrik düzeninde elektrik motorlarına bağlı iki Castoldi TD 284 EVT su jeti kullanılıyor. Haberde, teknenin çalışması sırasında egzoz emisyonu oluşmadığı belirtiliyor. Açıkta dönen pervanesi bulunmayan su jeti düzeninin sığ sularda ve hassas doğal alanlarda deniz yaşamına yönelik riskleri azaltmasının amaçlandığı aktarılıyor.\n\nCastoldi, su jetlerinin hassas yönlendirme ve farklı hızlarda hızlı itki tepkisi sağladığını; bu özelliklerin liman ve dar kanallardaki manevraları desteklediğini belirtiyor. Bu performans ifadeleri üreticiye atfediliyor; haberde bağımsız test verisi sunulmuyor.",
+    "why_it_matters": "Elektrikli iş teknesinde su jeti tahrikinin kullanılması, liman ve dar su yollarındaki çalışma senaryoları için batarya-elektrik motoru entegrasyonuna bir örnek sunuyor. Uygulamanın menzil, enerji tüketimi veya operasyonel performansı hakkında kaynakta ölçüm bulunmadığından bu başlıklarda sonuç çıkarmak mümkün değil.",
+    "key_facts": [
+      "Ravenna Futura, Ravenna Limanı’nda çalışmak üzere inşa edilmiş 15 metrelik elektrikli bir iş teknesi olarak tanıtıldı.",
+      "Teknede lityum ve kurşun akü paketleri ile fotovoltaik paneller bulunuyor.",
+      "Tahrik sistemi, elektrik motorlarına bağlı iki Castoldi TD 284 EVT su jetinden oluşuyor.",
+      "Kaynak, teknenin çalışması sırasında egzoz emisyonu oluşmadığını bildiriyor."
+    ],
+    "format": "haber",
+    "sector": "marine-yatcilik",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "tags": [
+      "Ravenna Futura",
+      "Castoldi",
+      "TD 284 EVT",
+      "elektrikli iş teknesi",
+      "su jeti",
+      "liman ekipmanları"
+    ],
+    "source_name": "Marine Industry News",
+    "source_url": "https://marineindustrynews.co.uk/castoldi-waterjets-power-fully-electric-ravenna-futura/",
+    "source_published_at": "2026-10-16T07:45:00.000Z",
+    "site_published_at": "2026-10-18T17:13:09.331Z",
+    "hero_image": ""
+  },
+  {
     "id": "429ed57463198919",
     "slug": "bradken-smartroller-ekskavator-alt-takim-makaralarinin-sicakligini-uzaktan-izliyor",
     "title": "Bradken SmartRoller, ekskavatör alt takım makaralarının sıcaklığını uzaktan izliyor",
