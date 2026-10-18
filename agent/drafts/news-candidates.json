@@ -121,64 +121,6 @@
     "subsector": null
   },
   {
-    "id": "c830b35b3d7a89c7",
-    "status": "candidate",
-    "title_original": "EACON rigid truck AHS retrofitted & adapted in four months at Chinese coal mine",
-    "source_name": "International Mining",
-    "source_url": "https://im-mining.com/2026/10/14/eacon-rigid-truck-ahs-retrofitted-adapted-in-four-months-at-chinese-coal-mine/",
-    "source_feed": "https://im-mining.com/feed/",
-    "published_at": "2026-10-14T08:26:51.000Z",
-    "discovered_at": "2026-10-14T09:51:07.197Z",
-    "sector": "madencilik",
-    "technologies": [
-      "otonomi-ai",
-      "fonksiyonel-guvenlik"
-    ],
-    "relevance_score": 166,
-    "editorial_fit_score": 89,
-    "summary_source": "Autonomous haulage solution provider, EACON Mining Technology, has brought a new rigid dump truck platform into autonomous production at a coal mine in northern China, with a fleet of 90 t class TR100A rigid dump trucks from Inner Mongolia North Hauler Joint Stock Co Ltd (NHL) now operating autonomously without onboard safety drivers. The new The post EACON rigid truck AHS retrofitted & adapted in four months at Chinese coal mine appeared first on International Mining.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    },
-    "subsector": null
-  },
-  {
-    "id": "01defad418e09ff5",
-    "status": "candidate",
-    "title_original": "Epiroc revamps Scooptram 10 tonne underground loader to boost safety, productivity and reliability",
-    "source_name": "International Mining",
-    "source_url": "https://im-mining.com/2026/10/14/epiroc-revamps-scooptram-10-tonne-underground-loader-to-boost-safety-productivity-and-reliability/",
-    "source_feed": "https://im-mining.com/feed/",
-    "published_at": "2026-10-14T07:32:02.000Z",
-    "discovered_at": "2026-10-14T09:51:07.200Z",
-    "sector": "madencilik",
-    "technologies": [
-      "emisyon-stage-v",
-      "fonksiyonel-guvenlik"
-    ],
-    "relevance_score": 166,
-    "editorial_fit_score": 91,
-    "summary_source": "Epiroc’s 10 t Scooptram underground loader has received a major upgrade, featuring a new design, enhanced serviceability, compliance with new CE standards and Stage V engine alternative, helping the Scooptram ST10 P deliver increased safety, productivity and reliability for underground operations. The Scooptram ST10 P is part of Epiroc’s new Power series, offering reliable performance, The post Epiroc revamps Scooptram 10 tonne underground loader to boost safety, productivity and reliability appeared first on International Mining.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    },
-    "subsector": "yeraltı-madenciliği"
-  },
-  {
     "id": "11b4654893e0559d",
     "status": "drafted",
     "title_original": "Dyno Nobel prototypes autonomous blasthole inspection & loading technology",
@@ -372,58 +314,6 @@
     "subsector": null
   },
   {
-    "id": "f6b8f4b3708cdd5f",
-    "status": "candidate",
-    "title_original": "Steyr launches Spezial F CVT tractor for orchard growers",
-    "source_name": "iVT International",
-    "source_url": "https://www.ivtinternational.com/news/agriculture/steyr-launches-spezial-f-cvt-tractor-for-orchard-growers.html",
-    "source_feed": "https://www.ivtinternational.com/feed",
-    "published_at": "2026-10-14T08:07:05.000Z",
-    "discovered_at": "2026-10-14T09:51:07.140Z",
-    "sector": "tarim",
-    "technologies": [],
-    "relevance_score": 150,
-    "editorial_fit_score": 55,
-    "summary_source": "Steyr is returning to the specialty tractor segment with the Spezial F CVT, a range of 100-120hp tractors developed for orchard, hop-growing and other perennial high-value crop work. The models [...] The post Steyr launches Spezial F CVT tractor for orchard growers appeared first on Industrial Vehicle Technology International.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    },
-    "subsector": null
-  },
-  {
-    "id": "c46a2dffd5e69222",
-    "status": "candidate",
-    "title_original": "Steyr brings five-model forestry line-up to Interforst",
-    "source_name": "iVT International",
-    "source_url": "https://www.ivtinternational.com/news/exhibitions/steyr-brings-five-model-forestry-line-up-to-interforst.html",
-    "source_feed": "https://www.ivtinternational.com/feed",
-    "published_at": "2026-10-14T07:17:15.000Z",
-    "discovered_at": "2026-10-14T09:51:07.142Z",
-    "sector": "tarim",
-    "technologies": [],
-    "relevance_score": 150,
-    "editorial_fit_score": 55,
-    "summary_source": "Steyr will present a cross-section of its forestry tractor range at Interforst 2026 in Munich, Germany, which runs this week from 15 to 18 October, with models spanning compact utility [...] The post Steyr brings five-model forestry line-up to Interforst appeared first on Industrial Vehicle Technology International.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    },
-    "subsector": null
-  },
-  {
     "id": "f53d4390760cc62a",
     "status": "candidate",
     "title_original": "Castoldi waterjets power fully electric Ravenna Futura",
@@ -558,32 +448,6 @@
     "subsector": null
   },
   {
-    "id": "253497b7c5302031",
-    "status": "candidate",
-    "title_original": "Rolls-Royce licenses marine engine production in Saudi Arabia",
-    "source_name": "Marine Industry News",
-    "source_url": "https://marineindustrynews.co.uk/rolls-royce-licenses-marine-engine-production-in-saudi-arabia/",
-    "source_feed": "https://marineindustrynews.co.uk/feed/",
-    "published_at": "2026-10-14T07:15:04.000Z",
-    "discovered_at": "2026-10-14T19:15:38.881Z",
-    "sector": "marine-yatcilik",
-    "technologies": [],
-    "relevance_score": 138,
-    "editorial_fit_score": 55,
-    "summary_source": "Rolls-Royce Power Systems has signed a licensing agreement with Saudi Engines Manufacturing Company (Makeen) to manufacture and assemble mtu Series 2000 marine engines in Saudi Arabia. Rolls-Royce says it is the first high-speed engine manufacturer to license local production in the country. The deal follows a framework license agreement signed in November 2023, which set […] The post Rolls-Royce licenses marine engine production in Saudi Arabia appeared first on Marine Industry News.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    },
-    "subsector": null
-  },
-  {
     "id": "1b486af9df842d29",
     "status": "candidate",
     "title_original": "New Holland Construction Launches Five New Machines",
@@ -597,86 +461,6 @@
     "relevance_score": 130,
     "editorial_fit_score": 65,
     "summary_source": "New Holland Construction is bringing five machines to market, the new C324 Mini Track Loader, F60C and F80C Rough Terrain Forklifts and W50D and W60D Compact Wheel Loaders....",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    },
-    "subsector": null
-  },
-  {
-    "id": "fc6ee4931d3d4ccd",
-    "status": "candidate",
-    "title_original": "Volvo Trucks Unveils New VNX Vocational Truck",
-    "source_name": "Construction Equipment Guide",
-    "source_url": "https://www.constructionequipmentguide.com/volvo-trucks-unveils-new-vnx-vocational-truck/72505",
-    "source_feed": "https://feeds.feedburner.com/ceg",
-    "published_at": "2026-10-14T05:00:00.000Z",
-    "discovered_at": "2026-10-15T18:59:51.038Z",
-    "sector": "madencilik",
-    "technologies": [],
-    "relevance_score": 130,
-    "editorial_fit_score": 65,
-    "summary_source": "Volvo Trucks has officially unveiled the all-new Volvo VNX, a vocational and heavy-haul truck, built for work across construction, concrete, logging, agriculture, heavy-haul highway and municipal plow....",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    },
-    "subsector": null
-  },
-  {
-    "id": "58d1491d23c6bcdd",
-    "status": "candidate",
-    "title_original": "Potain Launches ECS, New Smart Tower Crane Control",
-    "source_name": "Construction Equipment Guide",
-    "source_url": "https://www.constructionequipmentguide.com/potain-launches-ecs-new-smart-tower-crane-control/72494",
-    "source_feed": "https://feeds.feedburner.com/ceg",
-    "published_at": "2026-10-14T05:00:00.000Z",
-    "discovered_at": "2026-10-14T19:15:38.134Z",
-    "sector": "is-makinalari",
-    "technologies": [],
-    "relevance_score": 130,
-    "editorial_fit_score": 65,
-    "summary_source": "Customizable control, intelligent data logging and faster fault diagnosis define Potain's new ECS....",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    },
-    "subsector": null
-  },
-  {
-    "id": "f776142673e94464",
-    "status": "candidate",
-    "title_original": "3West Equipment Builds Hydraulic Breaker Business",
-    "source_name": "Construction Equipment Guide",
-    "source_url": "https://www.constructionequipmentguide.com/3west-equipment-builds-hydraulic-breaker-business/72501",
-    "source_feed": "https://feeds.feedburner.com/ceg",
-    "published_at": "2026-10-14T05:00:00.000Z",
-    "discovered_at": "2026-10-14T19:15:38.127Z",
-    "sector": "is-makinalari",
-    "technologies": [
-      "hidrolik"
-    ],
-    "relevance_score": 128,
-    "editorial_fit_score": 67,
-    "summary_source": "...",
     "editorial": {
       "title_tr": "",
       "dek_tr": "",
@@ -835,32 +619,6 @@
     "relevance_score": 115,
     "editorial_fit_score": 55,
     "summary_source": "A father whose son received a life-saving heart transplant at Royal Papworth hospital is donating all the proceeds from the sale of his 1991 Ford 7810 Silver Jubilee tractor to the Cambridge-based hospital. The post Charity auction of Silver Jubilee Ford tractor appeared first on Profi.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    },
-    "subsector": null
-  },
-  {
-    "id": "226f0f591ad7025e",
-    "status": "candidate",
-    "title_original": "Ertek, Easy Lift’in yeni tasarımlı RA31 örümcek platformunu ilk satın alan firma oldu",
-    "source_name": "LHT",
-    "source_url": "https://www.lht.com.tr/ertek-easy-liftin-yeni-tasarimli-ra31-orumcek-platformunu-ilk-satin-alan-firma-oldu/",
-    "source_feed": "https://www.lht.com.tr/feed/",
-    "published_at": "2026-10-14T07:55:43.000Z",
-    "discovered_at": "2026-10-17T22:47:47.147Z",
-    "sector": "arac-ustu-ekipman",
-    "technologies": [],
-    "relevance_score": 115,
-    "editorial_fit_score": 65,
-    "summary_source": "Easy Lift, 20. kuruluş yıl dönümünde yeni marka kimliğini tanıttı. Markanın yeni renk tasarımını taşıyan RA31 örümcek platformunu satın alan ilk firma, Türkiye merkezli Ertek oldu. Ertek’in İzmir Optimum AVM’ye sattığı platform, alışveriş merkezindeki tabela değiştirme çalışmalarında kullanılmaya başlandı. Kasım 2026’dan itibaren yeni tasarım, üretilecek platformlara kademeli olarak uygulanacak. İtalya merkezli personel yükseltici platform üreticisi […]",
     "editorial": {
       "title_tr": "",
       "dek_tr": "",
