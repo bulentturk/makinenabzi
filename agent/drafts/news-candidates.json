@@ -372,7 +372,7 @@
   },
   {
     "id": "9083051e58f5b196",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Valtra introduces sixth-generation T Series tractor range",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/agriculture/valtra-introduces-sixth-generation-t-series-tractor-range.html",
@@ -392,7 +392,7 @@
       "seo_title": "Valtra altıncı nesil T Serisi traktörlerini tanıttı",
       "meta_description": "Valtra'nın yeni T Serisi 170-245 hp aralığında. AGCO Power Core75 motor, SmartTouch Gen2 arayüz ve fabrikada bağlantıya hazır donanım öne çıkıyor.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Valtra altıncı nesil T Serisi traktör ailesini tanıttı.",
         "Kaynak özeti güç aralığını 170-245 hp olarak veriyor.",
@@ -423,7 +423,9 @@
         "Motor performansı, emisyon seviyesi, şanzıman seçenekleri, bağlantı özellikleri ve pazar takvimi için üreticinin birincil teknik duyurusu doğrulanmalı."
       ],
       "generated_at": "2026-10-18T19:43:54.634Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-18T20:04:59.105Z",
+      "review_result": "published"
     },
     "subsector": null
   },

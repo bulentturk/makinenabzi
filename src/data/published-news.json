@@ -1,5 +1,39 @@
 [
   {
+    "id": "9083051e58f5b196",
+    "slug": "valtra-altinci-nesil-t-serisi-traktorlerini-tanitti",
+    "title": "Valtra, altıncı nesil T Serisi traktörlerini tanıttı",
+    "dek": "Yeni T Serisi, 170-245 hp güç aralığında sunuluyor. Kaynak özeti; AGCO Power Core75 motoru, SmartTouch Gen2 operatör arayüzünü ve fabrikada bağlantı sistemlerine hazır donanımı öne çıkarıyor.",
+    "summary": "iVT International’ın haber özetine göre Valtra, altıncı nesil T Serisi traktör ailesini tanıttı. Seri 170-245 hp güç aralığında konumlandırılıyor ve yeni AGCO Power Core75 motorla sunuluyor.\n\nÖzette ayrıca yenilenen SmartTouch Gen2 operatör arayüzü ile fabrikada bağlantı sistemlerine hazır olma özelliği belirtiliyor. Motorun teknik özellikleri, arayüz değişikliklerinin kapsamı ve bağlantı işlevleri hakkında verilen kaynak metinde ayrıntı yer almıyor.",
+    "why_it_matters": "Motor, operatör arayüzü ve bağlantı donanımındaki değişiklikler, traktörün güç sistemi ve dijital işlevlerini birlikte değerlendirmek isteyen tarım makinesi kullanıcıları için önem taşıyor. Ancak kaynakta bu yeniliklerin performans veya işletme maliyetlerine etkisini gösterecek ölçüm bulunmuyor.",
+    "key_facts": [
+      "Valtra altıncı nesil T Serisi traktör ailesini tanıttı.",
+      "Kaynak özeti güç aralığını 170-245 hp olarak veriyor.",
+      "Özette AGCO Power Core75 motor ve SmartTouch Gen2 arayüz adı geçiyor.",
+      "Traktörlerin fabrikada bağlantı sistemlerine hazır olduğu belirtiliyor."
+    ],
+    "format": "haber",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [
+      "elektronik-telematik"
+    ],
+    "tags": [
+      "Valtra",
+      "T Serisi",
+      "tarım traktörü",
+      "AGCO Power Core75",
+      "SmartTouch Gen2",
+      "bağlantılı makineler"
+    ],
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/news/agriculture/valtra-introduces-sixth-generation-t-series-tractor-range.html",
+    "source_published_at": "2026-10-15T09:58:02.000Z",
+    "site_published_at": "2026-10-18T20:04:59.103Z",
+    "hero_image": "",
+    "publish_mode": "approved"
+  },
+  {
     "id": "6ce3069380adcf0a",
     "slug": "boton-brezilya-da-madencilik-konveyorleri-icin-hizmet-sirketi-kurdu",
     "title": "BOTON, Brezilya’da madencilik konveyörleri için hizmet şirketi kurdu",
