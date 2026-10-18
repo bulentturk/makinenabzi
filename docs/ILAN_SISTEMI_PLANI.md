@@ -232,28 +232,11 @@ React adası olarak eklenecek; site ile Convex farklı alan adlarında olduğu i
 14. Ücretli öne çıkarma (opsiyonel, sonra karar).
 15. Telefon doğrulaması ve gelişmiş spam koruması.
 
-## 12. Açık blokaj: giriş e-postası
+## 12. Açık blokaj: giriş sağlayıcısı
 
-E-posta kodu gönderimi `RESEND_API_KEY` ve `AUTH_EMAIL_FROM` ortam
-değişkenlerine bağlı; ikisi de tanımlı değil. Bu yüzden uygulamada **hiçbir**
-kullanıcı e-posta ile giriş yapamıyor ve doğrulanmış satıcı olamıyor. Misafir
-hesaplar ilan veremez (tasarm gereği), dolayısıyla ilan verme akışı uçtan uca
-henüz denenemedi. Anahtarlar tanımlandığında akış kendiliğinden açılır.
-
-## 11. Onaylanan kararlar
-
-| Karar | Seçim |
-| --- | --- |
-| Üye alanı | **Hem sitede hem app panelinde.** Kimlik Convex Auth'ta ortak olduğu için hesaplar iki ortamda aynıdır; ekranlar ortak Convex fonksiyonlarını kullanır. |
-| İlan veren | **Bireysel + firma.** Doğrulanmamış satıcı "bireysel" etiketiyle görünür. |
-| Yayın modeli | **Ön onay.** `pending → approved` yalnızca editör onayıyla. |
-| Görseller | **Convex depolama.** Yükleme `generateUploadUrl`, okuma imzalı URL. |
-| İlan süresi / kota | 60 gün; bireysel 3, doğrulanmış firma 10 aktif ilan (profil bazında artırılabilir). |
-
-### Üyelik neden iki ortamda da çalışır
-
-Kimlik doğrulama Convex'te tutulduğu için tek hesap hem `makinenabzi.com`
-hem Android uygulaması için geçerlidir. Sitede `/ilan-ver/` ve `/hesabim/`
-sayfaları, uygulamada ise "İlan Ver" / "İlanlarım" ekranları **aynı** Convex
-fonksiyonlarını çağırır; kurallar tek yerde (`listings.ts` + `lib/authz.ts`)
-tanımlıdır. Böylece bir ortamda verilen ilan diğerinde anında görünür.
+Karar: e-posta kodu yerine **Google ile giriş**. Kod tarafı hazır
+(`src/convex/auth.ts` içinde `Google` sağlayıcısı + giriş ekranındaki düğme);
+eksik olan Google Cloud OAuth istemcisi ve `AUTH_GOOGLE_ID` /
+`AUTH_GOOGLE_SECRET` değişkenleri. Kurulum adımları `docs/BACKEND_SETUP.md`
+içinde. Anahtarlar girilene kadar uygulamada doğrulanmış hesap oluşamıyor,
+dolayısıyla ilan verme akışı uçtan uca henüz denenmedi.
