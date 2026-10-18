@@ -198,10 +198,14 @@ URL, `og:image` (kapak görseli). Mevcut `BaseLayout` bunların hepsini destekli
 
 ## 9. Mobil uygulama entegrasyonu
 
-Aynı Convex tabloları kullanıldığı için uygulamada ek iş yok:
-`listings:list`, `listings:myListings`, `listings:create` fonksiyonları hazır.
-Uygulamaya eklenecekler: sektör bazlı ilan listesi, ilan detayı, "ilan ver" formu,
-"ilanlarım" ekranı. Toplam: 4 ekran, ek backend gerekmez.
+Uygulamada "Pazar" sekmesi eklendi (`src/components/app/MarketView.tsx`):
+ilan vitrini + filtreler, ilan detayı, "İlan ver" formu (fotoğraf yükleme dahil),
+"İlanlarım" ekranı ve editörler için moderasyon kuyruğu. Hepsi mevcut Convex
+fonksiyonlarını çağırır; ek backend gerekmedi.
+
+Sitedeki `/ilan-ver/` şu an tanıtım sayfası. Etkileşimli form oraya ayrı bir
+React adası olarak eklenecek; site ile Convex farklı alan adlarında olduğu için
+çerez/oturum davranışının ayrıca sınanması gerekiyor.
 
 ## 10. Aşamalar
 
@@ -217,14 +221,24 @@ Uygulamaya eklenecekler: sektör bazlı ilan listesi, ilan detayı, "ilan ver" f
 7. Sektör filtreleri, arama, sayfalama.
 
 **Faz 3 — Üye alanı (etkileşimli)**
-8. `/ilan-ver/` formu (React adası + Convex Auth).
-9. `/hesabim/` — ilanlarım, düzenle, satıldı işaretle.
-10. `/firma/[slug]/` profil sayfası.
+8. Uygulamada "Pazar" sekmesi: vitrin, ilan detayı, ilan ver, ilanlarım, moderasyon. ✅
+9. `/ilan-ver/` formu (React adası + Convex Auth). ⏳
+10. `/hesabim/` — ilanlarım, düzenle, satıldı işaretle.
+11. `/firma/[slug]/` profil sayfası.
 
 **Faz 4 — İşletme**
-11. Yönetim ekranı (onay kuyruğu, şikayet listesi).
-12. Ücretli öne çıkarma (opsiyonel, sonra karar).
-13. Telefon doğrulaması ve gelişmiş spam koruması.
+12. Moderasyon kuyruğu (uygulamada var, sitede editör paneli yok). ✅ / ⏳
+13. Şikayet listesi ekranı (şikayet kaydı var, listeleme yok). ⏳
+14. Ücretli öne çıkarma (opsiyonel, sonra karar).
+15. Telefon doğrulaması ve gelişmiş spam koruması.
+
+## 12. Açık blokaj: giriş e-postası
+
+E-posta kodu gönderimi `RESEND_API_KEY` ve `AUTH_EMAIL_FROM` ortam
+değişkenlerine bağlı; ikisi de tanımlı değil. Bu yüzden uygulamada **hiçbir**
+kullanıcı e-posta ile giriş yapamıyor ve doğrulanmış satıcı olamıyor. Misafir
+hesaplar ilan veremez (tasarm gereği), dolayısıyla ilan verme akışı uçtan uca
+henüz denenemedi. Anahtarlar tanımlandığında akış kendiliğinden açılır.
 
 ## 11. Onaylanan kararlar
 
