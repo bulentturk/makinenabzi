@@ -47,6 +47,8 @@ jobs:
       - name: Build member app under /app/
         env:
           VITE_APP_BASE: /app/
+          # /app/ istemcisi de üretim dağıtımına bağlanmalı.
+          VITE_CONVEX_URL: ${{ secrets.VITE_CONVEX_URL }}
         run: |
           cd app
           npm ci

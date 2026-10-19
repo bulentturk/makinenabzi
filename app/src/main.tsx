@@ -94,9 +94,13 @@ class RootErrorBoundary extends React.Component<
 
 // Convex dağıtım adresi gizli değil; derlemede ortam değişkeni yoksa bu
 // varsayılan kullanılır (GitHub Pages derlemesi anahtar gerektirmesin).
+// Üretim derlemesi üretim dağıtımına bağlanır; yerel geliştirme dev dağıtımını
+// kullanır. Boş bir VITE_CONVEX_URL (`||`) varsayılana düşer.
 const convexUrl =
-  (import.meta.env.VITE_CONVEX_URL as string | undefined) ??
-  "https://flexible-ibex-197.eu-west-1.convex.cloud";
+  (import.meta.env.VITE_CONVEX_URL as string | undefined) ||
+  (import.meta.env.PROD
+    ? "https://good-ptarmigan-779.convex.cloud"
+    : "https://flexible-ibex-197.eu-west-1.convex.cloud");
 const convex = convexUrl ? new ConvexReactClient(convexUrl) : null;
 // /app/ alt yolunda çalışırken yönlendirme kökü de o path olmalı.
 const routerBase = import.meta.env.BASE_URL.replace(/\/$/, "") || undefined;
