@@ -39,6 +39,10 @@ jobs:
             echo "VITE_CONVEX_URL tanımlı değil; mevcut src/data/listings.json kullanılıyor."
           fi
       - name: Build
+        env:
+          # Üye paneli istemcisi bu adrese bağlanır; geliştirme dağıtımına
+          # bağlanırsa ilanlar ve onay kuyruğu boş görünür.
+          PUBLIC_CONVEX_URL: ${{ secrets.VITE_CONVEX_URL }}
         run: npm run build
       - name: Build member app under /app/
         env:

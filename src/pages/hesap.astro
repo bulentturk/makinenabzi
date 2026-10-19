@@ -1,14 +1,10 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import HesapAuth from '../components/HesapAuth';
+import { CONVEX_URL as convexUrl } from '../lib/convex-url';
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const href = (p: string) => `${base}${p}`;
-
-// Convex dağıtım adresi gizli değil; ortam değişkeni yoksa geliştirme
-// dağıtımı kullanılır.
-const convexUrl =
-  import.meta.env.PUBLIC_CONVEX_URL ?? 'https://flexible-ibex-197.eu-west-1.convex.cloud';
 
 const steps = [
   ['Hesap aç', 'Google ya da e-posta koduyla; şifre yok.'],

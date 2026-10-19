@@ -31,6 +31,15 @@ npx convex run sources:reseed
 - Build: `npx convex deploy --cmd-url-env-var-name VITE_CONVEX_URL --cmd 'npm run build'`
 - `VITE_CONVEX_URL` + `CONVEX_DEPLOY_KEY` tanımlı olmalı
 
+## GitHub Pages (site yayını)
+- `.github/workflows/deploy.yml` her `main` push'unda ve günde bir kez çalışır.
+- Depo secret'ı `VITE_CONVEX_URL` **üretim** dağıtımının adresi olmalı
+  (`https://good-ptarmigan-779.convex.cloud`); aynı değer ilan senkronuna ve
+  `PUBLIC_CONVEX_URL` olarak site derlemesine verilir.
+- Secret tanımlı değilse derleme yine üretim adresine düşer
+  (`src/lib/convex-url.ts`); yerel `npm run build` değil, `astro dev`
+  geliştirme dağıtımını kullanır.
+
 ## Editör rolü
 İlk **e-postası doğrulanmış** hesap otomatik olarak editör (`role: "admin"`) olur
 (`app/src/convex/lib/founder.ts`, Convex Auth `afterUserCreatedOrUpdated`).
