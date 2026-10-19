@@ -92,62 +92,32 @@
     "subsector": null
   },
   {
-    "id": "429ed57463198919",
-    "status": "published",
-    "title_original": "Bradken SmartRoller™ enables safer & more efficient undercarriage operation",
-    "source_name": "International Mining",
-    "source_url": "https://im-mining.com/2026/10/15/bradken-smartroller-enables-safer-more-efficient-undercarriage-operation/",
-    "source_feed": "https://im-mining.com/feed/",
-    "published_at": "2026-10-15T09:18:24.000Z",
-    "discovered_at": "2026-10-15T09:32:02.216Z",
-    "sector": "madencilik",
+    "id": "98ada03dae42d41d",
+    "status": "candidate",
+    "title_original": "iVT WEBINAR: HydraForce explores hydraulic torque division",
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/webinars/ivt-webinar-hydraforce-explores-hydraulic-torque-division.html",
+    "source_feed": "https://www.ivtinternational.com/feed",
+    "published_at": "2026-10-19T10:00:30.000Z",
+    "discovered_at": "2026-10-19T10:24:51.788Z",
+    "sector": "is-makinalari",
+    "subsector": null,
     "technologies": [
-      "elektronik-telematik",
-      "yuruyus-guc-aktarma"
+      "hidrolik"
     ],
-    "relevance_score": 166,
-    "editorial_fit_score": 79,
-    "summary_source": "Bradken, a global leader in mining wear parts solutions, has recently launched Bradken SmartRoller™ – a digital product which it says can improve excavator undercarriage performance significantly. It enables real-time, continuous remote monitoring of undercarriage roller temperature, leading to maximised productivity and reduced lifecycle costs. Temperature trends indicate wear progression and early alerts enable proactive The post Bradken SmartRoller™ enables safer & more efficient undercarriage operation appeared first on International Mining.",
+    "relevance_score": 158,
+    "editorial_fit_score": 67,
+    "summary_source": "iVT International is set to host a live webinar, Hydraulic Torque Divider – A Better Drive Solution, on Tuesday 10 November at 3pm UK time (GMT), in association with HydraForce. The [...] The post iVT WEBINAR: HydraForce explores hydraulic torque division appeared first on Industrial Vehicle Technology International.",
     "editorial": {
-      "title_tr": "Bradken SmartRoller, ekskavatör alt takım makaralarının sıcaklığını uzaktan izliyor",
-      "dek_tr": "International Mining’in aktardığına göre Bradken SmartRoller, ekskavatör alt takım makaralarının sıcaklığını sürekli ve uzaktan izleyerek aşınma eğilimleri için erken uyarı sağlamayı hedefliyor.",
-      "summary_tr": "Bradken’in yeni dijital ürünü SmartRoller, ekskavatör alt takım makaralarının sıcaklığını gerçek zamanlı ve sürekli olarak uzaktan izlemek üzere tanıtıldı.\n\nInternational Mining’in haberine göre sistem, sıcaklık eğilimlerini aşınmanın ilerleyişine işaret edebilecek bir gösterge olarak kullanıyor ve erken uyarılarla önleyici müdahaleyi desteklemeyi amaçlıyor. Haberde sensör tasarımı, ölçüm aralığı veya sahadaki performans sonuçları hakkında ayrıntı bulunmuyor.",
-      "why_it_matters_tr": "Alt takım aşınmasının izlenmesi, maden sahalarında planlı bakım ve ekipman kullanılabilirliği açısından önem taşıyabilir. Ancak sistemin bu sonuçlara katkısı, mevcut kaynakta bağımsız saha verileriyle gösterilmiyor.",
-      "seo_title": "Bradken SmartRoller ile ekskavatör alt takımı izleme",
-      "meta_description": "Bradken SmartRoller, ekskavatör alt takım makaralarının sıcaklığını uzaktan izleyerek aşınma eğilimleri için erken uyarı sağlamayı hedefliyor.",
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
       "hero_image": "",
-      "reviewed": true,
-      "key_facts": [
-        "Bradken SmartRoller, ekskavatör alt takım makaralarının sıcaklığını uzaktan izlemek üzere tanıtıldı.",
-        "International Mining, sıcaklık eğilimleri ve erken uyarıların aşınma takibinde kullanılmasının hedeflendiğini aktarıyor."
-      ],
-      "suggested_tags": [
-        "Bradken",
-        "SmartRoller",
-        "ekskavatör",
-        "alt takım",
-        "kestirimci bakım"
-      ],
-      "suggested_sector": "madencilik",
-      "editorial_format": "haber",
-      "suggested_technologies": [
-        "elektronik-telematik",
-        "yuruyus-guc-aktarma"
-      ],
-      "source_facts_used": [
-        "International Mining’in aktardığı SmartRoller tanıtımı ve ürünün sürekli uzaktan sıcaklık izleme işlevi",
-        "Haberde sıcaklık eğilimlerinin aşınma ilerleyişiyle, erken uyarıların ise önleyici müdahaleyle ilişkilendirilmesi"
-      ],
-      "uncertainty_notes": [
-        "Kaynak sayfası alınamadı; mevcut haber özeti ürünün sensör ve iletişim mimarisi, ölçüm aralığı veya performans verilerini içermiyor.",
-        "Üreticinin birincil duyurusu ve bağımsız saha doğrulaması mevcut girdide yer almıyor; verimlilik, maliyet ve güvenlik etkileri doğrulanmış sonuç olarak sunulmamalı."
-      ],
-      "generated_at": "2026-10-18T17:09:48.212Z",
-      "generated_by": "github-models",
-      "reviewed_at": "2026-10-18T17:13:09.131Z",
-      "review_result": "published"
-    },
-    "subsector": null
+      "reviewed": false
+    }
   },
   {
     "id": "0152a9ce3fabe6a8",
@@ -317,6 +287,34 @@
     }
   },
   {
+    "id": "19330baec061b053",
+    "status": "candidate",
+    "title_original": "New Volvo Mining entity set up to meet growing mining equipment & autonomy solutions demand",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/10/19/new-volvo-mining-entity-set-up-to-meet-growing-mining-equipment-autonomy-solutions-demand/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-10-19T09:54:35.000Z",
+    "discovered_at": "2026-10-19T10:24:52.308Z",
+    "sector": "madencilik",
+    "subsector": null,
+    "technologies": [
+      "otonomi-ai"
+    ],
+    "relevance_score": 150,
+    "editorial_fit_score": 32,
+    "summary_source": "Volvo Group is creating a dedicated mining entity to strengthen its position in the global mining industry. Volvo Mining aims to bring together the Group’s capabilities, expertise, and offer for mining customers under a single, integrated business structure. The plan is that Volvo Mining will sell Volvo trucks, construction equipment and autonomous solutions to mining The post New Volvo Mining entity set up to meet growing mining equipment & autonomy solutions demand appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "6ce3069380adcf0a",
     "status": "published",
     "title_original": "New BOTON Brazil entity enhances local service capabilities for mining customers",
@@ -366,65 +364,6 @@
       "generated_at": "2026-10-18T19:43:54.634Z",
       "generated_by": "github-models",
       "reviewed_at": "2026-10-18T19:59:22.520Z",
-      "review_result": "published"
-    },
-    "subsector": null
-  },
-  {
-    "id": "9083051e58f5b196",
-    "status": "published",
-    "title_original": "Valtra introduces sixth-generation T Series tractor range",
-    "source_name": "iVT International",
-    "source_url": "https://www.ivtinternational.com/news/agriculture/valtra-introduces-sixth-generation-t-series-tractor-range.html",
-    "source_feed": "https://www.ivtinternational.com/feed",
-    "published_at": "2026-10-15T09:58:02.000Z",
-    "discovered_at": "2026-10-15T18:59:51.687Z",
-    "sector": "tarim",
-    "technologies": [],
-    "relevance_score": 150,
-    "editorial_fit_score": 65,
-    "summary_source": "Valtra has introduced the sixth-generation T Series, a 170 to 245hp tractor range built around a new AGCO Power Core75 engine, a reworked SmartTouch Gen2 operator interface and factory-ready connectivity [...] The post Valtra introduces sixth-generation T Series tractor range appeared first on Industrial Vehicle Technology International.",
-    "editorial": {
-      "title_tr": "Valtra, altıncı nesil T Serisi traktörlerini tanıttı",
-      "dek_tr": "Yeni T Serisi, 170-245 hp güç aralığında sunuluyor. Kaynak özeti; AGCO Power Core75 motoru, SmartTouch Gen2 operatör arayüzünü ve fabrikada bağlantı sistemlerine hazır donanımı öne çıkarıyor.",
-      "summary_tr": "iVT International’ın haber özetine göre Valtra, altıncı nesil T Serisi traktör ailesini tanıttı. Seri 170-245 hp güç aralığında konumlandırılıyor ve yeni AGCO Power Core75 motorla sunuluyor.\n\nÖzette ayrıca yenilenen SmartTouch Gen2 operatör arayüzü ile fabrikada bağlantı sistemlerine hazır olma özelliği belirtiliyor. Motorun teknik özellikleri, arayüz değişikliklerinin kapsamı ve bağlantı işlevleri hakkında verilen kaynak metinde ayrıntı yer almıyor.",
-      "why_it_matters_tr": "Motor, operatör arayüzü ve bağlantı donanımındaki değişiklikler, traktörün güç sistemi ve dijital işlevlerini birlikte değerlendirmek isteyen tarım makinesi kullanıcıları için önem taşıyor. Ancak kaynakta bu yeniliklerin performans veya işletme maliyetlerine etkisini gösterecek ölçüm bulunmuyor.",
-      "seo_title": "Valtra altıncı nesil T Serisi traktörlerini tanıttı",
-      "meta_description": "Valtra'nın yeni T Serisi 170-245 hp aralığında. AGCO Power Core75 motor, SmartTouch Gen2 arayüz ve fabrikada bağlantıya hazır donanım öne çıkıyor.",
-      "hero_image": "",
-      "reviewed": true,
-      "key_facts": [
-        "Valtra altıncı nesil T Serisi traktör ailesini tanıttı.",
-        "Kaynak özeti güç aralığını 170-245 hp olarak veriyor.",
-        "Özette AGCO Power Core75 motor ve SmartTouch Gen2 arayüz adı geçiyor.",
-        "Traktörlerin fabrikada bağlantı sistemlerine hazır olduğu belirtiliyor."
-      ],
-      "suggested_tags": [
-        "Valtra",
-        "T Serisi",
-        "tarım traktörü",
-        "AGCO Power Core75",
-        "SmartTouch Gen2",
-        "bağlantılı makineler"
-      ],
-      "suggested_sector": "tarim",
-      "editorial_format": "haber",
-      "suggested_technologies": [
-        "elektronik-telematik"
-      ],
-      "source_facts_used": [
-        "iVT International kaynak özetindeki altıncı nesil T Serisi tanıtımı",
-        "Özette verilen 170-245 hp güç aralığı",
-        "AGCO Power Core75 motor ve SmartTouch Gen2 arayüz bilgileri",
-        "Fabrikada bağlantıya hazır olma bilgisi"
-      ],
-      "uncertainty_notes": [
-        "Kaynak sayfası zaman aşımına uğradı; taslak yalnızca verilen kısa özet ve başlığa dayanıyor.",
-        "Motor performansı, emisyon seviyesi, şanzıman seçenekleri, bağlantı özellikleri ve pazar takvimi için üreticinin birincil teknik duyurusu doğrulanmalı."
-      ],
-      "generated_at": "2026-10-18T19:43:54.634Z",
-      "generated_by": "github-models",
-      "reviewed_at": "2026-10-18T20:04:59.105Z",
       "review_result": "published"
     },
     "subsector": null
@@ -599,74 +538,22 @@
     "subsector": null
   },
   {
-    "id": "9b56abaf537b5d50",
-    "status": "published",
-    "title_original": "Oshkosh S-Series Introduces New Axle Configurations",
-    "source_name": "Construction Equipment Guide",
-    "source_url": "https://www.constructionequipmentguide.com/oshkosh-sseries-introduces-new-axle-configurations/72517",
-    "source_feed": "https://feeds.feedburner.com/ceg",
-    "published_at": "2026-10-15T05:00:00.000Z",
-    "discovered_at": "2026-10-15T18:59:51.034Z",
-    "sector": "is-makinalari",
+    "id": "6f35bcef30980481",
+    "status": "candidate",
+    "title_original": "Massey Ferguson 8S.265 Xtra Dyna E-Power versus Dyna-VT: Is there still a reason to change gear?",
+    "source_name": "profi",
+    "source_url": "https://www.profi.co.uk/test-centre/massey-ferguson-8s-265-xtra-dyna-e-power-versus-dyna-vt-is-there-still-a-reason-to-change-gear/",
+    "source_feed": "https://www.profi.co.uk/feed/",
+    "published_at": "2026-10-19T07:58:50.000Z",
+    "discovered_at": "2026-10-19T10:24:52.403Z",
+    "sector": "tarim",
+    "subsector": null,
     "technologies": [
       "yuruyus-guc-aktarma"
     ],
-    "relevance_score": 138,
-    "editorial_fit_score": 77,
-    "summary_source": "OshKosh introduces new S-Series Federal Bridge High-Lift Tag Axle configurations for front discharge concrete mixers....",
-    "editorial": {
-      "title_tr": "Oshkosh S-Series beton mikserlerine yeni aks seçenekleri",
-      "dek_tr": "Oshkosh, önden boşaltmalı beton mikserleri için S-Series Federal Bridge High-Lift Tag Axle konfigürasyonlarını duyurdu. Kaynakta aksların teknik özellikleri ve uygulama sınırları yer almıyor.",
-      "summary_tr": "Construction Equipment Guide’ın başlık ve kısa özetine göre Oshkosh, S-Series önden boşaltmalı beton mikserleri için yeni Federal Bridge High-Lift Tag Axle konfigürasyonları sunuyor.\n\nKaynak içeriği aksların taşıma kapasitesi, dingil yükleri, uyumluluk veya çalışma performansı hakkında ayrıntı vermiyor. Bu nedenle konfigürasyonların teknik farkını ve hangi araçlara uygulanacağını doğrulamak için üretici bilgisi gerekiyor.",
-      "why_it_matters_tr": "Aks konfigürasyonları, beton mikserlerinin yük dağılımı ve yol kullanım koşullarıyla ilgili seçimleri etkileyebilir. Ancak bu duyurudaki seçeneklerin operatör veya filo açısından sağlayacağı somut fark, teknik veriler olmadan değerlendirilemiyor.",
-      "seo_title": "Oshkosh S-Series için yeni aks konfigürasyonları",
-      "meta_description": "Oshkosh, S-Series önden boşaltmalı beton mikserleri için yeni High-Lift Tag Axle seçeneklerini duyurdu. Teknik ayrıntılar kaynakta paylaşılmıyor.",
-      "hero_image": "",
-      "reviewed": true,
-      "key_facts": [
-        "Yeni konfigürasyonlar Oshkosh S-Series önden boşaltmalı beton mikserleri için duyurulmuş.",
-        "Konfigürasyon adı Federal Bridge High-Lift Tag Axle."
-      ],
-      "suggested_tags": [
-        "Oshkosh",
-        "beton mikseri",
-        "aks",
-        "güç aktarma"
-      ],
-      "suggested_sector": "is-makinalari",
-      "editorial_format": "haber",
-      "suggested_technologies": [
-        "yuruyus-guc-aktarma"
-      ],
-      "source_facts_used": [
-        "Construction Equipment Guide başlığı ve kısa özetinde S-Series için yeni aks konfigürasyonlarının tanıtıldığı belirtiliyor.",
-        "Kısa özet, uygulamayı önden boşaltmalı beton mikserleriyle ilişkilendiriyor."
-      ],
-      "uncertainty_notes": [
-        "Kaynak sayfası HTTP 403 nedeniyle alınamamış; eldeki metin yalnızca başlık ve kısa özettir.",
-        "Aksın teknik özellikleri, araç uyumluluğu ve konfigürasyonların kullanım koşulları için birincil üretici kaynağı doğrulaması gerekir."
-      ],
-      "generated_at": "2026-10-18T17:58:53.611Z",
-      "generated_by": "github-models",
-      "reviewed_at": "2026-10-18T19:15:34.048Z",
-      "review_result": "published"
-    },
-    "subsector": null
-  },
-  {
-    "id": "1b486af9df842d29",
-    "status": "candidate",
-    "title_original": "New Holland Construction Launches Five New Machines",
-    "source_name": "Construction Equipment Guide",
-    "source_url": "https://www.constructionequipmentguide.com/new-holland-construction-launches-five-new-machines/72508",
-    "source_feed": "https://feeds.feedburner.com/ceg",
-    "published_at": "2026-10-15T05:00:00.000Z",
-    "discovered_at": "2026-10-15T18:59:51.038Z",
-    "sector": "is-makinalari",
-    "technologies": [],
-    "relevance_score": 130,
-    "editorial_fit_score": 65,
-    "summary_source": "New Holland Construction is bringing five machines to market, the new C324 Mini Track Loader, F60C and F80C Rough Terrain Forklifts and W50D and W60D Compact Wheel Loaders....",
+    "relevance_score": 123,
+    "editorial_fit_score": 67,
+    "summary_source": "TRACTOR TEST: With the 8S.225, 8S.245 and 8S.265, Massey Ferguson gives buyers the choice of a dual clutch powershift or a stepless transmission. So, which of these AGCO transmissions makes the 8S a better tractor? The post Massey Ferguson 8S.265 Xtra Dyna E-Power versus Dyna-VT: Is there still a reason to change gear? appeared first on Profi.",
     "editorial": {
       "title_tr": "",
       "dek_tr": "",
@@ -676,8 +563,7 @@
       "meta_description": "",
       "hero_image": "",
       "reviewed": false
-    },
-    "subsector": null
+    }
   },
   {
     "id": "4e2c5c42bead9f6b",
@@ -736,19 +622,20 @@
     "subsector": null
   },
   {
-    "id": "dea76e0d0d44b608",
+    "id": "4fe9c527f308689c",
     "status": "candidate",
-    "title_original": "Monroe Tractor Event Features Equipment Demos, More",
-    "source_name": "Construction Equipment Guide",
-    "source_url": "https://www.constructionequipmentguide.com/monroe-tractor-event-features-equipment-demos-more/72513",
-    "source_feed": "https://feeds.feedburner.com/ceg",
-    "published_at": "2026-10-15T05:00:00.000Z",
-    "discovered_at": "2026-10-15T18:59:51.036Z",
-    "sector": "tarim",
+    "title_original": "Another TBM arrival begins for SRL East",
+    "source_name": "Tunnels & Tunnelling",
+    "source_url": "https://www.tunnelsandtunnelling.com/news/another-tbm-arrival-begins-for-srl-east/",
+    "source_feed": "https://www.tunnelsandtunnelling.com/feed/",
+    "published_at": "2026-10-19T09:51:35.000Z",
+    "discovered_at": "2026-10-19T10:24:51.458Z",
+    "sector": "is-makinalari",
+    "subsector": null,
     "technologies": [],
-    "relevance_score": 120,
+    "relevance_score": 116,
     "editorial_fit_score": 55,
-    "summary_source": "Monroe Tractor welcomed contractors, municipal fleet managers, landscapers and equipment operators to its Westborough, Mass., location for an open house....",
+    "summary_source": "Another TBM arrival begins for SRL East TBM Belinda is one of eight machines that will build the SRL East. The post Another TBM arrival begins for SRL East appeared first on Tunnels and Tunnelling.",
     "editorial": {
       "title_tr": "",
       "dek_tr": "",
@@ -758,8 +645,7 @@
       "meta_description": "",
       "hero_image": "",
       "reviewed": false
-    },
-    "subsector": null
+    }
   },
   {
     "id": "699c72b40822b7f1",
