@@ -1,15 +1,28 @@
 import { ConvexAuthProvider, useAuthActions } from "@convex-dev/auth/react";
-import { ConvexReactClient, useConvexAuth } from "convex/react";
-import { useMemo, useState, type FormEvent } from "react";
+import { ConvexReactClient, useConvexAuth, useQuery } from "convex/react";
+import { useEffect, useMemo, useState, type FormEvent } from "react";
+import { api } from "../lib/member";
 
 /**
  * Sitenin kendi tasarımıyla çalışan giriş formu.
  *
- * Üye alanının tamamı `/app/` altındaki React uygulamasında; bu ada yalnızca
- * hesap açma/giriş adımını sitede tutar. Convex Auth oturumu alan adı
- * üzerinden paylaşıldığı için burada giriş yapan kullanıcı `/app/` içinde de
- * giriş yapmış olur.
+ * Üye ekranları (`/hesabim/`, `/ilan-ver/`) da sitede; bu ada yalnızca hesap
+ * açma/giriş adımını tutar. `?donus=` verilirse girişten sonra kullanıcı
+ * geldiği sayfaya, verilmezse hesap panelinin ilk açılışına döner.
+ * Convex Auth oturumu alan adı üzerinden paylaşıldığı için aynı hesap
+ * Android uygulamasında da geçerlidir.
  */
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+const href = (path: string) => `${base}${path}`;
+
+/** Yalnızca site içi yolları kabul et (açık yönlendirme koruması). */
+function readReturnTo(): string | null {
+  if (typeof window === "undefined") return null;
+  const value = new URLSearchParams(window.location.search).get("donus");
+  if (!value || !value.startsWith("/") || value.startsWith("//")) return null;
+  return value;
+}
 
 function GoogleMark() {
   return (
@@ -37,18 +50,59 @@ function GoogleMark() {
 function HesapForm() {
   const { isLoading, isAuthenticated } = useConvexAuth();
   const { signIn } = useAuthActions();
+  const member = useQuery(api.users.currentUser) as
+    | { isAnonymous?: boolean | null }
+    | null
+    | undefined;
+  // Misafir oturum da teknik olarak "giriş yapmış"tır; hesap kartı yerine
+  // e-posta/Google bağlama formunu göstermemiz gerekir.
+  const isGuest = Boolean(member?.isAnonymous);
+  const isMember = isAuthenticated && member !== undefined && !isGuest;
 
   const [step, setStep] = useState<"email" | "code">("email");
   const [email, setEmail] = useState("");
   const [code, setCode] = useState("");
   const [busy, setBusy] = useState<null | "google" | "email" | "code">(null);
   const [error, setError] = useState<string | null>(null);
+  const [returnTo] = useState<string | null>(readReturnTo);
+  // Google tam sayfa yönlendirmesi yaptığı için hedefi oturum boyunca sakla.
+  const [savedTarget] = useState<string | null>(() => {
+    try {
+      return window.sessionStorage.getItem("mn-auth-next");
+    } catch {
+      return null;
+    }
+  });
+  const [justSignedIn, setJustSignedIn] = useState(false);
+
+  // Giriş tamamlanınca geldiği sayfaya dön; doğrudan girişte panele git.
+  useEffect(() => {
+    if (!isMember) return;
+    const target =
+      returnTo ?? savedTarget ?? (justSignedIn ? href("/hesabim/") : null);
+    if (!target) return;
+    try {
+      window.sessionStorage.removeItem("mn-auth-next");
+    } catch {
+      // Depolama kapalıysa yönlendirme yine çalışır.
+    }
+    window.location.replace(target);
+  }, [isMember, justSignedIn, returnTo, savedTarget]);
 
   async function handleGoogle() {
     setError(null);
     setBusy("google");
     try {
+      window.sessionStorage.setItem(
+        "mn-auth-next",
+        returnTo ?? href("/hesabim/"),
+      );
+    } catch {
+      // Depolama kapalıysa Google dönüşünde hesap kartı gösterilir.
+    }
+    try {
       await signIn("google");
+      setJustSignedIn(true);
     } catch {
       setError("Google ile giriş başlatılamadı. Birazdan tekrar deneyin.");
       setBusy(null);
@@ -82,6 +136,7 @@ function HesapForm() {
       form.set("email", email.trim());
       form.set("code", code.trim());
       await signIn("email-otp", form);
+      setJustSignedIn(true);
     } catch {
       setError("Kod geçersiz. Yeni kod isteyip tekrar deneyin.");
       setCode("");
@@ -90,11 +145,11 @@ function HesapForm() {
     }
   }
 
-  if (isLoading) {
+  if (isLoading || (isAuthenticated && member === undefined)) {
     return <p className="hesap-note">Oturum kontrol ediliyor…</p>;
   }
 
-  if (isAuthenticated) {
+  if (isMember) {
     return (
       <div className="hesap-card">
         <h2>Hesabınız açık.</h2>
@@ -103,10 +158,10 @@ function HesapForm() {
           görebilirsiniz.
         </p>
         <div className="hesap-actions">
-          <a className="button primary" href="/app/dashboard/">
+          <a className="button primary" href={href("/hesabim/")}>
             Hesabıma git
           </a>
-          <a className="button ghost" href="/ilan-ver/">
+          <a className="button ghost" href={href("/ilan-ver/")}>
             İlan ver
           </a>
         </div>
@@ -116,6 +171,12 @@ function HesapForm() {
 
   return (
     <div className="hesap-card">
+      {isGuest && (
+        <p className="hesap-note hesap-guest">
+          Misafir olarak geziyorsunuz. Giriş yaptığınızda ilan verebilir ve
+          ilanlarınızı yönetebilirsiniz.
+        </p>
+      )}
       {step === "email" ? (
         <>
           <h2>Üye ol veya giriş yap</h2>

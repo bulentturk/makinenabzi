@@ -15,6 +15,7 @@ import type * as crons from "../crons.js";
 import type * as fairs from "../fairs.js";
 import type * as http from "../http.js";
 import type * as lib_authz from "../lib/authz.js";
+import type * as lib_founder from "../lib/founder.js";
 import type * as listings from "../listings.js";
 import type * as magazines from "../magazines.js";
 import type * as news from "../news.js";
@@ -43,6 +44,7 @@ declare const fullApi: ApiFromModules<{
   fairs: typeof fairs;
   http: typeof http;
   "lib/authz": typeof lib_authz;
+  "lib/founder": typeof lib_founder;
   listings: typeof listings;
   magazines: typeof magazines;
   news: typeof news;

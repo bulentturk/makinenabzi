@@ -130,6 +130,10 @@ listingFavorites: {
 | Firma profili doğrulama | `role: admin` |
 | Şikayet etme | Giriş yapmış herhangi bir üye |
 
+**İlk editör:** İlk e-postası doğrulanmış hesap otomatik olarak `role: admin` olur
+(`convex/lib/founder.ts`). Misafir ve doğrulanmamış hesaplar atlanır; bir editör
+varsa sonraki hesaplar normal üye kalır.
+
 **Yetki matrisi kod tarafında** `convex/lib/authz.ts` benzeri tek bir yardımcıda
 toplanır: `requireUser`, `requireOwner`, `requireAdmin`. Böylece kural tek yerde
 kalır ve mobil uygulama da aynı kuralları kullanır.

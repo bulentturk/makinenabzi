@@ -1,8 +1,12 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import IlanForm from '../components/member/IlanForm';
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const href = (p: string) => `${base}${p}`;
+
+const convexUrl =
+  import.meta.env.PUBLIC_CONVEX_URL ?? 'https://flexible-ibex-197.eu-west-1.convex.cloud';
 
 const steps = [
   {
@@ -19,7 +23,7 @@ const steps = [
   },
   {
     title: 'İlanı yönetin',
-    body: 'İlanlarım ekranından düzenleyin, satıldı olarak işaretleyin veya kaldırın. Düzenlenen ilan yeniden onaya gider.',
+    body: 'Hesabım sayfasından düzenleyin, satıldı olarak işaretleyin veya kaldırın. Düzenlenen ilan yeniden onaya gider.',
   },
 ];
 
@@ -42,16 +46,8 @@ const rules = [
     <p>İlan vermek ücretsizdir. Bireysel satıcılar ve firmalar ilan verebilir; ilanlar yayına girmeden önce editör onayından geçer.</p>
   </div></section>
 
-  <section class="section"><div class="container">
-    <div class="notice">
-      <strong>İlan verme hesap ekranında.</strong> Formu doldurmak için Makine Nabzı hesabınla giriş yap;
-      ilanlar editör onayından sonra bu sayfada listelenir.
-    </div>
-
-    <div class="hero-actions" style="margin-top:18px">
-      <a class="button primary" href={href('/hesap/')}>Giriş yap / Üye ol</a>
-      <a class="button ghost" href={href('/ilanlar/')}>İlanlara göz at</a>
-    </div>
+  <section class="section member-section"><div class="container">
+    <IlanForm client:only="react" convexUrl={convexUrl} />
 
     <div class="section-head" style="margin-top:56px">
       <div><span class="eyebrow">Nasıl işler</span><h2>Dört adımda ilan.</h2></div>
@@ -73,6 +69,10 @@ const rules = [
       <ul class="clean-list">
         {rules.map((rule) => <li>{rule}</li>)}
       </ul>
+      <p class="member-fine">
+        Yayındaki ilanlar <a href={href('/ilanlar/')}>ilanlar sayfasında</a> listelenir.
+        İlanlarınızı <a href={href('/hesabim/')}>Hesabım</a> sayfasından yönetebilirsiniz.
+      </p>
     </div>
   </div></section>
 </BaseLayout>

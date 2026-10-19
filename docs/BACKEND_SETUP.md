@@ -32,6 +32,12 @@ npx convex run sources:reseed
 - `VITE_CONVEX_URL` + `CONVEX_DEPLOY_KEY` tanımlı olmalı
 
 ## Editör rolü
+İlk **e-postası doğrulanmış** hesap otomatik olarak editör (`role: "admin"`) olur
+(`app/src/convex/lib/founder.ts`, Convex Auth `afterUserCreatedOrUpdated`).
+Misafir hesaplar ve e-posta kodu henüz doğrulanmamış kayıtlar atlanır; sistemde
+bir editör varsa sonraki hesaplar normal üye kalır. Ek editör atamak için Convex
+dashboard'da `users.role = "admin"` yapın.
+
 `users.role = "admin"` olan kullanıcı:
 - `news:pushStory` ile son dakika bildirimi atar
 - `listings:moderate` + `companies:approve` ile ilan/firma onaylar
