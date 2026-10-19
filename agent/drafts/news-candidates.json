@@ -62,23 +62,23 @@
     "subsector": null
   },
   {
-    "id": "d487a19e0fc5c908",
+    "id": "384fefccbcd066d1",
     "status": "candidate",
-    "title_original": "Hitachi Energy and Rockwell Automation unite power & automation to accelerate mining electrification",
+    "title_original": "Caterpillar gears up for launch of 22 t diesel-electric R3200 LHD",
     "source_name": "International Mining",
-    "source_url": "https://im-mining.com/2026/10/15/hitachi-energy-and-rockwell-automation-unite-power-automation-to-accelerate-mining-electrification/",
+    "source_url": "https://im-mining.com/2026/10/19/caterpillar-gears-up-for-launch-of-22-t-diesel-electric-r3200-lhd/",
     "source_feed": "https://im-mining.com/feed/",
-    "published_at": "2026-10-15T13:41:22.000Z",
-    "discovered_at": "2026-10-15T18:59:51.863Z",
+    "published_at": "2026-10-19T18:25:35.000Z",
+    "discovered_at": "2026-10-19T20:30:20.564Z",
     "sector": "madencilik",
+    "subsector": "yeraltı-madenciliği",
     "technologies": [
       "elektrifikasyon",
-      "otonomi-ai",
-      "elektronik-telematik"
+      "fonksiyonel-guvenlik"
     ],
-    "relevance_score": 170,
-    "editorial_fit_score": 36,
-    "summary_source": "Hitachi Energy, a global leader in electrification, and Rockwell Automation, Inc, the world’s largest company dedicated to industrial automation and digital transformation, have announced a collaboration centred on an integrated grid-to-process architecture that combines the infrastructure powering industrial facilities with the systems that manage production. The collaboration will initially be focused on mining and metals. The post Hitachi Energy and Rockwell Automation unite power & automation to accelerate mining electrification appeared first on International Mining.",
+    "relevance_score": 166,
+    "editorial_fit_score": 111,
+    "summary_source": "Caterpillar’s R2900 XE has been a marked success – the diesel-electric 18.5 t loader is now being used in significant numbers globally; PT Freeport Indonesia this month took delivery of its 21st unit from Cat dealer Trakindo – quite a milestone reflecting the trust the mine has in this equipment’s performance, safety and productivity. This The post Caterpillar gears up for launch of 22 t diesel-electric R3200 LHD appeared first on International Mining.",
     "editorial": {
       "title_tr": "",
       "dek_tr": "",
@@ -88,8 +88,7 @@
       "meta_description": "",
       "hero_image": "",
       "reviewed": false
-    },
-    "subsector": null
+    }
   },
   {
     "id": "98ada03dae42d41d",
@@ -149,62 +148,6 @@
     }
   },
   {
-    "id": "0152a9ce3fabe6a8",
-    "status": "published",
-    "title_original": "Wolong Electric & AEAUTO enter mining truck diesel to electric conversion market",
-    "source_name": "International Mining",
-    "source_url": "https://im-mining.com/2026/10/15/wolong-electric-aeauto-enter-mining-truck-diesel-to-electric-conversion-market/",
-    "source_feed": "https://im-mining.com/feed/",
-    "published_at": "2026-10-15T16:14:39.000Z",
-    "discovered_at": "2026-10-15T18:59:51.862Z",
-    "sector": "madencilik",
-    "technologies": [
-      "elektrifikasyon"
-    ],
-    "relevance_score": 158,
-    "editorial_fit_score": 67,
-    "summary_source": "There is already a booming market in diesel to electric mining truck conversion in China – while IM has previously detailed the work being carried out by companies like HATL (Fujian Hongda Contemporary Amperex Technology Co Ltd) and Huigong Group via Xingdong Lithium Battery Technology Co Ltd (XDLE); but other companies are getting involved in The post Wolong Electric & AEAUTO enter mining truck diesel to electric conversion market appeared first on International Mining.",
-    "editorial": {
-      "title_tr": "Wolong Electric ve AEAUTO maden kamyonlarında elektrik dönüşümüne giriyor",
-      "dek_tr": "International Mining, Wolong Electric ile AEAUTO’nun maden kamyonlarını dizelden elektriğe dönüştürme pazarına girdiğini bildiriyor. Dönüşümün kapsamı ve teknik çözüm ayrıntıları mevcut kaynak metninde bulunmuyor.",
-      "summary_tr": "International Mining’in başlık ve kısa özetine göre Wolong Electric ve AEAUTO, maden kamyonlarında dizel-elektrik dönüşümü pazarına giriyor. Yayın, Çin’de bu alanda başka şirketlerin de çalıştığını belirtiyor.\n\nEldeki kaynak metni, dönüşümün hangi kamyon modellerine uygulanacağına, batarya veya tahrik sistemine, performansa ya da sahadaki uygulamalara ilişkin teknik bilgi sunmuyor. Bu nedenle gelişme, teknik çözümün doğrulanmış özelliklerinden ziyade pazara yeni şirketlerin katılımı olarak ele alınabilir.",
-      "why_it_matters_tr": "Mevcut maden kamyonlarının elektrikli tahrike dönüştürülmesi, filoların yeni araç alımı yerine mevcut ekipman üzerinden elektrifikasyon seçeneklerini değerlendirmesine olanak sağlayabilir. Ancak bu yaklaşımın uygulama ve işletme açısından etkisi, dönüşüm mimarisi ve saha verileri açıklanmadan ölçülemiyor.",
-      "seo_title": "Wolong ve AEAUTO maden kamyonlarını elektriğe dönüştürecek",
-      "meta_description": "Wolong Electric ve AEAUTO, maden kamyonlarında dizel-elektrik dönüşümü pazarına giriyor. Mevcut kaynakta teknik çözüm ve saha verileri açıklanmıyor.",
-      "hero_image": "",
-      "reviewed": true,
-      "key_facts": [
-        "International Mining, Wolong Electric ve AEAUTO’nun maden kamyonlarını dizelden elektriğe dönüştürme pazarına girdiğini bildiriyor.",
-        "Yayın, Çin’de başka şirketlerin de maden kamyonu dönüşüm çalışmaları yürüttüğünü belirtiyor."
-      ],
-      "suggested_tags": [
-        "maden kamyonu",
-        "elektrifikasyon",
-        "Wolong Electric",
-        "AEAUTO"
-      ],
-      "suggested_sector": "madencilik",
-      "editorial_format": "haber",
-      "suggested_technologies": [
-        "elektrifikasyon"
-      ],
-      "source_facts_used": [
-        "International Mining başlığı Wolong Electric ve AEAUTO’nun maden kamyonlarında dizel-elektrik dönüşümü pazarına girişini bildiriyor.",
-        "Kısa özet, Çin’de başka şirketlerin de dönüşüm faaliyetleri bulunduğunu söylüyor."
-      ],
-      "uncertainty_notes": [
-        "Kaynak sayfası HTTP 403 nedeniyle alınamamış; teknik bilgiler yalnızca kısa özetten ibarettir.",
-        "Dönüşümün araç kapsamı, batarya sistemi, tahrik mimarisi ve saha uygulaması için birincil şirket kaynaklarıyla doğrulama gerekir.",
-        "Çin’deki pazarın büyüklüğüne ilişkin ifade kaynak yayının değerlendirmesidir; bağımsız pazar verisi sunulmamıştır."
-      ],
-      "generated_at": "2026-10-18T17:58:53.611Z",
-      "generated_by": "github-models",
-      "reviewed_at": "2026-10-18T19:22:02.934Z",
-      "review_result": "published"
-    },
-    "subsector": null
-  },
-  {
     "id": "ef72713d42c3dd38",
     "status": "candidate",
     "title_original": "Sweden-based Nordic Quick Systems to join the Can-Am family",
@@ -231,61 +174,6 @@
       "hero_image": "",
       "reviewed": false
     }
-  },
-  {
-    "id": "0918791c0b3a7e1d",
-    "status": "published",
-    "title_original": "Tadano Unveils New AC 3.060-2 All-Terrain Mobile Crane for Tight Spaces",
-    "source_name": "Equipment World",
-    "source_url": "https://www.equipmentworld.com/aeriallifting-equipment/cranes/article/15837525/tadano-unveils-3axle-mobile-allterrain-ac-30602-crane-for-us",
-    "source_feed": "https://www.equipmentworld.com/feed/",
-    "published_at": "2026-10-15T16:05:00.000Z",
-    "discovered_at": "2026-10-15T18:59:51.926Z",
-    "sector": "is-makinalari",
-    "technologies": [
-      "yuruyus-guc-aktarma"
-    ],
-    "relevance_score": 153,
-    "editorial_fit_score": 77,
-    "summary_source": "The compact, three-axle model for the U.S. has a 164-foot main boom, with extensions up to 52.5 feet available.",
-    "editorial": {
-      "title_tr": "Tadano AC 3.060-2: ABD pazarı için üç akslı arazi tipi mobil vinç",
-      "dek_tr": "Equipment World’ün kısa haberine göre kompakt AC 3.060-2, ABD pazarı için sunulan üç akslı bir arazi tipi mobil vinç. Ana bomu 164 ft; 52,5 ft’ye kadar uzatma seçenekleri bulunuyor.",
-      "summary_tr": "Equipment World, Tadano’nun AC 3.060-2 modelini ABD pazarı için geliştirilen kompakt, üç akslı arazi tipi mobil vinç olarak tanıtıyor.\n\nHaberde ana bom uzunluğu 164 ft, mevcut uzatma seçeneklerinin uzunluğu ise 52,5 ft’ye kadar olarak veriliyor. Kaynakta kaldırma kapasitesi, çalışma yarıçapı, şasi veya güç aktarma özellikleri açıklanmıyor.",
-      "why_it_matters_tr": "Üç akslı kompakt vinçler, erişimin ve saha alanının kısıtlı olduğu kaldırma işlerinde değerlendirilebilir. Ancak modelin bu tür sahalardaki kapasitesi veya operasyonel avantajı, mevcut kısa kaynak metninden doğrulanamıyor.",
-      "seo_title": "Tadano AC 3.060-2 üç akslı mobil vinç tanıtıldı",
-      "meta_description": "Tadano AC 3.060-2, ABD pazarı için sunulan üç akslı arazi tipi mobil vinç. Ana bomu 164 ft, uzatma seçenekleri 52,5 ft’ye kadar.",
-      "hero_image": "",
-      "reviewed": true,
-      "key_facts": [
-        "AC 3.060-2, ABD pazarı için tanıtılan üç akslı arazi tipi mobil vinç olarak aktarılıyor.",
-        "Kaynakta ana bom uzunluğu 164 ft olarak veriliyor.",
-        "Kaynakta 52,5 ft’ye kadar uzatma seçeneği belirtiliyor."
-      ],
-      "suggested_tags": [
-        "Tadano",
-        "AC 3.060-2",
-        "mobil vinç",
-        "arazi tipi vinç",
-        "kaldırma ekipmanı"
-      ],
-      "suggested_sector": "is-makinalari",
-      "editorial_format": "haber",
-      "suggested_technologies": [],
-      "source_facts_used": [
-        "Equipment World’ün modeli ABD pazarı için kompakt ve üç akslı olarak tanımlaması",
-        "Haberde verilen 164 ft ana bom ve 52,5 ft’ye kadar uzatma ölçüleri"
-      ],
-      "uncertainty_notes": [
-        "Kaynak sayfası alınamadı ve mevcut haber metni sınırlı; Tadano’nun birincil ürün duyurusu girdide bulunmuyor.",
-        "Ölçüler kaynakta feet cinsinden verildi; kaldırma kapasitesi, çalışma konfigürasyonu, teknik özellikler ve bölgesel bulunabilirlik doğrulanamıyor."
-      ],
-      "generated_at": "2026-10-18T17:09:48.212Z",
-      "generated_by": "github-models",
-      "reviewed_at": "2026-10-18T17:22:47.814Z",
-      "review_result": "published"
-    },
-    "subsector": null
   },
   {
     "id": "c3ffa8435fefc0c6",
@@ -344,58 +232,33 @@
     }
   },
   {
-    "id": "6ce3069380adcf0a",
-    "status": "published",
-    "title_original": "New BOTON Brazil entity enhances local service capabilities for mining customers",
-    "source_name": "International Mining",
-    "source_url": "https://im-mining.com/2026/10/15/new-boton-brazil-entity-enhances-local-service-capabilities-for-mining-customers/",
-    "source_feed": "https://im-mining.com/feed/",
-    "published_at": "2026-10-15T13:09:28.000Z",
-    "discovered_at": "2026-10-15T18:59:51.864Z",
-    "sector": "madencilik",
-    "technologies": [],
-    "relevance_score": 150,
-    "editorial_fit_score": 65,
-    "summary_source": "BOTON Brasil Conveyors Services Pecém Ltd was officially established on October 14, 2026, marking an important step in BOTON’s continued expansion of its global service network and strengthening its presence in South America. BOTON, based in Wuxi, China is one of the world’s fastest growing mining conveyor belt suppliers, already counting Rio Tinto, BHP, Hancock The post New BOTON Brazil entity enhances local service capabilities for mining customers appeared first on International Mining.",
+    "id": "18a9dd741dafe55b",
+    "status": "candidate",
+    "title_original": "Bobcat Earns Second Red Dot Award, RogueX3",
+    "source_name": "Construction Equipment Guide",
+    "source_url": "https://www.constructionequipmentguide.com/bobcat-earns-second-red-dot-award-roguex3/72538",
+    "source_feed": "https://feeds.feedburner.com/ceg",
+    "published_at": "2026-10-19T05:00:00.000Z",
+    "discovered_at": "2026-10-19T20:30:19.436Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon",
+      "otonomi-ai"
+    ],
+    "relevance_score": 146,
+    "editorial_fit_score": 79,
+    "summary_source": "Bobcat Company has earned a Red Dot Award: Design Concept for RogueX3, a fully electric, autonomous and modular concept loader....",
     "editorial": {
-      "title_tr": "BOTON, Brezilya’da madencilik konveyörleri için hizmet şirketi kurdu",
-      "dek_tr": "BOTON Brasil Conveyors Services Pecém Ltd, 14 Ekim 2026’da resmen kuruldu. International Mining’in haberine göre yeni şirket, BOTON’un Güney Amerika’daki hizmet ağını genişletme adımının parçası.",
-      "summary_tr": "International Mining’in aktardığına göre Çin’in Wuxi kentinde bulunan BOTON, Brezilya’da BOTON Brasil Conveyors Services Pecém Ltd adlı şirketi kurdu. Şirket 14 Ekim 2026’da resmen oluşturuldu.\n\nHaberde bu adım, BOTON’un küresel hizmet ağını genişletme ve Güney Amerika’daki varlığını güçlendirme çalışması olarak tanımlanıyor. Kurulacak hizmetlerin kapsamı veya şirketin operasyonel kapasitesi hakkında kaynak metinde ayrıntı bulunmuyor.",
-      "why_it_matters_tr": "Konveyör bantları madenlerde malzeme akışının temel bileşenlerinden; yerel hizmet yapılanması, bakım ve destek erişimini etkileyebilir. Ancak bu şirketin hangi hizmetleri, ne zaman ve hangi kapasiteyle sunacağı mevcut kaynakta açıklanmıyor.",
-      "seo_title": "BOTON, Brezilya’da madencilik hizmet şirketi kurdu",
-      "meta_description": "BOTON Brasil Conveyors Services Pecém Ltd 14 Ekim 2026’da kuruldu. Şirketin hizmet kapsamı ve operasyonel kapasitesi henüz açıklanmadı.",
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
       "hero_image": "",
-      "reviewed": true,
-      "key_facts": [
-        "BOTON Brasil Conveyors Services Pecém Ltd 14 Ekim 2026’da resmen kuruldu.",
-        "International Mining, kuruluşu BOTON’un küresel hizmet ağını ve Güney Amerika’daki varlığını genişletme adımı olarak aktarıyor.",
-        "BOTON’un merkezi Wuxi, Çin olarak belirtiliyor."
-      ],
-      "suggested_tags": [
-        "BOTON",
-        "konveyör bantları",
-        "madencilik",
-        "Brezilya",
-        "servis ağı"
-      ],
-      "suggested_sector": "madencilik",
-      "editorial_format": "haber",
-      "suggested_technologies": [],
-      "source_facts_used": [
-        "International Mining haberindeki şirketin resmî kuruluş tarihi ve adı",
-        "Haberde bildirilen BOTON’un Wuxi merkezli olduğu bilgisi",
-        "Haberde kuruluşun hizmet ağı ve Güney Amerika varlığıyla ilişkilendirilmesi"
-      ],
-      "uncertainty_notes": [
-        "Kaynak sayfasına erişilemedi; taslak, verilen kısa kaynak metnine dayanıyor.",
-        "Yeni şirketin hizmet kapsamı, tesisleri, personeli ve operasyon başlangıç tarihi belirtilmiyor; önemli operasyonel iddialar için BOTON’un birincil açıklaması doğrulanmalı."
-      ],
-      "generated_at": "2026-10-18T19:43:54.634Z",
-      "generated_by": "github-models",
-      "reviewed_at": "2026-10-18T19:59:22.520Z",
-      "review_result": "published"
-    },
-    "subsector": null
+      "reviewed": false
+    }
   },
   {
     "id": "f53d4390760cc62a",
@@ -710,6 +573,32 @@
     "subsector": null
   },
   {
+    "id": "db5a25d54ff0f5cb",
+    "status": "candidate",
+    "title_original": "Ground anchors halt Cross Island Line tunnelling",
+    "source_name": "Tunnels & Tunnelling",
+    "source_url": "https://www.tunnelsandtunnelling.com/news/ground-anchors-halt-cross-island-line-tunnelling/",
+    "source_feed": "https://www.tunnelsandtunnelling.com/feed/",
+    "published_at": "2026-10-19T12:16:09.000Z",
+    "discovered_at": "2026-10-19T20:30:19.333Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 116,
+    "editorial_fit_score": 55,
+    "summary_source": "Ground anchors halt Cross Island Line tunnelling Additional works are required after the TBM encountered the ground anchors. The post Ground anchors halt Cross Island Line tunnelling appeared first on Tunnels and Tunnelling.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "4fe9c527f308689c",
     "status": "candidate",
     "title_original": "Another TBM arrival begins for SRL East",
@@ -760,6 +649,32 @@
       "reviewed": false
     },
     "subsector": null
+  },
+  {
+    "id": "6eda21a37998f0dc",
+    "status": "candidate",
+    "title_original": "Sinoboom, 43,6 metre çalışma yüksekliğine sahip AB42RJ Plus’ı tanıttı",
+    "source_name": "LHT",
+    "source_url": "https://www.lht.com.tr/sinoboom-436-metre-calisma-yuksekligine-sahip-ab42rj-plusi-tanitti/",
+    "source_feed": "https://www.lht.com.tr/feed/",
+    "published_at": "2026-10-19T11:50:48.000Z",
+    "discovered_at": "2026-10-19T20:30:22.273Z",
+    "sector": "arac-ustu-ekipman",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 115,
+    "editorial_fit_score": 65,
+    "summary_source": "Sinoboom, kiralama şirketlerinin farklı saha ihtiyaçlarına yönelik geliştirdiği AB42RJ Plus mafsallı personel yükseltici platformunu üç farklı güç seçeneği, 23 metreye varan yatay erişim ve 454 kg’a ulaşan platform kapasitesiyle sunuyor. Sinoboom, yüksek erişimli mafsallı personel yükseltici platform ürün gamını 43,6 metre çalışma yüksekliğine sahip AB42RJ Plus ile genişletiyor. Kiralama şirketlerinin ihtiyaçları dikkate alınarak geliştirilen model; […]",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
   },
   {
     "id": "6eb02daed0a273d5",
