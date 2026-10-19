@@ -651,7 +651,7 @@
   },
   {
     "id": "4e2c5c42bead9f6b",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Siloking Selfline 4.0 Compact 1612-13 with DryScan: Knowing more",
     "source_name": "profi",
     "source_url": "https://www.profi.co.uk/test-centre/siloking-selfline-4-0-compact-1612-13-with-dryscan-knowing-more/",
@@ -673,7 +673,7 @@
       "seo_title": "Siloking Selfline 4.0 Compact ve DryScan sensör testi",
       "meta_description": "profi, Siloking Selfline 4.0 Compact 1612-13 üzerindeki DryScan NIRS sensörünü inceliyor; sağlanan metinde test bulguları yer almıyor.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Başlık, Siloking Selfline 4.0 Compact 1612-13 modelini DryScan ile birlikte anıyor.",
         "profi açıklaması, NIRS sensörünün kuru madde ölçümünden daha fazlasını yapıp yapmadığını konu ediyor.",
@@ -701,7 +701,9 @@
         "Sensörün ölçüm parametreleri, doğruluğu ve gerçek çalışma koşullarındaki performansı için orijinal test içeriği veya üretici teknik kaynağı gerekir."
       ],
       "generated_at": "2026-10-18T17:58:53.611Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-19T19:10:34.212Z",
+      "review_result": "published"
     },
     "subsector": null
   },
