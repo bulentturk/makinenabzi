@@ -542,7 +542,7 @@
   },
   {
     "id": "a2e289bd4e54672e",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Sandvik Rock Processing’s Reborn crusher program gains traction in Africa",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/10/16/sandvik-rock-processings-reborn-crusher-program-gains-traction-in-africa/",
@@ -562,7 +562,7 @@
       "seo_title": "Sandvik Reborn kırıcı programı Afrika’da gündemde",
       "meta_description": "Sandvik Rock Processing’in Reborn programı Afrika’daki yaşlanan kırma ekipmanlarına odaklanıyor; kaynakta program kapsamı ve ölçülmüş saha sonuçları yok.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "International Mining haberi Sandvik Rock Processing’in Reborn programını konu alıyor.",
         "Haberde programın yaşlanan kırma ekipmanlarına yönelik olduğu belirtiliyor.",
@@ -588,7 +588,9 @@
         "Programın teknik kapsamı, belirli Afrika uygulamaları ve ölçülebilir üretim ya da maliyet etkileri mevcut metinde açıklanmıyor; önemli iddialar birincil üretici kaynağıyla doğrulanmalı."
       ],
       "generated_at": "2026-10-19T10:25:55.969Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-19T19:15:41.450Z",
+      "review_result": "published"
     },
     "subsector": null
   },
