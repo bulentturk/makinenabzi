@@ -93,7 +93,7 @@
   },
   {
     "id": "98ada03dae42d41d",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "iVT WEBINAR: HydraForce explores hydraulic torque division",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/webinars/ivt-webinar-hydraforce-explores-hydraulic-torque-division.html",
@@ -109,14 +109,41 @@
     "editorial_fit_score": 67,
     "summary_source": "iVT International is set to host a live webinar, Hydraulic Torque Divider – A Better Drive Solution, on Tuesday 10 November at 3pm UK time (GMT), in association with HydraForce. The [...] The post iVT WEBINAR: HydraForce explores hydraulic torque division appeared first on Industrial Vehicle Technology International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "HydraForce HTD10-40 hidrolik tork bölücü webinarının konusu olacak",
+      "dek_tr": "iVT International, HydraForce iş birliğiyle bir hidrolik tork bölücü webinarı düzenleyecek. Duyuruya göre oturumda HTD10-40’ın birden fazla hidrolik motor arasındaki tork dağılımı ve çekişe katkısı ele alınacak.",
+      "summary_tr": "iVT International’ın duyurusuna göre “Hydraulic Torque Divider – A Better Drive Solution” başlıklı canlı webinar, 10 Kasım saat 15.00 GMT’de yapılacak. Etkinlik HydraForce ile birlikte düzenleniyor.\n\nDuyuru, HTD10-40 modelinin birden fazla hidrolik motor arasındaki torku dengeleme ve çekişe yardımcı olma işlevlerine odaklanacağını belirtiyor. Kaynakta ürünün teknik değerleri veya saha uygulamalarına ilişkin ayrıntı verilmiyor.",
+      "why_it_matters_tr": "Birden fazla hidrolik motorla tahrik edilen mobil makinelerde torkun yönetimi çekiş davranışını etkileyebilir. Webinar, bu yaklaşımın iş makineleri gibi uygulamalardaki tasarım seçeneklerini takip edenler için teknik bir değerlendirme fırsatı sunuyor.",
+      "seo_title": "HydraForce HTD10-40 hidrolik tork webinarı",
+      "meta_description": "iVT International ve HydraForce, HTD10-40 hidrolik tork bölücünün motorlar arası tork dağılımı ve çekişle ilişkisini ele alan bir webinar düzenleyecek.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Webinar, iVT International ve HydraForce iş birliğiyle düzenlenecek.",
+        "Duyuruda etkinlik tarihi 10 Kasım, saati 15.00 GMT olarak veriliyor.",
+        "Oturum konusu HTD10-40 hidrolik tork bölücünün birden fazla hidrolik motor arasındaki tork dağılımı ve çekişle ilişkisi."
+      ],
+      "suggested_tags": [
+        "HydraForce",
+        "HTD10-40",
+        "hidrolik tahrik",
+        "webinar"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "hidrolik",
+        "yuruyus-guc-aktarma"
+      ],
+      "source_facts_used": [
+        "iVT International’ın HydraForce ile 10 Kasım saat 15.00 GMT için duyurduğu canlı webinar.",
+        "Sayfa açıklamasında HTD10-40’ın birden fazla hidrolik motoru dengeleme ve çekişe yardımcı olma işleviyle tanımlanması."
+      ],
+      "uncertainty_notes": [
+        "Kaynak, webinar yılını açıkça belirtmiyor; etkinliğin gerçekleştiği veya sonradan ertelendiği doğrulanamıyor.",
+        "HTD10-40’a ilişkin teknik performans değerleri ve bağımsız saha doğrulaması kaynakta bulunmuyor."
+      ],
+      "generated_at": "2026-10-19T10:25:55.969Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -513,7 +540,7 @@
   },
   {
     "id": "a2e289bd4e54672e",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Sandvik Rock Processing’s Reborn crusher program gains traction in Africa",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/10/16/sandvik-rock-processings-reborn-crusher-program-gains-traction-in-africa/",
@@ -526,20 +553,46 @@
     "editorial_fit_score": 65,
     "summary_source": "Mines and quarries across Africa are pushing to maximise output from existing infrastructure while keeping capital expenditure under tight control, with Sandvik Rock Processing’s Reborn program does just this for ageing crushing equipment, the OEM says. “Our Reborn program is more than a refurbishment,” PC Kruger, Business Line Manager Crushing at Sandvik Rock Processing, says. The post Sandvik Rock Processing’s Reborn crusher program gains traction in Africa appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Sandvik Rock Processing’in Reborn programı Afrika’da ilgi görüyor",
+      "dek_tr": "International Mining’in haberine göre Sandvik Rock Processing’in Reborn programı, Afrika’daki maden ve taş ocaklarında yaşlanan kırma ekipmanlarına yönelik bir seçenek olarak öne çıkıyor. Paylaşılan kaynak, program kapsamını veya ölçülmüş performans sonuçlarını açıklamıyor.",
+      "summary_tr": "International Mining, Afrika’daki maden ve taş ocaklarının mevcut altyapıdan daha fazla üretim elde etmeye ve sermaye harcamalarını kontrol altında tutmaya çalıştığını aktarıyor. Haberde Sandvik Rock Processing’in Reborn programı, yaşlanan kırma ekipmanlarına yönelik bir çözüm olarak tanımlanıyor; bu değerlendirme üretici tarafına atfediliyor.\n\nHaberde alıntılanan Sandvik Rock Processing Crushing İş Birimi Müdürü PC Kruger, programın basit bir yenilemeden fazlası olduğunu söylüyor. Ancak sağlanan metin; programdaki teknik işlemleri, yenilenen ekipmanları, uygulama sahalarını veya üretim sonuçlarını belirtmiyor.",
+      "why_it_matters_tr": "Kırma ekipmanlarının yenilenmesi, yeni yatırım ile mevcut tesisin kullanımını sürdürme arasındaki teknik ve ekonomik tercihi etkileyebilir. Programın maden işletmelerine gerçek katkısını değerlendirmek için yenileme kapsamı, ekipman duruş süresi ve doğrulanmış saha sonuçları gibi bilgiler gerekir.",
+      "seo_title": "Sandvik Reborn kırıcı programı Afrika’da gündemde",
+      "meta_description": "Sandvik Rock Processing’in Reborn programı Afrika’daki yaşlanan kırma ekipmanlarına odaklanıyor; kaynakta program kapsamı ve ölçülmüş saha sonuçları yok.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "International Mining haberi Sandvik Rock Processing’in Reborn programını konu alıyor.",
+        "Haberde programın yaşlanan kırma ekipmanlarına yönelik olduğu belirtiliyor.",
+        "PC Kruger, programı basit bir yenilemeden fazlası olarak nitelendiriyor."
+      ],
+      "suggested_tags": [
+        "Sandvik Rock Processing",
+        "Reborn",
+        "kırma ekipmanı",
+        "maden",
+        "taş ocağı"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "International Mining’in Reborn programını Afrika’daki yaşlanan kırma ekipmanları bağlamında haberleştirmesi.",
+        "Haberde PC Kruger’e atfedilen, programın basit bir yenilemeden fazlası olduğu yönündeki açıklama.",
+        "Haberde maden ve taş ocaklarının mevcut altyapıdan üretimi artırma ve sermaye harcamalarını kontrol etme baskısı altında olduğunun aktarılması."
+      ],
+      "uncertainty_notes": [
+        "Kaynak, üretici tarafından sunulan program açıklamasını aktarıyor; bağımsız saha testi veya doğrulanmış performans sonucu içermiyor.",
+        "Programın teknik kapsamı, belirli Afrika uygulamaları ve ölçülebilir üretim ya da maliyet etkileri mevcut metinde açıklanmıyor; önemli iddialar birincil üretici kaynağıyla doğrulanmalı."
+      ],
+      "generated_at": "2026-10-19T10:25:55.969Z",
+      "generated_by": "github-models"
     },
     "subsector": null
   },
   {
     "id": "6f35bcef30980481",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Massey Ferguson 8S.265 Xtra Dyna E-Power versus Dyna-VT: Is there still a reason to change gear?",
     "source_name": "profi",
     "source_url": "https://www.profi.co.uk/test-centre/massey-ferguson-8s-265-xtra-dyna-e-power-versus-dyna-vt-is-there-still-a-reason-to-change-gear/",
@@ -555,14 +608,41 @@
     "editorial_fit_score": 67,
     "summary_source": "TRACTOR TEST: With the 8S.225, 8S.245 and 8S.265, Massey Ferguson gives buyers the choice of a dual clutch powershift or a stepless transmission. So, which of these AGCO transmissions makes the 8S a better tractor? The post Massey Ferguson 8S.265 Xtra Dyna E-Power versus Dyna-VT: Is there still a reason to change gear? appeared first on Profi.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Massey Ferguson 8S.265 Xtra’da Dyna E-Power ve Dyna-VT karşılaştırması",
+      "dek_tr": "profi’nin test merkezi içeriği, 8S.265 Xtra’da çift kavramalı powershift Dyna E-Power ile sürekli değişken Dyna-VT seçeneklerini karşılaştırıyor. Mevcut kaynak özeti, test sonuçlarını veya ölçüm değerlerini içermiyor.",
+      "summary_tr": "profi’nin içerik başlığı ve özeti, Massey Ferguson 8S.265 Xtra’nın Dyna E-Power ve Dyna-VT şanzıman seçeneklerini karşılaştıran bir traktör testi olduğunu belirtiyor. Özet, 8S.225, 8S.245 ve 8S.265 modellerinde çift kavramalı powershift veya sürekli değişken şanzıman seçenekleri bulunduğunu aktarıyor.\n\nPaylaşılan kaynak metninde test ölçümleri, yakıt tüketimi, çalışma koşulları ya da iki şanzımanın sonuçlarına ilişkin bulgular yer almıyor. Bu nedenle seçeneklerden birinin daha verimli veya üstün olduğu sonucuna varılamaz.",
+      "why_it_matters_tr": "Powershift ve sürekli değişken şanzıman arasındaki tercih, traktörün çalışma biçimi ve operatörün vites yönetimi açısından önem taşıyabilir. Ancak karar desteği sunabilmek için test koşulları ve ölçülebilir sonuçlar gerekir; mevcut kaynak bunları göstermiyor.",
+      "seo_title": "MF 8S.265 Xtra: Dyna E-Power ve Dyna-VT karşılaştırması",
+      "meta_description": "profi, Massey Ferguson 8S.265 Xtra’nın Dyna E-Power ve Dyna-VT seçeneklerini karşılaştırıyor; paylaşılan özette test sonuçları yer almıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "profi içeriği Massey Ferguson 8S.265 Xtra’yı konu alıyor.",
+        "Başlıkta Dyna E-Power ile Dyna-VT karşılaştırılıyor.",
+        "Kaynak özeti 8S.225, 8S.245 ve 8S.265 için çift kavramalı powershift veya sürekli değişken şanzıman seçeneği bulunduğunu belirtiyor."
+      ],
+      "suggested_tags": [
+        "Massey Ferguson",
+        "8S.265 Xtra",
+        "Dyna E-Power",
+        "Dyna-VT",
+        "traktör şanzımanı"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "yuruyus-guc-aktarma"
+      ],
+      "source_facts_used": [
+        "profi başlığında 8S.265 Xtra’nın Dyna E-Power ve Dyna-VT seçeneklerinin karşılaştırıldığının belirtilmesi.",
+        "RSS özetinde 8S.225, 8S.245 ve 8S.265 için çift kavramalı powershift veya sürekli değişken şanzıman seçeneği olduğunun aktarılması."
+      ],
+      "uncertainty_notes": [
+        "Kaynak metni test sonuçlarını, ölçüm verilerini ve çalışma koşullarını içermiyor; performans karşılaştırması yapılamıyor.",
+        "İçeriğin orijinal kaynak metni girdide yer almadığından ayrıntılı teknik iddialar birincil kaynakla doğrulanamıyor."
+      ],
+      "generated_at": "2026-10-19T10:25:55.969Z",
+      "generated_by": "github-models"
     }
   },
   {
