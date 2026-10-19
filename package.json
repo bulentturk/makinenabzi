@@ -7,6 +7,7 @@
     "dev": "astro dev",
     "build": "astro build",
     "test": "node --test test/*.test.mjs",
+    "smoke": "node scripts/smoke-test.mjs",
     "preview": "astro preview",
     "agent:news": "node scripts/news-agent.mjs"
   },

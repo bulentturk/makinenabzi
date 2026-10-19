@@ -39,6 +39,9 @@ npx convex run sources:reseed
 - Secret tanımlı değilse derleme yine üretim adresine düşer
   (`src/lib/convex-url.ts`); yerel `npm run build` değil, `astro dev`
   geliştirme dağıtımını kullanır.
+- Yayından sonra `smoke` işi `scripts/smoke-test.mjs` ile `/hesap/`,
+  `/hesabim/` ve üretim Convex sorgusunu doğrular. Aynı kontrol elle:
+  `npm run smoke` (`SMOKE_BASE_URL`, `EXPECTED_CONVEX_URL` ile ezilebilir).
 
 ## Editör rolü
 İlk **e-postası doğrulanmış** hesap otomatik olarak editör (`role: "admin"`) olur
