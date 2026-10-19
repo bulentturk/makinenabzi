@@ -594,7 +594,7 @@
   },
   {
     "id": "6f35bcef30980481",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Massey Ferguson 8S.265 Xtra Dyna E-Power versus Dyna-VT: Is there still a reason to change gear?",
     "source_name": "profi",
     "source_url": "https://www.profi.co.uk/test-centre/massey-ferguson-8s-265-xtra-dyna-e-power-versus-dyna-vt-is-there-still-a-reason-to-change-gear/",
@@ -617,7 +617,7 @@
       "seo_title": "MF 8S.265 Xtra: Dyna E-Power ve Dyna-VT karşılaştırması",
       "meta_description": "profi, Massey Ferguson 8S.265 Xtra’nın Dyna E-Power ve Dyna-VT seçeneklerini karşılaştırıyor; paylaşılan özette test sonuçları yer almıyor.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "profi içeriği Massey Ferguson 8S.265 Xtra’yı konu alıyor.",
         "Başlıkta Dyna E-Power ile Dyna-VT karşılaştırılıyor.",
@@ -644,7 +644,9 @@
         "İçeriğin orijinal kaynak metni girdide yer almadığından ayrıntılı teknik iddialar birincil kaynakla doğrulanamıyor."
       ],
       "generated_at": "2026-10-19T10:25:55.969Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-19T17:42:43.754Z",
+      "review_result": "published"
     }
   },
   {
