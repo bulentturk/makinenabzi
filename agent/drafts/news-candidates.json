@@ -63,7 +63,7 @@
   },
   {
     "id": "384fefccbcd066d1",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Caterpillar gears up for launch of 22 t diesel-electric R3200 LHD",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/10/19/caterpillar-gears-up-for-launch-of-22-t-diesel-electric-r3200-lhd/",
@@ -80,14 +80,41 @@
     "editorial_fit_score": 111,
     "summary_source": "Caterpillar’s R2900 XE has been a marked success – the diesel-electric 18.5 t loader is now being used in significant numbers globally; PT Freeport Indonesia this month took delivery of its 21st unit from Cat dealer Trakindo – quite a milestone reflecting the trust the mine has in this equipment’s performance, safety and productivity. This The post Caterpillar gears up for launch of 22 t diesel-electric R3200 LHD appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Caterpillar, 22 ton sınıfı dizel-elektrikli R3200 LHD’yi tanıtmaya hazırlanıyor",
+      "dek_tr": "International Mining’in haber başlığı, Caterpillar’ın 22 ton sınıfında dizel-elektrikli bir R3200 yeraltı yükleyicisi için lansman hazırlığında olduğunu bildiriyor. Haberin erişilebilen bölümünde modelin teknik ayrıntıları yer almıyor.",
+      "summary_tr": "International Mining’in 19 Ekim tarihli haber başlığı, Caterpillar R3200’ü 22 ton sınıfında dizel-elektrikli bir LHD olarak tanıtıyor ve lansmana hazırlandığını belirtiyor. Ancak haber metninin erişilebilen kısmı yeni modelin kapasite, güç sistemi veya çalışma özelliklerine dair ek bilgi sunmuyor.\n\nKaynağın görünen bölümünde daha önceki R2900 XE’den söz ediliyor: 18,5 tonluk dizel-elektrikli yükleyicinin küresel ölçekte kullanıldığı ve PT Freeport Indonesia’ya teslim edilen ünite sayısının 21’e ulaştığı aktarılıyor. Bu bilgiler R3200’ün teknik performansını veya sahadaki uygulamasını doğrulamıyor.",
+      "why_it_matters_tr": "R3200 gerçekten yeni bir 22 ton sınıfı dizel-elektrikli LHD ise, yeraltı yükleme ve nakliye filosunda daha yüksek kapasite ile elektrikli tahrikin nasıl bir araya getirildiği önemli olacaktır. Mevcut kaynak, bu teknik farkı değerlendirmek için yeterli ayrıntı sağlamıyor.",
+      "seo_title": "Caterpillar R3200 dizel-elektrikli LHD lansmanına hazırlanıyor",
+      "meta_description": "International Mining, Caterpillar R3200’ü 22 ton sınıfında dizel-elektrikli LHD olarak duyuruyor. Erişilebilen haberde teknik ayrıntı bulunmuyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "International Mining’in haber başlığı R3200’ü 22 ton sınıfında dizel-elektrikli LHD olarak tanımlıyor.",
+        "Kaynağın erişilebilen metni R3200’ün teknik özelliklerini açıklamıyor.",
+        "Kaynağa göre PT Freeport Indonesia, 18,5 tonluk R2900 XE’den 21’inci üniteyi teslim aldı."
+      ],
+      "suggested_tags": [
+        "Caterpillar",
+        "R3200",
+        "LHD",
+        "yeraltı madenciliği",
+        "dizel-elektrikli tahrik"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "International Mining başlığında R3200, 22 ton sınıfı dizel-elektrikli LHD olarak anılıyor ve lansman hazırlığı bildiriliyor.",
+        "Erişilebilen haber metni, R2900 XE’nin 18,5 ton sınıfında olduğunu ve PT Freeport Indonesia’ya 21’inci ünitenin teslim edildiğini aktarıyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfasına erişim 403 uyarısıyla sınırlı; R3200’e ilişkin teknik ayrıntılar ve lansman takvimi doğrulanamıyor.",
+        "22 ton sınıfı ve dizel-elektrikli tanımı haber başlığında yer alıyor; üreticinin birincil duyurusuyla teyit edilmeli."
+      ],
+      "generated_at": "2026-10-19T20:31:29.824Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -233,7 +260,7 @@
   },
   {
     "id": "18a9dd741dafe55b",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Bobcat Earns Second Red Dot Award, RogueX3",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/bobcat-earns-second-red-dot-award-roguex3/72538",
@@ -250,14 +277,42 @@
     "editorial_fit_score": 79,
     "summary_source": "Bobcat Company has earned a Red Dot Award: Design Concept for RogueX3, a fully electric, autonomous and modular concept loader....",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Bobcat RogueX3 konsepti Red Dot Tasarım Konsepti ödülünü aldı",
+      "dek_tr": "Construction Equipment Guide, Bobcat’in RogueX3 konsept yükleyicisinin Red Dot Tasarım Konsepti ödülünü kazandığını bildiriyor. Kaynak, konseptin elektrikli, otonom ve modüler olarak tanımlandığını belirtiyor.",
+      "summary_tr": "Construction Equipment Guide’ın haberine göre Bobcat RogueX3, Red Dot Tasarım Konsepti ödülüne layık görüldü. Kaynak, makineyi tamamen elektrikli, otonom ve modüler bir konsept yükleyici olarak tanımlıyor.\n\nErişilebilen kaynak metni; tahrik düzeni, batarya kapasitesi, otonomi işlevleri veya ürünün ticari kullanıma geçişi hakkında ayrıntı vermiyor. Bu nedenle ödül haberi, seri üretim ya da sahada doğrulanmış performans göstergesi olarak yorumlanmamalı.",
+      "why_it_matters_tr": "Elektrikli tahrik, otonomi ve modüler mimarinin bir yükleyici konseptinde bir araya getirilmesi, iş makinelerinde gelecekteki tasarım seçeneklerine işaret edebilir. Ancak sektör açısından uygulanabilirliği değerlendirmek için teknik mimari ve gerçek kullanım bilgileri gerekir.",
+      "seo_title": "Bobcat RogueX3 konsepti Red Dot tasarım ödülünü kazandı",
+      "meta_description": "Bobcat’in elektrikli, otonom ve modüler konsept yükleyicisi RogueX3, Construction Equipment Guide’a göre Red Dot Tasarım Konsepti ödülünü aldı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Kaynağa göre Bobcat RogueX3, Red Dot Tasarım Konsepti ödülünü aldı.",
+        "RogueX3 kaynakta tamamen elektrikli, otonom ve modüler konsept yükleyici olarak tanımlanıyor.",
+        "Erişilebilen metinde teknik özellik veya üretime geçiş bilgisi bulunmuyor."
+      ],
+      "suggested_tags": [
+        "Bobcat",
+        "RogueX3",
+        "konsept yükleyici",
+        "elektrifikasyon",
+        "otonomi"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon",
+        "otonomi-ai"
+      ],
+      "source_facts_used": [
+        "Construction Equipment Guide başlığı ve özeti, RogueX3’ün Red Dot Tasarım Konsepti ödülünü aldığını bildiriyor.",
+        "Kaynak özeti konsepti tamamen elektrikli, otonom ve modüler olarak tanımlıyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfasına erişim 403 uyarısıyla sınırlı; ödülün kapsamı ve konseptin teknik ayrıntıları Bobcat veya Red Dot’un birincil kaynaklarından doğrulanmalı.",
+        "Kaynakta verilen nitelikler konsept tanımıdır; seri üretim, saha performansı veya ticari bulunabilirlik bilgisi değildir."
+      ],
+      "generated_at": "2026-10-19T20:31:29.824Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -652,7 +707,7 @@
   },
   {
     "id": "6eda21a37998f0dc",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Sinoboom, 43,6 metre çalışma yüksekliğine sahip AB42RJ Plus’ı tanıttı",
     "source_name": "LHT",
     "source_url": "https://www.lht.com.tr/sinoboom-436-metre-calisma-yuksekligine-sahip-ab42rj-plusi-tanitti/",
@@ -666,14 +721,51 @@
     "editorial_fit_score": 65,
     "summary_source": "Sinoboom, kiralama şirketlerinin farklı saha ihtiyaçlarına yönelik geliştirdiği AB42RJ Plus mafsallı personel yükseltici platformunu üç farklı güç seçeneği, 23 metreye varan yatay erişim ve 454 kg’a ulaşan platform kapasitesiyle sunuyor. Sinoboom, yüksek erişimli mafsallı personel yükseltici platform ürün gamını 43,6 metre çalışma yüksekliğine sahip AB42RJ Plus ile genişletiyor. Kiralama şirketlerinin ihtiyaçları dikkate alınarak geliştirilen model; […]",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Sinoboom AB42RJ Plus: 43,6 metre çalışma yüksekliği ve üç güç seçeneği",
+      "dek_tr": "LHT’nin haberine göre Sinoboom AB42RJ Plus mafsallı personel yükseltici platform, 43,6 metre çalışma yüksekliği, yüke bağlı olarak 23 metreye kadar yatay erişim ve üç güç seçeneğiyle sunuluyor. Modelin dizel ve elektrikli versiyonlarına ilişkin teknik iddialar üretici beyanı olarak ele alınmalı.",
+      "summary_tr": "LHT, Sinoboom’un AB42RJ Plus mafsallı personel yükseltici platformunu 43,6 metre çalışma yüksekliğiyle tanıttığını bildiriyor. Haberde platform yüküne bağlı olarak 23 metreye kadar yatay erişim, 15,1 metre aşağı erişim ve 454, 340 veya 250 kg’lık üç platform kapasitesi seçeneği aktarılıyor.\n\nKaynağa göre model; Stage V uyumlu Deutz motorlu dizel, 76 kWh lityum bataryalı tamamen elektrikli ve çıkarılabilir menzil uzatıcıyla desteklenen tamamen elektrikli seçeneklerle sunuluyor. Sinoboom, elektrikli versiyon için yaklaşık iki günlük çalışma özerkliği bildiriyor; bu değer kaynakta bağımsız test sonucu olarak sunulmuyor.\n\nHaberde ayrıca dört tekerlekten çekiş ve yönlendirme, yüzde 40 tırmanma kabiliyeti, genişletilebilir X tipi şasi ve kesintisiz 360 derece taret dönüşü belirtiliyor. SmartHub ekranının arıza bilgisi, kalibrasyon ve hız ayarlarını bir arayüzde topladığı; güvenlik sertifikalı kontrol ünitesi, çift kanallı sensörler ve ikincil koruma sistemlerinin de modelde bulunduğu aktarılıyor.",
+      "why_it_matters_tr": "Yüksek erişimli personel platformlarında erişim mesafesi ve platform kapasitesini güç seçeneği, saha manevrası ve nakliye ölçüleriyle birlikte değerlendirmek, kiralama ve altyapı filolarının farklı çalışma koşullarına uygun makine seçimini etkileyebilir. Elektrikli versiyonun belirtilen çalışma özerkliği ve menzil uzatıcı seçeneği de şarj altyapısı sınırlı sahalar açısından incelenmeye değer; ancak bu iddialar bağımsız doğrulama gerektiriyor.",
+      "seo_title": "Sinoboom AB42RJ Plus 43,6 metre çalışma yüksekliğine ulaşıyor",
+      "meta_description": "Sinoboom AB42RJ Plus, LHT’ye göre 43,6 metre çalışma yüksekliği, 23 metreye varan yatay erişim ve dizel ya da elektrikli güç seçenekleri sunuyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "LHT, AB42RJ Plus için 43,6 metre çalışma yüksekliği ve yüke bağlı olarak 23 metreye kadar yatay erişim bildiriyor.",
+        "Kaynakta platform kapasitesi seçenekleri 454, 340 ve 250 kg olarak veriliyor.",
+        "Üç güç seçeneği dizel, tamamen elektrikli ve çıkarılabilir menzil uzatıcılı tamamen elektrikli olarak sıralanıyor.",
+        "Elektrikli versiyon için 76 kWh batarya ve yaklaşık iki günlük çalışma özerkliği üretici iddiası olarak aktarılıyor.",
+        "Haberde 4WD, 4WS ve yüzde 40 tırmanma kabiliyeti belirtiliyor."
+      ],
+      "suggested_tags": [
+        "Sinoboom",
+        "AB42RJ Plus",
+        "personel yükseltici platform",
+        "elektrikli platform",
+        "Stage V",
+        "mafsallı platform"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon",
+        "hidrolik",
+        "yuruyus-guc-aktarma",
+        "emisyon-stage-v",
+        "fonksiyonel-guvenlik"
+      ],
+      "source_facts_used": [
+        "LHT haberinde AB42RJ Plus için çalışma yüksekliği, yatay ve aşağı erişim ile üç platform kapasitesi seçeneği veriliyor.",
+        "Kaynak, dizel ve iki elektrikli güç seçeneği bulunduğunu; elektrikli versiyonda 76 kWh batarya kullanıldığını aktarıyor.",
+        "Kaynakta 4WD, 4WS, tırmanma kabiliyeti, şasi ölçüleri ve SmartHub kontrol ekranı anlatılıyor.",
+        "Haberde güvenlik sertifikalı kontrol ünitesi, çift kanallı sensörler ve ikincil koruma sistemleri sıralanıyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak LHT’nin ikincil sektör haberidir; önemli teknik değerler ve model özellikleri Sinoboom’un birincil teknik dokümanlarıyla doğrulanmalı.",
+        "Yaklaşık iki günlük çalışma özerkliği üretici beyanı olarak aktarılmıştır; çalışma koşulları ve bağımsız saha testi bilgisi kaynakta yoktur.",
+        "454 kg kapasitenin belirli erişim ve platform yüksekliği koşullarındaki uygulanabilirliği üretici dokümanından teyit edilmelidir."
+      ],
+      "generated_at": "2026-10-19T20:31:29.824Z",
+      "generated_by": "github-models"
     }
   },
   {
