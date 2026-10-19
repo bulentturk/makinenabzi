@@ -1,5 +1,37 @@
 [
   {
+    "id": "98ada03dae42d41d",
+    "slug": "hydraforce-htd10-40-hidrolik-tork-bolucu-webinarinin-konusu-olacak",
+    "title": "HydraForce HTD10-40 hidrolik tork bölücü webinarının konusu olacak",
+    "dek": "iVT International, HydraForce iş birliğiyle bir hidrolik tork bölücü webinarı düzenleyecek. Duyuruya göre oturumda HTD10-40’ın birden fazla hidrolik motor arasındaki tork dağılımı ve çekişe katkısı ele alınacak.",
+    "summary": "iVT International’ın duyurusuna göre “Hydraulic Torque Divider – A Better Drive Solution” başlıklı canlı webinar, 10 Kasım saat 15.00 GMT’de yapılacak. Etkinlik HydraForce ile birlikte düzenleniyor.\n\nDuyuru, HTD10-40 modelinin birden fazla hidrolik motor arasındaki torku dengeleme ve çekişe yardımcı olma işlevlerine odaklanacağını belirtiyor. Kaynakta ürünün teknik değerleri veya saha uygulamalarına ilişkin ayrıntı verilmiyor.",
+    "why_it_matters": "Birden fazla hidrolik motorla tahrik edilen mobil makinelerde torkun yönetimi çekiş davranışını etkileyebilir. Webinar, bu yaklaşımın iş makineleri gibi uygulamalardaki tasarım seçeneklerini takip edenler için teknik bir değerlendirme fırsatı sunuyor.",
+    "key_facts": [
+      "Webinar, iVT International ve HydraForce iş birliğiyle düzenlenecek.",
+      "Duyuruda etkinlik tarihi 10 Kasım, saati 15.00 GMT olarak veriliyor.",
+      "Oturum konusu HTD10-40 hidrolik tork bölücünün birden fazla hidrolik motor arasındaki tork dağılımı ve çekişle ilişkisi."
+    ],
+    "format": "haber",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [
+      "hidrolik",
+      "yuruyus-guc-aktarma"
+    ],
+    "tags": [
+      "HydraForce",
+      "HTD10-40",
+      "hidrolik tahrik",
+      "webinar"
+    ],
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/webinars/ivt-webinar-hydraforce-explores-hydraulic-torque-division.html",
+    "source_published_at": "2026-10-19T10:00:30.000Z",
+    "site_published_at": "2026-10-19T13:07:21.851Z",
+    "hero_image": "",
+    "publish_mode": "automatic"
+  },
+  {
     "id": "48efd3d54f9610d2",
     "slug": "manitou-mrt-4080-doner-teleskopik-yukleyici-131-feet-erisim-sunuyor",
     "title": "Manitou MRT 4080 döner teleskopik yükleyici 131 feet erişim sunuyor",

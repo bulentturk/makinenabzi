@@ -93,7 +93,7 @@
   },
   {
     "id": "98ada03dae42d41d",
-    "status": "drafted",
+    "status": "published",
     "title_original": "iVT WEBINAR: HydraForce explores hydraulic torque division",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/webinars/ivt-webinar-hydraforce-explores-hydraulic-torque-division.html",
@@ -143,7 +143,9 @@
         "HTD10-40’a ilişkin teknik performans değerleri ve bağımsız saha doğrulaması kaynakta bulunmuyor."
       ],
       "generated_at": "2026-10-19T10:25:55.969Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "review_result": "auto_published",
+      "reviewed_at": "2026-10-19T13:07:21.851Z"
     }
   },
   {
