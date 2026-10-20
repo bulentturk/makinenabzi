@@ -62,6 +62,64 @@
     "subsector": null
   },
   {
+    "id": "7a9671788d701b8b",
+    "status": "candidate",
+    "title_original": "Valtra partners with PerPlant to offer factory-fitted AI crop sensing",
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/news/agriculture/valtra-partners-with-perplant-to-offer-factory-fitted-ai-crop-sensing.html",
+    "source_feed": "https://www.ivtinternational.com/feed",
+    "published_at": "2026-10-20T13:39:24.000Z",
+    "discovered_at": "2026-10-20T19:06:46.928Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [
+      "otonomi-ai",
+      "elektronik-telematik"
+    ],
+    "relevance_score": 166,
+    "editorial_fit_score": 79,
+    "summary_source": "Valtra has partnered with Danish agtech company PerPlant to offer PerPlant’s AI crop sensor factory-fitted on new tractors through its Valtra Unlimited programme. The sensor will be available on the [...] The post Valtra partners with PerPlant to offer factory-fitted AI crop sensing appeared first on Industrial Vehicle Technology International.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "ea05793fe7b72348",
+    "status": "candidate",
+    "title_original": "Bobcat’s RogueX3 autonomous concept loader earns Red Dot award",
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/news/technology/bobcats-roguex3-autonomous-concept-loader-earns-red-dot-award.html",
+    "source_feed": "https://www.ivtinternational.com/feed",
+    "published_at": "2026-10-20T12:40:32.000Z",
+    "discovered_at": "2026-10-20T19:06:46.930Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon",
+      "otonomi-ai"
+    ],
+    "relevance_score": 166,
+    "editorial_fit_score": 79,
+    "summary_source": "Bobcat has earned a Red Dot Award: Design Concept for the RogueX3, a fully electric, autonomous and modular concept loader that explores how future construction, industrial and agricultural equipment could [...] The post Bobcat’s RogueX3 autonomous concept loader earns Red Dot award appeared first on Industrial Vehicle Technology International.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "c4f25d2e6e7a1f1f",
     "status": "published",
     "title_original": "FLANDERS installs hybrid-electric control cabinet on Komatsu 930 at Belle Ayr mine",
@@ -354,61 +412,6 @@
     }
   },
   {
-    "id": "48efd3d54f9610d2",
-    "status": "published",
-    "title_original": "Manitou’s New MRT 4080 Telehandler: A 3-in-1 Machine That Extends 131 Feet",
-    "source_name": "Equipment World",
-    "source_url": "https://www.equipmentworld.com/aeriallifting-equipment/telehandlers/article/15837478/manitou-mrt-4080-rotary-telehandler-reaches-131-feet",
-    "source_feed": "https://www.equipmentworld.com/feed/",
-    "published_at": "2026-10-16T16:05:00.000Z",
-    "discovered_at": "2026-10-16T18:43:52.744Z",
-    "sector": "is-makinalari",
-    "technologies": [],
-    "relevance_score": 145,
-    "editorial_fit_score": 65,
-    "summary_source": "The largest High Lift MRT combines telehandler, crane and aerial work platform abilities, with up to 17,637 pounds of lifting...",
-    "editorial": {
-      "title_tr": "Manitou MRT 4080 döner teleskopik yükleyici 131 feet erişim sunuyor",
-      "dek_tr": "Equipment World’e göre MRT 4080, teleskopik yükleyici, vinç ve yükseltilebilir çalışma platformu işlevlerini tek makinede birleştiriyor. Haberde azami kaldırma kapasitesi 17.637 lb olarak veriliyor.",
-      "summary_tr": "Equipment World, Manitou’nun MRT 4080 modelini High Lift MRT ailesinin en büyük makinesi olarak tanımlıyor. Haberin başlığı 131 feet erişimden söz ederken, kısa kaynak özeti makinenin teleskopik yükleyici, vinç ve yükseltilebilir çalışma platformu işlevlerini bir arada sunduğunu belirtiyor.\n\nKaynak özetinde kaldırma kapasitesi 17.637 lb’ye kadar olarak aktarılıyor. Verilen metin; yük diyagramı, erişim ve kapasite değerlerinin hangi konfigürasyonda geçerli olduğu ya da makinenin teknik donanımına ilişkin ayrıntıları içermiyor.",
-      "why_it_matters_tr": "Birden fazla kaldırma ve erişim işlevinin tek makinede sunulması, şantiyelerde ekipman kullanım seçeneklerini etkileyebilir. Ancak kapasite ve erişim değerleri uygulamaya ve konfigürasyona bağlı olabileceğinden, seçim için üreticinin yük tabloları ve teknik belgeleri esas alınmalı.",
-      "seo_title": "Manitou MRT 4080: 131 feet erişimli döner yükleyici",
-      "meta_description": "Manitou MRT 4080, habere göre teleskopik yükleyici, vinç ve çalışma platformu işlevlerini birleştiriyor; kaldırma kapasitesi 17.637 lb’ye kadar.",
-      "hero_image": "",
-      "reviewed": true,
-      "key_facts": [
-        "Haberde ürün Manitou MRT 4080 olarak adlandırılıyor.",
-        "Equipment World başlığında erişim 131 feet olarak veriliyor.",
-        "Kaynak özeti teleskopik yükleyici, vinç ve yükseltilebilir çalışma platformu işlevlerini sıralıyor.",
-        "Kaldırma kapasitesi kaynak özetinde 17.637 lb’ye kadar olarak belirtiliyor."
-      ],
-      "suggested_tags": [
-        "Manitou",
-        "MRT 4080",
-        "döner teleskopik yükleyici",
-        "kaldırma ekipmanı",
-        "şantiye makineleri"
-      ],
-      "suggested_sector": "is-makinalari",
-      "editorial_format": "haber",
-      "suggested_technologies": [],
-      "source_facts_used": [
-        "Equipment World başlığındaki MRT 4080 model adı ve 131 feet erişim bilgisi",
-        "Kaynak özetindeki üç işlev tanımı",
-        "Kaynak özetinde bildirilen 17.637 lb’ye kadar kaldırma kapasitesi"
-      ],
-      "uncertainty_notes": [
-        "Kaynak sayfasına erişilemedi; taslak verilen kısa özet ve başlıkla sınırlı.",
-        "131 feet erişim ve 17.637 lb kapasitenin geçerli olduğu konfigürasyon ile çalışma koşulları belirtilmiyor; üretici teknik belgeleriyle doğrulanmalı."
-      ],
-      "generated_at": "2026-10-18T19:43:54.634Z",
-      "generated_by": "github-models",
-      "reviewed_at": "2026-10-18T20:34:30.968Z",
-      "review_result": "published"
-    },
-    "subsector": null
-  },
-  {
     "id": "50dd9a5952fc8d5b",
     "status": "drafted",
     "title_original": "Kubota Revamps BX90 Subcompact Tractor Line With More Power and Capability",
@@ -460,58 +463,58 @@
     "subsector": null
   },
   {
-    "id": "a2e289bd4e54672e",
-    "status": "published",
-    "title_original": "Sandvik Rock Processing’s Reborn crusher program gains traction in Africa",
-    "source_name": "International Mining",
-    "source_url": "https://im-mining.com/2026/10/16/sandvik-rock-processings-reborn-crusher-program-gains-traction-in-africa/",
-    "source_feed": "https://im-mining.com/feed/",
-    "published_at": "2026-10-16T10:07:16.000Z",
-    "discovered_at": "2026-10-16T18:43:52.921Z",
-    "sector": "madencilik",
-    "technologies": [],
-    "relevance_score": 140,
-    "editorial_fit_score": 65,
-    "summary_source": "Mines and quarries across Africa are pushing to maximise output from existing infrastructure while keeping capital expenditure under tight control, with Sandvik Rock Processing’s Reborn program does just this for ageing crushing equipment, the OEM says. “Our Reborn program is more than a refurbishment,” PC Kruger, Business Line Manager Crushing at Sandvik Rock Processing, says. The post Sandvik Rock Processing’s Reborn crusher program gains traction in Africa appeared first on International Mining.",
+    "id": "ae8b66053c909874",
+    "status": "candidate",
+    "title_original": "PIRTEK USA  2026 Growth with 12 New Territories, Five New Locations in Q3",
+    "source_name": "Construction Equipment Guide",
+    "source_url": "https://www.constructionequipmentguide.com/pirtek-usa-2026-growth-with-12-new-territories-five-new-locations-in-q3/72545",
+    "source_feed": "https://feeds.feedburner.com/ceg",
+    "published_at": "2026-10-20T05:00:00.000Z",
+    "discovered_at": "2026-10-20T19:06:46.270Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [
+      "hidrolik"
+    ],
+    "relevance_score": 138,
+    "editorial_fit_score": 77,
+    "summary_source": "National Hydraulic and Industrial Hose Service Franchise Strengthens Leadership Team, Earns Continued Industry Recognition...",
     "editorial": {
-      "title_tr": "Sandvik Rock Processing’in Reborn programı Afrika’da ilgi görüyor",
-      "dek_tr": "International Mining’in haberine göre Sandvik Rock Processing’in Reborn programı, Afrika’daki maden ve taş ocaklarında yaşlanan kırma ekipmanlarına yönelik bir seçenek olarak öne çıkıyor. Paylaşılan kaynak, program kapsamını veya ölçülmüş performans sonuçlarını açıklamıyor.",
-      "summary_tr": "International Mining, Afrika’daki maden ve taş ocaklarının mevcut altyapıdan daha fazla üretim elde etmeye ve sermaye harcamalarını kontrol altında tutmaya çalıştığını aktarıyor. Haberde Sandvik Rock Processing’in Reborn programı, yaşlanan kırma ekipmanlarına yönelik bir çözüm olarak tanımlanıyor; bu değerlendirme üretici tarafına atfediliyor.\n\nHaberde alıntılanan Sandvik Rock Processing Crushing İş Birimi Müdürü PC Kruger, programın basit bir yenilemeden fazlası olduğunu söylüyor. Ancak sağlanan metin; programdaki teknik işlemleri, yenilenen ekipmanları, uygulama sahalarını veya üretim sonuçlarını belirtmiyor.",
-      "why_it_matters_tr": "Kırma ekipmanlarının yenilenmesi, yeni yatırım ile mevcut tesisin kullanımını sürdürme arasındaki teknik ve ekonomik tercihi etkileyebilir. Programın maden işletmelerine gerçek katkısını değerlendirmek için yenileme kapsamı, ekipman duruş süresi ve doğrulanmış saha sonuçları gibi bilgiler gerekir.",
-      "seo_title": "Sandvik Reborn kırıcı programı Afrika’da gündemde",
-      "meta_description": "Sandvik Rock Processing’in Reborn programı Afrika’daki yaşlanan kırma ekipmanlarına odaklanıyor; kaynakta program kapsamı ve ölçülmüş saha sonuçları yok.",
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
       "hero_image": "",
-      "reviewed": true,
-      "key_facts": [
-        "International Mining haberi Sandvik Rock Processing’in Reborn programını konu alıyor.",
-        "Haberde programın yaşlanan kırma ekipmanlarına yönelik olduğu belirtiliyor.",
-        "PC Kruger, programı basit bir yenilemeden fazlası olarak nitelendiriyor."
-      ],
-      "suggested_tags": [
-        "Sandvik Rock Processing",
-        "Reborn",
-        "kırma ekipmanı",
-        "maden",
-        "taş ocağı"
-      ],
-      "suggested_sector": "madencilik",
-      "editorial_format": "haber",
-      "suggested_technologies": [],
-      "source_facts_used": [
-        "International Mining’in Reborn programını Afrika’daki yaşlanan kırma ekipmanları bağlamında haberleştirmesi.",
-        "Haberde PC Kruger’e atfedilen, programın basit bir yenilemeden fazlası olduğu yönündeki açıklama.",
-        "Haberde maden ve taş ocaklarının mevcut altyapıdan üretimi artırma ve sermaye harcamalarını kontrol etme baskısı altında olduğunun aktarılması."
-      ],
-      "uncertainty_notes": [
-        "Kaynak, üretici tarafından sunulan program açıklamasını aktarıyor; bağımsız saha testi veya doğrulanmış performans sonucu içermiyor.",
-        "Programın teknik kapsamı, belirli Afrika uygulamaları ve ölçülebilir üretim ya da maliyet etkileri mevcut metinde açıklanmıyor; önemli iddialar birincil üretici kaynağıyla doğrulanmalı."
-      ],
-      "generated_at": "2026-10-19T10:25:55.969Z",
-      "generated_by": "github-models",
-      "reviewed_at": "2026-10-19T19:15:41.450Z",
-      "review_result": "published"
-    },
-    "subsector": null
+      "reviewed": false
+    }
+  },
+  {
+    "id": "b5fd0c98b861f56f",
+    "status": "candidate",
+    "title_original": "Potain Introduces New MDT 99E Tower Crane",
+    "source_name": "Construction Equipment Guide",
+    "source_url": "https://www.constructionequipmentguide.com/potain-introduces-new-mdt-99e-tower-crane/72543",
+    "source_feed": "https://feeds.feedburner.com/ceg",
+    "published_at": "2026-10-20T05:00:00.000Z",
+    "discovered_at": "2026-10-20T19:06:46.272Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 130,
+    "editorial_fit_score": 65,
+    "summary_source": "The MDT 99e expands Potain's MDT City range as the first crane equipped with the new CCS Evolution control system....",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
   },
   {
     "id": "6f35bcef30980481",
