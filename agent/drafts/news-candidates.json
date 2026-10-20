@@ -643,7 +643,7 @@
   },
   {
     "id": "6eda21a37998f0dc",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Sinoboom, 43,6 metre çalışma yüksekliğine sahip AB42RJ Plus’ı tanıttı",
     "source_name": "LHT",
     "source_url": "https://www.lht.com.tr/sinoboom-436-metre-calisma-yuksekligine-sahip-ab42rj-plusi-tanitti/",
@@ -701,7 +701,9 @@
         "454 kg kapasitenin belirli erişim ve platform yüksekliği koşullarındaki uygulanabilirliği üretici dokümanından teyit edilmelidir."
       ],
       "generated_at": "2026-10-19T20:31:29.824Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "review_result": "auto_published",
+      "reviewed_at": "2026-10-20T11:31:39.844Z"
     }
   }
 ]

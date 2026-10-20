@@ -1,5 +1,44 @@
 [
   {
+    "id": "6eda21a37998f0dc",
+    "slug": "sinoboom-ab42rj-plus-43-6-metre-calisma-yuksekligi-ve-uc-guc-secenegi",
+    "title": "Sinoboom AB42RJ Plus: 43,6 metre çalışma yüksekliği ve üç güç seçeneği",
+    "dek": "LHT’nin haberine göre Sinoboom AB42RJ Plus mafsallı personel yükseltici platform, 43,6 metre çalışma yüksekliği, yüke bağlı olarak 23 metreye kadar yatay erişim ve üç güç seçeneğiyle sunuluyor. Modelin dizel ve elektrikli versiyonlarına ilişkin teknik iddialar üretici beyanı olarak ele alınmalı.",
+    "summary": "LHT, Sinoboom’un AB42RJ Plus mafsallı personel yükseltici platformunu 43,6 metre çalışma yüksekliğiyle tanıttığını bildiriyor. Haberde platform yüküne bağlı olarak 23 metreye kadar yatay erişim, 15,1 metre aşağı erişim ve 454, 340 veya 250 kg’lık üç platform kapasitesi seçeneği aktarılıyor.\n\nKaynağa göre model; Stage V uyumlu Deutz motorlu dizel, 76 kWh lityum bataryalı tamamen elektrikli ve çıkarılabilir menzil uzatıcıyla desteklenen tamamen elektrikli seçeneklerle sunuluyor. Sinoboom, elektrikli versiyon için yaklaşık iki günlük çalışma özerkliği bildiriyor; bu değer kaynakta bağımsız test sonucu olarak sunulmuyor.\n\nHaberde ayrıca dört tekerlekten çekiş ve yönlendirme, yüzde 40 tırmanma kabiliyeti, genişletilebilir X tipi şasi ve kesintisiz 360 derece taret dönüşü belirtiliyor. SmartHub ekranının arıza bilgisi, kalibrasyon ve hız ayarlarını bir arayüzde topladığı; güvenlik sertifikalı kontrol ünitesi, çift kanallı sensörler ve ikincil koruma sistemlerinin de modelde bulunduğu aktarılıyor.",
+    "why_it_matters": "Yüksek erişimli personel platformlarında erişim mesafesi ve platform kapasitesini güç seçeneği, saha manevrası ve nakliye ölçüleriyle birlikte değerlendirmek, kiralama ve altyapı filolarının farklı çalışma koşullarına uygun makine seçimini etkileyebilir. Elektrikli versiyonun belirtilen çalışma özerkliği ve menzil uzatıcı seçeneği de şarj altyapısı sınırlı sahalar açısından incelenmeye değer; ancak bu iddialar bağımsız doğrulama gerektiriyor.",
+    "key_facts": [
+      "LHT, AB42RJ Plus için 43,6 metre çalışma yüksekliği ve yüke bağlı olarak 23 metreye kadar yatay erişim bildiriyor.",
+      "Kaynakta platform kapasitesi seçenekleri 454, 340 ve 250 kg olarak veriliyor.",
+      "Üç güç seçeneği dizel, tamamen elektrikli ve çıkarılabilir menzil uzatıcılı tamamen elektrikli olarak sıralanıyor.",
+      "Elektrikli versiyon için 76 kWh batarya ve yaklaşık iki günlük çalışma özerkliği üretici iddiası olarak aktarılıyor.",
+      "Haberde 4WD, 4WS ve yüzde 40 tırmanma kabiliyeti belirtiliyor."
+    ],
+    "format": "haber",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon",
+      "hidrolik",
+      "yuruyus-guc-aktarma",
+      "emisyon-stage-v",
+      "fonksiyonel-guvenlik"
+    ],
+    "tags": [
+      "Sinoboom",
+      "AB42RJ Plus",
+      "personel yükseltici platform",
+      "elektrikli platform",
+      "Stage V",
+      "mafsallı platform"
+    ],
+    "source_name": "LHT",
+    "source_url": "https://www.lht.com.tr/sinoboom-436-metre-calisma-yuksekligine-sahip-ab42rj-plusi-tanitti/",
+    "source_published_at": "2026-10-19T11:50:48.000Z",
+    "site_published_at": "2026-10-20T11:31:39.844Z",
+    "hero_image": "",
+    "publish_mode": "automatic"
+  },
+  {
     "id": "a2e289bd4e54672e",
     "slug": "sandvik-rock-processing-in-reborn-programi-afrika-da-ilgi-goruyor",
     "title": "Sandvik Rock Processing’in Reborn programı Afrika’da ilgi görüyor",
