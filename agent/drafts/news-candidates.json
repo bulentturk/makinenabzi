@@ -296,7 +296,7 @@
   },
   {
     "id": "18a9dd741dafe55b",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Bobcat Earns Second Red Dot Award, RogueX3",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/bobcat-earns-second-red-dot-award-roguex3/72538",
@@ -320,7 +320,7 @@
       "seo_title": "Bobcat RogueX3 konsepti Red Dot tasarım ödülünü kazandı",
       "meta_description": "Bobcat’in elektrikli, otonom ve modüler konsept yükleyicisi RogueX3, Construction Equipment Guide’a göre Red Dot Tasarım Konsepti ödülünü aldı.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "Kaynağa göre Bobcat RogueX3, Red Dot Tasarım Konsepti ödülünü aldı.",
         "RogueX3 kaynakta tamamen elektrikli, otonom ve modüler konsept yükleyici olarak tanımlanıyor.",
@@ -348,7 +348,9 @@
         "Kaynakta verilen nitelikler konsept tanımıdır; seri üretim, saha performansı veya ticari bulunabilirlik bilgisi değildir."
       ],
       "generated_at": "2026-10-19T20:31:29.824Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-20T13:50:25.794Z",
+      "review_result": "published"
     }
   },
   {
