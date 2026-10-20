@@ -1,5 +1,37 @@
 [
   {
+    "id": "384fefccbcd066d1",
+    "slug": "caterpillar-22-ton-sinifi-dizel-elektrikli-r3200-lhd-yi-tanitmaya-hazirlaniyor",
+    "title": "Caterpillar, 22 ton sınıfı dizel-elektrikli R3200 LHD’yi tanıtmaya hazırlanıyor",
+    "dek": "International Mining’in haber başlığı, Caterpillar’ın 22 ton sınıfında dizel-elektrikli bir R3200 yeraltı yükleyicisi için lansman hazırlığında olduğunu bildiriyor. Haberin erişilebilen bölümünde modelin teknik ayrıntıları yer almıyor.",
+    "summary": "International Mining’in 19 Ekim tarihli haber başlığı, Caterpillar R3200’ü 22 ton sınıfında dizel-elektrikli bir LHD olarak tanıtıyor ve lansmana hazırlandığını belirtiyor. Ancak haber metninin erişilebilen kısmı yeni modelin kapasite, güç sistemi veya çalışma özelliklerine dair ek bilgi sunmuyor.\n\nKaynağın görünen bölümünde daha önceki R2900 XE’den söz ediliyor: 18,5 tonluk dizel-elektrikli yükleyicinin küresel ölçekte kullanıldığı ve PT Freeport Indonesia’ya teslim edilen ünite sayısının 21’e ulaştığı aktarılıyor. Bu bilgiler R3200’ün teknik performansını veya sahadaki uygulamasını doğrulamıyor.",
+    "why_it_matters": "R3200 gerçekten yeni bir 22 ton sınıfı dizel-elektrikli LHD ise, yeraltı yükleme ve nakliye filosunda daha yüksek kapasite ile elektrikli tahrikin nasıl bir araya getirildiği önemli olacaktır. Mevcut kaynak, bu teknik farkı değerlendirmek için yeterli ayrıntı sağlamıyor.",
+    "key_facts": [
+      "International Mining’in haber başlığı R3200’ü 22 ton sınıfında dizel-elektrikli LHD olarak tanımlıyor.",
+      "Kaynağın erişilebilen metni R3200’ün teknik özelliklerini açıklamıyor.",
+      "Kaynağa göre PT Freeport Indonesia, 18,5 tonluk R2900 XE’den 21’inci üniteyi teslim aldı."
+    ],
+    "format": "haber",
+    "sector": "madencilik",
+    "subsector": "yeraltı-madenciliği",
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "tags": [
+      "Caterpillar",
+      "R3200",
+      "LHD",
+      "yeraltı madenciliği",
+      "dizel-elektrikli tahrik"
+    ],
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/10/19/caterpillar-gears-up-for-launch-of-22-t-diesel-electric-r3200-lhd/",
+    "source_published_at": "2026-10-19T18:25:35.000Z",
+    "site_published_at": "2026-10-20T13:48:03.585Z",
+    "hero_image": "",
+    "publish_mode": "approved"
+  },
+  {
     "id": "6eda21a37998f0dc",
     "slug": "sinoboom-ab42rj-plus-43-6-metre-calisma-yuksekligi-ve-uc-guc-secenegi",
     "title": "Sinoboom AB42RJ Plus: 43,6 metre çalışma yüksekliği ve üç güç seçeneği",

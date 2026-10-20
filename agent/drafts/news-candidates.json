@@ -123,7 +123,7 @@
   },
   {
     "id": "384fefccbcd066d1",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Caterpillar gears up for launch of 22 t diesel-electric R3200 LHD",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/10/19/caterpillar-gears-up-for-launch-of-22-t-diesel-electric-r3200-lhd/",
@@ -147,7 +147,7 @@
       "seo_title": "Caterpillar R3200 dizel-elektrikli LHD lansmanına hazırlanıyor",
       "meta_description": "International Mining, Caterpillar R3200’ü 22 ton sınıfında dizel-elektrikli LHD olarak duyuruyor. Erişilebilen haberde teknik ayrıntı bulunmuyor.",
       "hero_image": "",
-      "reviewed": false,
+      "reviewed": true,
       "key_facts": [
         "International Mining’in haber başlığı R3200’ü 22 ton sınıfında dizel-elektrikli LHD olarak tanımlıyor.",
         "Kaynağın erişilebilen metni R3200’ün teknik özelliklerini açıklamıyor.",
@@ -174,7 +174,9 @@
         "22 ton sınıfı ve dizel-elektrikli tanımı haber başlığında yer alıyor; üreticinin birincil duyurusuyla teyit edilmeli."
       ],
       "generated_at": "2026-10-19T20:31:29.824Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "reviewed_at": "2026-10-20T13:48:03.587Z",
+      "review_result": "published"
     }
   },
   {
