@@ -63,7 +63,7 @@
   },
   {
     "id": "c4f25d2e6e7a1f1f",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "FLANDERS installs hybrid-electric control cabinet on Komatsu 930 at Belle Ayr mine",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/10/20/flanders-installs-hybrid-electric-control-cabinet-on-komatsu-930-at-belle-ayr-mine/",
@@ -80,14 +80,45 @@
     "editorial_fit_score": 89,
     "summary_source": "Earlier this month, mining industry power, automation, and electrification solutions major FLANDERS announced a “world’s first” installation of FLANDERS’ hybrid-electric control cabinet on a diesel-electric drive Komatsu 930E haul truck owned by coal mining company Eagle Summit Resources LLC. The company said that the cabinet beats haul truck obsolescence challenges with modernised electric-drive controls, enables The post FLANDERS installs hybrid-electric control cabinet on Komatsu 930 at Belle Ayr mine appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "FLANDERS, Belle Ayr’de Komatsu 930E’ye hibrit-elektrikli kontrol kabini kurdu",
+      "dek_tr": "FLANDERS, Eagle Summit Resources’a ait dizel-elektrik tahrikli Komatsu 930E kaya kamyonuna hibrit-elektrikli kontrol kabini monte ettiğini duyurdu. Şirket, yenilemenin elektrikli tahrik kontrollerini modernize etmeyi hedeflediğini belirtiyor.",
+      "summary_tr": "International Mining’in aktardığı duyuruya göre FLANDERS, ABD’deki Belle Ayr madeninde kullanılan bir Komatsu 930E’ye hibrit-elektrikli kontrol kabini kurdu. Kamyon, kömür madenciliği şirketi Eagle Summit Resources’a ait ve dizel-elektrik tahrik sistemine sahip.\n\nFLANDERS, çözümün eskiyen kaya kamyonlarının kullanım ömrüyle ilgili sorunlara modernize edilmiş elektrikli tahrik kontrolleriyle yanıt verdiğini söylüyor. Mevcut kaynakta kabinin teknik özellikleri, kurulum kapsamı veya sahadaki performans sonuçları yer almıyor.",
+      "why_it_matters_tr": "Büyük maden kamyonlarında kontrol sistemlerinin yenilenmesi, mevcut filonun işletmede tutulmasına yönelik bir seçenek olabilir. Ancak bu kurulumun sağladığı verim, bakım veya ömür avantajları kaynakta ölçülmüş verilerle açıklanmıyor.",
+      "seo_title": "FLANDERS, Komatsu 930E’ye kontrol kabini kurdu",
+      "meta_description": "FLANDERS, Belle Ayr madeninde kullanılan dizel-elektrik tahrikli Komatsu 930E’ye hibrit-elektrikli kontrol kabini kurduğunu duyurdu.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "FLANDERS, bir Komatsu 930E’ye hibrit-elektrikli kontrol kabini kurduğunu duyurdu.",
+        "Kamyon, Eagle Summit Resources’a ait ve Belle Ayr madeninde kullanılıyor.",
+        "Komatsu 930E’nin tahrik sistemi kaynakta dizel-elektrik olarak tanımlanıyor.",
+        "FLANDERS, çözümün elektrikli tahrik kontrollerini modernize ettiğini belirtiyor."
+      ],
+      "suggested_tags": [
+        "FLANDERS",
+        "Komatsu 930E",
+        "maden kamyonu",
+        "elektrikli tahrik",
+        "kontrol sistemi"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon",
+        "elektronik-telematik"
+      ],
+      "source_facts_used": [
+        "International Mining’in FLANDERS duyurusuna dayanan haber özeti.",
+        "Kurulumun Belle Ayr’deki Eagle Summit Resources’a ait dizel-elektrik tahrikli Komatsu 930E’de yapıldığı bilgisi.",
+        "FLANDERS’ın kontrol modernizasyonuna ilişkin açıklaması."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfasına erişim 403 hatasıyla engellenmiş; eldeki içerik kısa bir ikincil yayın özetiyle sınırlı.",
+        "FLANDERS’ın birincil duyurusu ve kabinin teknik özellikleri mevcut girdide bulunmuyor; teknik kapsam ve şirketin “dünyada ilk” iddiası birincil kaynakla doğrulanmalı.",
+        "Bağımsız saha performansı veya yakıt/verimlilik ölçümü verilmemiştir."
+      ],
+      "generated_at": "2026-10-20T09:45:23.236Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -373,7 +404,7 @@
   },
   {
     "id": "50dd9a5952fc8d5b",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Kubota Revamps BX90 Subcompact Tractor Line With More Power and Capability",
     "source_name": "Equipment World",
     "source_url": "https://www.equipmentworld.com/ag-equipment/tractors/article/15837445/kubota-completely-redesigns-bx90-subcompact-tractor-line",
@@ -386,14 +417,39 @@
     "editorial_fit_score": 55,
     "summary_source": "The five new models are completely redesigned for year-round work — mowing, digging, clearing snow and loading.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Kubota, BX90 kompakt traktör serisini yeniledi",
+      "dek_tr": "Equipment World’e göre Kubota, BX90 serisinde beş yeni modeli tamamen yeniden tasarladı. Modellerin biçme, kazı, kar temizleme ve yükleme gibi yıl boyu işlerde kullanılması hedefleniyor.",
+      "summary_tr": "Kubota’nın BX90 kompakt traktör serisi beş yeni modelle yenilendi. Kaynak özeti, modellerin yıl boyunca biçme, kazı, kar temizleme ve yükleme işlerinde kullanılabileceğini belirtiyor.\n\nGirdi, motor gücü, boyutlar, hidrolik kapasite, ataşman uyumluluğu veya önceki modellere göre yapılan teknik değişiklikler hakkında ayrıntı içermiyor. Bu nedenle serideki yeniliğin teknik kapsamı mevcut bilgilerle değerlendirilemiyor.",
+      "why_it_matters_tr": "Kompakt traktörlerin farklı mevsimlerde ve ataşmanlarla kullanılabilmesi tarım ve mülk bakımında işlevsel olabilir; ancak ürünün kapasitesi ve yeni modellerin sağladığı farklar için daha kapsamlı teknik bilgi gerekir.",
+      "seo_title": "Kubota BX90 kompakt traktör serisini yeniledi",
+      "meta_description": "Kubota, BX90 kompakt traktör serisinde beş yeni modeli tanıttı. Kaynak özeti modellerin yıl boyu farklı işlerde kullanılacağını belirtiyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "BX90 serisi için beş yeni model duyurulduğu aktarılıyor.",
+        "Modellerin tamamen yeniden tasarlandığı belirtiliyor.",
+        "Kaynak özeti biçme, kazı, kar temizleme ve yükleme kullanım alanlarını sayıyor."
+      ],
+      "suggested_tags": [
+        "Kubota",
+        "BX90",
+        "kompakt traktör",
+        "tarım makineleri"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Equipment World’ün kısa haber özetinde belirtilen beş yeni BX90 modeli.",
+        "Modellerin yeniden tasarlandığı ve yıl boyu biçme, kazı, kar temizleme, yükleme işlerine yönelik olduğu bilgisi."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfasına erişim 403 hatasıyla engellenmiş; mevcut metin yalnızca kısa bir ikincil yayın özeti.",
+        "Motor, güç, hidrolik sistem, ölçüler ve önceki nesle göre değişiklikler hakkında doğrulanabilir bilgi yok.",
+        "Üreticinin birincil ürün açıklaması mevcut girdide bulunmadığından teknik iddialar birincil kaynakla doğrulanmalı."
+      ],
+      "generated_at": "2026-10-20T09:45:23.236Z",
+      "generated_by": "github-models"
     },
     "subsector": null
   },
@@ -510,7 +566,7 @@
   },
   {
     "id": "db5a25d54ff0f5cb",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Ground anchors halt Cross Island Line tunnelling",
     "source_name": "Tunnels & Tunnelling",
     "source_url": "https://www.tunnelsandtunnelling.com/news/ground-anchors-halt-cross-island-line-tunnelling/",
@@ -524,14 +580,39 @@
     "editorial_fit_score": 55,
     "summary_source": "Ground anchors halt Cross Island Line tunnelling Additional works are required after the TBM encountered the ground anchors. The post Ground anchors halt Cross Island Line tunnelling appeared first on Tunnels and Tunnelling.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Zemin ankrajları Cross Island Line tünel açma çalışmalarını durdurdu",
+      "dek_tr": "Tunnels & Tunnelling’in özetine göre Cross Island Line’da tünel açma makinesi zemin ankrajlarıyla karşılaştı ve ek çalışma gereksinimi doğdu. Kaynak, duruşun süresi veya müdahalenin kapsamı hakkında ayrıntı vermiyor.",
+      "summary_tr": "Cross Island Line tünel açma çalışmalarının, tünel açma makinesinin güzergâhtaki zemin ankrajlarıyla karşılaşmasının ardından durduğu bildirildi. Tunnels & Tunnelling’in kısa açıklaması, ilerlemenin sürdürülebilmesi için ek çalışmalar gerektiğini belirtiyor.\n\nPaylaşılan içerikte makinenin türü, ankrajların konumu, gerekli müdahale yöntemi veya takvime etkisi açıklanmıyor. Bu nedenle olayın teknik çözümü ve proje üzerindeki etkisi hakkında daha ileri bir çıkarım yapılamaz.",
+      "why_it_matters_tr": "Güzergâhta karşılaşılan mevcut zemin elemanları tünel açma operasyonlarında ek iş ve koordinasyon ihtiyacı doğurabilir. Olayın ekipman veya yöntem açısından daha geniş bir teknik sonucu olup olmadığını değerlendirmek için müdahale ayrıntıları gerekir.",
+      "seo_title": "Zemin ankrajları Cross Island Line tünelini durdurdu",
+      "meta_description": "Cross Island Line’da tünel açma makinesinin zemin ankrajlarıyla karşılaştığı ve ilerleme için ek çalışma gerektiği bildirildi.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Cross Island Line tünel açma çalışmalarının durduğu bildiriliyor.",
+        "Tünel açma makinesinin zemin ankrajlarıyla karşılaştığı aktarılıyor.",
+        "Kaynak, ek çalışmalar gerektiğini belirtiyor."
+      ],
+      "suggested_tags": [
+        "tünel açma makinesi",
+        "tünelcilik",
+        "Cross Island Line",
+        "zemin ankrajı"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Tunnels & Tunnelling başlığı ve açıklamasında tünel açma çalışmalarının zemin ankrajları nedeniyle durduğunun belirtilmesi.",
+        "Makinenin ankrajlarla karşılaştığı ve ek çalışma gerektiği yönündeki kısa haber özeti."
+      ],
+      "uncertainty_notes": [
+        "Girdi içindeki kaynak metni yalnızca “APROTEK” ifadesinden oluşuyor; olay ayrıntıları kısa başlık ve özet bilgisinden alınmıştır.",
+        "Makine modeli, ankrajların niteliği, müdahale yöntemi, duruş süresi ve proje takvimine etkisi doğrulanamıyor.",
+        "Teknik değerlendirme veya yayın öncesi kullanım için birincil proje ya da işletme açıklaması gerekir."
+      ],
+      "generated_at": "2026-10-20T09:45:23.236Z",
+      "generated_by": "github-models"
     }
   },
   {
