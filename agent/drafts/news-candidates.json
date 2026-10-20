@@ -62,6 +62,35 @@
     "subsector": null
   },
   {
+    "id": "c4f25d2e6e7a1f1f",
+    "status": "candidate",
+    "title_original": "FLANDERS installs hybrid-electric control cabinet on Komatsu 930 at Belle Ayr mine",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/10/20/flanders-installs-hybrid-electric-control-cabinet-on-komatsu-930-at-belle-ayr-mine/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-10-20T09:05:44.000Z",
+    "discovered_at": "2026-10-20T09:44:16.867Z",
+    "sector": "madencilik",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon",
+      "otonomi-ai"
+    ],
+    "relevance_score": 166,
+    "editorial_fit_score": 89,
+    "summary_source": "Earlier this month, mining industry power, automation, and electrification solutions major FLANDERS announced a “world’s first” installation of FLANDERS’ hybrid-electric control cabinet on a diesel-electric drive Komatsu 930E haul truck owned by coal mining company Eagle Summit Resources LLC. The company said that the cabinet beats haul truck obsolescence challenges with modernised electric-drive controls, enables The post FLANDERS installs hybrid-electric control cabinet on Komatsu 930 at Belle Ayr mine appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "384fefccbcd066d1",
     "status": "drafted",
     "title_original": "Caterpillar gears up for launch of 22 t diesel-electric R3200 LHD",
@@ -203,34 +232,6 @@
     }
   },
   {
-    "id": "c3ffa8435fefc0c6",
-    "status": "candidate",
-    "title_original": "Normet, Codelco partner on El Teniente-focused automation program",
-    "source_name": "International Mining",
-    "source_url": "https://im-mining.com/2026/10/16/normet-codelco-partner-on-el-teniente-focused-automation-program/",
-    "source_feed": "https://im-mining.com/feed/",
-    "published_at": "2026-10-16T08:36:19.000Z",
-    "discovered_at": "2026-10-17T23:07:07.663Z",
-    "sector": "madencilik",
-    "subsector": "yeraltı-madenciliği",
-    "technologies": [
-      "otonomi-ai"
-    ],
-    "relevance_score": 152,
-    "editorial_fit_score": 34,
-    "summary_source": "Normet and Codelco have entered into a five-year technology development program to advance autonomous and remotely operated underground mining technologies. The collaboration will focus on developing safer, more productive mining processes through technology pilots at Codelco’s El Teniente mine in Chile. The program will concentrate on three key development areas: autonomous concrete transport and spraying The post Normet, Codelco partner on El Teniente-focused automation program appeared first on International Mining.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
-  },
-  {
     "id": "19330baec061b053",
     "status": "candidate",
     "title_original": "New Volvo Mining entity set up to meet growing mining equipment & autonomy solutions demand",
@@ -314,68 +315,6 @@
       "generated_at": "2026-10-19T20:31:29.824Z",
       "generated_by": "github-models"
     }
-  },
-  {
-    "id": "f53d4390760cc62a",
-    "status": "published",
-    "title_original": "Castoldi waterjets power fully electric Ravenna Futura",
-    "source_name": "Marine Industry News",
-    "source_url": "https://marineindustrynews.co.uk/castoldi-waterjets-power-fully-electric-ravenna-futura/",
-    "source_feed": "https://marineindustrynews.co.uk/feed/",
-    "published_at": "2026-10-16T07:45:00.000Z",
-    "discovered_at": "2026-10-16T18:43:52.678Z",
-    "sector": "marine-yatcilik",
-    "technologies": [
-      "elektrifikasyon"
-    ],
-    "relevance_score": 146,
-    "editorial_fit_score": 79,
-    "summary_source": "Ravenna Futura, a fully electric, zero-emission workboat, has been launched in Ravenna, Italy. The 15-metre vessel was built to operate in the Port of Ravenna, using lithium and lead battery packs integrated with photovoltaic solar panels and an electric motor coupled to waterjets. Ravenna Futura uses twin Castoldi TD 284 EVT waterjets paired with electric […] The post Castoldi waterjets power fully electric Ravenna Futura appeared first on Marine Industry News.",
-    "editorial": {
-      "title_tr": "Ravenna Futura, çift Castoldi TD 284 EVT su jetiyle elektrikli tahrik kullanıyor",
-      "dek_tr": "Ravenna Limanı’nda çalışmak üzere inşa edilen 15 metrelik iş teknesinde elektrik motorları, lityum ve kurşun akü paketleri, fotovoltaik paneller ve iki TD 284 EVT su jeti bir araya geliyor.",
-      "summary_tr": "Marine Industry News’e göre Ravenna Futura, İtalya’nın Ravenna kentinde hizmet vermek üzere denize indirilen 15 metrelik, tamamen elektrikli bir iş teknesi. Teknenin enerji sisteminde lityum ve kurşun akü paketleri ile fotovoltaik paneller bulunuyor.\n\nTahrik düzeninde elektrik motorlarına bağlı iki Castoldi TD 284 EVT su jeti kullanılıyor. Haberde, teknenin çalışması sırasında egzoz emisyonu oluşmadığı belirtiliyor. Açıkta dönen pervanesi bulunmayan su jeti düzeninin sığ sularda ve hassas doğal alanlarda deniz yaşamına yönelik riskleri azaltmasının amaçlandığı aktarılıyor.\n\nCastoldi, su jetlerinin hassas yönlendirme ve farklı hızlarda hızlı itki tepkisi sağladığını; bu özelliklerin liman ve dar kanallardaki manevraları desteklediğini belirtiyor. Bu performans ifadeleri üreticiye atfediliyor; haberde bağımsız test verisi sunulmuyor.",
-      "why_it_matters_tr": "Elektrikli iş teknesinde su jeti tahrikinin kullanılması, liman ve dar su yollarındaki çalışma senaryoları için batarya-elektrik motoru entegrasyonuna bir örnek sunuyor. Uygulamanın menzil, enerji tüketimi veya operasyonel performansı hakkında kaynakta ölçüm bulunmadığından bu başlıklarda sonuç çıkarmak mümkün değil.",
-      "seo_title": "Ravenna Futura’da elektrikli Castoldi su jeti tahriki",
-      "meta_description": "Ravenna Futura iş teknesi, iki Castoldi TD 284 EVT su jeti, elektrik motorları, akü paketleri ve fotovoltaik panellerle çalışıyor.",
-      "hero_image": "",
-      "reviewed": true,
-      "key_facts": [
-        "Ravenna Futura, Ravenna Limanı’nda çalışmak üzere inşa edilmiş 15 metrelik elektrikli bir iş teknesi olarak tanıtıldı.",
-        "Teknede lityum ve kurşun akü paketleri ile fotovoltaik paneller bulunuyor.",
-        "Tahrik sistemi, elektrik motorlarına bağlı iki Castoldi TD 284 EVT su jetinden oluşuyor.",
-        "Kaynak, teknenin çalışması sırasında egzoz emisyonu oluşmadığını bildiriyor."
-      ],
-      "suggested_tags": [
-        "Ravenna Futura",
-        "Castoldi",
-        "TD 284 EVT",
-        "elektrikli iş teknesi",
-        "su jeti",
-        "liman ekipmanları"
-      ],
-      "suggested_sector": "marine-yatcilik",
-      "editorial_format": "haber",
-      "suggested_technologies": [
-        "elektrifikasyon"
-      ],
-      "source_facts_used": [
-        "Marine Industry News’in aktardığı 15 metrelik tekne ve Ravenna Limanı’nda çalışma amacı",
-        "Teknedeki lityum ve kurşun akü paketleri, fotovoltaik paneller ve elektrik motorlarına bağlı çift TD 284 EVT su jeti",
-        "Kaynağın çalışma sırasında egzoz emisyonu oluşmadığı yönündeki bilgisi",
-        "Dar alanlarda manevraya ilişkin ifadelerin Castoldi’ye atfedilmesi"
-      ],
-      "uncertainty_notes": [
-        "Üretici veya tekne işletmecisinin birincil teknik duyurusu mevcut girdide yer almıyor.",
-        "Menzil, batarya kapasitesi, şarj süresi, güç değerleri ve bağımsız manevra ya da enerji verimliliği testleri kaynakta verilmemiş.",
-        "Dar alanlardaki manevra ve itki tepkisine ilişkin değerlendirmeler üretici beyanıdır; bağımsız test sonucu olarak doğrulanmamıştır."
-      ],
-      "generated_at": "2026-10-18T17:09:48.212Z",
-      "generated_by": "github-models",
-      "reviewed_at": "2026-10-18T17:19:05.900Z",
-      "review_result": "published"
-    },
-    "subsector": null
   },
   {
     "id": "48efd3d54f9610d2",
@@ -570,64 +509,6 @@
     }
   },
   {
-    "id": "4e2c5c42bead9f6b",
-    "status": "published",
-    "title_original": "Siloking Selfline 4.0 Compact 1612-13 with DryScan: Knowing more",
-    "source_name": "profi",
-    "source_url": "https://www.profi.co.uk/test-centre/siloking-selfline-4-0-compact-1612-13-with-dryscan-knowing-more/",
-    "source_feed": "https://www.profi.co.uk/feed/",
-    "published_at": "2026-10-16T08:35:28.000Z",
-    "discovered_at": "2026-10-16T09:24:36.504Z",
-    "sector": "tarim",
-    "technologies": [
-      "elektronik-telematik"
-    ],
-    "relevance_score": 123,
-    "editorial_fit_score": 67,
-    "summary_source": "PRACTICAL TEST: Siloking was using NIRS 10 years ago, so what makes it different this time round? Our test shows why the sensor tech can do more than just measure dry matter. The post Siloking Selfline 4.0 Compact 1612-13 with DryScan: Knowing more appeared first on Profi.",
-    "editorial": {
-      "title_tr": "Siloking Selfline 4.0 Compact 1612-13: DryScan kuru madde ölçümünün ötesinde",
-      "dek_tr": "profi, Siloking Selfline 4.0 Compact 1612-13 üzerindeki DryScan sensörünü pratik testinde inceliyor. Sağlanan metin, sensörün kuru madde ölçümü dışındaki işlevlerini açıklamıyor.",
-      "summary_tr": "profi’nin başlığı ve açıklaması, Siloking Selfline 4.0 Compact 1612-13 yem karma makinesindeki DryScan sensörüne yönelik bir pratik testi konu alıyor. Yayın, NIRS teknolojisinin kuru madde ölçümünün ötesinde ne yapabildiğini sorguluyor.\n\nAncak sağlanan kaynak metni, testin bulgularını veya DryScan’in ölçtüğü diğer parametreleri içermiyor; bu bölüm gübre dağıtıcılarına yönelik modifikasyon önerilerinden söz ediyor. Bu nedenle sensörün işlevleri ve performansı hakkında daha ileri teknik sonuç çıkarmak mümkün değil.",
-      "why_it_matters_tr": "Yem karma sürecinde sensör verileri, karışım ve besleme kararlarına katkı sağlayabilir. DryScan’in hangi ölçümleri hangi koşullarda yaptığı açıklanırsa, teknolojinin tarım makinesi operatörleri ve işletmeler için pratik değeri daha net değerlendirilebilir.",
-      "seo_title": "Siloking Selfline 4.0 Compact ve DryScan sensör testi",
-      "meta_description": "profi, Siloking Selfline 4.0 Compact 1612-13 üzerindeki DryScan NIRS sensörünü inceliyor; sağlanan metinde test bulguları yer almıyor.",
-      "hero_image": "",
-      "reviewed": true,
-      "key_facts": [
-        "Başlık, Siloking Selfline 4.0 Compact 1612-13 modelini DryScan ile birlikte anıyor.",
-        "profi açıklaması, NIRS sensörünün kuru madde ölçümünden daha fazlasını yapıp yapmadığını konu ediyor.",
-        "Sağlanan kaynak metni gübre dağıtıcılarıyla ilgili olup test sonuçlarını içermiyor."
-      ],
-      "suggested_tags": [
-        "Siloking",
-        "Selfline 4.0 Compact",
-        "DryScan",
-        "NIRS",
-        "tarım makineleri"
-      ],
-      "suggested_sector": "tarim",
-      "editorial_format": "haber",
-      "suggested_technologies": [
-        "elektronik-telematik"
-      ],
-      "source_facts_used": [
-        "profi başlığı, Siloking Selfline 4.0 Compact 1612-13 ile DryScan’i ilişkilendiriyor.",
-        "Sayfa açıklaması, NIRS sensörünün kuru madde ölçümü dışındaki yeteneklerini sorgulayan bir pratik test olduğunu belirtiyor.",
-        "Sağlanan kaynak metninde gübre dağıtıcı modifikasyonlarından söz ediliyor."
-      ],
-      "uncertainty_notes": [
-        "Kaynak metni, başlık ve açıklamayla uyuşmuyor; test bulguları ve DryScan’in teknik işlevleri doğrulanamıyor.",
-        "Sensörün ölçüm parametreleri, doğruluğu ve gerçek çalışma koşullarındaki performansı için orijinal test içeriği veya üretici teknik kaynağı gerekir."
-      ],
-      "generated_at": "2026-10-18T17:58:53.611Z",
-      "generated_by": "github-models",
-      "reviewed_at": "2026-10-19T19:10:34.212Z",
-      "review_result": "published"
-    },
-    "subsector": null
-  },
-  {
     "id": "db5a25d54ff0f5cb",
     "status": "candidate",
     "title_original": "Ground anchors halt Cross Island Line tunnelling",
@@ -678,32 +559,6 @@
       "hero_image": "",
       "reviewed": false
     }
-  },
-  {
-    "id": "699c72b40822b7f1",
-    "status": "candidate",
-    "title_original": "TBM due to arrive for Belgrade Metro",
-    "source_name": "Tunnels & Tunnelling",
-    "source_url": "https://www.tunnelsandtunnelling.com/news/tbm-due-to-arrive-for-belgrade-metro/",
-    "source_feed": "https://www.tunnelsandtunnelling.com/feed/",
-    "published_at": "2026-10-16T05:31:30.000Z",
-    "discovered_at": "2026-10-16T09:24:34.878Z",
-    "sector": "is-makinalari",
-    "technologies": [],
-    "relevance_score": 116,
-    "editorial_fit_score": 55,
-    "summary_source": "The Belgrade Metro will be delivered in three phases. The post TBM due to arrive for Belgrade Metro appeared first on Tunnels and Tunnelling.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    },
-    "subsector": null
   },
   {
     "id": "6eda21a37998f0dc",
@@ -767,57 +622,5 @@
       "generated_at": "2026-10-19T20:31:29.824Z",
       "generated_by": "github-models"
     }
-  },
-  {
-    "id": "6eb02daed0a273d5",
-    "status": "candidate",
-    "title_original": "IPAF Summit ve IAPA 2026, İstanbul’da küresel platform sektörünü buluşturdu",
-    "source_name": "LHT",
-    "source_url": "https://www.lht.com.tr/ipaf-summit-ve-iapa-2026-istanbulda-kuresel-platform-sektorunu-bulusturdu/",
-    "source_feed": "https://www.lht.com.tr/feed/",
-    "published_at": "2026-10-16T08:27:28.000Z",
-    "discovered_at": "2026-10-17T22:47:47.144Z",
-    "sector": "arac-ustu-ekipman",
-    "technologies": [],
-    "relevance_score": 115,
-    "editorial_fit_score": 65,
-    "summary_source": "İstanbul’da düzenlenen IPAF Summit ve IAPA 2026, Türkiye’nin personel yükseltici platform sektöründeki büyümesini ve bölgesel iş birliği potansiyelini uluslararası gündeme taşıdı. Platformder Başkanı Saruhan Günaydın’ın Türkiye’yi üretim, dağıtım ve servis alanlarında bölgesel bir merkez olarak değerlendirme çağrısıyla başlayan etkinlikte, IPAF’ın dijital eğitim uygulamalarına ilişkin yeni planları paylaşılırken, sektörün başarılı şirketleri, ürünleri ve profesyonelleri IAPA ödülleriyle […]",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    },
-    "subsector": null
-  },
-  {
-    "id": "9ec5aeef0e9d1b68",
-    "status": "candidate",
-    "title_original": "Küresel iş makinesi satışlarının yarısını ekskavatörler oluşturuyor",
-    "source_name": "Makina Market",
-    "source_url": "https://makina-market.com.tr/kuresel-is-makinesi-satislarinin-yarisini-ekskavatorler-olusturuyor/",
-    "source_feed": "https://makina-market.com.tr/feed/",
-    "published_at": "2026-10-16T08:48:13.000Z",
-    "discovered_at": "2026-10-17T22:54:30.125Z",
-    "sector": "is-makinalari",
-    "technologies": [],
-    "relevance_score": 106,
-    "editorial_fit_score": 55,
-    "summary_source": "Off-Highway Research verilerine göre, 2025 yılında dünya genelinde 570 binden fazla mini, lastikli ve paletli ekskavatör satıldı. Yaklaşık… The post Küresel iş makinesi satışlarının yarısını ekskavatörler oluşturuyor first appeared on Makina Market.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    },
-    "subsector": null
   }
 ]
