@@ -63,7 +63,7 @@
   },
   {
     "id": "7a9671788d701b8b",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Valtra partners with PerPlant to offer factory-fitted AI crop sensing",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/agriculture/valtra-partners-with-perplant-to-offer-factory-fitted-ai-crop-sensing.html",
@@ -115,7 +115,9 @@
         "Girdi, üretici veya PerPlant'ın birincil teknik açıklamasını içermiyor; sensörün teknik özellikleri, çalışma prensibi ve entegrasyon kapsamı doğrulanamıyor."
       ],
       "generated_at": "2026-10-20T19:07:54.359Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "review_result": "auto_published",
+      "reviewed_at": "2026-10-21T11:44:23.707Z"
     }
   },
   {

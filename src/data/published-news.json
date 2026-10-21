@@ -1,5 +1,38 @@
 [
   {
+    "id": "7a9671788d701b8b",
+    "slug": "valtra-perplant-yapay-zekali-bitki-sensorunu-traktorlere-fabrika-cikisinda-sunacak",
+    "title": "Valtra, PerPlant yapay zekâlı bitki sensörünü traktörlere fabrika çıkışında sunacak",
+    "dek": "Valtra, PerPlant ile iş birliği kapsamında yapay zekâlı ürün sensörünü Valtra Unlimited programı üzerinden yeni traktörlere fabrika çıkışında entegre etmeyi planlıyor. Kaynakta satışların Ekim 2026'da başlayacağı belirtiliyor.",
+    "summary": "iVT International'ın haberine göre Valtra, Danimarkalı tarım teknolojileri şirketi PerPlant ile ortaklık kurdu. İş birliği kapsamında PerPlant'ın yapay zekâlı bitki sensörü, Valtra Unlimited programı aracılığıyla yeni traktörlere fabrika çıkışında sunulacak.\n\nKaynak, satışların Ekim 2026'da başlayacağını bildiriyor; ancak sensörün çalışma yöntemi, ölçtüğü parametreler ve traktör sistemleriyle entegrasyon ayrıntıları verilen içerikte yer almıyor.",
+    "why_it_matters": "Fabrika çıkışında sunulan sensör entegrasyonu, hassas tarım teknolojilerinin traktör tedarik sürecine dahil edilmesi açısından izlenmeye değer. Sensörün gerçek tarla koşullarındaki işlevi ve sağladığı sonuçlar için daha fazla teknik bilgi gerekiyor.",
+    "key_facts": [
+      "Valtra, PerPlant ile ortaklık kurdu.",
+      "PerPlant'ın yapay zekâlı bitki sensörünün yeni traktörlerde Valtra Unlimited programı üzerinden fabrika çıkışında sunulması planlanıyor.",
+      "Kaynakta satış başlangıcı Ekim 2026 olarak veriliyor."
+    ],
+    "format": "haber",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [
+      "otonomi-ai",
+      "elektronik-telematik"
+    ],
+    "tags": [
+      "Valtra",
+      "PerPlant",
+      "hassas tarım",
+      "bitki sensörü",
+      "yapay zekâ"
+    ],
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/news/agriculture/valtra-partners-with-perplant-to-offer-factory-fitted-ai-crop-sensing.html",
+    "source_published_at": "2026-10-20T13:39:24.000Z",
+    "site_published_at": "2026-10-21T11:44:23.707Z",
+    "hero_image": "",
+    "publish_mode": "automatic"
+  },
+  {
     "id": "18a9dd741dafe55b",
     "slug": "bobcat-roguex3-konsepti-red-dot-tasarim-konsepti-odulunu-aldi",
     "title": "Bobcat RogueX3 konsepti Red Dot Tasarım Konsepti ödülünü aldı",
