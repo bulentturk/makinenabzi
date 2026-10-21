@@ -384,6 +384,60 @@
     }
   },
   {
+    "id": "892e26d3dea2854a",
+    "status": "candidate",
+    "title_original": "Feedback future – BuilderX and the rise of remote control excavation in mining",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/10/21/feedback-future-builderx-and-the-rise-of-remote-control-excavation-in-mining/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-10-21T15:14:01.000Z",
+    "discovered_at": "2026-10-21T19:11:47.938Z",
+    "sector": "madencilik",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 150,
+    "editorial_fit_score": 55,
+    "summary_source": "There are some areas of mining technology where China is some distance ahead of the rest of the world today – and remote control, or teleremote, operation of mining excavators and shovels is certainly one of them. The major Western excavator OEM players – Komatsu, Caterpillar, Hitachi Construction Machinery (soon to be Landcros) and Liebherr The post Feedback future – BuilderX and the rise of remote control excavation in mining appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "6ed256e6be49cb4b",
+    "status": "candidate",
+    "title_original": "LGMG to launch new mining equipment innovations at bauma China 2026",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/10/21/lgmg-to-launch-new-mining-equipment-innovations-at-bauma-china-2026/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-10-21T14:31:22.000Z",
+    "discovered_at": "2026-10-21T19:11:47.939Z",
+    "sector": "madencilik",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "relevance_score": 150,
+    "editorial_fit_score": 32,
+    "summary_source": "LGMG will showcase more than 30 of its latest products at bauma China 2026, one of Asia’s leading trade fairs for construction and mining machinery. The line-up will span aerial work platforms, material handling equipment and mining machinery, complemented by integrated green mining solutions. With approximately 95% of the new machines featuring hybrid or fully The post LGMG to launch new mining equipment innovations at bauma China 2026 appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "19330baec061b053",
     "status": "candidate",
     "title_original": "New Volvo Mining entity set up to meet growing mining equipment & autonomy solutions demand",
@@ -467,6 +521,35 @@
       ],
       "generated_at": "2026-10-21T09:46:36.355Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "f09f44ee46ca2327",
+    "status": "candidate",
+    "title_original": "Liebherr Electrifies Hydraulic Construction Project with Unplugged Crane",
+    "source_name": "Construction Equipment Guide",
+    "source_url": "https://www.constructionequipmentguide.com/liebherr-electrifies-hydraulic-construction-project-with-unplugged-crane/72559",
+    "source_feed": "https://feeds.feedburner.com/ceg",
+    "published_at": "2026-10-21T05:00:00.000Z",
+    "discovered_at": "2026-10-21T19:11:46.845Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon",
+      "hidrolik"
+    ],
+    "relevance_score": 146,
+    "editorial_fit_score": 79,
+    "summary_source": "De Klerk Werkendam opted for a battery-powered Liebherr crawler crane LR 1130.1 unplugged in order to meet the growing requirements of emission-free job sites. ...",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -580,6 +663,34 @@
     "subsector": null
   },
   {
+    "id": "ce5e3cda4e433702",
+    "status": "candidate",
+    "title_original": "Clocking in From Home: How Remote Operation is About to Change Everything (Editorial)",
+    "source_name": "Equipment World",
+    "source_url": "https://www.equipmentworld.com/workforce/article/15836792/clocking-in-from-home-how-remote-operation-is-about-to-change-everything-for-operators-and-contractors",
+    "source_feed": "https://www.equipmentworld.com/feed/",
+    "published_at": "2026-10-21T16:00:00.000Z",
+    "discovered_at": "2026-10-21T19:11:47.883Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [
+      "otonomi-ai"
+    ],
+    "relevance_score": 143,
+    "editorial_fit_score": 67,
+    "summary_source": "Bryan Furnace: 'The future of this industry isn't an empty cab. It's an operator running world-class equipment from wherever they...",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "1c8a890f37cb794f",
     "status": "drafted",
     "title_original": "XCMG, IPAF Summit 2026’da Yeni Platform Modelini Tanıttı",
@@ -634,6 +745,34 @@
       ],
       "generated_at": "2026-10-21T09:46:36.355Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "583de17398bdb919",
+    "status": "candidate",
+    "title_original": "Kubota Introduces New M5L Tractor for Specialty Crops",
+    "source_name": "Construction Equipment Guide",
+    "source_url": "https://www.constructionequipmentguide.com/kubota-introduces-new-m5l-tractor-for-specialty-crops/72566",
+    "source_feed": "https://feeds.feedburner.com/ceg",
+    "published_at": "2026-10-21T05:00:00.000Z",
+    "discovered_at": "2026-10-21T19:11:46.842Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [
+      "otonomi-ai"
+    ],
+    "relevance_score": 138,
+    "editorial_fit_score": 77,
+    "summary_source": "Kubota includes autonomous operations on the Kubota M5 Low Profile diesel tractor for orchard and nut growers....",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -745,6 +884,58 @@
     }
   },
   {
+    "id": "f8f0b74bf6b76c5b",
+    "status": "candidate",
+    "title_original": "Platform Sektörünün Kalbi IPAF Zirvesi VE IAPA 2026 ile İstanbul’da Attı",
+    "source_name": "Vinç & Platform",
+    "source_url": "https://vincveplatform.com/platform-sektorunun-kalbi-ipaf-zirvesi-ve-iapa-2026-ile-istanbulda-atti/",
+    "source_feed": "https://vincveplatform.com/feed/",
+    "published_at": "2026-10-21T17:46:59.000Z",
+    "discovered_at": "2026-10-21T19:11:49.615Z",
+    "sector": "arac-ustu-ekipman",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 134,
+    "editorial_fit_score": 65,
+    "summary_source": "2026 IPAF Zirvesi ve Uluslararası Personel Yükseltici Platform Ödülleri (IAPA), dünyanın farklı ülkelerinden sektör profesyonellerini İstanbul’da bir araya getirdi. PLATFORMDER Yönetim Kurulu Başkanı Saruhan Günaydın’ın açılış konuşmasıyla başlayan zirvede, sektörün gelişimi ve dijitalleşme hedefleri ele alınırken, IAPA 2026 ödülleri de sahiplerini buldu. İstanbul’da 14 Ekim’de Rent Rise tesislerine düzenlenen saha ziyaretiyle başlayan organizasyon, Şişli’deki Marriott […]",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "4fcab3b0f6d0edad",
+    "status": "candidate",
+    "title_original": "Woods CRW Builds New Crane Facility in Syracuse, N.Y.",
+    "source_name": "Construction Equipment Guide",
+    "source_url": "https://www.constructionequipmentguide.com/woods-crw-builds-new-crane-facility-in-syracuse-ny/72554",
+    "source_feed": "https://feeds.feedburner.com/ceg",
+    "published_at": "2026-10-21T05:00:00.000Z",
+    "discovered_at": "2026-10-21T19:11:46.848Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 130,
+    "editorial_fit_score": 65,
+    "summary_source": "Woods CRW is making a major investment in the future with the construction of a new Syracuse facility....",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "b5fd0c98b861f56f",
     "status": "candidate",
     "title_original": "Potain Introduces New MDT 99E Tower Crane",
@@ -825,6 +1016,32 @@
       "generated_by": "github-models",
       "reviewed_at": "2026-10-19T17:42:43.754Z",
       "review_result": "published"
+    }
+  },
+  {
+    "id": "d38b2b4a093cf765",
+    "status": "candidate",
+    "title_original": "Central Atlanta Tractor Hosts Gainesville, Ga., Open House",
+    "source_name": "Construction Equipment Guide",
+    "source_url": "https://www.constructionequipmentguide.com/central-atlanta-tractor-hosts-gainesville-ga-open-house/72568",
+    "source_feed": "https://feeds.feedburner.com/ceg",
+    "published_at": "2026-10-21T05:00:00.000Z",
+    "discovered_at": "2026-10-21T19:11:46.840Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 120,
+    "editorial_fit_score": 55,
+    "summary_source": "The Gainesville, Ga., branch of Central Atlanta Tractor held an open house inviting customers to see the 15,000-sq.-ft. facility with all the upgrades that have been made since the initial opening....",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
