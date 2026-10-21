@@ -411,7 +411,7 @@
   },
   {
     "id": "3e8f64d7089a4e27",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "RAD appoints French distributor and announces November sea trials",
     "source_name": "Marine Industry News",
     "source_url": "https://marineindustrynews.co.uk/rad-appoints-french-distributor-and-announces-november-sea-trials/",
@@ -427,14 +427,44 @@
     "editorial_fit_score": 67,
     "summary_source": "British marine technology company, RAD, has partnered with Kent Marine Equipment, part of Kent Group, to supply and integrate RAD electric propulsion in France. The agreement strengthens RAD’s wider European dealer and partner network, positioning the manufacturer to target commercial, workboat, and professional operators across France. The distribution deal adds the RAD 40 (40kW) electric […] The post RAD appoints French distributor and announces November sea trials appeared first on Marine Industry News.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "RAD, Fransa’da RAD 40 Elektrikli Dıştan Takma Motoru İçin Dağıtım Anlaşması Yaptı",
+      "dek_tr": "RAD, Kent Marine Equipment ile Fransa’da elektrikli tahrik çözümlerinin dağıtımı ve entegrasyonu için iş birliğine gitti. Anlaşma kapsamında 40 kW gücündeki RAD 40 da Fransız distribütörün ürün gamına ekleniyor.",
+      "summary_tr": "Marine Industry News’e göre İngiliz denizcilik teknolojileri şirketi RAD, Kent Group bünyesindeki Kent Marine Equipment ile Fransa’da dağıtım ve entegrasyon ortaklığı kurdu. Anlaşmayla 40 kW gücündeki RAD 40 elektrikli dıştan takma motor, distribütörün tahrik ürünleri arasına katılıyor.\n\nHaberde Kent Marine Equipment’ın müşterilere ürün seçimi ve kurulum aşamalarında destek vereceği belirtiliyor. Şirketin RAD sistemlerini Mase deniz jeneratörleri ve Dynawatt alternatörleriyle eşleştirerek hibrit konfigürasyonlar sunabileceği de aktarılıyor.\n\nKaynak başlığı kasım ayında deniz denemeleri yapılacağını bildiriyor; ancak sağlanan metin bu denemelerin tekne, takvim veya kapsam ayrıntılarını içermiyor.",
+      "why_it_matters_tr": "Dağıtım ve entegrasyon ortaklığı, elektrikli deniz tahrikinin ticari tekneler ve iş tekneleri gibi profesyonel kullanım alanlarına sunulmasını destekleyebilir. Jeneratör ve alternatörlerle hibrit yapı kurma olanağı, tam elektrikli işletimin uygun olmayabileceği görevlerde enerji sistemi seçeneklerinin değerlendirilmesi açısından önem taşıyor.",
+      "seo_title": "RAD 40 Elektrikli Motor İçin Fransa’da Dağıtım Anlaşması",
+      "meta_description": "RAD, Kent Marine Equipment ile Fransa’da dağıtım ve entegrasyon ortaklığı kurdu. Anlaşmaya 40 kW’lık RAD 40 elektrikli dıştan takma motor dahil.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "RAD, Fransa’da dağıtım ve entegrasyon için Kent Marine Equipment ile ortaklık kurdu.",
+        "Anlaşmaya RAD’ın 40 kW gücündeki RAD 40 elektrikli dıştan takma motoru dahil.",
+        "Kaynak, RAD sistemlerinin Mase deniz jeneratörleri ve Dynawatt alternatörleriyle hibrit yapılandırılabileceğini aktarıyor.",
+        "Kaynak başlığı kasım ayında deniz denemeleri duyurulduğunu belirtiyor."
+      ],
+      "suggested_tags": [
+        "RAD Propulsion",
+        "RAD 40",
+        "elektrikli deniz tahriki",
+        "hibrit tahrik",
+        "iş tekneleri"
+      ],
+      "suggested_sector": "marine-yatcilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "Marine Industry News, RAD ile Kent Marine Equipment arasında Fransa için dağıtım ve entegrasyon ortaklığı kurulduğunu bildiriyor.",
+        "Haberde RAD 40’ın 40 kW gücünde elektrikli dıştan takma motor olduğu belirtiliyor.",
+        "Kaynak, Mase jeneratörleri ve Dynawatt alternatörleriyle hibrit entegrasyon seçeneğini aktarıyor.",
+        "Kasım ayındaki deniz denemeleri bilgisi kaynak başlığında yer alıyor."
+      ],
+      "uncertainty_notes": [
+        "Girdi içinde RAD veya Kent Group’un birincil açıklaması bulunmuyor; ürün ve ortaklık bilgileri ikincil yayına dayanıyor.",
+        "Deniz denemelerinin kapsamı ve teknik sonuçları sağlanan metinde açıklanmıyor; üretici kaynağından doğrulama gerekir."
+      ],
+      "generated_at": "2026-10-21T09:46:36.355Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -549,7 +579,7 @@
   },
   {
     "id": "1c8a890f37cb794f",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "XCMG, IPAF Summit 2026’da Yeni Platform Modelini Tanıttı",
     "source_name": "Vinç & Platform",
     "source_url": "https://vincveplatform.com/xcmg-ipaf-summit-2026da-yeni-platform-modelini-tanitti/",
@@ -565,14 +595,43 @@
     "editorial_fit_score": 77,
     "summary_source": "XCMG, İstanbul’da düzenlenen IPAF Summit 2026 ve IAPA Ödülleri’ne altın sponsor olarak katıldı. Organizasyonda platform ürün grubunu sektör profesyonelleriyle buluşturan şirket, 17 metre çalışma yüksekliğine sahip elektrikli eklemli platformu XGA17ACN’yi Türkiye’de ilk kez tanıttı. Personel yükseltici platform sektörünün uluslararası buluşmalarından IPAF Summit ve International Awards for Powered Access (IAPA) Ödülleri, İstanbul’da gerçekleştirildi. IPAF ve Access […]",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "XCMG, XGA17ACN Elektrikli Eklemli Platformu Türkiye’de Tanıttı",
+      "dek_tr": "XCMG, IPAF Summit 2026’da 17 metre çalışma yüksekliğine sahip XGA17ACN’yi Türkiye’de ilk kez sergiledi. Kaynakta model için 9,7 metre yatay erişim ve 230 kg taşıma kapasitesi bildiriliyor.",
+      "summary_tr": "XCMG, İstanbul’da düzenlenen IPAF Summit 2026’da elektrikli eklemli platformu XGA17ACN’yi Türkiye’de ilk kez tanıttı. Vinç & Platform’un aktardığı teknik değerlere göre model 17 metre çalışma yüksekliği, 9,7 metre yatay erişim ve 230 kg platform kapasitesi sunuyor.\n\nHaberde 1,5 metre gövde genişliği, otomatik seviyeleme, oransal joystick kontrolü ve sıkışmayı önlemeye yönelik bir güvenlik sistemi de belirtiliyor. XCMG, elektrikli tahriki düşük emisyon ve gürültü gerektiren çalışma ortamlarına yönelik bir özellik olarak konumlandırıyor.\n\nAynı etkinlikte XG0807HA makaslı platform ve XGA26K1 eklemli platform da sergilendi. Kaynak, bu modeller için sırasıyla 7,8 metre ve 26 metre çalışma yüksekliği bildiriyor.",
+      "why_it_matters_tr": "Elektrikli personel yükseltici platformlar, kapalı veya gürültü hassasiyeti bulunan çalışma alanlarında kullanılabilecek makine seçeneklerini genişletiyor. XGA17ACN’nin dar gövdesi ve bildirilen erişim değerleri, bu sınıftaki makinelerin saha planlamasında erişim ile manevra gereksinimlerinin birlikte değerlendirilmesine örnek oluşturuyor.",
+      "seo_title": "XCMG XGA17ACN Elektrikli Platformu Türkiye’de Tanıttı",
+      "meta_description": "XCMG, XGA17ACN elektrikli eklemli platformu IPAF Summit 2026’da tanıttı. Kaynakta model için 17 m çalışma yüksekliği ve 9,7 m yatay erişim bildiriliyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "XGA17ACN, IPAF Summit 2026’da Türkiye’de ilk kez tanıtıldı.",
+        "Kaynak, model için 17 m çalışma yüksekliği ve 9,7 m yatay erişim bildiriyor.",
+        "Bildirilen platform taşıma kapasitesi 230 kg, gövde genişliği 1,5 m.",
+        "Haberde otomatik seviyeleme ve oransal joystick kontrolü sayılıyor."
+      ],
+      "suggested_tags": [
+        "XCMG",
+        "personel yükseltici platform",
+        "elektrikli platform",
+        "eklemli platform",
+        "IPAF Summit"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon",
+        "fonksiyonel-guvenlik"
+      ],
+      "source_facts_used": [
+        "Sektör yayını, XGA17ACN’nin etkinlikte Türkiye’de ilk kez tanıtıldığını ve 17 m çalışma yüksekliği, 9,7 m yatay erişim, 230 kg kapasite sunduğunu aktarıyor.",
+        "Kaynak metin, modelin 1,5 m gövde genişliği, otomatik seviyeleme, oransal joystick kontrolü ve sıkışmayı önleme sistemi bilgilerini veriyor.",
+        "Haberde XG0807HA ve XGA26K1 modellerinin de tanıtıldığı belirtiliyor."
+      ],
+      "uncertainty_notes": [
+        "Teknik değerler sektör yayınının aktardığı bilgilere dayanıyor; girdi içinde XCMG’nin birincil teknik açıklaması veya bağımsız saha doğrulaması bulunmuyor."
+      ],
+      "generated_at": "2026-10-21T09:46:36.355Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -634,7 +693,7 @@
   },
   {
     "id": "ec9457b673091e00",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "CGA Launches Free Spanish-Language Safety Training",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/cga-launches-free-spanishlanguage-safety-training/72548",
@@ -650,14 +709,37 @@
     "editorial_fit_score": 67,
     "summary_source": "The Common Ground Alliance (CGA) announced the launch of a free, online, Spanish-language version of its excavator safety training and certification curriculum....",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "CGA, Ekskavatör Güvenliği Eğitiminin İspanyolca Çevrimiçi Sürümünü Başlattı",
+      "dek_tr": "Common Ground Alliance (CGA), ekskavatör güvenliği eğitim ve sertifikasyon müfredatının ücretsiz, çevrimiçi İspanyolca sürümünü duyurdu. Sağlanan kaynak, eğitim içeriğinin kapsamına ilişkin başka ayrıntı vermiyor.",
+      "summary_tr": "Common Ground Alliance (CGA), ekskavatör güvenliği eğitim ve sertifikasyon müfredatının İspanyolca sürümünü çevrimiçi ve ücretsiz olarak kullanıma sunduğunu açıkladı.\n\nSağlanan haber metni, programın hedef kitlesi, eğitim modülleri, sertifikasyon koşulları veya erişim yöntemi hakkında ayrıntı içermiyor. Bu nedenle duyurunun kapsamı ve uygulama biçimi mevcut bilgilerle sınırlı biçimde aktarılabiliyor.",
+      "why_it_matters_tr": "Ekskavatör güvenliği eğitiminin farklı dilde sunulması, İspanyolca kullanan çalışanların eğitim materyallerine erişimini kolaylaştırabilir. Ancak programın sahadaki etkisini değerlendirmek için içeriği, katılım koşulları ve sertifikasyon süreci hakkında ek bilgi gerekir.",
+      "seo_title": "CGA’dan Ücretsiz İspanyolca Ekskavatör Güvenliği Eğitimi",
+      "meta_description": "CGA, ekskavatör güvenliği eğitim ve sertifikasyon müfredatının ücretsiz çevrimiçi İspanyolca sürümünü duyurdu; program ayrıntıları kaynakta sınırlı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "CGA, ekskavatör güvenliği eğitim ve sertifikasyon müfredatının İspanyolca sürümünü başlattığını duyurdu.",
+        "Eğitim çevrimiçi ve ücretsiz olarak tanımlanıyor."
+      ],
+      "suggested_tags": [
+        "CGA",
+        "ekskavatör güvenliği",
+        "iş makinası güvenliği",
+        "operatör eğitimi"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "fonksiyonel-guvenlik"
+      ],
+      "source_facts_used": [
+        "Kaynak, CGA’nın ekskavatör güvenliği eğitim ve sertifikasyon müfredatını ücretsiz, çevrimiçi ve İspanyolca olarak sunduğunu belirtiyor."
+      ],
+      "uncertainty_notes": [
+        "Sağlanan kaynak metni tek cümleyle sınırlı; müfredatın içeriği, hedef kitlesi, sertifikasyon şartları ve erişim ayrıntıları doğrulanamıyor."
+      ],
+      "generated_at": "2026-10-21T09:46:36.355Z",
+      "generated_by": "github-models"
     }
   },
   {
