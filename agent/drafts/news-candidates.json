@@ -70,7 +70,7 @@
     "source_feed": "https://www.ivtinternational.com/feed",
     "published_at": "2026-10-20T13:39:24.000Z",
     "discovered_at": "2026-10-20T19:06:46.928Z",
-    "sector": "tarim",
+    "sector": "is-makinalari",
     "subsector": null,
     "technologies": [
       "otonomi-ai",
@@ -410,6 +410,34 @@
     }
   },
   {
+    "id": "3e8f64d7089a4e27",
+    "status": "candidate",
+    "title_original": "RAD appoints French distributor and announces November sea trials",
+    "source_name": "Marine Industry News",
+    "source_url": "https://marineindustrynews.co.uk/rad-appoints-french-distributor-and-announces-november-sea-trials/",
+    "source_feed": "https://marineindustrynews.co.uk/feed/",
+    "published_at": "2026-10-21T08:00:23.000Z",
+    "discovered_at": "2026-10-21T09:45:18.909Z",
+    "sector": "marine-yatcilik",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "relevance_score": 146,
+    "editorial_fit_score": 67,
+    "summary_source": "British marine technology company, RAD, has partnered with Kent Marine Equipment, part of Kent Group, to supply and integrate RAD electric propulsion in France. The agreement strengthens RAD’s wider European dealer and partner network, positioning the manufacturer to target commercial, workboat, and professional operators across France. The distribution deal adds the RAD 40 (40kW) electric […] The post RAD appoints French distributor and announces November sea trials appeared first on Marine Industry News.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "18a9dd741dafe55b",
     "status": "published",
     "title_original": "Bobcat Earns Second Red Dot Award, RogueX3",
@@ -520,6 +548,34 @@
     "subsector": null
   },
   {
+    "id": "1c8a890f37cb794f",
+    "status": "candidate",
+    "title_original": "XCMG, IPAF Summit 2026’da Yeni Platform Modelini Tanıttı",
+    "source_name": "Vinç & Platform",
+    "source_url": "https://vincveplatform.com/xcmg-ipaf-summit-2026da-yeni-platform-modelini-tanitti/",
+    "source_feed": "https://vincveplatform.com/feed/",
+    "published_at": "2026-10-21T07:50:31.000Z",
+    "discovered_at": "2026-10-21T09:45:21.190Z",
+    "sector": "arac-ustu-ekipman",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "relevance_score": 142,
+    "editorial_fit_score": 77,
+    "summary_source": "XCMG, İstanbul’da düzenlenen IPAF Summit 2026 ve IAPA Ödülleri’ne altın sponsor olarak katıldı. Organizasyonda platform ürün grubunu sektör profesyonelleriyle buluşturan şirket, 17 metre çalışma yüksekliğine sahip elektrikli eklemli platformu XGA17ACN’yi Türkiye’de ilk kez tanıttı. Personel yükseltici platform sektörünün uluslararası buluşmalarından IPAF Summit ve International Awards for Powered Access (IAPA) Ödülleri, İstanbul’da gerçekleştirildi. IPAF ve Access […]",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "ae8b66053c909874",
     "status": "drafted",
     "title_original": "PIRTEK USA  2026 Growth with 12 New Territories, Five New Locations in Q3",
@@ -574,6 +630,34 @@
       ],
       "generated_at": "2026-10-20T19:07:54.359Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "ec9457b673091e00",
+    "status": "candidate",
+    "title_original": "CGA Launches Free Spanish-Language Safety Training",
+    "source_name": "Construction Equipment Guide",
+    "source_url": "https://www.constructionequipmentguide.com/cga-launches-free-spanishlanguage-safety-training/72548",
+    "source_feed": "https://feeds.feedburner.com/ceg",
+    "published_at": "2026-10-20T05:00:00.000Z",
+    "discovered_at": "2026-10-21T09:45:18.186Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [
+      "fonksiyonel-guvenlik"
+    ],
+    "relevance_score": 138,
+    "editorial_fit_score": 67,
+    "summary_source": "The Common Ground Alliance (CGA) announced the launch of a free, online, Spanish-language version of its excavator safety training and certification curriculum....",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -657,6 +741,58 @@
       "generated_by": "github-models",
       "reviewed_at": "2026-10-19T17:42:43.754Z",
       "review_result": "published"
+    }
+  },
+  {
+    "id": "9e294ce82e100183",
+    "status": "candidate",
+    "title_original": "Maxim Crane's Tadano CC 78.1250-1",
+    "source_name": "Construction Equipment Guide",
+    "source_url": "https://www.constructionequipmentguide.com/maxim-cranes-tadano-cc-7812501/72546",
+    "source_feed": "https://feeds.feedburner.com/ceg",
+    "published_at": "2026-10-20T05:00:00.000Z",
+    "discovered_at": "2026-10-21T09:45:18.188Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 120,
+    "editorial_fit_score": 55,
+    "summary_source": "...",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "49f3c12c421047ab",
+    "status": "candidate",
+    "title_original": "Cat’in yeni 302.4 CR ve 302.6 modelleri yüksek kaldırma kapasitesi ve kolay taşınabilirlik sunuyor",
+    "source_name": "Makina Market",
+    "source_url": "https://makina-market.com.tr/catin-yeni-302-4-cr-ve-302-6-modelleri-yuksek-kaldirma-kapasitesi-ve-kolay-tasinabilirlik-sunuyor/",
+    "source_feed": "https://makina-market.com.tr/feed/",
+    "published_at": "2026-10-21T09:00:23.000Z",
+    "discovered_at": "2026-10-21T09:45:21.202Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 116,
+    "editorial_fit_score": 65,
+    "summary_source": "Cat, 2,4 ve 2,6 ton sınıflarında konumlanan yeni 302.4 CR ve 302.6 mini ekskavatör modelleriyle ürün gamını genişletiyor.… The post Cat’in yeni 302.4 CR ve 302.6 modelleri yüksek kaldırma kapasitesi ve kolay taşınabilirlik sunuyor first appeared on Makina Market.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
