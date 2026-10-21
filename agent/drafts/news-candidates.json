@@ -525,7 +525,7 @@
   },
   {
     "id": "f09f44ee46ca2327",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Liebherr Electrifies Hydraulic Construction Project with Unplugged Crane",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/liebherr-electrifies-hydraulic-construction-project-with-unplugged-crane/72559",
@@ -542,14 +542,42 @@
     "editorial_fit_score": 79,
     "summary_source": "De Klerk Werkendam opted for a battery-powered Liebherr crawler crane LR 1130.1 unplugged in order to meet the growing requirements of emission-free job sites. ...",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "De Klerk, Liebherr LR 1130.1 Unplugged paletli vinci tercih etti",
+      "dek_tr": "De Klerk Werkendam, emisyonsuz şantiye gereksinimlerini karşılamak amacıyla bataryalı Liebherr LR 1130.1 Unplugged paletli vinci tercih etti. Kaynak, projenin teknik ayrıntılarını paylaşmıyor.",
+      "summary_tr": "Construction Equipment Guide’ın haber özetine göre De Klerk Werkendam, emisyonsuz şantiyelere yönelik artan gereksinimler nedeniyle bataryalı Liebherr LR 1130.1 Unplugged paletli vinci seçti.\n\nKaynak metinde vincin batarya kapasitesi, çalışma süresi, kaldırma performansı veya projedeki kullanım koşulları belirtilmiyor. Bu nedenle uygulamanın teknik kapsamı hakkında daha ileri bir değerlendirme yapılamıyor.",
+      "why_it_matters_tr": "Bataryalı bir paletli vincin şantiye tercihleri arasında yer alması, ağır kaldırma ekipmanlarında elektrifikasyonun saha uygulamaları açısından izlenmeye değer olduğunu gösteriyor; ancak bu örneğin performans etkisi mevcut kaynakla ölçülemiyor.",
+      "seo_title": "Liebherr LR 1130.1 Unplugged bataryalı paletli vinç",
+      "meta_description": "De Klerk Werkendam, emisyonsuz şantiye gereksinimleri için bataryalı Liebherr LR 1130.1 Unplugged paletli vinci tercih etti.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "De Klerk Werkendam, Liebherr LR 1130.1 Unplugged paletli vinci tercih etti.",
+        "Kaynak, vinci bataryalı olarak tanımlıyor.",
+        "Tercih gerekçesi emisyonsuz şantiye gereksinimleri olarak aktarılıyor."
+      ],
+      "suggested_tags": [
+        "Liebherr",
+        "LR 1130.1 Unplugged",
+        "paletli vinç",
+        "bataryalı iş makinesi",
+        "şantiye elektrifikasyonu"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon",
+        "hidrolik"
+      ],
+      "source_facts_used": [
+        "Haber özeti De Klerk Werkendam'ın bataryalı Liebherr LR 1130.1 Unplugged paletli vinci tercih ettiğini belirtiyor.",
+        "Tercih, emisyonsuz şantiyelere yönelik artan gereksinimlerle ilişkilendiriliyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası HTTP 403 nedeniyle alınamadı; taslak yalnızca verilen başlık ve kısa haber özetine dayanıyor.",
+        "Batarya sistemi, çalışma süresi, kaldırma kapasitesi ve projenin saha koşulları doğrulanamıyor; üretici veya proje kaynağından birincil doğrulama gerekli."
+      ],
+      "generated_at": "2026-10-21T19:12:56.951Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -664,7 +692,7 @@
   },
   {
     "id": "ce5e3cda4e433702",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Clocking in From Home: How Remote Operation is About to Change Everything (Editorial)",
     "source_name": "Equipment World",
     "source_url": "https://www.equipmentworld.com/workforce/article/15836792/clocking-in-from-home-how-remote-operation-is-about-to-change-everything-for-operators-and-contractors",
@@ -680,14 +708,42 @@
     "editorial_fit_score": 67,
     "summary_source": "Bryan Furnace: 'The future of this industry isn't an empty cab. It's an operator running world-class equipment from wherever they...",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Uzaktan operatörlük iş makinesi sektörünü nasıl değiştirebilir?",
+      "dek_tr": "Equipment World’da Bryan Furnace imzasıyla yayımlanan editoryal yazı, operatörün makineyi kabin dışından ve farklı bir konumdan yönetmesi fikrini ele alıyor. Paylaşılan alıntı, bu yaklaşımın uygulanma koşullarını açıklamıyor.",
+      "summary_tr": "Equipment World’daki yazı, uzaktan operatörlüğün iş makinesi operatörleri ve müteahhitler üzerindeki olası etkilerini tartışıyor. Bryan Furnace, sektörün geleceğini boş bir kabinden ziyade ekipmanı başka bir konumdan yöneten operatör fikriyle ifade ediyor.\n\nBu içerik bir editoryal değerlendirme; verilen kısa alıntıda belirli bir makine, uzaktan kumanda sistemi, saha uygulaması veya ölçülmüş sonuç yer almıyor. Dolayısıyla yazının aktardığı görüş, doğrulanmış bir teknik gelişme ya da sektör geneli için kanıtlanmış sonuç olarak sunulmamalı.",
+      "why_it_matters_tr": "Uzaktan operatörlük, iş makinelerinde kontrol sistemleri ve operatörün çalışma biçiminin kesiştiği bir konu. Ancak bu kaynak alıntısı, uygulamanın güvenlik, bağlantı, verimlilik veya saha koşulları üzerindeki etkisini değerlendirecek teknik kanıt sunmuyor.",
+      "seo_title": "İş makinelerinde uzaktan operatörlük tartışması",
+      "meta_description": "Bryan Furnace’ın Equipment World yazısı, iş makinesi operatörlerinin ekipmanı kabin dışından yönetmesi fikrini ve olası sektör etkilerini tartışıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "İçerik Equipment World’da Bryan Furnace imzasıyla yayımlanan bir editoryal yazı olarak tanımlanıyor.",
+        "Yazı, uzaktan operatörlüğün operatörler ve müteahhitler üzerindeki olası etkisini konu alıyor.",
+        "Verilen alıntı, operatörün ekipmanı bulunduğu yerden farklı bir konumdan yönetmesi fikrini aktarıyor."
+      ],
+      "suggested_tags": [
+        "uzaktan operatörlük",
+        "iş makineleri",
+        "makine kontrolü",
+        "operatör teknolojileri"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "gorus-analiz",
+      "suggested_technologies": [
+        "elektronik-telematik",
+        "otonomi-ai"
+      ],
+      "source_facts_used": [
+        "Başlık içeriği editoryal yazı olarak tanımlıyor.",
+        "Haber özeti yazıyı Bryan Furnace’a atfediyor ve uzaktan operatörlüğün olası sektör etkisini aktarıyor.",
+        "Alıntı, operatörün ekipmanı farklı bir konumdan yönetmesi fikrini içeriyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası HTTP 403 nedeniyle alınamadı; taslak yalnızca verilen başlık ve kısa alıntıya dayanıyor.",
+        "Yazıdaki görüşün bağlamı, uzaktan kontrolün teknik altyapısı, güvenlik koşulları ve uygulama örnekleri doğrulanamıyor."
+      ],
+      "generated_at": "2026-10-21T19:12:56.951Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -749,7 +805,7 @@
   },
   {
     "id": "583de17398bdb919",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Kubota Introduces New M5L Tractor for Specialty Crops",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/kubota-introduces-new-m5l-tractor-for-specialty-crops/72566",
@@ -765,14 +821,41 @@
     "editorial_fit_score": 77,
     "summary_source": "Kubota includes autonomous operations on the Kubota M5 Low Profile diesel tractor for orchard and nut growers....",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Kubota, özel ürün yetiştiriciliği için M5L traktörünü tanıttı",
+      "dek_tr": "Kubota M5 Low Profile dizel traktör, meyve bahçeleri ve sert kabuklu meyve üreticilerine yönelik otonom çalışma özellikleriyle duyuruldu. Kaynakta sistemin kapsamı ve teknik ayrıntıları yer almıyor.",
+      "summary_tr": "Construction Equipment Guide’ın haber özetine göre Kubota, özel ürün yetiştiriciliğine yönelik M5 Low Profile (M5L) dizel traktöründe otonom çalışma özelliklerine yer veriyor. Hedef kullanım alanı meyve bahçeleri ve sert kabuklu meyve üreticileri olarak belirtiliyor.\n\nPaylaşılan kaynak, otonom işlevlerin hangi operasyonları kapsadığını, sistemin nasıl çalıştığını veya traktörün teknik özelliklerini açıklamıyor. Bu nedenle uygulamanın otomasyon düzeyi ve saha kullanım koşulları hakkında ek iddia sunulamıyor.",
+      "why_it_matters_tr": "Otonom çalışma özelliklerinin özel ürün traktörlerinde sunulması, tarımda makine otomasyonunun farklı ürün ve işletme tiplerine nasıl uyarlanacağını takip etmek açısından önem taşıyor; mevcut bilgiler uygulamanın pratik kapsamını değerlendirmeye yetmiyor.",
+      "seo_title": "Kubota M5L traktörüne otonom çalışma özellikleri",
+      "meta_description": "Kubota, M5 Low Profile dizel traktörünü meyve bahçeleri ve sert kabuklu meyve üreticilerine yönelik otonom çalışma özellikleriyle tanıttı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Model, Kubota M5 Low Profile (M5L) dizel traktör olarak tanımlanıyor.",
+        "Kaynak, traktörde otonom çalışma özellikleri bulunduğunu belirtiyor.",
+        "Hedef kullanıcılar meyve bahçesi ve sert kabuklu meyve yetiştiricileri olarak aktarılıyor."
+      ],
+      "suggested_tags": [
+        "Kubota",
+        "M5L",
+        "tarım traktörü",
+        "özel ürün yetiştiriciliği",
+        "otonom tarım"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "otonomi-ai"
+      ],
+      "source_facts_used": [
+        "Haber özeti Kubota M5 Low Profile dizel traktörde otonom çalışma özelliklerinden söz ediyor.",
+        "Özet, traktörü meyve bahçeleri ve sert kabuklu meyve üreticileriyle ilişkilendiriyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası HTTP 403 nedeniyle alınamadı; taslak yalnızca verilen başlık ve kısa haber özetine dayanıyor.",
+        "Otonom işlevlerin kapsamı, çalışma biçimi ve traktörün teknik verileri için üretici açıklamasıyla birincil doğrulama gerekli."
+      ],
+      "generated_at": "2026-10-21T19:12:56.951Z",
+      "generated_by": "github-models"
     }
   },
   {
