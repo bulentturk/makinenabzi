@@ -1,5 +1,38 @@
 [
   {
+    "id": "ea05793fe7b72348",
+    "slug": "bobcat-roguex3-konsept-yukleyici-red-dot-tasarim-odulu-aldi",
+    "title": "Bobcat RogueX3 konsept yükleyici Red Dot Tasarım Ödülü aldı",
+    "dek": "iVT International'a göre Bobcat'in RogueX3 konsepti, Red Dot Tasarım Konsepti ödülüne layık görüldü. Tam elektrikli, otonom ve modüler olarak tanımlanan konsept, gelecekteki makine tasarımına yönelik bir çalışma niteliğinde.",
+    "summary": "RogueX3, Bobcat'in CES 2026'da tanıttığı konsept yükleyici olarak aktarılıyor. Kaynak, makineyi tam elektrikli, otonom ve modüler olarak tanımlıyor ve Red Dot Tasarım Konsepti ödülünü kazandığını bildiriyor.\n\nGirdi, konseptin güç sistemi, otonomi kabiliyetleri, çalışma performansı veya üretime geçiş planı hakkında ayrıntı vermiyor. Bu nedenle ödül haberi, sahada kullanıma hazır bir ürünün duyurusu olarak değerlendirilmemeli.",
+    "why_it_matters": "Elektrifikasyon, otonomi ve modüler tasarımın aynı yükleyici konseptinde ele alınması, iş makinelerinin olası gelişim yönlerine dair teknik bir gösterge sunuyor. Ancak konsept özellikleri, doğrulanmış saha performansı veya seri üretim kabiliyeti anlamına gelmiyor.",
+    "key_facts": [
+      "Kaynak, Bobcat RogueX3'ün Red Dot Tasarım Konsepti ödülü aldığını bildiriyor.",
+      "RogueX3, CES 2026'da tanıtılan bir konsept yükleyici olarak tanımlanıyor.",
+      "Kaynak konsepti tam elektrikli, otonom ve modüler olarak nitelendiriyor."
+    ],
+    "format": "haber",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon",
+      "otonomi-ai"
+    ],
+    "tags": [
+      "Bobcat",
+      "RogueX3",
+      "konsept yükleyici",
+      "elektrikli iş makinesi",
+      "otonomi"
+    ],
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/news/technology/bobcats-roguex3-autonomous-concept-loader-earns-red-dot-award.html",
+    "source_published_at": "2026-10-20T12:40:32.000Z",
+    "site_published_at": "2026-10-22T11:47:27.848Z",
+    "hero_image": "",
+    "publish_mode": "automatic"
+  },
+  {
     "id": "7a9671788d701b8b",
     "slug": "valtra-perplant-yapay-zekali-bitki-sensorunu-traktorlere-fabrika-cikisinda-sunacak",
     "title": "Valtra, PerPlant yapay zekâlı bitki sensörünü traktörlere fabrika çıkışında sunacak",
