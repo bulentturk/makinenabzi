@@ -994,7 +994,7 @@
   },
   {
     "id": "f8f0b74bf6b76c5b",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Platform Sektörünün Kalbi IPAF Zirvesi VE IAPA 2026 ile İstanbul’da Attı",
     "source_name": "Vinç & Platform",
     "source_url": "https://vincveplatform.com/platform-sektorunun-kalbi-ipaf-zirvesi-ve-iapa-2026-ile-istanbulda-atti/",
@@ -1008,19 +1008,48 @@
     "editorial_fit_score": 65,
     "summary_source": "2026 IPAF Zirvesi ve Uluslararası Personel Yükseltici Platform Ödülleri (IAPA), dünyanın farklı ülkelerinden sektör profesyonellerini İstanbul’da bir araya getirdi. PLATFORMDER Yönetim Kurulu Başkanı Saruhan Günaydın’ın açılış konuşmasıyla başlayan zirvede, sektörün gelişimi ve dijitalleşme hedefleri ele alınırken, IAPA 2026 ödülleri de sahiplerini buldu. İstanbul’da 14 Ekim’de Rent Rise tesislerine düzenlenen saha ziyaretiyle başlayan organizasyon, Şişli’deki Marriott […]",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "IPAF Zirvesi ve IAPA 2026 İstanbul’da düzenlendi",
+      "dek_tr": "İstanbul’daki zirvede personel yükseltici platform sektörünün dijitalleşme ve eğitim gündemi ele alındı. IAPA 2026’da 13 kategoride ödüller verildi.",
+      "summary_tr": "Vinç & Platform’un haberine göre organizasyon, 14 Ekim’de Rent Rise tesislerine yapılan ziyaretle başladı ve İstanbul’daki IPAF Zirvesi ile devam etti. Haberde, gala yemeğine 400 davetlinin katıldığı ve ödüller için dünya genelinden 140’ın üzerinde başvuru yapıldığı aktarılıyor.\n\nIPAF CEO’su Peter Douglas, 2027’de PAL Kart eğitimlerinin uygulamalı sınav ve değerlendirme süreçlerinin dijitalleşeceğini, 2026’da düzenlenen kart ve sertifikaların yüzde 83’ünün dijital olduğunu söyledi. Habere göre Maksan Lift, IPAF’ın Türkiye’deki ilk Mast Tırmanır Çalışma Platformları ve İnşaat Asansörleri Eğitim Merkezi oldu; İstanbul Vinç ise Eşitlik, Çeşitlilik ve Kapsayıcılık Ödülü’nü aldı.",
+      "why_it_matters_tr": "Platform sektöründe operatör eğitimi ve belgelendirmenin dijitalleşmesi, eğitim süreçlerinin nasıl yürütüldüğünü ve takip edildiğini etkileyebilir. Türkiye’deki yeni eğitim merkezi de bu ekipman sınıflarında yerel eğitim kapasitesine ilişkin bir gelişme olarak izlenebilir.",
+      "seo_title": "IPAF Zirvesi ve IAPA 2026 İstanbul’da düzenlendi",
+      "meta_description": "İstanbul’daki IPAF Zirvesi ve IAPA 2026’da PAL Kart eğitimlerinin dijitalleşmesi, yeni eğitim merkezi ve ödül sonuçları öne çıktı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Organizasyon, 14 Ekim’de Rent Rise tesislerine yapılan ziyaretle başladı.",
+        "Haberde IAPA ödülleri için 140’ın üzerinde başvuru ve 13 kategori bildiriliyor.",
+        "IPAF CEO’su, 2026’da düzenlenen PAL Kart ve sertifikaların yüzde 83’ünün dijital olduğunu açıkladı.",
+        "Maksan Lift, IPAF’ın Türkiye’deki ilk ilgili eğitim merkezi olarak tanıtıldı.",
+        "İstanbul Vinç, Eşitlik, Çeşitlilik ve Kapsayıcılık Ödülü’nü aldı."
+      ],
+      "suggested_tags": [
+        "IPAF",
+        "IAPA 2026",
+        "personel yükseltici platform",
+        "operatör eğitimi",
+        "dijitalleşme"
+      ],
+      "suggested_sector": "arac-ustu-ekipman",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Organizasyonun İstanbul’da düzenlendiği ve saha ziyaretiyle başladığı bilgisi",
+        "IAPA başvuru sayısı, kategori sayısı ve ödül alan Türkiye şirketleri",
+        "IPAF CEO’sunun dijital PAL Kart ve eğitim süreçleri hakkında aktarılan açıklamaları",
+        "Maksan Lift’in eğitim merkezi olarak duyurulması"
+      ],
+      "uncertainty_notes": [
+        "Bilgiler sektör yayınının haberine dayanıyor; IPAF ve ilgili şirketlerin birincil duyuruları bu girdide yer almıyor.",
+        "Dijital sınav takvimi ve yüzde 83 oranı bağımsız olarak doğrulanmadı."
+      ],
+      "generated_at": "2026-10-22T09:46:05.296Z",
+      "generated_by": "github-models"
     }
   },
   {
     "id": "4fcab3b0f6d0edad",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Woods CRW Builds New Crane Facility in Syracuse, N.Y.",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/woods-crw-builds-new-crane-facility-in-syracuse-ny/72554",
@@ -1034,19 +1063,42 @@
     "editorial_fit_score": 65,
     "summary_source": "Woods CRW is making a major investment in the future with the construction of a new Syracuse facility....",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Woods CRW, Syracuse’ta yeni vinç tesisi inşa ediyor",
+      "dek_tr": "Construction Equipment Guide’ın başlık ve kısa özetine göre Woods CRW, Syracuse, New York’ta yeni bir tesis inşa ediyor. Tesisin kapsamı ve hizmetleri mevcut kaynak metninde açıklanmıyor.",
+      "summary_tr": "Construction Equipment Guide’ın başlığı, Woods CRW’nin Syracuse, New York’ta yeni bir vinç tesisi inşa ettiğini bildiriyor. Kısa özette yatırımın şirketin geleceğine yönelik olduğu belirtiliyor.\n\nKaynak girdisinde tesisin büyüklüğü, hangi vinç veya hizmetleri kapsayacağı ve inşaat takvimi hakkında ayrıntı bulunmuyor. Bu nedenle gelişmenin operasyonel kapasiteye etkisi mevcut bilgilerle değerlendirilemiyor.",
+      "why_it_matters_tr": "Vinç sektöründeki yeni tesis yatırımları servis ve ekipman desteği açısından önem taşıyabilir; ancak bu yatırımın bölgesel kapasiteye olası etkisini değerlendirmek için tesisin kapsamı ve hizmetleri hakkında doğrulanmış bilgi gerekiyor.",
+      "seo_title": "Woods CRW Syracuse’ta yeni vinç tesisi inşa ediyor",
+      "meta_description": "Woods CRW’nin Syracuse, New York’ta yeni bir vinç tesisi inşa ettiği bildirildi. Tesisin kapsamı ve takvimi mevcut kaynakta açıklanmıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Woods CRW, Syracuse, New York’ta yeni bir vinç tesisi inşa ediyor.",
+        "Mevcut kısa özet, yatırımın kapsamı veya tamamlanma takvimi hakkında bilgi vermiyor."
+      ],
+      "suggested_tags": [
+        "Woods CRW",
+        "vinç",
+        "tesis yatırımı",
+        "Syracuse"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Kaynak başlığında Woods CRW’nin Syracuse’ta yeni vinç tesisi inşa ettiğinin belirtilmesi",
+        "Kısa özette yatırımın şirketin geleceğine yönelik olduğunun aktarılması"
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfasına erişim 403 hatasıyla engellenmiş; girdi yalnızca başlık ve kısa özetten oluşuyor.",
+        "Tesisin kapasitesi, hizmet kapsamı, yatırım tutarı ve takvimi hakkında birincil kaynak doğrulaması gerekli."
+      ],
+      "generated_at": "2026-10-22T09:46:05.296Z",
+      "generated_by": "github-models"
     }
   },
   {
     "id": "b5fd0c98b861f56f",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Potain Introduces New MDT 99E Tower Crane",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/potain-introduces-new-mdt-99e-tower-crane/72543",
@@ -1060,14 +1112,41 @@
     "editorial_fit_score": 65,
     "summary_source": "The MDT 99e expands Potain's MDT City range as the first crane equipped with the new CCS Evolution control system....",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Potain MDT 99e, CCS Evolution kontrol sistemiyle tanıtıldı",
+      "dek_tr": "Construction Equipment Guide’ın kısa özetine göre MDT 99e, Potain’in MDT City serisine ekleniyor. Kaynak, modeli CCS Evolution kontrol sistemiyle donatılan ilk vinç olarak tanımlıyor.",
+      "summary_tr": "Potain’in MDT 99e kule vinci, Construction Equipment Guide’ın başlık ve kısa özetinde yeni bir model olarak duyuruluyor. Habere göre model, MDT City serisini genişletiyor.\n\nKısa özet, MDT 99e’nin CCS Evolution kontrol sistemini kullanan ilk vinç olduğunu belirtiyor. Sistemin işlevleri, vincin teknik kapasitesi ve önceki modellere göre farkları mevcut kaynak metninde açıklanmıyor.",
+      "why_it_matters_tr": "Kule vinçte yeni bir kontrol sisteminin kullanılması, operatör arayüzü ve çalışma yönetimi açısından teknik açıdan incelenmeye değer olabilir. Ancak sistemin sahadaki etkisini değerlendirmek için işlevleri ve ölçülebilir performans verileri hakkında ek bilgi gerekiyor.",
+      "seo_title": "Potain MDT 99e, CCS Evolution ile tanıtıldı",
+      "meta_description": "Potain MDT 99e, MDT City serisini genişletiyor. Kaynak özeti, kule vincin CCS Evolution kontrol sistemini kullanan ilk model olduğunu bildiriyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "MDT 99e, Potain’in MDT City serisine ekleniyor.",
+        "Kaynak özeti, modeli CCS Evolution kontrol sistemiyle donatılan ilk vinç olarak tanımlıyor."
+      ],
+      "suggested_tags": [
+        "Potain",
+        "MDT 99e",
+        "kule vinci",
+        "CCS Evolution",
+        "vinç kontrol sistemi"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektronik-telematik"
+      ],
+      "source_facts_used": [
+        "MDT 99e’nin MDT City serisini genişlettiği bilgisi",
+        "Modelin CCS Evolution kontrol sistemiyle donatılan ilk vinç olduğu bilgisi"
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfasına erişim 403 hatasıyla engellenmiş; girdi yalnızca başlık ve kısa özet içeriyor.",
+        "Kaldırma kapasitesi, bom seçenekleri, sistem işlevleri ve teknik farklar üreticinin birincil duyurusundan doğrulanmalı.",
+        "Kontrol sisteminin saha performansına ilişkin bağımsız veri mevcut değil."
+      ],
+      "generated_at": "2026-10-22T09:46:05.296Z",
+      "generated_by": "github-models"
     }
   },
   {
