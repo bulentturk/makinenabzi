@@ -302,7 +302,7 @@
   },
   {
     "id": "18ca18881b82bb48",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Seederal 160hp electric tractor set for 2028 rollout",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/agriculture/seederal-160hp-electric-tractor-set-for-2028-rollout.html",
@@ -318,14 +318,40 @@
     "editorial_fit_score": 67,
     "summary_source": "Another electric tractor has entered the market, a 160hp option from the French company Seederal. Following four years of research, the company’s ‘natively electric’ agricultural tractor was shown in new [...] The post Seederal 160hp electric tractor set for 2028 rollout appeared first on Industrial Vehicle Technology International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Seederal, 160 hp elektrikli traktör için 2028 teslimatlarını planlıyor",
+      "dek_tr": "Fransız üretici Seederal, 160 hp gücünde, yerli üretim batarya kullanan ve baştan elektrikli tasarlanan tarım traktörünü tanıttı. Ticari teslimatların 2028’de başlaması planlanıyor.",
+      "summary_tr": "iVT International’ın aktardığına göre Seederal, 160 hp gücünde bir tarım traktörünü tanıttı. Kaynak, traktörü “baştan elektrikli” olarak tanımlıyor ve bataryanın Fransa’da üretileceğini belirtiyor.\n\nTicari teslimatların 2028’den itibaren planlandığı bildiriliyor. Kaynakta batarya kapasitesi, çalışma süresi, şarj gereksinimleri veya bağımsız saha testi sonucu yer almıyor.",
+      "why_it_matters_tr": "160 hp sınıfındaki bu duyuru, tarımda elektrikli tahrikin daha yüksek güç segmentlerine taşınma potansiyelini gündeme getiriyor. Sahadaki uygulanabilirliği değerlendirmek için batarya, şarj ve çalışma süresi verileri belirleyici olacak.",
+      "seo_title": "Seederal’in 160 hp elektrikli traktörü 2028’i hedefliyor",
+      "meta_description": "Seederal, Fransız üretimi bataryalı 160 hp elektrikli tarım traktörünü tanıttı. Ticari teslimatların 2028’de başlaması planlanıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Seederal’in tanıttığı traktör 160 hp olarak belirtiliyor.",
+        "Kaynak traktörü baştan elektrikli tasarım olarak tanımlıyor.",
+        "Bataryanın Fransa’da üretileceği aktarılıyor.",
+        "Ticari teslimatlar 2028 için planlanıyor."
+      ],
+      "suggested_tags": [
+        "Seederal",
+        "elektrikli traktör",
+        "tarım makineleri",
+        "batarya"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "iVT International’ın başlığı ticari teslimatlar için 2028’i işaret ediyor.",
+        "Kaynak özeti ve açıklaması traktörün 160 hp, baştan elektrikli tasarımlı ve Fransız üretimi bataryalı olduğunu belirtiyor."
+      ],
+      "uncertainty_notes": [
+        "Batarya kapasitesi, menzil veya çalışma süresi, şarj altyapısı ve saha performansı kaynakta açıklanmıyor; üretici iddiaları bağımsız test sonucu olarak doğrulanmış değil."
+      ],
+      "generated_at": "2026-10-22T19:08:36.421Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -746,7 +772,7 @@
   },
   {
     "id": "cc23d123106f4f88",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Kubota and Agtonomy introduce autonomous M5L tractor for specialty crops",
     "source_name": "Future Farming",
     "source_url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/kubota-and-agtonomy-introduce-autonomous-m5l-tractor-for-specialty-crops/",
@@ -762,14 +788,39 @@
     "editorial_fit_score": 77,
     "summary_source": "Kubota and Agtonomy introduce autonomous M5L tractor for specialty crops Kubota North America and",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Kubota ve Agtonomy, özel ürün yetiştiriciliği için otonom M5L traktörü tanıttı",
+      "dek_tr": "Kubota North America ve Agtonomy, özel ürün yetiştiriciliğinde kullanılmak üzere otonom M5L traktörü tanıttı. Mevcut kaynakta makinenin teknik özelliklerine ilişkin ayrıntı bulunmuyor.",
+      "summary_tr": "Future Farming’in başlığı ve kısa özetine göre Kubota North America ile Agtonomy, özel ürün yetiştiriciliğine yönelik otonom M5L traktörü tanıttı.\n\nKaynak metnine erişim HTTP 403 hatasıyla sınırlı olduğundan traktörün otonomi sistemi, teknik özellikleri ve uygulama koşulları hakkında doğrulanabilir ayrıntı sunulamıyor.",
+      "why_it_matters_tr": "Özel ürün yetiştiriciliğinde otonom traktörlerin kullanım potansiyeli tarım makineleri açısından ilgi çekici; ancak bu modelin sağlayacağı faydayı değerlendirmek için teknik özellikler ve gerçek uygulama bilgileri gerekli.",
+      "seo_title": "Kubota ve Agtonomy’den özel ürünler için otonom M5L",
+      "meta_description": "Kubota North America ve Agtonomy, özel ürün yetiştiriciliği için otonom M5L traktörü tanıttı. Teknik özellikler mevcut kaynakta yer almıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Tanıtılan ürün M5L olarak adlandırılıyor.",
+        "Duyuru Kubota North America ve Agtonomy’ye atfediliyor.",
+        "Traktör özel ürün yetiştiriciliği için tanıtılmış."
+      ],
+      "suggested_tags": [
+        "Kubota",
+        "Agtonomy",
+        "otonom traktör",
+        "özel ürün yetiştiriciliği"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "otonomi-ai"
+      ],
+      "source_facts_used": [
+        "Kaynak başlığında Kubota ve Agtonomy’nin özel ürün yetiştiriciliği için otonom M5L traktörü tanıttığı belirtiliyor.",
+        "RSS özeti Kubota North America’yı duyuruda anıyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfasına HTTP 403 nedeniyle erişilemedi; teknik özellikler, otonomi kabiliyetleri ve uygulama ayrıntıları doğrulanamıyor. Birincil üretici açıklamasıyla teyit gerekli."
+      ],
+      "generated_at": "2026-10-22T19:08:36.421Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -913,7 +964,7 @@
   },
   {
     "id": "1b2bcaf1daf45a6c",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Yanmar Launches Enhanced SmartAssist Remote Telematics Platform",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/yanmar-launches-enhanced-smartassist-remote-telematics-platform/72576",
@@ -929,14 +980,39 @@
     "editorial_fit_score": 77,
     "summary_source": "Yanmar has launched its enhanced SmartAssist Remote telematics platform for North America....",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Yanmar, SmartAssist Remote telematik platformunu yeniledi",
+      "dek_tr": "Yanmar, Kuzey Amerika için SmartAssist Remote platformunun geliştirilmiş sürümünü kullanıma sunduğunu duyurdu. Kaynakta yeni sürümün işlevleri ve teknik kapsamı açıklanmıyor.",
+      "summary_tr": "Construction Equipment Guide’ın başlık ve kısa özetine göre Yanmar, Kuzey Amerika pazarı için SmartAssist Remote telematik platformunun geliştirilmiş sürümünü başlattı.\n\nKaynak sayfasına erişim HTTP 403 hatasıyla sınırlı. Bu nedenle güncellemeyle eklenen özellikler, uyumlu makineler veya hizmetin kapsamı hakkında ayrıntı verilemiyor.",
+      "why_it_matters_tr": "Telematik platform güncellemeleri makine izleme ve filo yönetimi süreçlerini etkileyebilir; ancak bu duyurunun kullanıcıya sağlayacağı teknik katkıyı değerlendirmek için yeni özelliklerin açıklanması gerekir.",
+      "seo_title": "Yanmar, SmartAssist Remote platformunu geliştirdi",
+      "meta_description": "Yanmar, Kuzey Amerika için SmartAssist Remote telematik platformunun geliştirilmiş sürümünü başlattı. Güncellemenin özellikleri kaynakta açıklanmıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Platformun adı SmartAssist Remote.",
+        "Duyuru Yanmar’a atfediliyor.",
+        "Kısa özette platformun Kuzey Amerika için olduğu belirtiliyor."
+      ],
+      "suggested_tags": [
+        "Yanmar",
+        "SmartAssist Remote",
+        "telemetri",
+        "makine bağlantısı"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektronik-telematik"
+      ],
+      "source_facts_used": [
+        "Kaynak başlığı Yanmar’ın SmartAssist Remote telematik platformunu geliştirdiğini belirtiyor.",
+        "RSS özeti duyurunun Kuzey Amerika için olduğunu aktarıyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfasına HTTP 403 nedeniyle erişilemedi; güncellemenin işlevleri ve teknik kapsamı doğrulanamıyor. Önemli ürün iddiaları için Yanmar’ın birincil açıklaması gerekli."
+      ],
+      "generated_at": "2026-10-22T19:08:36.421Z",
+      "generated_by": "github-models"
     }
   },
   {
