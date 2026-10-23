@@ -346,7 +346,7 @@
   },
   {
     "id": "53338c0b20e53a27",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Komatsu HM460-6 ADT ready for K-Tec 1237 ADT scraper integration",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/10/22/komatsu-hm460-6-adt-ready-for-k-tec-1237-adt-scraper-integration/",
@@ -360,14 +360,42 @@
     "editorial_fit_score": 55,
     "summary_source": "Komatsu has approved the use of the K-Tec 1237 ADT scraper with its new HM460-6 articulated dump truck – delivering, it says, a powerful new mass earthmoving combination to Komatsu dealers throughout North America. The 518 hp (386 kWh) articulated dump truck is an ideal match with the 37 cu.yd (28.3 cu.m) capacity scraper, creating The post Komatsu HM460-6 ADT ready for K-Tec 1237 ADT scraper integration appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Komatsu HM460-6, K-Tec 1237 ADT sıyırıcıyla kullanıma onaylandı",
+      "dek_tr": "Komatsu, HM460-6 belden kırmalı damperli kamyonun K-Tec 1237 ADT sıyırıcıyla entegrasyonunu onayladı. Kaynak, sıyırıcı kapasitesini 37 yd³ (28,3 m³) olarak veriyor.",
+      "summary_tr": "International Mining’in aktardığına göre Komatsu, yeni HM460-6 belden kırmalı damperli kamyonun K-Tec 1237 ADT sıyırıcıyla kullanılmasına onay verdi. Kombinasyonun Kuzey Amerika’daki Komatsu bayilerine sunulacağı belirtiliyor.\n\nKaynak, sıyırıcının kapasitesini 37 yd³ (28,3 m³) olarak bildiriyor. Kamyon için 518 hp değeri verilirken aynı parantezde 386 kWh yazıyor; kWh bir enerji birimi olduğundan bu güç değerinin birimi doğrulanmaya muhtaç.",
+      "why_it_matters_tr": "Damperli kamyon ile sıyırıcının uyumlu bir kombinasyon olarak onaylanması, büyük ölçekli hafriyat ve maden sahalarında ekipman seçimi ile iş akışı planlamasını etkileyebilir. Kaynakta saha verimliliği veya performans ölçümü sunulmadığından, entegrasyon onayı bağımsız bir performans sonucu olarak yorumlanmamalı.",
+      "seo_title": "Komatsu HM460-6, K-Tec 1237 ADT ile onay aldı",
+      "meta_description": "Komatsu, HM460-6 damperli kamyonu K-Tec 1237 ADT sıyırıcıyla kullanıma onayladı. Sıyırıcı kapasitesi kaynakta 28,3 m³ olarak veriliyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Komatsu, HM460-6 ile K-Tec 1237 ADT sıyırıcının kullanımını onayladı.",
+        "K-Tec 1237 ADT sıyırıcının kapasitesi kaynakta 37 yd³ (28,3 m³) olarak veriliyor.",
+        "Kombinasyonun Kuzey Amerika’daki Komatsu bayilerine sunulacağı bildiriliyor.",
+        "Kaynak kamyon gücünü 518 hp olarak belirtiyor; parantez içindeki 386 kWh ifadesinin birimi tutarsız."
+      ],
+      "suggested_tags": [
+        "Komatsu HM460-6",
+        "K-Tec 1237 ADT",
+        "belden kırmalı damperli kamyon",
+        "sıyırıcı",
+        "hafriyat"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "International Mining’in sağlanan metni, Komatsu’nun HM460-6 ile K-Tec 1237 ADT sıyırıcı kombinasyonunu onayladığını belirtiyor.",
+        "Kaynak sıyırıcı kapasitesini 37 yd³ (28,3 m³), kamyon gücünü ise 518 hp olarak veriyor.",
+        "Kombinasyonun Kuzey Amerika’daki Komatsu bayilerine sunulacağı aktarılıyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfaya erişim 403 hatası verdi; taslak sağlanan haber özeti ve kaynak metnine dayanıyor.",
+        "Birincil üretici açıklaması girdide bulunmuyor; güç bilgisindeki 386 kWh birimi tutarsız ve doğrulanmalı.",
+        "Saha performansı veya üretkenlik verisi paylaşılmadığından uyumluluk onayı bağımsız test sonucu olarak değerlendirilemez."
+      ],
+      "generated_at": "2026-10-23T19:03:05.099Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -426,7 +454,7 @@
   },
   {
     "id": "e1f69d0ae0e54977",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Hitachi EX5500-6 mining excavator passes 100,000 hours at Moatize",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/10/23/hitachi-ex5500-6-mining-excavator-passes-100000-hours-at-moatize/",
@@ -442,14 +470,42 @@
     "editorial_fit_score": 67,
     "summary_source": "Hitachi Construction Machinery Co Ltd has announced that an EX5500-6 ultra-large hydraulic excavator manufactured by the company has passed 100,000 hours of operation at the Moatize Coal Mine in Tete Province in the Republic of Mozambique. The mine is operated by Vulcan Mozambique SA. To celebrate this achievement, a ceremony was held at the mine The post Hitachi EX5500-6 mining excavator passes 100,000 hours at Moatize appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Hitachi EX5500-6, Moatize madeninde 100 bin çalışma saatini geçti",
+      "dek_tr": "Hitachi Construction Machinery, EX5500-6 hidrolik ekskavatörün Mozambik’teki Moatize kömür madeninde 100 bin çalışma saatini aştığını bildirdi. Maden Vulcan Mozambique tarafından işletiliyor.",
+      "summary_tr": "Hitachi Construction Machinery’nin açıklamasına göre EX5500-6 ultra büyük sınıf hidrolik ekskavatör, Mozambik’in Tete eyaletindeki Moatize kömür madeninde 100 bin çalışma saatini geçti. Madenin işletmecisi Vulcan Mozambique SA.\n\nBu kilometre taşı için madende bir tören düzenlendi. Kaynakta makinenin çalışma süresi boyunca yapılan bakım, arıza geçmişi veya üretim performansı hakkında ayrıntı yer almıyor.",
+      "why_it_matters_tr": "Uzun çalışma saati, büyük maden ekskavatörlerinde hizmet ömrü ve bakım planlaması açısından takip edilmeye değer bir gösterge. Ancak bakım ve çalışma koşulları paylaşılmadığından bu örnek tek başına makinenin güvenilirliğine ilişkin karşılaştırmalı sonuç sunmuyor.",
+      "seo_title": "Hitachi EX5500-6 Moatize’de 100 bin saati geçti",
+      "meta_description": "Hitachi EX5500-6 hidrolik ekskavatör, Vulcan Mozambique’in işlettiği Moatize kömür madeninde 100 bin çalışma saatini aştı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Hitachi EX5500-6, Moatize kömür madeninde 100 bin çalışma saatini geçti.",
+        "Moatize madeni Mozambik’in Tete eyaletinde bulunuyor.",
+        "Maden Vulcan Mozambique SA tarafından işletiliyor.",
+        "Başarıyı kutlamak için madende tören düzenlendi."
+      ],
+      "suggested_tags": [
+        "Hitachi",
+        "EX5500-6",
+        "madencilik",
+        "hidrolik ekskavatör",
+        "Moatize"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "hidrolik"
+      ],
+      "source_facts_used": [
+        "International Mining’in aktardığı Hitachi Construction Machinery açıklamasına göre EX5500-6, Moatize’de 100 bin çalışma saatini geçti.",
+        "Kaynak, madenin Vulcan Mozambique SA tarafından işletildiğini ve kutlama töreni düzenlendiğini belirtiyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfaya erişim 403 hatası verdi; taslak, sağlanan haber özeti ve kaynak metnine dayanıyor.",
+        "Birincil üretici duyurusu girdide bulunmuyor. Bakım geçmişi, çalışma koşulları ve performans verileri doğrulanamıyor."
+      ],
+      "generated_at": "2026-10-23T19:03:05.099Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -1416,7 +1472,7 @@
   },
   {
     "id": "49f3c12c421047ab",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Cat’in yeni 302.4 CR ve 302.6 modelleri yüksek kaldırma kapasitesi ve kolay taşınabilirlik sunuyor",
     "source_name": "Makina Market",
     "source_url": "https://makina-market.com.tr/catin-yeni-302-4-cr-ve-302-6-modelleri-yuksek-kaldirma-kapasitesi-ve-kolay-tasinabilirlik-sunuyor/",
@@ -1430,14 +1486,39 @@
     "editorial_fit_score": 65,
     "summary_source": "Cat, 2,4 ve 2,6 ton sınıflarında konumlanan yeni 302.4 CR ve 302.6 mini ekskavatör modelleriyle ürün gamını genişletiyor.… The post Cat’in yeni 302.4 CR ve 302.6 modelleri yüksek kaldırma kapasitesi ve kolay taşınabilirlik sunuyor first appeared on Makina Market.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Cat 302.4 CR ve 302.6 mini ekskavatör modellerini tanıttı",
+      "dek_tr": "Cat’in 2,4 ve 2,6 ton sınıflarındaki yeni mini ekskavatörleri ürün gamına ekleniyor. Kaynak başlığı yüksek kaldırma kapasitesi ve taşınabilirliğe işaret etse de teknik değerler paylaşılmıyor.",
+      "summary_tr": "Makina Market’in haber başlığı, Cat’in 302.4 CR ve 302.6 adlı iki mini ekskavatör modelini tanıttığını bildiriyor. Sağlanan özet, modelleri 2,4 ve 2,6 ton sınıflarında konumlandırıyor.\n\nBaşlıkta yüksek kaldırma kapasitesi ve kolay taşınabilirlik öne çıkarılıyor. Ancak verilen kaynak içeriğinde kaldırma kapasitesi, ölçüler, ağırlık veya taşıma koşullarına ilişkin sayısal teknik bilgi bulunmuyor.",
+      "why_it_matters_tr": "Mini ekskavatörlerde taşıma kolaylığı ve kaldırma kabiliyeti, makinenin şantiye lojistiği ve farklı işlerde kullanımını etkileyebilir. Bu modellerin mevcut seçeneklerden teknik olarak nasıl ayrıştığını değerlendirmek için üretici verileri ve karşılaştırılabilir kapasite değerleri gerekli.",
+      "seo_title": "Cat 302.4 CR ve 302.6 mini ekskavatörleri tanıtıldı",
+      "meta_description": "Cat’in 2,4 ve 2,6 ton sınıfındaki 302.4 CR ve 302.6 mini ekskavatörleri için sağlanan kaynakta teknik kapasite değerleri yer almıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Modeller Cat 302.4 CR ve Cat 302.6 olarak adlandırılıyor.",
+        "Sağlanan habere göre makineler 2,4 ve 2,6 ton sınıflarında konumlanıyor.",
+        "Haber başlığı yüksek kaldırma kapasitesi ve taşınabilirliği öne çıkarıyor."
+      ],
+      "suggested_tags": [
+        "Cat",
+        "302.4 CR",
+        "302.6",
+        "mini ekskavatör",
+        "iş makineleri"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Makina Market’in başlığı Cat 302.4 CR ve 302.6 modellerini ve yüksek kaldırma kapasitesi ile taşınabilirlik iddialarını belirtiyor.",
+        "Sağlanan RSS özeti modelleri 2,4 ve 2,6 ton sınıflarında tanımlıyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfasının içeriği sağlanan metinde erişilebilir değil; ayrıntılar yalnızca başlık ve RSS özetinden alınmıştır.",
+        "Kaldırma kapasitesi, çalışma ağırlığı, ölçüler ve diğer teknik özellikler için üreticinin birincil duyurusu doğrulanmalı."
+      ],
+      "generated_at": "2026-10-23T19:03:05.099Z",
+      "generated_by": "github-models"
     }
   },
   {
