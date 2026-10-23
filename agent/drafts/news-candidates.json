@@ -413,7 +413,7 @@
   },
   {
     "id": "b425d2a792e91dca",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "CITIC HIC moves into mining truck market on 70th anniversary",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/10/23/citic-hic-moves-into-mining-truck-market-on-70th-anniversary/",
@@ -427,14 +427,36 @@
     "editorial_fit_score": 65,
     "summary_source": "While already well known as one of the world’s leading mineral processing equipment companies – supplying AG, SAG and ball mills, mining crushers and vertical mills, amongst other equipment, as well as mine hoists, CITIC Heavy Industries (CITIC HIC) has now moved into mobile mining equipment with the launch of two mining trucks. On the The post CITIC HIC moves into mining truck market on 70th anniversary appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "CITIC HIC, iki maden kamyonuyla mobil ekipman pazarına giriyor",
+      "dek_tr": "International Mining’in haber özetine göre CITIC Heavy Industries, 70. kuruluş yılı kapsamında iki maden kamyonu tanıttı. Kamyonların teknik özellikleri kaynakta yer almıyor.",
+      "summary_tr": "CITIC Heavy Industries (CITIC HIC), International Mining’in haberine göre iki maden kamyonu tanıtarak mobil madencilik ekipmanı pazarına adım attı. Duyuru, şirketin 70. kuruluş yılıyla ilişkilendiriliyor.\n\nKaynak metin; kamyonların kapasitesi, tahrik sistemi, kullanım koşulları veya teslimat takvimi hakkında bilgi vermiyor. Bu nedenle ürünlerin teknik konumlandırması ve sahadaki kullanım senaryoları mevcut bilgilerle değerlendirilemiyor.",
+      "why_it_matters_tr": "Bir mineral işleme ekipmanı üreticisinin mobil maden ekipmanına yönelmesi, ürün portföyünün kapsamı açısından izlenmeye değer. Kamyonların teknik özellikleri ve gerçek saha uygulamaları açıklanmadan madencilik operasyonlarına olası katkıları hakkında daha ileri bir değerlendirme yapmak mümkün değil.",
+      "seo_title": "CITIC HIC iki maden kamyonuyla yeni pazara giriyor",
+      "meta_description": "CITIC HIC’in iki maden kamyonu tanıtarak mobil madencilik ekipmanı pazarına girdiği bildiriliyor. Teknik özellikler kaynakta açıklanmıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "CITIC HIC’in iki maden kamyonu tanıttığı bildiriliyor.",
+        "Duyuru şirketin 70. kuruluş yılıyla ilişkilendiriliyor."
+      ],
+      "suggested_tags": [
+        "CITIC HIC",
+        "maden kamyonu",
+        "madencilik ekipmanları"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "International Mining haber özeti iki maden kamyonunun tanıtıldığını ve CITIC HIC’in mobil madencilik ekipmanına yöneldiğini belirtiyor.",
+        "Başlık duyuruyu şirketin 70. kuruluş yılıyla ilişkilendiriyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfasına erişim 403 hatasıyla sonuçlandı; taslak yalnızca sağlanan başlık ve kısa özete dayanıyor.",
+        "Kamyon modelleri ve teknik özellikleri verilmediğinden üretici duyurusundan doğrulama ve ek teknik bilgi gerekiyor."
+      ],
+      "generated_at": "2026-10-23T09:41:59.839Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -662,7 +684,7 @@
   },
   {
     "id": "2b9c04784c08f28c",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "New Holland’s Largest Mini Track Loader Packs 2,400-Pound Capacity",
     "source_name": "Equipment World",
     "source_url": "https://www.equipmentworld.com/construction-equipment/compact-equipment/compact-utility-loaders/article/15837646/new-holland-c324-mini-track-loader-packs-more-lift-capacity",
@@ -676,14 +698,39 @@
     "editorial_fit_score": 65,
     "summary_source": "The new C324 also delivers high-flow hydraulics and compatibility with a wide range of attachments for versatility on larger sites...",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "New Holland C324 mini paletli yükleyici 2.400 lb kapasiteyle tanıtıldı",
+      "dek_tr": "Equipment World haber başlığı C324’ü New Holland’ın en büyük mini paletli yükleyicisi olarak tanımlıyor ve 2.400 lb kapasite bildiriyor. Kısa özette yüksek debili hidrolik ve ataşman uyumluluğu öne çıkıyor.",
+      "summary_tr": "Equipment World’ün başlığına göre New Holland C324, markanın en yüksek kapasiteli mini paletli yükleyicisi olarak konumlandırılıyor ve 2.400 lb kapasite sunuyor. Kaynağın kısa özeti, makinede yüksek debili hidrolik bulunduğunu belirtiyor.\n\nÖzet ayrıca C324’ün farklı ataşmanlarla uyumlu olduğunu ve bu özelliğin daha büyük sahalarda kullanım esnekliği sağladığını aktarıyor. Makinenin diğer teknik değerleri ve ataşmanlara ilişkin uyumluluk sınırları sağlanan metinde yer almıyor.",
+      "why_it_matters_tr": "Yüksek debili hidrolik ve geniş ataşman uyumluluğu, mini paletli yükleyicinin farklı işlere uyarlanabilmesi açısından önem taşıyor. Ancak kapasite tanımının ve ataşman performansının kullanım koşullarına göre nasıl değiştiğini değerlendirmek için üretici teknik verileri gerekli.",
+      "seo_title": "New Holland C324 mini paletli yükleyicinin kapasitesi",
+      "meta_description": "New Holland C324 için 2.400 lb kapasite bildiriliyor. Kaynak özeti, yüksek debili hidrolik ve farklı ataşmanlarla uyumluluğu öne çıkarıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Kaynak başlığı C324 için 2.400 lb kapasite bildiriyor.",
+        "Kaynağın kısa özeti yüksek debili hidrolik ve çeşitli ataşmanlarla uyumluluktan söz ediyor."
+      ],
+      "suggested_tags": [
+        "New Holland C324",
+        "mini paletli yükleyici",
+        "yüksek debili hidrolik",
+        "ataşman"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "hidrolik"
+      ],
+      "source_facts_used": [
+        "Equipment World başlığı C324’ü New Holland’ın en büyük mini paletli yükleyicisi olarak nitelendiriyor ve 2.400 lb kapasite belirtiyor.",
+        "RSS özeti yüksek debili hidrolik ve çeşitli ataşmanlarla uyumluluk bilgisini veriyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfasına erişim 403 hatasıyla sonuçlandı; taslak sağlanan başlık ve kısa özete dayanıyor.",
+        "2.400 lb kapasite tanımının hangi ölçüm veya çalışma koşuluna karşılık geldiği belirtilmiyor; 'en büyük' nitelemesi de üretici teknik verileriyle doğrulanmadı."
+      ],
+      "generated_at": "2026-10-23T09:41:59.839Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -1254,7 +1301,7 @@
   },
   {
     "id": "6c868de34a1f254e",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Komatsu Approves Scraper with New HM460-6 Dump Truck",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/komatsu-approves-scraper-with-new-hm4606-dump-truck/72573",
@@ -1268,14 +1315,36 @@
     "editorial_fit_score": 65,
     "summary_source": "Komatsu has approved the use of the K-Tec 1237 ADT scraper with its new HM460-6 articulated dump truck....",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Komatsu HM460-6, K-Tec 1237 ADT sıyırıcıyla kullanım için onaylandı",
+      "dek_tr": "Construction Equipment Guide, Komatsu’nun yeni HM460-6 belden kırmalı damperli kamyonu ile K-Tec 1237 ADT sıyırıcının kullanımını onayladığını bildiriyor. Sağlanan özette çalışma koşulları veya teknik sınırlara ilişkin ayrıntı bulunmuyor.",
+      "summary_tr": "Construction Equipment Guide’ın kısa haber özetine göre Komatsu, K-Tec 1237 ADT sıyırıcının yeni HM460-6 belden kırmalı damperli kamyonla kullanımını onayladı.\n\nSağlanan bilgi, onayın kapsamını ve ekipman kombinasyonunun hangi saha koşullarında değerlendirildiğini açıklamıyor. Makine kapasitesi, uyumluluk sınırları veya performans sonuçları hakkında ek teknik veri verilmediğinden, duyuru şimdilik ekipman uyumluluğuyla sınırlı aktarılabilir.",
+      "why_it_matters_tr": "Damperli kamyonla sıyırıcı kombinasyonunun onaylanması, ekipman seçimi ve saha operasyonlarının planlanması açısından ilgili olabilir. Uygulama kapsamı ve çalışma sınırları açıklanmadığı için olası verimlilik veya performans etkisi hakkında sonuç çıkarmak mümkün değil.",
+      "seo_title": "Komatsu HM460-6 ve K-Tec 1237 ADT uyumluluğu",
+      "meta_description": "Komatsu, K-Tec 1237 ADT sıyırıcının yeni HM460-6 belden kırmalı damperli kamyonla kullanımını onayladı; uygulama ayrıntıları kaynak özetinde yok.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Komatsu’nun K-Tec 1237 ADT sıyırıcının HM460-6 ile kullanımını onayladığı bildiriliyor.",
+        "Kaynak özeti HM460-6’yı yeni bir belden kırmalı damperli kamyon olarak tanımlıyor."
+      ],
+      "suggested_tags": [
+        "Komatsu HM460-6",
+        "K-Tec 1237 ADT",
+        "belden kırmalı damperli kamyon",
+        "sıyırıcı"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Construction Equipment Guide özeti K-Tec 1237 ADT sıyırıcının Komatsu HM460-6 ile kullanımının onaylandığını belirtiyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfasına erişim 403 hatasıyla sonuçlandı; taslak yalnızca sağlanan başlık ve kısa özete dayanıyor.",
+        "Onayın test yöntemi, kullanım koşulları ve teknik sınırları belirtilmiyor; bağımsız performans veya saha testi sonucu olarak yorumlanmamalı."
+      ],
+      "generated_at": "2026-10-23T09:41:59.839Z",
+      "generated_by": "github-models"
     }
   },
   {
