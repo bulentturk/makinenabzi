@@ -1,5 +1,17 @@
 [
   {
+    "id": "14906be9fbe095a0",
+    "source_name": "Sandvik Mining",
+    "source_url": "https://www.mining.sandvik/en/news-and-media/news-archive/2026/10/sandvik-to-supply-25-underground-mining-units-to-northern-star-resources/",
+    "title_original": "Sandvik to supply 25 underground mining units to Northern Star Resources",
+    "sector": "madencilik",
+    "subsector": "yeraltı-madenciliği",
+    "status": "lead",
+    "source_type": "official_manufacturer",
+    "verified_publication_date": false,
+    "first_seen_at": "2026-10-23T11:08:48.806Z"
+  },
+  {
     "id": "5dfea630a8251a82",
     "source_name": "Normet",
     "source_url": "https://www.normet.com/en/news/normet-acquires-finland-based-boom-systems-manufacturer-rambooms-and-hydraulic-attachments-supplier-marakon",
