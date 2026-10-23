@@ -895,7 +895,7 @@
   },
   {
     "id": "1c8a890f37cb794f",
-    "status": "drafted",
+    "status": "published",
     "title_original": "XCMG, IPAF Summit 2026’da Yeni Platform Modelini Tanıttı",
     "source_name": "Vinç & Platform",
     "source_url": "https://vincveplatform.com/xcmg-ipaf-summit-2026da-yeni-platform-modelini-tanitti/",
@@ -947,7 +947,9 @@
         "Teknik değerler sektör yayınının aktardığı bilgilere dayanıyor; girdi içinde XCMG’nin birincil teknik açıklaması veya bağımsız saha doğrulaması bulunmuyor."
       ],
       "generated_at": "2026-10-21T09:46:36.355Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "review_result": "auto_published",
+      "reviewed_at": "2026-10-23T11:34:08.959Z"
     }
   },
   {

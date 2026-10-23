@@ -1,5 +1,39 @@
 [
   {
+    "id": "1c8a890f37cb794f",
+    "slug": "xcmg-xga17acn-elektrikli-eklemli-platformu-turkiye-de-tanitti",
+    "title": "XCMG, XGA17ACN Elektrikli Eklemli Platformu Türkiye’de Tanıttı",
+    "dek": "XCMG, IPAF Summit 2026’da 17 metre çalışma yüksekliğine sahip XGA17ACN’yi Türkiye’de ilk kez sergiledi. Kaynakta model için 9,7 metre yatay erişim ve 230 kg taşıma kapasitesi bildiriliyor.",
+    "summary": "XCMG, İstanbul’da düzenlenen IPAF Summit 2026’da elektrikli eklemli platformu XGA17ACN’yi Türkiye’de ilk kez tanıttı. Vinç & Platform’un aktardığı teknik değerlere göre model 17 metre çalışma yüksekliği, 9,7 metre yatay erişim ve 230 kg platform kapasitesi sunuyor.\n\nHaberde 1,5 metre gövde genişliği, otomatik seviyeleme, oransal joystick kontrolü ve sıkışmayı önlemeye yönelik bir güvenlik sistemi de belirtiliyor. XCMG, elektrikli tahriki düşük emisyon ve gürültü gerektiren çalışma ortamlarına yönelik bir özellik olarak konumlandırıyor.\n\nAynı etkinlikte XG0807HA makaslı platform ve XGA26K1 eklemli platform da sergilendi. Kaynak, bu modeller için sırasıyla 7,8 metre ve 26 metre çalışma yüksekliği bildiriyor.",
+    "why_it_matters": "Elektrikli personel yükseltici platformlar, kapalı veya gürültü hassasiyeti bulunan çalışma alanlarında kullanılabilecek makine seçeneklerini genişletiyor. XGA17ACN’nin dar gövdesi ve bildirilen erişim değerleri, bu sınıftaki makinelerin saha planlamasında erişim ile manevra gereksinimlerinin birlikte değerlendirilmesine örnek oluşturuyor.",
+    "key_facts": [
+      "XGA17ACN, IPAF Summit 2026’da Türkiye’de ilk kez tanıtıldı.",
+      "Kaynak, model için 17 m çalışma yüksekliği ve 9,7 m yatay erişim bildiriyor.",
+      "Bildirilen platform taşıma kapasitesi 230 kg, gövde genişliği 1,5 m.",
+      "Haberde otomatik seviyeleme ve oransal joystick kontrolü sayılıyor."
+    ],
+    "format": "haber",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon",
+      "fonksiyonel-guvenlik"
+    ],
+    "tags": [
+      "XCMG",
+      "personel yükseltici platform",
+      "elektrikli platform",
+      "eklemli platform",
+      "IPAF Summit"
+    ],
+    "source_name": "Vinç & Platform",
+    "source_url": "https://vincveplatform.com/xcmg-ipaf-summit-2026da-yeni-platform-modelini-tanitti/",
+    "source_published_at": "2026-10-21T07:50:31.000Z",
+    "site_published_at": "2026-10-23T11:34:08.959Z",
+    "hero_image": "",
+    "publish_mode": "automatic"
+  },
+  {
     "id": "ea05793fe7b72348",
     "slug": "bobcat-roguex3-konsept-yukleyici-red-dot-tasarim-odulu-aldi",
     "title": "Bobcat RogueX3 konsept yükleyici Red Dot Tasarım Ödülü aldı",
