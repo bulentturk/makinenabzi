@@ -338,7 +338,7 @@
   },
   {
     "id": "892e26d3dea2854a",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Feedback future – BuilderX and the rise of remote control excavation in mining",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/10/21/feedback-future-builderx-and-the-rise-of-remote-control-excavation-in-mining/",
@@ -352,14 +352,42 @@
     "editorial_fit_score": 55,
     "summary_source": "There are some areas of mining technology where China is some distance ahead of the rest of the world today – and remote control, or teleremote, operation of mining excavators and shovels is certainly one of them. The major Western excavator OEM players – Komatsu, Caterpillar, Hitachi Construction Machinery (soon to be Landcros) and Liebherr The post Feedback future – BuilderX and the rise of remote control excavation in mining appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Madencilikte uzaktan ekskavatör kontrolü: BuilderX gündemde",
+      "dek_tr": "International Mining’in haber özeti, madencilik ekskavatörleri ve shovel’larda uzaktan kontrol uygulamalarını ele alıyor. Ancak sayfanın tam metnine erişilemediği için teknik ayrıntılar doğrulanamıyor.",
+      "summary_tr": "International Mining’in görülebilen özetinde, ekskavatör ve shovel’ların uzaktan veya tele-uzaktan kontrolü madencilik teknolojilerindeki gelişmeler arasında gösteriliyor. Yazı, Çin’in bu alanda önde olduğunu ileri sürüyor ve Komatsu, Caterpillar, Hitachi Construction Machinery ile Liebherr’i büyük Batılı üreticiler olarak anıyor.\n\nKaynak içeriğinin geri kalanı alınamadığından BuilderX’in sistemi, uyumlu makineler, çalışma senaryoları veya ölçülmüş performans hakkında bilgi verilemiyor.",
+      "why_it_matters_tr": "Uzaktan kontrol, operatörün makineden ayrı bir noktada çalışmasını mümkün kılabilir; maden sahalarındaki olası kullanım ve güvenlik etkileri ise bu kaynakla değerlendirilemiyor.",
+      "seo_title": "Madencilikte uzaktan ekskavatör kontrolü ve BuilderX",
+      "meta_description": "International Mining, madencilik ekskavatörlerinde uzaktan kontrolü ele alıyor. Tam metne erişilemediği için BuilderX ve sistemin teknik özellikleri doğrulanamıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Haber özeti, maden ekskavatörleri ve shovel’larda uzaktan/tele-uzaktan kontrolü konu alıyor.",
+        "Özette Komatsu, Caterpillar, Hitachi Construction Machinery ve Liebherr anılıyor.",
+        "Kaynağın tam metnine erişilemedi."
+      ],
+      "suggested_tags": [
+        "uzaktan kontrol",
+        "maden ekskavatörü",
+        "tele-uzaktan operasyon",
+        "BuilderX"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektronik-telematik",
+        "otonomi-ai"
+      ],
+      "source_facts_used": [
+        "International Mining’in görülebilen haber özeti, maden ekskavatörleri ve shovel’larda uzaktan/tele-uzaktan kontrolü konu ediyor.",
+        "Özet, Çin’in bu alanda önde olduğunu belirtiyor ve dört Batılı üreticiyi listeliyor."
+      ],
+      "uncertainty_notes": [
+        "Sayfa HTTP 403 nedeniyle alınamadı; özet dışındaki teknik ayrıntılar bilinmiyor.",
+        "Çin’in diğer pazarlara göre önde olduğu değerlendirmesi kaynak özetindeki editoryal bir iddiadır; bağımsız doğrulama sunulmuyor.",
+        "BuilderX’in rolü, ürün özellikleri ve sahadaki uygulamalar birincil kaynakla doğrulanmalı."
+      ],
+      "generated_at": "2026-10-24T09:14:35.409Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -833,7 +861,7 @@
   },
   {
     "id": "ea278a76f4547c19",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Martin Engineering on belt cleaner positioning on high volume conveyors",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/10/22/martin-engineering-on-belt-cleaner-positioning-on-high-volume-conveyors/",
@@ -847,14 +875,40 @@
     "editorial_fit_score": 55,
     "summary_source": "A common conveyor efficiency consideration is the ability to position belt cleaners in the optimal locations. Structural design, spatial limitations and safe access can be barriers to effective belt cleaning. This article from R. Todd Swinderman, President Emeritus of Martin Engineering and CEMA, will discuss primary, secondary and tertiary belt cleaner placement. Primary cleaner placement The post Martin Engineering on belt cleaner positioning on high volume conveyors appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Yüksek hacimli konveyörlerde bant sıyırıcı konumlandırması",
+      "dek_tr": "Martin Engineering’den R. Todd Swinderman’ın yazısı, birincil, ikincil ve üçüncül bant sıyırıcıların yerleşimini ele alıyor. Görülebilen özette yapısal tasarım, alan kısıtları ve güvenli erişim başlıca engeller olarak sıralanıyor.",
+      "summary_tr": "International Mining’in görülebilen özetine göre yazı, yüksek hacimli konveyörlerde bant temizleyicilerin uygun konumlara yerleştirilmesini inceliyor. Yapısal tasarım, sınırlı alan ve güvenli erişim, etkili temizlik için karşılaşılan güçlükler arasında gösteriliyor.\n\nÖzet, birincil, ikincil ve üçüncül sıyırıcı yerleşimlerinin tartışılacağını belirtiyor; ancak yazının tam metni alınamadığından belirli yerleşim önerileri veya teknik ölçütler aktarılamıyor. İçerik, Martin Engineering ve CEMA’da President Emeritus olarak tanımlanan R. Todd Swinderman’ın imzalı değerlendirmesi niteliğinde.",
+      "why_it_matters_tr": "Maden konveyörlerinde bant temizliği ve güvenli bakım erişimi, ekipman düzeni ve işletme sürekliliği açısından önem taşıyabilir; özette bu konulara dair ölçülmüş sonuç veya uygulama verisi bulunmuyor.",
+      "seo_title": "Konveyörlerde bant sıyırıcı yerleşimi nasıl ele alınıyor?",
+      "meta_description": "Martin Engineering’den R. Todd Swinderman’ın yazısı, yüksek hacimli konveyörlerde birincil, ikincil ve üçüncül bant sıyırıcı yerleşimini ele alıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Yazı, yüksek hacimli konveyörlerde bant sıyırıcı yerleşimini konu ediyor.",
+        "Birincil, ikincil ve üçüncül sıyırıcı yerleşimleri ele alınacak.",
+        "Özette yapısal tasarım, alan kısıtları ve güvenli erişim engel olarak belirtiliyor.",
+        "Yazı R. Todd Swinderman’a atfediliyor."
+      ],
+      "suggested_tags": [
+        "konveyör",
+        "bant sıyırıcı",
+        "bant temizliği",
+        "maden ekipmanları"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "gorus-analiz",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Haber özeti, yazının yüksek hacimli konveyörlerde bant temizleyici konumlandırmasını ele aldığını belirtiyor.",
+        "Özette birincil, ikincil ve üçüncül sıyırıcılar ile yapısal tasarım, alan ve güvenli erişim konuları anılıyor.",
+        "Yazar, kaynak özetinde R. Todd Swinderman olarak tanımlanıyor."
+      ],
+      "uncertainty_notes": [
+        "Sayfa HTTP 403 nedeniyle alınamadı; özette görünmeyen yerleşim önerileri ve teknik ölçütler doğrulanamadı.",
+        "Uygulama önerileri ve varsa performans iddiaları için yazının tam metni ve birincil teknik kaynaklar incelenmeli."
+      ],
+      "generated_at": "2026-10-24T09:14:35.409Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -1075,7 +1129,7 @@
   },
   {
     "id": "f81aa8c3fde2ea4c",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Wolverine Debuts American-Made Loader II Boots for USA's 250th Year",
     "source_name": "Equipment World",
     "source_url": "https://www.equipmentworld.com/gear/article/15838055/wolverine-debuts-its-first-americanmade-loader-boot",
@@ -1089,14 +1143,37 @@
     "editorial_fit_score": 55,
     "summary_source": "Contractors will be sporting a full-grain leather upper with red, white and blue stitching detail on the backstay. Check out our...",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Wolverine, Loader II iş botunu tanıttı",
+      "dek_tr": "Equipment World’ün görülebilen özeti, Wolverine’ın Loader II adlı iş botunu ve tam tahıllı deri saya detayını aktarıyor. İçerikte makine teknolojileriyle doğrudan bağlantılı bir gelişme yer almıyor.",
+      "summary_tr": "Equipment World’ün başlığı, Wolverine’ın Loader II adlı bir iş botu tanıttığını belirtiyor. Görülebilen özette botun tam tahıllı deri sayası ve arka destek bölümündeki kırmızı, beyaz ve mavi dikiş detayından söz ediliyor.\n\nBu ürün bir iş makinesi veya makine teknolojisi duyurusu değil. Kaynağın tam metnine erişilemediğinden başlık ve kısa özet dışında ürün özellikleri hakkında ek bilgi aktarılamıyor.",
+      "why_it_matters_tr": "Makine Nabzı’nın teknik kapsamı açısından ürünün iş makinesi, mobil ekipman veya ilgili bir teknolojiyle doğrulanmış bağlantısı görünmüyor; bu nedenle teknik haber değeri sınırlı.",
+      "seo_title": "Wolverine Loader II iş botunu tanıttı",
+      "meta_description": "Equipment World’ün haberine göre Wolverine, tam tahıllı deri saya ve renkli dikiş detaylarıyla Loader II adlı iş botunu tanıttı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Başlıkta Wolverine’ın Loader II adlı iş botunu tanıttığı belirtiliyor.",
+        "Görülebilen özet, tam tahıllı deri saya ve arka destek bölümündeki renkli dikiş detayını aktarıyor.",
+        "Kaynak özetinde makine teknolojisiyle doğrudan bağlantı bulunmuyor."
+      ],
+      "suggested_tags": [
+        "Wolverine",
+        "iş botu",
+        "kişisel ekipman"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Kaynak başlığı, Wolverine’ın Loader II adlı iş botunu tanıttığını söylüyor.",
+        "Görülebilen özet, saya malzemesini ve dikiş detayını belirtiyor."
+      ],
+      "uncertainty_notes": [
+        "Sayfa HTTP 403 nedeniyle alınamadı; ürünle ilgili başlık ve kısa özet dışındaki bilgiler doğrulanamadı.",
+        "İçerik makine teknolojisi odağına doğrudan uymuyor; yayın uygunluğu editoryal değerlendirme gerektirir."
+      ],
+      "generated_at": "2026-10-24T09:14:35.409Z",
+      "generated_by": "github-models"
     }
   },
   {
