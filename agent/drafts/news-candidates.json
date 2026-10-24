@@ -181,68 +181,6 @@
     }
   },
   {
-    "id": "c4f25d2e6e7a1f1f",
-    "status": "published",
-    "title_original": "FLANDERS installs hybrid-electric control cabinet on Komatsu 930 at Belle Ayr mine",
-    "source_name": "International Mining",
-    "source_url": "https://im-mining.com/2026/10/20/flanders-installs-hybrid-electric-control-cabinet-on-komatsu-930-at-belle-ayr-mine/",
-    "source_feed": "https://im-mining.com/feed/",
-    "published_at": "2026-10-20T09:05:44.000Z",
-    "discovered_at": "2026-10-20T09:44:16.867Z",
-    "sector": "madencilik",
-    "subsector": null,
-    "technologies": [
-      "elektrifikasyon",
-      "otonomi-ai"
-    ],
-    "relevance_score": 166,
-    "editorial_fit_score": 89,
-    "summary_source": "Earlier this month, mining industry power, automation, and electrification solutions major FLANDERS announced a “world’s first” installation of FLANDERS’ hybrid-electric control cabinet on a diesel-electric drive Komatsu 930E haul truck owned by coal mining company Eagle Summit Resources LLC. The company said that the cabinet beats haul truck obsolescence challenges with modernised electric-drive controls, enables The post FLANDERS installs hybrid-electric control cabinet on Komatsu 930 at Belle Ayr mine appeared first on International Mining.",
-    "editorial": {
-      "title_tr": "FLANDERS, Belle Ayr’de Komatsu 930E’ye hibrit-elektrikli kontrol kabini kurdu",
-      "dek_tr": "FLANDERS, Eagle Summit Resources’a ait dizel-elektrik tahrikli Komatsu 930E kaya kamyonuna hibrit-elektrikli kontrol kabini monte ettiğini duyurdu. Şirket, yenilemenin elektrikli tahrik kontrollerini modernize etmeyi hedeflediğini belirtiyor.",
-      "summary_tr": "International Mining’in aktardığı duyuruya göre FLANDERS, ABD’deki Belle Ayr madeninde kullanılan bir Komatsu 930E’ye hibrit-elektrikli kontrol kabini kurdu. Kamyon, kömür madenciliği şirketi Eagle Summit Resources’a ait ve dizel-elektrik tahrik sistemine sahip.\n\nFLANDERS, çözümün eskiyen kaya kamyonlarının kullanım ömrüyle ilgili sorunlara modernize edilmiş elektrikli tahrik kontrolleriyle yanıt verdiğini söylüyor. Mevcut kaynakta kabinin teknik özellikleri, kurulum kapsamı veya sahadaki performans sonuçları yer almıyor.",
-      "why_it_matters_tr": "Büyük maden kamyonlarında kontrol sistemlerinin yenilenmesi, mevcut filonun işletmede tutulmasına yönelik bir seçenek olabilir. Ancak bu kurulumun sağladığı verim, bakım veya ömür avantajları kaynakta ölçülmüş verilerle açıklanmıyor.",
-      "seo_title": "FLANDERS, Komatsu 930E’ye kontrol kabini kurdu",
-      "meta_description": "FLANDERS, Belle Ayr madeninde kullanılan dizel-elektrik tahrikli Komatsu 930E’ye hibrit-elektrikli kontrol kabini kurduğunu duyurdu.",
-      "hero_image": "",
-      "reviewed": true,
-      "key_facts": [
-        "FLANDERS, bir Komatsu 930E’ye hibrit-elektrikli kontrol kabini kurduğunu duyurdu.",
-        "Kamyon, Eagle Summit Resources’a ait ve Belle Ayr madeninde kullanılıyor.",
-        "Komatsu 930E’nin tahrik sistemi kaynakta dizel-elektrik olarak tanımlanıyor.",
-        "FLANDERS, çözümün elektrikli tahrik kontrollerini modernize ettiğini belirtiyor."
-      ],
-      "suggested_tags": [
-        "FLANDERS",
-        "Komatsu 930E",
-        "maden kamyonu",
-        "elektrikli tahrik",
-        "kontrol sistemi"
-      ],
-      "suggested_sector": "madencilik",
-      "editorial_format": "haber",
-      "suggested_technologies": [
-        "elektrifikasyon",
-        "elektronik-telematik"
-      ],
-      "source_facts_used": [
-        "International Mining’in FLANDERS duyurusuna dayanan haber özeti.",
-        "Kurulumun Belle Ayr’deki Eagle Summit Resources’a ait dizel-elektrik tahrikli Komatsu 930E’de yapıldığı bilgisi.",
-        "FLANDERS’ın kontrol modernizasyonuna ilişkin açıklaması."
-      ],
-      "uncertainty_notes": [
-        "Kaynak sayfasına erişim 403 hatasıyla engellenmiş; eldeki içerik kısa bir ikincil yayın özetiyle sınırlı.",
-        "FLANDERS’ın birincil duyurusu ve kabinin teknik özellikleri mevcut girdide bulunmuyor; teknik kapsam ve şirketin “dünyada ilk” iddiası birincil kaynakla doğrulanmalı.",
-        "Bağımsız saha performansı veya yakıt/verimlilik ölçümü verilmemiştir."
-      ],
-      "generated_at": "2026-10-20T09:45:23.236Z",
-      "generated_by": "github-models",
-      "reviewed_at": "2026-10-20T13:48:56.153Z",
-      "review_result": "published"
-    }
-  },
-  {
     "id": "18ca18881b82bb48",
     "status": "drafted",
     "title_original": "Seederal 160hp electric tractor set for 2028 rollout",
@@ -1407,32 +1345,6 @@
     "relevance_score": 120,
     "editorial_fit_score": 55,
     "summary_source": "The Gainesville, Ga., branch of Central Atlanta Tractor held an open house inviting customers to see the 15,000-sq.-ft. facility with all the upgrades that have been made since the initial opening....",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
-  },
-  {
-    "id": "9e294ce82e100183",
-    "status": "candidate",
-    "title_original": "Maxim Crane's Tadano CC 78.1250-1",
-    "source_name": "Construction Equipment Guide",
-    "source_url": "https://www.constructionequipmentguide.com/maxim-cranes-tadano-cc-7812501/72546",
-    "source_feed": "https://feeds.feedburner.com/ceg",
-    "published_at": "2026-10-20T05:00:00.000Z",
-    "discovered_at": "2026-10-21T09:45:18.188Z",
-    "sector": "is-makinalari",
-    "subsector": null,
-    "technologies": [],
-    "relevance_score": 120,
-    "editorial_fit_score": 55,
-    "summary_source": "...",
     "editorial": {
       "title_tr": "",
       "dek_tr": "",
