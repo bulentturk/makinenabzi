@@ -62,122 +62,31 @@
     "subsector": null
   },
   {
-    "id": "7a9671788d701b8b",
-    "status": "published",
-    "title_original": "Valtra partners with PerPlant to offer factory-fitted AI crop sensing",
-    "source_name": "iVT International",
-    "source_url": "https://www.ivtinternational.com/news/agriculture/valtra-partners-with-perplant-to-offer-factory-fitted-ai-crop-sensing.html",
-    "source_feed": "https://www.ivtinternational.com/feed",
-    "published_at": "2026-10-20T13:39:24.000Z",
-    "discovered_at": "2026-10-20T19:06:46.928Z",
-    "sector": "is-makinalari",
+    "id": "dfb487524daee1e2",
+    "status": "candidate",
+    "title_original": "Zijin Longking to bring its battery electric mining trucks to Australia",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/10/24/zijin-longking-to-bring-its-battery-electric-mining-trucks-to-australia/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-10-24T12:03:59.000Z",
+    "discovered_at": "2026-10-24T18:01:24.965Z",
+    "sector": "madencilik",
     "subsector": null,
     "technologies": [
-      "otonomi-ai",
-      "elektronik-telematik"
+      "elektrifikasyon"
     ],
-    "relevance_score": 166,
-    "editorial_fit_score": 79,
-    "summary_source": "Valtra has partnered with Danish agtech company PerPlant to offer PerPlant’s AI crop sensor factory-fitted on new tractors through its Valtra Unlimited programme. The sensor will be available on the [...] The post Valtra partners with PerPlant to offer factory-fitted AI crop sensing appeared first on Industrial Vehicle Technology International.",
+    "relevance_score": 158,
+    "editorial_fit_score": 77,
+    "summary_source": "Things move fast in mining technology in China, especially when backed by one of the world’s largest mining companies. Back in January 2026, IM reported that Zijin Mining had begun producing its own battery electric mining trucks through a company it controlled called Fujian Longking, based in Longyan, Fujian Province. This was highly significant given The post Zijin Longking to bring its battery electric mining trucks to Australia appeared first on International Mining.",
     "editorial": {
-      "title_tr": "Valtra, PerPlant yapay zekâlı bitki sensörünü traktörlere fabrika çıkışında sunacak",
-      "dek_tr": "Valtra, PerPlant ile iş birliği kapsamında yapay zekâlı ürün sensörünü Valtra Unlimited programı üzerinden yeni traktörlere fabrika çıkışında entegre etmeyi planlıyor. Kaynakta satışların Ekim 2026'da başlayacağı belirtiliyor.",
-      "summary_tr": "iVT International'ın haberine göre Valtra, Danimarkalı tarım teknolojileri şirketi PerPlant ile ortaklık kurdu. İş birliği kapsamında PerPlant'ın yapay zekâlı bitki sensörü, Valtra Unlimited programı aracılığıyla yeni traktörlere fabrika çıkışında sunulacak.\n\nKaynak, satışların Ekim 2026'da başlayacağını bildiriyor; ancak sensörün çalışma yöntemi, ölçtüğü parametreler ve traktör sistemleriyle entegrasyon ayrıntıları verilen içerikte yer almıyor.",
-      "why_it_matters_tr": "Fabrika çıkışında sunulan sensör entegrasyonu, hassas tarım teknolojilerinin traktör tedarik sürecine dahil edilmesi açısından izlenmeye değer. Sensörün gerçek tarla koşullarındaki işlevi ve sağladığı sonuçlar için daha fazla teknik bilgi gerekiyor.",
-      "seo_title": "Valtra ve PerPlant'tan fabrika çıkışlı bitki sensörü",
-      "meta_description": "Valtra, PerPlant'ın yapay zekâlı bitki sensörünü Valtra Unlimited programıyla yeni traktörlere fabrika çıkışında sunmayı planlıyor.",
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
       "hero_image": "",
-      "reviewed": false,
-      "key_facts": [
-        "Valtra, PerPlant ile ortaklık kurdu.",
-        "PerPlant'ın yapay zekâlı bitki sensörünün yeni traktörlerde Valtra Unlimited programı üzerinden fabrika çıkışında sunulması planlanıyor.",
-        "Kaynakta satış başlangıcı Ekim 2026 olarak veriliyor."
-      ],
-      "suggested_tags": [
-        "Valtra",
-        "PerPlant",
-        "hassas tarım",
-        "bitki sensörü",
-        "yapay zekâ"
-      ],
-      "suggested_sector": "tarim",
-      "editorial_format": "haber",
-      "suggested_technologies": [
-        "otonomi-ai",
-        "elektronik-telematik"
-      ],
-      "source_facts_used": [
-        "iVT International'ın Valtra ile PerPlant arasında ortaklık kurulduğuna ilişkin özeti",
-        "Sensörün yeni traktörlerde Valtra Unlimited üzerinden fabrika çıkışında sunulacağı bilgisi",
-        "Kaynak açıklamasındaki Ekim 2026 satış başlangıcı"
-      ],
-      "uncertainty_notes": [
-        "Girdi, üretici veya PerPlant'ın birincil teknik açıklamasını içermiyor; sensörün teknik özellikleri, çalışma prensibi ve entegrasyon kapsamı doğrulanamıyor."
-      ],
-      "generated_at": "2026-10-20T19:07:54.359Z",
-      "generated_by": "github-models",
-      "review_result": "auto_published",
-      "reviewed_at": "2026-10-21T11:44:23.707Z"
-    }
-  },
-  {
-    "id": "ea05793fe7b72348",
-    "status": "published",
-    "title_original": "Bobcat’s RogueX3 autonomous concept loader earns Red Dot award",
-    "source_name": "iVT International",
-    "source_url": "https://www.ivtinternational.com/news/technology/bobcats-roguex3-autonomous-concept-loader-earns-red-dot-award.html",
-    "source_feed": "https://www.ivtinternational.com/feed",
-    "published_at": "2026-10-20T12:40:32.000Z",
-    "discovered_at": "2026-10-20T19:06:46.930Z",
-    "sector": "tarim",
-    "subsector": null,
-    "technologies": [
-      "elektrifikasyon",
-      "otonomi-ai"
-    ],
-    "relevance_score": 166,
-    "editorial_fit_score": 79,
-    "summary_source": "Bobcat has earned a Red Dot Award: Design Concept for the RogueX3, a fully electric, autonomous and modular concept loader that explores how future construction, industrial and agricultural equipment could [...] The post Bobcat’s RogueX3 autonomous concept loader earns Red Dot award appeared first on Industrial Vehicle Technology International.",
-    "editorial": {
-      "title_tr": "Bobcat RogueX3 konsept yükleyici Red Dot Tasarım Ödülü aldı",
-      "dek_tr": "iVT International'a göre Bobcat'in RogueX3 konsepti, Red Dot Tasarım Konsepti ödülüne layık görüldü. Tam elektrikli, otonom ve modüler olarak tanımlanan konsept, gelecekteki makine tasarımına yönelik bir çalışma niteliğinde.",
-      "summary_tr": "RogueX3, Bobcat'in CES 2026'da tanıttığı konsept yükleyici olarak aktarılıyor. Kaynak, makineyi tam elektrikli, otonom ve modüler olarak tanımlıyor ve Red Dot Tasarım Konsepti ödülünü kazandığını bildiriyor.\n\nGirdi, konseptin güç sistemi, otonomi kabiliyetleri, çalışma performansı veya üretime geçiş planı hakkında ayrıntı vermiyor. Bu nedenle ödül haberi, sahada kullanıma hazır bir ürünün duyurusu olarak değerlendirilmemeli.",
-      "why_it_matters_tr": "Elektrifikasyon, otonomi ve modüler tasarımın aynı yükleyici konseptinde ele alınması, iş makinelerinin olası gelişim yönlerine dair teknik bir gösterge sunuyor. Ancak konsept özellikleri, doğrulanmış saha performansı veya seri üretim kabiliyeti anlamına gelmiyor.",
-      "seo_title": "Bobcat RogueX3 konsepti Red Dot ödülüne layık görüldü",
-      "meta_description": "Bobcat'in tam elektrikli, otonom ve modüler konsept yükleyicisi RogueX3, iVT International'a göre Red Dot Tasarım Konsepti ödülü aldı.",
-      "hero_image": "",
-      "reviewed": false,
-      "key_facts": [
-        "Kaynak, Bobcat RogueX3'ün Red Dot Tasarım Konsepti ödülü aldığını bildiriyor.",
-        "RogueX3, CES 2026'da tanıtılan bir konsept yükleyici olarak tanımlanıyor.",
-        "Kaynak konsepti tam elektrikli, otonom ve modüler olarak nitelendiriyor."
-      ],
-      "suggested_tags": [
-        "Bobcat",
-        "RogueX3",
-        "konsept yükleyici",
-        "elektrikli iş makinesi",
-        "otonomi"
-      ],
-      "suggested_sector": "is-makinalari",
-      "editorial_format": "haber",
-      "suggested_technologies": [
-        "elektrifikasyon",
-        "otonomi-ai"
-      ],
-      "source_facts_used": [
-        "iVT International'ın RogueX3'ün Red Dot Tasarım Konsepti ödülünü aldığına ilişkin özeti",
-        "Konseptin CES 2026'da tanıtıldığı bilgisi",
-        "Kaynakta yer alan tam elektrikli, otonom ve modüler nitelendirmeleri"
-      ],
-      "uncertainty_notes": [
-        "Girdide Bobcat'in veya Red Dot'un birincil açıklaması bulunmuyor; ödül bilgisi ve konsept özellikleri için birincil kaynak doğrulaması gerekli.",
-        "Konseptin teknik performansı, operasyonel kullanım durumu ve üretim planı verilen içerikte açıklanmıyor."
-      ],
-      "generated_at": "2026-10-20T19:07:54.359Z",
-      "generated_by": "github-models",
-      "review_result": "auto_published",
-      "reviewed_at": "2026-10-22T11:47:27.848Z"
+      "reviewed": false
     }
   },
   {
