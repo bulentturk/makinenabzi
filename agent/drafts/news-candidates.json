@@ -330,7 +330,7 @@
   },
   {
     "id": "6ed256e6be49cb4b",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "LGMG to launch new mining equipment innovations at bauma China 2026",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/10/21/lgmg-to-launch-new-mining-equipment-innovations-at-bauma-china-2026/",
@@ -346,14 +346,43 @@
     "editorial_fit_score": 32,
     "summary_source": "LGMG will showcase more than 30 of its latest products at bauma China 2026, one of Asia’s leading trade fairs for construction and mining machinery. The line-up will span aerial work platforms, material handling equipment and mining machinery, complemented by integrated green mining solutions. With approximately 95% of the new machines featuring hybrid or fully The post LGMG to launch new mining equipment innovations at bauma China 2026 appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "LGMG, bauma China 2026’da 30’dan fazla ürün sergilemeyi planlıyor",
+      "dek_tr": "International Mining’in haberine göre LGMG, madencilik makineleri ve malzeme elleçleme ekipmanlarını da içeren 30’dan fazla ürününü fuarda tanıtacak. Kaynak, ürün bazında teknik özellik vermiyor.",
+      "summary_tr": "International Mining, LGMG’nin bauma China 2026’da 30’dan fazla yeni ürün sergileyeceğini bildiriyor. Duyurulan ürün grupları arasında yükseltici çalışma platformları, malzeme elleçleme ekipmanları ve madencilik makineleri bulunuyor.\n\nHaberde entegre “yeşil madencilik” çözümlerinden de söz ediliyor. Yeni makinelerin yaklaşık yüzde 95’inin hibrit veya tamamen … olduğu yönündeki cümle kaynak metinde kesildiği için tahrik türünü tamamlamak ya da ürünlere özgü teknik farkları belirtmek mümkün değil.",
+      "why_it_matters_tr": "Ürün gamında madencilik ve malzeme elleçleme makinelerinin yer alması, farklı saha görevlerinde elektrifikasyon seçeneklerinin izlenmesi açısından ilgi taşıyabilir; ancak mevcut bilgiler uygulama senaryosu veya doğrulanabilir performans karşılaştırması sunmuyor.",
+      "seo_title": "LGMG, bauma China 2026 için 30’dan fazla ürün duyurdu",
+      "meta_description": "LGMG, bauma China 2026’da madencilik ve malzeme elleçleme makinelerinin de bulunduğu 30’dan fazla ürünü sergilemeyi planlıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "LGMG, bauma China 2026’da 30’dan fazla ürün sergilemeyi planlıyor.",
+        "Duyurulan ürün grupları yükseltici çalışma platformları, malzeme elleçleme ekipmanları ve madencilik makinelerini kapsıyor.",
+        "Haber, entegre yeşil madencilik çözümlerinden söz ediyor."
+      ],
+      "suggested_tags": [
+        "LGMG",
+        "bauma China 2026",
+        "madencilik makineleri",
+        "malzeme elleçleme",
+        "hibrit makineler"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "International Mining’in haber metni 30’dan fazla ürünün fuarda sergileneceğini bildiriyor.",
+        "Ürün grupları yükseltici çalışma platformları, malzeme elleçleme ekipmanları ve madencilik makineleri olarak sıralanıyor.",
+        "Haberde entegre yeşil madencilik çözümlerinden söz ediliyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sektör yayınıdır; üreticiye ait birincil duyuru mevcut girdide yer almıyor.",
+        "Yeni makinelerin yaklaşık yüzde 95’inin hibrit veya tamamen … olduğunu belirten cümle kesik; tahrik türünün tamamı doğrulanamıyor.",
+        "Ürün adları, teknik özellikler ve yeraltı kullanım senaryoları paylaşılmadığından makine bazında teknik değerlendirme yapılamıyor."
+      ],
+      "generated_at": "2026-10-25T09:31:26.861Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -1365,7 +1394,7 @@
   },
   {
     "id": "69dcb6026ae4bcfb",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Snowy 2.0 cost and completion date revised",
     "source_name": "Tunnels & Tunnelling",
     "source_url": "https://www.tunnelsandtunnelling.com/news/snowy-2-0-cost-and-completion-date-revised/",
@@ -1379,14 +1408,39 @@
     "editorial_fit_score": 55,
     "summary_source": "Snowy 2.0 cost and completion date revised TBM-driven tunnelling is 65% complete and cavern excavation 90% complete. The post Snowy 2.0 cost and completion date revised appeared first on Tunnels and Tunnelling.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Snowy 2.0 tünel ve kavern kazılarında ilerleme kaydetti",
+      "dek_tr": "Snowy 2.0 projesinde TBM ile yürütülen tünel açma çalışmaları yüzde 65, kavern kazısı ise yüzde 90 seviyesinde. Revize edilen maliyet ve tamamlanma takviminin rakamları kaynak metinde yer almıyor.",
+      "summary_tr": "Tunnels & Tunnelling’in aktardığı bilgilere göre Snowy 2.0’da TBM ile yürütülen tünel açma işleri yüzde 65, kavern kazısı yüzde 90 tamamlandı.\n\nHaberde proje maliyeti ve tamamlanma tarihinin revize edildiği belirtiliyor; ancak yeni bütçe veya takvim verilmediğinden değişikliğin kapsamı değerlendirilemiyor.",
+      "why_it_matters_tr": "İlerleme oranları, büyük ölçekli tünel ve yeraltı kazılarının iş makinesi ve altyapı sektörü açısından takibi için anlamlıdır; ancak kaynak, kullanılan TBM’ler veya revizyonun teknik nedenleri hakkında bilgi vermiyor.",
+      "seo_title": "Snowy 2.0 tünel kazısı yüzde 65 seviyesinde",
+      "meta_description": "Snowy 2.0’da TBM tünel açma işleri yüzde 65, kavern kazısı yüzde 90 tamamlandı. Revize bütçe ve takvim rakamları kaynakta açıklanmıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "TBM ile yürütülen tünel açma işleri yüzde 65 tamamlandı.",
+        "Kavern kazısı yüzde 90 tamamlandı.",
+        "Proje maliyeti ve tamamlanma tarihi revize edildi; yeni değerler paylaşılmadı."
+      ],
+      "suggested_tags": [
+        "Snowy 2.0",
+        "TBM",
+        "tünel kazısı",
+        "kavern"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Kaynağın özetinde TBM ile yürütülen tünel açma işlerinin yüzde 65, kavern kazısının yüzde 90 tamamlandığı belirtiliyor.",
+        "Başlıkta proje maliyeti ve tamamlanma tarihinin revize edildiği ifade ediliyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak metni yalnızca “APROTEK” ifadesini içeriyor; ilerleme bilgisi haber özeti ve sayfa açıklamasına dayanıyor.",
+        "Revize maliyet ve tamamlanma tarihi verilmediğinden değişikliğin büyüklüğü ve gerekçesi doğrulanamıyor.",
+        "Üretici veya proje kurumu kaynaklı birincil açıklama mevcut girdide yer almıyor."
+      ],
+      "generated_at": "2026-10-25T09:31:26.861Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -1493,7 +1547,7 @@
   },
   {
     "id": "08af6ecc86b840a7",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Rare Swedish tractor up for grabs",
     "source_name": "profi",
     "source_url": "https://www.profi.co.uk/news/rare-swedish-tractor-up-for-grabs/",
@@ -1507,14 +1561,38 @@
     "editorial_fit_score": 55,
     "summary_source": "Only a handful of the Swed-Trac tractors made in the 1980s are still in Sweden. One of them is up for auction. The post Rare Swedish tractor up for grabs appeared first on Profi.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "İsveç’te nadir Swed-Trac traktör açık artırmaya çıkıyor",
+      "dek_tr": "profi’nin haber özetine göre 1980’lerde üretilen Swed-Trac traktörlerden İsveç’te yalnızca birkaçı kaldı; bunlardan biri açık artırmaya sunuluyor. Girdide traktörün teknik özellikleri paylaşılmıyor.",
+      "summary_tr": "profi’nin sayfa açıklaması, 1980’lerde üretilen Swed-Trac traktörlerden İsveç’te yalnızca sınırlı sayıda kaldığını ve bunlardan birinin açık artırmaya çıkarıldığını bildiriyor.\n\nTraktörün modeli, teknik durumu, özellikleri ve açık artırma koşulları mevcut girdide yer almıyor. Bu nedenle haber, teknik ürün gelişmesinden çok tarım makinesi tarihçesi ve koleksiyon değeri çerçevesinde ele alınabilir.",
+      "why_it_matters_tr": "Klasik tarım makineleri, sektörün makine tasarımı ve üretim geçmişine ilgi duyan okuyucular için arşiv değeri taşıyabilir; ancak mevcut bilgiler güncel bir teknik yenilik veya saha uygulaması ortaya koymuyor.",
+      "seo_title": "Nadir Swed-Trac traktör İsveç’te açık artırmada",
+      "meta_description": "profi’ye göre 1980’lerde üretilen Swed-Trac traktörlerden İsveç’te yalnızca birkaçı kaldı. Bunlardan biri açık artırmaya çıkarılıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Swed-Trac traktörler 1980’lerde üretildi.",
+        "profi’nin özetine göre İsveç’te bu traktörlerden yalnızca birkaçı kaldı.",
+        "Traktörlerden biri açık artırmaya çıkarılıyor."
+      ],
+      "suggested_tags": [
+        "Swed-Trac",
+        "traktör",
+        "klasik tarım makineleri",
+        "açık artırma"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Sayfa açıklaması Swed-Trac traktörlerin 1980’lerde üretildiğini ve İsveç’te yalnızca birkaçının kaldığını belirtiyor.",
+        "Sayfa açıklamasına göre traktörlerden biri açık artırmaya çıkarılıyor."
+      ],
+      "uncertainty_notes": [
+        "Girdideki source_text, Swed-Trac traktör haberiyle ilgisiz görünen Weaving Machinery ve Dalbo stokçuluğu bilgisini içeriyor; bu bilgi taslağa alınmadı.",
+        "Traktörün modeli, durumu, teknik verileri ve açık artırma ayrıntıları verilen kaynak bilgilerinde yok."
+      ],
+      "generated_at": "2026-10-25T09:31:26.861Z",
+      "generated_by": "github-models"
     }
   }
 ]
