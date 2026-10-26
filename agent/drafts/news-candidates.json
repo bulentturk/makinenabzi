@@ -63,7 +63,7 @@
   },
   {
     "id": "476e8367e1ba0a7e",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Bosch Rexroth and HydraForce to showcase compact hydraulic solutions at Bauma China",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/fluid-power/bosch-rexroth-and-hydraforce-to-showcase-compact-hydraulic-solutions-at-bauma-china.html",
@@ -79,14 +79,41 @@
     "editorial_fit_score": 67,
     "summary_source": "Bosch Rexroth and its subsidiary HydraForce will present compact hydraulic solutions for construction machinery at Bauma China 2026, with the combined portfolio shown at stand N4.511 at the Shanghai New [...] The post Bosch Rexroth and HydraForce to showcase compact hydraulic solutions at Bauma China appeared first on Industrial Vehicle Technology International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Bosch Rexroth ve HydraForce, Bauma China'da kompakt hidrolik çözümler sergileyecek",
+      "dek_tr": "İki şirket, inşaat makinelerine yönelik kompakt hidrolik ürün portföyünü 24-27 Kasım 2026'da Şanghay'daki Bauma China'da tanıtmayı planlıyor. Kaynakta ürünlerin teknik özelliklerine ilişkin ayrıntı yer almıyor.",
+      "summary_tr": "iVT International'ın haber özetine göre Bosch Rexroth ve bağlı kuruluşu HydraForce, Bauma China 2026'da inşaat makineleri için kompakt hidrolik çözümler sergileyecek. Etkinlik 24-27 Kasım tarihlerinde Şanghay'da düzenlenecek; şirketlerin standı N4.511 olarak belirtiliyor.\n\nPaylaşılan kaynak içeriği, sergilenecek ürünlerin adını, teknik özelliklerini veya önceki çözümlerden farkını açıklamıyor. Bu nedenle duyuru, şimdilik fuar katılımı ve ürün portföyünün genel kapsamıyla sınırlı değerlendirilebilir.",
+      "why_it_matters_tr": "Kompakt hidrolik bileşenler, makine üzerinde alan ve entegrasyon gereksinimlerini etkileyebilir; ancak kaynakta somut ürün veya uygulama bilgisi olmadığından sektör açısından teknik etkisi henüz belirlenemiyor.",
+      "seo_title": "Bosch Rexroth ve HydraForce, Bauma China'ya hazırlanıyor",
+      "meta_description": "Bosch Rexroth ve HydraForce, 24-27 Kasım 2026'daki Bauma China'da inşaat makinelerine yönelik kompakt hidrolik portföyünü sergileyecek.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Bosch Rexroth ve HydraForce'un Bauma China 2026'da kompakt hidrolik çözümler sergilemesi planlanıyor.",
+        "Kaynak, çözümleri inşaat makineleri için konumlandırıyor.",
+        "Etkinlik tarihi 24-27 Kasım 2026, belirtilen stant numarası N4.511."
+      ],
+      "suggested_tags": [
+        "Bosch Rexroth",
+        "HydraForce",
+        "kompakt hidrolik",
+        "Bauma China",
+        "inşaat makineleri"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "hidrolik"
+      ],
+      "source_facts_used": [
+        "iVT International özetinde verilen şirketler, fuar ve kompakt hidrolik çözümler bilgisi",
+        "Kaynak açıklamasında yer alan etkinlik tarihleri, Şanghay konumu ve N4.511 stant numarası"
+      ],
+      "uncertainty_notes": [
+        "Kaynak girdisinde özgün üretici duyurusu ve ürün teknik bilgileri bulunmuyor; teknik yenilik iddiası doğrulanamıyor.",
+        "Etkinlik ve portföy bilgileri ikincil yayın özetine dayanıyor."
+      ],
+      "generated_at": "2026-10-26T20:25:02.696Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -202,7 +229,7 @@
   },
   {
     "id": "b2f6c6a5d98e60a1",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "TE Connectivity launches TE MINI FAKRA coaxial connector system for vehicle data links",
     "source_name": "Charged EVs",
     "source_url": "https://chargedevs.com/newswire/te-connectivity-launches-te-mini-fakra-coaxial-connector-system-for-vehicle-data-links/",
@@ -219,14 +246,44 @@
     "editorial_fit_score": 89,
     "summary_source": "TE Connectivity has launched the TE MINI FAKRA connector system, a miniaturized coaxial connector designed to support data transmission in connected, automated and software-defined vehicles. The connector system provides RF... Read more »",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "TE Connectivity, yüksek hızlı araç veri bağlantıları için MINI FAKRA sistemini tanıttı",
+      "dek_tr": "Kompakt koaksiyel konnektör sistemi, 9 GHz'e kadar RF performansı ve 24 Gbps'ye kadar veri hızını destekliyor. TE Connectivity, standart FAKRA'ya kıyasla yüzde 75'e kadar daha az yer kapladığını belirtiyor.",
+      "summary_tr": "TE Connectivity, bağlantılı, otomatik ve yazılım tanımlı araçlardaki veri iletimi için TE MINI FAKRA koaksiyel konnektör sistemini piyasaya sundu. Üreticiye göre sistem 9 GHz'e kadar RF performansı ve 24 Gbps'ye kadar veri hızını destekliyor.\n\nBelirtilen kullanım alanları arasında sürüş destek sistemleri, kamera sistemleri, dijital kokpit, anten modülleri ve V2X iletişimi bulunuyor. Sistem; GMSL2/3, FPD-Link III/IV, APIX3, MIPI ve ASA protokollerini destekliyor. TE, tasarımın standart FAKRA konnektöre göre yüzde 75'e kadar daha az alan gerektirdiğini ve montajda bağlantı sağlamlığını destekleyen özellikler içerdiğini bildiriyor.",
+      "why_it_matters_tr": "Mobil makinelerde kamera, sensör ve iletişim sistemlerinin artması, sınırlı alan içinde yüksek hızlı veri bağlantılarına duyulan ihtiyacı da artırıyor. Ancak duyurudaki protokol ve kullanım örnekleri araç odaklı; iş makinesi veya diğer off-highway uygulamalarındaki uyumluluk ayrıca doğrulanmalı.",
+      "seo_title": "TE Connectivity MINI FAKRA: 24 Gbps araç veri bağlantısı",
+      "meta_description": "TE Connectivity'nin MINI FAKRA sistemi, 9 GHz'e kadar RF performansı ve 24 Gbps veri hızını destekliyor; üretici yüzde 75'e kadar alan tasarrufu bildiriyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "TE Connectivity, TE MINI FAKRA koaksiyel konnektör sistemini piyasaya sundu.",
+        "Üreticinin belirttiği RF performansı 9 GHz'e, veri hızı 24 Gbps'ye kadar çıkıyor.",
+        "TE, sistemin standart FAKRA'ya kıyasla yüzde 75'e kadar daha az yer kapladığını söylüyor.",
+        "Sistem dünya çapında satışa sunuldu."
+      ],
+      "suggested_tags": [
+        "TE Connectivity",
+        "MINI FAKRA",
+        "koaksiyel konnektör",
+        "araç veri bağlantısı",
+        "elektronik"
+      ],
+      "suggested_sector": "elektrifikasyon",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektronik-telematik"
+      ],
+      "source_facts_used": [
+        "TE Connectivity'nin MINI FAKRA sistemini piyasaya sunduğu bilgisi",
+        "Kaynakta belirtilen 9 GHz RF performansı ve 24 Gbps veri hızı",
+        "Kaynakta sıralanan uygulama alanları ve desteklenen protokoller",
+        "Üreticinin alan kullanımı ve montaj özelliklerine ilişkin açıklamaları"
+      ],
+      "uncertainty_notes": [
+        "Teknik performans ve alan tasarrufu değerleri üretici açıklamasına dayanıyor; bağımsız doğrulama sunulmuyor.",
+        "Kaynak, sistemin off-highway veya iş makinesi uygulamalarında kullanıldığını belirtmiyor."
+      ],
+      "generated_at": "2026-10-26T20:25:02.696Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -878,7 +935,7 @@
   },
   {
     "id": "2940c508200cbed3",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "John Deere 648LIII Skidder Delivers Impressive Performance for Reforestation Operations",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/john-deere-648liii-skidder-delivers-impressive-performance-for-reforestation-operations/72586",
@@ -894,14 +951,41 @@
     "editorial_fit_score": 67,
     "summary_source": "New skidder configuration combines durability, hydraulic versatility and precision technology to support customers with soil preparation and planting operations....",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "John Deere 648LIII skidder için yeniden ağaçlandırma odaklı konfigürasyon",
+      "dek_tr": "Construction Equipment Guide, John Deere 648LIII skidder'ın toprak hazırlığı ve dikim operasyonlarına yönelik bir konfigürasyonunu aktarıyor. Haberin erişilebilen özetinde teknik özellik veya saha performansı verisi bulunmuyor.",
+      "summary_tr": "Construction Equipment Guide'ın başlık ve haber özetine göre John Deere 648LIII skidder için yeniden ağaçlandırma çalışmalarına yönelik bir konfigürasyon ele alınıyor. Özet, bu düzeni toprak hazırlığı ve dikim operasyonlarıyla ilişkilendiriyor.\n\nKaynak, hidrolik kullanım esnekliği ve hassasiyet teknolojisinden söz ediyor; ancak bileşenleri, teknik değerleri veya operasyon sonuçlarını açıklamıyor. Haberin tam metnine erişilemediği için makinenin konfigürasyonundaki değişiklikler ve uygulama ayrıntıları bu taslakta doğrulanamıyor.",
+      "why_it_matters_tr": "Orman makinelerinin yeniden ağaçlandırma ve saha hazırlığı işlerinde kullanımı, skidder'ların görev kapsamına ilişkin bir sektör başlığı sunuyor. Ancak kaynakta ölçülebilir performans ya da teknik konfigürasyon ayrıntısı olmadığından uygulamanın verim veya iş akışına etkisi değerlendirilemiyor.",
+      "seo_title": "John Deere 648LIII skidder için yeniden ağaçlandırma odağı",
+      "meta_description": "John Deere 648LIII skidder için toprak hazırlığı ve dikim operasyonlarına yönelik konfigürasyon haberi; erişilebilir kaynakta teknik ayrıntılar sınırlı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Kaynak başlığı, John Deere 648LIII skidder'ı konu alıyor.",
+        "Haber özeti konfigürasyonu toprak hazırlığı ve dikim operasyonlarıyla ilişkilendiriyor.",
+        "Özette hidrolik esneklik ve hassasiyet teknolojisinden söz ediliyor."
+      ],
+      "suggested_tags": [
+        "John Deere",
+        "648LIII",
+        "skidder",
+        "orman makineleri",
+        "yeniden ağaçlandırma"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "hidrolik"
+      ],
+      "source_facts_used": [
+        "Kaynak başlığında belirtilen John Deere 648LIII skidder modeli",
+        "Kaynak özetinde geçen toprak hazırlığı, dikim operasyonları, hidrolik esneklik ve hassasiyet teknolojisi"
+      ],
+      "uncertainty_notes": [
+        "Kaynağa HTTP 403 nedeniyle erişilemedi; taslak yalnızca başlık ve kısa özete dayanıyor.",
+        "Teknik konfigürasyon, hassasiyet teknolojisinin niteliği ve saha performansı için birincil üretici kaynağı doğrulaması gerekiyor."
+      ],
+      "generated_at": "2026-10-26T20:25:02.696Z",
+      "generated_by": "github-models"
     }
   },
   {
