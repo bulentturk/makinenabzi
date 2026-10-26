@@ -1547,7 +1547,7 @@
   },
   {
     "id": "4750669a03873e0b",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Zoomlion Türkiye, Platform Günleri 2026’da yeni nesil çözümlerini tanıttı",
     "source_name": "LHT",
     "source_url": "https://www.lht.com.tr/zoomlion-turkiye-platform-gunleri-2026da-yeni-nesil-cozumlerini-tanitti-2/",
@@ -1561,14 +1561,42 @@
     "editorial_fit_score": 65,
     "summary_source": "Zoomlion Türkiye, Platform Günleri 2026’da yeni nesil personel yükseltici platformları ve telehandler modellerini sektör profesyonelleriyle buluştururken, yeşil enerji, ileri teknoloji ve güvenli çalışma çözümlerini öne çıkardı. İş ve inşaat makineleri sektöründe ileri teknoloji odaklı ürün çözümleriyle faaliyetlerini sürdüren Zoomlion Türkiye, 17–19 Eylül 2026 tarihleri arasında İstanbul Tuzla Autodrom’da düzenlenen Platform Günleri Fuarı’na katıldı. Açık Alanda […]",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Zoomlion Türkiye, Platform Günleri 2026’da platform ve telehandler modellerini sergiledi",
+      "dek_tr": "Zoomlion Türkiye, 17–19 Eylül’de İstanbul Tuzla Autodrom’da düzenlenen fuarda personel yükseltici platformlarını ve telehandler modellerini tanıttı. Kaynakta sergilenen makineler için model adı veya teknik değer paylaşılmıyor.",
+      "summary_tr": "LHT’nin haberine göre Zoomlion Türkiye, Platform Günleri 2026’da makaslı ve eklemli personel yükseltici platformlarının yanı sıra telehandler modellerini sergiledi. Etkinlik, 17–19 Eylül tarihlerinde İstanbul Tuzla Autodrom’da gerçekleştirildi; şirketin açık alandaki standı 300 m² büyüklüğündeydi.\n\nHaberde platform ürün gamının elektrikli ve yeni enerji teknolojilerine sahip modeller içerdiği belirtiliyor. Ancak sergilenen belirli makinelerin model adları, enerji sistemleri ve teknik özellikleri açıklanmıyor.\n\nZoomlion Türkiye ekibi, fuar ziyaretçilerine ürünlerin özellikleri ve kullanım alanları hakkında bilgi verdi. Kaynakta görüşmelerin ve olası iş birliği fırsatlarının gündeme geldiği aktarılıyor; somut satış veya iş birliği sonucu bildirilmiyor.",
+      "why_it_matters_tr": "Personel yükseltici platformlar ve telehandler’lar inşaat, endüstri ve bakım sahalarında kullanılan farklı makine gruplarını bir araya getiriyor. Fuarda hangi modellerin sergilendiği ve yeni enerji çözümlerinin teknik farkı belirtilmediğinden, haber ürün performansı veya pazar etkisi hakkında değerlendirme yapmaya elverişli değil.",
+      "seo_title": "Zoomlion Türkiye, Platform Günleri 2026’da ürünlerini sergiledi",
+      "meta_description": "Zoomlion Türkiye, Platform Günleri 2026’da personel yükseltici platformlarını ve telehandler modellerini tanıttı. Haberde teknik model bilgileri paylaşılmadı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Platform Günleri 2026, 17–19 Eylül tarihlerinde İstanbul Tuzla Autodrom’da düzenlendi.",
+        "Zoomlion Türkiye, açık alanda 300 m² büyüklüğünde bir stantla fuara katıldı.",
+        "Sergilenen ürün grupları arasında makaslı ve eklemli personel yükseltici platformlar ile telehandler modelleri yer aldı.",
+        "Kaynakta sergilenen makineler için model adı veya sayısal teknik özellik paylaşılmadı."
+      ],
+      "suggested_tags": [
+        "Zoomlion",
+        "personel yükseltici platform",
+        "telehandler",
+        "Platform Günleri"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "LHT haberinde belirtilen fuar tarihleri, konumu ve stant alanı",
+        "Kaynakta sayılan platform ve telehandler ürün grupları",
+        "Kaynağın ürün gamında elektrikli ve yeni enerji teknolojilerine sahip modeller bulunduğu yönündeki açıklaması"
+      ],
+      "uncertainty_notes": [
+        "Girdi yalnızca LHT haberini içeriyor; üretici veya etkinlik organizatörünün birincil açıklaması sağlanmadığından etkinlik ve ürün bilgileri bağımsız biçimde doğrulanmadı.",
+        "Belirli modellerin enerji sistemi, kapasitesi ve diğer teknik özellikleri belirtilmiyor; enerji verimliliği, düşük ses ve çevresel etkilere ilişkin ifadeler kaynakta genel ürün grubu iddiaları olarak aktarılıyor."
+      ],
+      "generated_at": "2026-10-26T10:40:32.322Z",
+      "generated_by": "github-models"
     }
   },
   {
