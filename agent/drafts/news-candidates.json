@@ -929,7 +929,7 @@
   },
   {
     "id": "ae8b66053c909874",
-    "status": "drafted",
+    "status": "published",
     "title_original": "PIRTEK USA  2026 Growth with 12 New Territories, Five New Locations in Q3",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/pirtek-usa-2026-growth-with-12-new-territories-five-new-locations-in-q3/72545",
@@ -981,7 +981,9 @@
         "Teknik yenilik veya ölçülebilir operasyonel etki, verilen içerikten doğrulanamıyor."
       ],
       "generated_at": "2026-10-20T19:07:54.359Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "review_result": "auto_published",
+      "reviewed_at": "2026-10-26T12:55:39.096Z"
     }
   },
   {
