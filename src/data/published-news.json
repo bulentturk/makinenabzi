@@ -1,5 +1,38 @@
 [
   {
+    "id": "b2f6c6a5d98e60a1",
+    "slug": "te-connectivity-yuksek-hizli-arac-veri-baglantilari-icin-mini-fakra-sistemini-tanitti",
+    "title": "TE Connectivity, yüksek hızlı araç veri bağlantıları için MINI FAKRA sistemini tanıttı",
+    "dek": "Kompakt koaksiyel konnektör sistemi, 9 GHz'e kadar RF performansı ve 24 Gbps'ye kadar veri hızını destekliyor. TE Connectivity, standart FAKRA'ya kıyasla yüzde 75'e kadar daha az yer kapladığını belirtiyor.",
+    "summary": "TE Connectivity, bağlantılı, otomatik ve yazılım tanımlı araçlardaki veri iletimi için TE MINI FAKRA koaksiyel konnektör sistemini piyasaya sundu. Üreticiye göre sistem 9 GHz'e kadar RF performansı ve 24 Gbps'ye kadar veri hızını destekliyor.\n\nBelirtilen kullanım alanları arasında sürüş destek sistemleri, kamera sistemleri, dijital kokpit, anten modülleri ve V2X iletişimi bulunuyor. Sistem; GMSL2/3, FPD-Link III/IV, APIX3, MIPI ve ASA protokollerini destekliyor. TE, tasarımın standart FAKRA konnektöre göre yüzde 75'e kadar daha az alan gerektirdiğini ve montajda bağlantı sağlamlığını destekleyen özellikler içerdiğini bildiriyor.",
+    "why_it_matters": "Mobil makinelerde kamera, sensör ve iletişim sistemlerinin artması, sınırlı alan içinde yüksek hızlı veri bağlantılarına duyulan ihtiyacı da artırıyor. Ancak duyurudaki protokol ve kullanım örnekleri araç odaklı; iş makinesi veya diğer off-highway uygulamalarındaki uyumluluk ayrıca doğrulanmalı.",
+    "key_facts": [
+      "TE Connectivity, TE MINI FAKRA koaksiyel konnektör sistemini piyasaya sundu.",
+      "Üreticinin belirttiği RF performansı 9 GHz'e, veri hızı 24 Gbps'ye kadar çıkıyor.",
+      "TE, sistemin standart FAKRA'ya kıyasla yüzde 75'e kadar daha az yer kapladığını söylüyor.",
+      "Sistem dünya çapında satışa sunuldu."
+    ],
+    "format": "haber",
+    "sector": "elektrifikasyon",
+    "subsector": null,
+    "technologies": [
+      "elektronik-telematik"
+    ],
+    "tags": [
+      "TE Connectivity",
+      "MINI FAKRA",
+      "koaksiyel konnektör",
+      "araç veri bağlantısı",
+      "elektronik"
+    ],
+    "source_name": "Charged EVs",
+    "source_url": "https://chargedevs.com/newswire/te-connectivity-launches-te-mini-fakra-coaxial-connector-system-for-vehicle-data-links/",
+    "source_published_at": "2026-10-26T15:12:04.000Z",
+    "site_published_at": "2026-10-27T12:06:33.262Z",
+    "hero_image": "",
+    "publish_mode": "automatic"
+  },
+  {
     "id": "ae8b66053c909874",
     "slug": "pirtek-usa-2026-nin-ucuncu-ceyreginde-12-yeni-bolge-ve-bes-lokasyon-bildirdi",
     "title": "PIRTEK USA 2026'nın üçüncü çeyreğinde 12 yeni bölge ve beş lokasyon bildirdi",

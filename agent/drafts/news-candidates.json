@@ -258,7 +258,7 @@
   },
   {
     "id": "b2f6c6a5d98e60a1",
-    "status": "drafted",
+    "status": "published",
     "title_original": "TE Connectivity launches TE MINI FAKRA coaxial connector system for vehicle data links",
     "source_name": "Charged EVs",
     "source_url": "https://chargedevs.com/newswire/te-connectivity-launches-te-mini-fakra-coaxial-connector-system-for-vehicle-data-links/",
@@ -312,7 +312,9 @@
         "Kaynak, sistemin off-highway veya iş makinesi uygulamalarında kullanıldığını belirtmiyor."
       ],
       "generated_at": "2026-10-26T20:25:02.696Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "review_result": "auto_published",
+      "reviewed_at": "2026-10-27T12:06:33.262Z"
     }
   },
   {
