@@ -91,6 +91,34 @@
     }
   },
   {
+    "id": "eaf8fe4298a5a0f5",
+    "status": "candidate",
+    "title_original": "Jungheinrich begins production of EFG forklifts",
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/news/materials-handling/jungheinrich-begins-production-of-efg-forklifts.html",
+    "source_feed": "https://www.ivtinternational.com/feed",
+    "published_at": "2026-10-27T10:41:07.000Z",
+    "discovered_at": "2026-10-27T19:59:10.872Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "relevance_score": 158,
+    "editorial_fit_score": 67,
+    "summary_source": "Jungheinrich has begun production of its new EFG 2/2i and EFG 3/3i electric counterbalanced forklift trucks at its plant in Moosburg, Germany. The first machine in the series, an EFG [...] The post Jungheinrich begins production of EFG forklifts appeared first on Industrial Vehicle Technology International.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "476e8367e1ba0a7e",
     "status": "drafted",
     "title_original": "Bosch Rexroth and HydraForce to showcase compact hydraulic solutions at Bauma China",
@@ -699,6 +727,32 @@
       ],
       "generated_at": "2026-10-21T19:12:56.951Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "2282ef7a658939fa",
+    "status": "candidate",
+    "title_original": "BOMAG Upgrades RS 650-2 Recycler/Stabilizer With New Cab, Controls",
+    "source_name": "Equipment World",
+    "source_url": "https://www.equipmentworld.com/construction-equipment/article/15838270/bomag-rs-6502-recycler-gets-new-cab-controls",
+    "source_feed": "https://www.equipmentworld.com/feed/",
+    "published_at": "2026-10-27T16:05:00.000Z",
+    "discovered_at": "2026-10-27T19:59:11.094Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 145,
+    "editorial_fit_score": 65,
+    "summary_source": "The recycler/stabilizer gets a redesigned operator station, 7-inch touchscreen and expanded camera system for improved control...",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -1537,6 +1591,32 @@
     }
   },
   {
+    "id": "3a71f0891b49a9b6",
+    "status": "candidate",
+    "title_original": "First Yonge North Subway Extension TBM arrives",
+    "source_name": "Tunnels & Tunnelling",
+    "source_url": "https://www.tunnelsandtunnelling.com/news/first-yonge-north-subway-extension-tbm-arrives/",
+    "source_feed": "https://www.tunnelsandtunnelling.com/feed/",
+    "published_at": "2026-10-27T11:11:48.000Z",
+    "discovered_at": "2026-10-27T19:59:10.600Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 126,
+    "editorial_fit_score": 55,
+    "summary_source": "First Yonge North Subway Extension TBM arrives Excavation of the 10m-deep launch shaft was completed in July. The post First Yonge North Subway Extension TBM arrives appeared first on Tunnels and Tunnelling.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "676dee747be652a2",
     "status": "candidate",
     "title_original": "Tunnelling set to start on Bucharest Metro North Section",
@@ -1954,6 +2034,32 @@
       ],
       "generated_at": "2026-10-20T09:45:23.236Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "72eb4201c6b2ae67",
+    "status": "candidate",
+    "title_original": "Latest Zoomlion tractor peaks at 1,600hp",
+    "source_name": "profi",
+    "source_url": "https://www.profi.co.uk/news/latest-zoomlion-tractor-peaks-at-1600hp/",
+    "source_feed": "https://www.profi.co.uk/feed/",
+    "published_at": "2026-10-27T14:44:27.000Z",
+    "discovered_at": "2026-10-27T19:59:11.334Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 115,
+    "editorial_fit_score": 55,
+    "summary_source": "The Zoomlion 9DX is one of the show stoppers at this week’s CIAME (International Agricultural Machinery Exhibition), in Tianjin, China. The post Latest Zoomlion tractor peaks at 1,600hp appeared first on Profi.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
