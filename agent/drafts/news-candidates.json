@@ -1333,7 +1333,7 @@
   },
   {
     "id": "430c6fecade56941",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Cherry On Top: ALL's New Liebherr LTM 1400-6.1 Sets Observation Deck Atop Auburn's New Airport Control Tower",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/cherry-on-top-alls-new-liebherr-ltm-140061-sets-observation-deck-atop-auburns-new-airport-control-tower/72589",
@@ -1347,14 +1347,41 @@
     "editorial_fit_score": 65,
     "summary_source": "ALL Crane Rental of Georgia used its new Liebherr LTM 1400-6.1 to lift a 94,000-pound observation deck onto Auburn University Regional Airport’s new control tower. Careful planning, specialized rigging and an eight-person ironworker crew helped complete the five-hour lift....",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Liebherr LTM 1400-6.1, Auburn Havalimanı kontrol kulesine gözlem terası kaldırdı",
+      "dek_tr": "ALL Crane Rental of Georgia, 94.000 pound ağırlığındaki gözlem terasını Auburn Üniversitesi Bölgesel Havalimanı’nın yeni kontrol kulesine yerleştirmek için yeni Liebherr LTM 1400-6.1’i kullandı. Kaldırma çalışması beş saat sürdü.",
+      "summary_tr": "Construction Equipment Guide’ın haber özetine göre ALL Crane Rental of Georgia, Auburn Üniversitesi Bölgesel Havalimanı’nın yeni kontrol kulesine bir gözlem terası kaldırdı. Terasın ağırlığı 94.000 pound olarak veriliyor; kaldırmada şirketin yeni Liebherr LTM 1400-6.1 mobil vinci kullanıldı.\n\nÇalışma için özel rigging düzeni ve planlama yapıldığı, sekiz kişilik demir işçisi ekibinin görev aldığı aktarılıyor. Kaynakta vincin kaldırma konfigürasyonu veya saha koşullarına ilişkin teknik ayrıntı bulunmuyor.",
+      "why_it_matters_tr": "Örnek, mobil vinçlerin havalimanı altyapı projelerindeki ağır ve hassas montaj işlerinde kullanımını gösteriyor. Benzer kaldırmalarda vinç seçimi kadar yük düzeni, erişim ve saha planlaması da belirleyici olabilir.",
+      "seo_title": "Liebherr LTM 1400-6.1 ile havalimanı kulesine ağır kaldırma",
+      "meta_description": "ALL Crane Rental of Georgia, Liebherr LTM 1400-6.1 ile Auburn havalimanının yeni kontrol kulesine 94.000 poundluk gözlem terası kaldırdı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Kaldırılan gözlem terasının ağırlığı kaynakta 94.000 pound olarak belirtiliyor.",
+        "Kaldırmada ALL Crane Rental of Georgia’nın yeni Liebherr LTM 1400-6.1 vinci kullanıldı.",
+        "Kaldırma işleminin beş saat sürdüğü ve sekiz kişilik demir işçisi ekibinin görev aldığı aktarılıyor.",
+        "Çalışma Auburn Üniversitesi Bölgesel Havalimanı’nın yeni kontrol kulesinde gerçekleştirildi."
+      ],
+      "suggested_tags": [
+        "Liebherr",
+        "LTM 1400-6.1",
+        "mobil vinç",
+        "ağır kaldırma",
+        "havalimanı altyapısı"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Haber özetindeki vinç modeli, işletmeci ve kaldırma uygulaması",
+        "Gözlem terası için verilen 94.000 pound ağırlık",
+        "Beş saatlik çalışma süresi, özel rigging ve sekiz kişilik ekip bilgisi"
+      ],
+      "uncertainty_notes": [
+        "Kaynağa erişim 403 hatasıyla engellendi; taslak yalnızca girdi içindeki haber özeti ve başlık bilgilerine dayanıyor.",
+        "Vinç konfigürasyonu, kaldırma yarıçapı ve üretici teknik verileri kaynak içeriğinde yer almıyor."
+      ],
+      "generated_at": "2026-10-27T10:09:14.886Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -1561,7 +1588,7 @@
   },
   {
     "id": "f87bba8d79f94220",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Komatsu, tiltrotator uyumlu PC200i-12 ekskavatörünü kullanıma sundu",
     "source_name": "Makina Market",
     "source_url": "https://makina-market.com.tr/komatsu-tiltrotator-uyumlu-pc200i-12-ekskavatorunu-kullanima-sundu/",
@@ -1577,14 +1604,44 @@
     "editorial_fit_score": 67,
     "summary_source": "Komatsu, 20 ton sınıfındaki PC200i-12 hidrolik ekskavatörünü üç önde gelen tiltrotator üreticisinin ekipmanlarıyla uyumlu olacak ve markanın kendine… The post Komatsu, tiltrotator uyumlu PC200i-12 ekskavatörünü kullanıma sundu first appeared on Makina Market.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Komatsu PC200i-12, tiltrotator ve 3D makine kontrolünü destekliyor",
+      "dek_tr": "Komatsu, 20 ton sınıfındaki PC200i-12 ekskavatörü üç tiltrotator üreticisinin ekipmanlarıyla uyumlu olacak şekilde geliştirdi. Model, Komatsu’nun 3D makine kontrolü işlevlerini de destekliyor.",
+      "summary_tr": "Makina Market’in aktardığına göre Komatsu PC200i-12, üç önde gelen tiltrotator üreticisinin ekipmanlarıyla uyumlu çalışacak şekilde tasarlandı. Model ayrıca Komatsu’nun 3D makine kontrolü (3DMC) işlevlerini destekliyor.\n\nKaynak, bu uyumun karmaşık tiltrotator operasyonlarında operatör iş yükünü azaltmayı ve çalışma hassasiyetini desteklemeyi amaçladığını belirtiyor. Üretici veya uyumlu ekipmanların model bazındaki teknik ayrıntıları verilen içerikte yer almıyor.",
+      "why_it_matters_tr": "Tiltrotator ile 3D makine kontrolünün birlikte kullanımı, ekskavatörün farklı ataşman ve çalışma açılarına uyarlanmasını kolaylaştırabilir. Ancak sahadaki verim ve hassasiyet etkisini değerlendirmek için uygulama verileri gerekir.",
+      "seo_title": "Komatsu PC200i-12 tiltrotator ve 3DMC uyumuyla tanıtıldı",
+      "meta_description": "Komatsu PC200i-12, üç tiltrotator üreticisinin ekipmanlarıyla uyum ve 3D makine kontrolü desteğiyle 20 ton sınıfında konumlanıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "PC200i-12, 20 ton sınıfında bir hidrolik ekskavatör olarak tanımlanıyor.",
+        "Kaynağa göre model, üç tiltrotator üreticisinin ekipmanlarıyla uyumlu.",
+        "Model, Komatsu’nun 3D makine kontrolü (3DMC) işlevlerini destekliyor."
+      ],
+      "suggested_tags": [
+        "Komatsu",
+        "PC200i-12",
+        "ekskavatör",
+        "tiltrotator",
+        "3D makine kontrolü"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "hidrolik",
+        "elektronik-telematik"
+      ],
+      "source_facts_used": [
+        "Makina Market açıklamasındaki 20 ton sınıfı bilgisi",
+        "Üç tiltrotator üreticisiyle uyumluluk ve Komatsu 3DMC desteği",
+        "Operatör iş yükü ve çalışma hassasiyetine yönelik belirtilen amaç"
+      ],
+      "uncertainty_notes": [
+        "Girdi içindeki source_text, PC200i-12 haberi yerine Finlay I-120 başlığını içeriyor; teknik taslak sayfa açıklamasındaki bilgilerle sınırlı tutuldu.",
+        "Birincil üretici duyurusu ve uyumlu tiltrotator marka/model listesi girdide bulunmuyor; uyumluluk iddiası ayrıca doğrulanmalı.",
+        "Hassasiyet ve iş yüküne ilişkin etkiler kaynakta amaç olarak sunuluyor; bağımsız saha verisi verilmemiş."
+      ],
+      "generated_at": "2026-10-27T10:09:14.886Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -1693,7 +1750,7 @@
   },
   {
     "id": "c2d8bf3dc5d6adae",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Zoomlion Türkiye, Platform Günleri 2026’da yeni nesil çözümlerini tanıttı",
     "source_name": "Makina Market",
     "source_url": "https://makina-market.com.tr/zoomlion-turkiye-platform-gunleri-2026da-yeni-nesil-cozumlerini-tanitti/",
@@ -1707,14 +1764,41 @@
     "editorial_fit_score": 65,
     "summary_source": "Zoomlion Türkiye, Platform Günleri 2026’da yeni nesil personel yükseltici platformları ve telehandler modellerini sektör profesyonelleriyle buluştururken, yeşil enerji,… The post Zoomlion Türkiye, Platform Günleri 2026’da yeni nesil çözümlerini tanıttı first appeared on Makina Market.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Zoomlion Türkiye, Platform Günleri 2026’da personel platformları ve telehandler’ları sergiledi",
+      "dek_tr": "Zoomlion Türkiye, 17–19 Eylül 2026’da İstanbul Tuzla Autodrom’da düzenlenen Platform Günleri’ne personel yükseltici platformlar ve telehandler modelleriyle katıldı. Kaynak, etkinlikte yeşil enerji, teknoloji ve güvenli çalışma çözümlerinin öne çıkarıldığını belirtiyor.",
+      "summary_tr": "Makina Market’in aktardığına göre Zoomlion Türkiye, 17–19 Eylül 2026 tarihlerinde İstanbul Tuzla Autodrom’da düzenlenen Platform Günleri 2026’da personel yükseltici platformlarını ve telehandler modellerini tanıttı.\n\nKaynak etkinlikte yeşil enerji, ileri teknoloji ve güvenli çalışma çözümlerinin vurgulandığını bildiriyor; ancak sergilenen ürünlerin model adları, enerji sistemleri veya teknik özellikleri verilen içerikte açıklanmıyor.",
+      "why_it_matters_tr": "Personel platformları ve telehandler’lar şantiye erişimi ile malzeme elleçlemede kullanılan farklı makine gruplarıdır. Modellerin teknik verileri paylaşılmadığından, etkinlik duyurusu ürün performansı veya elektrifikasyon düzeyi hakkında karşılaştırma yapmaya yetmiyor.",
+      "seo_title": "Zoomlion Türkiye Platform Günleri 2026’ya katıldı",
+      "meta_description": "Zoomlion Türkiye, Tuzla’da düzenlenen Platform Günleri 2026’da personel yükseltici platformlarını ve telehandler modellerini tanıttı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Zoomlion Türkiye, Platform Günleri 2026’ya katıldı.",
+        "Etkinlik 17–19 Eylül 2026’da İstanbul Tuzla Autodrom’da düzenlendi.",
+        "Kaynak, personel yükseltici platformlar ve telehandler modellerinin tanıtıldığını belirtiyor.",
+        "Kaynakta yeşil enerji, ileri teknoloji ve güvenli çalışma çözümlerinin öne çıkarıldığı aktarılıyor."
+      ],
+      "suggested_tags": [
+        "Zoomlion",
+        "Platform Günleri 2026",
+        "personel yükseltici platform",
+        "telehandler",
+        "Tuzla"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Makina Market açıklamasındaki etkinlik tarihleri ve Tuzla Autodrom konumu",
+        "Personel yükseltici platformlar ile telehandler modellerinin tanıtıldığı bilgisi",
+        "Yeşil enerji, ileri teknoloji ve güvenli çalışma çözümlerine yapılan genel vurgu"
+      ],
+      "uncertainty_notes": [
+        "Girdi içinde üretici açıklaması veya ürünlerin model ve teknik özellikleri bulunmuyor.",
+        "Yeşil enerji vurgusu, belirli bir elektrikli model ya da doğrulanmış enerji teknolojisi anlamına gelecek ayrıntıda değil."
+      ],
+      "generated_at": "2026-10-27T10:09:14.886Z",
+      "generated_by": "github-models"
     }
   },
   {
