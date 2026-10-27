@@ -3,444 +3,444 @@
     "source": "International Mining",
     "url": "https://im-mining.com/feed/",
     "ok": true,
-    "duration_ms": 1190,
+    "duration_ms": 1320,
     "feed_items_seen": 12,
     "items_in_window": 12,
     "relevant_items": 3,
-    "candidates_found": 0,
+    "candidates_found": 1,
     "error": null,
-    "checked_at": "2026-10-26T20:24:04.247Z"
+    "checked_at": "2026-10-27T10:08:14.440Z"
   },
   {
     "source": "Port Strategy",
     "url": "https://www.portstrategy.com/feed",
     "ok": true,
-    "duration_ms": 5868,
+    "duration_ms": 5779,
     "feed_items_seen": 10,
     "items_in_window": 3,
     "relevant_items": 0,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-26T20:24:04.247Z"
+    "checked_at": "2026-10-27T10:08:14.440Z"
   },
   {
     "source": "Construction Equipment Guide",
     "url": "https://feeds.feedburner.com/ceg",
     "ok": true,
-    "duration_ms": 271,
+    "duration_ms": 313,
     "feed_items_seen": 15,
-    "items_in_window": 8,
+    "items_in_window": 9,
     "relevant_items": 3,
-    "candidates_found": 3,
+    "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-26T20:24:04.247Z"
+    "checked_at": "2026-10-27T10:08:14.440Z"
   },
   {
     "source": "Tunnels & Tunnelling",
     "url": "https://www.tunnelsandtunnelling.com/feed/",
     "ok": true,
-    "duration_ms": 242,
+    "duration_ms": 340,
     "feed_items_seen": 10,
-    "items_in_window": 7,
-    "relevant_items": 2,
-    "candidates_found": 1,
+    "items_in_window": 4,
+    "relevant_items": 1,
+    "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-26T20:24:04.247Z"
+    "checked_at": "2026-10-27T10:08:14.440Z"
   },
   {
     "source": "electrive",
     "url": "https://www.electrive.com/feed/",
     "ok": true,
-    "duration_ms": 721,
+    "duration_ms": 638,
     "feed_items_seen": 15,
     "items_in_window": 15,
     "relevant_items": 0,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-26T20:24:04.247Z"
+    "checked_at": "2026-10-27T10:08:14.440Z"
   },
   {
     "source": "iVT International",
     "url": "https://www.ivtinternational.com/feed",
     "ok": true,
-    "duration_ms": 800,
+    "duration_ms": 839,
     "feed_items_seen": 10,
-    "items_in_window": 2,
+    "items_in_window": 3,
     "relevant_items": 1,
-    "candidates_found": 1,
+    "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-26T20:24:04.247Z"
+    "checked_at": "2026-10-27T10:08:14.440Z"
   },
   {
     "source": "Charged EVs",
     "url": "https://chargedevs.com/feed/",
     "ok": true,
-    "duration_ms": 376,
+    "duration_ms": 319,
     "feed_items_seen": 10,
     "items_in_window": 10,
     "relevant_items": 1,
-    "candidates_found": 1,
+    "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-26T20:24:04.247Z"
+    "checked_at": "2026-10-27T10:08:14.440Z"
   },
   {
     "source": "Teknikport",
     "url": "https://www.teknikport.com/feed/",
     "ok": true,
-    "duration_ms": 2764,
+    "duration_ms": 2660,
     "feed_items_seen": 10,
     "items_in_window": 0,
     "relevant_items": 0,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-26T20:24:04.247Z"
+    "checked_at": "2026-10-27T10:08:14.440Z"
   },
   {
     "source": "Marine Industry News",
     "url": "https://marineindustrynews.co.uk/feed/",
     "ok": true,
-    "duration_ms": 1099,
+    "duration_ms": 1068,
     "feed_items_seen": 10,
-    "items_in_window": 10,
+    "items_in_window": 7,
     "relevant_items": 0,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-26T20:24:04.247Z"
+    "checked_at": "2026-10-27T10:08:14.440Z"
   },
   {
     "source": "Marine Industry News Electric Boats",
     "url": "https://marineindustrynews.co.uk/tag/electric-boats/feed/",
     "ok": true,
-    "duration_ms": 2093,
+    "duration_ms": 1640,
     "feed_items_seen": 10,
-    "items_in_window": 1,
+    "items_in_window": 0,
     "relevant_items": 0,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-26T20:24:04.247Z"
+    "checked_at": "2026-10-27T10:08:14.440Z"
   },
   {
     "source": "Passenger Terminal Today",
     "url": "https://www.passengerterminaltoday.com/feed/",
     "ok": true,
-    "duration_ms": 3826,
+    "duration_ms": 3998,
     "feed_items_seen": 10,
-    "items_in_window": 9,
+    "items_in_window": 8,
     "relevant_items": 0,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-26T20:24:04.247Z"
+    "checked_at": "2026-10-27T10:08:14.440Z"
   },
   {
     "source": "Powertrain International Off-Highway",
     "url": "https://www.powertraininternationalweb.com/category/off-highway/feed/",
     "ok": true,
-    "duration_ms": 1417,
+    "duration_ms": 1545,
     "feed_items_seen": 10,
     "items_in_window": 0,
     "relevant_items": 0,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-26T20:24:04.247Z"
+    "checked_at": "2026-10-27T10:08:14.440Z"
   },
   {
     "source": "Powertrain International Marine",
     "url": "https://www.powertraininternationalweb.com/category/marine/feed/",
     "ok": true,
-    "duration_ms": 1429,
+    "duration_ms": 1522,
     "feed_items_seen": 10,
     "items_in_window": 0,
     "relevant_items": 0,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-26T20:24:04.247Z"
+    "checked_at": "2026-10-27T10:08:14.440Z"
   },
   {
     "source": "Equipment World",
     "url": "https://www.equipmentworld.com/feed/",
     "ok": true,
-    "duration_ms": 1223,
+    "duration_ms": 1256,
     "feed_items_seen": 10,
     "items_in_window": 7,
     "relevant_items": 0,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-26T20:24:04.247Z"
+    "checked_at": "2026-10-27T10:08:14.440Z"
   },
   {
     "source": "Global Mining Review",
     "url": "https://www.globalminingreview.com/rss/globalminingreview.xml",
     "ok": false,
-    "duration_ms": 1226,
+    "duration_ms": 1368,
     "feed_items_seen": 0,
     "items_in_window": 0,
     "relevant_items": 0,
     "candidates_found": 0,
     "error": "HTTP 404",
-    "checked_at": "2026-10-26T20:24:04.247Z"
+    "checked_at": "2026-10-27T10:08:14.440Z"
   },
   {
     "source": "MINING.COM",
     "url": "https://mining.com/feed/",
     "ok": false,
-    "duration_ms": 1132,
+    "duration_ms": 1308,
     "feed_items_seen": 0,
     "items_in_window": 0,
     "relevant_items": 0,
     "candidates_found": 0,
     "error": "HTTP 403",
-    "checked_at": "2026-10-26T20:24:04.247Z"
+    "checked_at": "2026-10-27T10:08:14.440Z"
   },
   {
     "source": "Container News",
     "url": "https://container-news.com/feed/",
     "ok": true,
-    "duration_ms": 2253,
+    "duration_ms": 2352,
     "feed_items_seen": 10,
     "items_in_window": 10,
     "relevant_items": 0,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-26T20:24:04.247Z"
+    "checked_at": "2026-10-27T10:08:14.440Z"
   },
   {
     "source": "Future Farming",
     "url": "https://www.futurefarming.com/feed/",
     "ok": true,
-    "duration_ms": 2159,
+    "duration_ms": 2216,
     "feed_items_seen": 15,
     "items_in_window": 2,
     "relevant_items": 0,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-26T20:24:04.247Z"
+    "checked_at": "2026-10-27T10:08:14.440Z"
   },
   {
     "source": "profi",
     "url": "https://www.profi.co.uk/feed/",
     "ok": true,
-    "duration_ms": 1287,
+    "duration_ms": 2133,
     "feed_items_seen": 10,
-    "items_in_window": 7,
-    "relevant_items": 1,
+    "items_in_window": 6,
+    "relevant_items": 0,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-26T20:24:04.247Z"
+    "checked_at": "2026-10-27T10:08:14.440Z"
   },
   {
     "source": "The Maritime Executive",
     "url": "https://maritime-executive.com/articles.rss",
     "ok": true,
-    "duration_ms": 1265,
+    "duration_ms": 1350,
     "feed_items_seen": 15,
     "items_in_window": 15,
     "relevant_items": 0,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-26T20:24:04.247Z"
+    "checked_at": "2026-10-27T10:08:14.440Z"
   },
   {
     "source": "Marine Insight",
     "url": "https://www.marineinsight.com/feed/",
     "ok": true,
-    "duration_ms": 1370,
+    "duration_ms": 1439,
     "feed_items_seen": 15,
     "items_in_window": 15,
     "relevant_items": 0,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-26T20:24:04.247Z"
+    "checked_at": "2026-10-27T10:08:14.440Z"
   },
   {
     "source": "Airport Suppliers",
     "url": "https://www.airport-suppliers.com/feed/",
     "ok": true,
-    "duration_ms": 2396,
+    "duration_ms": 2589,
     "feed_items_seen": 10,
     "items_in_window": 2,
     "relevant_items": 0,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-26T20:24:04.247Z"
+    "checked_at": "2026-10-27T10:08:14.440Z"
   },
   {
     "source": "Fluid Power Journal",
     "url": "https://www.fluidpowerjournal.com/feed/",
     "ok": false,
-    "duration_ms": 1382,
+    "duration_ms": 1474,
     "feed_items_seen": 0,
     "items_in_window": 0,
     "relevant_items": 0,
     "candidates_found": 0,
     "error": "HTTP 403",
-    "checked_at": "2026-10-26T20:24:04.247Z"
+    "checked_at": "2026-10-27T10:08:14.440Z"
   },
   {
     "source": "Sanayi Gazetesi",
     "url": "https://sanayigazetesi.com.tr/feed/",
     "ok": true,
-    "duration_ms": 1769,
+    "duration_ms": 1965,
     "feed_items_seen": 10,
     "items_in_window": 10,
     "relevant_items": 0,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-26T20:24:04.247Z"
+    "checked_at": "2026-10-27T10:08:14.440Z"
   },
   {
     "source": "İMDER",
     "url": "https://imder.org.tr/feed/",
     "ok": true,
-    "duration_ms": 2975,
+    "duration_ms": 2339,
     "feed_items_seen": 10,
     "items_in_window": 0,
     "relevant_items": 0,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-26T20:24:04.247Z"
+    "checked_at": "2026-10-27T10:08:14.440Z"
   },
   {
     "source": "Makina Market",
     "url": "https://makina-market.com.tr/feed/",
-    "ok": false,
-    "duration_ms": 12000,
-    "feed_items_seen": 0,
-    "items_in_window": 0,
-    "relevant_items": 0,
-    "candidates_found": 0,
-    "error": "The operation was aborted due to timeout",
-    "checked_at": "2026-10-26T20:24:04.247Z"
+    "ok": true,
+    "duration_ms": 3349,
+    "feed_items_seen": 10,
+    "items_in_window": 8,
+    "relevant_items": 3,
+    "candidates_found": 3,
+    "error": null,
+    "checked_at": "2026-10-27T10:08:14.440Z"
   },
   {
     "source": "LHT",
     "url": "https://www.lht.com.tr/feed/",
     "ok": true,
-    "duration_ms": 3195,
+    "duration_ms": 4156,
     "feed_items_seen": 10,
     "items_in_window": 2,
     "relevant_items": 2,
-    "candidates_found": 1,
+    "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-26T20:24:04.247Z"
+    "checked_at": "2026-10-27T10:08:14.440Z"
   },
   {
     "source": "PLATFORMDER",
     "url": "https://www.platformder.org.tr/feed/",
     "ok": true,
-    "duration_ms": 3825,
+    "duration_ms": 4446,
     "feed_items_seen": 10,
     "items_in_window": 0,
     "relevant_items": 0,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-26T20:24:04.247Z"
+    "checked_at": "2026-10-27T10:08:14.440Z"
   },
   {
     "source": "Getman",
     "url": "https://getman.com/category/news-announcements/feed/",
     "ok": true,
-    "duration_ms": 3568,
+    "duration_ms": 3406,
     "feed_items_seen": 5,
     "items_in_window": 0,
     "relevant_items": 0,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-26T20:24:04.247Z"
+    "checked_at": "2026-10-27T10:08:14.440Z"
   },
   {
     "source": "Madencilik Türkiye",
     "url": "https://madencilikturkiye.com/feed/",
     "ok": true,
-    "duration_ms": 2780,
+    "duration_ms": 2924,
     "feed_items_seen": 10,
     "items_in_window": 2,
     "relevant_items": 0,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-26T20:24:04.247Z"
+    "checked_at": "2026-10-27T10:08:14.440Z"
   },
   {
     "source": "Türkiye Madenciler Derneği",
     "url": "https://turkiyemadencilerdernegi.org.tr/feed/",
     "ok": true,
-    "duration_ms": 3263,
+    "duration_ms": 3370,
     "feed_items_seen": 10,
     "items_in_window": 0,
     "relevant_items": 0,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-26T20:24:04.247Z"
+    "checked_at": "2026-10-27T10:08:14.440Z"
   },
   {
     "source": "Vinç & Platform",
     "url": "https://vincveplatform.com/feed/",
     "ok": true,
-    "duration_ms": 2741,
+    "duration_ms": 3013,
     "feed_items_seen": 10,
     "items_in_window": 1,
     "relevant_items": 1,
-    "candidates_found": 1,
+    "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-26T20:24:04.247Z"
+    "checked_at": "2026-10-27T10:08:14.440Z"
   },
   {
     "source": "TARMAKBİR",
     "url": "https://tarmakbir.org/feed/",
     "ok": true,
-    "duration_ms": 3577,
+    "duration_ms": 3915,
     "feed_items_seen": 10,
     "items_in_window": 0,
     "relevant_items": 0,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-26T20:24:04.247Z"
+    "checked_at": "2026-10-27T10:08:14.440Z"
   },
   {
     "source": "TARMAKDER",
     "url": "https://tarmakder.org.tr/feed/",
     "ok": true,
-    "duration_ms": 3547,
+    "duration_ms": 3655,
     "feed_items_seen": 10,
     "items_in_window": 0,
     "relevant_items": 0,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-26T20:24:04.247Z"
+    "checked_at": "2026-10-27T10:08:14.440Z"
   },
   {
     "source": "YATED",
     "url": "https://yated.org.tr/feed/",
     "ok": true,
-    "duration_ms": 5925,
+    "duration_ms": 5970,
     "feed_items_seen": 10,
     "items_in_window": 1,
     "relevant_items": 0,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-26T20:24:04.247Z"
+    "checked_at": "2026-10-27T10:08:14.440Z"
   },
   {
     "source": "ARÜSDER",
     "url": "https://www.arusder.org.tr/feed/",
     "ok": true,
-    "duration_ms": 6542,
+    "duration_ms": 7058,
     "feed_items_seen": 10,
     "items_in_window": 0,
     "relevant_items": 0,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-26T20:24:04.247Z"
+    "checked_at": "2026-10-27T10:08:14.440Z"
   },
   {
     "source": "Boom Makina",
     "url": "https://boom.com.tr/feed/",
     "ok": true,
-    "duration_ms": 6823,
+    "duration_ms": 4709,
     "feed_items_seen": 5,
     "items_in_window": 0,
     "relevant_items": 0,
     "candidates_found": 0,
     "error": null,
-    "checked_at": "2026-10-26T20:24:04.247Z"
+    "checked_at": "2026-10-27T10:08:14.440Z"
   }
 ]
