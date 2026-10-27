@@ -92,7 +92,7 @@
   },
   {
     "id": "eaf8fe4298a5a0f5",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Jungheinrich begins production of EFG forklifts",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/materials-handling/jungheinrich-begins-production-of-efg-forklifts.html",
@@ -108,14 +108,39 @@
     "editorial_fit_score": 67,
     "summary_source": "Jungheinrich has begun production of its new EFG 2/2i and EFG 3/3i electric counterbalanced forklift trucks at its plant in Moosburg, Germany. The first machine in the series, an EFG [...] The post Jungheinrich begins production of EFG forklifts appeared first on Industrial Vehicle Technology International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Jungheinrich, EFG elektrikli forkliftlerin üretimine başladı",
+      "dek_tr": "Jungheinrich, EFG 2/2i ve EFG 3/3i serisi elektrikli forkliftleri Almanya’daki Moosburg tesisinde üretmeye başladı. Kaynak özeti, modeller için 2 tona kadar taşıma kapasitesi bildiriyor.",
+      "summary_tr": "iVT International’ın haber özetine göre Jungheinrich, EFG 2/2i ve EFG 3/3i elektrikli karşı ağırlıklı forkliftlerin üretimine Moosburg tesisinde başladı.\n\nKaynakta serinin ilk makinesinin üretildiği belirtiliyor. Taşıma kapasitesi için verilen üst sınır 2 ton; model bazında kapasite dağılımı paylaşılmıyor.",
+      "why_it_matters_tr": "Elektrikli karşı ağırlıklı forkliftler, depo ve malzeme elleçleme operasyonlarında kullanılan mobil ekipmanlar arasında yer alıyor. Yeni serinin teknik özellikleri ve uygulama farkları mevcut kaynakta sınırlı olduğundan, ürünün operasyonel etkisini değerlendirmek için ek bilgi gerekiyor.",
+      "seo_title": "Jungheinrich EFG 2/2i ve 3/3i üretimi başladı",
+      "meta_description": "Jungheinrich, EFG 2/2i ve EFG 3/3i elektrikli karşı ağırlıklı forkliftlerin üretimine Moosburg tesisinde başladı; kaynak 2 tona kadar kapasite bildiriyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "EFG 2/2i ve EFG 3/3i forkliftlerin üretimi Moosburg tesisinde başladı.",
+        "Modeller elektrikli karşı ağırlıklı forkliftler olarak tanımlanıyor.",
+        "Kaynak özeti 2 tona kadar taşıma kapasitesi bildiriyor."
+      ],
+      "suggested_tags": [
+        "Jungheinrich",
+        "elektrikli forklift",
+        "malzeme elleçleme",
+        "EFG"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "iVT International kaynak özetinde üretimin Moosburg tesisinde başladığı ve EFG 2/2i ile EFG 3/3i modellerinin elektrikli karşı ağırlıklı forkliftler olduğu belirtiliyor.",
+        "Sayfa açıklamasında taşıma kapasitesi 2 tona kadar olarak veriliyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak metninin tam içeriği mevcut değil; kapasite bilgisi ve model bazındaki teknik ayrıntılar birincil üretici kaynağından doğrulanmalı."
+      ],
+      "generated_at": "2026-10-27T20:00:00.962Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -731,7 +756,7 @@
   },
   {
     "id": "2282ef7a658939fa",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "BOMAG Upgrades RS 650-2 Recycler/Stabilizer With New Cab, Controls",
     "source_name": "Equipment World",
     "source_url": "https://www.equipmentworld.com/construction-equipment/article/15838270/bomag-rs-6502-recycler-gets-new-cab-controls",
@@ -745,14 +770,39 @@
     "editorial_fit_score": 65,
     "summary_source": "The recycler/stabilizer gets a redesigned operator station, 7-inch touchscreen and expanded camera system for improved control...",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "BOMAG RS 650-2 geri dönüşüm makinesi yeni kabin ve kontrollerle güncellendi",
+      "dek_tr": "Equipment World özetine göre BOMAG RS 650-2 geri dönüşüm ve zemin stabilizasyon makinesi, yeniden tasarlanan operatör istasyonu, 7 inç dokunmatik ekran ve genişletilmiş kamera sistemiyle güncellendi.",
+      "summary_tr": "Equipment World’ün haber başlığı ve kısa özetinde BOMAG RS 650-2 recycler/stabilizer modelinin operatör istasyonu ile kontrollerinde güncellemeler bildiriliyor.\n\nÖzette yeni kabin tasarımı, 7 inç dokunmatik ekran ve genişletilmiş kamera sistemi sayılıyor. Kaynak metninin tamamına erişilemediği için güncellemelerin kapsamı ve makinenin diğer teknik özellikleri bu bilgilerle sınırlı.",
+      "why_it_matters_tr": "Operatör istasyonu, ekran ve kamera sistemindeki değişiklikler makinenin kullanım arayüzü ve çevre görünürlüğüyle ilgili olabilir. Ancak kaynak, bu güncellemelerin çalışma performansına veya güvenliğe etkisini ölçen veri sunmuyor.",
+      "seo_title": "BOMAG RS 650-2 yeni kabin ve kontrollerle güncellendi",
+      "meta_description": "BOMAG RS 650-2 için yeni operatör istasyonu, 7 inç dokunmatik ekran ve genişletilmiş kamera sistemi bildirildi. Teknik kapsam kaynakta sınırlı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Güncellenen model BOMAG RS 650-2 recycler/stabilizer olarak belirtiliyor.",
+        "Kaynak özeti yeniden tasarlanmış bir operatör istasyonundan söz ediyor.",
+        "Özette 7 inç dokunmatik ekran ve genişletilmiş kamera sistemi yer alıyor."
+      ],
+      "suggested_tags": [
+        "BOMAG",
+        "RS 650-2",
+        "zemin stabilizasyonu",
+        "operatör kabini"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektronik-telematik"
+      ],
+      "source_facts_used": [
+        "Equipment World haber başlığı RS 650-2 modelinde kabin ve kontrollerin güncellendiğini belirtiyor.",
+        "Kaynak özeti yeniden tasarlanmış operatör istasyonu, 7 inç dokunmatik ekran ve genişletilmiş kamera sistemi bildiriyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynağa erişim HTTP 403 nedeniyle sınırlı; güncellemelerin kapsamı, teknik etkisi ve üretici açıklaması birincil kaynaktan doğrulanmalı."
+      ],
+      "generated_at": "2026-10-27T20:00:00.962Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -1592,7 +1642,7 @@
   },
   {
     "id": "3a71f0891b49a9b6",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "First Yonge North Subway Extension TBM arrives",
     "source_name": "Tunnels & Tunnelling",
     "source_url": "https://www.tunnelsandtunnelling.com/news/first-yonge-north-subway-extension-tbm-arrives/",
@@ -1606,14 +1656,38 @@
     "editorial_fit_score": 55,
     "summary_source": "First Yonge North Subway Extension TBM arrives Excavation of the 10m-deep launch shaft was completed in July. The post First Yonge North Subway Extension TBM arrives appeared first on Tunnels and Tunnelling.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Yonge North Subway Extension için ilk TBM sahaya ulaştı",
+      "dek_tr": "Tunnels & Tunnelling başlığı, Yonge North Subway Extension projesinin ilk tünel açma makinesinin ulaştığını bildiriyor. Kaynak açıklamasına göre 10 metre derinliğindeki başlangıç şaftının kazısı temmuzda tamamlandı.",
+      "summary_tr": "Tunnels & Tunnelling’in haber başlığı, Yonge North Subway Extension için ilk tünel açma makinesinin (TBM) ulaştığını belirtiyor.\n\nSayfa açıklamasında TBM’nin fırlatılacağı 10 metre derinliğindeki başlangıç şaftının kazısının temmuz ayında tamamlandığı aktarılıyor. Makinenin teknik özellikleri, tam varış tarihi ve projenin sonraki aşamalarına ilişkin bilgi verilen kaynak içeriğinde yer almıyor.",
+      "why_it_matters_tr": "TBM’nin projeye ulaşması, tünel kazısına hazırlık sürecindeki önemli bir ekipman aşamasıdır. Makinenin çapı, tahrik sistemi ve zemin koşullarına uygunluğu bilinmediğinden projenin teknik yaklaşımı hakkında daha ileri değerlendirme yapılamıyor.",
+      "seo_title": "Yonge North Subway Extension için ilk TBM ulaştı",
+      "meta_description": "Yonge North Subway Extension için ilk tünel açma makinesinin ulaştığı bildirildi. 10 metre derinliğindeki başlangıç şaftının kazısı temmuzda tamamlandı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Haber başlığı Yonge North Subway Extension için ilk TBM’nin ulaştığını bildiriyor.",
+        "Kaynak açıklamasında başlangıç şaftının derinliği 10 metre olarak veriliyor.",
+        "Başlangıç şaftının kazısının temmuzda tamamlandığı belirtiliyor."
+      ],
+      "suggested_tags": [
+        "TBM",
+        "tünel açma makinesi",
+        "metro",
+        "Yonge North Subway Extension"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Tunnels & Tunnelling haber başlığı ilk TBM’nin Yonge North Subway Extension projesine ulaştığını bildiriyor.",
+        "Sayfa açıklaması 10 metre derinliğindeki başlangıç şaftının kazısının temmuzda tamamlandığını belirtiyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak içeriği çok sınırlı; TBM’nin üreticisi, modeli, çapı, teknik sistemi ve varışın kesin tarihi doğrulanamıyor.",
+        "Teknik ayrıntılar ve proje bilgileri için birincil proje veya üretici kaynağı kontrol edilmeli."
+      ],
+      "generated_at": "2026-10-27T20:00:00.962Z",
+      "generated_by": "github-models"
     }
   },
   {
