@@ -1988,6 +1988,32 @@
     }
   },
   {
+    "id": "b23693a0d63f9db5",
+    "status": "candidate",
+    "title_original": "Yanmar, Hitachi Advance Collaboration to Strengthen Compact Equipment Offerings in North America",
+    "source_name": "Construction Equipment Guide",
+    "source_url": "https://www.constructionequipmentguide.com/yanmar-hitachi-advance-collaboration-to-strengthen-compact-equipment-offerings-in-north-america/72612",
+    "source_feed": "https://feeds.feedburner.com/ceg",
+    "published_at": "2026-10-27T05:00:00.000Z",
+    "discovered_at": "2026-10-28T20:11:18.603Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 120,
+    "editorial_fit_score": 55,
+    "summary_source": "Yanmar and Hitachi Construction Machinery are expanding their North American compact equipment collaboration. Yanmar will manufacture compact track loaders for Hitachi’s LANDCROS brand, with sales planned for fall 2027. The companies are also preparing a reciprocal compact excavator supply agreement....",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "112baeb8cb70d3bc",
     "status": "candidate",
     "title_original": "Tadano CC 38.650-1 Hoists Tram Bridge in Urban Bologna",
@@ -2295,6 +2321,32 @@
       ],
       "generated_at": "2026-10-20T09:45:23.236Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "d3182bb8a7c4a312",
+    "status": "candidate",
+    "title_original": "Haulotte, 2026’nın ilk dokuz ayında gelirini yüzde 4 artırdı",
+    "source_name": "LHT",
+    "source_url": "https://www.lht.com.tr/haulotte-2026nin-ilk-dokuz-ayinda-gelirini-yuzde-4-artirdi/",
+    "source_feed": "https://www.lht.com.tr/feed/",
+    "published_at": "2026-10-28T12:13:14.000Z",
+    "discovered_at": "2026-10-28T20:11:22.154Z",
+    "sector": "arac-ustu-ekipman",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 115,
+    "editorial_fit_score": 55,
+    "summary_source": "Haulotte, 2026 yılının üçüncü çeyreğinde 121 milyon avro gelir elde ederek geçen yılın aynı dönemine yakın bir performans sergiledi. Şirketin yılın ilk dokuz ayındaki konsolide satışları ise yüzde 4 artışla 398 milyon avroya ulaştı. Avrupa bölgesi büyümeyi desteklerken Asya-Pasifik ve Latin Amerika pazarlarında gerileme kaydedildi. Personel yükseltici platform pazarında faaliyet gösteren Haulotte, 2026 mali yılının […]",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
