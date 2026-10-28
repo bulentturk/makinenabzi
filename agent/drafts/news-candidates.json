@@ -1853,7 +1853,7 @@
   },
   {
     "id": "676dee747be652a2",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Tunnelling set to start on Bucharest Metro North Section",
     "source_name": "Tunnels & Tunnelling",
     "source_url": "https://www.tunnelsandtunnelling.com/news/tunnelling-set-to-start-on-bucharest-metro-north-section/",
@@ -1867,19 +1867,41 @@
     "editorial_fit_score": 55,
     "summary_source": "The ceremonial launch has taken place for the first TBM to excavate the North Section of Bucharest’s Metro Line 6. The post Tunnelling set to start on Bucharest Metro North Section appeared first on Tunnels and Tunnelling.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Bükreş Metro Hattı 6’nın kuzey kesiminde TBM çalışmaları başlıyor",
+      "dek_tr": "Hattın kuzey kesiminde kazı yapacak ilk tünel açma makinesi için tören düzenlendi. Kaynakta makine ve proje takvimine ilişkin teknik ayrıntı bulunmuyor.",
+      "summary_tr": "Tunnels & Tunnelling’in haber özetine göre, Bükreş Metro Hattı 6’nın kuzey kesiminde çalışacak ilk tünel açma makinesinin (TBM) törensel lansmanı gerçekleştirildi.\n\nPaylaşılan kaynak içeriği, TBM’nin özellikleri, kazı takvimi veya projenin diğer teknik ayrıntılarını açıklamıyor.",
+      "why_it_matters_tr": "Metro tünellerinin kazısında TBM’ler temel üretim ekipmanları arasında yer alıyor; ancak makine kapasitesi ve uygulama koşulları bilinmediğinden bu projenin teknik önemini değerlendirmek için ek bilgi gerekiyor.",
+      "seo_title": "Bükreş Metro Hattı 6’da TBM kazısı başlıyor",
+      "meta_description": "Bükreş Metro Hattı 6’nın kuzey kesiminde çalışacak ilk TBM için lansman düzenlendi. Makine ve kazı takvimine ilişkin teknik ayrıntılar paylaşılmadı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Haber, Bükreş Metro Hattı 6’nın kuzey kesimine ilişkin.",
+        "Kuzey kesimde çalışacak ilk TBM için törensel lansman yapıldığı bildiriliyor."
+      ],
+      "suggested_tags": [
+        "tünel açma makinesi",
+        "TBM",
+        "metro inşaatı",
+        "Bükreş"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Tunnels & Tunnelling özetinde, Hattı 6’nın kuzey kesiminde kullanılacak ilk TBM’nin törensel lansmanının yapıldığı belirtiliyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak içeriği çok sınırlı; TBM modeli, çapı, üreticisi, kazı başlangıç tarihi ve proje takvimi doğrulanamıyor.",
+        "Önemli proje ve makine bilgileri için birincil kurum veya üretici kaynağı doğrulaması gerekli."
+      ],
+      "generated_at": "2026-10-28T20:12:20.826Z",
+      "generated_by": "github-models"
     }
   },
   {
     "id": "6f8eb1e12ef6d256",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "China’s Zoomlion breaks records with 1,600 hp articulated tractor",
     "source_name": "Future Farming",
     "source_url": "https://www.futurefarming.com/machinery/china-s-zoomlion-breaks-records-with-1-600-hp-articulated-tractor/",
@@ -1893,19 +1915,43 @@
     "editorial_fit_score": 55,
     "summary_source": "China’s Zoomlion breaks records with 1,600 hp articulated tractor Chinese tractor manufacturer",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Zoomlion’dan 1.600 hp mafsallı traktör iddiası",
+      "dek_tr": "Future Farming başlığı, Zoomlion’un 1.600 hp gücünde mafsallı bir traktör tanıttığını bildiriyor. Haberin içeriğine erişilemediğinden model ve teknik özellikler doğrulanamıyor.",
+      "summary_tr": "Future Farming’in başlığı, Çinli üretici Zoomlion’un 1.600 hp gücünde mafsallı bir traktörle rekor kırdığını öne sürüyor. Paylaşılan kaynak metninde bu bilgiyi destekleyen ayrıntı bulunmuyor.\n\nHabere erişim sağlanamadığı için traktörün modeli, güç değeri ve konfigürasyonu hakkında ek teknik bilgi aktarılamıyor.",
+      "why_it_matters_tr": "Bu güç sınıfındaki bir traktör iddiası, büyük ölçekli tarla işlerinde yüksek çekiş gereksinimleri bakımından ilgi çekebilir; ancak uygulama ve performans değerlendirmesi için üretici teknik verileri gerekir.",
+      "seo_title": "Zoomlion’un 1.600 hp mafsallı traktör iddiası",
+      "meta_description": "Future Farming, Zoomlion’un 1.600 hp mafsallı traktörünü duyuruyor. Habere erişilemediği için model ve teknik özellikler doğrulanamıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Kaynak başlığı Zoomlion’u üretici olarak tanımlıyor.",
+        "Kaynak başlığında 1.600 hp gücünde mafsallı traktör ifadesi yer alıyor.",
+        "Habere erişimde HTTP 403 uyarısı verilmiş."
+      ],
+      "suggested_tags": [
+        "Zoomlion",
+        "mafsallı traktör",
+        "tarım makinaları",
+        "yüksek güçlü traktör"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Future Farming başlığı Zoomlion’un 1.600 hp mafsallı traktörünü konu ediyor.",
+        "Kaynak erişiminde HTTP 403 uyarısı bulunuyor."
+      ],
+      "uncertainty_notes": [
+        "Habere erişilemedi; 1.600 hp değeri ve rekor iddiası yalnızca başlıkta yer alıyor, birincil üretici kaynağıyla doğrulanmalı.",
+        "Model adı, motor ve aktarma sistemi, teknik konfigürasyon ve kullanım senaryosu kaynakta mevcut değil."
+      ],
+      "generated_at": "2026-10-28T20:12:20.826Z",
+      "generated_by": "github-models"
     }
   },
   {
     "id": "42ef096eef9fa0a8",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Liebherr LR 11350, dünyanın en yüksek rüzgâr türbinini kurdu",
     "source_name": "Vinç & Platform",
     "source_url": "https://vincveplatform.com/liebherr-lr-11350-dunyanin-en-yuksek-ruzgar-turbinini-kurdu/",
@@ -1919,14 +1965,43 @@
     "editorial_fit_score": 55,
     "summary_source": "Liebherr LR 11350 paletli vinç, Almanya’da 365 metre yüksekliğe ulaşan GICON yüksek irtifa rüzgâr türbininin kurulumunda görev yaptı. Yaklaşık 375 ton brüt ağırlığındaki kule bileşeninin kaldırıldığı projede, vinç rotor kanatlarının montajı için yalnızca altı günde yeniden yapılandırıldı. Eylül ayı sonunda, dünyanın şu anki en yüksek rüzgâr türbininin inşası tamamlandı. Brandenburg, Lusatia’da gerçekleştirilen ve “GICON yüksek […]",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Liebherr LR 11350, GICON’un 365 metrelik rüzgâr türbini projesinde çalıştı",
+      "dek_tr": "Liebherr LR 11350 paletli vinç, Almanya’daki GICON yüksek irtifa rüzgâr türbini prototipinin yapımında kullanıldı. Kaynak, yaklaşık 375 tonluk bir kule bileşeninin kaldırıldığını ve vincin kanat montajı için altı günde yeniden yapılandırıldığını bildiriyor.",
+      "summary_tr": "Vinç & Platform’un aktardığına göre, Schmidbauer’e ait Liebherr LR 11350 paletli vinç, Brandenburg’daki GICON yüksek irtifa rüzgâr türbini prototipinin kurulumunda görev yaptı. Kaynak, tamamlanan yapının toplam yüksekliğini 365 metre, türbin gücünü 3,8 MW ve rotor çapını yaklaşık 126 metre olarak veriyor.\n\nVincin PowerBoom konfigürasyonuyla yürüttüğü kaldırma çalışmalarında, yaklaşık 40 metre boyutlarındaki ve brüt 375 ton ağırlığındaki kule bileşeni 50 metre yüksekliğindeki temel yapıya yerleştirildi. Habere göre LR 11350, kanat montajı için PowerBoom’dan 104 metrelik kafes bom konfigürasyonuna altı günde geçirildi.\n\nKaynak, kanatların yaklaşık 170 metre yükseklikte, uygun rüzgâr koşulları beklendikten sonra toplam 12 saatte monte edildiğini belirtiyor. Bu süreler ve performans bilgileri haber kaynağının aktardığı proje verileridir; bağımsız saha testi sonucu olarak değerlendirilmemelidir.",
+      "why_it_matters_tr": "Proje, büyük paletli vinçlerin ağır ve yüksek kaldırmaların yanı sıra aynı sahadaki farklı montaj aşamalarına göre yeniden yapılandırılmasını gerektiren bir kullanım örneği sunuyor. Altı günlük konfigürasyon değişimi, benzer rüzgâr enerjisi projelerinde vinç planlaması açısından dikkate değer bir üretici/proje verisi.",
+      "seo_title": "Liebherr LR 11350, 365 metrelik türbin projesinde",
+      "meta_description": "Liebherr LR 11350, GICON’un 365 metrelik rüzgâr türbini prototipinde 375 tonluk kule bileşenini kaldırdı; kanat montajı için altı günde yapılandırıldı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Kaynak, GICON prototipinin toplam yüksekliğini 365 metre olarak veriyor.",
+        "Türbinin gücü 3,8 MW, rotor çapı yaklaşık 126 metre olarak aktarılıyor.",
+        "LR 11350’nin yaklaşık 375 ton brüt ağırlığındaki bir kule bileşenini kaldırdığı bildiriliyor.",
+        "Vincin kanat montajı konfigürasyonuna geçişi kaynakta altı gün olarak belirtiliyor.",
+        "Üç rotor kanadının yaklaşık 170 metre yükseklikte 12 saatte monte edildiği aktarılıyor."
+      ],
+      "suggested_tags": [
+        "Liebherr LR 11350",
+        "paletli vinç",
+        "rüzgâr türbini",
+        "ağır kaldırma",
+        "GICON"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Vinç & Platform metninde LR 11350’nin GICON prototipinin kurulumunda kullanıldığı ve Schmidbauer’e ait olduğu belirtiliyor.",
+        "Kaynak, yapının 365 metre yüksekliğe, türbinin 3,8 MW güce ve rotorun yaklaşık 126 metre çapa sahip olduğunu bildiriyor.",
+        "Yaklaşık 375 tonluk kule bileşeninin kaldırıldığı ve bom konfigürasyonunun altı günde değiştirildiği aktarılıyor.",
+        "Kanat montajının yaklaşık 170 metre yükseklikte 12 saat sürdüğü kaynakta belirtiliyor."
+      ],
+      "uncertainty_notes": [
+        "Teknik ve operasyonel veriler sektör yayınının aktardığı proje bilgilerine dayanıyor; bağımsız saha testi veya resmi proje kaynağıyla doğrulandığı belirtilmiyor.",
+        "Vinç kapasite diyagramı, çalışma yarıçapı ve kaldırma konfigürasyonuna ilişkin ayrıntılar kaynakta tam olarak sunulmuyor."
+      ],
+      "generated_at": "2026-10-28T20:12:20.826Z",
+      "generated_by": "github-models"
     }
   },
   {
