@@ -1,5 +1,36 @@
 [
   {
+    "id": "eaf8fe4298a5a0f5",
+    "slug": "jungheinrich-efg-elektrikli-forkliftlerin-uretimine-basladi",
+    "title": "Jungheinrich, EFG elektrikli forkliftlerin üretimine başladı",
+    "dek": "Jungheinrich, EFG 2/2i ve EFG 3/3i serisi elektrikli forkliftleri Almanya’daki Moosburg tesisinde üretmeye başladı. Kaynak özeti, modeller için 2 tona kadar taşıma kapasitesi bildiriyor.",
+    "summary": "iVT International’ın haber özetine göre Jungheinrich, EFG 2/2i ve EFG 3/3i elektrikli karşı ağırlıklı forkliftlerin üretimine Moosburg tesisinde başladı.\n\nKaynakta serinin ilk makinesinin üretildiği belirtiliyor. Taşıma kapasitesi için verilen üst sınır 2 ton; model bazında kapasite dağılımı paylaşılmıyor.",
+    "why_it_matters": "Elektrikli karşı ağırlıklı forkliftler, depo ve malzeme elleçleme operasyonlarında kullanılan mobil ekipmanlar arasında yer alıyor. Yeni serinin teknik özellikleri ve uygulama farkları mevcut kaynakta sınırlı olduğundan, ürünün operasyonel etkisini değerlendirmek için ek bilgi gerekiyor.",
+    "key_facts": [
+      "EFG 2/2i ve EFG 3/3i forkliftlerin üretimi Moosburg tesisinde başladı.",
+      "Modeller elektrikli karşı ağırlıklı forkliftler olarak tanımlanıyor.",
+      "Kaynak özeti 2 tona kadar taşıma kapasitesi bildiriyor."
+    ],
+    "format": "haber",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "tags": [
+      "Jungheinrich",
+      "elektrikli forklift",
+      "malzeme elleçleme",
+      "EFG"
+    ],
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/news/materials-handling/jungheinrich-begins-production-of-efg-forklifts.html",
+    "source_published_at": "2026-10-27T10:41:07.000Z",
+    "site_published_at": "2026-10-28T12:48:06.700Z",
+    "hero_image": "",
+    "publish_mode": "automatic"
+  },
+  {
     "id": "b2f6c6a5d98e60a1",
     "slug": "te-connectivity-yuksek-hizli-arac-veri-baglantilari-icin-mini-fakra-sistemini-tanitti",
     "title": "TE Connectivity, yüksek hızlı araç veri bağlantıları için MINI FAKRA sistemini tanıttı",
