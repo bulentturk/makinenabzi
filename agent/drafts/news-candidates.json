@@ -91,6 +91,34 @@
     }
   },
   {
+    "id": "dc4996f5add9b441",
+    "status": "candidate",
+    "title_original": "Merdeka delivers measurable fleet productivity gains with Hexagon technology",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/10/28/merdeka-delivers-measurable-fleet-productivity-gains-with-hexagon-technology/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-10-28T09:09:39.000Z",
+    "discovered_at": "2026-10-28T10:54:34.751Z",
+    "sector": "madencilik",
+    "subsector": null,
+    "technologies": [
+      "elektronik-telematik"
+    ],
+    "relevance_score": 158,
+    "editorial_fit_score": 77,
+    "summary_source": "Hexagon has announced measurable productivity, cost, and sustainability gains achieved by PT Bumi Suksesindo (BSI) at Tujuh Bukit Gold Mine in East Java, Indonesia, following the adoption of Hexagon OP Pro fleet management technology and Smart Centre consulting. BSI, a subsidiary of PT Merdeka Copper Gold Tbk, implemented OP Pro to improve consistency in fleet The post Merdeka delivers measurable fleet productivity gains with Hexagon technology appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "eaf8fe4298a5a0f5",
     "status": "drafted",
     "title_original": "Jungheinrich begins production of EFG forklifts",
@@ -908,6 +936,34 @@
     "subsector": null
   },
   {
+    "id": "ae38446d52ef5913",
+    "status": "candidate",
+    "title_original": "Kingman Ag autonomous tractors (also) for GNSS-denied environments",
+    "source_name": "Future Farming",
+    "source_url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/kingman-ag-autonomous-tractors-also-for-gnss-denied-environments/",
+    "source_feed": "https://www.futurefarming.com/feed/",
+    "published_at": "2026-10-28T07:00:00.000Z",
+    "discovered_at": "2026-10-28T10:54:35.168Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [
+      "otonomi-ai"
+    ],
+    "relevance_score": 143,
+    "editorial_fit_score": 67,
+    "summary_source": "If you’re looking to upgrade your tractor to perform autonomous operations in a dusty and/or GNSS-denied environment, then Kingman Ag has something to offer.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "cc23d123106f4f88",
     "status": "drafted",
     "title_original": "Kubota and Agtonomy introduce autonomous M5L tractor for specialty crops",
@@ -1332,6 +1388,32 @@
     }
   },
   {
+    "id": "ebb521f201d2900c",
+    "status": "candidate",
+    "title_original": "İstanbul Vinç’e IAPAs 2026’da “Eşitlik, Çeşitlilik ve Kapsayıcılık” Ödülü",
+    "source_name": "Vinç & Platform",
+    "source_url": "https://vincveplatform.com/istanbul-vince-iapas-2026da-esitlik-cesitlilik-ve-kapsayicilik-odulu/",
+    "source_feed": "https://vincveplatform.com/feed/",
+    "published_at": "2026-10-28T08:09:50.000Z",
+    "discovered_at": "2026-10-28T10:54:35.737Z",
+    "sector": "liman",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 134,
+    "editorial_fit_score": 55,
+    "summary_source": "Personel yükseltici platform sektörünün uluslararası ödül organizasyonu IAPAs’ta İstanbul Vinç, EDI kategorisinde ödüle layık görüldü. Ödül, şirketin kapsayıcı kurum kültürü oluşturmaya yönelik çalışmalarını uluslararası alanda taçlandırdı. Uluslararası Yükseltici Platform Federasyonu (IPAF) ile Access International tarafından düzenlenen International Awards for Powered Access (IAPAs) 2026’nın kazananları İstanbul’da açıklandı. Yaklaşık 400 katılımcının yer aldığı törende, Türkiye’nin personel yükseltici […]",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "68ed7bb44d7f6692",
     "status": "drafted",
     "title_original": "Zoomlion, Platinyum Sponsoru Olduğu IPAF Summit & IAPAS 2026’da Küresel Gücünü Sergiledi",
@@ -1705,6 +1787,32 @@
     "relevance_score": 126,
     "editorial_fit_score": 55,
     "summary_source": "The ceremonial launch has taken place for the first TBM to excavate the North Section of Bucharest’s Metro Line 6. The post Tunnelling set to start on Bucharest Metro North Section appeared first on Tunnels and Tunnelling.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "6f8eb1e12ef6d256",
+    "status": "candidate",
+    "title_original": "China’s Zoomlion breaks records with 1,600 hp articulated tractor",
+    "source_name": "Future Farming",
+    "source_url": "https://www.futurefarming.com/machinery/china-s-zoomlion-breaks-records-with-1-600-hp-articulated-tractor/",
+    "source_feed": "https://www.futurefarming.com/feed/",
+    "published_at": "2026-10-28T09:00:00.000Z",
+    "discovered_at": "2026-10-28T10:54:35.166Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 125,
+    "editorial_fit_score": 55,
+    "summary_source": "China’s Zoomlion breaks records with 1,600 hp articulated tractor Chinese tractor manufacturer",
     "editorial": {
       "title_tr": "",
       "dek_tr": "",
