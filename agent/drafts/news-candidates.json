@@ -427,6 +427,35 @@
     }
   },
   {
+    "id": "4a6c5374a51968e4",
+    "status": "candidate",
+    "title_original": "Hydreco @ EIMA 2026",
+    "source_name": "Powertrain International Off-Highway",
+    "source_url": "https://www.powertraininternationalweb.com/events/hydreco-eima-2026/",
+    "source_feed": "https://www.powertraininternationalweb.com/category/off-highway/feed/",
+    "published_at": "2026-10-29T10:14:33.000Z",
+    "discovered_at": "2026-10-29T11:12:12.235Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [
+      "yuruyus-guc-aktarma",
+      "termal-yonetim"
+    ],
+    "relevance_score": 154,
+    "editorial_fit_score": 79,
+    "summary_source": "At EIMA 2026, Hydreco will showcase four dedicated solution areas covering key mobile machinery applications, from working functions and traction to cooling systems The post Hydreco @ EIMA 2026 appeared first on Powertrain International.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "b425d2a792e91dca",
     "status": "drafted",
     "title_original": "CITIC HIC moves into mining truck market on 70th anniversary",
@@ -1599,6 +1628,34 @@
     }
   },
   {
+    "id": "508b6ddebae49568",
+    "status": "candidate",
+    "title_original": "Aarhus Tests Denmark’s First Shore Power for Containerships",
+    "source_name": "The Maritime Executive",
+    "source_url": "https://maritime-executive.com/article/aarhus-tests-denmark-s-first-shore-power-for-containerships",
+    "source_feed": "https://maritime-executive.com/articles.rss",
+    "published_at": "2026-10-28T23:41:28.000Z",
+    "discovered_at": "2026-10-29T11:12:11.580Z",
+    "sector": "marine-yatcilik",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "relevance_score": 132,
+    "editorial_fit_score": 79,
+    "summary_source": "",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "430c6fecade56941",
     "status": "drafted",
     "title_original": "Cherry On Top: ALL's New Liebherr LTM 1400-6.1 Sets Observation Deck Atop Auburn's New Airport Control Tower",
@@ -1799,6 +1856,34 @@
       ],
       "generated_at": "2026-10-22T09:46:05.296Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "03771ae84175da1e",
+    "status": "candidate",
+    "title_original": "3 West Equipment Offers 3W-800B, 3W-2000B Hydraulic Breakers",
+    "source_name": "Construction Equipment Guide",
+    "source_url": "https://www.constructionequipmentguide.com/3-west-equipment-offers-3w800b-3w2000b-hydraulic-breakers/72637",
+    "source_feed": "https://feeds.feedburner.com/ceg",
+    "published_at": "2026-10-28T05:00:00.000Z",
+    "discovered_at": "2026-10-29T11:12:10.849Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [
+      "hidrolik"
+    ],
+    "relevance_score": 128,
+    "editorial_fit_score": 67,
+    "summary_source": "3 West Equipment offers the 3W-800B and 3W-2000B hydraulic breakers for different excavator sizes and jobsite needs. Compare their operating weights, impact energy, hydraulic flow and pressure requirements to find the right breaker for demolition, excavation and concrete removal....",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
