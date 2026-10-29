@@ -1,5 +1,38 @@
 [
   {
+    "id": "4a6c5374a51968e4",
+    "slug": "hydreco-eima-2026-da-paletli-mini-damperli-icin-entegre-kontrol-sistemini-sergileyecek",
+    "title": "Hydreco, EIMA 2026’da paletli mini damperli için entegre kontrol sistemini sergileyecek",
+    "dek": "Hydreco, EIMA International 2026’da hidrolik ve elektronik bileşenlerden oluşan bir hareket kontrol sistemini paletli mini damperli üzerinde göstereceğini duyurdu. Sistem, makinenin yürüyüş ve çalışma işlevlerini birlikte yönetmeye yönelik bileşenleri bir araya getiriyor.",
+    "summary": "Hydreco Hydraulics, EIMA International 2026’da mobil makineler için hidrolik ve elektronik çözümlerini sergileyeceğini açıkladı. Şirketin standında, bileşenlerin birlikte çalışmasını gösteren paletli mini damperli yer alacak.\n\nKaynağa göre uygulamada HY1 serisi çoklu pompa, hidrolik pilot kumandalar, MHDC elektronik joystick, elektronik kontrol ünitesi, akümülatörlü güç besleme ünitesi, hidrolik silindir ve yön kontrol valfi bulunuyor. Bu bileşenler makinenin hareketini ve çalışma işlevlerini yönetmek üzere bir araya getiriliyor.\n\nHydreco, örneği makine üreticilerine tekil parçalar yerine entegre çözümler sunma yaklaşımının göstergesi olarak tanımlıyor. Bu, şirketin etkinlik öncesinde paylaştığı ürün ve sergileme duyurusudur.",
+    "why_it_matters": "Mini damperli örneği, hidrolik güç üretimiyle elektronik kumandanın tek bir makine üzerinde nasıl eşgüdümlenebileceğini gösteriyor. Bu tür sistem entegrasyonu, kompakt mobil makinelerde işlevlerin makine üreticisinin ihtiyaçlarına göre düzenlenmesi açısından önem taşıyabilir.",
+    "key_facts": [
+      "Hydreco, EIMA International 2026’da sergiye katılacağını duyurdu.",
+      "Sergilenecek paletli mini damperlide HY1 serisi çoklu pompa ve MHDC elektronik joystick yer alacak.",
+      "Duyuruda ayrıca ECU, akümülatörlü güç besleme ünitesi, hidrolik silindir ve yön kontrol valfi sayılıyor."
+    ],
+    "format": "haber",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [
+      "hidrolik",
+      "elektronik-telematik"
+    ],
+    "tags": [
+      "Hydreco",
+      "EIMA 2026",
+      "paletli mini damperli",
+      "hidrolik sistem",
+      "elektronik kontrol"
+    ],
+    "source_name": "Powertrain International Off-Highway",
+    "source_url": "https://www.powertraininternationalweb.com/events/hydreco-eima-2026/",
+    "source_published_at": "2026-10-29T10:14:33.000Z",
+    "site_published_at": "2026-10-29T12:56:08.012Z",
+    "hero_image": "",
+    "publish_mode": "automatic"
+  },
+  {
     "id": "eaf8fe4298a5a0f5",
     "slug": "jungheinrich-efg-elektrikli-forkliftlerin-uretimine-basladi",
     "title": "Jungheinrich, EFG elektrikli forkliftlerin üretimine başladı",

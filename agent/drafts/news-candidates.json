@@ -428,7 +428,7 @@
   },
   {
     "id": "4a6c5374a51968e4",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Hydreco @ EIMA 2026",
     "source_name": "Powertrain International Off-Highway",
     "source_url": "https://www.powertraininternationalweb.com/events/hydreco-eima-2026/",
@@ -480,7 +480,9 @@
         "Kaynakta sistemin performans ölçümleri, teknik değerleri veya bağımsız saha testi bulunmuyor; sistem bileşenlerine ilişkin bilgiler şirket duyurusuna dayanıyor."
       ],
       "generated_at": "2026-10-29T11:13:09.656Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "review_result": "auto_published",
+      "reviewed_at": "2026-10-29T12:56:08.012Z"
     }
   },
   {
