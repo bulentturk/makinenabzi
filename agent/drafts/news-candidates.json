@@ -92,7 +92,7 @@
   },
   {
     "id": "2c6cca7d684cd966",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Linak adds interface choice to IC actuators",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/electronics/linak-adds-interface-choice-to-ic-actuators.html",
@@ -108,14 +108,40 @@
     "editorial_fit_score": 67,
     "summary_source": "Linak has expanded its IC actuator portfolio so that engineers can integrate linear motion into existing automation systems without adding external controllers, gateways, custom wiring or workarounds to make an [...] The post Linak adds interface choice to IC actuators appeared first on Industrial Vehicle Technology International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "LINAK, IC aktüatörlerde arayüz seçeneğini genişletti",
+      "dek_tr": "iVT International'ın haber özetine göre LINAK, IC aktüatör serisini mevcut PLC sistemlerine doğrudan entegrasyona yönelik endüstriyel arayüz seçenekleriyle genişletti. Ayrıntılı model ve arayüz bilgileri erişilebilir metinde yer almıyor.",
+      "summary_tr": "iVT International'ın haber başlığı ve açıklaması, LINAK'ın IC aktüatör portföyüne yeni arayüz seçenekleri eklediğini bildiriyor. Açıklamaya göre aktüatörler, harici kontrolör veya ağ geçidi eklemeden mevcut PLC sistemlerine entegre edilebilecek şekilde sunuluyor.\n\nKaynak özeti, arayüz türlerini, uyumlu aktüatör modellerini ya da elektriksel ve mekanik sınırları belirtmiyor. Bu nedenle değişikliğin belirli makine uygulamalarındaki performans veya kurulum süresine etkisi hakkında sonuç çıkarmak mümkün değil.",
+      "why_it_matters_tr": "PLC ile doğrudan entegrasyon seçeneği, mobil makinelerde doğrusal hareket işlevlerinin mevcut kontrol mimarisine bağlanmasını kolaylaştırabilir. Gerçek entegrasyon ve bakım avantajları ise arayüz uyumluluğu ve uygulama koşullarına bağlıdır.",
+      "seo_title": "LINAK IC aktüatörlere PLC arayüz seçeneği ekledi",
+      "meta_description": "LINAK'ın IC aktüatör portföyüne PLC sistemlerine doğrudan entegrasyon için arayüz seçenekleri eklendiği bildiriliyor; model ayrıntıları açıklanmadı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "iVT International, LINAK IC aktüatör portföyüne arayüz seçenekleri eklendiğini bildiriyor.",
+        "Haber açıklaması, mevcut PLC sistemlerine doğrudan entegrasyondan söz ediyor.",
+        "Erişilebilir açıklamada arayüz türleri ve uyumlu modeller belirtilmiyor."
+      ],
+      "suggested_tags": [
+        "LINAK",
+        "IC aktüatör",
+        "PLC",
+        "doğrusal hareket",
+        "mobil makine elektroniği"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektronik-telematik"
+      ],
+      "source_facts_used": [
+        "iVT International haber özeti, IC aktüatör portföyünde arayüz seçeneğinin genişletildiğini bildiriyor.",
+        "Açıklama, harici kontrolör veya ağ geçidi eklemeden mevcut PLC sistemlerine entegrasyonu hedefliyor."
+      ],
+      "uncertainty_notes": [
+        "Girdi, haberin kısa açıklama metniyle sınırlı; arayüz standartları, model uyumluluğu ve uygulama sınırları için LINAK'ın birincil ürün duyurusu doğrulanmalı."
+      ],
+      "generated_at": "2026-10-29T20:10:29.083Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -515,7 +541,7 @@
   },
   {
     "id": "b41b2e0610938c4d",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Musk’s Boring Company to Launch 3rd TBM on Nashville's Music City Loop",
     "source_name": "Equipment World",
     "source_url": "https://www.equipmentworld.com/roadbuilding/article/16050242/the-boring-co-to-launch-3rd-tunnel-boring-machine-in-nashville",
@@ -531,14 +557,37 @@
     "editorial_fit_score": 77,
     "summary_source": "All-electric Tesla vehicles will eventually travel two tunnels connecting the city's convention center and airport.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Nashville Music City Loop için üçüncü tünel açma makinesi gündemde",
+      "dek_tr": "Equipment World başlığı, Nashville'deki Music City Loop projesinde üçüncü tünel açma makinesinin devreye alınacağını bildiriyor. Erişilebilen kaynak özeti ise makinenin özellikleri veya takvimi hakkında ayrıntı vermiyor.",
+      "summary_tr": "Equipment World'ün haber başlığı, The Boring Company'nin Nashville Music City Loop için üçüncü tünel açma makinesini devreye alacağını belirtiyor. Ancak erişilebilen metin yalnızca tünellerin ileride şehirdeki kongre merkezi ile havalimanı arasında elektrikli Tesla araçlarıyla bağlantı sağlayacağını söylüyor.\n\nMakinenin teknik özellikleri, sahaya giriş tarihi ve tünel çalışmalarının kapsamı mevcut kaynak içeriğinde açıklanmıyor. Bu nedenle üçüncü makineye ilişkin ayrıntılar doğrulanmış teknik gelişme olarak sunulamıyor.",
+      "why_it_matters_tr": "Tünel açma makineleri büyük ölçekli altyapı projelerinde kullanılan iş makineleridir; ancak makine kapasitesi ve uygulama koşulları bilinmeden bu projenin ekipman teknolojisine katkısını değerlendirmek mümkün değil.",
+      "seo_title": "Nashville Music City Loop'ta üçüncü TBM gündemde",
+      "meta_description": "Equipment World başlığı, Music City Loop için üçüncü tünel açma makinesini bildiriyor. Makinenin özellikleri ve takvimi erişilebilir kaynakta yok.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Haber başlığı Music City Loop için üçüncü tünel açma makinesinin devreye alınacağını bildiriyor.",
+        "Erişilebilen özet, iki tünelin kongre merkezi ile havalimanını bağlayacağını belirtiyor.",
+        "Tünellerde elektrikli Tesla araçlarının kullanılması planlanıyor."
+      ],
+      "suggested_tags": [
+        "tünel açma makinesi",
+        "altyapı",
+        "Nashville",
+        "The Boring Company"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Equipment World haber başlığındaki üçüncü tünel açma makinesi bilgisi.",
+        "Erişilebilen kaynak özetindeki tünellerin kongre merkezi ile havalimanını bağlama planı."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası 403 hatası nedeniyle alınamadı; makineye ilişkin eldeki tek bilgi haber başlığında. Model, teknik özellik, devreye alma tarihi ve proje takvimi için birincil kaynak doğrulaması gerekli."
+      ],
+      "generated_at": "2026-10-29T20:10:29.083Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -812,7 +861,7 @@
   },
   {
     "id": "e06d3940e9391197",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Nominations open for 2026 Gussies electric boat awards",
     "source_name": "Marine Industry News",
     "source_url": "https://marineindustrynews.co.uk/gussies-awards-open-nominations-for-2026/",
@@ -828,14 +877,41 @@
     "editorial_fit_score": 79,
     "summary_source": "Nominations are now open for the seventh annual Gustave Trouvé Awards for Excellence in Electric Boats and Boating, known as The Gussies. Entries close at midnight EST on 22 November 2026. Winners will be announced on 13 January 2027. Electric boating news website Plugboats founded the awards in 2020 to recognise achievement and innovation in […] The post Nominations open for 2026 Gussies electric boat awards appeared first on Marine Industry News.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "2026 Gussies elektrikli tekne ödüllerinde başvurular açıldı",
+      "dek_tr": "Elektrikli tekne ve tahrik sistemlerini kapsayan Gussies ödülleri için adaylıklar 22 Kasım 2026'ya kadar yapılabilecek. Kazananların 13 Ocak 2027'de açıklanması planlanıyor.",
+      "summary_tr": "Plugboats tarafından 2020'de başlatılan Gustave Trouvé Awards for Excellence in Electric Boats and Boating, yedinci kez düzenleniyor. Adaylıklar 22 Kasım 2026 gece yarısında (EST) sona erecek; finalistlerin 2 Aralık'ta duyurulması ve halk oylamasının başlaması bekleniyor.\n\nÖdüller; güneş enerjili günübirlik teknelerden hidrofoilli su taksilerine ve açık deniz yelkenlilerine kadar farklı araçları kapsayan 10 kategoriden oluşuyor. Adaylık koşullarına göre motorlu teknelerde elektrikli tahrik ana sistem olmalı; hibrit tekneler ise ancak tamamen elektrikli bir sürümü satışta olduğunda uygun sayılıyor.",
+      "why_it_matters_tr": "Ödül programı, denizcilik elektrifikasyonundaki farklı tekne ve tahrik uygulamalarını bir arada izlemek için sektörel bir gösterge sunabilir; ancak adaylık duyurusu tek başına teknik performans veya pazar başarısı kanıtı değildir.",
+      "seo_title": "2026 Gussies elektrikli tekne ödülleri için başvurular",
+      "meta_description": "2026 Gussies elektrikli tekne ödüllerinde adaylıklar 22 Kasım'da kapanıyor. Program 10 kategoriyi kapsıyor; kazananlar 13 Ocak'ta açıklanacak.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Adaylıklar 22 Kasım 2026'da kapanıyor.",
+        "Finalistlerin 2 Aralık'ta, kazananların 13 Ocak 2027'de açıklanması planlanıyor.",
+        "Ödüller 10 kategori ve alt kategoriyi kapsıyor.",
+        "Motorlu teknelerde elektrikli tahrikin ana sistem olması gerekiyor."
+      ],
+      "suggested_tags": [
+        "elektrikli tekne",
+        "deniz elektrifikasyonu",
+        "elektrikli tahrik",
+        "Gussies"
+      ],
+      "suggested_sector": "marine-yatcilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "Ödüllerin yedinci kez düzenlendiği ve adaylık takvimi.",
+        "Programın 10 kategori ve farklı elektrikli tekne türlerini kapsadığı.",
+        "Motorlu tekne ve hibrit tekneler için belirtilen uygunluk koşulları."
+      ],
+      "uncertainty_notes": [
+        "Kaynakta ödül kategorilerinin tam listesi ve aday projelerin teknik ayrıntıları yer almıyor; duyuru bağımsız performans değerlendirmesi sunmuyor."
+      ],
+      "generated_at": "2026-10-29T20:10:29.083Z",
+      "generated_by": "github-models"
     }
   },
   {
