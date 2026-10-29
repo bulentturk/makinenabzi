@@ -91,6 +91,34 @@
     }
   },
   {
+    "id": "2c6cca7d684cd966",
+    "status": "candidate",
+    "title_original": "Linak adds interface choice to IC actuators",
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/news/electronics/linak-adds-interface-choice-to-ic-actuators.html",
+    "source_feed": "https://www.ivtinternational.com/feed",
+    "published_at": "2026-10-29T11:47:57.000Z",
+    "discovered_at": "2026-10-29T20:09:22.660Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [
+      "otonomi-ai"
+    ],
+    "relevance_score": 158,
+    "editorial_fit_score": 67,
+    "summary_source": "Linak has expanded its IC actuator portfolio so that engineers can integrate linear motion into existing automation systems without adding external controllers, gateways, custom wiring or workarounds to make an [...] The post Linak adds interface choice to IC actuators appeared first on Industrial Vehicle Technology International.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "dc4996f5add9b441",
     "status": "drafted",
     "title_original": "Merdeka delivers measurable fleet productivity gains with Hexagon technology",
@@ -486,6 +514,34 @@
     }
   },
   {
+    "id": "b41b2e0610938c4d",
+    "status": "candidate",
+    "title_original": "Musk’s Boring Company to Launch 3rd TBM on Nashville's Music City Loop",
+    "source_name": "Equipment World",
+    "source_url": "https://www.equipmentworld.com/roadbuilding/article/16050242/the-boring-co-to-launch-3rd-tunnel-boring-machine-in-nashville",
+    "source_feed": "https://www.equipmentworld.com/feed/",
+    "published_at": "2026-10-29T16:00:00.000Z",
+    "discovered_at": "2026-10-29T20:09:22.828Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "relevance_score": 153,
+    "editorial_fit_score": 77,
+    "summary_source": "All-electric Tesla vehicles will eventually travel two tunnels connecting the city's convention center and airport.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "b425d2a792e91dca",
     "status": "drafted",
     "title_original": "CITIC HIC moves into mining truck market on 70th anniversary",
@@ -752,6 +808,34 @@
       ],
       "generated_at": "2026-10-23T19:03:05.099Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "e06d3940e9391197",
+    "status": "candidate",
+    "title_original": "Nominations open for 2026 Gussies electric boat awards",
+    "source_name": "Marine Industry News",
+    "source_url": "https://marineindustrynews.co.uk/gussies-awards-open-nominations-for-2026/",
+    "source_feed": "https://marineindustrynews.co.uk/feed/",
+    "published_at": "2026-10-29T09:15:57.000Z",
+    "discovered_at": "2026-10-29T20:09:22.713Z",
+    "sector": "marine-yatcilik",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "relevance_score": 146,
+    "editorial_fit_score": 79,
+    "summary_source": "Nominations are now open for the seventh annual Gustave Trouvé Awards for Excellence in Electric Boats and Boating, known as The Gussies. Entries close at midnight EST on 22 November 2026. Winners will be announced on 13 January 2027. Electric boating news website Plugboats founded the awards in 2020 to recognise achievement and innovation in […] The post Nominations open for 2026 Gussies electric boat awards appeared first on Marine Industry News.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -2567,6 +2651,32 @@
       ],
       "generated_at": "2026-10-20T09:45:23.236Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "6ccc6e5818072bba",
+    "status": "candidate",
+    "title_original": "1,000hp tractor at Chinese show",
+    "source_name": "profi",
+    "source_url": "https://www.profi.co.uk/news/1000hp-tractor-at-chinese-show/",
+    "source_feed": "https://www.profi.co.uk/feed/",
+    "published_at": "2026-10-29T18:11:22.000Z",
+    "discovered_at": "2026-10-29T20:09:23.225Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 115,
+    "editorial_fit_score": 55,
+    "summary_source": "The BD10002-10HV was the most eye-catching of the dozen tractors on the Zhongnong Boding stand at this week’s CIAME 2026. The post 1,000hp tractor at Chinese show appeared first on Profi.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
