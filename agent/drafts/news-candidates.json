@@ -428,7 +428,7 @@
   },
   {
     "id": "4a6c5374a51968e4",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Hydreco @ EIMA 2026",
     "source_name": "Powertrain International Off-Highway",
     "source_url": "https://www.powertraininternationalweb.com/events/hydreco-eima-2026/",
@@ -445,14 +445,42 @@
     "editorial_fit_score": 79,
     "summary_source": "At EIMA 2026, Hydreco will showcase four dedicated solution areas covering key mobile machinery applications, from working functions and traction to cooling systems The post Hydreco @ EIMA 2026 appeared first on Powertrain International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Hydreco, EIMA 2026’da paletli mini damperli için entegre kontrol sistemini sergileyecek",
+      "dek_tr": "Hydreco, EIMA International 2026’da hidrolik ve elektronik bileşenlerden oluşan bir hareket kontrol sistemini paletli mini damperli üzerinde göstereceğini duyurdu. Sistem, makinenin yürüyüş ve çalışma işlevlerini birlikte yönetmeye yönelik bileşenleri bir araya getiriyor.",
+      "summary_tr": "Hydreco Hydraulics, EIMA International 2026’da mobil makineler için hidrolik ve elektronik çözümlerini sergileyeceğini açıkladı. Şirketin standında, bileşenlerin birlikte çalışmasını gösteren paletli mini damperli yer alacak.\n\nKaynağa göre uygulamada HY1 serisi çoklu pompa, hidrolik pilot kumandalar, MHDC elektronik joystick, elektronik kontrol ünitesi, akümülatörlü güç besleme ünitesi, hidrolik silindir ve yön kontrol valfi bulunuyor. Bu bileşenler makinenin hareketini ve çalışma işlevlerini yönetmek üzere bir araya getiriliyor.\n\nHydreco, örneği makine üreticilerine tekil parçalar yerine entegre çözümler sunma yaklaşımının göstergesi olarak tanımlıyor. Bu, şirketin etkinlik öncesinde paylaştığı ürün ve sergileme duyurusudur.",
+      "why_it_matters_tr": "Mini damperli örneği, hidrolik güç üretimiyle elektronik kumandanın tek bir makine üzerinde nasıl eşgüdümlenebileceğini gösteriyor. Bu tür sistem entegrasyonu, kompakt mobil makinelerde işlevlerin makine üreticisinin ihtiyaçlarına göre düzenlenmesi açısından önem taşıyabilir.",
+      "seo_title": "Hydreco, EIMA 2026’da entegre hidrolik sistemi sergileyecek",
+      "meta_description": "Hydreco, EIMA 2026’da HY1 pompa, MHDC joystick ve diğer bileşenleri paletli mini damperli üzerinde bir araya getiren sistemi tanıtacak.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Hydreco, EIMA International 2026’da sergiye katılacağını duyurdu.",
+        "Sergilenecek paletli mini damperlide HY1 serisi çoklu pompa ve MHDC elektronik joystick yer alacak.",
+        "Duyuruda ayrıca ECU, akümülatörlü güç besleme ünitesi, hidrolik silindir ve yön kontrol valfi sayılıyor."
+      ],
+      "suggested_tags": [
+        "Hydreco",
+        "EIMA 2026",
+        "paletli mini damperli",
+        "hidrolik sistem",
+        "elektronik kontrol"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "hidrolik",
+        "elektronik-telematik"
+      ],
+      "source_facts_used": [
+        "Hydreco’nun EIMA International 2026’ya katılacağı bilgisi",
+        "Paletli mini damperli üzerinde gösterilecek bileşen listesi",
+        "Sistemin makine hareketi ve çalışma işlevlerini yönetme amacı"
+      ],
+      "uncertainty_notes": [
+        "Kaynakta sistemin performans ölçümleri, teknik değerleri veya bağımsız saha testi bulunmuyor; sistem bileşenlerine ilişkin bilgiler şirket duyurusuna dayanıyor."
+      ],
+      "generated_at": "2026-10-29T11:13:09.656Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -1629,7 +1657,7 @@
   },
   {
     "id": "508b6ddebae49568",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Aarhus Tests Denmark’s First Shore Power for Containerships",
     "source_name": "The Maritime Executive",
     "source_url": "https://maritime-executive.com/article/aarhus-tests-denmark-s-first-shore-power-for-containerships",
@@ -1645,14 +1673,43 @@
     "editorial_fit_score": 79,
     "summary_source": "",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Aarhus Limanı, konteyner gemileri için kıyı elektriğini test etti",
+      "dek_tr": "Danimarka’daki Aarhus Limanı, konteyner gemilerine yönelik kıyı elektriği tesisini Dettifoss gemisiyle denedi. Gemi yaklaşık 10 saatlik bağlantı sırasında karadan yaklaşık 6,5 MWh elektrik aldı.",
+      "summary_tr": "Aarhus Limanı’ndaki yeni kıyı elektriği tesisi, Eimskip tarafından işletilen Dettifoss konteyner gemisinin deneme yanaşmasıyla test edildi. Kaynakta geminin yaklaşık 10 saat bağlı kaldığı ve bu sürede karadan yaklaşık 6,5 MWh enerji aldığı aktarılıyor.\n\nLiman yetkilileri tesisin günlük kullanıma Ocak 2027’de hazır olmasının planlandığını belirtti. Tam kapasiteye ulaştığında aynı anda dört konteyner gemisine hizmet verebilmesi hedefleniyor. Konteyner terminallerinde gemi boyutu ve yanaşma konumlarının değişmesi, ayrıca gemi sistemleriyle soğutmalı konteynerlerin enerji gereksinimi, şebeke ve bağlantı esnekliği açısından farklı ihtiyaçlar doğuruyor.\n\nKaynağa göre proje, limandaki gürültü ve parçacık kirliliğini azaltmayı ve limanı rıhtımda kıyı elektriği kullanımına ilişkin 2030’da yürürlüğe girecek AB düzenlemesine hazırlamayı amaçlıyor. Bunlar liman yetkililerinin belirttiği hedef ve düzenleme takvimidir.",
+      "why_it_matters_tr": "Konteyner terminallerinde kıyı elektriği, gemiler rıhtımdayken enerji ihtiyacının liman altyapısıyla karşılanmasını gerektiriyor. Aarhus örneği, birden fazla gemiye ve değişken yanaşma koşullarına hizmet edecek elektrifikasyon altyapısının liman planlaması açısından önemini ortaya koyuyor.",
+      "seo_title": "Aarhus’ta konteyner gemileri için kıyı elektriği testi",
+      "meta_description": "Aarhus Limanı, Dettifoss’u yaklaşık 10 saat kıyı elektriğine bağlayarak konteyner gemileri için yeni tesisini test etti; günlük kullanım 2027’de planlanıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Dettifoss deneme sırasında yaklaşık 10 saat kıyı elektriğine bağlı kaldı.",
+        "Gemi karadan yaklaşık 6,5 MWh enerji aldı.",
+        "Liman, tesisin Ocak 2027’de günlük kullanıma hazır olmasını planlıyor.",
+        "Tamamlandığında aynı anda dört konteyner gemisine hizmet verme kapasitesi hedefleniyor."
+      ],
+      "suggested_tags": [
+        "Aarhus Limanı",
+        "kıyı elektriği",
+        "liman elektrifikasyonu",
+        "konteyner gemisi",
+        "Dettifoss"
+      ],
+      "suggested_sector": "liman",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "Dettifoss’un test bağlantısının süresi ve aldığı yaklaşık enerji",
+        "Tesisin planlanan günlük kullanım tarihi ve eş zamanlı gemi kapasitesi",
+        "Konteyner terminalindeki enerji ve bağlantı esnekliği gereksinimleri",
+        "Liman yetkililerinin belirttiği çevresel hedefler ve AB düzenlemesinin yürürlük tarihi"
+      ],
+      "uncertainty_notes": [
+        "Test sonuçları ve tesis takvimi ikincil haber kaynağında aktarılmıştır; tesis işletmecisi veya resmi düzenleme metni bu girdide sunulmamıştır."
+      ],
+      "generated_at": "2026-10-29T11:13:09.656Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -1860,7 +1917,7 @@
   },
   {
     "id": "03771ae84175da1e",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "3 West Equipment Offers 3W-800B, 3W-2000B Hydraulic Breakers",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/3-west-equipment-offers-3w800b-3w2000b-hydraulic-breakers/72637",
@@ -1876,14 +1933,41 @@
     "editorial_fit_score": 67,
     "summary_source": "3 West Equipment offers the 3W-800B and 3W-2000B hydraulic breakers for different excavator sizes and jobsite needs. Compare their operating weights, impact energy, hydraulic flow and pressure requirements to find the right breaker for demolition, excavation and concrete removal....",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "3 West Equipment, 3W-800B ve 3W-2000B hidrolik kırıcıları sunuyor",
+      "dek_tr": "Construction Equipment Guide’ın kısa haber metni, 3 West Equipment’ın farklı ekskavatör boyutları ve iş sahası ihtiyaçlarına yönelik 3W-800B ile 3W-2000B kırıcıları sunduğunu bildiriyor. Kaynakta modellerin teknik değerleri yer almıyor.",
+      "summary_tr": "Construction Equipment Guide, 3 West Equipment’ın 3W-800B ve 3W-2000B adlı iki hidrolik kırıcı modelini sunduğunu aktarıyor. Kısa metin, ürünleri farklı ekskavatör boyutları ve saha ihtiyaçlarıyla ilişkilendiriyor.\n\nKaynak özeti yıkım, kazı ve beton kaldırma işlerini olası kullanım alanları olarak anıyor. Ancak modellerin çalışma ağırlığı, darbe enerjisi, gerekli hidrolik debi ve basınç değerleri bu girdide verilmemiş.\n\nBu nedenle iki model arasındaki teknik farkı veya hangi ekskavatörlerle uyumlu olduklarını karşılaştırmak için yeterli bilgi bulunmuyor.",
+      "why_it_matters_tr": "Hidrolik kırıcı seçimi, taşıyıcı makinenin kapasitesi ve ataşmanın hidrolik gereksinimleriyle uyuma bağlıdır. Model adları haber keşfi için yararlı olsa da teknik seçim veya performans değerlendirmesi için doğrulanmış ürün verileri gerekir.",
+      "seo_title": "3 West Equipment iki hidrolik kırıcı modeli sunuyor",
+      "meta_description": "3 West Equipment’ın 3W-800B ve 3W-2000B hidrolik kırıcıları duyuruldu; mevcut kaynakta debi, basınç ve darbe enerjisi değerleri yer almıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Haberde 3W-800B ve 3W-2000B model adları veriliyor.",
+        "Kaynak, modelleri farklı ekskavatör boyutları ve saha ihtiyaçları için sunulan hidrolik kırıcılar olarak tanımlıyor.",
+        "Kaynak metninde teknik özellik değerleri bulunmuyor."
+      ],
+      "suggested_tags": [
+        "3 West Equipment",
+        "hidrolik kırıcı",
+        "ekskavatör ataşmanı",
+        "3W-800B",
+        "3W-2000B"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "hidrolik"
+      ],
+      "source_facts_used": [
+        "İkincil haber kaynağında belirtilen 3W-800B ve 3W-2000B model adları",
+        "Modellerin farklı ekskavatör boyutları ve saha ihtiyaçlarına yönelik olduğu bilgisi",
+        "Kaynak özetinde anılan kullanım alanları"
+      ],
+      "uncertainty_notes": [
+        "Kaynak metni kısa bir özetle sınırlı ve sayfaya erişim uyarısı mevcut. Model teknik değerleri, uyumlu ekskavatör aralıkları ve önemli ürün iddiaları üretici veya distribütörün birincil kaynağından doğrulanmalı."
+      ],
+      "generated_at": "2026-10-29T11:13:09.656Z",
+      "generated_by": "github-models"
     }
   },
   {
