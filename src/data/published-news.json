@@ -1,5 +1,37 @@
 [
   {
+    "id": "e06d3940e9391197",
+    "slug": "2026-gussies-elektrikli-tekne-odullerinde-basvurular-acildi",
+    "title": "2026 Gussies elektrikli tekne ödüllerinde başvurular açıldı",
+    "dek": "Elektrikli tekne ve tahrik sistemlerini kapsayan Gussies ödülleri için adaylıklar 22 Kasım 2026'ya kadar yapılabilecek. Kazananların 13 Ocak 2027'de açıklanması planlanıyor.",
+    "summary": "Plugboats tarafından 2020'de başlatılan Gustave Trouvé Awards for Excellence in Electric Boats and Boating, yedinci kez düzenleniyor. Adaylıklar 22 Kasım 2026 gece yarısında (EST) sona erecek; finalistlerin 2 Aralık'ta duyurulması ve halk oylamasının başlaması bekleniyor.\n\nÖdüller; güneş enerjili günübirlik teknelerden hidrofoilli su taksilerine ve açık deniz yelkenlilerine kadar farklı araçları kapsayan 10 kategoriden oluşuyor. Adaylık koşullarına göre motorlu teknelerde elektrikli tahrik ana sistem olmalı; hibrit tekneler ise ancak tamamen elektrikli bir sürümü satışta olduğunda uygun sayılıyor.",
+    "why_it_matters": "Ödül programı, denizcilik elektrifikasyonundaki farklı tekne ve tahrik uygulamalarını bir arada izlemek için sektörel bir gösterge sunabilir; ancak adaylık duyurusu tek başına teknik performans veya pazar başarısı kanıtı değildir.",
+    "key_facts": [
+      "Adaylıklar 22 Kasım 2026'da kapanıyor.",
+      "Finalistlerin 2 Aralık'ta, kazananların 13 Ocak 2027'de açıklanması planlanıyor.",
+      "Ödüller 10 kategori ve alt kategoriyi kapsıyor.",
+      "Motorlu teknelerde elektrikli tahrikin ana sistem olması gerekiyor."
+    ],
+    "format": "haber",
+    "sector": "marine-yatcilik",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "tags": [
+      "elektrikli tekne",
+      "deniz elektrifikasyonu",
+      "elektrikli tahrik",
+      "Gussies"
+    ],
+    "source_name": "Marine Industry News",
+    "source_url": "https://marineindustrynews.co.uk/gussies-awards-open-nominations-for-2026/",
+    "source_published_at": "2026-10-29T09:15:57.000Z",
+    "site_published_at": "2026-10-30T12:49:28.683Z",
+    "hero_image": "",
+    "publish_mode": "automatic"
+  },
+  {
     "id": "4a6c5374a51968e4",
     "slug": "hydreco-eima-2026-da-paletli-mini-damperli-icin-entegre-kontrol-sistemini-sergileyecek",
     "title": "Hydreco, EIMA 2026’da paletli mini damperli için entegre kontrol sistemini sergileyecek",

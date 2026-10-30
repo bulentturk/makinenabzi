@@ -912,7 +912,7 @@
   },
   {
     "id": "e06d3940e9391197",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Nominations open for 2026 Gussies electric boat awards",
     "source_name": "Marine Industry News",
     "source_url": "https://marineindustrynews.co.uk/gussies-awards-open-nominations-for-2026/",
@@ -962,7 +962,9 @@
         "Kaynakta ödül kategorilerinin tam listesi ve aday projelerin teknik ayrıntıları yer almıyor; duyuru bağımsız performans değerlendirmesi sunmuyor."
       ],
       "generated_at": "2026-10-29T20:10:29.083Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "review_result": "auto_published",
+      "reviewed_at": "2026-10-30T12:49:28.683Z"
     }
   },
   {
