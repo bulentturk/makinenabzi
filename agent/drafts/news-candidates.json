@@ -591,6 +591,32 @@
     }
   },
   {
+    "id": "95b46ec071d28c90",
+    "status": "candidate",
+    "title_original": "Martin Engineering launches new urethane conveyor belt sealing portfolio in EMEA, India",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/10/30/martin-engineering-launches-new-urethane-conveyor-belt-sealing-portfolio-in-emea-india/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-10-30T04:58:31.000Z",
+    "discovered_at": "2026-10-30T11:06:38.305Z",
+    "sector": "madencilik",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 150,
+    "editorial_fit_score": 65,
+    "summary_source": "A global leader in bulk material handling solutions, Martin Engineering, has launched its suite of polyurethane sealing systems for conveyor transfer points in three new continents. With belt sealing innovations that eliminate spillage and fugitive dust when bulk materials transfer onto a moving conveyor, the new portfolio is now available in Europe, Middle East, Africa The post Martin Engineering launches new urethane conveyor belt sealing portfolio in EMEA, India appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "b425d2a792e91dca",
     "status": "drafted",
     "title_original": "CITIC HIC moves into mining truck market on 70th anniversary",
@@ -1343,6 +1369,35 @@
       ],
       "generated_at": "2026-10-21T19:12:56.951Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "6b7152b71ca9e2e7",
+    "status": "candidate",
+    "title_original": "Cisco and PSA Singapore collaborate on AI-driven platform for Tuas Port",
+    "source_name": "Container News",
+    "source_url": "https://container-news.com/cisco-and-psa-singapore-collaborate-on-ai-driven-platform-for-tuas-port/",
+    "source_feed": "https://container-news.com/feed/",
+    "published_at": "2026-10-29T23:23:09.000Z",
+    "discovered_at": "2026-10-30T11:06:40.446Z",
+    "sector": "liman",
+    "subsector": null,
+    "technologies": [
+      "otonomi-ai",
+      "elektronik-telematik"
+    ],
+    "relevance_score": 142,
+    "editorial_fit_score": 34,
+    "summary_source": "Cisco and PSA Singapore have announced a strategic collaboration to develop a proof of concept for an AI-powered observability and incident management platform at Tuas Port, the world’s largest fully automated container terminal. The initiative is part of Cisco’s Country Digital Acceleration programme, through which Cisco partners with public and private sector organisations to advance […] The post Cisco and PSA Singapore collaborate on AI-driven platform for Tuas Port appeared first on Container News.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -2420,32 +2475,6 @@
     }
   },
   {
-    "id": "112baeb8cb70d3bc",
-    "status": "candidate",
-    "title_original": "Tadano CC 38.650-1 Hoists Tram Bridge in Urban Bologna",
-    "source_name": "Construction Equipment Guide",
-    "source_url": "https://www.constructionequipmentguide.com/tadano-cc-386501-hoists-tram-bridge-in-urban-bologna/72588",
-    "source_feed": "https://feeds.feedburner.com/ceg",
-    "published_at": "2026-10-26T05:00:00.000Z",
-    "discovered_at": "2026-10-26T20:23:52.495Z",
-    "sector": "is-makinalari",
-    "subsector": null,
-    "technologies": [],
-    "relevance_score": 120,
-    "editorial_fit_score": 55,
-    "summary_source": "Autovictor used a Tadano CC 38.650-1 lattice boom crawler crane to position bridge....",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
-  },
-  {
     "id": "d38b2b4a093cf765",
     "status": "drafted",
     "title_original": "Central Atlanta Tractor Hosts Gainesville, Ga., Open House",
@@ -2495,6 +2524,32 @@
       ],
       "generated_at": "2026-10-24T18:02:30.035Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "b9a6ba87cc8bd3f4",
+    "status": "candidate",
+    "title_original": "Terratec TBM completes Mumbai sewer tunnel",
+    "source_name": "Tunnels & Tunnelling",
+    "source_url": "https://www.tunnelsandtunnelling.com/news/terratec-tbm-completes-mumbai-sewer-tunnel/",
+    "source_feed": "https://www.tunnelsandtunnelling.com/feed/",
+    "published_at": "2026-10-30T09:36:10.000Z",
+    "discovered_at": "2026-10-30T11:06:38.233Z",
+    "sector": "arac-ustu-ekipman",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 116,
+    "editorial_fit_score": 55,
+    "summary_source": "The Brihanmumbai Municipal Corporation project will be a key part of Mumbai’s upgraded wastewater network. The post Terratec TBM completes Mumbai sewer tunnel appeared first on Tunnels and Tunnelling.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -2727,6 +2782,32 @@
       ],
       "generated_at": "2026-10-20T09:45:23.236Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "9a73ceac5c980993",
+    "status": "candidate",
+    "title_original": "Macro MH, kiralama odaklı modeliyle istif makineleri sektöründe büyüyor",
+    "source_name": "LHT",
+    "source_url": "https://www.lht.com.tr/macro-mh-kiralama-odakli-modeliyle-istif-makineleri-sektorunde-buyuyor/",
+    "source_feed": "https://www.lht.com.tr/feed/",
+    "published_at": "2026-10-30T10:10:02.000Z",
+    "discovered_at": "2026-10-30T11:06:42.115Z",
+    "sector": "arac-ustu-ekipman",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 115,
+    "editorial_fit_score": 55,
+    "summary_source": "Macro MH, 2011’den bu yana kiralama, satış, yedek parça ve satış sonrası hizmetleriyle istif makineleri sektöründe faaliyet gösteriyor. Türkiye’nin yedi bölgesine yayılan mobil servis ağıyla depo içi lojistik operasyonlarını desteklediklerini belirten Macro MH Genel Müdürü Halil Gülen, “İstif makineleri sektöründe müşterilerimizin operasyonel ihtiyaçlarını analiz ederek doğru çözümler geliştiriyor ve uzun vadeli iş ortaklıkları kuruyoruz” dedi. […]",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
