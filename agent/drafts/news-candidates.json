@@ -2416,7 +2416,7 @@
   },
   {
     "id": "9e8f40e54d22c3ea",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Sinoboom, Plus serisine iki yeni yüksek erişimli elektrikli platform ekledi",
     "source_name": "LHT",
     "source_url": "https://www.lht.com.tr/sinoboom-plus-serisine-iki-yeni-yuksek-erisimli-elektrikli-platform-ekledi/",
@@ -2432,14 +2432,43 @@
     "editorial_fit_score": 77,
     "summary_source": "Sinoboom, Plus serisi kapsamında geliştirdiği TB39ERJ Plus HD ve TB42ERJ Plus HD modellerini tanıttı. Sırasıyla 41,2 ve 43,6 metre çalışma yüksekliğine ulaşabilen teleskopik personel yükseltici platformlar, yüksek erişim kapasitesini elektrikli güç aktarma sistemi, farklı direksiyon modları ve geniş çalışma alanıyla bir araya getiriyor. Personel yükseltici platform üreticisi Sinoboom, Plus ürün ailesini iki yeni elektrikli teleskopik […]",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Sinoboom, Plus serisine iki yüksek erişimli elektrikli platform ekledi",
+      "dek_tr": "TB39ERJ Plus HD ve TB42ERJ Plus HD modelleri, sırasıyla 41,2 ve 43,6 metre çalışma yüksekliğine ulaşıyor. Modeller 336 V elektrikli güç aktarma sistemi ve dört direksiyon modu sunuyor.",
+      "summary_tr": "LHT’nin haberine göre Sinoboom, Plus serisini iki teleskopik personel yükseltici platformla genişletti. TB39ERJ Plus HD’nin çalışma yüksekliği 41,2 metre, TB42ERJ Plus HD’nin ise 43,6 metre olarak açıklanıyor. Her iki modelde Inovance teknolojili 336 V elektrikli güç aktarma sistemi bulunuyor.\n\nKaynakta üç farklı taşıma kapasitesi (250, 340 ve 480 kg) ile model ve çalışma koşullarına göre 22,7, 23,6 ve 24,7 metre yatay erişim değerleri veriliyor. Dört tekerlekten yönlendirme, yengeç yürüyüşü ve ön ya da arka tekerlekten yönlendirme modları belirtilen diğer özellikler arasında. X tipi akslar kapalıyken makine genişliği 2,49 metre, açıkken 3,34 metre olarak aktarılıyor.\n\nModellerin Range Extender çözümüyle uyumlu olduğu ve güç sistemi servis noktalarına erişimi kolaylaştıracak şekilde yerleştirildiği de haberde belirtiliyor. Bu teknik bilgiler LHT’nin haberindeki üretici açıklamalarına dayanıyor.",
+      "why_it_matters_tr": "Yüksek erişimde elektrikli platformların kapasite, yatay erişim ve taşıma genişliği birlikte değerlendirilmeli. Açıklanan değerler, kiralama ve proje filolarının saha erişimi ile nakliye planlaması açısından karşılaştırma ölçütü sunuyor.",
+      "seo_title": "Sinoboom’dan 43,6 metre erişimli elektrikli platform",
+      "meta_description": "Sinoboom TB39ERJ Plus HD ve TB42ERJ Plus HD platformlarını tanıttı. Modellerin çalışma yüksekliği, elektrikli tahrik ve erişim özellikleri.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "TB39ERJ Plus HD için 41,2 metre, TB42ERJ Plus HD için 43,6 metre çalışma yüksekliği bildiriliyor.",
+        "Her iki modelde 336 V elektrikli güç aktarma sistemi bulunuyor.",
+        "Kaynak üç taşıma kapasitesi, dört direksiyon modu ve X tipi aks sistemi bildiriyor.",
+        "Kapalı akslarda genişlik 2,49 metre, açık akslarda 3,34 metre olarak veriliyor."
+      ],
+      "suggested_tags": [
+        "Sinoboom",
+        "personel yükseltici platform",
+        "elektrikli platform",
+        "teleskopik platform",
+        "kiralama ekipmanları"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "LHT haberinde belirtilen model adları ve çalışma yükseklikleri",
+        "Haberde aktarılan 336 V güç sistemi, kapasite, erişim, aks genişliği ve direksiyon modu bilgileri",
+        "Range Extender uyumluluğu ve servis erişimine ilişkin haber içeriği"
+      ],
+      "uncertainty_notes": [
+        "Girdi içinde üreticinin birincil teknik duyurusu bulunmuyor; kapasite, erişim ve güç sistemi verileri yayımlanmadan önce Sinoboom’un resmi kaynaklarından doğrulanmalı.",
+        "Range Extender’ın çalışma süresine etkisi için sayısal veri verilmemiş."
+      ],
+      "generated_at": "2026-10-30T19:54:46.738Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -2804,7 +2833,7 @@
   },
   {
     "id": "9a73ceac5c980993",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Macro MH, kiralama odaklı modeliyle istif makineleri sektöründe büyüyor",
     "source_name": "LHT",
     "source_url": "https://www.lht.com.tr/macro-mh-kiralama-odakli-modeliyle-istif-makineleri-sektorunde-buyuyor/",
@@ -2818,19 +2847,46 @@
     "editorial_fit_score": 55,
     "summary_source": "Macro MH, 2011’den bu yana kiralama, satış, yedek parça ve satış sonrası hizmetleriyle istif makineleri sektöründe faaliyet gösteriyor. Türkiye’nin yedi bölgesine yayılan mobil servis ağıyla depo içi lojistik operasyonlarını desteklediklerini belirten Macro MH Genel Müdürü Halil Gülen, “İstif makineleri sektöründe müşterilerimizin operasyonel ihtiyaçlarını analiz ederek doğru çözümler geliştiriyor ve uzun vadeli iş ortaklıkları kuruyoruz” dedi. […]",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Macro MH, istif makinelerinde kiralama ve servis modelini öne çıkarıyor",
+      "dek_tr": "Macro MH; forklift, reachtruck ve depo içi diğer ekipmanlarda kiralama, satış, yedek parça ve servis hizmetleri sunduğunu belirtiyor. Şirket yöneticisi, mobil servis ağının Türkiye’nin yedi bölgesine yayıldığını ifade ediyor.",
+      "summary_tr": "LHT’nin şirket profiline göre Macro MH, 2011’den bu yana istif makineleri alanında kiralama, satış, yedek parça ve satış sonrası hizmetler sunuyor. Şirketin ürün grupları arasında VNA makineleri, reachtruck’lar, forkliftler, istif makineleri ve akülü transpaletler sayılıyor.\n\nGenel Müdür Halil Gülen, kiralama faaliyetlerinde servis ve satış sonrası desteğin önemini vurguluyor. Haberde şirketin İstanbul merkezli olduğu ve Türkiye’nin yedi bölgesinde mobil servis ağıyla çalıştığı aktarılıyor. Macro MH ayrıca kiralama filosunu büyütmeyi hedeflediğini belirtiyor.",
+      "why_it_matters_tr": "İstif makinelerinde kiralama modelinin operasyonel değeri, ekipman tedariğinin yanında servis sürekliliğine de bağlı. Ancak haberde filo büyüklüğü, servis yanıt süresi veya operasyon performansına ilişkin ölçülebilir veri bulunmadığından içerik teknik gelişmeden çok şirketin hizmet yaklaşımını aktarıyor.",
+      "seo_title": "Macro MH’nin istif makinelerinde kiralama ve servis modeli",
+      "meta_description": "Macro MH’nin istif makineleri kiralama, satış ve servis faaliyetleri; şirketin ürün grupları ve Türkiye geneline yayıldığını belirttiği mobil servis ağı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Macro MH, 2011’den beri istif makineleri sektöründe faaliyet gösterdiğini belirtiyor.",
+        "Şirketin aktarılan ürün grupları arasında forklift, reachtruck, VNA makinesi ve akülü transpalet bulunuyor.",
+        "Şirket yöneticisi, mobil servis ağının Türkiye’nin yedi bölgesine yayıldığını ifade ediyor.",
+        "Şirket kiralama, satış, yedek parça ve satış sonrası hizmet sunduğunu bildiriyor."
+      ],
+      "suggested_tags": [
+        "Macro MH",
+        "istif makineleri",
+        "forklift",
+        "kiralama",
+        "mobil servis"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "LHT haberinde aktarılan şirketin faaliyet başlangıcı, hizmetleri ve ürün grupları",
+        "Genel Müdür Halil Gülen’in satış sonrası hizmetler ve servis ağı hakkındaki açıklamaları",
+        "Şirketin kiralama filosunu büyütme hedefi"
+      ],
+      "uncertainty_notes": [
+        "İçerik şirket yöneticisinin açıklamalarına dayanıyor; servis kapsamı ve hizmet performansı için bağımsız veri sunulmuyor.",
+        "Filo büyüklüğü, büyüme oranı ve servis yanıt süreleri belirtilmediği için haberin teknik ve ölçülebilir yenilik değeri sınırlı."
+      ],
+      "generated_at": "2026-10-30T19:54:46.738Z",
+      "generated_by": "github-models"
     }
   },
   {
     "id": "6ccc6e5818072bba",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "1,000hp tractor at Chinese show",
     "source_name": "profi",
     "source_url": "https://www.profi.co.uk/news/1000hp-tractor-at-chinese-show/",
@@ -2844,14 +2900,39 @@
     "editorial_fit_score": 55,
     "summary_source": "The BD10002-10HV was the most eye-catching of the dozen tractors on the Zhongnong Boding stand at this week’s CIAME 2026. The post 1,000hp tractor at Chinese show appeared first on Profi.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Zhongnong Boding’in 1.000 hp traktörü CIAME 2026’da sergilendi",
+      "dek_tr": "Profi’nin haber özeti, BD10002-10HV modelini Zhongnong Boding standındaki traktörler arasında öne çıkan model olarak tanımlıyor. Girdide güç değeri dışında teknik özellik verilmemiş.",
+      "summary_tr": "Profi’nin başlık ve haber özetine göre Zhongnong Boding, CIAME 2026 fuarında BD10002-10HV modelini sergiledi. Yayın, traktörü 1.000 hp sınıfında tanımlıyor ve üreticinin standında sergilenen yaklaşık bir düzine traktörden biri olduğunu aktarıyor.\n\nGirdi içindeki kaynak metni ise üç ve beş tekerlekli başka ekipmanların kabin, güç ve kullanıcı arayüzü değişikliklerinden söz ediyor; BD10002-10HV traktörüne ilişkin teknik ayrıntı içermiyor. Bu nedenle traktörün teknik özellikleri ve fuardaki tanıtım bilgileri, birincil kaynakla teyit edilmeden genişletilemez.",
+      "why_it_matters_tr": "1.000 hp sınıfındaki bir traktör, yüksek çekiş gücü gerektiren tarla uygulamaları bakımından dikkat çekici olabilir; ancak kullanım senaryosu, güç aktarımı ve performans verileri kaynakta bulunmadığından teknik değerlendirme yapmak mümkün değil.",
+      "seo_title": "CIAME 2026’da Zhongnong Boding’in 1.000 hp traktörü",
+      "meta_description": "Profi, BD10002-10HV modelini Zhongnong Boding’in CIAME 2026’da sergilediği 1.000 hp traktör olarak aktarıyor; teknik ayrıntılar sınırlı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Profi’nin başlık ve özetinde BD10002-10HV modelinden söz ediliyor.",
+        "Haber özeti modeli 1.000 hp traktör olarak tanımlıyor.",
+        "Modelin CIAME 2026’da Zhongnong Boding standında sergilendiği aktarılıyor."
+      ],
+      "suggested_tags": [
+        "Zhongnong Boding",
+        "BD10002-10HV",
+        "traktör",
+        "CIAME 2026",
+        "tarım makineleri"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Profi başlığındaki 1.000 hp traktör bilgisi",
+        "Haber özetindeki BD10002-10HV model adı, Zhongnong Boding standı ve CIAME 2026 sergileme bilgisi"
+      ],
+      "uncertainty_notes": [
+        "Girdi içindeki source_text traktörle uyuşmuyor ve farklı ekipmanların güncellemelerinden söz ediyor; model ve fuar bilgileri üretici veya fuar kaynağından doğrulanmalı.",
+        "Motor, güç aktarımı, çalışma ağırlığı, çekiş kapasitesi ve hedef uygulama gibi teknik özellikler kaynakta yer almıyor."
+      ],
+      "generated_at": "2026-10-30T19:54:46.738Z",
+      "generated_by": "github-models"
     }
   },
   {
