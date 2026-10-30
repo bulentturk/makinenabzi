@@ -420,67 +420,6 @@
     }
   },
   {
-    "id": "b2f6c6a5d98e60a1",
-    "status": "published",
-    "title_original": "TE Connectivity launches TE MINI FAKRA coaxial connector system for vehicle data links",
-    "source_name": "Charged EVs",
-    "source_url": "https://chargedevs.com/newswire/te-connectivity-launches-te-mini-fakra-coaxial-connector-system-for-vehicle-data-links/",
-    "source_feed": "https://chargedevs.com/feed/",
-    "published_at": "2026-10-26T15:12:04.000Z",
-    "discovered_at": "2026-10-26T20:23:52.608Z",
-    "sector": "elektrifikasyon",
-    "subsector": null,
-    "technologies": [
-      "elektronik-telematik",
-      "yuruyus-guc-aktarma"
-    ],
-    "relevance_score": 156,
-    "editorial_fit_score": 89,
-    "summary_source": "TE Connectivity has launched the TE MINI FAKRA connector system, a miniaturized coaxial connector designed to support data transmission in connected, automated and software-defined vehicles. The connector system provides RF... Read more »",
-    "editorial": {
-      "title_tr": "TE Connectivity, yüksek hızlı araç veri bağlantıları için MINI FAKRA sistemini tanıttı",
-      "dek_tr": "Kompakt koaksiyel konnektör sistemi, 9 GHz'e kadar RF performansı ve 24 Gbps'ye kadar veri hızını destekliyor. TE Connectivity, standart FAKRA'ya kıyasla yüzde 75'e kadar daha az yer kapladığını belirtiyor.",
-      "summary_tr": "TE Connectivity, bağlantılı, otomatik ve yazılım tanımlı araçlardaki veri iletimi için TE MINI FAKRA koaksiyel konnektör sistemini piyasaya sundu. Üreticiye göre sistem 9 GHz'e kadar RF performansı ve 24 Gbps'ye kadar veri hızını destekliyor.\n\nBelirtilen kullanım alanları arasında sürüş destek sistemleri, kamera sistemleri, dijital kokpit, anten modülleri ve V2X iletişimi bulunuyor. Sistem; GMSL2/3, FPD-Link III/IV, APIX3, MIPI ve ASA protokollerini destekliyor. TE, tasarımın standart FAKRA konnektöre göre yüzde 75'e kadar daha az alan gerektirdiğini ve montajda bağlantı sağlamlığını destekleyen özellikler içerdiğini bildiriyor.",
-      "why_it_matters_tr": "Mobil makinelerde kamera, sensör ve iletişim sistemlerinin artması, sınırlı alan içinde yüksek hızlı veri bağlantılarına duyulan ihtiyacı da artırıyor. Ancak duyurudaki protokol ve kullanım örnekleri araç odaklı; iş makinesi veya diğer off-highway uygulamalarındaki uyumluluk ayrıca doğrulanmalı.",
-      "seo_title": "TE Connectivity MINI FAKRA: 24 Gbps araç veri bağlantısı",
-      "meta_description": "TE Connectivity'nin MINI FAKRA sistemi, 9 GHz'e kadar RF performansı ve 24 Gbps veri hızını destekliyor; üretici yüzde 75'e kadar alan tasarrufu bildiriyor.",
-      "hero_image": "",
-      "reviewed": false,
-      "key_facts": [
-        "TE Connectivity, TE MINI FAKRA koaksiyel konnektör sistemini piyasaya sundu.",
-        "Üreticinin belirttiği RF performansı 9 GHz'e, veri hızı 24 Gbps'ye kadar çıkıyor.",
-        "TE, sistemin standart FAKRA'ya kıyasla yüzde 75'e kadar daha az yer kapladığını söylüyor.",
-        "Sistem dünya çapında satışa sunuldu."
-      ],
-      "suggested_tags": [
-        "TE Connectivity",
-        "MINI FAKRA",
-        "koaksiyel konnektör",
-        "araç veri bağlantısı",
-        "elektronik"
-      ],
-      "suggested_sector": "elektrifikasyon",
-      "editorial_format": "haber",
-      "suggested_technologies": [
-        "elektronik-telematik"
-      ],
-      "source_facts_used": [
-        "TE Connectivity'nin MINI FAKRA sistemini piyasaya sunduğu bilgisi",
-        "Kaynakta belirtilen 9 GHz RF performansı ve 24 Gbps veri hızı",
-        "Kaynakta sıralanan uygulama alanları ve desteklenen protokoller",
-        "Üreticinin alan kullanımı ve montaj özelliklerine ilişkin açıklamaları"
-      ],
-      "uncertainty_notes": [
-        "Teknik performans ve alan tasarrufu değerleri üretici açıklamasına dayanıyor; bağımsız doğrulama sunulmuyor.",
-        "Kaynak, sistemin off-highway veya iş makinesi uygulamalarında kullanıldığını belirtmiyor."
-      ],
-      "generated_at": "2026-10-26T20:25:02.696Z",
-      "generated_by": "github-models",
-      "review_result": "auto_published",
-      "reviewed_at": "2026-10-27T12:06:33.262Z"
-    }
-  },
-  {
     "id": "4a6c5374a51968e4",
     "status": "published",
     "title_original": "Hydreco @ EIMA 2026",
@@ -2476,6 +2415,34 @@
     }
   },
   {
+    "id": "9e8f40e54d22c3ea",
+    "status": "candidate",
+    "title_original": "Sinoboom, Plus serisine iki yeni yüksek erişimli elektrikli platform ekledi",
+    "source_name": "LHT",
+    "source_url": "https://www.lht.com.tr/sinoboom-plus-serisine-iki-yeni-yuksek-erisimli-elektrikli-platform-ekledi/",
+    "source_feed": "https://www.lht.com.tr/feed/",
+    "published_at": "2026-10-30T11:15:35.000Z",
+    "discovered_at": "2026-10-30T19:53:42.727Z",
+    "sector": "arac-ustu-ekipman",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "relevance_score": 123,
+    "editorial_fit_score": 77,
+    "summary_source": "Sinoboom, Plus serisi kapsamında geliştirdiği TB39ERJ Plus HD ve TB42ERJ Plus HD modellerini tanıttı. Sırasıyla 41,2 ve 43,6 metre çalışma yüksekliğine ulaşabilen teleskopik personel yükseltici platformlar, yüksek erişim kapasitesini elektrikli güç aktarma sistemi, farklı direksiyon modları ve geniş çalışma alanıyla bir araya getiriyor. Personel yükseltici platform üreticisi Sinoboom, Plus ürün ailesini iki yeni elektrikli teleskopik […]",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "b23693a0d63f9db5",
     "status": "drafted",
     "title_original": "Yanmar, Hitachi Advance Collaboration to Strengthen Compact Equipment Offerings in North America",
@@ -2627,32 +2594,6 @@
       ],
       "generated_at": "2026-10-30T11:07:39.868Z",
       "generated_by": "github-models"
-    }
-  },
-  {
-    "id": "bb2919fc31b7de80",
-    "status": "candidate",
-    "title_original": "ASKO Glob All, Bobcat forklift müşterileri için “Protection Plus” uzatılmış garanti programını duyurdu",
-    "source_name": "Makina Market",
-    "source_url": "https://makina-market.com.tr/asko-glob-all-bobcat-forklift-musterileri-icin-protection-plus-uzatilmis-garanti-programini-duyurdu/",
-    "source_feed": "https://makina-market.com.tr/feed/",
-    "published_at": "2026-10-26T13:46:15.000Z",
-    "discovered_at": "2026-10-27T10:08:10.723Z",
-    "sector": "is-makinalari",
-    "subsector": null,
-    "technologies": [],
-    "relevance_score": 116,
-    "editorial_fit_score": 55,
-    "summary_source": "Bobcat markasının Türkiye distribütörlüğünü yürüten ASKO Glob All, forklift kullanıcılarına yönelik yeni uzatılmış garanti programı “Protection Plus”ı müşterilerine… The post ASKO Glob All, Bobcat forklift müşterileri için “Protection Plus” uzatılmış garanti programını duyurdu first appeared on Makina Market.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
     }
   },
   {
@@ -2954,32 +2895,6 @@
     "relevance_score": 115,
     "editorial_fit_score": 55,
     "summary_source": "The Zoomlion 9DX is one of the show stoppers at this week’s CIAME (International Agricultural Machinery Exhibition), in Tianjin, China. The post Latest Zoomlion tractor peaks at 1,600hp appeared first on Profi.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
-  },
-  {
-    "id": "b084c1a239b0f215",
-    "status": "candidate",
-    "title_original": "ASKO Glob All, Bobcat forklift müşterileri için “Protection Plus” uzatılmış garanti programını duyurdu",
-    "source_name": "LHT",
-    "source_url": "https://www.lht.com.tr/asko-glob-all-bobcat-forklift-musterileri-icin-protection-plus-uzatilmis-garanti-programini-duyurdu/",
-    "source_feed": "https://www.lht.com.tr/feed/",
-    "published_at": "2026-10-26T13:47:22.000Z",
-    "discovered_at": "2026-10-26T20:23:55.440Z",
-    "sector": "arac-ustu-ekipman",
-    "subsector": null,
-    "technologies": [],
-    "relevance_score": 115,
-    "editorial_fit_score": 55,
-    "summary_source": "Bobcat markasının Türkiye distribütörlüğünü yürüten ASKO Glob All, forklift kullanıcılarına yönelik yeni uzatılmış garanti programı “Protection Plus”ı müşterilerine sunuyor. Müşterilerin beklenmeyen arıza risklerini en aza indirmeyi hedefleyen program, makinelerin daha uzun süre yetkili servis güvencesi altında çalışmasına olanak tanıyor. Beklenmeyen arıza maliyetlerine karşı ek güvence Protection Plus kapsamında, garanti şartlarına uygun olarak meydana gelen arızalarda […]",
     "editorial": {
       "title_tr": "",
       "dek_tr": "",
