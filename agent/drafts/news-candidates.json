@@ -1339,7 +1339,7 @@
   },
   {
     "id": "93386adc67f1a531",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Tropical Shipping orders first hybrid straddle carrier from Kalmar",
     "source_name": "Container News",
     "source_url": "https://container-news.com/tropical-shipping-orders-first-hybrid-straddle-carrier-from-kalmar/",
@@ -1355,14 +1355,45 @@
     "editorial_fit_score": 67,
     "summary_source": "Kalmar has received an order from Tropical Shipping for a hybrid straddle carrier and a reachstacker for its container terminal in Riviera Beach, Florida. The order was recorded in Kalmar’s third-quarter 2026 order intake, with delivery of both machines scheduled for the third quarter of 2027. The new straddle carrier will be the first hybrid […] The post Tropical Shipping orders first hybrid straddle carrier from Kalmar appeared first on Container News.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Tropical Shipping, Kalmar’dan ilk hibrit straddle carrier’ını sipariş etti",
+      "dek_tr": "Sipariş, Riviera Beach konteyner terminali için bir hibrit straddle carrier ve bir reachstacker’ı kapsıyor. Kalmar, iki makinenin teslimatını 2027’nin üçüncü çeyreği için planlıyor.",
+      "summary_tr": "Kalmar, Tropical Shipping’den Florida’daki Riviera Beach terminalinde kullanılmak üzere bir hibrit straddle carrier ve bir reachstacker siparişi aldı. Şirketin açıklamasına göre sipariş, 2026’nın üçüncü çeyreği alımlarına kaydedildi; teslimatların 2027’nin üçüncü çeyreğinde yapılması planlanıyor.\n\nHibrit straddle carrier, Tropical Shipping filosundaki ilk hibrit model olacak. Şirket, ekipman seçimini yakıt tüketimi, bakım giderleri ve emisyonları yönetme hedefleriyle ilişkilendiriyor. Makinede, performans ve operasyon bilgileri sunan MyKalmar INSIGHT filo yönetim çözümü de bulunacak.\n\nTeslimatların ardından Tropical Shipping filosunun 29 Kalmar straddle carrier ve 25 reachstacker’dan oluşacağı bildirildi. Sözleşme bedeli açıklanmadı.",
+      "why_it_matters_tr": "Hibrit taşıyıcı, liman ekipmanlarında yakıt ve bakım maliyetlerini yönetmeye yönelik bir filo tercihini gösteriyor. Ancak kaynakta hibrit sistemin mimarisi veya ölçülmüş tüketim ve emisyon kazanımları yer almadığından, bu sipariş teknoloji performansına dair bağımsız kanıt olarak değerlendirilmemeli.",
+      "seo_title": "Tropical Shipping’den Kalmar’a hibrit taşıyıcı siparişi",
+      "meta_description": "Tropical Shipping, Riviera Beach terminali için ilk hibrit straddle carrier’ını ve bir reachstacker’ı Kalmar’dan sipariş etti; teslimat 2027’de planlanıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Sipariş bir hibrit straddle carrier ve bir reachstacker içeriyor.",
+        "Ekipmanlar Tropical Shipping’in Riviera Beach, Florida terminalinde kullanılacak.",
+        "Teslimatların 2027’nin üçüncü çeyreğinde yapılması planlanıyor.",
+        "Straddle carrier, Tropical Shipping filosundaki ilk hibrit model olacak.",
+        "Hibrit makinede MyKalmar INSIGHT filo yönetim çözümü bulunacak."
+      ],
+      "suggested_tags": [
+        "Kalmar",
+        "Tropical Shipping",
+        "straddle carrier",
+        "liman ekipmanları",
+        "hibrit tahrik",
+        "konteyner elleçleme"
+      ],
+      "suggested_sector": "liman",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon",
+        "elektronik-telematik"
+      ],
+      "source_facts_used": [
+        "Kalmar’ın Tropical Shipping’den iki ekipman için sipariş aldığı ve siparişin Riviera Beach terminali için olduğu bilgisi.",
+        "Teslimat takvimi ve straddle carrier’ın filodaki ilk hibrit model olacağı bilgisi.",
+        "MyKalmar INSIGHT donanımı, filo büyüklüğü ve sözleşme bedelinin açıklanmadığı bilgisi."
+      ],
+      "uncertainty_notes": [
+        "Hibrit tahrikin teknik mimarisi ile yakıt, emisyon veya bakım maliyetlerindeki ölçülmüş etkiler kaynakta verilmemiştir; belirtilen hedefler Tropical Shipping’in açıklamasıdır."
+      ],
+      "generated_at": "2026-10-31T10:41:13.910Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -2936,7 +2967,7 @@
   },
   {
     "id": "d3182bb8a7c4a312",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Haulotte, 2026’nın ilk dokuz ayında gelirini yüzde 4 artırdı",
     "source_name": "LHT",
     "source_url": "https://www.lht.com.tr/haulotte-2026nin-ilk-dokuz-ayinda-gelirini-yuzde-4-artirdi/",
@@ -2950,19 +2981,47 @@
     "editorial_fit_score": 55,
     "summary_source": "Haulotte, 2026 yılının üçüncü çeyreğinde 121 milyon avro gelir elde ederek geçen yılın aynı dönemine yakın bir performans sergiledi. Şirketin yılın ilk dokuz ayındaki konsolide satışları ise yüzde 4 artışla 398 milyon avroya ulaştı. Avrupa bölgesi büyümeyi desteklerken Asya-Pasifik ve Latin Amerika pazarlarında gerileme kaydedildi. Personel yükseltici platform pazarında faaliyet gösteren Haulotte, 2026 mali yılının […]",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Haulotte’nin ilk dokuz aylık satışları yüzde 4 arttı",
+      "dek_tr": "Şirket, Ocak-Eylül 2026 döneminde 398 milyon avro konsolide satış bildirdi. Bölgesel sonuçlarda Avrupa büyürken Asya-Pasifik ve Latin Amerika’da gerileme kaydedildi.",
+      "summary_tr": "LHT’nin aktardığı Haulotte finansal sonuçlarına göre şirket, 2026’nın ilk dokuz ayında 398 milyon avro konsolide satış elde etti; bu, 2025’in aynı dönemine göre yüzde 4 artış anlamına geliyor. Üçüncü çeyrek geliri 121 milyon avro oldu. Sabit döviz kurları ve IAS 29 etkisi hariç tutulduğunda çeyreklik gelirde yüzde 1 düşüş bildirildi.\n\nEylül sonu itibarıyla Avrupa gelirleri yıllık bazda yüzde 16, Kuzey Amerika gelirleri yüzde 1 arttı. Asya-Pasifik’te yüzde 18, Latin Amerika’da yüzde 25 düşüş kaydedildi. İş kollarında ekipman satışları yüzde 7 artarken kiralama gelirleri yüzde 19, hizmet gelirleri yüzde 3 geriledi.\n\nŞirket, 2026 yılının tamamında en az yüzde 5 satış büyümesi beklediğini ve cari faaliyet kâr marjının yeniden pozitif olacağını öngördüğünü açıkladı. Bu beklentiler şirket tahminidir; gerçekleşmiş sonuç olarak değerlendirilmemelidir.",
+      "why_it_matters_tr": "Personel yükseltici platform pazarındaki bölgesel ve iş kolu bazlı ayrışma, ekipman üreticileri ile kiralama ve servis faaliyetleri açısından talebin aynı yönde ilerlemediğine işaret ediyor. Veriler teknik ürün performansını değil, Haulotte’nin açıkladığı ticari sonuçları yansıtıyor.",
+      "seo_title": "Haulotte’nin 2026 ilk dokuz ay satışları yüzde 4 arttı",
+      "meta_description": "Haulotte, 2026’nın ilk dokuz ayında 398 milyon avro satış bildirdi. Avrupa büyürken Asya-Pasifik ve Latin Amerika gelirleri geriledi.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Haulotte, 2026’nın ilk dokuz ayında 398 milyon avro konsolide satış bildirdi; yıllık artış yüzde 4 oldu.",
+        "Üçüncü çeyrek geliri 121 milyon avro olarak açıklandı.",
+        "İlk dokuz ayda Avrupa gelirleri yüzde 16 artarken Asya-Pasifik yüzde 18, Latin Amerika yüzde 25 geriledi.",
+        "Ekipman satışları yüzde 7 artarken kiralama gelirleri yüzde 19 düştü.",
+        "Haulotte, 2026 yılı için en az yüzde 5 satış büyümesi öngördü."
+      ],
+      "suggested_tags": [
+        "Haulotte",
+        "personel yükseltici platform",
+        "finansal sonuçlar",
+        "ekipman satışları",
+        "kiralama pazarı"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "LHT’nin aktardığı dokuz aylık ve üçüncü çeyrek satış tutarları ile yıllık değişim oranları.",
+        "Bölgesel gelir değişimleri ve ekipman, kiralama, hizmet iş kollarının sonuçları.",
+        "Haulotte’nin 2026 yılı büyüme ve faaliyet kâr marjı beklentisi."
+      ],
+      "uncertainty_notes": [
+        "Girdi, sektör yayını LHT’nin haberidir; Haulotte’nin özgün finansal açıklaması girdi içinde bulunmadığından önemli finansal veriler birincil kaynakta doğrulanmalıdır.",
+        "Yıl sonu satış ve kâr marjı ifadeleri şirket beklentileridir; bağımsız gerçekleşme verisi değildir."
+      ],
+      "generated_at": "2026-10-31T10:41:13.910Z",
+      "generated_by": "github-models"
     }
   },
   {
     "id": "72eb4201c6b2ae67",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Latest Zoomlion tractor peaks at 1,600hp",
     "source_name": "profi",
     "source_url": "https://www.profi.co.uk/news/latest-zoomlion-tractor-peaks-at-1600hp/",
@@ -2976,14 +3035,42 @@
     "editorial_fit_score": 55,
     "summary_source": "The Zoomlion 9DX is one of the show stoppers at this week’s CIAME (International Agricultural Machinery Exhibition), in Tianjin, China. The post Latest Zoomlion tractor peaks at 1,600hp appeared first on Profi.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Zoomlion 9DX haberi ile kaynak metin uyuşmuyor",
+      "dek_tr": "Başlık ve kısa özet, 1.600 hp tepe gücündeki Zoomlion 9DX traktörünü işaret ediyor. Ancak haber gövdesi traktör yerine Leboulch balya römorkundan söz ediyor; bu nedenle traktörün teknik bilgileri doğrulanamıyor.",
+      "summary_tr": "Profi’nin başlığı, Zoomlion 9DX traktörünün 1.600 hp seviyesine ulaştığını öne sürüyor. Kısa özet ise modelin Tianjin’deki CIAME tarım makineleri fuarında sergilendiğini belirtiyor.\n\nBuna karşılık sağlanan haber metni, Fransız üretici Leboulch’un balya römorkunu anlatıyor ve römorkun 1,10 metrelik taban yüksekliğini veriyor. Bu bilgi Zoomlion traktörüyle ilgili olmadığından traktörün motoru, güç aktarımı, çalışma özellikleri veya kullanım senaryosu hakkında çıkarım yapmak mümkün değil.",
+      "why_it_matters_tr": "1.600 hp iddiası tarım traktörlerinde yüksek güç sınıfı açısından dikkat çekici olabilir; ancak mevcut girdide bu teknik iddiayı destekleyen tutarlı bir haber metni bulunmuyor. Doğru model ve teknik özellikler teyit edilmeden bu içerik, teknik haber olarak güvenilir biçimde değerlendirilemez.",
+      "seo_title": "Zoomlion 9DX için 1.600 hp iddiası doğrulanamıyor",
+      "meta_description": "Profi başlığı Zoomlion 9DX için 1.600 hp iddiası taşıyor; ancak sağlanan haber metni farklı bir ürün olan Leboulch balya römorkunu anlatıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Başlık Zoomlion 9DX traktörü için 1.600 hp tepe güç iddiası içeriyor.",
+        "Kısa özet, modelin Tianjin’deki CIAME fuarında sergilendiğini belirtiyor.",
+        "Sağlanan haber gövdesi Zoomlion 9DX yerine Leboulch balya römorkunu anlatıyor.",
+        "Römork gövdesinde taban yüksekliği 1,10 m olarak veriliyor."
+      ],
+      "suggested_tags": [
+        "Zoomlion",
+        "9DX",
+        "traktör",
+        "tarım makineleri",
+        "CIAME",
+        "kaynak doğrulama"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Profi başlığındaki Zoomlion 9DX ve 1.600 hp ifadesi.",
+        "Kısa özette modelin CIAME fuarında sergilendiği bilgisi.",
+        "Gövde metnindeki Leboulch balya römorku ve 1,10 m taban yüksekliği bilgisi."
+      ],
+      "uncertainty_notes": [
+        "Başlık ve kısa özet ile haber gövdesi farklı ürünlerden söz ediyor. 1.600 hp iddiası yalnızca başlıkta yer alıyor; üretici açıklaması veya doğrulayıcı teknik bilgi girdide bulunmuyor.",
+        "Zoomlion 9DX hakkında teknik haber taslağı yayımlanmadan önce özgün haber ve birincil üretici kaynağı kontrol edilmelidir."
+      ],
+      "generated_at": "2026-10-31T10:41:13.910Z",
+      "generated_by": "github-models"
     }
   },
   {
