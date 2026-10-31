@@ -62,35 +62,6 @@
     "subsector": null
   },
   {
-    "id": "395a3531c625f4e9",
-    "status": "candidate",
-    "title_original": "Wabtec partners with Razor Labs to bring predictive maintenance to mining fleets",
-    "source_name": "International Mining",
-    "source_url": "https://im-mining.com/2026/10/27/wabtec-partners-with-razor-labs-to-bring-predictive-maintenance-to-mining-fleets/",
-    "source_feed": "https://im-mining.com/feed/",
-    "published_at": "2026-10-27T08:11:04.000Z",
-    "discovered_at": "2026-10-27T10:08:08.663Z",
-    "sector": "madencilik",
-    "subsector": null,
-    "technologies": [
-      "elektronik-telematik",
-      "fonksiyonel-guvenlik"
-    ],
-    "relevance_score": 160,
-    "editorial_fit_score": 34,
-    "summary_source": "Wabtec Digital Mine and Razor Labs have announced a new partnership, unveiled at IMARC 2026. Through this partnership, Wabtec will offer Razor Labs’ DataMind AI™ predictive maintenance solution to its mining customers. The partner companies stated: “Many mine operators have long managed fleet safety, fleet operations and equipment health through separate systems, often drawing on The post Wabtec partners with Razor Labs to bring predictive maintenance to mining fleets appeared first on International Mining.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
-  },
-  {
     "id": "2c6cca7d684cd966",
     "status": "drafted",
     "title_original": "Linak adds interface choice to IC actuators",
@@ -1355,6 +1326,34 @@
     "relevance_score": 142,
     "editorial_fit_score": 34,
     "summary_source": "Cisco and PSA Singapore have announced a strategic collaboration to develop a proof of concept for an AI-powered observability and incident management platform at Tuas Port, the world’s largest fully automated container terminal. The initiative is part of Cisco’s Country Digital Acceleration programme, through which Cisco partners with public and private sector organisations to advance […] The post Cisco and PSA Singapore collaborate on AI-driven platform for Tuas Port appeared first on Container News.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "93386adc67f1a531",
+    "status": "candidate",
+    "title_original": "Tropical Shipping orders first hybrid straddle carrier from Kalmar",
+    "source_name": "Container News",
+    "source_url": "https://container-news.com/tropical-shipping-orders-first-hybrid-straddle-carrier-from-kalmar/",
+    "source_feed": "https://container-news.com/feed/",
+    "published_at": "2026-10-31T01:21:03.000Z",
+    "discovered_at": "2026-10-31T10:40:11.989Z",
+    "sector": "liman",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "relevance_score": 140,
+    "editorial_fit_score": 67,
+    "summary_source": "Kalmar has received an order from Tropical Shipping for a hybrid straddle carrier and a reachstacker for its container terminal in Riviera Beach, Florida. The order was recorded in Kalmar’s third-quarter 2026 order intake, with delivery of both machines scheduled for the third quarter of 2027. The new straddle carrier will be the first hybrid […] The post Tropical Shipping orders first hybrid straddle carrier from Kalmar appeared first on Container News.",
     "editorial": {
       "title_tr": "",
       "dek_tr": "",
