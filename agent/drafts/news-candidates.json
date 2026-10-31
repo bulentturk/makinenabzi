@@ -1255,7 +1255,7 @@
   },
   {
     "id": "6b7152b71ca9e2e7",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Cisco and PSA Singapore collaborate on AI-driven platform for Tuas Port",
     "source_name": "Container News",
     "source_url": "https://container-news.com/cisco-and-psa-singapore-collaborate-on-ai-driven-platform-for-tuas-port/",
@@ -1272,14 +1272,46 @@
     "editorial_fit_score": 34,
     "summary_source": "Cisco and PSA Singapore have announced a strategic collaboration to develop a proof of concept for an AI-powered observability and incident management platform at Tuas Port, the world’s largest fully automated container terminal. The initiative is part of Cisco’s Country Digital Acceleration programme, through which Cisco partners with public and private sector organisations to advance […] The post Cisco and PSA Singapore collaborate on AI-driven platform for Tuas Port appeared first on Container News.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Cisco ve PSA Singapore, Tuas Limanı için yapay zekâ platformunu test edecek",
+      "dek_tr": "Cisco ve PSA Singapore, limandaki uygulama, altyapı ve ağ verilerini tek görünümde birleştirecek bir platform için kavram kanıtı çalışması başlattı. İlk testlerin Tuas Port Phase 2 Living Lab’de yapılması planlanıyor.",
+      "summary_tr": "Platform, PSA’nın uygulama, altyapı ve ağ sistemlerinden gelen gerçek zamanlı performans verilerini merkezileştirecek. Kaynakta aktarıldığına göre yapay zekâ, servisler ve altyapı arasındaki ilişkileri haritalayarak ekiplerin bir olaydan etkilenen hizmetleri belirlemesine, olası nedenleri incelemesine ve çözüm önerileri almasına yardımcı olacak.\n\nÇalışma, önce Tuas Port Phase 2 Living Lab’de test edilip geliştirilecek. Kaynak, platformun kritik liman altyapısını korumaya yönelik bulut tabanlı güvenlik özellikleri içerdiğini de belirtiyor.\n\nBu aşama bir kavram kanıtı çalışması olarak tanımlanıyor; platformun kesintileri önleme veya azaltma performansına ilişkin doğrulanmış sonuç paylaşılmıyor.",
+      "why_it_matters_tr": "Terminal işletim sistemleri ve bağlantılı altyapıdaki kesintiler yük hareketi, depolama ve takip süreçlerini etkileyebilir. Liman operasyonlarında sistemler arası görünürlük ve olay müdahalesi, ekipman otomasyonunun yanında operasyonel süreklilik açısından da önem taşıyor.",
+      "seo_title": "Cisco ve PSA'dan Tuas Limanı için yapay zekâ platformu",
+      "meta_description": "Cisco ve PSA Singapore, Tuas Limanı’nda sistem verilerini birleştirip olay müdahalesini destekleyecek yapay zekâ platformunu test edecek.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Cisco ve PSA Singapore, Tuas Port için yapay zekâ destekli gözlemlenebilirlik ve olay yönetimi platformu üzerinde çalışıyor.",
+        "Platform, uygulama, altyapı ve ağ sistemlerinden gerçek zamanlı performans verilerini bir araya getirecek.",
+        "İlk test ve geliştirme çalışmasının Tuas Port Phase 2 Living Lab’de yapılması planlanıyor.",
+        "Çalışma bir kavram kanıtı aşamasında; ölçülmüş operasyonel sonuç açıklanmamış."
+      ],
+      "suggested_tags": [
+        "Tuas Limanı",
+        "PSA Singapore",
+        "Cisco",
+        "liman dijitalleşmesi",
+        "yapay zekâ",
+        "olay yönetimi"
+      ],
+      "suggested_sector": "liman",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "otonomi-ai",
+        "elektronik-telematik"
+      ],
+      "source_facts_used": [
+        "Cisco ve PSA Singapore’ın platform için kavram kanıtı çalışması duyurduğu bilgisi",
+        "Platformun uygulama, altyapı ve ağ verilerini birleştireceği bilgisi",
+        "İlk uygulama alanının Tuas Port Phase 2 Living Lab olarak belirtildiği bilgisi",
+        "Platformun olay tespiti, kök neden incelemesi ve çözüm önerilerini desteklemesinin amaçlandığı bilgisi"
+      ],
+      "uncertainty_notes": [
+        "Girdi, Container News haberini içeriyor; Cisco veya PSA Singapore’ın birincil duyurusu sunulmadığından teknik kapsam birincil kaynakla doğrulanmalı.",
+        "Kesintileri azaltma veya önleme etkisi hedef olarak aktarılıyor; bağımsız test ya da ölçülmüş performans verisi bulunmuyor."
+      ],
+      "generated_at": "2026-10-31T19:12:51.437Z",
+      "generated_by": "github-models"
     }
   },
   {
