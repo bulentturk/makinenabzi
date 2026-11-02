@@ -878,6 +878,32 @@
     }
   },
   {
+    "id": "7c51efa6207c5c4c",
+    "status": "candidate",
+    "title_original": "Potain Expands MDT Crane Lineup with 99e and a New Control System",
+    "source_name": "Equipment World",
+    "source_url": "https://www.equipmentworld.com/aeriallifting-equipment/cranes/article/16050243/potain-debuts-new-mdt-99e-topslewing-crane",
+    "source_feed": "https://www.equipmentworld.com/feed/",
+    "published_at": "2026-11-02T17:05:00.000Z",
+    "discovered_at": "2026-11-02T23:03:46.583Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 145,
+    "editorial_fit_score": 65,
+    "summary_source": "Operators will have a max capacity of 5.51 tons with the MDT 99e and max horizontal reach of 180.4 feet.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "2282ef7a658939fa",
     "status": "drafted",
     "title_original": "BOMAG Upgrades RS 650-2 Recycler/Stabilizer With New Cab, Controls",
@@ -1029,6 +1055,34 @@
       "generated_by": "github-models"
     },
     "subsector": null
+  },
+  {
+    "id": "d1cfc836cf614a06",
+    "status": "candidate",
+    "title_original": "Field robot or autonomous tractor? Dutch grower puts both to the test",
+    "source_name": "Future Farming",
+    "source_url": "https://www.futurefarming.com/tech-in-focus/field-robots/26futweb-agbot-equus/",
+    "source_feed": "https://www.futurefarming.com/feed/",
+    "published_at": "2026-11-02T08:00:00.000Z",
+    "discovered_at": "2026-11-02T23:03:47.940Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [
+      "otonomi-ai"
+    ],
+    "relevance_score": 143,
+    "editorial_fit_score": 67,
+    "summary_source": "Field robot or autonomous tractor? Dutch grower puts both to the test Which makes more sense on an",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
   },
   {
     "id": "ae38446d52ef5913",
@@ -1629,6 +1683,32 @@
     }
   },
   {
+    "id": "f85eb9ba16824a41",
+    "status": "candidate",
+    "title_original": "Vinç&Platform Yeni Sayı Çıktı !",
+    "source_name": "Vinç & Platform",
+    "source_url": "https://vincveplatform.com/vincplatform-yeni-sayi-cikti-2/",
+    "source_feed": "https://vincveplatform.com/feed/",
+    "published_at": "2026-11-02T13:25:51.000Z",
+    "discovered_at": "2026-11-02T23:03:48.457Z",
+    "sector": "liman",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 134,
+    "editorial_fit_score": 65,
+    "summary_source": "",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "ebb521f201d2900c",
     "status": "drafted",
     "title_original": "İstanbul Vinç’e IAPAs 2026’da “Eşitlik, Çeşitlilik ve Kapsayıcılık” Ödülü",
@@ -1783,65 +1863,6 @@
       ],
       "generated_at": "2026-10-22T09:46:05.296Z",
       "generated_by": "github-models"
-    }
-  },
-  {
-    "id": "508b6ddebae49568",
-    "status": "published",
-    "title_original": "Aarhus Tests Denmark’s First Shore Power for Containerships",
-    "source_name": "The Maritime Executive",
-    "source_url": "https://maritime-executive.com/article/aarhus-tests-denmark-s-first-shore-power-for-containerships",
-    "source_feed": "https://maritime-executive.com/articles.rss",
-    "published_at": "2026-10-28T23:41:28.000Z",
-    "discovered_at": "2026-10-29T11:12:11.580Z",
-    "sector": "marine-yatcilik",
-    "subsector": null,
-    "technologies": [
-      "elektrifikasyon"
-    ],
-    "relevance_score": 132,
-    "editorial_fit_score": 79,
-    "summary_source": "",
-    "editorial": {
-      "title_tr": "Aarhus Limanı, konteyner gemileri için kıyı elektriğini test etti",
-      "dek_tr": "Danimarka’daki Aarhus Limanı, konteyner gemilerine yönelik kıyı elektriği tesisini Dettifoss gemisiyle denedi. Gemi yaklaşık 10 saatlik bağlantı sırasında karadan yaklaşık 6,5 MWh elektrik aldı.",
-      "summary_tr": "Aarhus Limanı’ndaki yeni kıyı elektriği tesisi, Eimskip tarafından işletilen Dettifoss konteyner gemisinin deneme yanaşmasıyla test edildi. Kaynakta geminin yaklaşık 10 saat bağlı kaldığı ve bu sürede karadan yaklaşık 6,5 MWh enerji aldığı aktarılıyor.\n\nLiman yetkilileri tesisin günlük kullanıma Ocak 2027’de hazır olmasının planlandığını belirtti. Tam kapasiteye ulaştığında aynı anda dört konteyner gemisine hizmet verebilmesi hedefleniyor. Konteyner terminallerinde gemi boyutu ve yanaşma konumlarının değişmesi, ayrıca gemi sistemleriyle soğutmalı konteynerlerin enerji gereksinimi, şebeke ve bağlantı esnekliği açısından farklı ihtiyaçlar doğuruyor.\n\nKaynağa göre proje, limandaki gürültü ve parçacık kirliliğini azaltmayı ve limanı rıhtımda kıyı elektriği kullanımına ilişkin 2030’da yürürlüğe girecek AB düzenlemesine hazırlamayı amaçlıyor. Bunlar liman yetkililerinin belirttiği hedef ve düzenleme takvimidir.",
-      "why_it_matters_tr": "Konteyner terminallerinde kıyı elektriği, gemiler rıhtımdayken enerji ihtiyacının liman altyapısıyla karşılanmasını gerektiriyor. Aarhus örneği, birden fazla gemiye ve değişken yanaşma koşullarına hizmet edecek elektrifikasyon altyapısının liman planlaması açısından önemini ortaya koyuyor.",
-      "seo_title": "Aarhus’ta konteyner gemileri için kıyı elektriği testi",
-      "meta_description": "Aarhus Limanı, Dettifoss’u yaklaşık 10 saat kıyı elektriğine bağlayarak konteyner gemileri için yeni tesisini test etti; günlük kullanım 2027’de planlanıyor.",
-      "hero_image": "",
-      "reviewed": false,
-      "key_facts": [
-        "Dettifoss deneme sırasında yaklaşık 10 saat kıyı elektriğine bağlı kaldı.",
-        "Gemi karadan yaklaşık 6,5 MWh enerji aldı.",
-        "Liman, tesisin Ocak 2027’de günlük kullanıma hazır olmasını planlıyor.",
-        "Tamamlandığında aynı anda dört konteyner gemisine hizmet verme kapasitesi hedefleniyor."
-      ],
-      "suggested_tags": [
-        "Aarhus Limanı",
-        "kıyı elektriği",
-        "liman elektrifikasyonu",
-        "konteyner gemisi",
-        "Dettifoss"
-      ],
-      "suggested_sector": "liman",
-      "editorial_format": "haber",
-      "suggested_technologies": [
-        "elektrifikasyon"
-      ],
-      "source_facts_used": [
-        "Dettifoss’un test bağlantısının süresi ve aldığı yaklaşık enerji",
-        "Tesisin planlanan günlük kullanım tarihi ve eş zamanlı gemi kapasitesi",
-        "Konteyner terminalindeki enerji ve bağlantı esnekliği gereksinimleri",
-        "Liman yetkililerinin belirttiği çevresel hedefler ve AB düzenlemesinin yürürlük tarihi"
-      ],
-      "uncertainty_notes": [
-        "Test sonuçları ve tesis takvimi ikincil haber kaynağında aktarılmıştır; tesis işletmecisi veya resmi düzenleme metni bu girdide sunulmamıştır."
-      ],
-      "generated_at": "2026-10-29T11:13:09.656Z",
-      "generated_by": "github-models",
-      "review_result": "auto_published",
-      "reviewed_at": "2026-11-02T15:43:26.667Z"
     }
   },
   {
