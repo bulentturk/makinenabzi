@@ -62,6 +62,34 @@
     "subsector": null
   },
   {
+    "id": "f792374658b1b6b8",
+    "status": "candidate",
+    "title_original": "Liebherr expands electric excavator range with new 250-tonne-class R 9300 G8-E",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/11/02/liebherr-expands-electric-excavator-range-with-new-250-tonne-class-r-9300-g8-e/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-11-02T11:08:09.000Z",
+    "discovered_at": "2026-11-02T12:58:23.553Z",
+    "sector": "madencilik",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "relevance_score": 158,
+    "editorial_fit_score": 77,
+    "summary_source": "Liebherr has expanded its electric excavator range with the new R 9300 G8-E, a 250-t class platform that is now available for commercial deployment. The R 9300 G8-E is based on the proven R 9300 G8, and, as such, is designed to provide the same level of productivity as its diesel counterpart. Drawing on Liebherr’s The post Liebherr expands electric excavator range with new 250-tonne-class R 9300 G8-E appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "2c6cca7d684cd966",
     "status": "drafted",
     "title_original": "Linak adds interface choice to IC actuators",
@@ -333,65 +361,6 @@
       ],
       "generated_at": "2026-10-22T19:08:36.421Z",
       "generated_by": "github-models"
-    }
-  },
-  {
-    "id": "4a6c5374a51968e4",
-    "status": "published",
-    "title_original": "Hydreco @ EIMA 2026",
-    "source_name": "Powertrain International Off-Highway",
-    "source_url": "https://www.powertraininternationalweb.com/events/hydreco-eima-2026/",
-    "source_feed": "https://www.powertraininternationalweb.com/category/off-highway/feed/",
-    "published_at": "2026-10-29T10:14:33.000Z",
-    "discovered_at": "2026-10-29T11:12:12.235Z",
-    "sector": "is-makinalari",
-    "subsector": null,
-    "technologies": [
-      "yuruyus-guc-aktarma",
-      "termal-yonetim"
-    ],
-    "relevance_score": 154,
-    "editorial_fit_score": 79,
-    "summary_source": "At EIMA 2026, Hydreco will showcase four dedicated solution areas covering key mobile machinery applications, from working functions and traction to cooling systems The post Hydreco @ EIMA 2026 appeared first on Powertrain International.",
-    "editorial": {
-      "title_tr": "Hydreco, EIMA 2026’da paletli mini damperli için entegre kontrol sistemini sergileyecek",
-      "dek_tr": "Hydreco, EIMA International 2026’da hidrolik ve elektronik bileşenlerden oluşan bir hareket kontrol sistemini paletli mini damperli üzerinde göstereceğini duyurdu. Sistem, makinenin yürüyüş ve çalışma işlevlerini birlikte yönetmeye yönelik bileşenleri bir araya getiriyor.",
-      "summary_tr": "Hydreco Hydraulics, EIMA International 2026’da mobil makineler için hidrolik ve elektronik çözümlerini sergileyeceğini açıkladı. Şirketin standında, bileşenlerin birlikte çalışmasını gösteren paletli mini damperli yer alacak.\n\nKaynağa göre uygulamada HY1 serisi çoklu pompa, hidrolik pilot kumandalar, MHDC elektronik joystick, elektronik kontrol ünitesi, akümülatörlü güç besleme ünitesi, hidrolik silindir ve yön kontrol valfi bulunuyor. Bu bileşenler makinenin hareketini ve çalışma işlevlerini yönetmek üzere bir araya getiriliyor.\n\nHydreco, örneği makine üreticilerine tekil parçalar yerine entegre çözümler sunma yaklaşımının göstergesi olarak tanımlıyor. Bu, şirketin etkinlik öncesinde paylaştığı ürün ve sergileme duyurusudur.",
-      "why_it_matters_tr": "Mini damperli örneği, hidrolik güç üretimiyle elektronik kumandanın tek bir makine üzerinde nasıl eşgüdümlenebileceğini gösteriyor. Bu tür sistem entegrasyonu, kompakt mobil makinelerde işlevlerin makine üreticisinin ihtiyaçlarına göre düzenlenmesi açısından önem taşıyabilir.",
-      "seo_title": "Hydreco, EIMA 2026’da entegre hidrolik sistemi sergileyecek",
-      "meta_description": "Hydreco, EIMA 2026’da HY1 pompa, MHDC joystick ve diğer bileşenleri paletli mini damperli üzerinde bir araya getiren sistemi tanıtacak.",
-      "hero_image": "",
-      "reviewed": false,
-      "key_facts": [
-        "Hydreco, EIMA International 2026’da sergiye katılacağını duyurdu.",
-        "Sergilenecek paletli mini damperlide HY1 serisi çoklu pompa ve MHDC elektronik joystick yer alacak.",
-        "Duyuruda ayrıca ECU, akümülatörlü güç besleme ünitesi, hidrolik silindir ve yön kontrol valfi sayılıyor."
-      ],
-      "suggested_tags": [
-        "Hydreco",
-        "EIMA 2026",
-        "paletli mini damperli",
-        "hidrolik sistem",
-        "elektronik kontrol"
-      ],
-      "suggested_sector": "is-makinalari",
-      "editorial_format": "haber",
-      "suggested_technologies": [
-        "hidrolik",
-        "elektronik-telematik"
-      ],
-      "source_facts_used": [
-        "Hydreco’nun EIMA International 2026’ya katılacağı bilgisi",
-        "Paletli mini damperli üzerinde gösterilecek bileşen listesi",
-        "Sistemin makine hareketi ve çalışma işlevlerini yönetme amacı"
-      ],
-      "uncertainty_notes": [
-        "Kaynakta sistemin performans ölçümleri, teknik değerleri veya bağımsız saha testi bulunmuyor; sistem bileşenlerine ilişkin bilgiler şirket duyurusuna dayanıyor."
-      ],
-      "generated_at": "2026-10-29T11:13:09.656Z",
-      "generated_by": "github-models",
-      "review_result": "auto_published",
-      "reviewed_at": "2026-10-29T12:56:08.012Z"
     }
   },
   {
@@ -763,63 +732,6 @@
       ],
       "generated_at": "2026-10-23T19:03:05.099Z",
       "generated_by": "github-models"
-    }
-  },
-  {
-    "id": "e06d3940e9391197",
-    "status": "published",
-    "title_original": "Nominations open for 2026 Gussies electric boat awards",
-    "source_name": "Marine Industry News",
-    "source_url": "https://marineindustrynews.co.uk/gussies-awards-open-nominations-for-2026/",
-    "source_feed": "https://marineindustrynews.co.uk/feed/",
-    "published_at": "2026-10-29T09:15:57.000Z",
-    "discovered_at": "2026-10-29T20:09:22.713Z",
-    "sector": "marine-yatcilik",
-    "subsector": null,
-    "technologies": [
-      "elektrifikasyon"
-    ],
-    "relevance_score": 146,
-    "editorial_fit_score": 79,
-    "summary_source": "Nominations are now open for the seventh annual Gustave Trouvé Awards for Excellence in Electric Boats and Boating, known as The Gussies. Entries close at midnight EST on 22 November 2026. Winners will be announced on 13 January 2027. Electric boating news website Plugboats founded the awards in 2020 to recognise achievement and innovation in […] The post Nominations open for 2026 Gussies electric boat awards appeared first on Marine Industry News.",
-    "editorial": {
-      "title_tr": "2026 Gussies elektrikli tekne ödüllerinde başvurular açıldı",
-      "dek_tr": "Elektrikli tekne ve tahrik sistemlerini kapsayan Gussies ödülleri için adaylıklar 22 Kasım 2026'ya kadar yapılabilecek. Kazananların 13 Ocak 2027'de açıklanması planlanıyor.",
-      "summary_tr": "Plugboats tarafından 2020'de başlatılan Gustave Trouvé Awards for Excellence in Electric Boats and Boating, yedinci kez düzenleniyor. Adaylıklar 22 Kasım 2026 gece yarısında (EST) sona erecek; finalistlerin 2 Aralık'ta duyurulması ve halk oylamasının başlaması bekleniyor.\n\nÖdüller; güneş enerjili günübirlik teknelerden hidrofoilli su taksilerine ve açık deniz yelkenlilerine kadar farklı araçları kapsayan 10 kategoriden oluşuyor. Adaylık koşullarına göre motorlu teknelerde elektrikli tahrik ana sistem olmalı; hibrit tekneler ise ancak tamamen elektrikli bir sürümü satışta olduğunda uygun sayılıyor.",
-      "why_it_matters_tr": "Ödül programı, denizcilik elektrifikasyonundaki farklı tekne ve tahrik uygulamalarını bir arada izlemek için sektörel bir gösterge sunabilir; ancak adaylık duyurusu tek başına teknik performans veya pazar başarısı kanıtı değildir.",
-      "seo_title": "2026 Gussies elektrikli tekne ödülleri için başvurular",
-      "meta_description": "2026 Gussies elektrikli tekne ödüllerinde adaylıklar 22 Kasım'da kapanıyor. Program 10 kategoriyi kapsıyor; kazananlar 13 Ocak'ta açıklanacak.",
-      "hero_image": "",
-      "reviewed": false,
-      "key_facts": [
-        "Adaylıklar 22 Kasım 2026'da kapanıyor.",
-        "Finalistlerin 2 Aralık'ta, kazananların 13 Ocak 2027'de açıklanması planlanıyor.",
-        "Ödüller 10 kategori ve alt kategoriyi kapsıyor.",
-        "Motorlu teknelerde elektrikli tahrikin ana sistem olması gerekiyor."
-      ],
-      "suggested_tags": [
-        "elektrikli tekne",
-        "deniz elektrifikasyonu",
-        "elektrikli tahrik",
-        "Gussies"
-      ],
-      "suggested_sector": "marine-yatcilik",
-      "editorial_format": "haber",
-      "suggested_technologies": [
-        "elektrifikasyon"
-      ],
-      "source_facts_used": [
-        "Ödüllerin yedinci kez düzenlendiği ve adaylık takvimi.",
-        "Programın 10 kategori ve farklı elektrikli tekne türlerini kapsadığı.",
-        "Motorlu tekne ve hibrit tekneler için belirtilen uygunluk koşulları."
-      ],
-      "uncertainty_notes": [
-        "Kaynakta ödül kategorilerinin tam listesi ve aday projelerin teknik ayrıntıları yer almıyor; duyuru bağımsız performans değerlendirmesi sunmuyor."
-      ],
-      "generated_at": "2026-10-29T20:10:29.083Z",
-      "generated_by": "github-models",
-      "review_result": "auto_published",
-      "reviewed_at": "2026-10-30T12:49:28.683Z"
     }
   },
   {
@@ -2161,6 +2073,32 @@
     }
   },
   {
+    "id": "1d7893f15eed75fe",
+    "status": "candidate",
+    "title_original": "Second TBM prepared for Potomac River Tunnel launch",
+    "source_name": "Tunnels & Tunnelling",
+    "source_url": "https://www.tunnelsandtunnelling.com/news/second-tbm-prepared-for-potomac-river-tunnel-launch/",
+    "source_feed": "https://www.tunnelsandtunnelling.com/feed/",
+    "published_at": "2026-11-02T11:46:58.000Z",
+    "discovered_at": "2026-11-02T12:58:23.130Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 126,
+    "editorial_fit_score": 65,
+    "summary_source": "Second TBM prepared for Potomac River Tunnel launch The TBM for DC Water’s Clean Rivers Program will be launched in December. The post Second TBM prepared for Potomac River Tunnel launch appeared first on Tunnels and Tunnelling.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "3a71f0891b49a9b6",
     "status": "drafted",
     "title_original": "First Yonge North Subway Extension TBM arrives",
@@ -2836,6 +2774,32 @@
       ],
       "generated_at": "2026-10-20T09:45:23.236Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "616a007b605758df",
+    "status": "candidate",
+    "title_original": "Rent Rise, IPAF eğitimleriyle sektördeki öncü konumunu güçlendiriyor",
+    "source_name": "LHT",
+    "source_url": "https://www.lht.com.tr/rent-rise-ipaf-egitimleriyle-sektordeki-oncu-konumunu-guclendiriyor/",
+    "source_feed": "https://www.lht.com.tr/feed/",
+    "published_at": "2026-11-02T10:05:46.000Z",
+    "discovered_at": "2026-11-02T12:58:27.277Z",
+    "sector": "arac-ustu-ekipman",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 115,
+    "editorial_fit_score": 55,
+    "summary_source": "Personel yükseltici platform kiralama sektöründe faaliyet gösteren Rent Rise, IPAF eğitimleriyle operatör güvenliğinin geliştirilmesine katkı sağlıyor. 2012 yılında Türkiye’nin ilk IPAF üyesi, olan şirket, eğitim alanındaki çalışmalarını uluslararası düzeyde sürdürüyor. Rent Rise Genel Müdürü Erhan Acar, şirketin yıllar içinde gerçekleştirdiği çalışmalara değinerek, “Bunca yıldır elde ettiğimiz başarılar, şimdiye kadar bu şirkette emeği geçmiş ve geçmekte […]",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
