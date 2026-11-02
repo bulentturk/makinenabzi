@@ -879,7 +879,7 @@
   },
   {
     "id": "7c51efa6207c5c4c",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Potain Expands MDT Crane Lineup with 99e and a New Control System",
     "source_name": "Equipment World",
     "source_url": "https://www.equipmentworld.com/aeriallifting-equipment/cranes/article/16050243/potain-debuts-new-mdt-99e-topslewing-crane",
@@ -893,14 +893,36 @@
     "editorial_fit_score": 65,
     "summary_source": "Operators will have a max capacity of 5.51 tons with the MDT 99e and max horizontal reach of 180.4 feet.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Potain MDT 99e: 5,51 ton kapasite ve 55 metre yatay erişim",
+      "dek_tr": "Equipment World, Potain MDT 99e kule vinç için 5,51 ton azami kapasite ve 180,4 feet yatay erişim bildiriyor. Başlık ayrıca yeni bir kontrol sisteminden söz ediyor; sistemin özellikleri verilen kaynak metninde açıklanmıyor.",
+      "summary_tr": "Equipment World’ün haber başlığı, Potain’in MDT vinç serisine 99e modelini ve yeni bir kontrol sistemini eklediğini belirtiyor. Haberin mevcut kısa metni, vinç için 5,51 ton azami kapasite ve 180,4 feet azami yatay erişim bilgisi veriyor.\n\nKontrol sisteminin işlevleri, modelin teknik yapılandırması ve belirtilen kapasite ile erişimin hangi çalışma koşullarında geçerli olduğu kaynak metninde bulunmuyor.",
+      "why_it_matters_tr": "Kapasite ve erişim, kule vincin şantiye yerleşimi ve kaldırma planlaması açısından temel seçim ölçütleridir. Yeni kontrol sisteminin operatör iş akışına veya güvenliğe etkisini değerlendirmek için daha fazla teknik bilgi gerekir.",
+      "seo_title": "Potain MDT 99e kule vinç: kapasite ve erişim",
+      "meta_description": "Potain MDT 99e için bildirilen azami kapasite 5,51 ton, yatay erişim 180,4 feet. Yeni kontrol sisteminin ayrıntıları mevcut kaynakta yer almıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Equipment World haber başlığı Potain MDT 99e modelini ve yeni bir kontrol sistemini duyuruyor.",
+        "Kaynak özeti azami kapasiteyi 5,51 ton, azami yatay erişimi 180,4 feet olarak veriyor."
+      ],
+      "suggested_tags": [
+        "Potain",
+        "MDT 99e",
+        "kule vinç",
+        "vinç kontrol sistemi"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Equipment World başlığında MDT 99e ve yeni kontrol sistemi duyurusu.",
+        "Kaynak özetinde verilen 5,51 ton kapasite ve 180,4 feet yatay erişim."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfasına HTTP 403 nedeniyle erişilemedi. Teknik değerler ve kontrol sistemi özellikleri üreticinin resmi duyurusundan doğrulanmalı; bağımsız performans verisi mevcut değil."
+      ],
+      "generated_at": "2026-11-02T23:04:45.403Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -1058,7 +1080,7 @@
   },
   {
     "id": "d1cfc836cf614a06",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Field robot or autonomous tractor? Dutch grower puts both to the test",
     "source_name": "Future Farming",
     "source_url": "https://www.futurefarming.com/tech-in-focus/field-robots/26futweb-agbot-equus/",
@@ -1074,14 +1096,35 @@
     "editorial_fit_score": 67,
     "summary_source": "Field robot or autonomous tractor? Dutch grower puts both to the test Which makes more sense on an",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Hollandalı üretici tarla robotu ile otonom traktörü karşılaştırıyor",
+      "dek_tr": "Future Farming başlığı, Hollandalı bir üreticinin tarla robotu ve otonom traktörü sahada denediğini bildiriyor. Denemelerin koşulları ve sonuçları mevcut kaynak metninde yer almıyor.",
+      "summary_tr": "Future Farming’in haber başlığı, Hollandalı bir yetiştiricinin tarla robotu ile otonom traktörü karşılaştırmalı olarak denediğini belirtiyor.\n\nKaynak sayfasına erişilemediği için makinelerin modelleri, görevleri, deneme koşulları ve performans sonuçları doğrulanamıyor.",
+      "why_it_matters_tr": "Tarla robotu ve otonom traktörün farklı görevlerdeki kullanımını karşılaştırmak, tarımda otomasyon yatırımlarını değerlendiren işletmeler için anlamlı olabilir; ancak mevcut bilgiler uygulama veya sonuç analizi yapmaya yetmiyor.",
+      "seo_title": "Tarla robotu ve otonom traktör karşılaştırılıyor",
+      "meta_description": "Future Farming başlığı, Hollandalı bir yetiştiricinin tarla robotu ile otonom traktörü denediğini bildiriyor; test ayrıntıları doğrulanamıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Haber başlığı, Hollandalı bir yetiştiricinin tarla robotu ile otonom traktörü denediğini belirtiyor."
+      ],
+      "suggested_tags": [
+        "tarım robotları",
+        "otonom traktör",
+        "tarımda otonomi"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "otonomi-ai"
+      ],
+      "source_facts_used": [
+        "Kaynak başlığındaki, Hollandalı bir yetiştiricinin tarla robotu ile otonom traktörü denediği bilgisi."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfasına HTTP 403 nedeniyle erişilemedi; üretici, ürün modelleri, deneme koşulları ve bulgular birincil kaynaktan doğrulanmalı."
+      ],
+      "generated_at": "2026-11-02T23:04:45.403Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -1684,7 +1727,7 @@
   },
   {
     "id": "f85eb9ba16824a41",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Vinç&Platform Yeni Sayı Çıktı !",
     "source_name": "Vinç & Platform",
     "source_url": "https://vincveplatform.com/vincplatform-yeni-sayi-cikti-2/",
@@ -1698,14 +1741,32 @@
     "editorial_fit_score": 65,
     "summary_source": "",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Vinç&Platform yeni sayısını duyurdu",
+      "dek_tr": "Vinç&Platform, yeni sayısının yayımlandığını duyuruyor. Verilen içerikte sayının teknik haberleri veya ekipman gelişmeleri hakkında bilgi bulunmuyor.",
+      "summary_tr": "Vinç&Platform sayfasının başlığı yeni bir sayının çıktığını bildiriyor. Kaynak metninde yalnızca tarayıcıya isim, e-posta ve web sitesi kaydetmeye ilişkin bir form ifadesi yer alıyor.\n\nSayıdaki içerik, ürünler veya sektördeki gelişmeler hakkında doğrulanabilir bilgi verilmediğinden, bu duyurudan teknik haber taslağı oluşturulamıyor.",
+      "why_it_matters_tr": "Yeni sayı duyurusu tek başına Makine Nabzı’nın teknik odağı için ölçülebilir bir ekipman veya teknoloji gelişmesi sunmuyor; içerik ayrıntıları olmadan haberleştirmek okuyucuya teknik değer sağlamaz.",
+      "seo_title": "Vinç&Platform yeni sayısını duyurdu",
+      "meta_description": "Vinç&Platform yeni sayısını duyurdu; ancak sağlanan kaynak metninde sayı içeriği veya teknik ekipman gelişmelerine ilişkin bilgi bulunmuyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Vinç&Platform sayfasının başlığı yeni bir sayının çıktığını duyuruyor."
+      ],
+      "suggested_tags": [
+        "Vinç&Platform",
+        "sektör yayını"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Sayfa başlığındaki yeni sayı duyurusu."
+      ],
+      "uncertainty_notes": [
+        "Sağlanan metin sayı içeriğini açıklamıyor; teknik haber değeri değerlendirmesi için dergideki ilgili haber veya ürün duyurusunun ayrıca incelenmesi gerekir."
+      ],
+      "generated_at": "2026-11-02T23:04:45.403Z",
+      "generated_by": "github-models"
     }
   },
   {
