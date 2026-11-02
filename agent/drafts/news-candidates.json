@@ -1787,7 +1787,7 @@
   },
   {
     "id": "508b6ddebae49568",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Aarhus Tests Denmark’s First Shore Power for Containerships",
     "source_name": "The Maritime Executive",
     "source_url": "https://maritime-executive.com/article/aarhus-tests-denmark-s-first-shore-power-for-containerships",
@@ -1839,7 +1839,9 @@
         "Test sonuçları ve tesis takvimi ikincil haber kaynağında aktarılmıştır; tesis işletmecisi veya resmi düzenleme metni bu girdide sunulmamıştır."
       ],
       "generated_at": "2026-10-29T11:13:09.656Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "review_result": "auto_published",
+      "reviewed_at": "2026-11-02T15:43:26.667Z"
     }
   },
   {

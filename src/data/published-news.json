@@ -1,5 +1,38 @@
 [
   {
+    "id": "508b6ddebae49568",
+    "slug": "aarhus-limani-konteyner-gemileri-icin-kiyi-elektrigini-test-etti",
+    "title": "Aarhus Limanı, konteyner gemileri için kıyı elektriğini test etti",
+    "dek": "Danimarka’daki Aarhus Limanı, konteyner gemilerine yönelik kıyı elektriği tesisini Dettifoss gemisiyle denedi. Gemi yaklaşık 10 saatlik bağlantı sırasında karadan yaklaşık 6,5 MWh elektrik aldı.",
+    "summary": "Aarhus Limanı’ndaki yeni kıyı elektriği tesisi, Eimskip tarafından işletilen Dettifoss konteyner gemisinin deneme yanaşmasıyla test edildi. Kaynakta geminin yaklaşık 10 saat bağlı kaldığı ve bu sürede karadan yaklaşık 6,5 MWh enerji aldığı aktarılıyor.\n\nLiman yetkilileri tesisin günlük kullanıma Ocak 2027’de hazır olmasının planlandığını belirtti. Tam kapasiteye ulaştığında aynı anda dört konteyner gemisine hizmet verebilmesi hedefleniyor. Konteyner terminallerinde gemi boyutu ve yanaşma konumlarının değişmesi, ayrıca gemi sistemleriyle soğutmalı konteynerlerin enerji gereksinimi, şebeke ve bağlantı esnekliği açısından farklı ihtiyaçlar doğuruyor.\n\nKaynağa göre proje, limandaki gürültü ve parçacık kirliliğini azaltmayı ve limanı rıhtımda kıyı elektriği kullanımına ilişkin 2030’da yürürlüğe girecek AB düzenlemesine hazırlamayı amaçlıyor. Bunlar liman yetkililerinin belirttiği hedef ve düzenleme takvimidir.",
+    "why_it_matters": "Konteyner terminallerinde kıyı elektriği, gemiler rıhtımdayken enerji ihtiyacının liman altyapısıyla karşılanmasını gerektiriyor. Aarhus örneği, birden fazla gemiye ve değişken yanaşma koşullarına hizmet edecek elektrifikasyon altyapısının liman planlaması açısından önemini ortaya koyuyor.",
+    "key_facts": [
+      "Dettifoss deneme sırasında yaklaşık 10 saat kıyı elektriğine bağlı kaldı.",
+      "Gemi karadan yaklaşık 6,5 MWh enerji aldı.",
+      "Liman, tesisin Ocak 2027’de günlük kullanıma hazır olmasını planlıyor.",
+      "Tamamlandığında aynı anda dört konteyner gemisine hizmet verme kapasitesi hedefleniyor."
+    ],
+    "format": "haber",
+    "sector": "liman",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "tags": [
+      "Aarhus Limanı",
+      "kıyı elektriği",
+      "liman elektrifikasyonu",
+      "konteyner gemisi",
+      "Dettifoss"
+    ],
+    "source_name": "The Maritime Executive",
+    "source_url": "https://maritime-executive.com/article/aarhus-tests-denmark-s-first-shore-power-for-containerships",
+    "source_published_at": "2026-10-28T23:41:28.000Z",
+    "site_published_at": "2026-11-02T15:43:26.667Z",
+    "hero_image": "",
+    "publish_mode": "automatic"
+  },
+  {
     "id": "e06d3940e9391197",
     "slug": "2026-gussies-elektrikli-tekne-odullerinde-basvurular-acildi",
     "title": "2026 Gussies elektrikli tekne ödüllerinde başvurular açıldı",
