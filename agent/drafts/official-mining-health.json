@@ -5,8 +5,8 @@
     "ok": true,
     "links": 25,
     "new_links": 0,
-    "checked_at": "2026-11-01T12:48:01.981Z",
-    "duration_ms": 1225
+    "checked_at": "2026-11-02T14:56:33.623Z",
+    "duration_ms": 997
   },
   {
     "source": "Epiroc",
@@ -14,8 +14,8 @@
     "ok": false,
     "links": 0,
     "new_links": 0,
-    "checked_at": "2026-11-01T12:48:01.444Z",
-    "duration_ms": 657,
+    "checked_at": "2026-11-02T14:56:33.162Z",
+    "duration_ms": 492,
     "error": "HTTP 403"
   },
   {
@@ -24,8 +24,8 @@
     "ok": true,
     "links": 2,
     "new_links": 0,
-    "checked_at": "2026-11-01T12:48:01.826Z",
-    "duration_ms": 1038
+    "checked_at": "2026-11-02T14:56:33.343Z",
+    "duration_ms": 671
   },
   {
     "source": "Getman",
@@ -33,8 +33,8 @@
     "ok": true,
     "links": 2,
     "new_links": 0,
-    "checked_at": "2026-11-01T12:48:07.744Z",
-    "duration_ms": 6955
+    "checked_at": "2026-11-02T14:56:37.331Z",
+    "duration_ms": 4658
   },
   {
     "source": "Hencon",
@@ -42,7 +42,7 @@
     "ok": true,
     "links": 0,
     "new_links": 0,
-    "checked_at": "2026-11-01T12:48:02.334Z",
-    "duration_ms": 1544
+    "checked_at": "2026-11-02T14:56:34.037Z",
+    "duration_ms": 1363
   }
 ]
