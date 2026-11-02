@@ -63,7 +63,7 @@
   },
   {
     "id": "f792374658b1b6b8",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Liebherr expands electric excavator range with new 250-tonne-class R 9300 G8-E",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/11/02/liebherr-expands-electric-excavator-range-with-new-250-tonne-class-r-9300-g8-e/",
@@ -79,14 +79,42 @@
     "editorial_fit_score": 77,
     "summary_source": "Liebherr has expanded its electric excavator range with the new R 9300 G8-E, a 250-t class platform that is now available for commercial deployment. The R 9300 G8-E is based on the proven R 9300 G8, and, as such, is designed to provide the same level of productivity as its diesel counterpart. Drawing on Liebherr’s The post Liebherr expands electric excavator range with new 250-tonne-class R 9300 G8-E appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Liebherr R 9300 G8-E elektrikli ekskavatör satışa sunuldu",
+      "dek_tr": "Liebherr, R 9300 G8 tabanlı 250 ton sınıfındaki R 9300 G8-E’yi ticari kullanıma açtı. Üretici, elektrikli modelin dizel karşılığıyla aynı üretkenlik düzeyini sağlamasının hedeflendiğini belirtiyor.",
+      "summary_tr": "International Mining’in haber özetine göre Liebherr, elektrikli ekskavatör ürün gamını R 9300 G8-E ile genişletti. Model, 250 ton sınıfında konumlanıyor ve ticari kullanıma sunulmuş durumda.\n\nMakine, R 9300 G8 platformunu temel alıyor. Liebherr’in hedefi, elektrikli versiyonun dizel karşılığıyla aynı üretkenlik düzeyini sunması. Ancak erişilebilen kaynak metninde elektrik motoru, enerji beslemesi, güç değerleri veya saha uygulamasına ilişkin teknik ayrıntı yer almıyor.",
+      "why_it_matters_tr": "Büyük sınıf bir maden ekskavatörünün elektrikli versiyonunun ticari kullanıma açılması, elektrifikasyonun yüksek kapasiteli açık ocak ekipmanlarına yayılımı açısından izlenmeye değer. Üretkenlik ve işletme koşullarına dair bağımsız saha verisi olmadan operasyonel etkisini değerlendirmek mümkün değil.",
+      "seo_title": "Liebherr R 9300 G8-E elektrikli ekskavatörü satışta",
+      "meta_description": "Liebherr, 250 ton sınıfındaki R 9300 G8-E elektrikli ekskavatörü ticari kullanıma açtı. Model, R 9300 G8 platformunu temel alıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "R 9300 G8-E, 250 ton sınıfında tanımlanıyor.",
+        "Model, Liebherr R 9300 G8 platformunu temel alıyor.",
+        "International Mining özetine göre model ticari kullanıma sunuldu.",
+        "Dizel karşılığıyla aynı üretkenlik düzeyi, üreticinin hedefi olarak aktarılıyor."
+      ],
+      "suggested_tags": [
+        "Liebherr",
+        "R 9300 G8-E",
+        "elektrikli ekskavatör",
+        "maden makineleri",
+        "açık ocak madenciliği"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "International Mining özetinde modelin 250 ton sınıfında olduğu ve ticari kullanıma açıldığı belirtiliyor.",
+        "Özet, modelin R 9300 G8 tabanlı olduğunu ve dizel karşılığıyla aynı üretkenlik düzeyinin hedeflendiğini aktarıyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası alınamadı (HTTP 403); teknik ayrıntılar yalnızca kısa haber özetine dayanıyor.",
+        "Elektrik sistemi, güç, enerji beslemesi, saha kullanımı ve üretkenlik iddiası için Liebherr’in birincil açıklaması ve bağımsız doğrulama mevcut değil."
+      ],
+      "generated_at": "2026-11-02T12:59:37.378Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -2074,7 +2102,7 @@
   },
   {
     "id": "1d7893f15eed75fe",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Second TBM prepared for Potomac River Tunnel launch",
     "source_name": "Tunnels & Tunnelling",
     "source_url": "https://www.tunnelsandtunnelling.com/news/second-tbm-prepared-for-potomac-river-tunnel-launch/",
@@ -2088,14 +2116,38 @@
     "editorial_fit_score": 65,
     "summary_source": "Second TBM prepared for Potomac River Tunnel launch The TBM for DC Water’s Clean Rivers Program will be launched in December. The post Second TBM prepared for Potomac River Tunnel launch appeared first on Tunnels and Tunnelling.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Potomac Nehri tüneli için ikinci TBM’nin fırlatılması hazırlanıyor",
+      "dek_tr": "DC Water’ın Clean Rivers Programı kapsamındaki ikinci tünel açma makinesinin aralık ayında devreye alınmasının planlandığı bildiriliyor. Makine ve tünel projesine ilişkin teknik bilgiler erişilebilir kaynak metninde yer almıyor.",
+      "summary_tr": "Tunnels & Tunnelling’in başlık ve kısa haber açıklamasına göre Potomac Nehri Tüneli projesi için ikinci tünel açma makinesinin (TBM) fırlatma hazırlıkları sürüyor. TBM’nin, DC Water’ın Clean Rivers Programı kapsamında aralık ayında fırlatılması planlanıyor.\n\nErişilebilir kaynak metninde yalnızca “APROTEK” ifadesi bulunuyor. Makinenin çapı, tipi, üreticisi, güzergâhı ve ilk TBM ile ilişkisi hakkında doğrulanabilir teknik bilgi verilmediğinden haberin teknik kapsamı sınırlı.",
+      "why_it_matters_tr": "İkinci TBM’nin devreye alınması, altyapı tünel projelerinde büyük ölçekli kazı ekipmanlarının kullanımına ilişkin bir gelişme. Ancak makine özellikleri ve proje koşulları olmadan ekipmanın teknik yeniliği veya uygulama etkisi değerlendirilemiyor.",
+      "seo_title": "Potomac Nehri tüneli için ikinci TBM hazırlanıyor",
+      "meta_description": "DC Water’ın Clean Rivers Programı kapsamındaki Potomac Nehri Tüneli için ikinci TBM’nin aralık ayında fırlatılmasının planlandığı bildiriliyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Haber, Potomac Nehri Tüneli için ikinci bir TBM’den söz ediyor.",
+        "Proje, DC Water’ın Clean Rivers Programı kapsamında tanımlanıyor.",
+        "Kısa açıklamada TBM’nin aralık ayında fırlatılmasının planlandığı belirtiliyor."
+      ],
+      "suggested_tags": [
+        "tünel açma makinesi",
+        "TBM",
+        "Potomac Nehri Tüneli",
+        "altyapı projeleri"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Başlıkta Potomac Nehri Tüneli için ikinci TBM’nin hazırlandığı aktarılıyor.",
+        "Kısa açıklamada projenin DC Water Clean Rivers Programı kapsamında olduğu ve fırlatmanın aralık için planlandığı belirtiliyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak metninin erişilebilir kısmı yalnızca “APROTEK” ifadesini içeriyor; teknik ayrıntılar haber başlığı ve kısa açıklamayla sınırlı.",
+        "Fırlatma tarihi, TBM özellikleri, üretici ve proje uygulama bilgileri birincil kaynaklardan doğrulanmalı."
+      ],
+      "generated_at": "2026-11-02T12:59:37.378Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -2778,7 +2830,7 @@
   },
   {
     "id": "616a007b605758df",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Rent Rise, IPAF eğitimleriyle sektördeki öncü konumunu güçlendiriyor",
     "source_name": "LHT",
     "source_url": "https://www.lht.com.tr/rent-rise-ipaf-egitimleriyle-sektordeki-oncu-konumunu-guclendiriyor/",
@@ -2792,14 +2844,43 @@
     "editorial_fit_score": 55,
     "summary_source": "Personel yükseltici platform kiralama sektöründe faaliyet gösteren Rent Rise, IPAF eğitimleriyle operatör güvenliğinin geliştirilmesine katkı sağlıyor. 2012 yılında Türkiye’nin ilk IPAF üyesi, olan şirket, eğitim alanındaki çalışmalarını uluslararası düzeyde sürdürüyor. Rent Rise Genel Müdürü Erhan Acar, şirketin yıllar içinde gerçekleştirdiği çalışmalara değinerek, “Bunca yıldır elde ettiğimiz başarılar, şimdiye kadar bu şirkette emeği geçmiş ve geçmekte […]",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Rent Rise, IPAF platform operatörü eğitimlerini sürdürüyor",
+      "dek_tr": "Rent Rise, personel yükseltici platformların güvenli kullanımı için IPAF kapsamında yürüttüğü eğitim çalışmalarını ve şirketin eğitim geçmişini anlattı. Şirketin aktardığına göre eğitimlerden bugüne kadar yaklaşık 1.000 kişi yararlandı.",
+      "summary_tr": "LHT’de yayımlanan söyleşide Rent Rise Genel Müdürü Erhan Acar ve IPAF Operatör ve Eğitici Eğitmeni Nazım Taban, personel yükseltici platform operatörlerine yönelik eğitim faaliyetlerini değerlendirdi. Şirket, 2012’de IPAF’a Türkiye’den üye olan ilk firma, 2014’te ise Türkiye’nin ilk IPAF Eğitim Merkezi olduğunu belirtiyor.\n\nAcar’ın verdiği bilgiye göre eğitimlerden bugüne kadar yaklaşık 1.000 kişi yararlandı. Şirket ayrıca bu yıl IAPA Ödülleri’nde Yılın Eğitim Merkezi kategorisinde, eğitmen Nazım Taban’ın da Yılın Eğitmeni kategorisinde finalist olduğunu aktarıyor. Bunlar söyleşide yer alan şirket beyanlarıdır; eğitim sonuçlarına ilişkin bağımsız ölçüm veya doğrulama sunulmuyor.",
+      "why_it_matters_tr": "Personel yükseltici platformlarda güvenli çalışma, makine özelliklerinin yanı sıra operatör yetkinliğine de bağlıdır. Eğitim kapasitesine ilişkin bu söyleşi, platform kiralama ve saha operasyonlarında insan faktörünün önemine dikkat çekiyor; bildirilen katılımcı sayısı ve ödül finalistliği bağımsız performans ölçütü olarak değerlendirilmemeli.",
+      "seo_title": "Rent Rise’ın IPAF platform operatörü eğitimleri",
+      "meta_description": "Rent Rise, IPAF kapsamında personel yükseltici platform operatörü eğitimlerini anlatıyor. Şirket, eğitimlerden yaklaşık 1.000 kişinin yararlandığını belirtiyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Rent Rise, 2012’de IPAF’a Türkiye’den üye olan ilk firma olduğunu belirtiyor.",
+        "Şirket, 2014’te Türkiye’nin ilk IPAF Eğitim Merkezi olduğunu bildiriyor.",
+        "Şirket beyanına göre eğitimlerden yaklaşık 1.000 kişi yararlandı.",
+        "Söyleşide şirketin ve eğitmen Nazım Taban’ın IAPA Ödülleri’nde finalist olduğu aktarılıyor."
+      ],
+      "suggested_tags": [
+        "Rent Rise",
+        "IPAF",
+        "personel yükseltici platform",
+        "operatör eğitimi",
+        "iş güvenliği"
+      ],
+      "suggested_sector": "arac-ustu-ekipman",
+      "editorial_format": "gorus-analiz",
+      "suggested_technologies": [
+        "fonksiyonel-guvenlik"
+      ],
+      "source_facts_used": [
+        "LHT söyleşisinde şirketin 2012’de IPAF üyeliği ve 2014’te eğitim merkezi olduğu yönündeki beyanları yer alıyor.",
+        "Söyleşide yaklaşık 1.000 kişinin eğitim aldığı ve şirket ile eğitmenin IAPA Ödülleri’nde finalist olduğu aktarılıyor.",
+        "IPAF eğitmeni, platformların güvenli kullanımında operatör eğitiminin önemini vurguluyor."
+      ],
+      "uncertainty_notes": [
+        "Üyelik ve eğitim merkezi olma sıralaması, katılımcı sayısı ve ödül finalistliği LHT’deki şirket söyleşisine dayanıyor; bağımsız kaynakla doğrulanmadı.",
+        "Eğitimlerin kaza oranları veya operatör performansı üzerindeki etkisine ilişkin ölçülebilir veri verilmemiş."
+      ],
+      "generated_at": "2026-11-02T12:59:37.378Z",
+      "generated_by": "github-models"
     }
   },
   {
