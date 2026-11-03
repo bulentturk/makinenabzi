@@ -2318,7 +2318,7 @@
   },
   {
     "id": "a3c4829eb6e2de34",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "How Mobile Crane Maintenance Keeps Job Sites Moving",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/how-mobile-crane-maintenance-keeps-job-sites-moving/72679",
@@ -2334,14 +2334,38 @@
     "editorial_fit_score": 67,
     "summary_source": "Bringing greater efficiency to issues like boom lubrication, hydraulic pressure and clean wire rope are crucial to keeping jobs moving. ...",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Mobil vinç bakımında bom, hidrolik sistem ve halat kontrolleri",
+      "dek_tr": "Kaynak özeti, mobil vinçlerin iş sahasındaki kullanılabilirliğini korumak için bom yağlaması, hidrolik basınç ve tel halat temizliğine dikkat çekiyor. Ayrıntılı içerik sağlanmadığından bakım adımlarının kapsamı doğrulanamıyor.",
+      "summary_tr": "Paylaşılan özete göre bomun yağlanması, hidrolik basıncın kontrolü ve tel halatların temiz tutulması mobil vinç bakımında öne çıkan konular arasında.\n\nKaynak sayfasına erişilemediği ve tam metin sunulmadığı için kontrol aralıkları, uygulanacak işlemler veya bu bakım adımlarının performansa etkisi hakkında ek bilgi verilemiyor.",
+      "why_it_matters_tr": "Vinçlerin sahada kullanılabilirliği kaldırma işlerinin sürekliliğini etkileyebilir; ancak bu başlıkta uygulanabilir bir bakım önerisi sunmak için üretici talimatları ve ayrıntılı kaynak içeriği gerekir.",
+      "seo_title": "Mobil vinç bakımında bom, hidrolik sistem ve halat",
+      "meta_description": "Mobil vinç bakımına ilişkin kaynak özeti; bom yağlaması, hidrolik basınç ve tel halat temizliğine dikkat çekiyor. Ayrıntılı içerik erişilebilir değil.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Kaynak özeti bom yağlamasını bakım konusu olarak anıyor.",
+        "Hidrolik basıncı ve tel halat temizliğini de öne çıkarıyor."
+      ],
+      "suggested_tags": [
+        "mobil vinç",
+        "bakım",
+        "hidrolik",
+        "tel halat"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "hidrolik"
+      ],
+      "source_facts_used": [
+        "Kaynak özetinde bom yağlaması, hidrolik basınç ve tel halat temizliğinin belirtilmesi",
+        "Kaynak sayfasının HTTP 403 nedeniyle alınamaması"
+      ],
+      "uncertainty_notes": [
+        "Tam kaynak metni erişilebilir değil; bakım yöntemleri, aralıkları ve teknik tavsiyeler doğrulanamıyor. Yayın öncesinde tam içerik veya üretici bakım dokümanı incelenmeli."
+      ],
+      "generated_at": "2026-11-03T20:53:07.144Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -2401,7 +2425,7 @@
   },
   {
     "id": "c7cfca594d3641cf",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Western Harbour Tunnel TBM approaches halfway mark",
     "source_name": "Tunnels & Tunnelling",
     "source_url": "https://www.tunnelsandtunnelling.com/news/western-harbour-tunnel-tbm-approaches-halfway-mark/",
@@ -2415,14 +2439,37 @@
     "editorial_fit_score": 55,
     "summary_source": "The first of the two TBMs to be launched on the Sydney harbour crossing should complete the first half of its drive this week. The post Western Harbour Tunnel TBM approaches halfway mark appeared first on Tunnels and Tunnelling.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Western Harbour Tunnel TBM’si sürüşünün yarısına yaklaşıyor",
+      "dek_tr": "Sydney’deki Western Harbour Tunnel projesinde kullanılan ilk tünel açma makinesinin (TBM), sürüşünün ilk yarısını bu hafta tamamlamasının beklendiği bildiriliyor. Kaynak metni ilerleme oranını veya makinenin teknik özelliklerini doğrulayacak ayrıntı sunmuyor.",
+      "summary_tr": "Tunnels & Tunnelling’ın haber özetine göre Sydney’deki Western Harbour Tunnel geçişinde başlatılan iki TBM’den ilki, tünel sürüşünün ilk yarısını bu hafta tamamlamaya yaklaşıyor.\n\nSağlanan kaynak metninde yalnızca “APROTEK” ifadesi yer alıyor. Bu nedenle ilerleme miktarı, tünel güzergâhı, makinenin özellikleri ve proje takvimi hakkında ek bilgi aktarılamıyor.",
+      "why_it_matters_tr": "TBM ilerlemesindeki kilometre taşları büyük tünel projelerinin saha durumunu izlemeye yardımcı olur; ancak bu kayıtta teknik ya da operasyonel değerlendirme yapmaya yetecek veri bulunmuyor.",
+      "seo_title": "Western Harbour Tunnel TBM’si yarı yolu tamamlıyor",
+      "meta_description": "Sydney’deki Western Harbour Tunnel projesinde ilk TBM’nin sürüşünün ilk yarısını bu hafta tamamlaması bekleniyor; teknik ayrıntılar kaynakta yer almıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Proje, Sydney’deki Western Harbour Tunnel geçişidir.",
+        "Habere göre projede iki TBM başlatılmıştır.",
+        "İlk TBM’nin sürüşünün ilk yarısını bu hafta tamamlaması beklenmektedir."
+      ],
+      "suggested_tags": [
+        "TBM",
+        "tünel açma makinesi",
+        "tünel",
+        "altyapı"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Haber özetinde Sydney’de iki TBM’nin başlatıldığının belirtilmesi",
+        "İlk TBM’nin sürüşünün ilk yarısını bu hafta tamamlamasının beklendiğinin aktarılması"
+      ],
+      "uncertainty_notes": [
+        "Sağlanan kaynak metni yalnızca “APROTEK” ifadesinden oluşuyor; ilerleme miktarı, teknik özellikler ve kilometre taşının gerçekleşip gerçekleşmediği doğrulanamıyor. Birincil proje veya işletmeci açıklaması gerekli."
+      ],
+      "generated_at": "2026-11-03T20:53:07.144Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -3098,7 +3145,7 @@
   },
   {
     "id": "c1eb397f424691b0",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Kamyon üstü platformlarda performans ve kompaktlık öne çıkıyor",
     "source_name": "LHT",
     "source_url": "https://www.lht.com.tr/kamyon-ustu-platformlarda-performans-ve-kompaktlik-one-cikiyor/",
@@ -3112,14 +3159,49 @@
     "editorial_fit_score": 55,
     "summary_source": "Kamyon üstü personel yükseltici platform üreticileri, farklı çalışma alanlarının ihtiyaçlarına yönelik yeni modeller geliştiriyor. CTE, Socage, Multitel, Versalift, Palfinger, Tadano, Klubb ve Gemini Power Hydraulics; erişim kapasitesi, kompakt tasarım, güvenlik ve dijital teknolojilere odaklanıyor. Kamyon üstü personel yükseltici platform pazarı; şehir içi bakım çalışmalarından kiralama filolarına, yüksek erişim gerektiren uygulamalardan özel çözümlere kadar geniş bir […]",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Kamyon üstü platformlarda kompaktlık ve erişim kapasitesi öne çıkıyor",
+      "dek_tr": "LHT’nin sektör derlemesi; kamyon, van ve pick-up üzerine kurulan personel yükseltici platformlarda çalışma yüksekliği, yatay erişim, araç boyutu ve dijital sistemleri ele alıyor. Paylaşılan modeller arasında 3,5 ton sınıfına yönelik kompakt çözümlerden 70,6 metre çalışma yüksekliğine ulaşan platformlara kadar farklı örnekler bulunuyor.",
+      "summary_tr": "Derlemede CTE, Socage, Multitel, Versalift, Palfinger, Tadano ve Klubb’in ürünleri ile geliştirme yaklaşımları aktarılıyor. Öne çıkan tasarım konuları çalışma yüksekliği ve yatay erişimin yanı sıra araç ağırlığı, sepet kapasitesi, dengeleme alanı ve dar sahalarda kullanım.\n\nÖrnekler farklı araç ve uygulama sınıflarını kapsıyor. Socage Forste 20A Speed için 12 metre yatay erişim ve 6,4 metre toplam araç uzunluğu; Multitel MJE710 için 70,6 metre çalışma yüksekliği ve 37 metreye kadar yatay erişim bildiriliyor. Klubb’in aktarılan modelleri arasında 3,5 tonluk van üzerine kurulan 17,3 metre çalışma yüksekliğine sahip KL17P ve pick-up üzerine kurulan 14,3 metre çalışma yüksekliğine sahip KA14 bulunuyor.\n\nDijital özellikler de derlemede yer alıyor: Versalift’in RTC sistemi çalışma saati, GPS verisi, bakım uyarıları ve arıza kayıtlarının uzaktan takibini sağlıyor. Palfinger Connected, uzaktan teşhis ve filo yönetimi işlevleriyle; bazı üreticilerin telemetri ve uzaktan destek hizmetleri ise servis ve arıza teşhisiyle ilişkilendiriliyor. Bu işlevlere ve performans değerlerine ilişkin bilgiler kaynak yayının aktarımlarıdır; bağımsız saha testi olarak değerlendirilmemelidir.",
+      "why_it_matters_tr": "Kompakt şasi üzerinde erişim kapasitesini artırmak, özellikle şehir içi bakım ve kiralama filolarında araç boyutu, taşıma kapasitesi ve güvenlik donanımları arasında seçim gerektiriyor. Uzaktan izleme ve teşhis sistemleri de makine kullanılabilirliği ile servis planlaması açısından önem taşıyabilir.",
+      "seo_title": "Kamyon üstü platformlarda erişim ve kompaktlık",
+      "meta_description": "Kamyon üstü personel platformlarında erişim kapasitesi, kompakt şasi ve telematik öne çıkıyor. LHT derlemesindeki modellerin teknik değerleri.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Socage Forste 20A Speed için 12 metre yatay erişim ve 6,4 metre toplam araç uzunluğu bildiriliyor.",
+        "Multitel MJE710 için 70,6 metre çalışma yüksekliği ve 37 metreye kadar yatay erişim aktarılıyor.",
+        "Klubb KL17P, 3,5 tonluk van üzerine monte ediliyor ve 17,3 metre çalışma yüksekliği sunuyor.",
+        "Klubb KA14 için 14,3 metre çalışma yüksekliği belirtiliyor.",
+        "Versalift RTC sisteminde çalışma saati, GPS verisi, bakım uyarıları ve arıza kayıtlarının uzaktan takibi yer alıyor."
+      ],
+      "suggested_tags": [
+        "personel yükseltici platform",
+        "kamyon üstü platform",
+        "telematik",
+        "erişim platformu",
+        "araç üstü ekipman"
+      ],
+      "suggested_sector": "arac-ustu-ekipman",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon",
+        "elektronik-telematik",
+        "hidrolik",
+        "fonksiyonel-guvenlik"
+      ],
+      "source_facts_used": [
+        "LHT metninde üreticilerin kompaktlık, çalışma yüksekliği, yatay erişim, güvenlik ve dijital sistemlere odaklandığının aktarılması",
+        "Socage, Multitel ve Klubb modelleri için verilen araç tipi ve erişim ölçüleri",
+        "Versalift RTC ve Palfinger Connected sistemlerinin uzaktan izleme, teşhis veya filo yönetimi işlevlerinin aktarılması",
+        "Palfinger TEC serisinde isteğe bağlı elektrikli platform çalıştırma sisteminin belirtilmesi"
+      ],
+      "uncertainty_notes": [
+        "Kaynak, sektör yayını derlemesidir; üretici açıklamaları veya teknik föyler girdi içinde sunulmamıştır. Özellikle ölçüler, donanım kapsamı, ürünün bulunabilirliği ve şirketlerin ürün planları birincil kaynaklardan doğrulanmalı.",
+        "Kaynak metninin son bölümü kesildiği için Klubb’in PT280 modeli hakkında bilgi tamamlanamıyor.",
+        "Üretici ve yönetici beyanları bağımsız performans doğrulaması olarak ele alınmamıştır."
+      ],
+      "generated_at": "2026-11-03T20:53:07.144Z",
+      "generated_by": "github-models"
     }
   },
   {
