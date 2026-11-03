@@ -1,5 +1,38 @@
 [
   {
+    "id": "9e8f40e54d22c3ea",
+    "slug": "sinoboom-plus-serisine-iki-yuksek-erisimli-elektrikli-platform-ekledi",
+    "title": "Sinoboom, Plus serisine iki yüksek erişimli elektrikli platform ekledi",
+    "dek": "TB39ERJ Plus HD ve TB42ERJ Plus HD modelleri, sırasıyla 41,2 ve 43,6 metre çalışma yüksekliğine ulaşıyor. Modeller 336 V elektrikli güç aktarma sistemi ve dört direksiyon modu sunuyor.",
+    "summary": "LHT’nin haberine göre Sinoboom, Plus serisini iki teleskopik personel yükseltici platformla genişletti. TB39ERJ Plus HD’nin çalışma yüksekliği 41,2 metre, TB42ERJ Plus HD’nin ise 43,6 metre olarak açıklanıyor. Her iki modelde Inovance teknolojili 336 V elektrikli güç aktarma sistemi bulunuyor.\n\nKaynakta üç farklı taşıma kapasitesi (250, 340 ve 480 kg) ile model ve çalışma koşullarına göre 22,7, 23,6 ve 24,7 metre yatay erişim değerleri veriliyor. Dört tekerlekten yönlendirme, yengeç yürüyüşü ve ön ya da arka tekerlekten yönlendirme modları belirtilen diğer özellikler arasında. X tipi akslar kapalıyken makine genişliği 2,49 metre, açıkken 3,34 metre olarak aktarılıyor.\n\nModellerin Range Extender çözümüyle uyumlu olduğu ve güç sistemi servis noktalarına erişimi kolaylaştıracak şekilde yerleştirildiği de haberde belirtiliyor. Bu teknik bilgiler LHT’nin haberindeki üretici açıklamalarına dayanıyor.",
+    "why_it_matters": "Yüksek erişimde elektrikli platformların kapasite, yatay erişim ve taşıma genişliği birlikte değerlendirilmeli. Açıklanan değerler, kiralama ve proje filolarının saha erişimi ile nakliye planlaması açısından karşılaştırma ölçütü sunuyor.",
+    "key_facts": [
+      "TB39ERJ Plus HD için 41,2 metre, TB42ERJ Plus HD için 43,6 metre çalışma yüksekliği bildiriliyor.",
+      "Her iki modelde 336 V elektrikli güç aktarma sistemi bulunuyor.",
+      "Kaynak üç taşıma kapasitesi, dört direksiyon modu ve X tipi aks sistemi bildiriyor.",
+      "Kapalı akslarda genişlik 2,49 metre, açık akslarda 3,34 metre olarak veriliyor."
+    ],
+    "format": "haber",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "tags": [
+      "Sinoboom",
+      "personel yükseltici platform",
+      "elektrikli platform",
+      "teleskopik platform",
+      "kiralama ekipmanları"
+    ],
+    "source_name": "LHT",
+    "source_url": "https://www.lht.com.tr/sinoboom-plus-serisine-iki-yeni-yuksek-erisimli-elektrikli-platform-ekledi/",
+    "source_published_at": "2026-10-30T11:15:35.000Z",
+    "site_published_at": "2026-11-03T14:07:00.103Z",
+    "hero_image": "",
+    "publish_mode": "automatic"
+  },
+  {
     "id": "508b6ddebae49568",
     "slug": "aarhus-limani-konteyner-gemileri-icin-kiyi-elektrigini-test-etti",
     "title": "Aarhus Limanı, konteyner gemileri için kıyı elektriğini test etti",

@@ -2684,7 +2684,7 @@
   },
   {
     "id": "9e8f40e54d22c3ea",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Sinoboom, Plus serisine iki yeni yüksek erişimli elektrikli platform ekledi",
     "source_name": "LHT",
     "source_url": "https://www.lht.com.tr/sinoboom-plus-serisine-iki-yeni-yuksek-erisimli-elektrikli-platform-ekledi/",
@@ -2736,7 +2736,9 @@
         "Range Extender’ın çalışma süresine etkisi için sayısal veri verilmemiş."
       ],
       "generated_at": "2026-10-30T19:54:46.738Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "review_result": "auto_published",
+      "reviewed_at": "2026-11-03T14:07:00.103Z"
     }
   },
   {
