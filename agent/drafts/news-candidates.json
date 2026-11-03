@@ -62,6 +62,32 @@
     "subsector": null
   },
   {
+    "id": "04d7f9997bfc3d12",
+    "status": "candidate",
+    "title_original": "Brooks Equipment showcasing XCMG ADTs with Allison transmissions to Australian market",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/11/02/brooks-equipment-showcasing-xcmg-adts-with-allison-transmissions-to-australian-market/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-11-02T14:00:25.000Z",
+    "discovered_at": "2026-11-03T12:30:52.261Z",
+    "sector": "madencilik",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 165,
+    "editorial_fit_score": 65,
+    "summary_source": "As Australian mining operations look to move more material while controlling fuel, maintenance and downtime costs, Western Australia-based Brooks Equipment has introduced a compelling new offering from XCMG to the 40-to-45-t articulated dump truck class. Parent company Brooks Group Australia is a multi-divisional enterprise that has supported Australia’s mining and civil sectors for almost 50 The post Brooks Equipment showcasing XCMG ADTs with Allison transmissions to Australian market appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "f792374658b1b6b8",
     "status": "drafted",
     "title_original": "Liebherr expands electric excavator range with new 250-tonne-class R 9300 G8-E",
@@ -707,6 +733,34 @@
     }
   },
   {
+    "id": "8f7798823bf6f302",
+    "status": "candidate",
+    "title_original": "Zoomlion deploys 210 t class ZE2000G excavator at Weijiamao coal mine",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/11/02/zoomlion-deploys-210-t-class-ze2000g-excavator-at-weijiamao-coal-mine/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-11-02T13:07:32.000Z",
+    "discovered_at": "2026-11-03T12:30:52.262Z",
+    "sector": "madencilik",
+    "subsector": null,
+    "technologies": [
+      "hidrolik"
+    ],
+    "relevance_score": 148,
+    "editorial_fit_score": 67,
+    "summary_source": "On November 1, the delivery ceremony for Zoomlion’s ZE2000G and ZE960G hydraulic mining excavators, both backhoes, was held at the open-pit coal mine of Huaneng Northern Weijiamao Coal Power Co Ltd, part of Huaneng Group. The Weijiamao coal mine is located in Zhungeer Banner, Ordos, Inner Mongolia, and is one of the most important coal The post Zoomlion deploys 210 t class ZE2000G excavator at Weijiamao coal mine appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "e1f69d0ae0e54977",
     "status": "drafted",
     "title_original": "Hitachi EX5500-6 mining excavator passes 100,000 hours at Moatize",
@@ -1349,6 +1403,32 @@
       ],
       "generated_at": "2026-10-31T19:12:51.437Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "0d532e973a2114b4",
+    "status": "candidate",
+    "title_original": "Weir helping African mines unlock greater value through aftermarket optimisation",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/11/03/weir-helping-african-mines-unlock-greater-value-through-aftermarket-optimisation/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-11-03T06:58:31.000Z",
+    "discovered_at": "2026-11-03T12:30:52.258Z",
+    "sector": "madencilik",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 140,
+    "editorial_fit_score": 65,
+    "summary_source": "As African mining companies focus on improving plant availability while controlling operating costs, aftermarket optimisation is emerging as an increasingly important strategy for extending equipment life and improving comminution performance. Weir says it is helping mines achieve these objectives through the application of premium ESCO® crusher liners and ENDURON® screen panels, supported by local technical The post Weir helping African mines unlock greater value through aftermarket optimisation appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -2185,6 +2265,32 @@
     }
   },
   {
+    "id": "c7cfca594d3641cf",
+    "status": "candidate",
+    "title_original": "Western Harbour Tunnel TBM approaches halfway mark",
+    "source_name": "Tunnels & Tunnelling",
+    "source_url": "https://www.tunnelsandtunnelling.com/news/western-harbour-tunnel-tbm-approaches-halfway-mark/",
+    "source_feed": "https://www.tunnelsandtunnelling.com/feed/",
+    "published_at": "2026-11-03T11:32:41.000Z",
+    "discovered_at": "2026-11-03T12:30:51.551Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 126,
+    "editorial_fit_score": 55,
+    "summary_source": "The first of the two TBMs to be launched on the Sydney harbour crossing should complete the first half of its drive this week. The post Western Harbour Tunnel TBM approaches halfway mark appeared first on Tunnels and Tunnelling.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "1d7893f15eed75fe",
     "status": "drafted",
     "title_original": "Second TBM prepared for Potomac River Tunnel launch",
@@ -2913,6 +3019,32 @@
     }
   },
   {
+    "id": "cf4feac53819b2df",
+    "status": "candidate",
+    "title_original": "€54,600 paid for classic Swedish tractor",
+    "source_name": "profi",
+    "source_url": "https://www.profi.co.uk/news/e54600-paid-for-classic-swedish-tractor/",
+    "source_feed": "https://www.profi.co.uk/feed/",
+    "published_at": "2026-11-03T09:00:00.000Z",
+    "discovered_at": "2026-11-03T12:30:53.076Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 115,
+    "editorial_fit_score": 55,
+    "summary_source": "A rare 1985-built Swed-Trac tractor has sold at auction for €54,600; the second highest for a Swedish-built tractor. The post €54,600 paid for classic Swedish tractor appeared first on Profi.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "616a007b605758df",
     "status": "drafted",
     "title_original": "Rent Rise, IPAF eğitimleriyle sektördeki öncü konumunu güçlendiriyor",
@@ -3281,6 +3413,32 @@
       ],
       "generated_at": "2026-10-25T09:31:26.861Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "b63204d105aad079",
+    "status": "candidate",
+    "title_original": "Kule vinç filolarının toplam kapasitesi yüzde 2,4 arttı",
+    "source_name": "Makina Market",
+    "source_url": "https://makina-market.com.tr/kule-vinc-filolarinin-toplam-kapasitesi-yuzde-24-artti/",
+    "source_feed": "https://makina-market.com.tr/feed/",
+    "published_at": "2026-11-03T10:53:28.000Z",
+    "discovered_at": "2026-11-03T12:30:59.599Z",
+    "sector": "liman",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 106,
+    "editorial_fit_score": 55,
+    "summary_source": "IC Tower Index’in 2026 yılı sıralamasına göre dünyanın en büyük 20 kule vinci filosunun toplam kapasitesi, geçen yıla… The post Kule vinç filolarının toplam kapasitesi yüzde 2,4 arttı first appeared on Makina Market.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   }
 ]
