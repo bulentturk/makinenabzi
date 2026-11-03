@@ -63,7 +63,7 @@
   },
   {
     "id": "04d7f9997bfc3d12",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Brooks Equipment showcasing XCMG ADTs with Allison transmissions to Australian market",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/11/02/brooks-equipment-showcasing-xcmg-adts-with-allison-transmissions-to-australian-market/",
@@ -77,14 +77,42 @@
     "editorial_fit_score": 65,
     "summary_source": "As Australian mining operations look to move more material while controlling fuel, maintenance and downtime costs, Western Australia-based Brooks Equipment has introduced a compelling new offering from XCMG to the 40-to-45-t articulated dump truck class. Parent company Brooks Group Australia is a multi-divisional enterprise that has supported Australia’s mining and civil sectors for almost 50 The post Brooks Equipment showcasing XCMG ADTs with Allison transmissions to Australian market appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Brooks Equipment, Allison şanzımanlı XCMG kaya kamyonlarını Avustralya’da tanıtıyor",
+      "dek_tr": "International Mining’in haberine göre Brooks Equipment, Avustralya pazarına 40–45 ton sınıfında XCMG mafsallı kaya kamyonları sunuyor. Modeller ve Allison şanzımanların teknik ayrıntıları sağlanan kaynakta yer almıyor.",
+      "summary_tr": "Batı Avustralya merkezli Brooks Equipment, XCMG’nin 40–45 ton sınıfındaki mafsallı kaya kamyonlarını Avustralya pazarında tanıtıyor. Haberin başlığı, araçlarda Allison şanzıman bulunduğunu belirtiyor.\n\nSağlanan metin; araçların model adlarını, taşıma kapasitesinin nasıl tanımlandığını, şanzıman modelini veya saha uygulamasını açıklamıyor. Yakıt tüketimi, bakım aralıkları ve çalışma performansına ilişkin doğrulanabilir veri de paylaşılmamış.",
+      "why_it_matters_tr": "Mafsallı kaya kamyonlarında şanzıman seçimi aktarma performansı ve bakım planlaması açısından önem taşıyabilir. Ancak bu duyuruda teknik konfigürasyon ve işletme verileri bulunmadığından ürünün sınıfındaki farkı ya da olası faydaları değerlendirmek için ek kaynak gerekir.",
+      "seo_title": "XCMG ve Allison şanzımanlı kaya kamyonları Avustralya’da",
+      "meta_description": "Brooks Equipment, 40–45 ton sınıfındaki XCMG mafsallı kaya kamyonlarını Avustralya’da tanıtıyor. Modeller ve teknik ayrıntılar açıklanmadı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Brooks Equipment, XCMG mafsallı kaya kamyonlarını Avustralya pazarında tanıtıyor.",
+        "Haber başlığı Allison şanzıman kullanımını belirtiyor.",
+        "Kaynak, araçları 40–45 ton sınıfında konumlandırıyor."
+      ],
+      "suggested_tags": [
+        "XCMG",
+        "Allison",
+        "mafsallı kaya kamyonu",
+        "madencilik ekipmanları",
+        "Avustralya"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "yuruyus-guc-aktarma"
+      ],
+      "source_facts_used": [
+        "International Mining başlığındaki XCMG, Allison ve Avustralya pazarı bilgileri.",
+        "Sağlanan özet metnindeki 40–45 ton sınıfı ve Brooks Equipment bilgileri."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası alınamadı (HTTP 403); sağlanan metin tanıtım ve ürün özelliklerini ayrıntılandırmıyor.",
+        "Araç modelleri, taşıma kapasitesi tanımı ve Allison şanzıman konfigürasyonu üretici veya distribütörün birincil kaynaklarından doğrulanmalı.",
+        "Yakıt, bakım ve performansla ilgili ölçülebilir sonuçlar kaynakta verilmediğinden bunlara ilişkin iddialar kullanılmadı."
+      ],
+      "generated_at": "2026-11-03T12:31:59.081Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -734,7 +762,7 @@
   },
   {
     "id": "8f7798823bf6f302",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Zoomlion deploys 210 t class ZE2000G excavator at Weijiamao coal mine",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/11/02/zoomlion-deploys-210-t-class-ze2000g-excavator-at-weijiamao-coal-mine/",
@@ -750,14 +778,42 @@
     "editorial_fit_score": 67,
     "summary_source": "On November 1, the delivery ceremony for Zoomlion’s ZE2000G and ZE960G hydraulic mining excavators, both backhoes, was held at the open-pit coal mine of Huaneng Northern Weijiamao Coal Power Co Ltd, part of Huaneng Group. The Weijiamao coal mine is located in Zhungeer Banner, Ordos, Inner Mongolia, and is one of the most important coal The post Zoomlion deploys 210 t class ZE2000G excavator at Weijiamao coal mine appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Zoomlion ZE2000G ve ZE960G ekskavatörleri Weijiamao kömür madenine teslim edildi",
+      "dek_tr": "International Mining’in aktardığına göre iki Zoomlion hidrolik ekskavatörünün teslim töreni, Çin’in İç Moğolistan bölgesindeki açık ocak kömür madeninde düzenlendi. Kaynak, makinelerin teknik özelliklerini paylaşmıyor.",
+      "summary_tr": "Zoomlion’ın ZE2000G ve ZE960G modelleri, Huaneng Group bünyesindeki Huaneng Northern Weijiamao Coal Power’a ait kömür madeninde düzenlenen törenle teslim edildi. Kaynak, iki makineyi de arka kepçeli hidrolik madencilik ekskavatörü olarak tanımlıyor.\n\nWeijiamao madeni, İç Moğolistan’daki Ordos bölgesinde bulunuyor. Haberde ZE2000G’nin 210 ton sınıfında olduğu belirtilse de kova kapasitesi, motor gücü ve çalışma verileri verilmemiş.",
+      "why_it_matters_tr": "Açık ocak işletmelerinde yeni ekskavatörlerin devreye alınması üretim filosu açısından önem taşıyabilir; ancak kapasite ve saha performansı verileri olmadan bu teslimatın operasyonel etkisini değerlendirmek mümkün değil.",
+      "seo_title": "Zoomlion ZE2000G ve ZE960G madene teslim edildi",
+      "meta_description": "Zoomlion’ın ZE2000G ve ZE960G hidrolik ekskavatörleri, Çin’deki Weijiamao açık ocak kömür madeninde düzenlenen törenle teslim edildi.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Teslim töreni 1 Kasım’da Weijiamao kömür madeninde düzenlendi.",
+        "Teslim edilen modeller ZE2000G ve ZE960G.",
+        "Kaynak, iki modeli de hidrolik ve arka kepçeli ekskavatör olarak tanımlıyor.",
+        "Weijiamao madeni İç Moğolistan’ın Ordos bölgesinde bulunuyor."
+      ],
+      "suggested_tags": [
+        "Zoomlion",
+        "ZE2000G",
+        "ZE960G",
+        "açık ocak madenciliği",
+        "hidrolik ekskavatör"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "hidrolik"
+      ],
+      "source_facts_used": [
+        "International Mining’in sınırlı haber metninde belirtilen teslim töreni, model adları ve makine türü.",
+        "Haberde verilen maden konumu ve ZE2000G için 210 ton sınıfı bilgisi."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası alınamadı (HTTP 403) ve sağlanan metin sınırlı. Kapasite, güç, teknik konfigürasyon ve devreye alma bilgileri için üretici veya işletmeci kaynaklarından doğrulama gerekir.",
+        "210 ton sınıfı bilgisi yalnızca haber başlığında yer alıyor; teknik dokümanla doğrulanmadı."
+      ],
+      "generated_at": "2026-11-03T12:31:59.081Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -1407,7 +1463,7 @@
   },
   {
     "id": "0d532e973a2114b4",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Weir helping African mines unlock greater value through aftermarket optimisation",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/11/03/weir-helping-african-mines-unlock-greater-value-through-aftermarket-optimisation/",
@@ -1421,14 +1477,39 @@
     "editorial_fit_score": 65,
     "summary_source": "As African mining companies focus on improving plant availability while controlling operating costs, aftermarket optimisation is emerging as an increasingly important strategy for extending equipment life and improving comminution performance. Weir says it is helping mines achieve these objectives through the application of premium ESCO® crusher liners and ENDURON® screen panels, supported by local technical The post Weir helping African mines unlock greater value through aftermarket optimisation appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Weir, Afrika madenlerinde kırıcı astarı ve elek paneli çözümlerini öne çıkarıyor",
+      "dek_tr": "Weir, ESCO kırıcı astarları ve ENDURON elek panellerini yerel teknik destekle sunduğunu belirtiyor. Sağlanan haberde bu ürünlerin tesis kullanılabilirliği veya öğütme performansı üzerindeki etkisini ölçen saha verisi bulunmuyor.",
+      "summary_tr": "International Mining’in aktardığına göre Weir, Afrika’daki madenlerde ekipman ömrü ve tesis kullanılabilirliği hedeflerine yönelik satış sonrası çözümlerini öne çıkarıyor. Şirketin sözünü ettiği ürünler ESCO kırıcı astarları ve ENDURON elek panelleri; bunlara yerel teknik destek eşlik ediyor.\n\nSağlanan metin belirli bir maden sahası, uygulama, ürün konfigürasyonu veya ölçülmüş sonuç belirtmiyor. Bu nedenle performans ve maliyet etkileri doğrulanmış sonuçlar olarak sunulamaz.",
+      "why_it_matters_tr": "Kırıcı astarları ve elek panelleri, cevher hazırlama hatlarında aşınma parçaları ve bakım planlamasıyla ilişkilidir. Uygulamaya özgü duruş ve aşınma verileri paylaşılırsa satış sonrası desteğin işletme üzerindeki etkisi daha somut değerlendirilebilir.",
+      "seo_title": "Weir, Afrika madenlerinde satış sonrası çözümlerini öne çıkarıyor",
+      "meta_description": "Weir, Afrika’daki madenler için ESCO kırıcı astarları ve ENDURON elek panellerini yerel teknik destekle sunduğunu belirtiyor; saha sonuçları paylaşılmadı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Weir, Afrika’daki madenlere yönelik satış sonrası optimizasyon yaklaşımından söz ediyor.",
+        "Haberde ESCO kırıcı astarları ve ENDURON elek panelleri anılıyor.",
+        "Ürünlerin yerel teknik destekle sunulduğu belirtiliyor."
+      ],
+      "suggested_tags": [
+        "Weir",
+        "ESCO",
+        "ENDURON",
+        "maden ekipmanları",
+        "satış sonrası hizmet"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Sağlanan International Mining metninde anılan ESCO kırıcı astarları ve ENDURON elek panelleri.",
+        "Weir’in yerel teknik destek ve satış sonrası optimizasyon yaklaşımına ilişkin beyanı."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası alınamadı (HTTP 403); haber metni sınırlı ve belirli bir saha uygulaması içermiyor.",
+        "Kullanılabilirlik, ekipman ömrü, öğütme performansı ve maliyet üzerindeki etkiler için ölçülebilir veri verilmemiş. Şirketin performans iddiaları bağımsız saha sonucu olarak doğrulanmadı."
+      ],
+      "generated_at": "2026-11-03T12:31:59.081Z",
+      "generated_by": "github-models"
     }
   },
   {
