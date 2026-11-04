@@ -62,6 +62,35 @@
     "subsector": null
   },
   {
+    "id": "28ffda3248f7891f",
+    "status": "candidate",
+    "title_original": "Fleet of 60 electric trucks with EACON AHS enter full operation at 5,400 m Zhibula mine",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/11/04/fleet-of-60-electric-trucks-with-eacon-ahs-enter-full-operation-at-5400-m-zhibula-mine/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-11-04T11:09:46.000Z",
+    "discovered_at": "2026-11-04T12:41:09.406Z",
+    "sector": "madencilik",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon",
+      "otonomi-ai"
+    ],
+    "relevance_score": 166,
+    "editorial_fit_score": 99,
+    "summary_source": "EACON Mining Technology, the global autonomous haulage solution provider, and Tibet Julong Copper Co Ltd, a subsidiary of Zijin Mining Group, have reached a major milestone at the Zhibula Copper Mine in China, with 60 SANY battery-electric wide body mining trucks now operating with EACON’s autonomous technology at more than 5,400 m above sea level. The post Fleet of 60 electric trucks with EACON AHS enter full operation at 5,400 m Zhibula mine appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "04d7f9997bfc3d12",
     "status": "drafted",
     "title_original": "Brooks Equipment showcasing XCMG ADTs with Allison transmissions to Australian market",
@@ -113,6 +142,35 @@
       ],
       "generated_at": "2026-11-03T12:31:59.081Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "4a4ebd5aa093050e",
+    "status": "candidate",
+    "title_original": "Epiroc on growth of Autonomous SmartROC D65 MKII drills in mining & quarrying",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/11/04/epiroc-on-growth-of-autonomous-smartroc-d65-mkii-drills-in-mining-quarrying/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-11-04T11:45:37.000Z",
+    "discovered_at": "2026-11-04T12:41:09.404Z",
+    "sector": "madencilik",
+    "subsector": null,
+    "technologies": [
+      "otonomi-ai",
+      "fonksiyonel-guvenlik"
+    ],
+    "relevance_score": 160,
+    "editorial_fit_score": 34,
+    "summary_source": "Epiroc says its global fleet of Autonomous SmartROC D65 MKII drills continues to grow, with mining and quarrying customers deploying the technology to improve safety, productivity, and drilling consistency. The Autonomous SmartROC D65 MKII is now operating at customer sites in Australia and the United States, including Fortescue’s Solomon and Eliwana operations, Luck Stone’s Rockville The post Epiroc on growth of Autonomous SmartROC D65 MKII drills in mining & quarrying appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -761,6 +819,62 @@
     }
   },
   {
+    "id": "089c5d9378549655",
+    "status": "candidate",
+    "title_original": "Sika drives growth in tunnelling and mining through IndustryOS partnership",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/11/04/sika-drives-growth-in-tunnelling-and-mining-through-industryos-partnership/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-11-04T10:37:10.000Z",
+    "discovered_at": "2026-11-04T12:41:09.409Z",
+    "sector": "madencilik",
+    "subsector": "yeraltı-madenciliği",
+    "technologies": [
+      "elektronik-telematik"
+    ],
+    "relevance_score": 148,
+    "editorial_fit_score": 79,
+    "summary_source": "Sika has signed a partnership agreement with Australian IoT developer IndustryOS to expand its digital offering for tunnelling and mining customers. Under this agreement, Sika will act as the global channel partner for IndustryOS’s Safecrete and Safewall branded sensor-based technologies, which monitor the strength of sprayed concrete underground in real time and help customers improve The post Sika drives growth in tunnelling and mining through IndustryOS partnership appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "9a8f99f3aca1457a",
+    "status": "candidate",
+    "title_original": "Bradken Liebherr R996B undercarriage solution showcased at Queensland coal mine",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/11/04/bradken-liebherr-r996b-undercarriage-solution-showcased-at-queensland-coal-mine/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-11-04T10:08:25.000Z",
+    "discovered_at": "2026-11-04T12:41:09.410Z",
+    "sector": "madencilik",
+    "subsector": null,
+    "technologies": [
+      "yuruyus-guc-aktarma"
+    ],
+    "relevance_score": 148,
+    "editorial_fit_score": 67,
+    "summary_source": "Bradken’s excavator undercarriage solution for the Liebherr R996B has been going head to head with “a low-cost competitor” at a Queensland coal mine, with the benchmarking revealing a “significant performance gap”, the company says. The two machines are operated under different ownership, with one undercarriage using Bradken’s undercarriage solution, chosen based on Bradken’s reputation for The post Bradken Liebherr R996B undercarriage solution showcased at Queensland coal mine appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "8f7798823bf6f302",
     "status": "drafted",
     "title_original": "Zoomlion deploys 210 t class ZE2000G excavator at Weijiamao coal mine",
@@ -870,6 +984,34 @@
       ],
       "generated_at": "2026-10-23T19:03:05.099Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "d25c0d179d6766bd",
+    "status": "candidate",
+    "title_original": "Electric WaterCraft Forum to return after successful first edition",
+    "source_name": "Marine Industry News",
+    "source_url": "https://marineindustrynews.co.uk/electric-watercraft-forum-draws-more-than-125-to-maine/",
+    "source_feed": "https://marineindustrynews.co.uk/feed/",
+    "published_at": "2026-11-04T09:25:00.000Z",
+    "discovered_at": "2026-11-04T12:41:09.276Z",
+    "sector": "marine-yatcilik",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "relevance_score": 146,
+    "editorial_fit_score": 79,
+    "summary_source": "Organisers of the Electric WaterCraft Forum confirm they are already planning a second event for 2027, after a successful inaugural edition. More than 125 marine industry professionals met at Lyman-Morse in Camden, Maine, on 22 and 23 October 2026 for the new event focused on the technical, logistical, and business details of Maine-built electric boat […] The post Electric WaterCraft Forum to return after successful first edition appeared first on Marine Industry News.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -3144,6 +3286,32 @@
     }
   },
   {
+    "id": "29b2a38afba71fdc",
+    "status": "candidate",
+    "title_original": "Farmer edition of the Trioliet Triotrac",
+    "source_name": "profi",
+    "source_url": "https://www.profi.co.uk/news/farmer-edition-of-the-trioliet-triotrac/",
+    "source_feed": "https://www.profi.co.uk/feed/",
+    "published_at": "2026-11-04T09:00:00.000Z",
+    "discovered_at": "2026-11-04T12:41:09.432Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 115,
+    "editorial_fit_score": 55,
+    "summary_source": "The Farmer version of the Triotrac is specially developed for farms looking for a self-propelled mixer wagon without all the tech of the Triotrac L. The post Farmer edition of the Trioliet Triotrac appeared first on Profi.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "c1eb397f424691b0",
     "status": "drafted",
     "title_original": "Kamyon üstü platformlarda performans ve kompaktlık öne çıkıyor",
@@ -3599,6 +3767,58 @@
       ],
       "generated_at": "2026-10-25T09:31:26.861Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "166aebe082c8132b",
+    "status": "candidate",
+    "title_original": "2030’da kazı ve hafriyat makinelerini daha akıllı, verimli ve çevreci bir gelecek bekliyor",
+    "source_name": "Makina Market",
+    "source_url": "https://makina-market.com.tr/2030da-kazi-ve-hafriyat-makinelerini-daha-akilli-verimli-ve-cevreci-bir-gelecek-bekliyor/",
+    "source_feed": "https://makina-market.com.tr/feed/",
+    "published_at": "2026-11-04T12:17:20.000Z",
+    "discovered_at": "2026-11-04T12:41:12.027Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 106,
+    "editorial_fit_score": 55,
+    "summary_source": "İş makineleri sektöründe dijitalleşme, otomasyon ve alternatif güç sistemleri gelişimini sürdürürken, 2030 yılına kadar kazı ve hafriyat makinelerinde… The post 2030’da kazı ve hafriyat makinelerini daha akıllı, verimli ve çevreci bir gelecek bekliyor first appeared on Makina Market.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "2e656d88c08f0152",
+    "status": "candidate",
+    "title_original": "CASE CX17D Mini Ekskavatör: Kompakt sınıfta güç ve konfor",
+    "source_name": "Makina Market",
+    "source_url": "https://makina-market.com.tr/case-cx17d-mini-ekskavator-kompakt-sinifta-guc-ve-konfor/",
+    "source_feed": "https://makina-market.com.tr/feed/",
+    "published_at": "2026-11-04T07:27:50.000Z",
+    "discovered_at": "2026-11-04T12:41:12.029Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 106,
+    "editorial_fit_score": 55,
+    "summary_source": "CASE’in D Serisi ailesinin en çevik üyelerinden biri olan CX17D mini ekskavatör, hem şehir içi hem de dar… The post CASE CX17D Mini Ekskavatör: Kompakt sınıfta güç ve konfor first appeared on Makina Market.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
