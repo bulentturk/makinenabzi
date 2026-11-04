@@ -534,6 +534,35 @@
     }
   },
   {
+    "id": "3d53a29dfa1bd82a",
+    "status": "candidate",
+    "title_original": "LOVOL ECVT Hybrid Tractors Powered by Weichai",
+    "source_name": "Powertrain International Off-Highway",
+    "source_url": "https://www.powertraininternationalweb.com/off-highway/lovol-tractors-hybrid-weichai/",
+    "source_feed": "https://www.powertraininternationalweb.com/category/off-highway/feed/",
+    "published_at": "2026-11-04T13:43:01.000Z",
+    "discovered_at": "2026-11-04T21:12:36.770Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon",
+      "yuruyus-guc-aktarma"
+    ],
+    "relevance_score": 154,
+    "editorial_fit_score": 79,
+    "summary_source": "Equipped with hybrid powertrain technology and intelligent in-cab controls, these tractors are driven by Weichai engines. From vibration-damping structural designs to newly developed transmissions, they hit the market with a complete high-tech package The post LOVOL ECVT Hybrid Tractors Powered by Weichai appeared first on Powertrain International.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "b41b2e0610938c4d",
     "status": "drafted",
     "title_original": "Musk’s Boring Company to Launch 3rd TBM on Nashville's Music City Loop",
@@ -582,6 +611,32 @@
       ],
       "generated_at": "2026-10-29T20:10:29.083Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "604330485efb3061",
+    "status": "candidate",
+    "title_original": "Freeport approves Bagdad expansion including enlarged AHS fleet & new overland conveyor",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/11/04/freeport-approves-bagdad-expansion-including-enlarged-ahs-fleet-new-overland-conveyor/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-11-04T20:06:55.000Z",
+    "discovered_at": "2026-11-04T21:12:36.716Z",
+    "sector": "madencilik",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 150,
+    "editorial_fit_score": 65,
+    "summary_source": "Freeport announced today that its Board of Directors approved a US$4.5 billion expansion and modernisation program for its wholly owned Bagdad copper and molybdenum operation in northwest Arizona. The brownfield project is designed to maximise the full potential of the resource and is expected to more than double Bagdad’s mining and milling rates. This investment The post Freeport approves Bagdad expansion including enlarged AHS fleet & new overland conveyor appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -846,6 +901,34 @@
       ],
       "generated_at": "2026-10-25T09:31:26.861Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "3828e946bc4e9542",
+    "status": "candidate",
+    "title_original": "Flux Power announces gas detection for GSE batteries and new S24 and SkyVOX products",
+    "source_name": "Charged EVs",
+    "source_url": "https://chargedevs.com/newswire/flux-power-announces-gas-detection-for-gse-batteries-and-new-s24-and-skyvox-products/",
+    "source_feed": "https://chargedevs.com/feed/",
+    "published_at": "2026-11-04T16:12:24.000Z",
+    "discovered_at": "2026-11-04T21:12:35.866Z",
+    "sector": "havaalani-gse",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "relevance_score": 148,
+    "editorial_fit_score": 77,
+    "summary_source": "Lithium-ion battery maker Flux Power has announced integrated gas detection for its airport ground support equipment (GSE) batteries, two new configurations of its S24 battery for material handling equipment and... Read more »",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
