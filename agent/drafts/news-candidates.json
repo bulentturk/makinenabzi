@@ -63,7 +63,7 @@
   },
   {
     "id": "28ffda3248f7891f",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Fleet of 60 electric trucks with EACON AHS enter full operation at 5,400 m Zhibula mine",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/11/04/fleet-of-60-electric-trucks-with-eacon-ahs-enter-full-operation-at-5400-m-zhibula-mine/",
@@ -80,14 +80,44 @@
     "editorial_fit_score": 99,
     "summary_source": "EACON Mining Technology, the global autonomous haulage solution provider, and Tibet Julong Copper Co Ltd, a subsidiary of Zijin Mining Group, have reached a major milestone at the Zhibula Copper Mine in China, with 60 SANY battery-electric wide body mining trucks now operating with EACON’s autonomous technology at more than 5,400 m above sea level. The post Fleet of 60 electric trucks with EACON AHS enter full operation at 5,400 m Zhibula mine appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Zhibula madeninde 60 bataryalı kamyon EACON otonom sistemiyle çalışıyor",
+      "dek_tr": "International Mining’in haberine göre, Çin’deki Zhibula Bakır Madeni’nde 60 SANY bataryalı geniş gövdeli maden kamyonu EACON’un otonom taşıma teknolojisiyle tam operasyon aşamasına geçti. Saha 5.400 metrenin üzerindeki rakımda bulunuyor.",
+      "summary_tr": "Haberde, Tibet Julong Copper ile EACON Mining Technology’nin Zhibula Bakır Madeni’ndeki uygulamada 60 SANY bataryalı geniş gövdeli kamyonu devreye aldığı aktarılıyor. Kamyonlar EACON’un otonom taşıma sistemiyle çalışıyor.\n\nKaynak, operasyonun deniz seviyesinden 5.400 metrenin üzerinde yürütüldüğünü belirtiyor. Kamyonların kapasitesi, batarya özellikleri, şarj düzeni ve otonom sistemin operasyonel performansına ilişkin ayrıntı paylaşılmıyor.",
+      "why_it_matters_tr": "Büyük ölçekli bataryalı kamyon filosu ile otonom taşımanın yüksek rakımlı bir maden sahasında birlikte kullanılması, maden elektrifikasyonu ve otomasyonu açısından izlenmeye değer bir uygulama. Ancak filonun performansına veya çalışma koşullarına dair ölçümler kaynakta yer almıyor.",
+      "seo_title": "Zhibula’da 60 bataryalı maden kamyonu otonom çalışıyor",
+      "meta_description": "International Mining, Zhibula Bakır Madeni’nde 60 SANY bataryalı kamyonun EACON otonom sistemiyle 5.400 metrenin üzerindeki rakımda çalıştığını bildiriyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Habere göre filoda 60 SANY bataryalı geniş gövdeli maden kamyonu bulunuyor.",
+        "Kamyonlar EACON otonom taşıma teknolojisiyle çalışıyor.",
+        "Zhibula Bakır Madeni 5.400 metrenin üzerindeki rakımda yer alıyor.",
+        "Maden işletmecisi olarak Tibet Julong Copper Co Ltd belirtiliyor."
+      ],
+      "suggested_tags": [
+        "bataryalı maden kamyonu",
+        "otonom taşıma",
+        "SANY",
+        "EACON",
+        "Zhibula Bakır Madeni"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon",
+        "otonomi-ai"
+      ],
+      "source_facts_used": [
+        "International Mining özetinde 60 SANY bataryalı geniş gövdeli kamyonun EACON otonom teknolojisiyle çalıştığı belirtiliyor.",
+        "Kaynak özeti, uygulama sahasını Çin’deki Zhibula Bakır Madeni ve rakımı 5.400 metrenin üzeri olarak tanımlıyor.",
+        "Tibet Julong Copper Co Ltd ve EACON Mining Technology uygulamayla ilişkilendiriliyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası alınamadı (HTTP 403); taslak yalnızca sağlanan başlık ve kısa kaynak metnine dayanıyor.",
+        "Kapasite, batarya sistemi, şarj altyapısı, saha performansı ve operasyonun ayrıntıları için üretici veya işletmeci kaynaklarından doğrulama gerekir."
+      ],
+      "generated_at": "2026-11-04T12:42:11.420Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -820,7 +850,7 @@
   },
   {
     "id": "089c5d9378549655",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Sika drives growth in tunnelling and mining through IndustryOS partnership",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/11/04/sika-drives-growth-in-tunnelling-and-mining-through-industryos-partnership/",
@@ -836,14 +866,42 @@
     "editorial_fit_score": 79,
     "summary_source": "Sika has signed a partnership agreement with Australian IoT developer IndustryOS to expand its digital offering for tunnelling and mining customers. Under this agreement, Sika will act as the global channel partner for IndustryOS’s Safecrete and Safewall branded sensor-based technologies, which monitor the strength of sprayed concrete underground in real time and help customers improve The post Sika drives growth in tunnelling and mining through IndustryOS partnership appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Sika, tünel ve madenler için sensörlü beton izleme teknolojilerini dağıtacak",
+      "dek_tr": "International Mining’in haberine göre Sika, IndustryOS ile yaptığı anlaşma kapsamında Safecrete ve Safewall sensör tabanlı çözümlerinin küresel kanal ortağı olacak. Teknolojilerin yeraltında püskürtme betonun dayanımını gerçek zamanlı izlediği belirtiliyor.",
+      "summary_tr": "Haberde Sika ile Avustralyalı IoT geliştiricisi IndustryOS arasında, tünelcilik ve madencilik müşterilerine yönelik dijital çözümleri genişletme amacı taşıyan bir ortaklık duyuruluyor. Anlaşma kapsamında Sika, IndustryOS’un Safecrete ve Safewall markalı sensör tabanlı teknolojileri için küresel kanal ortağı olarak tanımlanıyor.\n\nKaynak özeti, bu çözümlerin yeraltında püskürtme betonun dayanımını gerçek zamanlı izlediğini bildiriyor. Sensörlerin ölçüm yöntemi, sistemin teknik sınırları ve sahadaki uygulama sonuçları hakkında ayrıntı verilmiyor.",
+      "why_it_matters_tr": "Püskürtme betonun dayanımını izlemek, yeraltı tahkimatının değerlendirilmesine yönelik veri sağlayabilir. Bunun operasyonel kararları nasıl etkilediği ve ölçümlerin saha koşullarındaki doğruluğu, teknik detaylar ve uygulama verileriyle ayrıca değerlendirilmelidir.",
+      "seo_title": "Sika, yeraltı beton izleme çözümleri için ortaklık kurdu",
+      "meta_description": "Sika, IndustryOS’un Safecrete ve Safewall sensörlü çözümleri için küresel kanal ortağı olacak. Teknolojiler yeraltında püskürtme beton dayanımını izliyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Sika ile IndustryOS arasında bir ortaklık anlaşması duyuruldu.",
+        "Sika, Safecrete ve Safewall çözümleri için küresel kanal ortağı olacak.",
+        "Kaynak, sensör tabanlı teknolojilerin yeraltında püskürtme beton dayanımını gerçek zamanlı izlediğini belirtiyor."
+      ],
+      "suggested_tags": [
+        "yeraltı madenciliği",
+        "püskürtme beton",
+        "sensör",
+        "tünelcilik",
+        "dijital izleme"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektronik-telematik"
+      ],
+      "source_facts_used": [
+        "International Mining özetinde Sika ile IndustryOS’un ortaklık anlaşması yaptığı aktarılıyor.",
+        "Sika’nın Safecrete ve Safewall sensör tabanlı ürünleri için küresel kanal ortağı olacağı belirtiliyor.",
+        "Kaynak özeti, ürünlerin yeraltındaki püskürtme beton dayanımını gerçek zamanlı izlediğini bildiriyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası alınamadı (HTTP 403); taslak sağlanan başlık ve kısa kaynak metniyle sınırlıdır.",
+        "Sensörlerin ölçüm prensibi, performansı, saha uygulamaları ve güvenlik kararlarında nasıl kullanılacağına ilişkin teknik doğrulama için birincil kaynak gerekir."
+      ],
+      "generated_at": "2026-11-04T12:42:11.420Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -988,7 +1046,7 @@
   },
   {
     "id": "d25c0d179d6766bd",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Electric WaterCraft Forum to return after successful first edition",
     "source_name": "Marine Industry News",
     "source_url": "https://marineindustrynews.co.uk/electric-watercraft-forum-draws-more-than-125-to-maine/",
@@ -1004,14 +1062,45 @@
     "editorial_fit_score": 79,
     "summary_source": "Organisers of the Electric WaterCraft Forum confirm they are already planning a second event for 2027, after a successful inaugural edition. More than 125 marine industry professionals met at Lyman-Morse in Camden, Maine, on 22 and 23 October 2026 for the new event focused on the technical, logistical, and business details of Maine-built electric boat […] The post Electric WaterCraft Forum to return after successful first edition appeared first on Marine Industry News.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Electric WaterCraft Forum, ikinci etkinliğini 2027’de düzenlemeyi planlıyor",
+      "dek_tr": "Maine’deki ilk Electric WaterCraft Forum, 22–23 Ekim 2026’da 125’ten fazla denizcilik sektörü profesyonelini bir araya getirdi. Programda elektrikli tekne projelerine ilişkin beş vaka çalışması yer aldı.",
+      "summary_tr": "Marine Industry News’e göre Electric WaterCraft Forum’un ilk etkinliği, Maine eyaletinin Camden kentindeki Lyman-Morse’ta 22–23 Ekim 2026’da düzenlendi. Organizasyona 125’ten fazla denizcilik sektörü profesyoneli katıldı; etkinlik Maine’de geliştirilen elektrikli tekne projelerinin teknik, lojistik ve ticari yönlerine odaklandı.\n\nİki günlük programın merkezinde beş vaka çalışması vardı. Bunlar arasında Spruce Head Fisherman’s Co-op için geliştirilen Wattson adlı elektrikli skiff ve Isobel adlı özel yapım runabout yer aldı. Haberde ayrıca güneş enerjisiyle şarj konusu etkinlik katılımcılarından birinin değerlendirmesi olarak aktarılıyor.\n\nOrganizatörler 2027’de ikinci bir etkinlik planladıklarını açıkladı. Kaynak, teknelerin tahrik sistemleri, batarya kapasitesi veya şarj altyapısına ilişkin teknik ölçüm paylaşmıyor.",
+      "why_it_matters_tr": "Etkinlik, elektrikli tekne projelerinin yalnızca tahrik teknolojisini değil, şarj ve uygulama süreçlerini de sektör paydaşları arasında tartışmaya açıyor. Vaka çalışmalarının teknik ayrıntıları verilmediğinden, bunların performans veya yaygınlaşma üzerindeki etkisi bu kaynakla değerlendirilemiyor.",
+      "seo_title": "Electric WaterCraft Forum 2027’de yeniden düzenlenecek",
+      "meta_description": "Maine’deki ilk Electric WaterCraft Forum 125’ten fazla profesyoneli buluşturdu. Programda elektrikli tekne projelerine ilişkin beş vaka çalışması yer aldı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "İlk Electric WaterCraft Forum 22–23 Ekim 2026’da Camden, Maine’de düzenlendi.",
+        "Habere göre etkinliğe 125’ten fazla denizcilik sektörü profesyoneli katıldı.",
+        "Programda beş vaka çalışması yer aldı.",
+        "Wattson ve Isobel, programda ele alınan tekne projeleri arasında sayıldı.",
+        "Organizatörler 2027 için ikinci etkinliği planladıklarını açıkladı."
+      ],
+      "suggested_tags": [
+        "elektrikli tekne",
+        "deniz elektrifikasyonu",
+        "şarj altyapısı",
+        "Electric WaterCraft Forum",
+        "Maine"
+      ],
+      "suggested_sector": "marine-yatcilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "Marine Industry News etkinliğin tarihini, Camden’daki yerini ve 125’ten fazla katılımcı bilgisini veriyor.",
+        "Haberde programın beş vaka çalışmasından oluştuğu ve Wattson ile Isobel projelerinin ele alındığı belirtiliyor.",
+        "Organizatörlerin 2027’de ikinci etkinliği planladığı aktarılıyor.",
+        "Güneş enerjisiyle şarj, kaynakta bir katılımcının yorumu olarak yer alıyor."
+      ],
+      "uncertainty_notes": [
+        "Vaka çalışmalarındaki tahrik, batarya ve şarj sistemlerinin teknik özellikleri kaynakta verilmediğinden bağımsız teknik değerlendirme yapılamıyor.",
+        "Güneş enerjisiyle şarja ilişkin bilgi bir katılımcı değerlendirmesine dayanıyor; uygulama ve performans ayrıntıları doğrulanmamış."
+      ],
+      "generated_at": "2026-11-04T12:42:11.420Z",
+      "generated_by": "github-models"
     }
   },
   {
