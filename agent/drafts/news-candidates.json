@@ -1046,7 +1046,7 @@
   },
   {
     "id": "d25c0d179d6766bd",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Electric WaterCraft Forum to return after successful first edition",
     "source_name": "Marine Industry News",
     "source_url": "https://marineindustrynews.co.uk/electric-watercraft-forum-draws-more-than-125-to-maine/",
@@ -1100,7 +1100,9 @@
         "Güneş enerjisiyle şarja ilişkin bilgi bir katılımcı değerlendirmesine dayanıyor; uygulama ve performans ayrıntıları doğrulanmamış."
       ],
       "generated_at": "2026-11-04T12:42:11.420Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "review_result": "auto_published",
+      "reviewed_at": "2026-11-04T14:27:55.526Z"
     }
   },
   {

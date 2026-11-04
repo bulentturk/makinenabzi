@@ -1,5 +1,39 @@
 [
   {
+    "id": "d25c0d179d6766bd",
+    "slug": "electric-watercraft-forum-ikinci-etkinligini-2027-de-duzenlemeyi-planliyor",
+    "title": "Electric WaterCraft Forum, ikinci etkinliğini 2027’de düzenlemeyi planlıyor",
+    "dek": "Maine’deki ilk Electric WaterCraft Forum, 22–23 Ekim 2026’da 125’ten fazla denizcilik sektörü profesyonelini bir araya getirdi. Programda elektrikli tekne projelerine ilişkin beş vaka çalışması yer aldı.",
+    "summary": "Marine Industry News’e göre Electric WaterCraft Forum’un ilk etkinliği, Maine eyaletinin Camden kentindeki Lyman-Morse’ta 22–23 Ekim 2026’da düzenlendi. Organizasyona 125’ten fazla denizcilik sektörü profesyoneli katıldı; etkinlik Maine’de geliştirilen elektrikli tekne projelerinin teknik, lojistik ve ticari yönlerine odaklandı.\n\nİki günlük programın merkezinde beş vaka çalışması vardı. Bunlar arasında Spruce Head Fisherman’s Co-op için geliştirilen Wattson adlı elektrikli skiff ve Isobel adlı özel yapım runabout yer aldı. Haberde ayrıca güneş enerjisiyle şarj konusu etkinlik katılımcılarından birinin değerlendirmesi olarak aktarılıyor.\n\nOrganizatörler 2027’de ikinci bir etkinlik planladıklarını açıkladı. Kaynak, teknelerin tahrik sistemleri, batarya kapasitesi veya şarj altyapısına ilişkin teknik ölçüm paylaşmıyor.",
+    "why_it_matters": "Etkinlik, elektrikli tekne projelerinin yalnızca tahrik teknolojisini değil, şarj ve uygulama süreçlerini de sektör paydaşları arasında tartışmaya açıyor. Vaka çalışmalarının teknik ayrıntıları verilmediğinden, bunların performans veya yaygınlaşma üzerindeki etkisi bu kaynakla değerlendirilemiyor.",
+    "key_facts": [
+      "İlk Electric WaterCraft Forum 22–23 Ekim 2026’da Camden, Maine’de düzenlendi.",
+      "Habere göre etkinliğe 125’ten fazla denizcilik sektörü profesyoneli katıldı.",
+      "Programda beş vaka çalışması yer aldı.",
+      "Wattson ve Isobel, programda ele alınan tekne projeleri arasında sayıldı.",
+      "Organizatörler 2027 için ikinci etkinliği planladıklarını açıkladı."
+    ],
+    "format": "haber",
+    "sector": "marine-yatcilik",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "tags": [
+      "elektrikli tekne",
+      "deniz elektrifikasyonu",
+      "şarj altyapısı",
+      "Electric WaterCraft Forum",
+      "Maine"
+    ],
+    "source_name": "Marine Industry News",
+    "source_url": "https://marineindustrynews.co.uk/electric-watercraft-forum-draws-more-than-125-to-maine/",
+    "source_published_at": "2026-11-04T09:25:00.000Z",
+    "site_published_at": "2026-11-04T14:27:55.526Z",
+    "hero_image": "",
+    "publish_mode": "automatic"
+  },
+  {
     "id": "9e8f40e54d22c3ea",
     "slug": "sinoboom-plus-serisine-iki-yuksek-erisimli-elektrikli-platform-ekledi",
     "title": "Sinoboom, Plus serisine iki yüksek erişimli elektrikli platform ekledi",
