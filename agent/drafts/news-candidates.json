@@ -535,7 +535,7 @@
   },
   {
     "id": "3d53a29dfa1bd82a",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "LOVOL ECVT Hybrid Tractors Powered by Weichai",
     "source_name": "Powertrain International Off-Highway",
     "source_url": "https://www.powertraininternationalweb.com/off-highway/lovol-tractors-hybrid-weichai/",
@@ -552,14 +552,50 @@
     "editorial_fit_score": 79,
     "summary_source": "Equipped with hybrid powertrain technology and intelligent in-cab controls, these tractors are driven by Weichai engines. From vibration-damping structural designs to newly developed transmissions, they hit the market with a complete high-tech package The post LOVOL ECVT Hybrid Tractors Powered by Weichai appeared first on Powertrain International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "LOVOL ECVT hibrit traktör serisi Weichai motorlarla geliyor",
+      "dek_tr": "LOVOL, CIAME 2026'da güç bölüşümlü hibrit tahrik ve kademesiz ECVT şanzıman kullanan yeni traktör serisini tanıttı. Üretici, seri için yakıt tüketimi ve operasyon verimliliğinde iyileşme iddialarında bulunuyor.",
+      "summary_tr": "Powertrain International'ın aktardığına göre LOVOL, Çin'in Tianjin kentinde düzenlenen CIAME 2026'nın ilk gününde ECVT traktör serisini tanıttı. Sistem, Weichai motoru ile elektrikli tahriki koordine eden güç bölüşümlü hibrit mimariyi ve 0-40 km/sa aralığında kademesiz hız ayarı sağlayan şanzımanı bir araya getiriyor.\n\nSeride elektronik kontrollü şasi işlevleri, baş dönüşü yönetimi ve otomatik güzergâh planlama gibi sürücü destekleri bulunuyor. Üç kademeli titreşim azaltma düzeni; süspansiyonlu ön aks, kabin ve havalı koltuktan oluşuyor. Kaynak ayrıca değişken debili, yük algılamalı hidrolik sistem ile farklı tarla ekipmanlarına yönelik kullanım senaryolarını aktarıyor.\n\nHaberde üreticiye atfedilen açıklamaya göre seri, 2.000 saatlik tezgâh ve saha testlerinden geçti; denemeler yaklaşık 13.300 hektarlık alanda pulluk, dipkazan ve tohum yatağı hazırlama işlerini kapsadı. Avrupa pazarına girişin planlandığı, ancak takvimin açıklanmadığı belirtiliyor.",
+      "why_it_matters_tr": "Hibrit güç bölüşümü ve ECVT'nin tarla işlerinde yakıt tüketimi, hız kontrolü ve ekipmanla çalışma biçimine etkisi, elektrifikasyonun tarım makinelerindeki uygulamasını izleyenler için önemli. Ancak aktarılan performans kazanımları bağımsız saha ölçümü olarak değerlendirilmemeli.",
+      "seo_title": "LOVOL ECVT hibrit traktör serisini CIAME 2026'da tanıttı",
+      "meta_description": "LOVOL'un yeni ECVT traktörleri Weichai motoru, güç bölüşümlü hibrit tahrik ve 0-40 km/sa kademesiz hız kontrolüyle tanıtıldı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "LOVOL, ECVT traktör serisini CIAME 2026'da tanıttı.",
+        "Güç aktarma sistemi Weichai motoru, elektrikli tahrik ve güç bölüşümlü hibrit mimari içeriyor.",
+        "ECVT için 0-40 km/sa kademesiz hız aralığı bildiriliyor.",
+        "Kaynağa göre seri 2.000 saatlik testlerden ve yaklaşık 13.300 hektardaki saha denemelerinden geçti.",
+        "Avrupa pazarı hedefleniyor; açıklanmış bir giriş takvimi yok."
+      ],
+      "suggested_tags": [
+        "LOVOL",
+        "Weichai",
+        "hibrit traktör",
+        "ECVT",
+        "tarım makineleri"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon",
+        "yuruyus-guc-aktarma",
+        "hidrolik",
+        "elektronik-telematik"
+      ],
+      "source_facts_used": [
+        "CIAME 2026'da tanıtım ve Avrupa pazarı hedefi",
+        "Weichai motoru, elektrikli tahrik ve güç bölüşümlü hibrit sistem",
+        "ECVT'nin bildirilen hız aralığı",
+        "Kontrol, hidrolik ve titreşim azaltma donanımı",
+        "Aktarılan test süresi ve saha denemelerinin kapsamı"
+      ],
+      "uncertainty_notes": [
+        "Kaynak sektör yayınıdır; orijinal üretici duyurusu girdi içinde yer almıyor.",
+        "Verimlilikte yüzde 30'dan fazla artış ve yakıt tüketiminde yüzde 20'den fazla azalma iddiaları üretici beyanı olarak aktarılmıştır; bağımsız doğrulama ve test koşulları mevcut girdide bulunmuyor.",
+        "Test sonuçlarına ilişkin ayrıntılı ölçüm yöntemi ve Avrupa pazarı takvimi belirtilmemiş."
+      ],
+      "generated_at": "2026-11-04T21:13:40.408Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -905,7 +941,7 @@
   },
   {
     "id": "3828e946bc4e9542",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Flux Power announces gas detection for GSE batteries and new S24 and SkyVOX products",
     "source_name": "Charged EVs",
     "source_url": "https://chargedevs.com/newswire/flux-power-announces-gas-detection-for-gse-batteries-and-new-s24-and-skyvox-products/",
@@ -921,14 +957,49 @@
     "editorial_fit_score": 77,
     "summary_source": "Lithium-ion battery maker Flux Power has announced integrated gas detection for its airport ground support equipment (GSE) batteries, two new configurations of its S24 battery for material handling equipment and... Read more »",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Flux Power, GSE bataryaları için gaz algılama ve otomatik güç kesme sistemi duyurdu",
+      "dek_tr": "Flux Power'ın açıkladığı sistem, batarya içindeki koşulları izleyerek olası bir termal olayı batarya yönetim sistemine iletiyor. Şirket ayrıca yeni S24 konfigürasyonları ve SkyVOX batarya takip cihazını tanıttı.",
+      "summary_tr": "Charged EVs'in aktardığı duyuruya göre Flux Power, havalimanı yer destek ekipmanlarında kullanılan lityum-iyon bataryalar için entegre gaz algılama sistemi geliştirdi. Sensörün batarya içindeki koşulları sürekli izlediği ve veriyi batarya yönetim sistemine (BMS) ilettiği belirtiliyor. Olası bir termal olay algılanırsa BMS, CAN bağlantılı aracı uyarabiliyor ve gücü otomatik olarak kesebiliyor.\n\nŞirket, sistemi bir havayoluyla geliştirdiğini ve merkezinde gösterdiğini bildirdi. İlk sevkiyatların 2027'nin ilk çeyreğinde başlaması bekleniyor; hizmetteki bataryalar için sonradan montaj programı da planlanıyor.\n\nDuyurudaki diğer ürünler iki S24 batarya konfigürasyonu ve SkyVOX telematik cihazı. SkyVOX, batarya konumu ve şarj gereksinimi bildirimleri sağlıyor; batarya bölmesinin dışına yerleştirilen hücresel ve GPS antenleriyle bağlantı sorunlarını azaltmayı hedefliyor. Cihaz sevkiyatlarının 2026'nın dördüncü çeyreğinde başlaması bekleniyor.",
+      "why_it_matters_tr": "Apron araçlarında batarya durumunun izlenmesi ve olası termal olayda aracın gücünün kesilebilmesi, elektrikli GSE filolarında emniyet ve operasyon yönetimi açısından doğrudan önem taşıyor. Sistem performansı ve güvenlik katkısı içinse saha verileri ve bağımsız doğrulama gerekli.",
+      "seo_title": "Flux Power GSE bataryalarına gaz algılama ekliyor",
+      "meta_description": "Flux Power, GSE bataryaları için BMS bağlantılı gaz algılama ve güç kesme sistemiyle birlikte S24 ve SkyVOX ürünlerini duyurdu.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Gaz sensörü batarya içindeki koşulları izleyerek veriyi BMS'ye iletiyor.",
+        "Potansiyel termal olayda CAN bağlantılı araca uyarı ve otomatik güç kesme işlevi bildiriliyor.",
+        "İlk gaz algılama sistemi sevkiyatlarının 2027'nin ilk çeyreğinde başlaması bekleniyor.",
+        "SkyVOX konum ve şarj bildirimleri sağlıyor; sevkiyatları 2026'nın dördüncü çeyreği için planlanıyor.",
+        "S24 ürün ailesine kompakt bölmeli forklift ve yaya kumandalı istifleyici konfigürasyonları ekleniyor."
+      ],
+      "suggested_tags": [
+        "Flux Power",
+        "havaalanı GSE",
+        "lityum-iyon batarya",
+        "batarya güvenliği",
+        "telemetri"
+      ],
+      "suggested_sector": "havaalani-gse",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon",
+        "fonksiyonel-guvenlik",
+        "elektronik-telematik"
+      ],
+      "source_facts_used": [
+        "Gaz sensörünün BMS ile iletişimi ve bildirilen güç kesme işlevi",
+        "Geliştirme ve gösterim çalışmasının bir havayoluyla yapıldığı bilgisi",
+        "İlk sevkiyat ve sonradan montaj planı",
+        "S24 konfigürasyonlarının hedeflediği ekipmanlar",
+        "SkyVOX'un konum ve şarj bildirimleri ile anten yerleşimi"
+      ],
+      "uncertainty_notes": [
+        "Bilgiler üretici duyurusunu aktaran ikincil bir yayına dayanıyor; gaz algılama sisteminin algılama eşikleri, doğrulama yöntemi ve güvenlik performansına ilişkin bağımsız test verisi sunulmuyor.",
+        "Heavy Duty S24 konfigürasyonu OEM iş ortağıyla test ve yeterlilik aşamasında; ticari sevkiyat tarihi belirtilmemiş.",
+        "Şirketin standartların ötesinde güvenlik sağladığı yönündeki iddiası bağımsız olarak doğrulanmış değil."
+      ],
+      "generated_at": "2026-11-04T21:13:40.408Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -989,7 +1060,7 @@
   },
   {
     "id": "9a8f99f3aca1457a",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Bradken Liebherr R996B undercarriage solution showcased at Queensland coal mine",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/11/04/bradken-liebherr-r996b-undercarriage-solution-showcased-at-queensland-coal-mine/",
@@ -1005,14 +1076,45 @@
     "editorial_fit_score": 67,
     "summary_source": "Bradken’s excavator undercarriage solution for the Liebherr R996B has been going head to head with “a low-cost competitor” at a Queensland coal mine, with the benchmarking revealing a “significant performance gap”, the company says. The two machines are operated under different ownership, with one undercarriage using Bradken’s undercarriage solution, chosen based on Bradken’s reputation for The post Bradken Liebherr R996B undercarriage solution showcased at Queensland coal mine appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Bradken'in Liebherr R996B alt takım çözümü Queensland kömür madeninde kıyaslandı",
+      "dek_tr": "International Mining'in kısa haber metnine göre Bradken'in Liebherr R996B için sunduğu alt takım çözümü, Queensland'deki bir kömür madeninde daha düşük maliyetli bir rakiple karşılaştırılıyor. Bradken, kıyaslamada belirgin performans farkı gördüğünü söylüyor; ölçüm sonuçları paylaşılmıyor.",
+      "summary_tr": "International Mining'in erişilebilen haber metni, Queensland'deki bir kömür madeninde Liebherr R996B ekskavatörlerinin alt takım çözümlerinin karşılaştırıldığını bildiriyor. Makineler farklı sahipler tarafından işletiliyor; bunlardan birinde Bradken'in alt takım çözümü kullanılıyor.\n\nBradken, kendi çözümü ile daha düşük maliyetli olarak tanımlanan rakip arasında belirgin performans farkı bulunduğunu ifade ediyor. Ancak habere ait kaynak metni kısa ve ölçülebilir sonuç, çalışma süresi, bakım aralığı ya da karşılaştırma yöntemi içermiyor.",
+      "why_it_matters_tr": "Büyük maden ekskavatörlerinde alt takım performansı bakım ihtiyacı ve makine kullanılabilirliğiyle ilişkili olabilir. Bu örneğin saha kıyaslaması olarak haber değeri taşıması için çalışma koşulları ve ölçülebilir sonuçların açıklanması gerekir.",
+      "seo_title": "Bradken alt takımı Liebherr R996B ile madende kıyaslandı",
+      "meta_description": "Queensland'deki kömür madeninde Liebherr R996B alt takım çözümleri karşılaştırılıyor; ancak ölçüm sonuçları ve test yöntemi paylaşılmadı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Karşılaştırma Queensland'deki bir kömür madeninde yapılıyor.",
+        "Haberde Liebherr R996B ekskavatörleri ve Bradken alt takım çözümü anılıyor.",
+        "Makinelerin farklı sahipler tarafından işletildiği belirtiliyor.",
+        "Bradken, rakip çözümle arasında belirgin performans farkı bulunduğunu söylüyor."
+      ],
+      "suggested_tags": [
+        "Bradken",
+        "Liebherr R996B",
+        "madencilik",
+        "ekskavatör alt takımı",
+        "kömür madeni"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "yuruyus-guc-aktarma"
+      ],
+      "source_facts_used": [
+        "Queensland'deki kömür madeninde yürütülen alt takım kıyaslaması",
+        "Liebherr R996B ve Bradken çözümünün haberde anılması",
+        "Makinelerin farklı sahiplerce işletildiği bilgisi",
+        "Performans farkı iddiasının Bradken'e atfedilmesi"
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası için HTTP 403 uyarısı verilmiş; yalnızca kısa haber özeti mevcut.",
+        "Önemli performans iddiası şirket beyanı olarak aktarılıyor; birincil Bradken açıklaması veya bağımsız doğrulama girdi içinde yok.",
+        "Karşılaştırmanın yöntemi, çalışma saatleri, bakım verileri ve ölçülebilir sonuçlar bilinmiyor; bu bilgiler olmadan performans farkının kapsamı değerlendirilemez."
+      ],
+      "generated_at": "2026-11-04T21:13:40.408Z",
+      "generated_by": "github-models"
     }
   },
   {
