@@ -205,7 +205,7 @@
   },
   {
     "id": "cc440dcf63afdff4",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "EIMA TECHNOLOGY PROFILE: Advancing hydraulic coupling efficiency in agriculture",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/agriculture/eima-technology-profile-advancing-hydraulic-coupling-efficiency-in-agriculture.html",
@@ -221,14 +221,40 @@
     "editorial_fit_score": 67,
     "summary_source": "Faster Hall 20, Stand D/12 New hydraulic connection solutions from Faster address operational errors and pressure drop inefficiencies across demanding agricultural implement interfaces The evolution of agricultural mechanisation is no [...] The post EIMA TECHNOLOGY PROFILE: Advancing hydraulic coupling efficiency in agriculture appeared first on Industrial Vehicle Technology International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Faster, tarım makineleri için hidrolik bağlantı çözümlerini tanıttı",
+      "dek_tr": "iVT International’ın EIMA teknoloji profiline göre Faster’ın ürün grubu, hortum bağlantı hatalarını azaltmayı hedefleyen RFID yönlendirmeli bağlantı ve düşük basınç kayıplı kaplinler içeriyor. Kaynakta performans ölçümü veya bağımsız saha testi bulunmuyor.",
+      "summary_tr": "iVT International’ın haber tanıtımında Faster’ın EIMA’da sergileyeceği hidrolik bağlantı çözümleri öne çıkıyor. Ürün açıklamasına göre RFID yönlendirmesi, hortumların doğru bağlanmasına yardımcı olmayı; düşük basınç kayıplı kaplinler ise hidrolik devredeki enerji kaybını azaltmayı amaçlıyor.\n\nKaynak, çözümlerin teknik değerlerini, uyumlu makine veya ekipman modellerini ve ölçülmüş sonuçlarını vermiyor. Bu nedenle bağlantı hataları ve enerji kaybındaki azalmalar doğrulanmış performans sonucu olarak değil, ürünün hedefi olarak aktarılmalı.",
+      "why_it_matters_tr": "Traktör ile tarımsal ekipman arasındaki hidrolik bağlantılar, kullanım kolaylığı ve sistem verimi açısından önem taşıyor. RFID yönlendirmesi ve düşük basınç kaybı yaklaşımı, farklı ekipmanların sık bağlanıp ayrıldığı uygulamalara yönelik bir teknoloji geliştirme alanı sunuyor.",
+      "seo_title": "Faster’dan tarım makinelerine hidrolik bağlantı çözümleri",
+      "meta_description": "Faster’ın EIMA ürün grubu RFID yönlendirmeli hortum bağlantısı ve düşük basınç kayıplı kaplinleri içeriyor. Performans verileri kaynakta paylaşılmadı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "iVT International, Faster’ın EIMA ürün grubu içinde yeni hidrolik bağlantı çözümlerini tanıtıyor.",
+        "Kaynak açıklaması RFID yönlendirmeli hortum bağlantısından söz ediyor.",
+        "Ürün tanımı düşük basınç kayıplı kaplinleri de içeriyor."
+      ],
+      "suggested_tags": [
+        "Faster",
+        "hidrolik kaplin",
+        "tarım makineleri",
+        "EIMA"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "hidrolik"
+      ],
+      "source_facts_used": [
+        "iVT International haber tanıtımında Faster’ın EIMA ürün grubunu ve hidrolik bağlantı çözümlerini aktarıyor.",
+        "Sayfa açıklaması RFID yönlendirmesi ile düşük basınç kayıplı kaplinlerden söz ediyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak metninde üreticinin birincil teknik duyurusu ve ürünün teknik değerleri bulunmuyor; teknik iddialar Faster’ın resmi kaynaklarından doğrulanmalı.",
+        "Bağlantı hataları veya enerji kaybındaki azalmaya ilişkin ölçüm ya da bağımsız saha testi bilgisi yok."
+      ],
+      "generated_at": "2026-11-05T12:52:33.507Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -705,7 +731,7 @@
   },
   {
     "id": "604330485efb3061",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Freeport approves Bagdad expansion including enlarged AHS fleet & new overland conveyor",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/11/04/freeport-approves-bagdad-expansion-including-enlarged-ahs-fleet-new-overland-conveyor/",
@@ -719,14 +745,45 @@
     "editorial_fit_score": 65,
     "summary_source": "Freeport announced today that its Board of Directors approved a US$4.5 billion expansion and modernisation program for its wholly owned Bagdad copper and molybdenum operation in northwest Arizona. The brownfield project is designed to maximise the full potential of the resource and is expected to more than double Bagdad’s mining and milling rates. This investment The post Freeport approves Bagdad expansion including enlarged AHS fleet & new overland conveyor appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Freeport, Bagdad bakır-molibden işletmesi için 4,5 milyar dolarlık genişlemeyi onayladı",
+      "dek_tr": "International Mining’in haberine göre Freeport yönetim kurulu, Arizona’daki Bagdad işletmesinde genişleme ve modernizasyon programını onayladı. Projede AHS filosunun büyütülmesi ve yeni bir uzun mesafeli konveyör yer alıyor.",
+      "summary_tr": "Freeport’un yönetim kurulu, şirketin Arizona’nın kuzeybatısındaki Bagdad bakır ve molibden işletmesi için 4,5 milyar ABD doları tutarında genişleme ve modernizasyon programını onayladı. Kaynak, işletmenin Freeport’a ait olduğunu ve projenin mevcut sahada yürütülecek bir genişleme niteliği taşıdığını belirtiyor.\n\nProje kapsamında AHS filosunun büyütülmesi ve yeni bir uzun mesafeli konveyör kurulması planlanıyor. Kaynağa göre programın madencilik ve cevher işleme hızlarını iki kattan fazla artırması bekleniyor; bu, gerçekleşmiş sonuç değil proje beklentisi olarak değerlendirilmeli.",
+      "why_it_matters_tr": "AHS filosu ve uzun mesafeli konveyörün aynı saha genişleme programında yer alması, cevher taşıma kapasitesinin ekipman ve tesis altyapısıyla birlikte ele alındığını gösteriyor. Beklenen üretim artışının gerçekleşip gerçekleşmediğini değerlendirmek için uygulama takvimi ve işletme verileri gerekecek.",
+      "seo_title": "Freeport, Bagdad madeninde 4,5 milyar dolarlık yatırımı onayladı",
+      "meta_description": "Freeport’un Bagdad genişleme programı, AHS filosunun büyütülmesini ve uzun mesafeli konveyörü içeriyor; üretim hızlarında iki kattan fazla artış bekleniyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Freeport yönetim kurulu Bagdad işletmesi için 4,5 milyar ABD dolarlık programı onayladı.",
+        "Bagdad, Arizona’nın kuzeybatısında bulunan bir bakır ve molibden işletmesi olarak tanımlanıyor.",
+        "Program AHS filosunun büyütülmesini ve yeni bir uzun mesafeli konveyörü içeriyor.",
+        "Kaynak, madencilik ve işleme hızlarının iki kattan fazla artmasının beklendiğini aktarıyor."
+      ],
+      "suggested_tags": [
+        "Freeport",
+        "Bagdad",
+        "bakır madenciliği",
+        "AHS",
+        "konveyör"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "otonomi-ai"
+      ],
+      "source_facts_used": [
+        "International Mining haber özeti Freeport’un 4,5 milyar ABD dolarlık genişleme ve modernizasyon programını onayladığını bildiriyor.",
+        "Kaynak Bagdad’ı Arizona’da Freeport’a ait bakır ve molibden işletmesi olarak tanımlıyor.",
+        "Haber, büyütülecek AHS filosu ile yeni uzun mesafeli konveyörü proje kapsamına dahil ediyor.",
+        "İki kattan fazla hız artışı kaynakta beklenti olarak ifade ediliyor."
+      ],
+      "uncertainty_notes": [
+        "Sayfaya erişim uyarısı bulunuyor; taslak, girdi içindeki haber özeti ve kaynak metnine dayanıyor.",
+        "AHS filosunun üreticisi, araç sayısı, sistem özellikleri, konveyör kapasitesi ve uygulama takvimi belirtilmemiş.",
+        "Proje beklentileri Freeport’un birincil duyurusundan doğrulanmalı; üretim artışı gerçekleşmiş sonuç olarak sunulmamalı."
+      ],
+      "generated_at": "2026-11-05T12:52:33.507Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -995,7 +1052,7 @@
   },
   {
     "id": "97595c54de561e73",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Factory logistics with 25-metre trucks: Fendt opts for longer electric HGVs",
     "source_name": "electrive",
     "source_url": "https://www.electrive.com/2026/11/05/factory-logistics-with-25-metre-trucks-fendt-opts-for-longer-electric-hgvs/",
@@ -1011,14 +1068,42 @@
     "editorial_fit_score": 67,
     "summary_source": "Agricultural machinery manufacturer Fendt recently adopted a unique approach to electrifying its in-house logistics for tractor production. Alongside its partner Ansorge, the Bavarian company is using eight electric long-haul trucks to transport tractor cabs. Other companies, such as Elflein, are now also using these 25.25-meter-long e-trucks.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Fendt, traktör kabini taşımacılığında elektrikli uzun kamyonları kullanıyor",
+      "dek_tr": "electrive’ın haberine göre Fendt, Ansorge ile birlikte fabrika içi lojistikte traktör kabinlerini taşıyan sekiz elektrikli uzun yol kamyonu kullanıyor. Araçlar 25,25 metre uzunluğunda.",
+      "summary_tr": "Fendt, traktör üretimine yönelik fabrika lojistiğinde elektrikli ağır ticari araçlardan yararlanıyor. Kaynakta, Ansorge ile birlikte kullanılan sekiz kamyonun traktör kabinlerini taşımak için görev yaptığı belirtiliyor.\n\nHaberde araçların uzunluğu 25,25 metre olarak veriliyor. Ancak batarya kapasitesi, menzil, şarj düzeni, taşıma kapasitesi veya operasyonel performans hakkında bilgi paylaşılmıyor.",
+      "why_it_matters_tr": "Bu örnek, tarım makinesi üretimindeki parça ve fabrika lojistiğinin elektrifikasyonuna işaret ediyor. Benzer yoğun ve planlı taşıma hatlarında elektrikli ağır ticari araçların uygulanabilirliğini değerlendirirken araç özellikleri kadar güzergâh ve şarj verileri de belirleyici olacaktır.",
+      "seo_title": "Fendt’in fabrika lojistiğinde sekiz elektrikli kamyon",
+      "meta_description": "Fendt ve Ansorge, traktör kabinlerini taşımak için 25,25 metre uzunluğundaki sekiz elektrikli kamyonu fabrika lojistiğinde kullanıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Fendt, Ansorge ile birlikte sekiz elektrikli kamyon kullanıyor.",
+        "Kamyonlar traktör kabinlerini taşımak için kullanılıyor.",
+        "Araçların uzunluğu kaynakta 25,25 metre olarak belirtiliyor.",
+        "Kaynak, bu araç tipini kullanan başka şirketler arasında Elflein’i de anıyor."
+      ],
+      "suggested_tags": [
+        "Fendt",
+        "elektrikli kamyon",
+        "fabrika lojistiği",
+        "tarım makineleri"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "electrive haber metni Fendt ile Ansorge’nin sekiz elektrikli kamyon kullandığını belirtiyor.",
+        "Metin kamyonların traktör kabini taşıdığını ve 25,25 metre uzunluğunda olduğunu bildiriyor.",
+        "Kaynak, Elflein’i benzer araçları kullanan diğer şirketlerden biri olarak anıyor."
+      ],
+      "uncertainty_notes": [
+        "Sayfaya erişim uyarısı bulunuyor; taslak, girdi içindeki haber özeti ve kaynak metnine dayanıyor.",
+        "Araç modeli, batarya ve şarj özellikleri ile operasyonel sonuçlar verilmemiş; Fendt veya Ansorge’nin birincil kaynaklarından teyit edilmeli."
+      ],
+      "generated_at": "2026-11-05T12:52:33.507Z",
+      "generated_by": "github-models"
     }
   },
   {
