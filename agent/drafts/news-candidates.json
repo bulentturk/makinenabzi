@@ -204,6 +204,34 @@
     }
   },
   {
+    "id": "071553bf4ea06141",
+    "status": "candidate",
+    "title_original": "EAO expands Series 09 switch range for heavy-duty vehicle exteriors",
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/news/electronics/eao-expands-series-09-switch-range-for-heavy-duty-vehicle-exteriors.html",
+    "source_feed": "https://www.ivtinternational.com/feed",
+    "published_at": "2026-11-05T13:37:46.000Z",
+    "discovered_at": "2026-11-05T21:25:19.841Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [
+      "elektronik-telematik"
+    ],
+    "relevance_score": 158,
+    "editorial_fit_score": 67,
+    "summary_source": "EAO has expanded its Series 09 range of vehicle human machine interface (HMI) switches with a large 39mm diameter sealed push-button, developed to operate on the exterior of heavy-duty vehicles [...] The post EAO expands Series 09 switch range for heavy-duty vehicle exteriors appeared first on Industrial Vehicle Technology International.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "cc440dcf63afdff4",
     "status": "drafted",
     "title_original": "EIMA TECHNOLOGY PROFILE: Advancing hydraulic coupling efficiency in agriculture",
@@ -1575,6 +1603,32 @@
     }
   },
   {
+    "id": "793e083bec4767d0",
+    "status": "candidate",
+    "title_original": "Case Launches its Largest Stand-on Mini Track Loader: the TL170",
+    "source_name": "Equipment World",
+    "source_url": "https://www.equipmentworld.com/construction-equipment/compact-equipment/compact-utility-loaders/article/16050560/case-debuts-new-tl170-compact-utility-loader",
+    "source_feed": "https://www.equipmentworld.com/feed/",
+    "published_at": "2026-11-05T17:00:00.000Z",
+    "discovered_at": "2026-11-05T21:25:20.107Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 145,
+    "editorial_fit_score": 55,
+    "summary_source": "The new model delivers 43.5 horsepower and 1,700 pounds of rated operating capacity for more power for light construction.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "7c51efa6207c5c4c",
     "status": "drafted",
     "title_original": "Potain Expands MDT Crane Lineup with 99e and a New Control System",
@@ -2724,6 +2778,32 @@
       ],
       "generated_at": "2026-10-22T09:46:05.296Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "d968410b712999ea",
+    "status": "candidate",
+    "title_original": "Liebherr Unveils New Mobile Construction Crane MK 88-4.2E",
+    "source_name": "Construction Equipment Guide",
+    "source_url": "https://www.constructionequipmentguide.com/liebherr-unveils-new-mobile-construction-crane-mk-8842e/72710",
+    "source_feed": "https://feeds.feedburner.com/ceg",
+    "published_at": "2026-11-05T05:00:00.000Z",
+    "discovered_at": "2026-11-05T21:25:19.263Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 130,
+    "editorial_fit_score": 65,
+    "summary_source": "Liebherr's new MK 88-4.2E construction crane is designed for economical mobility worldwide. ...",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
