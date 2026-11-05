@@ -205,7 +205,7 @@
   },
   {
     "id": "071553bf4ea06141",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "EAO expands Series 09 switch range for heavy-duty vehicle exteriors",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/electronics/eao-expands-series-09-switch-range-for-heavy-duty-vehicle-exteriors.html",
@@ -221,14 +221,41 @@
     "editorial_fit_score": 67,
     "summary_source": "EAO has expanded its Series 09 range of vehicle human machine interface (HMI) switches with a large 39mm diameter sealed push-button, developed to operate on the exterior of heavy-duty vehicles [...] The post EAO expands Series 09 switch range for heavy-duty vehicle exteriors appeared first on Industrial Vehicle Technology International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "EAO, Series 09 serisine ağır hizmet araçları için 39 mm dış mekân butonu ekledi",
+      "dek_tr": "iVT International'ın haberine göre EAO, Series 09 HMI anahtar serisini 39 mm çapında, sızdırmaz bir butonla genişletti. Ürün, ağır hizmet araçlarının dış yüzeylerinde kullanım için tanıtılıyor.",
+      "summary_tr": "EAO, Series 09 araç insan-makine arayüzü (HMI) anahtar serisine 39 mm çapında bir basmalı buton ekledi. Kaynakta ürünün IP67 koruma sınıfına sahip olduğu ve ağır hizmet araçlarının dış kullanımına yönelik geliştirildiği belirtiliyor.\n\nHaberde inşaat, tarım ve ormancılık araçları kullanım alanları arasında sayılıyor. Çalışma koşulları, elektriksel özellikler ve mevcut Series 09 ürünlerine göre teknik farklar hakkında ek bilgi verilmemiş.",
+      "why_it_matters_tr": "Dış ortamda kullanılan kumanda elemanlarının sızdırmazlığı, iş makinesi ve tarım aracı tasarımlarında önemli olabilir. Ancak ürünün saha performansına ilişkin kaynakta doğrulanmış veri bulunmuyor.",
+      "seo_title": "EAO Series 09 serisine 39 mm IP67 buton ekledi",
+      "meta_description": "EAO'nun Series 09 serisine eklediği 39 mm IP67 basmalı buton, ağır hizmet tipi inşaat, tarım ve ormancılık araçlarının dış kullanımı için tanıtılıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "EAO, Series 09 serisine 39 mm çapında basmalı buton ekledi.",
+        "Kaynak, butonu IP67 koruma sınıfıyla tanımlıyor.",
+        "Ürün ağır hizmet tipi inşaat, tarım ve ormancılık araçlarının dış yüzeyleri için konumlandırılıyor."
+      ],
+      "suggested_tags": [
+        "EAO",
+        "Series 09",
+        "HMI",
+        "IP67",
+        "ağır hizmet araçları"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektronik-telematik"
+      ],
+      "source_facts_used": [
+        "Haber başlığı ve açıklaması Series 09 serisinin genişletildiğini ve buton çapının 39 mm olduğunu bildiriyor.",
+        "Sayfa açıklaması butonu IP67 olarak tanımlıyor ve inşaat, tarım ve ormancılık araçlarının dış kullanımıyla ilişkilendiriyor."
+      ],
+      "uncertainty_notes": [
+        "Girdi, iVT International haber özeti ve açıklamasını içeriyor; üreticinin birincil teknik duyurusu bulunmuyor. IP67 sınıfı ve uygulama bilgileri birincil kaynakla doğrulanmalı.",
+        "Elektriksel değerler, çalışma koşulları ve önceki ürünlere göre teknik farklar kaynakta yer almıyor."
+      ],
+      "generated_at": "2026-11-05T21:26:15.141Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -2555,7 +2582,7 @@
   },
   {
     "id": "9f85bcf29b47b56b",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Vinç ve Platform Yeni Sayı Çıktı",
     "source_name": "Vinç & Platform",
     "source_url": "https://vincveplatform.com/vinc-ve-platform-yeni-sayi-cikti/",
@@ -2569,14 +2596,34 @@
     "editorial_fit_score": 65,
     "summary_source": "",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Vinç & Platform dergisi yeni sayısını duyurdu",
+      "dek_tr": "Vinç & Platform'un başlığı yeni sayının çıktığını bildiriyor. Sayının içeriği ve öne çıkan teknik konular girdi metninde yer almıyor.",
+      "summary_tr": "Kaynak başlığı, Vinç & Platform dergisinin yeni bir sayısının yayımlandığını duyuruyor. Girdi içinde sayı numarası, yayın tarihi veya içerikteki makine ve teknoloji konularına ilişkin bilgi bulunmuyor.\n\nBu nedenle duyurudan hareketle vinç, platform ya da liman ekipmanları alanında belirli bir teknik gelişmeyi haberleştirmek mümkün değil.",
+      "why_it_matters_tr": "Dergi içeriğinin kapsamı bilinmediğinden, Makine Nabzı okuyucuları için teknik veya sektörel önemini değerlendirecek yeterli bilgi yok.",
+      "seo_title": "Vinç & Platform dergisi yeni sayısını duyurdu",
+      "meta_description": "Vinç & Platform'un yeni sayısına ilişkin duyuru mevcut; ancak girdi metninde sayı içeriği veya öne çıkan teknik konular paylaşılmıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Kaynak başlığı Vinç & Platform'un yeni sayısının çıktığını bildiriyor.",
+        "Girdi metninde sayının içeriği ve teknik konu başlıkları belirtilmiyor."
+      ],
+      "suggested_tags": [
+        "Vinç & Platform",
+        "vinç",
+        "platform"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Kaynak başlığı derginin yeni sayısının çıktığını söylüyor."
+      ],
+      "uncertainty_notes": [
+        "Girdide sayı içeriği, sayı numarası ve yayın ayrıntıları bulunmuyor; teknik haber taslağı için yeterli kaynak bilgisi yok."
+      ],
+      "generated_at": "2026-11-05T21:26:15.141Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -2782,7 +2829,7 @@
   },
   {
     "id": "d968410b712999ea",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Liebherr Unveils New Mobile Construction Crane MK 88-4.2E",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/liebherr-unveils-new-mobile-construction-crane-mk-8842e/72710",
@@ -2796,14 +2843,38 @@
     "editorial_fit_score": 65,
     "summary_source": "Liebherr's new MK 88-4.2E construction crane is designed for economical mobility worldwide. ...",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Liebherr, MK 88-4.2E mobil inşaat vincini tanıttı",
+      "dek_tr": "Construction Equipment Guide, Liebherr'in MK 88-4.2E adlı yeni mobil inşaat vincini duyurdu. Girdide vincin teknik özellikleri ve önceki modele göre farkları paylaşılmıyor.",
+      "summary_tr": "Construction Equipment Guide'ın haber başlığı, Liebherr'in MK 88-4.2E mobil inşaat vincini tanıttığını bildiriyor. Sağlanan kısa açıklama, vincin dünya çapında ekonomik mobilite hedefiyle tasarlandığını belirtiyor.\n\nKapasite, erişim, kurulum, tahrik veya çalışma özellikleri hakkında girdi içinde doğrulanabilir bilgi bulunmuyor. Bu nedenle modelin teknik yeniliği ya da uygulama sınırları hakkında daha ileri bir değerlendirme yapılamaz.",
+      "why_it_matters_tr": "Mobil vinçlerde sahalar arası taşınabilirlik ve kurulum gereksinimleri operasyon planlamasını etkileyebilir. Ancak bu modelin söz konusu alanlardaki somut özellikleri kaynak girdisinde açıklanmadığından, sektörel etkisi şu aşamada değerlendirilemiyor.",
+      "seo_title": "Liebherr MK 88-4.2E mobil inşaat vincini tanıttı",
+      "meta_description": "Liebherr'in yeni MK 88-4.2E mobil inşaat vinci duyuruldu. Sağlanan kaynakta kapasite, erişim ve modelin teknik farkları açıklanmıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Kaynak başlığı yeni modeli Liebherr MK 88-4.2E olarak adlandırıyor.",
+        "Kısa açıklama modeli mobil inşaat vinci olarak tanımlıyor.",
+        "Kaynak açıklaması vincin dünya çapında ekonomik mobilite için tasarlandığını belirtiyor."
+      ],
+      "suggested_tags": [
+        "Liebherr",
+        "MK 88-4.2E",
+        "mobil vinç",
+        "inşaat ekipmanları"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Construction Equipment Guide başlığı yeni Liebherr MK 88-4.2E mobil inşaat vincinin tanıtıldığını bildiriyor.",
+        "Kaynak özeti vincin dünya çapında ekonomik mobilite amacıyla tasarlandığını belirtiyor."
+      ],
+      "uncertainty_notes": [
+        "Sayfa için HTTP 403 uyarısı verilmiş; girdi yalnızca başlık ve kısa özet içeriyor.",
+        "Teknik özellikler ve üreticinin birincil duyurusu sağlanmadığından modelin kapasitesi, çalışma sınırları ve yenilikleri doğrulanamıyor."
+      ],
+      "generated_at": "2026-11-05T21:26:15.141Z",
+      "generated_by": "github-models"
     }
   },
   {
