@@ -204,6 +204,34 @@
     }
   },
   {
+    "id": "cc440dcf63afdff4",
+    "status": "candidate",
+    "title_original": "EIMA TECHNOLOGY PROFILE: Advancing hydraulic coupling efficiency in agriculture",
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/news/agriculture/eima-technology-profile-advancing-hydraulic-coupling-efficiency-in-agriculture.html",
+    "source_feed": "https://www.ivtinternational.com/feed",
+    "published_at": "2026-11-05T11:36:19.000Z",
+    "discovered_at": "2026-11-05T12:51:27.132Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [
+      "hidrolik"
+    ],
+    "relevance_score": 158,
+    "editorial_fit_score": 67,
+    "summary_source": "Faster Hall 20, Stand D/12 New hydraulic connection solutions from Faster address operational errors and pressure drop inefficiencies across demanding agricultural implement interfaces The evolution of agricultural mechanisation is no [...] The post EIMA TECHNOLOGY PROFILE: Advancing hydraulic coupling efficiency in agriculture appeared first on Industrial Vehicle Technology International.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "f792374658b1b6b8",
     "status": "drafted",
     "title_original": "Liebherr expands electric excavator range with new 250-tonne-class R 9300 G8-E",
@@ -650,6 +678,32 @@
     }
   },
   {
+    "id": "c5b094bb0886407f",
+    "status": "candidate",
+    "title_original": "EIMA TECHNOLOGY PROFILE: Modular engine family for forestry OEMs",
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/news/agriculture/modular-engine-family-for-forestry-oems.html",
+    "source_feed": "https://www.ivtinternational.com/feed",
+    "published_at": "2026-11-05T10:48:56.000Z",
+    "discovered_at": "2026-11-05T12:51:27.138Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 150,
+    "editorial_fit_score": 55,
+    "summary_source": "AGCO Power Hall 14, Stand C/3 The Core engine range from AGCO Power targets system-level performance across harvester, forwarder and specialist forestry vehicle applications Forestry applications place distinctive demands on [...] The post EIMA TECHNOLOGY PROFILE: Modular engine family for forestry OEMs appeared first on Industrial Vehicle Technology International.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "604330485efb3061",
     "status": "candidate",
     "title_original": "Freeport approves Bagdad expansion including enlarged AHS fleet & new overland conveyor",
@@ -937,6 +991,34 @@
       ],
       "generated_at": "2026-10-25T09:31:26.861Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "97595c54de561e73",
+    "status": "candidate",
+    "title_original": "Factory logistics with 25-metre trucks: Fendt opts for longer electric HGVs",
+    "source_name": "electrive",
+    "source_url": "https://www.electrive.com/2026/11/05/factory-logistics-with-25-metre-trucks-fendt-opts-for-longer-electric-hgvs/",
+    "source_feed": "https://www.electrive.com/feed/",
+    "published_at": "2026-11-05T11:00:58.000Z",
+    "discovered_at": "2026-11-05T12:51:26.906Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "relevance_score": 148,
+    "editorial_fit_score": 67,
+    "summary_source": "Agricultural machinery manufacturer Fendt recently adopted a unique approach to electrifying its in-house logistics for tractor production. Alongside its partner Ansorge, the Bavarian company is using eight electric long-haul trucks to transport tractor cabs. Other companies, such as Elflein, are now also using these 25.25-meter-long e-trucks.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -2328,6 +2410,32 @@
       ],
       "generated_at": "2026-10-24T09:14:35.409Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "9f85bcf29b47b56b",
+    "status": "candidate",
+    "title_original": "Vinç ve Platform Yeni Sayı Çıktı",
+    "source_name": "Vinç & Platform",
+    "source_url": "https://vincveplatform.com/vinc-ve-platform-yeni-sayi-cikti/",
+    "source_feed": "https://vincveplatform.com/feed/",
+    "published_at": "2026-11-05T10:30:43.000Z",
+    "discovered_at": "2026-11-05T12:51:29.224Z",
+    "sector": "liman",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 134,
+    "editorial_fit_score": 65,
+    "summary_source": "",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -4112,6 +4220,32 @@
     "relevance_score": 106,
     "editorial_fit_score": 55,
     "summary_source": "IC Tower Index’in 2026 yılı sıralamasına göre dünyanın en büyük 20 kule vinci filosunun toplam kapasitesi, geçen yıla… The post Kule vinç filolarının toplam kapasitesi yüzde 2,4 arttı first appeared on Makina Market.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "ce2601ce905a7604",
+    "status": "candidate",
+    "title_original": "Mekalift, Nemo İnşaat’ın makine parkına Magni RTH 6.26’yı kazandırdı",
+    "source_name": "LHT",
+    "source_url": "https://www.lht.com.tr/mekalift-nemo-insaatin-makine-parkina-magni-rth-6-26yi-kazandirdi/",
+    "source_feed": "https://www.lht.com.tr/feed/",
+    "published_at": "2026-11-05T12:22:41.000Z",
+    "discovered_at": "2026-11-05T12:51:29.878Z",
+    "sector": "liman",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 105,
+    "editorial_fit_score": 55,
+    "summary_source": "Mekalift Makina, İstanbul Anadolu Yakası’nda altyapı, üstyapı, inşaat ve hafriyat alanlarında faaliyet gösteren Nemo İnşaat’a Magni RTH 6.26 rotasyonlu telehandler teslimatı gerçekleştirdi. Nemo İnşaat Kurucu Ortağı Nazım Akbaş, 26 metre erişim yüksekliği ve vinç ataşmanı gibi özellikleri nedeniyle modeli tercih ettiklerini belirterek, “Makineden elde edeceğimiz verim ve performans, bundan sonraki yatırımlarımızda da referans olacak. İlerleyen […]",
     "editorial": {
       "title_tr": "",
       "dek_tr": "",
