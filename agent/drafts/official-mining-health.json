@@ -5,8 +5,8 @@
     "ok": true,
     "links": 25,
     "new_links": 0,
-    "checked_at": "2026-11-04T13:53:33.098Z",
-    "duration_ms": 1173
+    "checked_at": "2026-11-05T14:08:46.315Z",
+    "duration_ms": 1314
   },
   {
     "source": "Epiroc",
@@ -14,8 +14,8 @@
     "ok": false,
     "links": 0,
     "new_links": 0,
-    "checked_at": "2026-11-04T13:53:32.574Z",
-    "duration_ms": 594,
+    "checked_at": "2026-11-05T14:08:45.448Z",
+    "duration_ms": 400,
     "error": "HTTP 403"
   },
   {
@@ -23,18 +23,19 @@
     "url": "https://www.mining.sandvik/en/news-and-media/",
     "ok": true,
     "links": 2,
-    "new_links": 1,
-    "checked_at": "2026-11-04T13:53:32.897Z",
-    "duration_ms": 914
+    "new_links": 0,
+    "checked_at": "2026-11-05T14:08:46.109Z",
+    "duration_ms": 1060
   },
   {
     "source": "Getman",
     "url": "https://getman.com/news-announcements/",
-    "ok": true,
-    "links": 2,
+    "ok": false,
+    "links": 0,
     "new_links": 0,
-    "checked_at": "2026-11-04T13:53:34.968Z",
-    "duration_ms": 2984
+    "checked_at": "2026-11-05T14:09:00.051Z",
+    "duration_ms": 15001,
+    "error": "The operation was aborted due to timeout"
   },
   {
     "source": "Hencon",
@@ -42,7 +43,7 @@
     "ok": true,
     "links": 0,
     "new_links": 0,
-    "checked_at": "2026-11-04T13:53:33.460Z",
-    "duration_ms": 1475
+    "checked_at": "2026-11-05T14:08:46.407Z",
+    "duration_ms": 1356
   }
 ]
