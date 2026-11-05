@@ -589,7 +589,7 @@
   },
   {
     "id": "3d53a29dfa1bd82a",
-    "status": "drafted",
+    "status": "published",
     "title_original": "LOVOL ECVT Hybrid Tractors Powered by Weichai",
     "source_name": "Powertrain International Off-Highway",
     "source_url": "https://www.powertraininternationalweb.com/off-highway/lovol-tractors-hybrid-weichai/",
@@ -649,7 +649,9 @@
         "Test sonuçlarına ilişkin ayrıntılı ölçüm yöntemi ve Avrupa pazarı takvimi belirtilmemiş."
       ],
       "generated_at": "2026-11-04T21:13:40.408Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "review_result": "auto_published",
+      "reviewed_at": "2026-11-05T14:35:22.738Z"
     }
   },
   {

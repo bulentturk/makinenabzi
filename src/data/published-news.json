@@ -1,5 +1,42 @@
 [
   {
+    "id": "3d53a29dfa1bd82a",
+    "slug": "lovol-ecvt-hibrit-traktor-serisi-weichai-motorlarla-geliyor",
+    "title": "LOVOL ECVT hibrit traktör serisi Weichai motorlarla geliyor",
+    "dek": "LOVOL, CIAME 2026'da güç bölüşümlü hibrit tahrik ve kademesiz ECVT şanzıman kullanan yeni traktör serisini tanıttı. Üretici, seri için yakıt tüketimi ve operasyon verimliliğinde iyileşme iddialarında bulunuyor.",
+    "summary": "Powertrain International'ın aktardığına göre LOVOL, Çin'in Tianjin kentinde düzenlenen CIAME 2026'nın ilk gününde ECVT traktör serisini tanıttı. Sistem, Weichai motoru ile elektrikli tahriki koordine eden güç bölüşümlü hibrit mimariyi ve 0-40 km/sa aralığında kademesiz hız ayarı sağlayan şanzımanı bir araya getiriyor.\n\nSeride elektronik kontrollü şasi işlevleri, baş dönüşü yönetimi ve otomatik güzergâh planlama gibi sürücü destekleri bulunuyor. Üç kademeli titreşim azaltma düzeni; süspansiyonlu ön aks, kabin ve havalı koltuktan oluşuyor. Kaynak ayrıca değişken debili, yük algılamalı hidrolik sistem ile farklı tarla ekipmanlarına yönelik kullanım senaryolarını aktarıyor.\n\nHaberde üreticiye atfedilen açıklamaya göre seri, 2.000 saatlik tezgâh ve saha testlerinden geçti; denemeler yaklaşık 13.300 hektarlık alanda pulluk, dipkazan ve tohum yatağı hazırlama işlerini kapsadı. Avrupa pazarına girişin planlandığı, ancak takvimin açıklanmadığı belirtiliyor.",
+    "why_it_matters": "Hibrit güç bölüşümü ve ECVT'nin tarla işlerinde yakıt tüketimi, hız kontrolü ve ekipmanla çalışma biçimine etkisi, elektrifikasyonun tarım makinelerindeki uygulamasını izleyenler için önemli. Ancak aktarılan performans kazanımları bağımsız saha ölçümü olarak değerlendirilmemeli.",
+    "key_facts": [
+      "LOVOL, ECVT traktör serisini CIAME 2026'da tanıttı.",
+      "Güç aktarma sistemi Weichai motoru, elektrikli tahrik ve güç bölüşümlü hibrit mimari içeriyor.",
+      "ECVT için 0-40 km/sa kademesiz hız aralığı bildiriliyor.",
+      "Kaynağa göre seri 2.000 saatlik testlerden ve yaklaşık 13.300 hektardaki saha denemelerinden geçti.",
+      "Avrupa pazarı hedefleniyor; açıklanmış bir giriş takvimi yok."
+    ],
+    "format": "haber",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon",
+      "yuruyus-guc-aktarma",
+      "hidrolik",
+      "elektronik-telematik"
+    ],
+    "tags": [
+      "LOVOL",
+      "Weichai",
+      "hibrit traktör",
+      "ECVT",
+      "tarım makineleri"
+    ],
+    "source_name": "Powertrain International Off-Highway",
+    "source_url": "https://www.powertraininternationalweb.com/off-highway/lovol-tractors-hybrid-weichai/",
+    "source_published_at": "2026-11-04T13:43:01.000Z",
+    "site_published_at": "2026-11-05T14:35:22.738Z",
+    "hero_image": "",
+    "publish_mode": "automatic"
+  },
+  {
     "id": "d25c0d179d6766bd",
     "slug": "electric-watercraft-forum-ikinci-etkinligini-2027-de-duzenlemeyi-planliyor",
     "title": "Electric WaterCraft Forum, ikinci etkinliğini 2027’de düzenlemeyi planlıyor",
