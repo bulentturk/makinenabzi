@@ -711,7 +711,7 @@
   },
   {
     "id": "e6eac96346115b87",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "HCSS, Verizon Connect Team Up on Telematics for Mixed-Fleet Management",
     "source_name": "Equipment World",
     "source_url": "https://www.equipmentworld.com/technology/telematics/article/16424172/hcss-fleet-can-now-integrate-verizon-connect-telematics-data",
@@ -727,19 +727,45 @@
     "editorial_fit_score": 77,
     "summary_source": "Data such as equipment hours, mileage and maintenance schedules no longer require manual entry and are centralized under one platform...",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "HCSS ve Verizon Connect, karma filoların telematik verilerini birleştiriyor",
+      "dek_tr": "İş birliği, ekipman saatleri, kilometre ve bakım takvimi gibi verilerin HCSS Fleet’te merkezileştirilmesini hedefliyor. Kaynak özeti, bu bilgilerin manuel giriş gereksiniminin azalacağını belirtiyor.",
+      "summary_tr": "Equipment World’ün haber başlığı ve kısa özetine göre HCSS ile Verizon Connect, telematik verilerinin karma filo yönetiminde kullanılmasına yönelik bir entegrasyon için birlikte çalışıyor.\n\nÖzette ekipman çalışma saatleri, kilometre ve bakım takvimi verilerinin HCSS Fleet’te merkezileştirileceği aktarılıyor. Haber sayfasına erişilemediğinden entegrasyonun kapsamı, uyumlu cihazlar ve devreye alınma koşulları doğrulanamıyor.",
+      "why_it_matters_tr": "Farklı ekipmanlardan gelen telematik verilerinin ortak bir filo yönetim sisteminde toplanması, bakım ve kullanım takibindeki manuel veri girişini azaltma potansiyeli taşır; ancak uygulamanın gerçek kapsamı birincil kaynakla teyit edilmelidir.",
+      "seo_title": "HCSS ve Verizon Connect’ten karma filo telematik entegrasyonu",
+      "meta_description": "HCSS ve Verizon Connect iş birliği, ekipman saatleri, kilometre ve bakım takvimi verilerini karma filo yönetiminde merkezileştirmeyi hedefliyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Haber başlığı, HCSS ile Verizon Connect arasında telematik ve karma filo yönetimine yönelik bir iş birliği bildiriyor.",
+        "Kısa özette ekipman saatleri, kilometre ve bakım takvimi verilerinin tek platformda merkezileştirileceği belirtiliyor."
+      ],
+      "suggested_tags": [
+        "HCSS",
+        "Verizon Connect",
+        "telematik",
+        "karma filo",
+        "filo yönetimi"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektronik-telematik"
+      ],
+      "source_facts_used": [
+        "Equipment World haber başlığında HCSS ve Verizon Connect’in karma filo telematiği için bir araya geldiği bilgisi.",
+        "Kaynak özetinde ekipman saatleri, kilometre ve bakım takviminin merkezileştirilmesi ve manuel giriş gereksiniminin azalması bilgisi."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası HTTP 403 nedeniyle alınamadı; taslak yalnızca başlık ve kısa özetle sınırlıdır.",
+        "Entegrasyonun teknik kapsamı, desteklenen ekipman ve sistemler ile kullanılabilirlik durumu birincil kaynakta doğrulanmalıdır."
+      ],
+      "generated_at": "2026-11-06T20:48:24.723Z",
+      "generated_by": "github-models"
     }
   },
   {
     "id": "629a1bf1a5e422b7",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "More Power, More Versatility: Case IH Adds 3 Farmall Compact A Tractors",
     "source_name": "Equipment World",
     "source_url": "https://www.equipmentworld.com/ag-equipment/tractors/article/15975469/case-ih-adds-3-farmall-compact-a-tractors-up-to-57-hp",
@@ -755,14 +781,41 @@
     "editorial_fit_score": 67,
     "summary_source": "The new 45A, 50A and 55A bring up to 57 horsepower, increased hydraulic flow and more than 2,300 pounds of loader lift capacity...",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Case IH, Farmall Compact A serisine üç yeni model ekliyor",
+      "dek_tr": "45A, 50A ve 55A modelleri için kaynak özeti 57 hp’ye kadar güç, artırılmış hidrolik debi ve 2.300 lb’nin üzerinde yükleyici kaldırma kapasitesi bildiriyor. Bu değerlerin model bazındaki dağılımı mevcut kaynakta yer almıyor.",
+      "summary_tr": "Equipment World’ün haber başlığı ve kısa özetine göre Case IH, Farmall Compact A serisine 45A, 50A ve 55A modellerini ekliyor. Özette serinin 57 hp’ye kadar güç sunduğu belirtiliyor.\n\nAynı özete göre yeni modellerde hidrolik debi artırılmış ve yükleyici kaldırma kapasitesi 2.300 lb’nin üzerine çıkarılmış. Bu özelliklerin hangi model ve donanım seçenekleri için geçerli olduğu, haber sayfasına erişilemediğinden belirlenemiyor.",
+      "why_it_matters_tr": "Kompakt traktörlerde motor gücüyle birlikte hidrolik debi ve yükleyici kapasitesi, ön yükleyiciyle yapılan işlerin performansını etkileyen temel seçim ölçütleridir. Model bazında teknik değerler ve donanım seçenekleri açıklanırsa serinin kullanım kapsamı daha sağlıklı değerlendirilebilir.",
+      "seo_title": "Case IH Farmall Compact A serisine üç yeni traktör ekliyor",
+      "meta_description": "Case IH’in yeni Farmall 45A, 50A ve 55A modelleri için kaynak özeti 57 hp’ye kadar güç, artırılmış hidrolik debi ve yüksek yükleyici kapasitesi bildiriyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Farmall Compact A serisine 45A, 50A ve 55A adlı üç model ekleniyor.",
+        "Kaynak özeti azami gücü 57 hp’ye kadar olarak veriyor.",
+        "Özette artırılmış hidrolik debi ve 2.300 lb’nin üzerinde yükleyici kaldırma kapasitesi belirtiliyor."
+      ],
+      "suggested_tags": [
+        "Case IH",
+        "Farmall Compact A",
+        "kompakt traktör",
+        "tarım makinaları",
+        "hidrolik"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "hidrolik"
+      ],
+      "source_facts_used": [
+        "Equipment World başlığında Farmall Compact A serisine üç traktör modeli eklendiği bilgisi.",
+        "Kaynak özetindeki 45A, 50A ve 55A model adları, 57 hp’ye kadar güç, artan hidrolik debi ve 2.300 lb üzeri yükleyici kapasitesi."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası HTTP 403 nedeniyle alınamadı; taslak yalnızca başlık ve kısa özetle sınırlıdır.",
+        "Güç, hidrolik debi ve kaldırma kapasitesinin model, ölçüm yöntemi ve donanım bazındaki ayrıntıları üretici kaynağından doğrulanmalıdır."
+      ],
+      "generated_at": "2026-11-06T20:48:24.723Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -1776,7 +1829,7 @@
   },
   {
     "id": "030b3cd1abea7f8f",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Musk's Boring Co. Delivers New Tunneling Machine for Texas Park Project",
     "source_name": "Equipment World",
     "source_url": "https://www.equipmentworld.com/construction-equipment/article/16050464/the-boring-co-delivers-tbm-to-morgans-wonderland",
@@ -1790,14 +1843,39 @@
     "editorial_fit_score": 65,
     "summary_source": "The new TBM will excavate a 0.8-mile tunnel under 'the world’s first ultra-accessible theme park' designed to cater to special-needs...",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "The Boring Company, Texas’taki proje için yeni tünel açma makinesi teslim etti",
+      "dek_tr": "Kaynak özetine göre yeni TBM, erişilebilirlik odaklı bir tema parkının altında 0,8 mil uzunluğunda tünel açacak. Makinenin teknik özellikleri ve proje takvimi verilen bilgiler arasında bulunmuyor.",
+      "summary_tr": "Equipment World’ün haber başlığı, The Boring Company’nin Texas’taki Morgan’s Wonderland projesi için yeni bir tünel açma makinesi (TBM) teslim ettiğini bildiriyor.\n\nKısa özete göre makine, özel gereksinimli ziyaretçilere yönelik tasarlanmış tema parkının altında 0,8 mil uzunluğunda bir tünel açacak. Kaynakta TBM’nin çapı, kazı yöntemi, zemin koşulları veya proje takvimi hakkında bilgi verilmediğinden bu teknik ayrıntılar değerlendirilemiyor.",
+      "why_it_matters_tr": "Bir tema parkı altındaki tünel projesi, TBM kullanımının ulaşım altyapısı dışındaki uygulamalarına örnek oluşturabilir. Ancak makine ve proje ayrıntıları doğrulanmadan bunun teknik yenilik veya erişilebilirlik üzerindeki etkisi hakkında daha ileri bir sonuç çıkarmak mümkün değil.",
+      "seo_title": "The Boring Company’den Texas projesine yeni TBM",
+      "meta_description": "The Boring Company’nin teslim ettiği yeni TBM, kaynak özetine göre Texas’taki Morgan’s Wonderland’ın altında 0,8 mil uzunluğunda tünel açacak.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Haber başlığı, The Boring Company’nin Texas’taki Morgan’s Wonderland projesi için yeni bir TBM teslim ettiğini bildiriyor.",
+        "Kaynak özeti, parkın altında 0,8 mil uzunluğunda tünel açılacağını belirtiyor.",
+        "Kaynak özeti parkı özel gereksinimli ziyaretçilere yönelik olarak tanımlıyor."
+      ],
+      "suggested_tags": [
+        "The Boring Company",
+        "TBM",
+        "tünel açma makinesi",
+        "tünelcilik",
+        "Texas"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Equipment World başlığındaki The Boring Company, yeni TBM teslimatı ve Texas’taki proje bilgisi.",
+        "Kaynak özetindeki 0,8 mil tünel uzunluğu ve projenin erişilebilirlik odaklı tema parkının altında yürütüleceği bilgisi."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası HTTP 403 nedeniyle alınamadı; taslak yalnızca başlık ve kısa özetle sınırlıdır.",
+        "TBM’nin teknik özellikleri, zemin ve kazı koşulları, proje takvimi ve teslimatın birincil kaynakta teyidi mevcut girdide bulunmuyor."
+      ],
+      "generated_at": "2026-11-06T20:48:24.723Z",
+      "generated_by": "github-models"
     }
   },
   {
