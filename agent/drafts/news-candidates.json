@@ -762,7 +762,7 @@
   },
   {
     "id": "c5b094bb0886407f",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "EIMA TECHNOLOGY PROFILE: Modular engine family for forestry OEMs",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/agriculture/modular-engine-family-for-forestry-oems.html",
@@ -776,14 +776,42 @@
     "editorial_fit_score": 55,
     "summary_source": "AGCO Power Hall 14, Stand C/3 The Core engine range from AGCO Power targets system-level performance across harvester, forwarder and specialist forestry vehicle applications Forestry applications place distinctive demands on [...] The post EIMA TECHNOLOGY PROFILE: Modular engine family for forestry OEMs appeared first on Industrial Vehicle Technology International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "AGCO Power Core motor ailesi ormancılık makinelerine odaklanıyor",
+      "dek_tr": "iVT International’ın özetine göre AGCO Power Core motor ailesi, hasat makineleri, forwarder’lar ve özel ormancılık araçları için modüler bir çözüm olarak konumlandırılıyor. Tasarım hedefleri arasında yük tepkisi, yakıt verimliliği ve servis kolaylığı bulunuyor.",
+      "summary_tr": "iVT International’ın sağlanan özetinde AGCO Power Core ailesi, ormancılık makinesi üreticilerine yönelik modüler bir motor serisi olarak tanıtılıyor. Hasat makineleri, forwarder’lar ve özel ormancılık araçları hedef uygulamalar arasında sayılıyor.\n\nYayın, motor ailesinin hızlı yük tepkisi, yakıt verimliliği ve servis kolaylığı hedeflediğini aktarıyor. Ancak girdi, haberin teknik ayrıntılarını içermiyor; motor seçenekleri, güç değerleri ve modülerliğin makine entegrasyonuna etkisi belirtilmemiş.",
+      "why_it_matters_tr": "Ormancılık makinelerinde motor seçimi, değişken yük koşullarında çalışma ve bakım planlamasını etkileyebilir. Modüler bir motor ailesinin farklı makine platformlarına nasıl uyarlandığı, bu iddianın OEM’ler açısından pratik değerini belirler.",
+      "seo_title": "AGCO Power Core motor ailesi ormancılık OEM’lerine yönelik",
+      "meta_description": "AGCO Power Core, hasat makineleri ve forwarder’lar için modüler motor ailesi olarak tanıtılıyor; yük tepkisi, verimlilik ve servis kolaylığı hedefleniyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "AGCO Power Core, kaynakta ormancılık OEM’lerine yönelik modüler motor ailesi olarak tanımlanıyor.",
+        "Hedef uygulamalar arasında hasat makineleri, forwarder’lar ve özel ormancılık araçları yer alıyor.",
+        "Yayın özetinde hızlı yük tepkisi, yakıt verimliliği ve servis kolaylığı tasarım hedefleri olarak aktarılıyor."
+      ],
+      "suggested_tags": [
+        "AGCO Power",
+        "Core motor ailesi",
+        "ormancılık makineleri",
+        "hasat makinesi",
+        "forwarder",
+        "motor"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "yuruyus-guc-aktarma"
+      ],
+      "source_facts_used": [
+        "iVT International özetinde Core ailesinin modüler motor serisi ve ormancılık OEM’lerine yönelik olduğu bilgisi.",
+        "Kaynak özetinde sıralanan hedef makine uygulamaları ve tasarım amaçları."
+      ],
+      "uncertainty_notes": [
+        "Girdi metninde haberin tam içeriği yok; teknik iddialar yalnızca iVT International’ın özet ve açıklama metinlerine dayanıyor.",
+        "Motor modelleri, güç aralığı, emisyon seviyesi, yakıt tüketimi ve OEM uygulama örnekleri paylaşılmamış; birincil AGCO Power kaynağından doğrulama gerekir."
+      ],
+      "generated_at": "2026-11-06T12:37:47.952Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -1455,7 +1483,7 @@
   },
   {
     "id": "f8317c930bff0d46",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "GAMCO Promotes Ammonia on the Fields",
     "source_name": "Powertrain International Off-Highway",
     "source_url": "https://www.powertraininternationalweb.com/highlights/gamco-ammonia-man-engines/",
@@ -1471,14 +1499,45 @@
     "editorial_fit_score": 67,
     "summary_source": "CLAAS, MAN Engines and WTZ Roßlau are currently developing an ammonia-powered drive system for use in agricultural machinery. GAMCO – Green Ammonia Multifuel Combine – is designed as a research project and aims to investigate the suitability of an ammonia-powered drive system as a sustainable alternative to fossil fuels and to sustainable fuels such as hydrogen in ICEs The post GAMCO Promotes Ammonia on the Fields appeared first on Powertrain International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "CLAAS, MAN Engines ve WTZ Roßlau’dan amonyaklı tarım makinesi projesi",
+      "dek_tr": "GAMCO araştırma projesi, amonyağın tarım makinelerinde içten yanmalı motor yakıtı olarak kullanılabilirliğini inceleyecek. Yanma, egzoz arıtma, depolama ve güvenli kullanım başlıkları proje kapsamında ele alınacak.",
+      "summary_tr": "Powertrain International’ın aktardığına göre WTZ Roßlau liderliğindeki GAMCO projesinde MAN Engines motor sistemini geliştirecek; CLAAS ise teknolojinin bir tarım makinesine entegrasyonu üzerinde çalışacak. Projenin 1 Mayıs 2026–31 Ekim 2029 arasında yürütülmesi ve 3,2 milyon avro bütçeye sahip olması planlanıyor.\n\nÇalışma, amonyağı ana enerji taşıyıcısı olarak kullanan bir motor sisteminin tarım uygulamalarındaki potansiyelini araştırmayı amaçlıyor. Kaynak, amonyağın yanmasında doğrudan CO₂ oluşmadığını belirtiyor; ancak yanma özellikleri, egzoz gazı arıtımı, depolama ve güvenli elleçleme gibi konuların da araştırılması gerektiğini vurguluyor.",
+      "why_it_matters_tr": "Yüksek güç gerektiren tarım makinelerinde alternatif yakıtların uygulanabilirliği, motor ve yakıt altyapısı tercihlerine etki edebilir. Amonyağın makine üzerindeki depolama ve güvenli kullanım gereksinimleri, saha uygulaması açısından özellikle belirleyici olacaktır.",
+      "seo_title": "GAMCO, tarım makinelerinde amonyaklı motoru araştırıyor",
+      "meta_description": "CLAAS, MAN Engines ve WTZ Roßlau’nun GAMCO projesi, amonyağın tarım makinelerinde motor yakıtı olarak kullanımını ve teknik gereksinimlerini inceleyecek.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "GAMCO, WTZ Roßlau liderliğinde yürütülen bir araştırma projesi olarak tanımlanıyor.",
+        "MAN Engines motor sistemi geliştirme, CLAAS ise tarım makinesine entegrasyon çalışmasını üstleniyor.",
+        "Kaynağa göre proje 1 Mayıs 2026–31 Ekim 2029 dönemini ve 3,2 milyon avro bütçeyi kapsıyor.",
+        "Yanma, egzoz arıtımı, depolama ve güvenli kullanım proje inceleme başlıkları arasında."
+      ],
+      "suggested_tags": [
+        "GAMCO",
+        "amonyaklı motor",
+        "CLAAS",
+        "MAN Engines",
+        "tarım makineleri",
+        "alternatif yakıt"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "yuruyus-guc-aktarma"
+      ],
+      "source_facts_used": [
+        "GAMCO’nun amonyaklı motor sistemini tarım makinelerinde araştırma amacı.",
+        "WTZ Roßlau, MAN Engines ve CLAAS’ın kaynakta belirtilen rolleri.",
+        "Kaynakta verilen proje bütçesi, takvimi ve teknik inceleme başlıkları."
+      ],
+      "uncertainty_notes": [
+        "Girdi, sektör yayını haberidir; üretici veya proje kurumlarının özgün duyurusu sağlanmadığından proje kapsamı, bütçe ve takvim birincil kaynaklardan doğrulanmalıdır.",
+        "Amonyağın doğrudan yanma kaynaklı CO₂ emisyonuna ilişkin ifade, yaşam döngüsü emisyonlarını kapsamaz; kaynakta yaşam döngüsü değerlendirmesi veya saha testi sonucu verilmemiştir.",
+        "Motor gücü, yakıt sistemi, makine modeli ve performans verileri paylaşılmamıştır."
+      ],
+      "generated_at": "2026-11-06T12:37:47.952Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -1886,7 +1945,7 @@
   },
   {
     "id": "5794a8363e700315",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Sabanto links autonomy to Precision Planting’s 20|20 for unmanned planting",
     "source_name": "Future Farming",
     "source_url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/sabanto-links-autonomy-to-precision-planting-s-20-20-for-unmanned-planting/",
@@ -1902,14 +1961,44 @@
     "editorial_fit_score": 67,
     "summary_source": "US company Sabanto has announced support for planters equipped with the Precision Planting Gen 3 20|20 system. Combined with a Sabanto-retrofitted tractor, the setup allows autonomous planting without an operator in the seat. Growers can supervise the work remotely through Sabanto’s Vehicle Mission Control (vMC) interface. Support is planned for the 2027 growing season.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Sabanto, Precision Planting 20|20 sistemli mibzerlerde otonom ekimi destekleyecek",
+      "dek_tr": "Sabanto’nun duyurusuna göre, Gen 3 20|20 sistemli mibzerler Sabanto dönüşümü uygulanmış traktörlerle operatörsüz ekim için desteklenecek. Çalışmanın 2027 ekim sezonunda sunulması planlanıyor.",
+      "summary_tr": "Future Farming’in kısa haber özetine göre Sabanto, Precision Planting Gen 3 20|20 sistemiyle donatılmış mibzerler için destek planlıyor. Kurulum, Sabanto tarafından otonom kullanıma uyarlanmış bir traktörle çalışacak şekilde tarif ediliyor.\n\nÜreticilerin çalışmayı Sabanto Vehicle Mission Control (vMC) arayüzünden uzaktan denetleyebileceği belirtiliyor. Kaynakta destek için 2027 ekim sezonu hedef gösteriliyor; uyumlu makine listesi, operasyon sınırları ve güvenlik ayrıntıları verilmemiş.",
+      "why_it_matters_tr": "Mevcut hassas ekim ekipmanının otonom traktör sistemleriyle birlikte çalışması, tarla operasyonlarının planlanması ve uzaktan gözetimi açısından önem taşıyabilir. Uygulamanın pratik değeri, uyumluluk ve güvenli çalışma koşullarının açıklanmasına bağlı.",
+      "seo_title": "Sabanto’dan 20|20 sistemli mibzerlere otonom ekim desteği",
+      "meta_description": "Sabanto, Gen 3 20|20 sistemli mibzerleri otonom traktör kurulumuyla desteklemeyi planlıyor. Uzaktan gözetim vMC üzerinden yapılacak.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Sabanto, Precision Planting Gen 3 20|20 sistemli mibzerlere destek duyurdu.",
+        "Kurulumun Sabanto dönüşümlü traktörle kullanılması tarif ediliyor.",
+        "Uzaktan gözetim için Vehicle Mission Control (vMC) arayüzü belirtiliyor.",
+        "Destek için 2027 ekim sezonu hedefleniyor."
+      ],
+      "suggested_tags": [
+        "Sabanto",
+        "Precision Planting",
+        "otonom tarım",
+        "hassas ekim",
+        "mibzer",
+        "Vehicle Mission Control"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "otonomi-ai",
+        "elektronik-telematik"
+      ],
+      "source_facts_used": [
+        "Future Farming özetinde verilen Gen 3 20|20 uyumluluğu ve Sabanto dönüşümlü traktör bilgisi.",
+        "Kaynakta belirtilen vMC üzerinden uzaktan gözetim ve 2027 sezonu hedefi."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası 403 hatası nedeniyle alınamamış; girdi yalnızca kısa haber özetini içeriyor.",
+        "Özgün Sabanto veya Precision Planting duyurusu, uyumlu ekipman listesi, güvenlik prosedürleri ve teknik çalışma sınırları sağlanmadığından birincil kaynak doğrulaması gerekir."
+      ],
+      "generated_at": "2026-11-06T12:37:47.952Z",
+      "generated_by": "github-models"
     }
   },
   {
