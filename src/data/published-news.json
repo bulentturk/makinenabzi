@@ -1,5 +1,41 @@
 [
   {
+    "id": "3828e946bc4e9542",
+    "slug": "flux-power-gse-bataryalari-icin-gaz-algilama-ve-otomatik-guc-kesme-sistemi-duyurdu",
+    "title": "Flux Power, GSE bataryaları için gaz algılama ve otomatik güç kesme sistemi duyurdu",
+    "dek": "Flux Power'ın açıkladığı sistem, batarya içindeki koşulları izleyerek olası bir termal olayı batarya yönetim sistemine iletiyor. Şirket ayrıca yeni S24 konfigürasyonları ve SkyVOX batarya takip cihazını tanıttı.",
+    "summary": "Charged EVs'in aktardığı duyuruya göre Flux Power, havalimanı yer destek ekipmanlarında kullanılan lityum-iyon bataryalar için entegre gaz algılama sistemi geliştirdi. Sensörün batarya içindeki koşulları sürekli izlediği ve veriyi batarya yönetim sistemine (BMS) ilettiği belirtiliyor. Olası bir termal olay algılanırsa BMS, CAN bağlantılı aracı uyarabiliyor ve gücü otomatik olarak kesebiliyor.\n\nŞirket, sistemi bir havayoluyla geliştirdiğini ve merkezinde gösterdiğini bildirdi. İlk sevkiyatların 2027'nin ilk çeyreğinde başlaması bekleniyor; hizmetteki bataryalar için sonradan montaj programı da planlanıyor.\n\nDuyurudaki diğer ürünler iki S24 batarya konfigürasyonu ve SkyVOX telematik cihazı. SkyVOX, batarya konumu ve şarj gereksinimi bildirimleri sağlıyor; batarya bölmesinin dışına yerleştirilen hücresel ve GPS antenleriyle bağlantı sorunlarını azaltmayı hedefliyor. Cihaz sevkiyatlarının 2026'nın dördüncü çeyreğinde başlaması bekleniyor.",
+    "why_it_matters": "Apron araçlarında batarya durumunun izlenmesi ve olası termal olayda aracın gücünün kesilebilmesi, elektrikli GSE filolarında emniyet ve operasyon yönetimi açısından doğrudan önem taşıyor. Sistem performansı ve güvenlik katkısı içinse saha verileri ve bağımsız doğrulama gerekli.",
+    "key_facts": [
+      "Gaz sensörü batarya içindeki koşulları izleyerek veriyi BMS'ye iletiyor.",
+      "Potansiyel termal olayda CAN bağlantılı araca uyarı ve otomatik güç kesme işlevi bildiriliyor.",
+      "İlk gaz algılama sistemi sevkiyatlarının 2027'nin ilk çeyreğinde başlaması bekleniyor.",
+      "SkyVOX konum ve şarj bildirimleri sağlıyor; sevkiyatları 2026'nın dördüncü çeyreği için planlanıyor.",
+      "S24 ürün ailesine kompakt bölmeli forklift ve yaya kumandalı istifleyici konfigürasyonları ekleniyor."
+    ],
+    "format": "haber",
+    "sector": "havaalani-gse",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon",
+      "fonksiyonel-guvenlik",
+      "elektronik-telematik"
+    ],
+    "tags": [
+      "Flux Power",
+      "havaalanı GSE",
+      "lityum-iyon batarya",
+      "batarya güvenliği",
+      "telemetri"
+    ],
+    "source_name": "Charged EVs",
+    "source_url": "https://chargedevs.com/newswire/flux-power-announces-gas-detection-for-gse-batteries-and-new-s24-and-skyvox-products/",
+    "source_published_at": "2026-11-04T16:12:24.000Z",
+    "site_published_at": "2026-11-06T14:13:08.582Z",
+    "hero_image": "",
+    "publish_mode": "automatic"
+  },
+  {
     "id": "3d53a29dfa1bd82a",
     "slug": "lovol-ecvt-hibrit-traktor-serisi-weichai-motorlarla-geliyor",
     "title": "LOVOL ECVT hibrit traktör serisi Weichai motorlarla geliyor",

@@ -1193,7 +1193,7 @@
   },
   {
     "id": "3828e946bc4e9542",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Flux Power announces gas detection for GSE batteries and new S24 and SkyVOX products",
     "source_name": "Charged EVs",
     "source_url": "https://chargedevs.com/newswire/flux-power-announces-gas-detection-for-gse-batteries-and-new-s24-and-skyvox-products/",
@@ -1251,7 +1251,9 @@
         "Şirketin standartların ötesinde güvenlik sağladığı yönündeki iddiası bağımsız olarak doğrulanmış değil."
       ],
       "generated_at": "2026-11-04T21:13:40.408Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "review_result": "auto_published",
+      "reviewed_at": "2026-11-06T14:13:08.582Z"
     }
   },
   {
