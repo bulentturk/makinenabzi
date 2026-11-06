@@ -710,6 +710,62 @@
     }
   },
   {
+    "id": "e6eac96346115b87",
+    "status": "candidate",
+    "title_original": "HCSS, Verizon Connect Team Up on Telematics for Mixed-Fleet Management",
+    "source_name": "Equipment World",
+    "source_url": "https://www.equipmentworld.com/technology/telematics/article/16424172/hcss-fleet-can-now-integrate-verizon-connect-telematics-data",
+    "source_feed": "https://www.equipmentworld.com/feed/",
+    "published_at": "2026-11-06T17:00:00.000Z",
+    "discovered_at": "2026-11-06T20:47:32.080Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [
+      "elektronik-telematik"
+    ],
+    "relevance_score": 153,
+    "editorial_fit_score": 77,
+    "summary_source": "Data such as equipment hours, mileage and maintenance schedules no longer require manual entry and are centralized under one platform...",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "629a1bf1a5e422b7",
+    "status": "candidate",
+    "title_original": "More Power, More Versatility: Case IH Adds 3 Farmall Compact A Tractors",
+    "source_name": "Equipment World",
+    "source_url": "https://www.equipmentworld.com/ag-equipment/tractors/article/15975469/case-ih-adds-3-farmall-compact-a-tractors-up-to-57-hp",
+    "source_feed": "https://www.equipmentworld.com/feed/",
+    "published_at": "2026-11-06T17:00:00.000Z",
+    "discovered_at": "2026-11-06T20:47:32.081Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [
+      "hidrolik"
+    ],
+    "relevance_score": 153,
+    "editorial_fit_score": 67,
+    "summary_source": "The new 45A, 50A and 55A bring up to 57 horsepower, increased hydraulic flow and more than 2,300 pounds of loader lift capacity...",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "b41b2e0610938c4d",
     "status": "drafted",
     "title_original": "Musk’s Boring Company to Launch 3rd TBM on Nashville's Music City Loop",
@@ -1716,6 +1772,32 @@
       ],
       "generated_at": "2026-10-21T19:12:56.951Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "030b3cd1abea7f8f",
+    "status": "candidate",
+    "title_original": "Musk's Boring Co. Delivers New Tunneling Machine for Texas Park Project",
+    "source_name": "Equipment World",
+    "source_url": "https://www.equipmentworld.com/construction-equipment/article/16050464/the-boring-co-delivers-tbm-to-morgans-wonderland",
+    "source_feed": "https://www.equipmentworld.com/feed/",
+    "published_at": "2026-11-06T17:05:00.000Z",
+    "discovered_at": "2026-11-06T20:47:32.079Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 145,
+    "editorial_fit_score": 65,
+    "summary_source": "The new TBM will excavate a 0.8-mile tunnel under 'the world’s first ultra-accessible theme park' designed to cater to special-needs...",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
