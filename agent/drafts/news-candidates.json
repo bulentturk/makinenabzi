@@ -4747,7 +4747,7 @@
   },
   {
     "id": "166aebe082c8132b",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "2030’da kazı ve hafriyat makinelerini daha akıllı, verimli ve çevreci bir gelecek bekliyor",
     "source_name": "Makina Market",
     "source_url": "https://makina-market.com.tr/2030da-kazi-ve-hafriyat-makinelerini-daha-akilli-verimli-ve-cevreci-bir-gelecek-bekliyor/",
@@ -4761,19 +4761,46 @@
     "editorial_fit_score": 55,
     "summary_source": "İş makineleri sektöründe dijitalleşme, otomasyon ve alternatif güç sistemleri gelişimini sürdürürken, 2030 yılına kadar kazı ve hafriyat makinelerinde… The post 2030’da kazı ve hafriyat makinelerini daha akıllı, verimli ve çevreci bir gelecek bekliyor first appeared on Makina Market.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Kazı ve hafriyat makinelerinde 2030’a uzanan dönüşüm beklentisi",
+      "dek_tr": "Makina Market’in açıklaması, dijitalleşme, otomasyon ve alternatif güç sistemlerini sektörün dönüşüm başlıkları olarak sıralıyor. Ancak verilen içerik, bu beklentileri destekleyecek somut makine veya teknik veri sunmuyor.",
+      "summary_tr": "Makina Market’in başlık ve açıklamasında, 2030’a kadar kazı ve hafriyat makinelerinde çalışma sistemleri, veri paylaşımı, operatör desteği ve enerji verimliliği alanlarında değişim beklendiği belirtiliyor. Dijitalleşme, otomasyon ve alternatif güç sistemleri de dönüşümün başlıkları arasında sayılıyor.\n\nPaylaşılan kaynak metni ise bu konuyu değil, Magni RTH 6.26 teslimatını anlatıyor. Bu nedenle öngörülerin dayanağı, hangi üretici değerlendirmelerine ait olduğu ve teknik kapsamı mevcut girdiden belirlenemiyor.",
+      "why_it_matters_tr": "Dijital iş akışları ve alternatif güç sistemleri, iş makinelerinin kullanım ve enerji gereksinimlerini etkileyebilir. Ancak bu aday, belirli bir teknoloji veya uygulama örneği sunmadığı için teknik haber değeri sınırlı.",
+      "seo_title": "Kazı ve hafriyat makinelerinde 2030 dönüşüm beklentisi",
+      "meta_description": "Makina Market, kazı ve hafriyat makinelerinde dijitalleşme, otomasyon ve alternatif güç sistemlerine dayalı bir dönüşüm beklentisini aktarıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Makina Market açıklaması dijitalleşme, otomasyon ve alternatif güç sistemlerini dönüşüm başlıkları olarak anıyor.",
+        "Açıklama; çalışma sistemleri, veri paylaşımı, operatör desteği ve enerji verimliliğinde değişim beklentisi bildiriyor.",
+        "Verilen kaynak metni başlık ve açıklamayla uyumlu değil."
+      ],
+      "suggested_tags": [
+        "kazı makineleri",
+        "hafriyat",
+        "dijitalleşme",
+        "otomasyon"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon",
+        "elektronik-telematik",
+        "otonomi-ai"
+      ],
+      "source_facts_used": [
+        "Makina Market açıklamasında belirtilen dönüşüm başlıkları ve 2030’a yönelik genel beklenti."
+      ],
+      "uncertainty_notes": [
+        "Kaynak metni, başlık ve açıklamayla uyuşmuyor; asıl yazının içeriği bu girdiden doğrulanamıyor.",
+        "Üretici değerlendirmeleri, somut teknik değişiklikler ve alternatif güç sistemlerinin kapsamı belirtilmemiş. Yayın öncesinde özgün makale ve birincil kaynak doğrulaması gerekir."
+      ],
+      "generated_at": "2026-11-07T19:20:39.364Z",
+      "generated_by": "github-models"
     }
   },
   {
     "id": "2e656d88c08f0152",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "CASE CX17D Mini Ekskavatör: Kompakt sınıfta güç ve konfor",
     "source_name": "Makina Market",
     "source_url": "https://makina-market.com.tr/case-cx17d-mini-ekskavator-kompakt-sinifta-guc-ve-konfor/",
@@ -4787,19 +4814,45 @@
     "editorial_fit_score": 55,
     "summary_source": "CASE’in D Serisi ailesinin en çevik üyelerinden biri olan CX17D mini ekskavatör, hem şehir içi hem de dar… The post CASE CX17D Mini Ekskavatör: Kompakt sınıfta güç ve konfor first appeared on Makina Market.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "CASE CX17D mini ekskavatörün motor gücü 12 kW",
+      "dek_tr": "Makina Market açıklamasına göre CX17D, Faz V uyumlu 12 kW (16 bg) motorla sunuluyor. Verilen girdi, modelin teknik özelliklerini doğrulayacak üretici kaynağını içermiyor.",
+      "summary_tr": "Makina Market’in sayfa açıklaması, CASE CX17D’yi D Serisi mini ekskavatör olarak tanımlıyor ve motor gücünü 12 kW (16 bg) olarak veriyor. Açıklamada motorun Faz V uyumlu olduğu da belirtiliyor.\n\nDar alanlarda ve şehir içi şantiyelerde kullanım, sayfada modelin hedeflendiği senaryolar olarak aktarılıyor. Yakıt tüketiminin düşük olduğu yönündeki ifade için karşılaştırma veya ölçüm verisi sunulmadığından, bu iddia bağımsız performans bilgisi olarak değerlendirilemez.",
+      "why_it_matters_tr": "Kompakt ekskavatörlerde motor gücü ve emisyon sınıfı, saha uygunluğu ve makine seçimi açısından temel teknik bilgilerdir. Ancak bu girdide kapasite, çalışma ölçüleri veya üretici teknik dokümanı bulunmadığı için modelin sınıfındaki farkı değerlendirmek mümkün değil.",
+      "seo_title": "CASE CX17D mini ekskavatör: 12 kW motor ve Faz V",
+      "meta_description": "CASE CX17D için 12 kW (16 bg) motor gücü ve Faz V uyumu bildiriliyor. Modelin teknik verileri için üretici kaynağı doğrulaması gerekiyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Sayfa açıklaması CASE CX17D’yi D Serisi mini ekskavatör olarak tanımlıyor.",
+        "Açıklamada motor gücü 12 kW (16 bg) ve emisyon uyumu Faz V olarak belirtiliyor.",
+        "Şehir içi ve dar alanlı şantiyeler hedef kullanım senaryoları olarak anılıyor."
+      ],
+      "suggested_tags": [
+        "CASE",
+        "CX17D",
+        "mini ekskavatör",
+        "Faz V"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "emisyon-stage-v"
+      ],
+      "source_facts_used": [
+        "Makina Market sayfa açıklamasındaki model adı, D Serisi tanımı, motor gücü ve Faz V uyumu.",
+        "Açıklamada belirtilen şehir içi ve dar alanlı şantiye kullanım senaryoları."
+      ],
+      "uncertainty_notes": [
+        "Verilen kaynak metni CASE CX17D’yi değil, Magni RTH 6.26 teslimatını anlatıyor; teknik bilgiler sayfa açıklamasıyla sınırlı.",
+        "Motor, emisyon uyumu ve yakıt tüketimi iddiaları üretici teknik dokümanından doğrulanmalı; yakıt tüketimine ilişkin karşılaştırmalı veri sunulmamış."
+      ],
+      "generated_at": "2026-11-07T19:20:39.364Z",
+      "generated_by": "github-models"
     }
   },
   {
     "id": "ce2601ce905a7604",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Mekalift, Nemo İnşaat’ın makine parkına Magni RTH 6.26’yı kazandırdı",
     "source_name": "LHT",
     "source_url": "https://www.lht.com.tr/mekalift-nemo-insaatin-makine-parkina-magni-rth-6-26yi-kazandirdi/",
@@ -4813,14 +4866,41 @@
     "editorial_fit_score": 55,
     "summary_source": "Mekalift Makina, İstanbul Anadolu Yakası’nda altyapı, üstyapı, inşaat ve hafriyat alanlarında faaliyet gösteren Nemo İnşaat’a Magni RTH 6.26 rotasyonlu telehandler teslimatı gerçekleştirdi. Nemo İnşaat Kurucu Ortağı Nazım Akbaş, 26 metre erişim yüksekliği ve vinç ataşmanı gibi özellikleri nedeniyle modeli tercih ettiklerini belirterek, “Makineden elde edeceğimiz verim ve performans, bundan sonraki yatırımlarımızda da referans olacak. İlerleyen […]",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Nemo İnşaat filosuna Magni RTH 6.26 rotasyonlu telehandler ekledi",
+      "dek_tr": "Mekalift, Magni RTH 6.26’yı İstanbul Anadolu Yakası’nda faaliyet gösteren Nemo İnşaat’a teslim etti. Şirket yetkilisi, 26 metre erişim yüksekliği ve vinç ataşmanı seçeneğinin tercih nedenleri arasında olduğunu belirtti.",
+      "summary_tr": "LHT’nin aktardığına göre Mekalift Makina, Magni RTH 6.26 rotasyonlu telehandler’ı Nemo İnşaat’a teslim etti. Nemo İnşaat ağırlıklı olarak İstanbul Anadolu Yakası’nda altyapı, üstyapı, inşaat ve hafriyat projelerinde çalışıyor.\n\nŞirketin kurucu ortağı Nazım Akbaş, modelin 26 metre erişim yüksekliği ve vinç ataşmanlarıyla kullanılabilmesini tercih nedenleri arasında gösterdi. Makinenin sahadaki verim ve performansına ilişkin değerlendirmelerin ise teslimat haberinde geleceğe dönük beklenti olarak aktarıldığı, saha ölçümü sunulmadığı not edilmeli.",
+      "why_it_matters_tr": "Rotasyonlu telehandler ve farklı ataşmanlarla kullanım, yüksek katlı inşaat projelerinde malzeme elleçleme ve kaldırma işlerini tek makineyle yürütme olanağı sağlayabilir. Bu teslimat, belirli bir saha kullanımını gösteriyor; ancak operasyonel kazanımlar henüz ölçülmüş sonuç olarak paylaşılmamış.",
+      "seo_title": "Magni RTH 6.26 Nemo İnşaat filosuna katıldı",
+      "meta_description": "Mekalift, 26 metre erişim yüksekliğine sahip Magni RTH 6.26 rotasyonlu telehandler’ı Nemo İnşaat’a teslim etti.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Mekalift Makina, Magni RTH 6.26’yı Nemo İnşaat’a teslim etti.",
+        "LHT haberinde model rotasyonlu telehandler olarak tanımlanıyor.",
+        "Nemo İnşaat yetkilisi 26 metre erişim yüksekliği ve vinç ataşmanlarını tercih nedenleri arasında saydı.",
+        "Nemo İnşaat’ın ağırlıklı çalışma bölgesi İstanbul Anadolu Yakası olarak belirtildi."
+      ],
+      "suggested_tags": [
+        "Magni RTH 6.26",
+        "rotasyonlu telehandler",
+        "Mekalift",
+        "Nemo İnşaat",
+        "inşaat makineleri"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "LHT haberindeki teslimat bilgisi ve makinenin rotasyonlu telehandler tanımı.",
+        "Haberde verilen 26 metre erişim yüksekliği ve vinç ataşmanı bilgisi.",
+        "Nemo İnşaat’ın faaliyet alanı ve İstanbul Anadolu Yakası’ndaki çalışma ağırlığı."
+      ],
+      "uncertainty_notes": [
+        "Girdi yalnızca LHT’nin ikincil haberini içeriyor; üreticinin teknik dokümanı veya resmi teslimat açıklaması sunulmamış.",
+        "26 metre erişim bilgisi ve vinç ataşmanlarıyla kullanım, haber ve müşteri beyanına dayanıyor; teknik kapasite çizelgesi ve saha performans verisi verilmemiş."
+      ],
+      "generated_at": "2026-11-07T19:20:39.364Z",
+      "generated_by": "github-models"
     }
   }
 ]
