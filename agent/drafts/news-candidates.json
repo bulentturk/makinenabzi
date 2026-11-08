@@ -3687,7 +3687,7 @@
   },
   {
     "id": "ec4b1a42f9c9e78f",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Hareket, Romanya’daki Otoyol Projesi’nde Köprü Kemeri Montajını Tamamladı",
     "source_name": "Vinç & Platform",
     "source_url": "https://vincveplatform.com/hareket-romanyadaki-otoyol-projesinde-kopru-kemeri-montajini-tamamladi/",
@@ -3701,14 +3701,41 @@
     "editorial_fit_score": 55,
     "summary_source": "Hareket, Romanya’nın Sibiu kentinde devam eden otoyol projesinde önemli bir aşamayı geride bıraktı. Proje kapsamında inşa edilen ilk çelik köprünün kemerini oluşturan son bölümlerin kaldırma ve montaj operasyonları, iki adet Liebherr LTM 1500 mobil vinç kullanılarak tamamlandı. Romanya’nın Sibiu kentindeki otoyol projesinde çalışmalarını sürdüren Hareket Proje, ilk çelik köprünün kemer montajını başarıyla tamamladı. Projenin önemli […]",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Hareket, Sibiu’daki Köprü Kemerinin Montajını Tamamladı",
+      "dek_tr": "Romanya’daki otoyol projesinde çelik köprü kemerinin son bölümleri, iki Liebherr LTM 1500 mobil vinçle kaldırılıp yerleştirildi. Kaynak, vinçlerin her biri için 500 ton kaldırma kapasitesi bildiriyor.",
+      "summary_tr": "Hareket Proje, Romanya’nın Sibiu kentindeki otoyol çalışmasında ilk çelik köprünün kemer montajını tamamladığını bildirdi. Operasyon, kemeri oluşturan son çelik bölümlerin kaldırılması ve yerlerine yerleştirilmesini kapsadı.\n\nKaynak yayına göre kaldırma işinde, her biri 500 ton kaldırma kapasiteli iki Liebherr LTM 1500 mobil vinç koordineli olarak görev yaptı. Yük ağırlığı, vinç konfigürasyonu ve kaldırma planının teknik ayrıntıları paylaşılmadı.",
+      "why_it_matters_tr": "Ağır çelik yapı montajlarında iki mobil vincin koordinasyonu, iş makinesi ve kaldırma ekipmanı kullanımına ilişkin somut bir saha örneği sunuyor. Ancak operasyonun teknik zorluk düzeyini değerlendirmek için yük ve vinç kurulum ayrıntıları gerekli.",
+      "seo_title": "Hareket, Sibiu’daki Çelik Köprü Kemerini Tamamladı",
+      "meta_description": "Hareket, Romanya’daki otoyol projesinde çelik köprü kemerinin son parçalarını iki Liebherr LTM 1500 mobil vinçle monte etti.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Operasyon, Romanya’nın Sibiu kentindeki bir otoyol projesinde gerçekleştirildi.",
+        "Montajı tamamlanan yapı, projenin ilk çelik köprüsünün kemeriydi.",
+        "Kaynağa göre kaldırmada iki Liebherr LTM 1500 mobil vinç kullanıldı.",
+        "Kaynak, her vinç için 500 ton kaldırma kapasitesi belirtiyor."
+      ],
+      "suggested_tags": [
+        "Hareket",
+        "Liebherr LTM 1500",
+        "mobil vinç",
+        "ağır kaldırma",
+        "köprü montajı"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Sibiu’daki otoyol projesinde ilk çelik köprünün kemer montajının tamamlandığı bilgisi",
+        "Son çelik bölümlerin iki Liebherr LTM 1500 ile kaldırılıp yerleştirildiği bilgisi",
+        "Kaynakta her vinç için 500 ton kaldırma kapasitesi verildiği bilgisi"
+      ],
+      "uncertainty_notes": [
+        "Girdi, sektör yayınının haber metnini içeriyor; üretici veya proje kurumunun birincil açıklaması sunulmadı.",
+        "500 ton kapasitenin hangi vinç konfigürasyonu için belirtildiği ve operasyonun yük, erişim mesafesi ve kaldırma planı ayrıntıları kaynakta yer almıyor."
+      ],
+      "generated_at": "2026-11-08T19:28:35.995Z",
+      "generated_by": "github-models"
     }
   },
   {
