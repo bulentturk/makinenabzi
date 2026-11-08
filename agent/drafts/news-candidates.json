@@ -176,7 +176,7 @@
   },
   {
     "id": "4a4ebd5aa093050e",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Epiroc on growth of Autonomous SmartROC D65 MKII drills in mining & quarrying",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/11/04/epiroc-on-growth-of-autonomous-smartroc-d65-mkii-drills-in-mining-quarrying/",
@@ -193,14 +193,43 @@
     "editorial_fit_score": 34,
     "summary_source": "Epiroc says its global fleet of Autonomous SmartROC D65 MKII drills continues to grow, with mining and quarrying customers deploying the technology to improve safety, productivity, and drilling consistency. The Autonomous SmartROC D65 MKII is now operating at customer sites in Australia and the United States, including Fortescue’s Solomon and Eliwana operations, Luck Stone’s Rockville The post Epiroc on growth of Autonomous SmartROC D65 MKII drills in mining & quarrying appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Epiroc’un otonom SmartROC D65 MKII sondaj makineleri yeni sahalarda",
+      "dek_tr": "International Mining’in aktardığına göre Epiroc’un otonom SmartROC D65 MKII makineleri Avustralya ve ABD’deki maden ve taş ocaklarında çalışıyor. Kaynak, saha performansına veya filonun büyüklüğüne ilişkin ölçülebilir veri sunmuyor.",
+      "summary_tr": "International Mining’in haber özetine göre Epiroc, Autonomous SmartROC D65 MKII sondaj makinesi filosunun büyümeyi sürdürdüğünü bildiriyor. Makinelerin Avustralya ve ABD’deki müşteri sahalarında çalıştığı; Avustralya’da Fortescue’nun Solomon ve Eliwana operasyonlarının, ABD’de ise Luck Stone’un Rockville sahasının örnekler arasında olduğu belirtiliyor.\n\nEpiroc, teknolojinin güvenlik, üretkenlik ve sondaj tutarlılığını iyileştirmeyi amaçladığını söylüyor. Ancak verilen içerik, bu faydaları destekleyen saha ölçümleri, makine adedi veya otonom çalışma kapsamı hakkında ayrıntı içermiyor.",
+      "why_it_matters_tr": "Birden fazla ülkedeki müşteri sahalarının belirtilmesi, otonom sondajın maden ve taş ocağı uygulamalarında kullanımına dair bir işaret sunuyor. Vardiya verimliliği veya güvenlik üzerindeki gerçek etkisini değerlendirmek için sahaya ait ölçümler ve çalışma koşulları gerekir.",
+      "seo_title": "Epiroc SmartROC D65 MKII otonom sondaj sahalarında",
+      "meta_description": "Epiroc’un otonom SmartROC D65 MKII sondaj makineleri Avustralya ve ABD’deki maden ve taş ocağı sahalarında çalışıyor; performans verisi paylaşılmadı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Haberde söz konusu makine Epiroc Autonomous SmartROC D65 MKII olarak tanımlanıyor.",
+        "Makinelerin Avustralya ve ABD’deki müşteri sahalarında çalıştığı bildiriliyor.",
+        "Adı verilen sahalar Fortescue’nun Solomon ve Eliwana operasyonları ile Luck Stone’un Rockville sahası.",
+        "Epiroc, güvenlik, üretkenlik ve sondaj tutarlılığında iyileşme hedeflediğini belirtiyor."
+      ],
+      "suggested_tags": [
+        "Epiroc",
+        "SmartROC D65 MKII",
+        "otonom sondaj",
+        "maden makineleri",
+        "taş ocakları"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "otonomi-ai"
+      ],
+      "source_facts_used": [
+        "International Mining’in haber özetinde verilen SmartROC D65 MKII saha kullanımı ve Epiroc’un filo büyümesine ilişkin açıklaması.",
+        "Özette örnek gösterilen Fortescue Solomon ve Eliwana operasyonları ile Luck Stone Rockville sahası.",
+        "Güvenlik, üretkenlik ve sondaj tutarlılığının Epiroc tarafından hedeflenen faydalar olarak sunulması."
+      ],
+      "uncertainty_notes": [
+        "Girdi yalnızca International Mining’in kısa haber özetini içeriyor; Epiroc’un birincil duyurusu veya teknik dokümanı sunulmamış.",
+        "Filodaki makine sayısı, otonom çalışma kapsamı, saha koşulları ve ölçülmüş performans sonuçları verilmedi; iyileşme iddiaları bağımsız saha testi olarak değerlendirilemez."
+      ],
+      "generated_at": "2026-11-08T11:38:02.185Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -2403,7 +2432,7 @@
   },
   {
     "id": "e9b8c848e6928758",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Cavotec reports record order backlog as Q3 revenue rises",
     "source_name": "Container News",
     "source_url": "https://container-news.com/cavotec-reports-record-order-backlog-as-q3-revenue-rises/",
@@ -2419,14 +2448,45 @@
     "editorial_fit_score": 67,
     "summary_source": "Cavotec reported a record order backlog of €160 million at the end of September 2026, supported by growing demand for shore power systems and motorised cable reels across the maritime, ports and industrial sectors. The engineering company’s third-quarter revenue increased by 18.9% to €42.6 million, compared with €35.8 million in the corresponding period of 2025. […] The post Cavotec reports record order backlog as Q3 revenue rises appeared first on Container News.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Cavotec’in sipariş bakiyesi eylülde 160 milyon avroya ulaştı",
+      "dek_tr": "Cavotec, 2026’nın üçüncü çeyreğinde gelirinin yıllık yüzde 18,9 arttığını ve sipariş bakiyesinin rekor düzeye çıktığını bildirdi. Şirketin açıkladığı yeni işler arasında limanlar için kıyıdan gemiye güç ve otomatik bağlama sistemleri bulunuyor.",
+      "summary_tr": "Container News’in aktardığı şirket sonuçlarına göre Cavotec’in sipariş bakiyesi, Eylül 2026 sonunda yıllık yüzde 27,2 artışla 160 milyon avroya ulaştı. Üçüncü çeyrek geliri yüzde 18,9 artarak 42,6 milyon avro oldu. Şirket bu dönemde 1,6 milyon avro net zarar açıkladı.\n\nCavotec, yeni siparişler arasında yeni konteyner gemileri için yaklaşık 8 milyon avroluk kıyıdan güç sistemi tedarikini ve Jawaharlal Nehru Limanı’na yaklaşık 5 milyon avro değerinde MoorMaster otomatik bağlama teknolojisi sağlamayı saydı. MoorMaster teslimatının 2027’nin dördüncü çeyreğinde yapılması planlanıyor.\n\nŞirket ayrıca EVIAS ile, liman operasyonlarında kullanılan araçların elektrifikasyonunu desteklemek üzere otomatik kara tipi şarj teknolojisinin dünya çapında dağıtımı için münhasır anlaşma imzaladığını açıkladı. Cavotec, kıyıdan güç ekipmanlarındaki artan rekabetin kârlılık üzerinde baskı oluşturduğunu da belirtti.",
+      "why_it_matters_tr": "Kıyıdan güç ve liman araçlarına yönelik şarj çözümleri, limanlardaki elektrifikasyon yatırımlarının ekipman tedarikçilerine nasıl sipariş olarak yansıdığını gösteriyor. Ancak sipariş ve gelir artışı tek başına bu sistemlerin sahadaki performansını veya yatırım geri dönüşünü ortaya koymuyor.",
+      "seo_title": "Cavotec’in sipariş bakiyesi 160 milyon avroya çıktı",
+      "meta_description": "Cavotec, Eylül 2026 sonunda 160 milyon avroluk rekor sipariş bakiyesi açıkladı. Yeni işler arasında kıyıdan güç ve otomatik bağlama sistemleri var.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Sipariş bakiyesi Eylül 2026 sonunda 160 milyon avroya ulaştı; yıllık artış yüzde 27,2 olarak açıklandı.",
+        "Üçüncü çeyrek geliri yıllık yüzde 18,9 artışla 42,6 milyon avro oldu.",
+        "Yeni konteyner gemileri için kıyıdan güç sistemi siparişi yaklaşık 8 milyon avro değerinde.",
+        "Jawaharlal Nehru Limanı’na MoorMaster tedarik sözleşmesi yaklaşık 5 milyon avro; teslimat 2027’nin dördüncü çeyreği için planlanıyor.",
+        "Şirket, EVIAS ile otomatik kara tipi şarj teknolojisinin dağıtımı için münhasır anlaşma yaptığını bildirdi."
+      ],
+      "suggested_tags": [
+        "Cavotec",
+        "liman elektrifikasyonu",
+        "kıyıdan güç",
+        "otomatik bağlama",
+        "liman şarj sistemleri"
+      ],
+      "suggested_sector": "liman",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "Container News’in aktardığı 2026 üçüncü çeyrek gelir, sipariş bakiyesi ve net zarar verileri.",
+        "Kaynakta belirtilen kıyıdan güç sistemi siparişi ile MoorMaster sözleşmesinin değeri ve planlanan teslimat zamanı.",
+        "EVIAS ile otomatik kara tipi şarj teknolojisinin dağıtımı için yapılan anlaşma.",
+        "Cavotec’in gemi üstü kıyıdan güç ekipmanlarında rekabetin kâr marjlarına baskı yaptığı açıklaması."
+      ],
+      "uncertainty_notes": [
+        "Girdi, Cavotec’in resmi finansal raporunu veya sözleşme duyurularını içermiyor; finansal ve teknik iddialar birincil kaynaklardan doğrulanmalı.",
+        "Sistemlerin teknik özellikleri, sahadaki sonuçları ve otomatik şarj teknolojisinin liman araçlarıyla uyumluluğuna ilişkin ayrıntı verilmemiş."
+      ],
+      "generated_at": "2026-11-08T11:38:02.185Z",
+      "generated_by": "github-models"
     }
   },
   {
