@@ -263,7 +263,7 @@
   },
   {
     "id": "c2cd17d117e70cef",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Scanreco and CrossControl combine HMI offering at EIMA",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/electronics/scanreco-and-crosscontrol-combine-hmi-offering.html",
@@ -279,14 +279,39 @@
     "editorial_fit_score": 67,
     "summary_source": "Scanreco and CrossControl are exhibiting together at EIMA International 2026, presenting a combined offering that brings remote control, onboard displays and computing together for agricultural machinery manufacturers, with a single [...] The post Scanreco and CrossControl combine HMI offering at EIMA appeared first on Industrial Vehicle Technology International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Scanreco ve CrossControl, EIMA’da tarım makineleri için HMI çözümlerini bir araya getirdi",
+      "dek_tr": "Şirketler, EIMA International 2026’da uzaktan kumanda, araç içi ekran ve bilgi işlem çözümlerini kapsayan ortak bir sunum yaptı. Kaynakta teknik özellikler ve entegrasyon ayrıntıları yer almıyor.",
+      "summary_tr": "iVT International’ın haber özetine göre Scanreco ve CrossControl, EIMA International 2026’da tarım makinesi üreticilerine yönelik birleşik bir HMI çözümü sundu. Sunum; uzaktan kumanda, araç içi ekranlar ve bilgi işlem bileşenlerini kapsıyor.\n\nKaynak metninde ürün modelleri, sistemlerin birlikte nasıl çalıştığı veya makine üzerindeki uygulama örnekleri açıklanmıyor. Bu nedenle duyurunun teknik kapsamı mevcut bilgilerle sınırlı değerlendirilebilir.",
+      "why_it_matters_tr": "Uzaktan kumanda, ekran ve bilgi işlem bileşenlerinin birlikte ele alınması, tarım makinelerinde operatör arayüzü ve kontrol mimarisinin tasarımını etkileyebilir. Ancak olası entegrasyon ve kullanım avantajlarını değerlendirmek için teknik ayrıntı gerekir.",
+      "seo_title": "Scanreco ve CrossControl’den tarım makinelerine HMI çözümü",
+      "meta_description": "Scanreco ve CrossControl, EIMA International 2026’da tarım makineleri için uzaktan kumanda, araç içi ekran ve bilgi işlem çözümlerini birlikte sundu.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Scanreco ve CrossControl, EIMA International 2026’da birlikte sergileme yaptı.",
+        "Sunum tarım makinesi üreticilerine yönelik uzaktan kumanda, araç içi ekran ve bilgi işlem çözümlerini kapsıyordu."
+      ],
+      "suggested_tags": [
+        "Scanreco",
+        "CrossControl",
+        "tarım makineleri",
+        "HMI",
+        "uzaktan kumanda"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektronik-telematik"
+      ],
+      "source_facts_used": [
+        "iVT haber özeti, Scanreco ve CrossControl’ün EIMA International 2026’da birlikte sergileme yaptığını belirtiyor.",
+        "Özete göre ortak sunum uzaktan kumanda, araç içi ekran ve bilgi işlem çözümlerini kapsıyor."
+      ],
+      "uncertainty_notes": [
+        "Girdi içinde üretici açıklaması veya ayrıntılı teknik içerik bulunmuyor; sistem mimarisi, uyumluluk ve işlevler için birincil kaynak doğrulaması gerekli."
+      ],
+      "generated_at": "2026-11-09T23:45:09.768Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -2848,7 +2873,7 @@
   },
   {
     "id": "3004e95567a8d705",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "After Iveco, another piece of the former FIAT galaxy leaves. CNH’s construction branch goes to Kobelco",
     "source_name": "Powertrain International Off-Highway",
     "source_url": "https://www.powertraininternationalweb.com/news/kobelco-cnh-ce-construction/",
@@ -2864,14 +2889,46 @@
     "editorial_fit_score": 67,
     "summary_source": "Kobelco will acquire 70% of the newco into which CNH CE's operations will merge. Following the sale of the Iveco Group to Tata Motors, only CNH's agricultural division remains independent The post After Iveco, another piece of the former FIAT galaxy leaves. CNH’s construction branch goes to Kobelco appeared first on Powertrain International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Kobelco, CNH’nin inşaat ekipmanı faaliyetlerinde yüzde 70 pay alacak",
+      "dek_tr": "CNH’nin inşaat ekipmanı faaliyetlerinin yeni bir şirkette birleştirilmesi ve Kobelco’nun bu şirkette yüzde 70 pay edinmesi planlanıyor. İşlemin 2027 sonuna kadar tamamlanması bekleniyor.",
+      "summary_tr": "Powertrain International Off-Highway’de aktarılan duyuruya göre CNH’nin inşaat ekipmanı faaliyetleri yeni bir şirkette birleştirilecek. Kobelco Construction Machinery bu şirkette yüzde 70 pay alırken CNH azınlık payını koruyacak; işlemin kapanışının 2027 sonuna kadar gerçekleşmesi bekleniyor.\n\nYeni şirketin kapsamındaki markalar arasında Case Construction Equipment, New Holland Construction ve Eurocomach bulunuyor. Kaynak, tarafların ürün portföyleri ve satış-servis ağlarının birbirini tamamlamasını hedeflediklerini aktarıyor.\n\nKobelco’nun ürün ve teknoloji portföyüyle CNH’nin ürün yelpazesi ve küresel ağı arasında kurulacak ilişkinin tedarikçi uyumlaştırması ve elektrifikasyon planlarına nasıl yansıyacağı ise henüz ayrıntılandırılmıyor.",
+      "why_it_matters_tr": "İşlemin tamamlanması, ekskavatör, kompakt ekipman ve inşaat makinelerinin ürün planlaması ile satış-servis yapısını etkileyebilir. Özellikle tedarikçi seçimi ve elektrifikasyon stratejisindeki olası değişiklikler, ilgili makine segmentleri için izlenmeye değer; ancak bunların yönü kaynakta kesinleşmiş değil.",
+      "seo_title": "Kobelco, CNH inşaat ekipmanında yüzde 70 pay alacak",
+      "meta_description": "CNH’nin inşaat ekipmanı faaliyetleri yeni şirkette birleşecek. Kobelco yüzde 70 pay almayı, CNH ise azınlık payını korumayı planlıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Kobelco’nun yeni şirkette yüzde 70 pay alması, CNH’nin ise azınlık payı tutması planlanıyor.",
+        "CNH’nin inşaat ekipmanı faaliyetleri yeni şirkette birleştirilecek.",
+        "Yeni şirketin kapsamındaki markalar Case Construction Equipment, New Holland Construction ve Eurocomach olarak belirtiliyor.",
+        "İşlemin 2027 sonuna kadar tamamlanması bekleniyor."
+      ],
+      "suggested_tags": [
+        "Kobelco",
+        "CNH",
+        "Case Construction Equipment",
+        "New Holland Construction",
+        "Eurocomach",
+        "şirket birleşmeleri"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "yuruyus-guc-aktarma",
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "Kaynak, CNH inşaat ekipmanı faaliyetlerinin yeni şirkette birleştirilmesini ve Kobelco’nun yüzde 70 pay edinmesini aktarıyor.",
+        "Kaynakta CNH’nin azınlık payını koruyacağı ve kapanışın 2027 sonuna kadar beklendiği belirtiliyor.",
+        "Case Construction Equipment, New Holland Construction ve Eurocomach yeni şirketin kapsamındaki markalar olarak sıralanıyor.",
+        "Tedarikçi uyumlaştırması ve elektrifikasyon, kaynakta olası sanayi planı başlıkları olarak anılıyor."
+      ],
+      "uncertainty_notes": [
+        "Girdi, sektör yayınının aktarımı ve basın bülteni alıntısıdır; işlem koşulları ve takvim için CNH ile Kobelco’nun birincil duyurularından doğrulama gerekir.",
+        "Tedarikçi uyumlaştırması ve elektrifikasyon planının kapsamı kaynakta kesinleşmiş değil; bunlar tamamlanmış kararlar gibi sunulmamalı."
+      ],
+      "generated_at": "2026-11-09T23:45:09.768Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -3778,7 +3835,7 @@
   },
   {
     "id": "46ff3e1e79336fc6",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Yanmar close to launching more powerful tractors",
     "source_name": "profi",
     "source_url": "https://www.profi.co.uk/news/yanmar-close-to-launching-more-powerful-tractors/",
@@ -3792,14 +3849,37 @@
     "editorial_fit_score": 55,
     "summary_source": "Yanmar is preparing to strengthen its position in the 100hp+ segment with the new YT6 range from 130-143hp. The Japanese company can no longer be considered just a compact and utility tractor manufacturer. Following the recent launch of the YT4 (88-104hp) and YT5 (114hp), the YT6 takes it even higher up the power scales. Full […] The post Yanmar close to launching more powerful tractors appeared first on Profi.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Yanmar, 130–143 hp YT6 traktör serisini hazırlıyor",
+      "dek_tr": "Profi’nin haber özetine göre Yanmar’ın yeni YT6 serisi 130–143 hp güç aralığında konumlanacak. Girdi, teknik özellikler veya satışa çıkış takvimi hakkında ayrıntı vermiyor.",
+      "summary_tr": "Profi’nin haber özetinde Yanmar’ın YT6 adıyla 130–143 hp aralığında yeni bir traktör serisi hazırladığı belirtiliyor. Duyurunun, markanın daha yüksek güç sınıfındaki ürün kapsamını genişletmesi bekleniyor.\n\nAynı özette YT4 serisi 88–104 hp, YT5 ise 114 hp olarak anılıyor. YT6 için motor, aktarma organları, hidrolik kapasite, donanım seçenekleri veya pazara sunulma tarihi paylaşılmıyor.",
+      "why_it_matters_tr": "Daha yüksek güç sınıfına yönelik yeni bir traktör serisi, Yanmar’ın tarım makineleri portföyünün kapsamını değiştirebilir. Ancak uygulama alanı ve ürünün teknik farkı, yalnızca güç aralığını bildiren mevcut özetten değerlendirilemiyor.",
+      "seo_title": "Yanmar YT6 traktör serisi 130–143 hp aralığında",
+      "meta_description": "Profi’nin haber özetine göre Yanmar, 130–143 hp güç aralığındaki YT6 traktör serisini hazırlıyor; teknik özellikler henüz paylaşılmadı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Profi’nin özetine göre YT6 serisinin güç aralığı 130–143 hp olacak.",
+        "Aynı özette YT4 için 88–104 hp, YT5 için 114 hp bilgisi veriliyor."
+      ],
+      "suggested_tags": [
+        "Yanmar",
+        "YT6",
+        "traktör",
+        "tarım makineleri"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Profi’nin haber özeti, YT6 serisini 130–143 hp güç aralığında tanımlıyor.",
+        "Özet, YT4 için 88–104 hp ve YT5 için 114 hp değerlerini veriyor."
+      ],
+      "uncertainty_notes": [
+        "Girdi, ikincil sektör yayınının kısa özetiyle sınırlı; Yanmar’ın birincil duyurusunda teknik özellikler ve ürün takvimi doğrulanmalı.",
+        "YT6’nın pazara sunulma tarihi, motor ve aktarma özellikleri ile hedeflenen kullanım alanları kaynakta belirtilmiyor."
+      ],
+      "generated_at": "2026-11-09T23:45:09.768Z",
+      "generated_by": "github-models"
     }
   },
   {
