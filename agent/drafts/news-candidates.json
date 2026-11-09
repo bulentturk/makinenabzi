@@ -862,7 +862,7 @@
   },
   {
     "id": "f9327b3127295c64",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Who is to blame if an agricultural robot kills someone?",
     "source_name": "Future Farming",
     "source_url": "https://www.futurefarming.com/smart-farming/who-is-to-blame-if-an-agricultural-robot-kills-someone/",
@@ -879,14 +879,41 @@
     "editorial_fit_score": 79,
     "summary_source": "Autonomous tractors and robots are gradually making their way onto farms. There are several reasons why we are unlikely to see a massive wave of adoption just yet. One is the uncertainty surrounding legislation and liability. After all, what happens if a driverless tractor causes a fatal accident? Who is responsible? The farmer, the manufacturer or the software developer? This is a question the agricultural industry will be grappling with for years to come.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Tarım robotlarının karıştığı kazalarda sorumluluk nasıl belirlenecek?",
+      "dek_tr": "Otonom traktör ve robotların çiftliklerde kullanımı, kaza halinde sorumluluğun çiftçi, üretici veya yazılım geliştiricisine nasıl dağıtılacağı sorusunu gündeme getiriyor. Kaynak, bu konuda mevzuat ve sorumluluk belirsizliğine dikkat çekiyor.",
+      "summary_tr": "Tarımda otonom traktör ve robotların kullanımı yaygınlaşırken, sürücüsüz bir makinenin kazaya karışması halinde hukuki sorumluluğun kimde olacağı açık bir soru olarak öne çıkıyor. Kaynak, çiftçi, makine üreticisi ve yazılım geliştiricisini olası sorumluluk tarafları olarak sıralıyor.\n\nPaylaşılan metinde belirli bir ülkenin mevzuatı, dava örneği veya yeni bir yasal düzenleme yer almıyor. Bu nedenle konu, mevcut bir hukuki sonucun haberi değil; otonom tarım makinelerinin kullanımını etkileyebilecek sorumluluk belirsizliğine ilişkin bir değerlendirme olarak ele alınmalı.",
+      "why_it_matters_tr": "Otonom makinelerin çiftliklerde güvenli biçimde devreye alınması yalnızca makine performansına değil, kaza halinde görev ve sorumlulukların nasıl tanımlandığına da bağlı. Net kurallar, üretici, yazılım sağlayıcısı ve işletmeci arasındaki risk yönetimini etkileyebilir.",
+      "seo_title": "Tarım robotlarında kaza sorumluluğu nasıl belirlenecek?",
+      "meta_description": "Otonom tarım makinelerinin karıştığı olası kazalarda çiftçi, üretici ve yazılım geliştiricisinin sorumluluğu tartışılıyor; kaynakta ülke bazlı mevzuat ayrıntısı yok.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Kaynak, otonom traktör ve robotların çiftliklerde kullanılmaya başladığını belirtiyor.",
+        "Kaza halinde çiftçi, üretici veya yazılım geliştiricisinin sorumluluğunun nasıl belirleneceği sorusu gündeme getiriliyor.",
+        "Paylaşılan metinde belirli bir ülke mevzuatı veya somut kaza örneği bulunmuyor."
+      ],
+      "suggested_tags": [
+        "otonom tarım",
+        "tarım robotları",
+        "makine güvenliği",
+        "hukuki sorumluluk"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "otonomi-ai",
+        "elektronik-telematik"
+      ],
+      "source_facts_used": [
+        "Kaynak özeti otonom traktör ve robotların çiftliklerde kullanılmaya başladığını belirtiyor.",
+        "Kaynak özeti, mevzuat ve sorumluluk belirsizliğini; çiftçi, üretici ve yazılım geliştiricisinin olası rollerini gündeme getiriyor."
+      ],
+      "uncertainty_notes": [
+        "Sayfa içeriği alınamadığından taslak yalnızca sağlanan başlık ve kısa özetle sınırlıdır.",
+        "Ülke, yürürlükteki mevzuat, somut kaza vakası ve hukuki uzman görüşü kaynakta yer almıyor; hukuki çıkarımlar için birincil mevzuat ve uzman kaynakları doğrulanmalıdır."
+      ],
+      "generated_at": "2026-11-09T13:30:43.026Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -3911,7 +3938,7 @@
   },
   {
     "id": "43cba926614d87a5",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Dingli, Bauma China’da 60 metrelik platform serisini tanıtacak",
     "source_name": "LHT",
     "source_url": "https://www.lht.com.tr/dingli-bauma-chinada-60-metrelik-platform-serisini-tanitacak/",
@@ -3927,14 +3954,45 @@
     "editorial_fit_score": 77,
     "summary_source": "Dingli, 23–27 Kasım 2026 tarihleri arasında Çin’in Şanghay kentinde düzenlenecek Bauma China Fuarı’nda 60 metre çalışma yüksekliğine sahip yeni BT60 teleskopik bomlu platform serisini tanıtmaya hazırlanıyor. Dizel BT60RT ve elektrikli BT60ERT modellerinden oluşan seri, yüksek çalışma erişimi, düşük işletme maliyetleri ve sürdürülebilirlik odaklı tasarımıyla öne çıkıyor. Personel yükseltici platform üreticisi Dingli, ultra yüksek çalışma erişimine […]",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Dingli, 60 metrelik BT60 platform serisini Bauma China’da tanıtacak",
+      "dek_tr": "LHT’nin haberine göre seri, dizel BT60RT ve elektrikli BT60ERT modellerinden oluşuyor ve Bauma China’da tanıtılması planlanıyor. Haberde ayrıca cam montajı ve altyapı bakımı gibi uygulamalara yönelik özel ekipmanlar aktarılıyor.",
+      "summary_tr": "LHT, Dingli’nin 23–27 Kasım 2026’da Şanghay’da düzenlenecek Bauma China’da 60 metre çalışma yüksekliğine sahip BT60 teleskopik bomlu platform serisini tanıtmasının beklendiğini bildiriyor. Haberde seri, dizel BT60RT ve elektrikli BT60ERT modelleriyle anılıyor. Elektrikli model için yüksek voltajlı batarya sistemi ve sıfır emisyonlu, düşük gürültülü çalışma özellikleri aktarılıyor.\n\nAynı haberde, cam montajı için sekiz vakum vantuzlu ve 1.500 kilogram kaldırma kapasiteli bir bomlu platformdan; demir yolu ve kara yolu altyapısında kullanılacak raylı personel platformundan da söz ediliyor. Bu ürünlere ilişkin bilgiler LHT’nin haberine dayanıyor; kaynak girdisinde Dingli’nin resmi teknik duyurusu bulunmuyor.",
+      "why_it_matters_tr": "60 metre sınıfındaki platformlarda erişim yüksekliğinin yanı sıra şantiye koşullarında manevra ve güç seçeneği önem taşıyor. Dizel ve elektrikli varyantların birlikte sunulması, kiralama ve altyapı uygulamalarında saha koşullarına göre makine seçimine yönelik bir örnek olabilir; performans ve işletme etkisi için resmi teknik veriler gerekir.",
+      "seo_title": "Dingli BT60: Bauma China’da 60 metrelik platform",
+      "meta_description": "LHT’ye göre Dingli, dizel BT60RT ve elektrikli BT60ERT modellerinden oluşan 60 metre çalışma yüksekliğindeki platform serisini Bauma China’da tanıtacak.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "LHT haberine göre BT60 serisinin çalışma yüksekliği 60 metre.",
+        "Haberde dizel BT60RT ve elektrikli BT60ERT modelleri yer alıyor.",
+        "LHT, Bauma China tarihlerini 23–27 Kasım 2026 olarak veriyor.",
+        "Haberde cam taşıma sisteminin sekiz vakum vantuzu ve 1.500 kilogram kaldırma kapasitesi olduğu belirtiliyor."
+      ],
+      "suggested_tags": [
+        "Dingli",
+        "personel yükseltici platform",
+        "teleskopik bom",
+        "elektrikli iş makinesi",
+        "Bauma China"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon",
+        "yuruyus-guc-aktarma"
+      ],
+      "source_facts_used": [
+        "LHT’nin verdiği fuar tarihleri ve BT60 serisinin 60 metre çalışma yüksekliği.",
+        "LHT’nin aktardığı BT60RT dizel ve BT60ERT elektrikli model ayrımı.",
+        "LHT haberindeki cam taşıma sistemi için vantuz sayısı ve kaldırma kapasitesi."
+      ],
+      "uncertainty_notes": [
+        "Girdi içinde Dingli’nin resmi ürün duyurusu veya teknik föyü yok; model adları, teknik özellikler ve fuar planı birincil üretici kaynağından doğrulanmalıdır.",
+        "Sıfır emisyon, düşük gürültü, parça uyumluluğu ve maliyet hedefleri LHT haberinde aktarılan iddialardır; bağımsız test sonucu olarak değerlendirilmemelidir.",
+        "Cam taşıma sisteminin kapasitesi ve diğer özel ekipman özellikleri de üretici kaynaklarıyla teyit edilmelidir."
+      ],
+      "generated_at": "2026-11-09T13:30:43.026Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -4043,7 +4101,7 @@
   },
   {
     "id": "7c0377229c689c8f",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Ontario Line Tunnel Boring Machine Breaks Through to Future King West Station",
     "source_name": "Tunnels & Tunnelling",
     "source_url": "https://www.tunnelsandtunnelling.com/news/ontario-line-tunnel-boring-machine-breaks-through-to-future-king-west-station/",
@@ -4057,14 +4115,39 @@
     "editorial_fit_score": 55,
     "summary_source": "Ontario Line Tunnel Boring Machine Breaks Through to Future King West Station The first TBM breakthrough has been made on Toronto’s Ontario Line. The post Ontario Line Tunnel Boring Machine Breaks Through to Future King West Station appeared first on Tunnels and Tunnelling.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Toronto’da Ontario Line tünel açma makinesi King West istasyonuna ulaştı",
+      "dek_tr": "Tunnels & Tunnelling’in kısa haber özetine göre Ontario Line projesindeki ilk tünel açma makinesi (TBM) geçişi, gelecekteki King West istasyonunda gerçekleşti. Paylaşılan kaynakta makine ve proje takvimine ilişkin teknik ayrıntı bulunmuyor.",
+      "summary_tr": "Tunnels & Tunnelling’in haber başlığı ve kısa özeti, Toronto’daki Ontario Line için çalışan bir tünel açma makinesinin gelecekteki King West istasyonunda ilk geçişini yaptığını bildiriyor. Bu, proje güzergâhındaki tünel açma çalışmalarına ilişkin bir ilerleme bilgisi.\n\nGirdi içindeki kaynak metni yalnızca “APROTEK” ifadesini içeriyor; TBM’nin üreticisi, çapı, tünel uzunluğu, zemin koşulları veya geçiş tarihi hakkında doğrulanabilir ayrıntı sunulmuyor. Bu nedenle haber, makine teknik özelliklerinden ziyade bildirilen proje kilometre taşıyla sınırlı tutulmalı.",
+      "why_it_matters_tr": "TBM’nin istasyon bölgesine ulaşması, kentsel raylı sistem tünel inşaatında makine ilerlemesini gösteren bir proje kilometre taşıdır. Ancak makine konfigürasyonu ve saha koşulları bilinmediğinden, bu gelişmeden teknik performans veya üretkenlik sonucu çıkarmak mümkün değil.",
+      "seo_title": "Ontario Line TBM’si King West istasyonuna ulaştı",
+      "meta_description": "Tunnels & Tunnelling’in kısa özetine göre Toronto’daki Ontario Line projesinin ilk TBM geçişi gelecekteki King West istasyonunda gerçekleşti.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Kısa haber özeti, Toronto’daki Ontario Line projesinde ilk TBM geçişinin yapıldığını bildiriyor.",
+        "Geçişin gelecekteki King West istasyonunda gerçekleştiği belirtiliyor.",
+        "Girdi, TBM’nin teknik özelliklerini veya üreticisini doğrulayacak bilgi içermiyor."
+      ],
+      "suggested_tags": [
+        "tünel açma makinesi",
+        "TBM",
+        "Ontario Line",
+        "metro inşaatı",
+        "tünel"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Tunnels & Tunnelling kısa özetindeki Ontario Line projesinde ilk TBM geçişinin yapıldığı bilgisi.",
+        "Haber başlığındaki geçiş noktası olarak gelecekteki King West istasyonu bilgisi."
+      ],
+      "uncertainty_notes": [
+        "Kaynak metni teknik içerik sağlamıyor; haber özeti ve başlık dışında ayrıntı doğrulanamıyor.",
+        "TBM modeli, üreticisi, tünel ve zemin koşulları ile proje takvimi için proje sahibi veya yüklenici kaynaklarından doğrulama gerekir."
+      ],
+      "generated_at": "2026-11-09T13:30:43.026Z",
+      "generated_by": "github-models"
     }
   },
   {
