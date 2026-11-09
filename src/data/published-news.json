@@ -1,5 +1,39 @@
 [
   {
+    "id": "43cba926614d87a5",
+    "slug": "dingli-60-metrelik-bt60-platform-serisini-bauma-china-da-tanitacak",
+    "title": "Dingli, 60 metrelik BT60 platform serisini Bauma China’da tanıtacak",
+    "dek": "LHT’nin haberine göre seri, dizel BT60RT ve elektrikli BT60ERT modellerinden oluşuyor ve Bauma China’da tanıtılması planlanıyor. Haberde ayrıca cam montajı ve altyapı bakımı gibi uygulamalara yönelik özel ekipmanlar aktarılıyor.",
+    "summary": "LHT, Dingli’nin 23–27 Kasım 2026’da Şanghay’da düzenlenecek Bauma China’da 60 metre çalışma yüksekliğine sahip BT60 teleskopik bomlu platform serisini tanıtmasının beklendiğini bildiriyor. Haberde seri, dizel BT60RT ve elektrikli BT60ERT modelleriyle anılıyor. Elektrikli model için yüksek voltajlı batarya sistemi ve sıfır emisyonlu, düşük gürültülü çalışma özellikleri aktarılıyor.\n\nAynı haberde, cam montajı için sekiz vakum vantuzlu ve 1.500 kilogram kaldırma kapasiteli bir bomlu platformdan; demir yolu ve kara yolu altyapısında kullanılacak raylı personel platformundan da söz ediliyor. Bu ürünlere ilişkin bilgiler LHT’nin haberine dayanıyor; kaynak girdisinde Dingli’nin resmi teknik duyurusu bulunmuyor.",
+    "why_it_matters": "60 metre sınıfındaki platformlarda erişim yüksekliğinin yanı sıra şantiye koşullarında manevra ve güç seçeneği önem taşıyor. Dizel ve elektrikli varyantların birlikte sunulması, kiralama ve altyapı uygulamalarında saha koşullarına göre makine seçimine yönelik bir örnek olabilir; performans ve işletme etkisi için resmi teknik veriler gerekir.",
+    "key_facts": [
+      "LHT haberine göre BT60 serisinin çalışma yüksekliği 60 metre.",
+      "Haberde dizel BT60RT ve elektrikli BT60ERT modelleri yer alıyor.",
+      "LHT, Bauma China tarihlerini 23–27 Kasım 2026 olarak veriyor.",
+      "Haberde cam taşıma sisteminin sekiz vakum vantuzu ve 1.500 kilogram kaldırma kapasitesi olduğu belirtiliyor."
+    ],
+    "format": "haber",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon",
+      "yuruyus-guc-aktarma"
+    ],
+    "tags": [
+      "Dingli",
+      "personel yükseltici platform",
+      "teleskopik bom",
+      "elektrikli iş makinesi",
+      "Bauma China"
+    ],
+    "source_name": "LHT",
+    "source_url": "https://www.lht.com.tr/dingli-bauma-chinada-60-metrelik-platform-serisini-tanitacak/",
+    "source_published_at": "2026-11-09T08:13:30.000Z",
+    "site_published_at": "2026-11-09T16:11:00.333Z",
+    "hero_image": "",
+    "publish_mode": "automatic"
+  },
+  {
     "id": "3828e946bc4e9542",
     "slug": "flux-power-gse-bataryalari-icin-gaz-algilama-ve-otomatik-guc-kesme-sistemi-duyurdu",
     "title": "Flux Power, GSE bataryaları için gaz algılama ve otomatik güç kesme sistemi duyurdu",

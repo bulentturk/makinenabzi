@@ -3938,7 +3938,7 @@
   },
   {
     "id": "43cba926614d87a5",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Dingli, Bauma China’da 60 metrelik platform serisini tanıtacak",
     "source_name": "LHT",
     "source_url": "https://www.lht.com.tr/dingli-bauma-chinada-60-metrelik-platform-serisini-tanitacak/",
@@ -3992,7 +3992,9 @@
         "Cam taşıma sisteminin kapasitesi ve diğer özel ekipman özellikleri de üretici kaynaklarıyla teyit edilmelidir."
       ],
       "generated_at": "2026-11-09T13:30:43.026Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "review_result": "auto_published",
+      "reviewed_at": "2026-11-09T16:11:00.333Z"
     }
   },
   {
