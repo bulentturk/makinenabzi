@@ -62,6 +62,65 @@
     "subsector": null
   },
   {
+    "id": "02be99ddc640947b",
+    "status": "candidate",
+    "title_original": "Schneider Electric explores technology convergence in mining",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/11/10/schneider-electric-explores-technology-convergence-in-mining/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-11-10T11:57:25.000Z",
+    "discovered_at": "2026-11-10T13:08:57.261Z",
+    "sector": "madencilik",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon",
+      "otonomi-ai",
+      "elektronik-telematik"
+    ],
+    "relevance_score": 170,
+    "editorial_fit_score": 36,
+    "summary_source": "Schneider Electric says it is bringing together electrification, automation and digital intelligence to help mines operate as AI-powered, software-defined platforms that connect energy and industrial intelligence. AI across three connected layers The company describes three layers through which it helps mining companies apply AI: Connected devices: Intelligent devices sense operating conditions and provide data and The post Schneider Electric explores technology convergence in mining appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "9c2c815e400065ea",
+    "status": "candidate",
+    "title_original": "Hitachi Energy, LKAB & Scania collaborate on downward pantograph system for Malmberget mining trucks",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/11/10/hitachi-energy-lkab-scania-collaborate-on-downward-pantograph-system-for-malmberget-mining-trucks/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-11-10T11:02:34.000Z",
+    "discovered_at": "2026-11-10T13:08:57.265Z",
+    "sector": "madencilik",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon",
+      "otonomi-ai"
+    ],
+    "relevance_score": 166,
+    "editorial_fit_score": 44,
+    "summary_source": "Hitachi Energy, LKAB and Scania are joining forces to drive the electrification of mining operations with an autonomous charging solution with a downward pantograph for electric trucks at LKAB’s mine in Malmberget. The project combines LKAB’s experience in mining, Scania’s electric heavy-duty vehicles and Hitachi Energy’s expertise in electrification and charging infrastructure to integrate electric The post Hitachi Energy, LKAB & Scania collaborate on downward pantograph system for Malmberget mining trucks appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "28ffda3248f7891f",
     "status": "drafted",
     "title_original": "Fleet of 60 electric trucks with EACON AHS enter full operation at 5,400 m Zhibula mine",
@@ -259,6 +318,34 @@
       ],
       "generated_at": "2026-11-08T11:38:02.185Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "1c35e85b86fb4a8c",
+    "status": "candidate",
+    "title_original": "Komatsu introduces D175AX-10 dozer to North America",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/11/10/komatsu-introduces-d175ax-10-dozer-to-north-america/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-11-10T08:49:29.000Z",
+    "discovered_at": "2026-11-10T13:08:57.271Z",
+    "sector": "madencilik",
+    "subsector": null,
+    "technologies": [
+      "yuruyus-guc-aktarma"
+    ],
+    "relevance_score": 158,
+    "editorial_fit_score": 77,
+    "summary_source": "Komatsu North America has introduced the D175AX-10, a completely redesigned production dozer engineered to help move more material, improve efficiency and reduce total cost of ownership across a wide range of applications, from aggregates production and mining to large-scale site development. With a new 450 net horsepower (336 kW) Komatsu DBA127 engine, redesigned powertrain and The post Komatsu introduces D175AX-10 dozer to North America appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -1625,6 +1712,34 @@
       ],
       "generated_at": "2026-10-23T19:03:05.099Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "78a0ef12eb50abbf",
+    "status": "candidate",
+    "title_original": "ExploMar to preview 400hp electric outboard at Metstrade",
+    "source_name": "Marine Industry News",
+    "source_url": "https://marineindustrynews.co.uk/explomar-to-preview-400hp-electric-outboard-at-metstrade/",
+    "source_feed": "https://marineindustrynews.co.uk/feed/",
+    "published_at": "2026-11-10T09:00:00.000Z",
+    "discovered_at": "2026-11-10T13:08:57.755Z",
+    "sector": "marine-yatcilik",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "relevance_score": 146,
+    "editorial_fit_score": 79,
+    "summary_source": "ExploMar will give visitors a first look at its upcoming 400HP electric outboard at Metstrade 2026, which runs from 17–19 November. The model’s official debut is scheduled for the China (Shanghai) International Boat Show (CIBS) in March 2027. The Shanghai-based electric marine propulsion company says it is developing the outboard for larger vessels and more […] The post ExploMar to preview 400hp electric outboard at Metstrade appeared first on Marine Industry News.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
