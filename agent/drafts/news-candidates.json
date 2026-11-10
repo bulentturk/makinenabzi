@@ -322,7 +322,7 @@
   },
   {
     "id": "1c35e85b86fb4a8c",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Komatsu introduces D175AX-10 dozer to North America",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/11/10/komatsu-introduces-d175ax-10-dozer-to-north-america/",
@@ -338,14 +338,43 @@
     "editorial_fit_score": 77,
     "summary_source": "Komatsu North America has introduced the D175AX-10, a completely redesigned production dozer engineered to help move more material, improve efficiency and reduce total cost of ownership across a wide range of applications, from aggregates production and mining to large-scale site development. With a new 450 net horsepower (336 kW) Komatsu DBA127 engine, redesigned powertrain and The post Komatsu introduces D175AX-10 dozer to North America appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Komatsu D175AX-10 dozeri Kuzey Amerika’da tanıttı",
+      "dek_tr": "International Mining’in haber özetine göre D175AX-10, 450 net HP’lik DBA127 motor ve yeniden tasarlanmış güç aktarma sistemiyle sunuluyor. Kaynakta teknik ayrıntılar sınırlı.",
+      "summary_tr": "International Mining’in haber özetine göre Komatsu North America, D175AX-10 üretim dozerini tanıttı. Model; agrega üretimi, madencilik ve büyük ölçekli saha geliştirme uygulamaları için konumlandırılıyor.\n\nÖzette, makinenin 450 net HP (336 kW) Komatsu DBA127 motor kullandığı ve güç aktarma sisteminin yeniden tasarlandığı belirtiliyor. Kaynakta tasarım değişikliklerinin kapsamı, dozerin ölçülebilir performansı veya saha sonuçları açıklanmıyor.",
+      "why_it_matters_tr": "Dozerin motoru ve güç aktarma sistemi, madencilik ve büyük saha işlerinde üretim kapasitesi ile işletme gereksinimlerini etkileyebilecek temel bileşenler. Ancak bu duyuruda karşılaştırmalı performans verisi bulunmadığından, teknik kazanımlar henüz değerlendirilemiyor.",
+      "seo_title": "Komatsu D175AX-10 dozeri Kuzey Amerika’da tanıtıldı",
+      "meta_description": "Komatsu D175AX-10 için haberde 450 net HP DBA127 motor ve yenilenen güç aktarma sistemi belirtiliyor; teknik ayrıntılar sınırlı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "International Mining, Komatsu North America’nın D175AX-10’u tanıttığını aktarıyor.",
+        "Haberde motor gücü 450 net HP (336 kW) olarak veriliyor.",
+        "Kaynak özeti, güç aktarma sisteminin yeniden tasarlandığını belirtiyor.",
+        "Özette hedef uygulamalar arasında agrega üretimi, madencilik ve büyük ölçekli saha geliştirme sayılıyor."
+      ],
+      "suggested_tags": [
+        "Komatsu",
+        "D175AX-10",
+        "dozer",
+        "madencilik",
+        "güç aktarma"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "yuruyus-guc-aktarma"
+      ],
+      "source_facts_used": [
+        "International Mining haber özetinde verilen model tanıtımı",
+        "Özette belirtilen 450 net HP (336 kW) DBA127 motor",
+        "Güç aktarma sisteminin yeniden tasarlandığı bilgisi ve belirtilen uygulama alanları"
+      ],
+      "uncertainty_notes": [
+        "Girdi yalnızca kısa haber özetini içeriyor; üreticinin birincil duyurusu ve ayrıntılı teknik doküman mevcut değil.",
+        "Motor, güç aktarma değişiklikleri ve performans etkileri üretici kaynağından doğrulanmalı; bağımsız saha verisi sunulmuyor."
+      ],
+      "generated_at": "2026-11-10T13:09:56.867Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -1716,7 +1745,7 @@
   },
   {
     "id": "78a0ef12eb50abbf",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "ExploMar to preview 400hp electric outboard at Metstrade",
     "source_name": "Marine Industry News",
     "source_url": "https://marineindustrynews.co.uk/explomar-to-preview-400hp-electric-outboard-at-metstrade/",
@@ -1732,14 +1761,42 @@
     "editorial_fit_score": 79,
     "summary_source": "ExploMar will give visitors a first look at its upcoming 400HP electric outboard at Metstrade 2026, which runs from 17–19 November. The model’s official debut is scheduled for the China (Shanghai) International Boat Show (CIBS) in March 2027. The Shanghai-based electric marine propulsion company says it is developing the outboard for larger vessels and more […] The post ExploMar to preview 400hp electric outboard at Metstrade appeared first on Marine Industry News.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "ExploMar, 400 HP elektrikli dıştan takma motor konseptini tanıtacak",
+      "dek_tr": "Şirket, 400 HP’lik elektrikli dıştan takma motorunu Metstrade 2026’da ön gösterimle sunmayı planlıyor. Modelin resmi tanıtımı Mart 2027’deki CIBS için takvimlendi.",
+      "summary_tr": "ExploMar, 17–19 Kasım 2026’da düzenlenecek Metstrade’de geliştirmekte olduğu 400 HP elektrikli dıştan takma motor konseptini sergileyecek. Şirketin açıklamasına göre model, daha büyük tekneler ve daha zorlu uygulamalar için geliştiriliyor; resmi tanıtımının Mart 2027’de Çin (Şanghay) Uluslararası Tekne Fuarı’nda yapılması planlanıyor.\n\nYeni model, şirketin mevcut 100–300 HP aralığındaki dıştan takma motor serisinin üzerine konumlanacak. ExploMar, mevcut motorlarının gezi ve ticari teknelerde, yolcu feribotları ve devriye tekneleri dahil çeşitli uygulamalarda kullanıldığını belirtiyor.\n\nKaynakta ayrıca, ExploMar 300 HP motorla donatılmış XNRG 8,3 metrelik karbon fiber RIB’in 2026 Monaco Energy Boat Challenge’da bir yarış kazandığı ve hız rekoru yarışmasında ortalama 45,33 knot kaydettiği aktarılıyor. Bu sonuç, 400 HP modelinin performansına ilişkin bağımsız bir test verisi değil.",
+      "why_it_matters_tr": "Daha yüksek güçlü elektrikli dıştan takma motorlar, elektrikli tahrikin daha büyük tekne ve ticari kullanım senaryolarına taşınma potansiyelini gösteriyor. Ancak kullanım menzili, batarya sistemi ve sürekli güç gibi seçim için kritik veriler bu kaynakta yer almıyor.",
+      "seo_title": "ExploMar 400 HP elektrikli dıştan takma motoru tanıtacak",
+      "meta_description": "ExploMar, 400 HP elektrikli dıştan takma motor konseptini Metstrade 2026’da sergileyecek; modelin resmi tanıtımı Mart 2027’de planlanıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "400 HP modelin Metstrade 2026’da konsept ön gösterimi planlanıyor.",
+        "Şirket, resmi tanıtımı Mart 2027’deki CIBS için takvimliyor.",
+        "ExploMar’ın mevcut dıştan takma motor serisi 100–300 HP aralığında.",
+        "Kaynağa göre 300 HP motorlu XNRG RIB, 2026 Monaco Energy Boat Challenge’da yarış kazandı."
+      ],
+      "suggested_tags": [
+        "ExploMar",
+        "elektrikli dıştan takma motor",
+        "marine tahrik",
+        "elektrifikasyon"
+      ],
+      "suggested_sector": "marine-yatcilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "Metstrade 2026’daki konsept ön gösterimi ve Mart 2027’de planlanan resmi tanıtım",
+        "400 HP motorun daha büyük tekneler ve daha zorlu uygulamalar için geliştirilmesi",
+        "Mevcut 100–300 HP ürün aralığı ve kaynakta belirtilen 300 HP RIB yarış sonucu"
+      ],
+      "uncertainty_notes": [
+        "400 HP model için batarya kapasitesi, menzil, ağırlık, sürekli güç ve şarj bilgisi kaynakta verilmemiş.",
+        "Yarış ve hız sonucu kaynak yayının aktarımıdır; bağımsız doğrulama sunulmuyor."
+      ],
+      "generated_at": "2026-11-10T13:09:56.867Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -4276,7 +4333,7 @@
   },
   {
     "id": "da971c7bddc6a900",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "A 550-Ton Scalpel: ALL Heavyweight All-Terrain Crane Lends Precision to Columbus High-Rise Demolition",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/a-550ton-scalpel-all-heavyweight-allterrain-crane-lends-precision-to-columbus-highrise-demolition/72728",
@@ -4290,14 +4347,41 @@
     "editorial_fit_score": 55,
     "summary_source": "A 550-ton all-terrain crane helped crews safely remove rooftop equipment and steel structures from two 15-story Columbus towers. Its long boom reached both buildings from one position, supporting precise demolition, efficient material recovery and a faster setup than a crawler crane....",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "550 tonluk arazi tipi vinç, Columbus’taki yüksek bina sökümünde kullanıldı",
+      "dek_tr": "Construction Equipment Guide’ın kısa haber özetine göre bir arazi tipi vinç, Columbus’ta iki 15 katlı binanın çatı ekipmanı ve çelik yapılarını sökme çalışmalarında görev aldı. Özet, vinç modeli ve çalışma konfigürasyonunu belirtmiyor.",
+      "summary_tr": "Construction Equipment Guide’ın haber özetinde, 550 ton kapasiteli bir arazi tipi vincin Columbus’taki iki yüksek binanın sökümünde kullanıldığı aktarılıyor. Çalışma, 15 katlı binaların çatı ekipmanları ile çelik yapıların kaldırılmasını kapsıyordu.\n\nÖzete göre vinç, iki binaya tek bir konumdan erişebilecek uzun bomla çalıştı. Kaynak, vinç modelini, bom uzunluğunu, kaldırma yarıçapını veya yük çizelgesine ilişkin değerleri paylaşmıyor.",
+      "why_it_matters_tr": "Bu uygulama, yüksek yapı sökümünde vinç konumlandırması ve bom erişiminin iş planlamasındaki rolüne dair bir saha örneği sunuyor. Ancak konfigürasyon ve kaldırma verileri olmadan uygulamanın teknik verimliliği ya da başka projelere aktarılabilirliği değerlendirilemez.",
+      "seo_title": "Columbus’taki sökümde 550 tonluk arazi tipi vinç",
+      "meta_description": "Bir 550 tonluk arazi tipi vinç, Columbus’ta iki 15 katlı binanın çatı ekipmanı ve çelik yapılarını sökme çalışmasında kullanıldı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Kaynak özeti, vincin kapasitesini 550 ton olarak veriyor.",
+        "Çalışma Columbus’taki iki 15 katlı binada yürütüldü.",
+        "Kaldırılanlar çatı ekipmanları ve çelik yapılardı.",
+        "Haber özeti, vincin iki binaya tek konumdan eriştiğini belirtiyor."
+      ],
+      "suggested_tags": [
+        "arazi tipi vinç",
+        "yüksek yapı sökümü",
+        "kaldırma ekipmanı",
+        "Columbus"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Construction Equipment Guide haber özetindeki 550 tonluk arazi tipi vinç bilgisi",
+        "İki 15 katlı binada çatı ekipmanı ve çelik yapıların söküldüğü bilgisi",
+        "Vincin tek konumdan iki binaya eriştiği aktarımı"
+      ],
+      "uncertainty_notes": [
+        "Girdi kısa bir haber özetinden ibaret; üretici veya proje tarafının birincil açıklaması bulunmuyor.",
+        "Vinç modeli, kapasitenin ölçüm birimi ve bom/kurulum konfigürasyonu belirtilmemiş.",
+        "Tek konumdan erişim ve çalışma sonuçları bağımsız teknik verilerle desteklenmiyor."
+      ],
+      "generated_at": "2026-11-10T13:09:56.867Z",
+      "generated_by": "github-models"
     }
   },
   {
