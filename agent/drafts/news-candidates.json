@@ -322,7 +322,7 @@
   },
   {
     "id": "ec9de8ffc2a7bea3",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "NHL launches 240 t battery electric rigid mining truck with fixed dual gun & dynamic charging",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/11/10/nhl-launches-240-t-battery-electric-rigid-mining-truck-with-fixed-dual-gun-dynamic-charging/",
@@ -338,19 +338,46 @@
     "editorial_fit_score": 77,
     "summary_source": "At the recent China International Import Expo held in Shanghai, Inner Mongolia North Hauler Joint Stock Co Ltd (NHL) officially launched the 240 t class battery electric NTE240E mining truck. It says this marks a key step for NHL in the electrification of large-scale mining equipment following the mass application of NTE130E pure electric mining The post NHL launches 240 t battery electric rigid mining truck with fixed dual gun & dynamic charging appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "NHL, 240 ton sınıfı elektrikli NTE240E maden kamyonunu tanıttı",
+      "dek_tr": "Inner Mongolia North Hauler Joint Stock Co Ltd (NHL), NTE240E modelini Şanghay’daki Çin Uluslararası İthalat Fuarı’nda tanıttı. Kaynak, kamyonun 240 ton sınıfında ve bataryalı elektrikli olduğunu bildiriyor.",
+      "summary_tr": "NHL, 240 ton sınıfındaki bataryalı elektrikli rijit maden kamyonu NTE240E’yi Şanghay’da düzenlenen Çin Uluslararası İthalat Fuarı’nda tanıttı.\n\nInternational Mining’in haberine göre şirket, modeli büyük ölçekli maden ekipmanlarının elektrifikasyonunda yeni bir adım olarak konumlandırıyor ve bunu NTE130E’nin yaygın uygulamasını izleyen bir gelişme olarak aktarıyor.",
+      "why_it_matters_tr": "Bu model, büyük sınıf açık ocak kamyonlarında bataryalı tahrik seçeneklerine yönelik üretici çalışmalarını izlemek açısından önemli. Ancak kaynakta şarj düzeni, çalışma performansı veya saha uygulamasına ilişkin ayrıntı bulunmadığından teknik karşılaştırma yapmak mümkün değil.",
+      "seo_title": "NHL NTE240E 240 Ton Sınıfı Elektrikli Maden Kamyonu",
+      "meta_description": "NHL, 240 ton sınıfı bataryalı elektrikli NTE240E maden kamyonunu Şanghay’daki Çin Uluslararası İthalat Fuarı’nda tanıttı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "NTE240E, 240 ton sınıfı bataryalı elektrikli maden kamyonu olarak tanıtıldı.",
+        "Tanıtım, Şanghay’daki Çin Uluslararası İthalat Fuarı’nda yapıldı.",
+        "NHL, NTE130E’nin yaygın uygulamasını önceki bir gelişme olarak gösteriyor."
+      ],
+      "suggested_tags": [
+        "NHL",
+        "NTE240E",
+        "elektrikli maden kamyonu",
+        "açık ocak madenciliği"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "International Mining’in sağlanan haber metni, NHL’nin NTE240E’yi fuarda tanıttığını ve modeli 240 ton sınıfında bataryalı elektrikli maden kamyonu olarak tanımladığını belirtiyor.",
+        "Aynı metin, NTE130E’nin yaygın uygulamasını NTE240E’den önceki gelişme olarak anıyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfasına erişim 403 hatasıyla engellenmiş; taslak yalnızca sağlanan kısa metne dayanıyor.",
+        "Üreticinin birincil duyurusu girdi içinde yer almıyor; teknik özellikler ve lansman bilgisi birincil kaynakta doğrulanmalı.",
+        "Başlıkta geçen sabit çift tabanca ve dinamik şarj ifadeleri sağlanan kaynak metninde açıklanmıyor; sistem ayrıntıları doğrulanmadı."
+      ],
+      "generated_at": "2026-11-10T21:15:54.405Z",
+      "generated_by": "github-models"
     }
   },
   {
     "id": "3ae1b254c6383a0e",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Sandvik Toro LH518iB battery-electric loader hits KPIs during Codelco El Teniente test",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/11/10/sandvik-toro-lh518ib-battery-electric-loader-hits-kpis-during-codelco-el-teniente-test/",
@@ -366,14 +393,44 @@
     "editorial_fit_score": 67,
     "summary_source": "Sandvik’s Toro® LH518iB battery-electric loader has met the performance targets during nearly 10 months of operation at Codelco’s El Teniente mine in Chile, the OEM reports. Operating with AutoMine® on the same transfer level and under the same operating conditions as six automated diesel Sandvik loaders, the Toro LH518iB has integrated successfully into the mine’s The post Sandvik Toro LH518iB battery-electric loader hits KPIs during Codelco El Teniente test appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Sandvik Toro LH518iB, El Teniente’deki testte hedefleri karşıladı",
+      "dek_tr": "Sandvik, bataryalı Toro LH518iB yükleyicinin Codelco’nun El Teniente madeninde yaklaşık 10 aylık çalışma sonunda performans hedeflerine ulaştığını bildirdi. Araç, aynı transfer seviyesinde altı otomatik dizel Sandvik yükleyiciyle aynı çalışma koşullarında kullanıldı.",
+      "summary_tr": "Sandvik’in açıklamasını aktaran International Mining’e göre Toro LH518iB bataryalı yükleyici, Şili’deki Codelco El Teniente madeninde yaklaşık 10 ay çalıştı ve performans hedeflerini karşıladı.\n\nHaberde yükleyicinin AutoMine ile işletildiği; altı otomatik dizel Sandvik yükleyiciyle aynı transfer seviyesinde ve aynı çalışma koşullarında kullanıldığı belirtiliyor. Kaynakta hedeflerin ölçütleri veya sayısal sonuçlar paylaşılmıyor.",
+      "why_it_matters_tr": "Aynı maden seviyesinde ve benzer çalışma koşullarında bataryalı bir LHD’nin otomatik dizel araçlarla birlikte denenmesi, yeraltı filosunda elektrifikasyon ve otomasyonun birlikte uygulanmasına dair anlamlı bir saha örneği. Sayısal sonuçlar açıklanmadığı ve bilgi üreticiye atfedildiği için performans karşılaştırması bağımsız doğrulanmış kabul edilmemeli.",
+      "seo_title": "Sandvik Toro LH518iB El Teniente Testinde Hedefleri Karşıladı",
+      "meta_description": "Sandvik, bataryalı Toro LH518iB’nin El Teniente’de yaklaşık 10 aylık çalışmada performans hedeflerini karşıladığını bildiriyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Toro LH518iB, Sandvik’in bataryalı yükleyicisi olarak tanımlanıyor.",
+        "Codelco’nun El Teniente madenindeki çalışma yaklaşık 10 ay sürdü.",
+        "Sandvik, yükleyicinin performans hedeflerini karşıladığını bildiriyor.",
+        "Araç, AutoMine ile aynı transfer seviyesinde altı otomatik dizel Sandvik yükleyiciyle aynı çalışma koşullarında işletildi."
+      ],
+      "suggested_tags": [
+        "Sandvik Toro LH518iB",
+        "yeraltı yükleyicisi",
+        "bataryalı maden aracı",
+        "AutoMine",
+        "El Teniente"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon",
+        "otonomi-ai"
+      ],
+      "source_facts_used": [
+        "International Mining’in sağlanan metni, Sandvik’in Toro LH518iB için yaklaşık 10 aylık çalışma ve performans hedeflerine ulaşma bildirimini aktarıyor.",
+        "Aynı metinde AutoMine kullanımı ile altı otomatik dizel Sandvik yükleyiciyle aynı transfer seviyesinde ve koşullarda çalışma bilgisi yer alıyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfasına erişim 403 hatasıyla engellenmiş; taslak yalnızca sağlanan kısa metne dayanıyor.",
+        "Üreticinin birincil açıklaması girdi içinde bulunmuyor; test koşulları ve sonuçları birincil kaynakta doğrulanmalı.",
+        "Hedeflerin ölçütleri ve sayısal sonuçlar verilmediğinden, performansın bağımsız değerlendirmesi veya dizel araçlarla nicel karşılaştırması yapılamaz."
+      ],
+      "generated_at": "2026-11-10T21:15:54.405Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -2748,7 +2805,7 @@
   },
   {
     "id": "3e0130d9e6570f06",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Zoomlion wide body truck fleet at CMOC’s Kisanfu mine in DRC passes 200",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/11/10/zoomlion-wide-body-truck-fleet-at-cmocs-kisanfu-mine-in-drc-passes-200/",
@@ -2762,14 +2819,41 @@
     "editorial_fit_score": 75,
     "summary_source": "Recently, Zoomlion successfully delivered over 100 high-end wide body mining trucks in bulk to the CMOC-owned Kisanfu (KFM) copper-cobalt mine in Lualaba Province of the DRC which are now in full operation. Previously, the project had purchased more than 100 mining truck equipment units from Zoomlion, meaning the fleet now exceeds 200. The mine is The post Zoomlion wide body truck fleet at CMOC’s Kisanfu mine in DRC passes 200 appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Zoomlion’ın Kisanfu madenindeki kamyon filosu 200 aracı aştı",
+      "dek_tr": "International Mining’in aktardığına göre Kongo Demokratik Cumhuriyeti’ndeki Kisanfu bakır-kobalt madeninde Zoomlion kamyonlarının sayısı 200’ün üzerine çıktı. Son teslimatla 100’den fazla araç filoya katıldı.",
+      "summary_tr": "Zoomlion, CMOC’ye ait Kisanfu (KFM) bakır-kobalt madenine 100’den fazla geniş gövdeli maden kamyonu teslim etti. International Mining’in haberinde araçların sahada çalıştığı belirtiliyor.\n\nKaynağa göre proje daha önce de Zoomlion’dan 100’den fazla maden kamyonu satın almıştı. Son teslimatla birlikte Kisanfu’daki Zoomlion filosu 200 aracı aştı.",
+      "why_it_matters_tr": "Sahadaki filo büyüklüğü, maden işletmelerinde geniş gövdeli kamyonların ölçekli kullanımına ilişkin somut bir uygulama örneği sunuyor. Ancak araçların kapasitesi, görev döngüsü ve filo performansına ilişkin veri olmadığından operasyonel verimlilik hakkında sonuç çıkarılamaz.",
+      "seo_title": "Kisanfu Madeninde Zoomlion Kamyon Filosu 200’ü Aştı",
+      "meta_description": "Kongo Demokratik Cumhuriyeti’ndeki Kisanfu bakır-kobalt madeninde Zoomlion’ın geniş gövdeli maden kamyonu filosu 200 aracı geçti.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Kisanfu (KFM), Kongo Demokratik Cumhuriyeti’nin Lualaba eyaletinde bulunan bakır-kobalt madeni olarak tanımlanıyor.",
+        "Zoomlion son teslimatta 100’den fazla geniş gövdeli maden kamyonu sağladı.",
+        "Önceki alımlarla birlikte sahadaki Zoomlion kamyon filosu 200 aracı aştı.",
+        "Habere göre son teslimatta gelen araçlar operasyonda."
+      ],
+      "suggested_tags": [
+        "Zoomlion",
+        "Kisanfu madeni",
+        "maden kamyonu",
+        "bakır-kobalt"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "International Mining’in sağlanan metni, Kisanfu’ya 100’den fazla yeni geniş gövdeli kamyon teslim edildiğini bildiriyor.",
+        "Aynı metin, önceki alımların da 100’den fazla araç içerdiğini ve toplam filonun 200’ü aştığını belirtiyor.",
+        "Haberde madenin CMOC’ye ait olduğu ve Lualaba eyaletinde bulunduğu aktarılıyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfasına erişim 403 hatasıyla engellenmiş; taslak yalnızca sağlanan kısa metne dayanıyor.",
+        "Üretici veya maden işletmecisinin birincil açıklaması girdi içinde yer almıyor; teslimat, sahiplik ve filo sayısı birincil kaynakta doğrulanmalı.",
+        "Kamyonların model adları, taşıma kapasiteleri ve saha performansı kaynak metninde verilmemiş."
+      ],
+      "generated_at": "2026-11-10T21:15:54.405Z",
+      "generated_by": "github-models"
     }
   },
   {
