@@ -321,6 +321,62 @@
     }
   },
   {
+    "id": "ec9de8ffc2a7bea3",
+    "status": "candidate",
+    "title_original": "NHL launches 240 t battery electric rigid mining truck with fixed dual gun & dynamic charging",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/11/10/nhl-launches-240-t-battery-electric-rigid-mining-truck-with-fixed-dual-gun-dynamic-charging/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-11-10T15:02:18.000Z",
+    "discovered_at": "2026-11-10T21:14:56.460Z",
+    "sector": "madencilik",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "relevance_score": 158,
+    "editorial_fit_score": 77,
+    "summary_source": "At the recent China International Import Expo held in Shanghai, Inner Mongolia North Hauler Joint Stock Co Ltd (NHL) officially launched the 240 t class battery electric NTE240E mining truck. It says this marks a key step for NHL in the electrification of large-scale mining equipment following the mass application of NTE130E pure electric mining The post NHL launches 240 t battery electric rigid mining truck with fixed dual gun & dynamic charging appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "3ae1b254c6383a0e",
+    "status": "candidate",
+    "title_original": "Sandvik Toro LH518iB battery-electric loader hits KPIs during Codelco El Teniente test",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/11/10/sandvik-toro-lh518ib-battery-electric-loader-hits-kpis-during-codelco-el-teniente-test/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-11-10T14:51:49.000Z",
+    "discovered_at": "2026-11-10T21:14:56.462Z",
+    "sector": "madencilik",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "relevance_score": 158,
+    "editorial_fit_score": 67,
+    "summary_source": "Sandvik’s Toro® LH518iB battery-electric loader has met the performance targets during nearly 10 months of operation at Codelco’s El Teniente mine in Chile, the OEM reports. Operating with AutoMine® on the same transfer level and under the same operating conditions as six automated diesel Sandvik loaders, the Toro LH518iB has integrated successfully into the mine’s The post Sandvik Toro LH518iB battery-electric loader hits KPIs during Codelco El Teniente test appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "1c35e85b86fb4a8c",
     "status": "drafted",
     "title_original": "Komatsu introduces D175AX-10 dozer to North America",
@@ -1086,6 +1142,58 @@
     }
   },
   {
+    "id": "2a825d9f0abe6665",
+    "status": "candidate",
+    "title_original": "2027 Tractor of the Year award winners announced at EIMA",
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/news/agriculture/2027-tractor-of-the-year-award-winners-announced-at-eima.html",
+    "source_feed": "https://www.ivtinternational.com/feed",
+    "published_at": "2026-11-10T18:53:52.000Z",
+    "discovered_at": "2026-11-10T21:14:54.796Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 150,
+    "editorial_fit_score": 55,
+    "summary_source": "Six machines have been named winners of the 2027 Tractor of the Year awards, presented at EIMA International. The six winners were chosen by a jury of 26 journalists from [...] The post 2027 Tractor of the Year award winners announced at EIMA appeared first on Industrial Vehicle Technology International.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "53568dd53487c828",
+    "status": "candidate",
+    "title_original": "EIMA VIDEO: New Holland launches new T2S compact tractors: transmissions, loader and OPG explained",
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/videos/eima-2026-new-holland-launches-new-t2s-compact-tractors-transmissions-loader-and-opg-explained.html",
+    "source_feed": "https://www.ivtinternational.com/feed",
+    "published_at": "2026-11-10T18:34:42.000Z",
+    "discovered_at": "2026-11-10T21:14:54.797Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 150,
+    "editorial_fit_score": 65,
+    "summary_source": "Ashish Gupta, product manager, New Holland Compact Tractors, introduces the new T2S series at EIMA in Bologna and explains the engineering behind it. Covering 35 to 57hp and powered by [...] The post EIMA VIDEO: New Holland launches new T2S compact tractors: transmissions, loader and OPG explained appeared first on Industrial Vehicle Technology International.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "c5b094bb0886407f",
     "status": "drafted",
     "title_original": "EIMA TECHNOLOGY PROFILE: Modular engine family for forestry OEMs",
@@ -1458,6 +1566,34 @@
       ],
       "generated_at": "2026-10-25T09:31:26.861Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "67de67e2dc062ddc",
+    "status": "candidate",
+    "title_original": "American West, Aston Bay look to pre-concentration tech for smaller Storm copper concentrator",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/11/10/american-west-aston-bay-look-to-pre-concentration-tech-for-smaller-storm-copper-concentrator/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-11-10T14:00:31.000Z",
+    "discovered_at": "2026-11-10T21:14:56.464Z",
+    "sector": "madencilik",
+    "subsector": null,
+    "technologies": [
+      "elektronik-telematik"
+    ],
+    "relevance_score": 148,
+    "editorial_fit_score": 67,
+    "summary_source": "American West Metals Limited and Aston Bay Holdings Ltd believe a combination of dry sensor-based sorting and wet jigging can significantly reduce the size of the copper concentrator they plan to build at the Storm copper project on Somerset Island, Nunavut, Canada. The two companies hold 80:20 interests in the project, with the assessment of The post American West, Aston Bay look to pre-concentration tech for smaller Storm copper concentrator appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -2611,6 +2747,32 @@
     }
   },
   {
+    "id": "3e0130d9e6570f06",
+    "status": "candidate",
+    "title_original": "Zoomlion wide body truck fleet at CMOC’s Kisanfu mine in DRC passes 200",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/11/10/zoomlion-wide-body-truck-fleet-at-cmocs-kisanfu-mine-in-drc-passes-200/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-11-10T13:53:55.000Z",
+    "discovered_at": "2026-11-10T21:14:56.466Z",
+    "sector": "madencilik",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 140,
+    "editorial_fit_score": 75,
+    "summary_source": "Recently, Zoomlion successfully delivered over 100 high-end wide body mining trucks in bulk to the CMOC-owned Kisanfu (KFM) copper-cobalt mine in Lualaba Province of the DRC which are now in full operation. Previously, the project had purchased more than 100 mining truck equipment units from Zoomlion, meaning the fleet now exceeds 200. The mine is The post Zoomlion wide body truck fleet at CMOC’s Kisanfu mine in DRC passes 200 appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "e9b8c848e6928758",
     "status": "drafted",
     "title_original": "Cavotec reports record order backlog as Q3 revenue rises",
@@ -3103,6 +3265,32 @@
       ],
       "generated_at": "2026-11-09T23:45:09.768Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "bb35c7dbb296a135",
+    "status": "candidate",
+    "title_original": "“Good-Bye, Manual Labor!” — Mini Skid Steer Buyer’s Guide 2026",
+    "source_name": "Equipment World",
+    "source_url": "https://www.equipmentworld.com/construction-equipment/compact-equipment/compact-utility-loaders/article/16425003/mini-skid-steer-buyers-guide-2026-from-equipment-world",
+    "source_feed": "https://www.equipmentworld.com/feed/",
+    "published_at": "2026-11-10T17:00:00.000Z",
+    "discovered_at": "2026-11-10T21:14:55.160Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 135,
+    "editorial_fit_score": 55,
+    "summary_source": "Stand-on mini loader sales have nearly quadrupled, making them more popular than wheel loaders while saving workers' backs.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -4005,6 +4193,32 @@
       ],
       "generated_at": "2026-10-28T20:12:20.826Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "cb66b77296b19fab",
+    "status": "candidate",
+    "title_original": "EIMA 2026: Main tractor markets struggling",
+    "source_name": "profi",
+    "source_url": "https://www.profi.co.uk/news/eima-2026-main-tractor-markets-struggling/",
+    "source_feed": "https://www.profi.co.uk/feed/",
+    "published_at": "2026-11-10T18:03:09.000Z",
+    "discovered_at": "2026-11-10T21:14:56.080Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 125,
+    "editorial_fit_score": 55,
+    "summary_source": "Farmers are buying fewer new tractors in most of the major markets, including North and South America, Canada and Europe. Speaking at a press conference to kick off the Italian show, Mariateresa Maschio, president of the Italian FederUnacoma trade association, said the economic climate and the crisis in farm incomes is holding back the global […] The post EIMA 2026: Main tractor markets struggling appeared first on Profi.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
