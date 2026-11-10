@@ -1,5 +1,37 @@
 [
   {
+    "id": "78a0ef12eb50abbf",
+    "slug": "explomar-400-hp-elektrikli-distan-takma-motor-konseptini-tanitacak",
+    "title": "ExploMar, 400 HP elektrikli dıştan takma motor konseptini tanıtacak",
+    "dek": "Şirket, 400 HP’lik elektrikli dıştan takma motorunu Metstrade 2026’da ön gösterimle sunmayı planlıyor. Modelin resmi tanıtımı Mart 2027’deki CIBS için takvimlendi.",
+    "summary": "ExploMar, 17–19 Kasım 2026’da düzenlenecek Metstrade’de geliştirmekte olduğu 400 HP elektrikli dıştan takma motor konseptini sergileyecek. Şirketin açıklamasına göre model, daha büyük tekneler ve daha zorlu uygulamalar için geliştiriliyor; resmi tanıtımının Mart 2027’de Çin (Şanghay) Uluslararası Tekne Fuarı’nda yapılması planlanıyor.\n\nYeni model, şirketin mevcut 100–300 HP aralığındaki dıştan takma motor serisinin üzerine konumlanacak. ExploMar, mevcut motorlarının gezi ve ticari teknelerde, yolcu feribotları ve devriye tekneleri dahil çeşitli uygulamalarda kullanıldığını belirtiyor.\n\nKaynakta ayrıca, ExploMar 300 HP motorla donatılmış XNRG 8,3 metrelik karbon fiber RIB’in 2026 Monaco Energy Boat Challenge’da bir yarış kazandığı ve hız rekoru yarışmasında ortalama 45,33 knot kaydettiği aktarılıyor. Bu sonuç, 400 HP modelinin performansına ilişkin bağımsız bir test verisi değil.",
+    "why_it_matters": "Daha yüksek güçlü elektrikli dıştan takma motorlar, elektrikli tahrikin daha büyük tekne ve ticari kullanım senaryolarına taşınma potansiyelini gösteriyor. Ancak kullanım menzili, batarya sistemi ve sürekli güç gibi seçim için kritik veriler bu kaynakta yer almıyor.",
+    "key_facts": [
+      "400 HP modelin Metstrade 2026’da konsept ön gösterimi planlanıyor.",
+      "Şirket, resmi tanıtımı Mart 2027’deki CIBS için takvimliyor.",
+      "ExploMar’ın mevcut dıştan takma motor serisi 100–300 HP aralığında.",
+      "Kaynağa göre 300 HP motorlu XNRG RIB, 2026 Monaco Energy Boat Challenge’da yarış kazandı."
+    ],
+    "format": "haber",
+    "sector": "marine-yatcilik",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "tags": [
+      "ExploMar",
+      "elektrikli dıştan takma motor",
+      "marine tahrik",
+      "elektrifikasyon"
+    ],
+    "source_name": "Marine Industry News",
+    "source_url": "https://marineindustrynews.co.uk/explomar-to-preview-400hp-electric-outboard-at-metstrade/",
+    "source_published_at": "2026-11-10T09:00:00.000Z",
+    "site_published_at": "2026-11-10T14:49:31.803Z",
+    "hero_image": "",
+    "publish_mode": "automatic"
+  },
+  {
     "id": "43cba926614d87a5",
     "slug": "dingli-60-metrelik-bt60-platform-serisini-bauma-china-da-tanitacak",
     "title": "Dingli, 60 metrelik BT60 platform serisini Bauma China’da tanıtacak",

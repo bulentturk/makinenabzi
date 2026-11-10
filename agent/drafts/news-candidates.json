@@ -1745,7 +1745,7 @@
   },
   {
     "id": "78a0ef12eb50abbf",
-    "status": "drafted",
+    "status": "published",
     "title_original": "ExploMar to preview 400hp electric outboard at Metstrade",
     "source_name": "Marine Industry News",
     "source_url": "https://marineindustrynews.co.uk/explomar-to-preview-400hp-electric-outboard-at-metstrade/",
@@ -1796,7 +1796,9 @@
         "Yarış ve hız sonucu kaynak yayının aktarımıdır; bağımsız doğrulama sunulmuyor."
       ],
       "generated_at": "2026-11-10T13:09:56.867Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "review_result": "auto_published",
+      "reviewed_at": "2026-11-10T14:49:31.803Z"
     }
   },
   {
