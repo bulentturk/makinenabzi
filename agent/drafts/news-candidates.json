@@ -984,7 +984,7 @@
   },
   {
     "id": "06c57b069a86c44d",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Driventic refurbs London old-timer electric double-decker bus drivetrains",
     "source_name": "electrive",
     "source_url": "https://www.electrive.com/2026/11/11/driventic-refurbs-london-old-timer-electric-double-decker-bus-drivetrains/",
@@ -1001,14 +1001,44 @@
     "editorial_fit_score": 79,
     "summary_source": "In London, 28 aging electric double-deckers are being comprehensively refurbished. The electric old-timers will receive new batteries and electric drives. The latter are being supplied by the German drivetrain specialist Driventic. After modernization, the electric double-deckers are set to return to service with the transport company Metroline.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Driventic, Londra’daki 28 elektrikli çift katlı otobüsün tahrik sistemlerini yeniliyor",
+      "dek_tr": "Yaşlı elektrikli otobüsler kapsamlı bir yenilemeden geçecek. Driventic yeni elektrikli tahrik sistemlerini sağlayacak; araçlara yeni bataryalar da takılacak.",
+      "summary_tr": "Londra’da 28 elektrikli çift katlı otobüs kapsamlı biçimde yenileniyor. Çalışma kapsamında araçlara yeni bataryalar ve elektrikli tahrik sistemleri takılacak.\n\nTahrik sistemlerini Alman uzman Driventic sağlayacak. Yenileme sonrasında otobüslerin Metroline filosunda yeniden hizmete dönmesi planlanıyor.",
+      "why_it_matters_tr": "Bu çalışma, elektrikli otobüslerde tüm aracı yenilemek yerine batarya ve tahrik sistemlerini güncelleyerek hizmet ömrünü uzatma yaklaşımını gösteriyor. Kaynakta yenilemenin maliyeti veya performans sonuçları yer almıyor.",
+      "seo_title": "Driventic, Londra’da 28 elektrikli otobüsü yeniliyor",
+      "meta_description": "Londra’da 28 elektrikli çift katlı otobüs yeni batarya ve Driventic tahrik sistemleriyle yenilenecek; araçların Metroline hizmetine dönmesi planlanıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Yenilenecek otobüs sayısı 28.",
+        "Araçlara yeni bataryalar ve elektrikli tahrik sistemleri takılacak.",
+        "Tahrik sistemlerini Driventic sağlayacak.",
+        "Otobüslerin Metroline hizmetine dönmesi planlanıyor."
+      ],
+      "suggested_tags": [
+        "Driventic",
+        "elektrikli otobüs",
+        "elektrikli tahrik",
+        "batarya",
+        "filo yenileme"
+      ],
+      "suggested_sector": "elektrifikasyon",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon",
+        "yuruyus-guc-aktarma"
+      ],
+      "source_facts_used": [
+        "Kaynak özeti, Londra’da 28 elektrikli çift katlı otobüsün kapsamlı yenilemeden geçeceğini belirtiyor.",
+        "Yeni batarya ve elektrikli tahrik sistemlerinin takılacağı, tahrik sistemlerini Driventic’in sağlayacağı aktarılıyor.",
+        "Araçların yenileme sonrasında Metroline ile hizmete dönmesi planlanıyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası HTTP 403 nedeniyle alınamadı; taslak yalnızca sağlanan başlık ve kısa özet bilgilerine dayanıyor.",
+        "Batarya kapasitesi, tahrik sistemi özellikleri, yenileme takvimi ve performans sonuçları kaynakta verilmemiş."
+      ],
+      "generated_at": "2026-11-11T12:20:05.475Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -1656,7 +1686,7 @@
   },
   {
     "id": "67de67e2dc062ddc",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "American West, Aston Bay look to pre-concentration tech for smaller Storm copper concentrator",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/11/10/american-west-aston-bay-look-to-pre-concentration-tech-for-smaller-storm-copper-concentrator/",
@@ -1672,14 +1702,42 @@
     "editorial_fit_score": 67,
     "summary_source": "American West Metals Limited and Aston Bay Holdings Ltd believe a combination of dry sensor-based sorting and wet jigging can significantly reduce the size of the copper concentrator they plan to build at the Storm copper project on Somerset Island, Nunavut, Canada. The two companies hold 80:20 interests in the project, with the assessment of The post American West, Aston Bay look to pre-concentration tech for smaller Storm copper concentrator appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Storm bakır projesinde ön zenginleştirme ile daha küçük tesis hedefleniyor",
+      "dek_tr": "American West Metals ve Aston Bay Holdings, kuru sensörlü ayıklama ile yaş jigging yöntemlerini birleştirerek Storm projesindeki bakır konsantratörünü küçültme olasılığını değerlendiriyor. Sağlanan haberde yöntemin performansına ilişkin ölçümler bulunmuyor.",
+      "summary_tr": "American West Metals ve Aston Bay Holdings, Kanada’nın Nunavut bölgesindeki Somerset Adası’nda yer alan Storm bakır projesi için ön zenginleştirme seçeneklerini değerlendiriyor. Şirketlerin yaklaşımı, kuru sensör tabanlı ayıklama ile yaş jigging işlemini bir araya getirmek.\n\nŞirketler, bu yöntemlerin planlanan bakır konsantratörünün boyutunu önemli ölçüde azaltabileceğini düşünüyor. Kaynak özeti, değerlendirmeyi veya beklenen kapasite ve verim etkisini destekleyecek teknik sonuçları paylaşmıyor.",
+      "why_it_matters_tr": "Cevherin konsantratöre girmeden önce ayrıştırılması, tesis tasarımını ve işleme gereksinimlerini etkileyebilir. Ancak bu projede olası ölçek küçülmesinin ne ölçüde gerçekleşeceğini değerlendirmek için test sonuçları ve mühendislik verileri gerekir.",
+      "seo_title": "Storm projesinde bakır için ön zenginleştirme planı",
+      "meta_description": "American West Metals ve Aston Bay, Storm projesinde kuru sensörlü ayıklama ile yaş jigging kullanarak daha küçük bir bakır konsantratörü hedefliyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Değerlendirme Storm bakır projesi için yapılıyor.",
+        "Projede kuru sensör tabanlı ayıklama ve yaş jigging kombinasyonu ele alınıyor.",
+        "Şirketler bu yaklaşımın planlanan konsantratörün boyutunu azaltabileceğini öngörüyor.",
+        "Sağlanan özete göre iki şirket projede 80:20 oranında pay sahibi."
+      ],
+      "suggested_tags": [
+        "Storm bakır projesi",
+        "ön zenginleştirme",
+        "sensörlü ayıklama",
+        "jigging",
+        "bakır madenciliği"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "International Mining’in sağlanan özeti, şirketlerin Storm projesi için kuru sensör tabanlı ayıklama ve yaş jigging kombinasyonunu değerlendirdiğini söylüyor.",
+        "Şirketlerin, yaklaşımın planlanan konsantratör boyutunu önemli ölçüde azaltabileceğini düşündüğü aktarılıyor.",
+        "Özette şirketlerin projedeki payları 80:20 olarak belirtiliyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası HTTP 403 nedeniyle alınamadı; taslak yalnızca sağlanan ikincil yayın özetine dayanıyor.",
+        "Ön zenginleştirme yaklaşımının sonuçları şirketlerin değerlendirmesi olarak aktarılmıştır; kaynakta test verisi, geri kazanım oranı, kapasite veya tesis boyutuna ilişkin ölçülebilir değer yoktur.",
+        "Önemli teknik iddialar ve ortaklık paylarının dağılımı için birincil şirket açıklamasıyla doğrulama gerekir."
+      ],
+      "generated_at": "2026-11-11T12:20:05.475Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -2834,7 +2892,7 @@
   },
   {
     "id": "b6735e770b938e43",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "EIMA 2026: Faresin Eramix",
     "source_name": "profi",
     "source_url": "https://www.profi.co.uk/news/eima-2026-faresin-eramix/",
@@ -2851,14 +2909,44 @@
     "editorial_fit_score": 79,
     "summary_source": "The Faresin Eramix autonomous mixer wagon prototype is the livestock feeding highlight at the Bologna fairgrounds. The Italian manufacturer launched its first fully electric mixer wagon at the 2018 edition of the German EuroTier livestock machinery show. Keen to pioneer in this sector, the company reckons that the latest fully electric platform takes automatic dairy […] The post EIMA 2026: Faresin Eramix appeared first on Profi.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Faresin, EIMA 2026’da otonom Eramix mikser vagonu prototipini tanıtıyor",
+      "dek_tr": "Faresin’in Eramix’i, hayvan beslemesine yönelik otonom mikser vagonu prototipi olarak tanıtılıyor. Kaynak, platformu tamamen elektrikli olarak nitelendiriyor ancak teknik özelliklerini paylaşmıyor.",
+      "summary_tr": "Profi’nin haber özetine göre Faresin Eramix, EIMA 2026’da sergilenen otonom mikser vagonu prototipi. Araç, hayvancılık işletmelerinde yem hazırlama ve dağıtımına yönelik olarak tanımlanıyor.\n\nÖzet, platformun tamamen elektrikli olduğunu belirtiyor. Faresin’in ilk tamamen elektrikli mikser vagonunu 2018’de EuroTier’de tanıttığı da aktarılıyor; ancak yeni prototipin batarya, kapasite ve otonomi ayrıntıları verilmemiş.",
+      "why_it_matters_tr": "Otonom ve elektrikli bir mikser vagonu, tarım işletmelerinde yemleme ekipmanlarının elektrifikasyonu ve otomasyonuna yönelik bir örnek olabilir. Prototipin çalışma biçimi ve sahadaki faydası hakkında kaynakta doğrulanabilir teknik veri bulunmadığından etkisi henüz değerlendirilemiyor.",
+      "seo_title": "Faresin Eramix: otonom ve elektrikli mikser vagonu",
+      "meta_description": "Faresin’in Eramix prototipi EIMA 2026’da otonom, tamamen elektrikli mikser vagonu olarak tanıtılıyor. Teknik özellikler kaynak özetinde yer almıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Eramix, Faresin’in otonom mikser vagonu prototipi olarak tanımlanıyor.",
+        "Kaynak özeti platformu tamamen elektrikli olarak nitelendiriyor.",
+        "Faresin’in ilk tamamen elektrikli mikser vagonunu 2018 EuroTier’de tanıttığı belirtiliyor."
+      ],
+      "suggested_tags": [
+        "Faresin",
+        "Eramix",
+        "tarım makineleri",
+        "mikser vagonu",
+        "elektrifikasyon",
+        "otonomi"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon",
+        "otonomi-ai"
+      ],
+      "source_facts_used": [
+        "Profi’nin sağlanan özeti Eramix’i EIMA 2026’da sergilenen otonom mikser vagonu prototipi olarak tanımlıyor.",
+        "Özet, platformun tamamen elektrikli olduğunu ve Faresin’in ilk tamamen elektrikli mikser vagonunu 2018 EuroTier’de tanıttığını aktarıyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası HTTP 403 nedeniyle alınamadı; ayrıntılı haber metni doğrulanamadı.",
+        "Prototipin batarya kapasitesi, karıştırma hacmi, otonomi seviyesi, çalışma süresi ve ticari takvimi sağlanan kaynakta yer almıyor.",
+        "Tamamen elektrikli ve otonom nitelemeleri bağımsız test bilgisi değil, ikincil yayın özetindeki bilgilerdir."
+      ],
+      "generated_at": "2026-11-11T12:20:05.475Z",
+      "generated_by": "github-models"
     }
   },
   {
