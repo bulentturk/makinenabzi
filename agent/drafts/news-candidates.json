@@ -435,7 +435,7 @@
   },
   {
     "id": "1c35e85b86fb4a8c",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Komatsu introduces D175AX-10 dozer to North America",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/11/10/komatsu-introduces-d175ax-10-dozer-to-north-america/",
@@ -487,7 +487,9 @@
         "Motor, güç aktarma değişiklikleri ve performans etkileri üretici kaynağından doğrulanmalı; bağımsız saha verisi sunulmuyor."
       ],
       "generated_at": "2026-11-10T13:09:56.867Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "review_result": "auto_published",
+      "reviewed_at": "2026-11-11T14:14:33.213Z"
     }
   },
   {

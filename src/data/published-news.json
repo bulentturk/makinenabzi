@@ -1,5 +1,38 @@
 [
   {
+    "id": "1c35e85b86fb4a8c",
+    "slug": "komatsu-d175ax-10-dozeri-kuzey-amerika-da-tanitti",
+    "title": "Komatsu D175AX-10 dozeri Kuzey Amerika’da tanıttı",
+    "dek": "International Mining’in haber özetine göre D175AX-10, 450 net HP’lik DBA127 motor ve yeniden tasarlanmış güç aktarma sistemiyle sunuluyor. Kaynakta teknik ayrıntılar sınırlı.",
+    "summary": "International Mining’in haber özetine göre Komatsu North America, D175AX-10 üretim dozerini tanıttı. Model; agrega üretimi, madencilik ve büyük ölçekli saha geliştirme uygulamaları için konumlandırılıyor.\n\nÖzette, makinenin 450 net HP (336 kW) Komatsu DBA127 motor kullandığı ve güç aktarma sisteminin yeniden tasarlandığı belirtiliyor. Kaynakta tasarım değişikliklerinin kapsamı, dozerin ölçülebilir performansı veya saha sonuçları açıklanmıyor.",
+    "why_it_matters": "Dozerin motoru ve güç aktarma sistemi, madencilik ve büyük saha işlerinde üretim kapasitesi ile işletme gereksinimlerini etkileyebilecek temel bileşenler. Ancak bu duyuruda karşılaştırmalı performans verisi bulunmadığından, teknik kazanımlar henüz değerlendirilemiyor.",
+    "key_facts": [
+      "International Mining, Komatsu North America’nın D175AX-10’u tanıttığını aktarıyor.",
+      "Haberde motor gücü 450 net HP (336 kW) olarak veriliyor.",
+      "Kaynak özeti, güç aktarma sisteminin yeniden tasarlandığını belirtiyor.",
+      "Özette hedef uygulamalar arasında agrega üretimi, madencilik ve büyük ölçekli saha geliştirme sayılıyor."
+    ],
+    "format": "haber",
+    "sector": "madencilik",
+    "subsector": null,
+    "technologies": [
+      "yuruyus-guc-aktarma"
+    ],
+    "tags": [
+      "Komatsu",
+      "D175AX-10",
+      "dozer",
+      "madencilik",
+      "güç aktarma"
+    ],
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/11/10/komatsu-introduces-d175ax-10-dozer-to-north-america/",
+    "source_published_at": "2026-11-10T08:49:29.000Z",
+    "site_published_at": "2026-11-11T14:14:33.213Z",
+    "hero_image": "",
+    "publish_mode": "automatic"
+  },
+  {
     "id": "78a0ef12eb50abbf",
     "slug": "explomar-400-hp-elektrikli-distan-takma-motor-konseptini-tanitacak",
     "title": "ExploMar, 400 HP elektrikli dıştan takma motor konseptini tanıtacak",
