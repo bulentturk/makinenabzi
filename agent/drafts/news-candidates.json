@@ -1313,7 +1313,7 @@
   },
   {
     "id": "cc61e5d2efe04edc",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "EIMA VIDEO: Close-up with the new, award-winning Claas Arion 4 tractor, as it’s unveiled in Bologna",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/agriculture/eima-video-close-up-with-the-new-award-winning-claas-arion-4-tractor-as-its-unveiled-in-bologna.html",
@@ -1327,19 +1327,46 @@
     "editorial_fit_score": 65,
     "summary_source": "Claas product manager Markus Schulte-Uebbing explains the engineering behind the new Arion 4 Cmatic series, the four-model, 120-160hp utility tractor range that won Tractor of the Year 2027 (Utility) at [...] The post EIMA VIDEO: Close-up with the new, award-winning Claas Arion 4 tractor, as it’s unveiled in Bologna appeared first on Industrial Vehicle Technology International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Claas Arion 4 Cmatic: dört model, 120-160 hp güç aralığı",
+      "dek_tr": "iVT International’ın haber özeti, Arion 4 Cmatic serisini dört model ve 120-160 hp güç aralığıyla tanımlıyor. Kaynak, serinin Tractor of the Year 2027 Utility ödülünü aldığını da bildiriyor.",
+      "summary_tr": "Claas, Arion 4 Cmatic serisini EIMA International 2026’da tanıttı. iVT International’ın haber özetine göre seri dört modelden oluşuyor ve 120-160 hp sınıfında konumlanıyor.\n\nÖzet, serinin en üst modeli Arion 4.150 Cmatic’in Tractor of the Year 2027 Utility ödülünü kazandığını belirtiyor. Kaynakta CVT, Panoramic kabin ve Smart Loading özellikleri de anılıyor; ancak teknik çalışma ayrıntıları bu girdide yer almıyor.",
+      "why_it_matters_tr": "120-160 hp aralığındaki dört model, farklı tarımsal kullanım ihtiyaçlarına yönelik bir seri sunuyor. CVT ve Smart Loading gibi özelliklerin uygulamadaki etkisini değerlendirmek için ayrıntılı teknik bilgi gerekir.",
+      "seo_title": "Claas Arion 4 Cmatic serisi EIMA’da tanıtıldı",
+      "meta_description": "Claas Arion 4 Cmatic, dört model ve 120-160 hp güç aralığıyla EIMA 2026’da tanıtıldı. Serinin en üst modeli Utility ödülünü kazandı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Arion 4 Cmatic, EIMA International 2026’da tanıtıldı.",
+        "Seri dört modelden ve 120-160 hp güç aralığından oluşuyor.",
+        "Kaynak, Arion 4.150 Cmatic’in Tractor of the Year 2027 Utility ödülünü kazandığını bildiriyor."
+      ],
+      "suggested_tags": [
+        "Claas",
+        "Arion 4 Cmatic",
+        "tarım traktörü",
+        "EIMA 2026"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "yuruyus-guc-aktarma"
+      ],
+      "source_facts_used": [
+        "iVT International haber özeti serinin dört model ve 120-160 hp aralığında olduğunu belirtiyor.",
+        "Kaynak özeti Arion 4.150 Cmatic’in Tractor of the Year 2027 Utility ödülünü aldığını bildiriyor.",
+        "Sayfa açıklamasında CVT, Panoramic kabin ve Smart Loading özellikleri anılıyor."
+      ],
+      "uncertainty_notes": [
+        "Girdi içindeki sayfa metni yalnızca dergi künyesini içeriyor; teknik ayrıntılar haber özeti ve sayfa açıklamasıyla sınırlı.",
+        "Özelliklerin çalışma biçimi ve performans etkisi için üreticinin teknik açıklaması gerekli."
+      ],
+      "generated_at": "2026-11-11T21:51:15.966Z",
+      "generated_by": "github-models"
     }
   },
   {
     "id": "5a0a09f5a564dbcf",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "EIMA 2026: Claas unveils new Arion 4 Cmatic series and immediately wins TOTY award",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/agriculture/eima-2026-claas-unveils-new-tractors-in-arion-4-cmatic-series-and-immediately-wins-toty-award.html",
@@ -1353,14 +1380,41 @@
     "editorial_fit_score": 65,
     "summary_source": "Claas has unveiled the Arion 4 Cmatic, a new four-model tractor series in the 120-160hp class, at EIMA International 2026 in Bologna, Italy. The range-topping Arion 4.150 Cmatic was immediately [...] The post EIMA 2026: Claas unveils new Arion 4 Cmatic series and immediately wins TOTY award appeared first on Industrial Vehicle Technology International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Claas Arion 4 Cmatic serisi EIMA 2026’da tanıtıldı",
+      "dek_tr": "Claas, Arion 4 Cmatic’i EIMA 2026’da dört model ve 120-160 hp güç aralığıyla tanıttı. Kaynak, serinin en üst modeli Arion 4.150 Cmatic’in Utility kategorisinde ödül aldığını bildiriyor.",
+      "summary_tr": "iVT International’ın haber özetine göre Arion 4 Cmatic, 120-160 hp sınıfındaki dört traktör modelinden oluşuyor. Seri EIMA International 2026’da tanıtıldı.\n\nKaynak, Arion 4.150 Cmatic’in Tractor of the Year 2027 Utility ödülünü aldığını belirtiyor. Sayfa açıklamasında CVT, Panoramic kabin ve Smart Loading özellikleri anılıyor; bu girdide bunların teknik ayrıntıları verilmemiş.",
+      "why_it_matters_tr": "Yeni seri, tarım traktörlerinde 120-160 hp sınıfına yönelik bir ürün güncellemesi. CVT ve Smart Loading’in kullanım etkisini anlamak için üretici teknik verileri veya uygulama bilgisi gerekir.",
+      "seo_title": "Claas Arion 4 Cmatic: 120-160 hp dört model",
+      "meta_description": "Claas’ın Arion 4 Cmatic serisi EIMA 2026’da tanıtıldı. Dört modelden oluşan 120-160 hp serisinin en üst modeli Utility ödülünü aldı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Arion 4 Cmatic serisi EIMA International 2026’da tanıtıldı.",
+        "Seri dört modelden ve 120-160 hp güç aralığından oluşuyor.",
+        "Kaynak, Arion 4.150 Cmatic’in Tractor of the Year 2027 Utility ödülünü kazandığını bildiriyor."
+      ],
+      "suggested_tags": [
+        "Claas",
+        "Arion 4 Cmatic",
+        "tarım traktörü",
+        "Tractor of the Year"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "yuruyus-guc-aktarma"
+      ],
+      "source_facts_used": [
+        "iVT International haber özeti serinin EIMA 2026’da tanıtıldığını, dört modelden oluştuğunu ve 120-160 hp aralığında olduğunu bildiriyor.",
+        "Kaynak özeti Arion 4.150 Cmatic’in Tractor of the Year 2027 Utility ödülünü aldığını belirtiyor.",
+        "Sayfa açıklamasında CVT, Panoramic kabin ve Smart Loading özellikleri listeleniyor."
+      ],
+      "uncertainty_notes": [
+        "Bu girdi, aynı yayın kuruluşunun Arion 4 Cmatic serisi ve ödülü hakkındaki diğer adayla büyük ölçüde aynı gelişmeyi aktarıyor; bağımsız yeni teknik bilgi sunmuyor ve ayrı haber olarak yeniden yayımlanmamalı.",
+        "Teknik özellikler bu girdideki haber özeti ve sayfa açıklamasıyla sınırlı; üretici kaynaklarından doğrulama gerekli."
+      ],
+      "generated_at": "2026-11-11T21:51:15.966Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -3927,7 +3981,7 @@
   },
   {
     "id": "bd704fbffdde1516",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Autonomous Kioti tractor nears production",
     "source_name": "profi",
     "source_url": "https://www.profi.co.uk/news/autonomous-kioti-tractor-nears-production/",
@@ -3943,14 +3997,40 @@
     "editorial_fit_score": 67,
     "summary_source": "The headline act on the Kioti stand at this week’s Italian EIMA is the autonomous version of the HXS1400. Shown as a prototype at Agritechnica 2025 (AT25) in Kioti red, while labelled as a study model, the black finish of the 142hp tractor at the Italian show is designed to highlight that it is now […] The post Autonomous Kioti tractor nears production appeared first on Profi.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Kioti HXS1400’ün otonom sürümü üretime yaklaşıyor",
+      "dek_tr": "Kioti’nin HXS1400 traktörünün otonom sürümü EIMA’da sergilendi. Profi’nin haber başlığı üretime yaklaştığını belirtse de kaynak metninde bu aşamayı doğrulayacak ayrıntı bulunmuyor.",
+      "summary_tr": "Kioti’nin otonom HXS1400 sürümü, İtalya’daki EIMA fuarında sergilendi. Kaynağa göre model, Agritechnica 2025’te çalışma modeli olarak tanıtılmıştı; EIMA’daki örnek siyah renkteydi.\n\nKaynak metni, traktörün 142 hp olduğunu belirtiyor. Otonom işlevlerin kapsamı, üretim takvimi ve teknik sistem ayrıntıları paylaşılmıyor.",
+      "why_it_matters_tr": "Otonom traktörler, tarımda tekrarlayan işlerin otomasyonuna yönelik bir uygulama alanı sunuyor. Ancak bu örneğin gerçek çalışma senaryoları ve üretime hazır olma düzeyi mevcut kaynakla değerlendirilemiyor.",
+      "seo_title": "Kioti HXS1400 otonom traktör EIMA’da sergilendi",
+      "meta_description": "Kioti’nin otonom HXS1400 traktörü EIMA’da sergilendi. Kaynakta 142 hp bilgisi yer alırken üretim takvimi ve otonom sistem ayrıntıları açıklanmıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Otonom HXS1400 sürümü EIMA’da sergilendi.",
+        "Model, Agritechnica 2025’te çalışma modeli olarak gösterilmişti.",
+        "Kaynak metni traktör gücünü 142 hp olarak veriyor."
+      ],
+      "suggested_tags": [
+        "Kioti",
+        "HXS1400",
+        "otonom traktör",
+        "EIMA"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "otonomi-ai"
+      ],
+      "source_facts_used": [
+        "Profi’nin başlığı, otonom Kioti traktörünün üretime yaklaştığını belirtiyor.",
+        "Kaynak özeti HXS1400’ün Agritechnica 2025’te çalışma modeli, EIMA’da ise otonom sürüm olarak sergilendiğini bildiriyor.",
+        "Kaynak metninde 142 hp bilgisi yer alıyor."
+      ],
+      "uncertainty_notes": [
+        "Sayfa 403 hatası nedeniyle tam metin alınamamış; üretime geçiş ifadesi ve otonom işlevler birincil üretici kaynağından doğrulanmalı."
+      ],
+      "generated_at": "2026-11-11T21:51:15.966Z",
+      "generated_by": "github-models"
     }
   },
   {
