@@ -983,6 +983,35 @@
     }
   },
   {
+    "id": "06c57b069a86c44d",
+    "status": "candidate",
+    "title_original": "Driventic refurbs London old-timer electric double-decker bus drivetrains",
+    "source_name": "electrive",
+    "source_url": "https://www.electrive.com/2026/11/11/driventic-refurbs-london-old-timer-electric-double-decker-bus-drivetrains/",
+    "source_feed": "https://www.electrive.com/feed/",
+    "published_at": "2026-11-11T12:00:00.000Z",
+    "discovered_at": "2026-11-11T12:19:02.517Z",
+    "sector": "elektrifikasyon",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon",
+      "yuruyus-guc-aktarma"
+    ],
+    "relevance_score": 156,
+    "editorial_fit_score": 79,
+    "summary_source": "In London, 28 aging electric double-deckers are being comprehensively refurbished. The electric old-timers will receive new batteries and electric drives. The latter are being supplied by the German drivetrain specialist Driventic. After modernization, the electric double-deckers are set to return to service with the transport company Metroline.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "e6eac96346115b87",
     "status": "drafted",
     "title_original": "HCSS, Verizon Connect Team Up on Telematics for Mixed-Fleet Management",
@@ -2804,6 +2833,35 @@
     }
   },
   {
+    "id": "b6735e770b938e43",
+    "status": "candidate",
+    "title_original": "EIMA 2026: Faresin Eramix",
+    "source_name": "profi",
+    "source_url": "https://www.profi.co.uk/news/eima-2026-faresin-eramix/",
+    "source_feed": "https://www.profi.co.uk/feed/",
+    "published_at": "2026-11-11T08:00:00.000Z",
+    "discovered_at": "2026-11-11T12:19:04.383Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon",
+      "otonomi-ai"
+    ],
+    "relevance_score": 141,
+    "editorial_fit_score": 79,
+    "summary_source": "The Faresin Eramix autonomous mixer wagon prototype is the livestock feeding highlight at the Bologna fairgrounds. The Italian manufacturer launched its first fully electric mixer wagon at the 2018 edition of the German EuroTier livestock machinery show. Keen to pioneer in this sector, the company reckons that the latest fully electric platform takes automatic dairy […] The post EIMA 2026: Faresin Eramix appeared first on Profi.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "3e0130d9e6570f06",
     "status": "drafted",
     "title_original": "Zoomlion wide body truck fleet at CMOC’s Kisanfu mine in DRC passes 200",
@@ -3671,6 +3729,60 @@
       ],
       "generated_at": "2026-10-22T09:46:05.296Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "bd704fbffdde1516",
+    "status": "candidate",
+    "title_original": "Autonomous Kioti tractor nears production",
+    "source_name": "profi",
+    "source_url": "https://www.profi.co.uk/news/autonomous-kioti-tractor-nears-production/",
+    "source_feed": "https://www.profi.co.uk/feed/",
+    "published_at": "2026-11-11T11:00:00.000Z",
+    "discovered_at": "2026-11-11T12:19:04.382Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [
+      "otonomi-ai"
+    ],
+    "relevance_score": 133,
+    "editorial_fit_score": 67,
+    "summary_source": "The headline act on the Kioti stand at this week’s Italian EIMA is the autonomous version of the HXS1400. Shown as a prototype at Agritechnica 2025 (AT25) in Kioti red, while labelled as a study model, the black finish of the 142hp tractor at the Italian show is designed to highlight that it is now […] The post Autonomous Kioti tractor nears production appeared first on Profi.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "4203821fd348e22e",
+    "status": "candidate",
+    "title_original": "Konecranes secures first overseas ESP.4 crane order in Bermuda",
+    "source_name": "Container News",
+    "source_url": "https://container-news.com/konecranes-secures-first-overseas-esp-4-crane-order-in-bermuda/",
+    "source_feed": "https://container-news.com/feed/",
+    "published_at": "2026-11-11T02:34:30.000Z",
+    "discovered_at": "2026-11-11T12:19:05.095Z",
+    "sector": "liman",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 132,
+    "editorial_fit_score": 65,
+    "summary_source": "Konecranes has secured an order for a Gottwald ESP.4 Mobile Harbor Crane from Stevedoring Services Limited (SSL) in Bermuda, marking the model’s first order outside Europe. The Finnish equipment manufacturer booked the order during the third quarter of 2026. Delivery is scheduled for the third quarter of 2027. SSL plans to use the new crane […] The post Konecranes secures first overseas ESP.4 crane order in Bermuda appeared first on Container News.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
