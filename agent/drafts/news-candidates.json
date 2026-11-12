@@ -321,6 +321,34 @@
     }
   },
   {
+    "id": "7dc45c26728dd27f",
+    "status": "candidate",
+    "title_original": "Fambition to highlight latest 22 t diesel and 15 t battery LHDs at BAUMA China",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/11/12/fambition-to-highlight-latest-22-t-diesel-and-15-t-battery-lhds-at-bauma-china/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-11-12T13:06:38.000Z",
+    "discovered_at": "2026-11-12T13:28:07.264Z",
+    "sector": "madencilik",
+    "subsector": "yeraltı-madenciliği",
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "relevance_score": 158,
+    "editorial_fit_score": 89,
+    "summary_source": "Leading Chinese underground LHD and truck OEM Qingdao Fambition Heavy Machinery will have a significant presence at the forthcoming BAUMA China event in Shanghai, being held 23-27 November – and this includes two new models, the diesel powered 22 t class FL225 and 15 t battery electric FL15B. Beginning with the FL15B, Fambition states: “The The post Fambition to highlight latest 22 t diesel and 15 t battery LHDs at BAUMA China appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "ec9de8ffc2a7bea3",
     "status": "drafted",
     "title_original": "NHL launches 240 t battery electric rigid mining truck with fixed dual gun & dynamic charging",
@@ -1257,6 +1285,58 @@
       ],
       "generated_at": "2026-11-09T13:30:43.026Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "8bea50dd7138ebcd",
+    "status": "candidate",
+    "title_original": "Volvo CE marks partnership with new dealer Laothani Tractor in Laos",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/11/12/volvo-ce-marks-partnership-with-new-dealer-laothani-tractor-in-laos/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-11-12T11:52:23.000Z",
+    "discovered_at": "2026-11-12T13:28:07.267Z",
+    "sector": "madencilik",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 150,
+    "editorial_fit_score": 75,
+    "summary_source": "Volvo Construction Equipment (Volvo CE) and its new national distributor in Laos, Laothani Tractor, marked the start of their new partnership with a dealer inauguration and customer roadshow showcasing Volvo CE’s new generation excavators and compaction machines. The partnership aims to enhance the customer experience in Laos and support customers across the mining, construction and The post Volvo CE marks partnership with new dealer Laothani Tractor in Laos appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "1af08d7db9df5fd7",
+    "status": "candidate",
+    "title_original": "EIMA VIDEO: Massey Ferguson’s award-winning MF 7S Mark 2 tractor",
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/videos/eima-video-massey-fergusons-award-winning-mf-7s-mark-2-tractor.html",
+    "source_feed": "https://www.ivtinternational.com/feed",
+    "published_at": "2026-11-12T11:08:46.000Z",
+    "discovered_at": "2026-11-12T13:28:06.909Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 150,
+    "editorial_fit_score": 55,
+    "summary_source": "At EIMA International 2026, Massey Ferguson’s Antoine Blaineau gives us an insight into the Tractor of the Year (TOTY) MidPower award winner, the MF 7S Mark 2. The 7S Mark [...] The post EIMA VIDEO: Massey Ferguson’s award-winning MF 7S Mark 2 tractor appeared first on Industrial Vehicle Technology International.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -3110,6 +3190,32 @@
     }
   },
   {
+    "id": "f534da6ce88103d5",
+    "status": "candidate",
+    "title_original": "Tisur orders new crane for Matarani Port",
+    "source_name": "Port Strategy",
+    "source_url": "https://www.portstrategy.com/news/container-cargo-handling/tisur-orders-new-crane-for-matarani-port/",
+    "source_feed": "https://www.portstrategy.com/feed",
+    "published_at": "2026-11-12T12:49:06.000Z",
+    "discovered_at": "2026-11-12T13:28:11.606Z",
+    "sector": "liman",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 140,
+    "editorial_fit_score": 75,
+    "summary_source": "Tisur has invested in a 125-tonne Konecranes Gottwald crane to boost capacity and modernise Peru’s Port of Matarani",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "3e0130d9e6570f06",
     "status": "drafted",
     "title_original": "Zoomlion wide body truck fleet at CMOC’s Kisanfu mine in DRC passes 200",
@@ -4666,6 +4772,58 @@
     }
   },
   {
+    "id": "3164bd84256c04cf",
+    "status": "candidate",
+    "title_original": "Claas scoops up 2 awards at TOTY 2027, AgXeed wins again with AgBot",
+    "source_name": "Future Farming",
+    "source_url": "https://www.futurefarming.com/machinery/claas-scoops-two-awards-at-toty-2027-agxeed-wins-again-with-agbot/",
+    "source_feed": "https://www.futurefarming.com/feed/",
+    "published_at": "2026-11-12T07:00:00.000Z",
+    "discovered_at": "2026-11-12T13:28:08.442Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 125,
+    "editorial_fit_score": 55,
+    "summary_source": "Claas scoops two awards at TOTY 2027, AgXeed wins again with AgBot 6 Tractor of the Year (TOTY)",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "1f3711f5193f98d3",
+    "status": "candidate",
+    "title_original": "New Deutz-Fahr 6K Series at Italian show",
+    "source_name": "profi",
+    "source_url": "https://www.profi.co.uk/news/new-deutz-fahr-6k-series-at-italian-show/",
+    "source_feed": "https://www.profi.co.uk/feed/",
+    "published_at": "2026-11-12T07:00:00.000Z",
+    "discovered_at": "2026-11-12T13:28:07.998Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 125,
+    "editorial_fit_score": 65,
+    "summary_source": "Comprising three models from 150 to 175hp, the new 6K range launched at EIMA is described as a true allrounder. Designed to strengthen the brand’s presence in this power segment with a multi-functional tractor that is equally at home in the field, on the road, or with a loader, many key components, including the engine, […] The post New Deutz-Fahr 6K Series at Italian show appeared first on Profi.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "cb66b77296b19fab",
     "status": "candidate",
     "title_original": "EIMA 2026: Main tractor markets struggling",
@@ -6016,6 +6174,32 @@
     }
   },
   {
+    "id": "8cac8d2934161656",
+    "status": "candidate",
+    "title_original": "İş makinesi pazarında toparlanma arayışı sürüyor",
+    "source_name": "Makina Market",
+    "source_url": "https://makina-market.com.tr/is-makinesi-pazarinda-toparlanma-arayisi-suruyor/",
+    "source_feed": "https://makina-market.com.tr/feed/",
+    "published_at": "2026-11-12T11:58:13.000Z",
+    "discovered_at": "2026-11-12T13:28:09.130Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 106,
+    "editorial_fit_score": 55,
+    "summary_source": "Türkiye iş makinesi pazarı, 2026 yılının ilk 10 ayında toplam 10.205 adetlik satış gerçekleştirdi. Eylül ayında 1.082 adede… The post İş makinesi pazarında toparlanma arayışı sürüyor first appeared on Makina Market.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "49880a29678541bf",
     "status": "candidate",
     "title_original": "Kobelco, CNH’nin iş makineleri faaliyetlerini satın alarak küresel pazarda büyümeyi hedefliyor",
@@ -6144,6 +6328,32 @@
       ],
       "generated_at": "2026-11-07T19:20:39.364Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "f4df0ebe4415105b",
+    "status": "candidate",
+    "title_original": "İstif makineleri pazarında yükseliş ivmesi sürüyor",
+    "source_name": "LHT",
+    "source_url": "https://www.lht.com.tr/istif-makineleri-pazarinda-yukselis-ivmesi-suruyor/",
+    "source_feed": "https://www.lht.com.tr/feed/",
+    "published_at": "2026-11-12T12:32:34.000Z",
+    "discovered_at": "2026-11-12T13:28:10.263Z",
+    "sector": "arac-ustu-ekipman",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 105,
+    "editorial_fit_score": 55,
+    "summary_source": "Türkiye istif makineleri sektörü, 2026 yılının ilk on ayında 10.823 adetlik satışa ulaştı. İSDER verilerine göre Ekim ayında 1.224 adet istif makinesi satıldı. Yılın ikinci yarısında aylık satışların yeniden yükselişe geçmesi, pazardaki hareketliliğin sürdüğüne işaret etti. İSDER tarafından açıklanan verilere göre, 2025 yılını 12.987 adetlik satışla tamamlayan Türkiye istif makineleri sektörü, 2026 yılının ilk on […]",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
