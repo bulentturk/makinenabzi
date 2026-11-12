@@ -1,5 +1,17 @@
 [
   {
+    "id": "3c148232f6fe3bdd",
+    "source_name": "Sandvik Mining",
+    "source_url": "https://www.mining.sandvik/en/news-and-media/news-archive/2026/11/sandvik-rotary-geo-turns-drilling-data-into-rock-insights/",
+    "title_original": "Sandvik Rotary Geo turns drilling data into rock insights",
+    "sector": "madencilik",
+    "subsector": null,
+    "status": "lead",
+    "source_type": "official_manufacturer",
+    "verified_publication_date": false,
+    "first_seen_at": "2026-11-12T14:45:21.244Z"
+  },
+  {
     "id": "9c4cf038d53016d3",
     "source_name": "Sandvik Mining",
     "source_url": "https://www.mining.sandvik/en/news-and-media/news-archive/2026/11/sandvik-battery-electric-loader-delivers-on-performance-and-productivity-at-codelcos-el-teniente/",
