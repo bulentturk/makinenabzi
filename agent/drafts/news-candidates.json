@@ -92,6 +92,35 @@
     }
   },
   {
+    "id": "deb562f419e04daf",
+    "status": "candidate",
+    "title_original": "EIMA VIDEO: FPT debuts third-generation F28 hybrid engine at EIMA 2026",
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/news/agriculture/eima-video-fpt-debuts-third-generation-f28-hybrid-engine-at-eima-2026.html",
+    "source_feed": "https://www.ivtinternational.com/feed",
+    "published_at": "2026-11-12T13:59:20.000Z",
+    "discovered_at": "2026-11-12T21:47:26.436Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon",
+      "yuruyus-guc-aktarma"
+    ],
+    "relevance_score": 166,
+    "editorial_fit_score": 79,
+    "summary_source": "FPT Industrial has brought highlights from it’s off-highway engine lineup to EIMA International 2026 in Bologna, Italy, headlined by the first trade-show appearance of its third-generation F28 Hybrid powertrain. Turin, [...] The post EIMA VIDEO: FPT debuts third-generation F28 hybrid engine at EIMA 2026 appeared first on Industrial Vehicle Technology International.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "9c2c815e400065ea",
     "status": "candidate",
     "title_original": "Hitachi Energy, LKAB & Scania collaborate on downward pantograph system for Malmberget mining trucks",
@@ -318,6 +347,34 @@
       ],
       "generated_at": "2026-11-08T11:38:02.185Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "5508f095099af651",
+    "status": "candidate",
+    "title_original": "EIMA 2026 VIDEO: New Holland’s T4 F/N/V Auto Command tractors",
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/news/agriculture/eima-2026-video-new-hollands-t4-f-n-v-auto-command-tractors.html",
+    "source_feed": "https://www.ivtinternational.com/feed",
+    "published_at": "2026-11-12T16:14:17.000Z",
+    "discovered_at": "2026-11-12T21:47:26.434Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [
+      "yuruyus-guc-aktarma"
+    ],
+    "relevance_score": 158,
+    "editorial_fit_score": 77,
+    "summary_source": "At EIMA 2026, CNH’s Marco Gerbi introduces the Auto Command continuously variable transmission to the T4 F/N/V Fruit, Narrow and Vineyard tractor range, bringing the fuel efficiency and ease-of-use benefits [...] The post EIMA 2026 VIDEO: New Holland’s T4 F/N/V Auto Command tractors appeared first on Industrial Vehicle Technology International.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -1311,6 +1368,58 @@
       ],
       "generated_at": "2026-11-09T13:30:43.026Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "55250f89811111dc",
+    "status": "candidate",
+    "title_original": "EIMA VIDEO: Cummins F4.5 Structural engine debuts in Claas Arion tractor",
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/news/agriculture/eima-video-cummins-f4-5-structural-engine-debuts-in-claas-arion-tractor.html",
+    "source_feed": "https://www.ivtinternational.com/feed",
+    "published_at": "2026-11-12T20:00:51.000Z",
+    "discovered_at": "2026-11-12T21:47:26.432Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 150,
+    "editorial_fit_score": 55,
+    "summary_source": "Cummins has introduced its F4.5 Structural engine in the new Claas Arion 4 Cmatic tractor, marking the engine’s first application in a tractor. The range-topping Arion 4.150 Cmatic, powered by [...] The post EIMA VIDEO: Cummins F4.5 Structural engine debuts in Claas Arion tractor appeared first on Industrial Vehicle Technology International.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "930bf3c9a59cace6",
+    "status": "candidate",
+    "title_original": "EIMA VIDEO: Valtra’s sixth generation T Series tractor",
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/news/agriculture/eima-video-valtras-sixth-generation-t-series-tractor.html",
+    "source_feed": "https://www.ivtinternational.com/feed",
+    "published_at": "2026-11-12T19:21:36.000Z",
+    "discovered_at": "2026-11-12T21:47:26.433Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 150,
+    "editorial_fit_score": 55,
+    "summary_source": "At EIMA, Aapo Aijasaho, sales director, Western, Central & Eastern Europe, Valtra, presents the OEM’s sixth generation T Series which combines a redesigned high-performance platform, the AGCO Power CORE75 engine [...] The post EIMA VIDEO: Valtra’s sixth generation T Series tractor appeared first on Industrial Vehicle Technology International.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -3845,6 +3954,32 @@
     }
   },
   {
+    "id": "5d23644e4f08591e",
+    "status": "candidate",
+    "title_original": "Man Goes on 1-Hour Excavator Rampage in China Smashing Building (Video)",
+    "source_name": "Equipment World",
+    "source_url": "https://www.equipmentworld.com/construction-equipment/heavy-equipment/excavators/article/16425112/videos-of-excavator-operators-rampage-in-china-goes-viral",
+    "source_feed": "https://www.equipmentworld.com/feed/",
+    "published_at": "2026-11-12T14:15:40.000Z",
+    "discovered_at": "2026-11-12T21:47:26.623Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 135,
+    "editorial_fit_score": 55,
+    "summary_source": "Reminiscent of the 2004 Killdozer rampage in Colorado, the 47-year-old operator smashed the exterior of a concrete building for...",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "bb35c7dbb296a135",
     "status": "candidate",
     "title_original": "“Good-Bye, Manual Labor!” — Mini Skid Steer Buyer’s Guide 2026",
@@ -4221,6 +4356,32 @@
     }
   },
   {
+    "id": "9288b9a553e66ec3",
+    "status": "candidate",
+    "title_original": "Konecranes secures mobile harbor crane order for Peru’s Port of Matarani",
+    "source_name": "Container News",
+    "source_url": "https://container-news.com/konecranes-secures-mobile-harbor-crane-order-for-perus-port-of-matarani/",
+    "source_feed": "https://container-news.com/feed/",
+    "published_at": "2026-11-12T16:00:25.000Z",
+    "discovered_at": "2026-11-12T21:47:27.371Z",
+    "sector": "liman",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 132,
+    "editorial_fit_score": 65,
+    "summary_source": "Konecranes has received an order from Terminal Internacional del Sur (Tisur) for a new mobile harbor crane at the Port of Matarani in southern Peru. The order marks the company’s first sale of a factory-new mobile harbor crane in Peru. The agreement covers one Konecranes Gottwald ESP.6 Mobile Harbor Crane. It was recorded in the […] The post Konecranes secures mobile harbor crane order for Peru’s Port of Matarani appeared first on Container News.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "4203821fd348e22e",
     "status": "candidate",
     "title_original": "Konecranes secures first overseas ESP.4 crane order in Bermuda",
@@ -4235,6 +4396,35 @@
     "relevance_score": 132,
     "editorial_fit_score": 65,
     "summary_source": "Konecranes has secured an order for a Gottwald ESP.4 Mobile Harbor Crane from Stevedoring Services Limited (SSL) in Bermuda, marking the model’s first order outside Europe. The Finnish equipment manufacturer booked the order during the third quarter of 2026. Delivery is scheduled for the third quarter of 2027. SSL plans to use the new crane […] The post Konecranes secures first overseas ESP.4 crane order in Bermuda appeared first on Container News.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "caa70a0cc2823f6f",
+    "status": "candidate",
+    "title_original": "165hp Chinese twin-track tractor",
+    "source_name": "profi",
+    "source_url": "https://www.profi.co.uk/news/165hp-chinese-twin-track-tractor/",
+    "source_feed": "https://www.profi.co.uk/feed/",
+    "published_at": "2026-11-12T17:26:34.000Z",
+    "discovered_at": "2026-11-12T21:47:27.403Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [
+      "yuruyus-guc-aktarma",
+      "emisyon-stage-v"
+    ],
+    "relevance_score": 131,
+    "editorial_fit_score": 79,
+    "summary_source": "A Chinese tractor highlight at EIMA is the 165hp rubber-tracked model from Landtrac Heavy Industry. Developed with input from MANN, the Chinese manufacturer’s Rome-based importer, the Stage V six-cylinder Yuchai motor is mated to a 12fx4r Chinese-made mechanical transmission with a top speed of 18km/hr. Rear lift capacity of the nearly 7-tonne tractor is 8 […] The post 165hp Chinese twin-track tractor appeared first on Profi.",
     "editorial": {
       "title_tr": "",
       "dek_tr": "",
