@@ -322,7 +322,7 @@
   },
   {
     "id": "7dc45c26728dd27f",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Fambition to highlight latest 22 t diesel and 15 t battery LHDs at BAUMA China",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/11/12/fambition-to-highlight-latest-22-t-diesel-and-15-t-battery-lhds-at-bauma-china/",
@@ -338,14 +338,40 @@
     "editorial_fit_score": 89,
     "summary_source": "Leading Chinese underground LHD and truck OEM Qingdao Fambition Heavy Machinery will have a significant presence at the forthcoming BAUMA China event in Shanghai, being held 23-27 November – and this includes two new models, the diesel powered 22 t class FL225 and 15 t battery electric FL15B. Beginning with the FL15B, Fambition states: “The The post Fambition to highlight latest 22 t diesel and 15 t battery LHDs at BAUMA China appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Fambition, FL225 dizel ve FL15B bataryalı LHD modellerini tanıtacak",
+      "dek_tr": "Qingdao Fambition, BAUMA China’da 22 ton sınıfı dizel FL225 ile 15 tonluk bataryalı FL15B’yi öne çıkarmayı planlıyor. Kaynakta modellerin teknik özelliklerine ilişkin başka ayrıntı yer almıyor.",
+      "summary_tr": "International Mining’in haberine göre Çinli yeraltı makinesi üreticisi Qingdao Fambition Heavy Machinery, 23–27 Kasım’da Şanghay’da düzenlenecek BAUMA China etkinliğinde iki LHD modelini tanıtacak.\n\nBunlar, 22 ton sınıfında dizel tahrikli FL225 ve 15 tonluk bataryalı elektrikli FL15B. Kaynak metin, haberin devamına erişilemediği için makine özellikleri ve yeraltı çalışma koşullarına dair ek bilgi sunmuyor.",
+      "why_it_matters_tr": "İki farklı taşıma sınıfındaki dizel ve bataryalı LHD’lerin aynı etkinlikte sunulması, yeraltı madenlerinde tahrik seçeneği ve kapasite aralığı bakımından izlenmeye değer. Ancak modellerin teknik farkı ve saha kullanımına etkisi, mevcut kaynakla değerlendirilemiyor.",
+      "seo_title": "Fambition FL225 dizel ve FL15B bataryalı LHD’ler",
+      "meta_description": "Fambition, BAUMA China’da 22 ton sınıfı dizel FL225 ve 15 tonluk bataryalı FL15B yeraltı LHD modellerini tanıtmayı planlıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "FL225, dizel tahrikli 22 ton sınıfı LHD olarak tanımlanıyor.",
+        "FL15B, 15 tonluk bataryalı elektrikli LHD olarak tanımlanıyor.",
+        "Modellerin BAUMA China’da tanıtılması planlanıyor; etkinlik 23–27 Kasım’da Şanghay’da düzenlenecek."
+      ],
+      "suggested_tags": [
+        "Fambition",
+        "LHD",
+        "yeraltı madenciliği",
+        "bataryalı makine",
+        "BAUMA China"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "International Mining kaynak metninde belirtilen üretici, model adları, tahrik türleri ve tonaj sınıfları.",
+        "Kaynakta verilen BAUMA China tarihleri ve Şanghay konumu."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfasına erişim 403 hatasıyla engellendi; teknik özellikler, batarya sistemi, kapasite tanımları ve çalışma senaryoları birincil üretici kaynağından doğrulanmalı."
+      ],
+      "generated_at": "2026-11-12T13:29:13.915Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -1289,7 +1315,7 @@
   },
   {
     "id": "8bea50dd7138ebcd",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Volvo CE marks partnership with new dealer Laothani Tractor in Laos",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/11/12/volvo-ce-marks-partnership-with-new-dealer-laothani-tractor-in-laos/",
@@ -1303,14 +1329,37 @@
     "editorial_fit_score": 75,
     "summary_source": "Volvo Construction Equipment (Volvo CE) and its new national distributor in Laos, Laothani Tractor, marked the start of their new partnership with a dealer inauguration and customer roadshow showcasing Volvo CE’s new generation excavators and compaction machines. The partnership aims to enhance the customer experience in Laos and support customers across the mining, construction and The post Volvo CE marks partnership with new dealer Laothani Tractor in Laos appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Volvo CE, Laos’ta Laothani Tractor ile distribütörlük ortaklığını başlattı",
+      "dek_tr": "Volvo CE ile Laothani Tractor, Laos’taki yeni distribütörlük ilişkisini bayi açılışı ve müşteri etkinliğiyle duyurdu. Etkinlikte yeni nesil ekskavatörler ve kompaksiyon makineleri sergilendi.",
+      "summary_tr": "International Mining’in haberine göre Volvo Construction Equipment (Volvo CE), Laos’taki yeni ulusal distribütörü Laothani Tractor ile ortaklığının başlangıcını bir bayi açılışı ve müşteri roadshow’u ile duyurdu.\n\nEtkinlikte Volvo CE’nin yeni nesil ekskavatörleri ve kompaksiyon makineleri gösterildi. Kaynak metin, makinelerin teknik özellikleri veya distribütörlük kapsamında sunulacak hizmetler hakkında ayrıntı vermiyor.",
+      "why_it_matters_tr": "Yeni distribütörlük, Laos’taki madencilik ve inşaat müşterilerinin makineye ve yerel desteğe erişimini etkileyebilir. Bununla birlikte mevcut içerik, teknik bir yenilik ya da hizmet kapasitesinde ölçülebilir bir değişiklik ortaya koymadığından haberin teknik yayın değeri sınırlı.",
+      "seo_title": "Volvo CE, Laos’ta Laothani Tractor ile çalışacak",
+      "meta_description": "Volvo CE, Laos’taki yeni ulusal distribütörü Laothani Tractor ile ortaklığını bayi açılışı ve ekskavatörlerle kompaksiyon makinelerinin sergilendiği etkinlikle başlattı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Laothani Tractor, Volvo CE’nin Laos’taki yeni ulusal distribütörü olarak tanımlanıyor.",
+        "Ortaklığın başlangıcı bayi açılışı ve müşteri roadshow’u ile duyuruldu.",
+        "Etkinlikte yeni nesil ekskavatörler ve kompaksiyon makineleri sergilendi."
+      ],
+      "suggested_tags": [
+        "Volvo CE",
+        "Laothani Tractor",
+        "distribütörlük",
+        "ekskavatör",
+        "kompaksiyon makinesi"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "International Mining kaynak metninde belirtilen distribütörlük ortaklığı, bayi etkinliği ve sergilenen makine grupları."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfasına erişim 403 hatasıyla engellendi. Servis ve yedek parça kapsamı, müşteri desteği hedefleri ve makinelerin teknik özellikleri verilmedi; birincil kaynak doğrulaması gerekli."
+      ],
+      "generated_at": "2026-11-12T13:29:13.915Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -3191,7 +3240,7 @@
   },
   {
     "id": "f534da6ce88103d5",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Tisur orders new crane for Matarani Port",
     "source_name": "Port Strategy",
     "source_url": "https://www.portstrategy.com/news/container-cargo-handling/tisur-orders-new-crane-for-matarani-port/",
@@ -3205,14 +3254,44 @@
     "editorial_fit_score": 75,
     "summary_source": "Tisur has invested in a 125-tonne Konecranes Gottwald crane to boost capacity and modernise Peru’s Port of Matarani",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Tisur, Matarani Limanı için 125 ton kapasiteli Konecranes Gottwald ESP.6 siparişi verdi",
+      "dek_tr": "Peru’daki Matarani Limanı’nda kullanılacak mobil liman vinci; konteyner, genel kargo ve proje yüklerini elleçleyecek. Sipariş edilen konfigürasyonda motorlu kepçe ve kapasitörlü hibrit tahrik bulunuyor.",
+      "summary_tr": "Terminal Internacional del Sur (Tisur), Peru’nun güneyindeki Matarani Limanı için Konecranes Gottwald ESP.6 mobil liman vinci sipariş etti. Port Strategy’nin aktardığına göre 2026’nın üçüncü çeyreğinde kayda alınan sipariş, Konecranes’in Peru’da fabrika çıkışlı mobil liman vinci için yaptığı ilk satış.\n\nVinç 125 ton azami kaldırma kapasitesine sahip olacak; konteyner, genel kargo ve proje yüklerinin elleçlenmesinde kullanılacak. Dökme yük elleçleme için motorlu kepçe ve enerji tüketimiyle emisyonları azaltmayı amaçlayan, kapasitör içeren hibrit tahrik sistemi belirtiliyor.\n\nEkipmanın 2027’nin ilk çeyreği bitmeden devreye alınması bekleniyor. Kaynak, hibrit sistemin ileride tam elektrikli işletime geçiş için bir yol sunduğunu da aktarıyor.",
+      "why_it_matters_tr": "Kapasitörlü hibrit tahrik, farklı yük türlerine hizmet veren mobil liman vinçlerinde enerji tüketimi ve emisyonları azaltmaya yönelik bir yaklaşım sunuyor; kaynak ayrıca gelecekte tam elektrikli işletime geçiş olanağından söz ediyor. Bu hedeflerin sahadaki ölçülebilir etkisi için işletme verisi gerekir.",
+      "seo_title": "Tisur, Matarani için 125 tonluk Gottwald vinç sipariş etti",
+      "meta_description": "Tisur’un Matarani Limanı için sipariş ettiği Konecranes Gottwald ESP.6, 125 ton kaldırma kapasitesi, motorlu kepçe ve kapasitörlü hibrit tahrikle gelecek.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Tisur, Matarani Limanı için Konecranes Gottwald ESP.6 mobil liman vinci sipariş etti.",
+        "Vincin azami kaldırma kapasitesi 125 ton olarak veriliyor.",
+        "Ekipman konteyner, genel kargo ve proje yüklerini elleçleyecek.",
+        "Konfigürasyonda dökme yükler için motorlu kepçe ve kapasitörlü hibrit tahrik bulunacak.",
+        "Vincin 2027’nin ilk çeyreği bitmeden faaliyete geçmesi bekleniyor."
+      ],
+      "suggested_tags": [
+        "Tisur",
+        "Konecranes Gottwald",
+        "mobil liman vinci",
+        "hibrit tahrik",
+        "Matarani Limanı"
+      ],
+      "suggested_sector": "liman",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "Port Strategy metninde belirtilen sipariş, model, kapasite, yük türleri, motorlu kepçe ve hibrit tahrik konfigürasyonu.",
+        "Kaynakta verilen sipariş dönemi ve beklenen devreye alma takvimi.",
+        "Hibrit sistemin enerji tüketimi ve emisyonları azaltma hedefi ile gelecekte tam elektrikli işletime geçiş olanağı."
+      ],
+      "uncertainty_notes": [
+        "Enerji tüketimi ve emisyon azaltımına ilişkin bilgiler kaynakta hedef/üretici açıklaması niteliğinde; bağımsız saha verisi veya nicel performans sonucu verilmemiş.",
+        "Haber, sektör yayınına dayalıdır; önemli teknik iddialar ve konfigürasyon ayrıntıları için üretici veya işletmeci kaynaklarıyla birincil doğrulama gerekir."
+      ],
+      "generated_at": "2026-11-12T13:29:13.915Z",
+      "generated_by": "github-models"
     }
   },
   {
