@@ -93,7 +93,7 @@
   },
   {
     "id": "deb562f419e04daf",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "EIMA VIDEO: FPT debuts third-generation F28 hybrid engine at EIMA 2026",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/agriculture/eima-video-fpt-debuts-third-generation-f28-hybrid-engine-at-eima-2026.html",
@@ -110,14 +110,40 @@
     "editorial_fit_score": 79,
     "summary_source": "FPT Industrial has brought highlights from it’s off-highway engine lineup to EIMA International 2026 in Bologna, Italy, headlined by the first trade-show appearance of its third-generation F28 Hybrid powertrain. Turin, [...] The post EIMA VIDEO: FPT debuts third-generation F28 hybrid engine at EIMA 2026 appeared first on Industrial Vehicle Technology International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "FPT, üçüncü nesil F28 hibrit motorunu EIMA 2026’da tanıttı",
+      "dek_tr": "FPT Industrial, F28 hibrit güç aktarma sisteminin üçüncü neslini EIMA International 2026’da ilk kez bir fuarda sergiledi. Haberde N45, F36 ve Cursor 13 motorlarının da güncellendiği belirtiliyor.",
+      "summary_tr": "iVT International’ın haberine göre FPT Industrial, EIMA International 2026’da üçüncü nesil F28 Hybrid güç aktarma sistemini tanıttı. Bu, ürünün ilk fuar sergilemesi olarak aktarılıyor.\n\nHaberde FPT’nin N45, F36 ve Cursor 13 motorlarında da güncellemeler yaptığı belirtiliyor. Ancak paylaşılan kaynakta bu değişikliklerin kapsamı ve F28’in teknik özellikleri yer almıyor.",
+      "why_it_matters_tr": "Hibrit güç aktarma sistemleri tarım makinelerinde elektrifikasyonun uygulama alanlarından biri. F28’in teknik mimarisi ve hangi makine sınıflarını hedeflediği açıklanırsa, ürünün saha kullanımına etkisi daha somut değerlendirilebilir.",
+      "seo_title": "FPT üçüncü nesil F28 Hybrid’i EIMA 2026’da tanıttı",
+      "meta_description": "FPT Industrial, üçüncü nesil F28 Hybrid güç aktarma sistemini EIMA 2026’da ilk kez fuarda sergiledi; N45, F36 ve Cursor 13 güncellemeleri de bildirildi.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "FPT Industrial, üçüncü nesil F28 Hybrid’i EIMA International 2026’da sergiledi.",
+        "iVT International, bunun F28 Hybrid’in ilk fuar sergilemesi olduğunu bildiriyor.",
+        "Haberde N45, F36 ve Cursor 13 motorlarında güncellemelerden söz ediliyor."
+      ],
+      "suggested_tags": [
+        "FPT Industrial",
+        "F28 Hybrid",
+        "tarım makineleri",
+        "hibrit güç aktarma"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon",
+        "yuruyus-guc-aktarma"
+      ],
+      "source_facts_used": [
+        "iVT International’ın F28 Hybrid’in üçüncü nesli ve EIMA 2026’daki ilk fuar sergilemesi hakkındaki haberi",
+        "Kaynak açıklamasında N45, F36 ve Cursor 13 motor güncellemelerinin de anılması"
+      ],
+      "uncertainty_notes": [
+        "Girdi içinde üreticinin birincil duyurusu veya motorların teknik özellikleri bulunmuyor; teknik farklar ve uygulama alanları doğrulanamıyor."
+      ],
+      "generated_at": "2026-11-12T21:48:24.597Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -351,7 +377,7 @@
   },
   {
     "id": "5508f095099af651",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "EIMA 2026 VIDEO: New Holland’s T4 F/N/V Auto Command tractors",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/agriculture/eima-2026-video-new-hollands-t4-f-n-v-auto-command-tractors.html",
@@ -367,14 +393,41 @@
     "editorial_fit_score": 77,
     "summary_source": "At EIMA 2026, CNH’s Marco Gerbi introduces the Auto Command continuously variable transmission to the T4 F/N/V Fruit, Narrow and Vineyard tractor range, bringing the fuel efficiency and ease-of-use benefits [...] The post EIMA 2026 VIDEO: New Holland’s T4 F/N/V Auto Command tractors appeared first on Industrial Vehicle Technology International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "New Holland T4 F/N/V serisine Auto Command CVT geliyor",
+      "dek_tr": "iVT International’ın EIMA 2026 haberine göre New Holland, Auto Command sürekli değişken şanzımanı T4 F/N/V meyve, dar ve bağ traktörü serisine sunuyor. Yakıt verimliliği ve kullanım kolaylığına ilişkin faydalar kaynakta şirket temsilcisinin aktarımı olarak yer alıyor.",
+      "summary_tr": "iVT International, CNH temsilcisi Marco Gerbi’nin EIMA 2026’da Auto Command sürekli değişken şanzımanın New Holland T4 F/N/V serisine sunulmasını anlattığını bildiriyor. Seri; meyve bahçeleri, dar alanlar ve bağlar için tasarlanan traktörleri kapsıyor.\n\nKaynak, şanzımanla yakıt verimliliği ve kullanım kolaylığı faydaları sağlandığının öne sürüldüğünü aktarıyor. Paylaşılan metinde teknik değerler, şanzımanın çalışma özellikleri veya bağımsız performans karşılaştırması bulunmuyor.",
+      "why_it_matters_tr": "Dar ve özel amaçlı traktörlerde şanzıman seçimi, operatör kontrolü ve çalışma çevrimine uyum açısından önem taşıyabilir. Auto Command’ın bu serideki uygulamasının etkisini değerlendirmek için teknik veriler ve saha sonuçları gerekir.",
+      "seo_title": "New Holland T4 F/N/V traktörlere Auto Command CVT",
+      "meta_description": "New Holland, iVT International’ın EIMA 2026 haberine göre Auto Command sürekli değişken şanzımanı T4 F/N/V özel amaçlı traktör serisine sunuyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Auto Command sürekli değişken şanzıman, habere göre New Holland T4 F/N/V serisine sunuluyor.",
+        "T4 F/N/V, kaynakta meyve, dar ve bağ traktörleri olarak tanımlanıyor.",
+        "Yakıt verimliliği ve kullanım kolaylığı faydaları kaynakta CNH temsilcisinin aktarımıyla yer alıyor."
+      ],
+      "suggested_tags": [
+        "New Holland",
+        "Auto Command",
+        "CVT",
+        "özel amaçlı traktör",
+        "EIMA"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "yuruyus-guc-aktarma"
+      ],
+      "source_facts_used": [
+        "iVT International’ın Auto Command şanzımanın T4 F/N/V serisine sunulmasına dair haberi",
+        "Kaynağın seriyi meyve, dar ve bağ traktörleri olarak tanımlaması",
+        "Kaynağın verimlilik ve kullanım kolaylığı faydalarını şirket temsilcisine atfetmesi"
+      ],
+      "uncertainty_notes": [
+        "Girdi içinde üreticinin birincil teknik duyurusu veya şanzıman özellikleri yer almıyor; fayda iddiaları bağımsız test sonucu olarak doğrulanmış değil."
+      ],
+      "generated_at": "2026-11-12T21:48:24.597Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -4409,7 +4462,7 @@
   },
   {
     "id": "caa70a0cc2823f6f",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "165hp Chinese twin-track tractor",
     "source_name": "profi",
     "source_url": "https://www.profi.co.uk/news/165hp-chinese-twin-track-tractor/",
@@ -4426,14 +4479,43 @@
     "editorial_fit_score": 79,
     "summary_source": "A Chinese tractor highlight at EIMA is the 165hp rubber-tracked model from Landtrac Heavy Industry. Developed with input from MANN, the Chinese manufacturer’s Rome-based importer, the Stage V six-cylinder Yuchai motor is mated to a 12fx4r Chinese-made mechanical transmission with a top speed of 18km/hr. Rear lift capacity of the nearly 7-tonne tractor is 8 […] The post 165hp Chinese twin-track tractor appeared first on Profi.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Landtrac, EIMA’da 165 hp çift paletli traktörünü sergiledi",
+      "dek_tr": "profi’nin haberine göre yaklaşık 7 tonluk traktör, Stage V uyumlu altı silindirli Yuchai motor ve 12 ileri/4 geri mekanik şanzımanla donatılıyor. Modelin azami hızı 18 km/sa olarak aktarılıyor.",
+      "summary_tr": "profi, Landtrac Heavy Industry’nin EIMA’da 165 hp gücünde, kauçuk paletli bir traktör sergilediğini bildiriyor. Haberde modelin yaklaşık 7 ton ağırlığında olduğu ve geliştirme sürecine üreticinin Roma merkezli ithalatçısı MANN’ın katkı sunduğu belirtiliyor.\n\nAktarılan güç aktarma düzeninde Stage V uyumlu altı silindirli Yuchai motor, Çin üretimi 12 ileri/4 geri mekanik şanzımanla eşleştiriliyor. Habere göre azami hız 18 km/sa. Metindeki arka kaldırma kapasitesi bilgisi tamamlanmadığı için bu taslağa alınmadı.",
+      "why_it_matters_tr": "Kauçuk paletli yürüyüş düzeni, traktörün çekiş ve zeminle etkileşim özellikleri bakımından teknik açıdan incelenmeye değer. Ancak kaynak, bu modelin belirli tarla koşullarındaki performansına ilişkin ölçüm veya karşılaştırma sunmuyor.",
+      "seo_title": "Landtrac’ın 165 hp çift paletli traktörü EIMA’da",
+      "meta_description": "profi’ye göre Landtrac’ın yaklaşık 7 tonluk çift kauçuk paletli traktörü, Stage V Yuchai motor ve 12 ileri/4 geri mekanik şanzıman kullanıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "profi, Landtrac Heavy Industry modelini 165 hp ve kauçuk paletli olarak tanımlıyor.",
+        "Haberde traktörün ağırlığı yaklaşık 7 ton olarak veriliyor.",
+        "Güç aktarma sistemi Stage V uyumlu altı silindirli Yuchai motor ve 12 ileri/4 geri mekanik şanzıman olarak aktarılıyor.",
+        "Haberde azami hız 18 km/sa olarak belirtiliyor."
+      ],
+      "suggested_tags": [
+        "Landtrac",
+        "traktör",
+        "kauçuk palet",
+        "Yuchai",
+        "EIMA"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "yuruyus-guc-aktarma",
+        "emisyon-stage-v"
+      ],
+      "source_facts_used": [
+        "profi’nin traktörün gücü, kauçuk paletli yapısı ve yaklaşık ağırlığı hakkındaki haberi",
+        "Haberde belirtilen Yuchai motor, mekanik şanzıman, azami hız ve geliştirme katkısı bilgileri"
+      ],
+      "uncertainty_notes": [
+        "Girdi içinde üretici veya resmi kurum kaynağı bulunmuyor; teknik bilgiler ikincil sektör yayınına dayanıyor ve birincil kaynakla doğrulanmalı.",
+        "Arka kaldırma kapasitesine ilişkin kaynak cümlesi kesik; kapasite değeri ve birimi doğrulanamıyor."
+      ],
+      "generated_at": "2026-11-12T21:48:24.597Z",
+      "generated_by": "github-models"
     }
   },
   {
