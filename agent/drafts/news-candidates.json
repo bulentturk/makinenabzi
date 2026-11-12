@@ -3240,7 +3240,7 @@
   },
   {
     "id": "f534da6ce88103d5",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Tisur orders new crane for Matarani Port",
     "source_name": "Port Strategy",
     "source_url": "https://www.portstrategy.com/news/container-cargo-handling/tisur-orders-new-crane-for-matarani-port/",
@@ -3291,7 +3291,9 @@
         "Haber, sektör yayınına dayalıdır; önemli teknik iddialar ve konfigürasyon ayrıntıları için üretici veya işletmeci kaynaklarıyla birincil doğrulama gerekir."
       ],
       "generated_at": "2026-11-12T13:29:13.915Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "review_result": "auto_published",
+      "reviewed_at": "2026-11-12T15:07:59.237Z"
     }
   },
   {
