@@ -289,6 +289,35 @@
     }
   },
   {
+    "id": "1fcaccee65202d78",
+    "status": "candidate",
+    "title_original": "SYMX.AI raises another $6 million & looks to bring real physical AI results in mining",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/11/13/symx-ai-raises-another-6-million-looks-to-bring-real-physical-ai-results-in-mining/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-11-13T13:11:44.000Z",
+    "discovered_at": "2026-11-13T21:21:13.014Z",
+    "sector": "madencilik",
+    "subsector": null,
+    "technologies": [
+      "otonomi-ai",
+      "elektronik-telematik"
+    ],
+    "relevance_score": 160,
+    "editorial_fit_score": 34,
+    "summary_source": "SYMX.AI, the developer of a full-stack industrial AI platform for mobile equipment, late last month announced US$6,000,000 of Series A financing led by Ascent Capital Partners, as well as a global technology and commercial partnership with Yokohama Off-Highway Tires. SYMX.AI argues that it has built the digital infrastructure that the mining, construction and forestry industries The post SYMX.AI raises another $6 million & looks to bring real physical AI results in mining appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "4a4ebd5aa093050e",
     "status": "drafted",
     "title_original": "Epiroc on growth of Autonomous SmartROC D65 MKII drills in mining & quarrying",
@@ -2246,6 +2275,34 @@
       ],
       "generated_at": "2026-10-25T09:31:26.861Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "d285556a88035927",
+    "status": "candidate",
+    "title_original": "On the lash",
+    "source_name": "Port Strategy",
+    "source_url": "https://www.portstrategy.com/news/terminal-operations/on-the-lash/",
+    "source_feed": "https://www.portstrategy.com/feed",
+    "published_at": "2026-11-13T16:23:30.000Z",
+    "discovered_at": "2026-11-13T21:21:18.338Z",
+    "sector": "liman",
+    "subsector": null,
+    "technologies": [
+      "hidrolik"
+    ],
+    "relevance_score": 148,
+    "editorial_fit_score": 67,
+    "summary_source": "Automated container lashing to secure boxes can replace dangerous manual labour requirements on ship decks through mechanical, hydraulic, or structural systems. Dean Davison looks at the benefits and current developments",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -4885,6 +4942,34 @@
     }
   },
   {
+    "id": "67b46dceb2f96f75",
+    "status": "candidate",
+    "title_original": "Toku America Part of Collective Effort in Lahaina Wildfires Rebuild",
+    "source_name": "Construction Equipment Guide",
+    "source_url": "https://www.constructionequipmentguide.com/toku-america-part-of-collective-effort-in-lahaina-wildfires-rebuild/72767",
+    "source_feed": "https://feeds.feedburner.com/ceg",
+    "published_at": "2026-11-13T05:00:00.000Z",
+    "discovered_at": "2026-11-13T21:21:12.007Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [
+      "hidrolik"
+    ],
+    "relevance_score": 128,
+    "editorial_fit_score": 67,
+    "summary_source": "Toku America supplied STRIKER hydraulic breakers for Lahaina’s wildfire recovery, helping crews clear volcanic rock and install utilities for temporary housing. Durable equipment, onW-TOKU-LAHAINAsite training and dealer support helped keep the rebuild moving....",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "a3c4829eb6e2de34",
     "status": "drafted",
     "title_original": "How Mobile Crane Maintenance Keeps Job Sites Moving",
@@ -6567,32 +6652,6 @@
     "relevance_score": 106,
     "editorial_fit_score": 55,
     "summary_source": "Türkiye iş makinesi pazarı, 2026 yılının ilk 10 ayında toplam 10.205 adetlik satış gerçekleştirdi. Eylül ayında 1.082 adede… The post İş makinesi pazarında toparlanma arayışı sürüyor first appeared on Makina Market.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
-  },
-  {
-    "id": "49880a29678541bf",
-    "status": "candidate",
-    "title_original": "Kobelco, CNH’nin iş makineleri faaliyetlerini satın alarak küresel pazarda büyümeyi hedefliyor",
-    "source_name": "Makina Market",
-    "source_url": "https://makina-market.com.tr/kobelco-cnhnin-is-makineleri-faaliyetlerini-satin-alarak-kuresel-pazarda-buyumeyi-hedefliyor/",
-    "source_feed": "https://makina-market.com.tr/feed/",
-    "published_at": "2026-11-09T14:39:41.000Z",
-    "discovered_at": "2026-11-09T23:44:15.909Z",
-    "sector": "is-makinalari",
-    "subsector": null,
-    "technologies": [],
-    "relevance_score": 106,
-    "editorial_fit_score": 55,
-    "summary_source": "Kobelco Construction Machinery, CNH Industrial’ın inşaat ekipmanları iş kolunun yüzde 70’ini satın almak üzere anlaşmaya vardı. İki şirket,… The post Kobelco, CNH’nin iş makineleri faaliyetlerini satın alarak küresel pazarda büyümeyi hedefliyor first appeared on Makina Market.",
     "editorial": {
       "title_tr": "",
       "dek_tr": "",
