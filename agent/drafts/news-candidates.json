@@ -1236,7 +1236,7 @@
   },
   {
     "id": "0a272552edf2af93",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Software has already reshaped electric marine propulsion,  says ePropulsion",
     "source_name": "Marine Industry News",
     "source_url": "https://marineindustrynews.co.uk/epropulsion-software-has-already-reshaped-electric-marine-propulsion/",
@@ -1288,7 +1288,9 @@
         "Ürün ve işlev ayrıntıları için birincil üretici teknik duyurusu doğrulaması gerekir."
       ],
       "generated_at": "2026-11-13T12:45:00.131Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "review_result": "auto_published",
+      "reviewed_at": "2026-11-13T14:30:36.986Z"
     }
   },
   {

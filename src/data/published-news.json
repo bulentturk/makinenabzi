@@ -1,5 +1,37 @@
 [
   {
+    "id": "0a272552edf2af93",
+    "slug": "epropulsion-elektrikli-deniz-tahrikinde-yazilimin-rolu-genisliyor",
+    "title": "ePropulsion: Elektrikli deniz tahrikinde yazılımın rolü genişliyor",
+    "dek": "ePropulsion CEO’su Danny Tao, elektrikli tahrikin artık motor ve bataryanın ötesinde sistemler arası iletişim ve enerji yönetimine yöneldiğini söylüyor. Şirketin eCore konsepti, bu yaklaşımın gemi içi enerji yönetimine uzanan örneği olarak aktarılıyor.",
+    "summary": "ePropulsion kurucu ortağı ve CEO’su Danny Tao’ya göre elektrikli deniz tahrikindeki geliştirme çalışmaları daha güçlü motor veya daha büyük bataryayla sınırlı değil; tahrik, enerji depolama ve gemideki diğer tüketicilerin birlikte çalışması da önem kazanıyor.\n\nTao, şirketin ürün gamında Spirit ve Navy Evo serilerinin yanı sıra I-Series içten takma sistemler, X-Series dıştan takma motorlar, Pod Drive eSSA ve projeye özel tahrik çözümlerinin bulunduğunu belirtiyor. Şirketin eCore konsepti ise enerji üretimi, depolama, tahrik ve gemi içi tüketimi kapsayan enerji yönetimi yaklaşımını temsil ediyor.\n\nTao’nun aktardığı bağlantılı sistem işlevleri arasında uzaktan izleme, seyir kayıtları ile gemi ve batarya bilgilerine dümen mahallinden uzaktan erişim yer alıyor. Kaynak, bu açıklamaları şirket yöneticisinin değerlendirmesi olarak sunuyor.",
+    "why_it_matters": "Tekne üreticileri ve sistem entegratörleri için tahrik, depolama ve gemi içi tüketimin birlikte yönetilmesi; kurulum ve izleme gereksinimlerini etkileyebilir. Ancak eCore’un teknik kapsamı ve bu işlevlerin uygulamadaki sonuçları kaynakta ayrıntılandırılmıyor.",
+    "key_facts": [
+      "ePropulsion ürün gamında I-Series içten takma, X-Series dıştan takma ve Pod Drive eSSA çözümleri sayılıyor.",
+      "eCore, şirket tarafından entegre gemi içi enerji yönetimi konsepti olarak tanıtılıyor.",
+      "Danny Tao, bağlantılı sistem işlevleri arasında uzaktan izleme, seyir kayıtları ve gemi-batarya bilgilerine erişimi belirtiyor."
+    ],
+    "format": "gorus-analiz",
+    "sector": "marine-yatcilik",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon",
+      "elektronik-telematik"
+    ],
+    "tags": [
+      "ePropulsion",
+      "elektrikli deniz tahriki",
+      "enerji yönetimi",
+      "bağlantılı sistemler"
+    ],
+    "source_name": "Marine Industry News",
+    "source_url": "https://marineindustrynews.co.uk/epropulsion-software-has-already-reshaped-electric-marine-propulsion/",
+    "source_published_at": "2026-11-13T09:30:53.000Z",
+    "site_published_at": "2026-11-13T14:30:36.986Z",
+    "hero_image": "",
+    "publish_mode": "automatic"
+  },
+  {
     "id": "f534da6ce88103d5",
     "slug": "tisur-matarani-limani-icin-125-ton-kapasiteli-konecranes-gottwald-esp-6-siparisi-verdi",
     "title": "Tisur, Matarani Limanı için 125 ton kapasiteli Konecranes Gottwald ESP.6 siparişi verdi",
