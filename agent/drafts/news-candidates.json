@@ -348,7 +348,7 @@
   },
   {
     "id": "625cc5f752cc4604",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Tier IV to bring autonomy to some Komatsu quarry class rigid trucks and ADTs in Japan and North America",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/11/13/tier-iv-to-bring-autonomy-to-some-komatsu-quarry-class-rigid-trucks-and-adts-in-japan-and-north-america/",
@@ -364,14 +364,42 @@
     "editorial_fit_score": 77,
     "summary_source": "Japan’s Tier IV has begun joint development of autonomous driving systems for three dump truck models with Komatsu to realise the practical application of dump truck autonomous driving technology at quarrying and civil engineering sites in Japan and North America. EARTHBRAIN Inc, a subsidiary of Tier IV, and Komatsu have been collaborating since September 2025 The post Tier IV to bring autonomy to some Komatsu quarry class rigid trucks and ADTs in Japan and North America appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Komatsu ve Tier IV, üç damperli kamyon modeli için otonomi geliştiriyor",
+      "dek_tr": "Tier IV, Komatsu ile taş ocağı ve inşaat sahalarına yönelik üç damperli kamyon modelinde otonom sürüş sistemi geliştirmeye başladı. Duyuruda modellerin adları ve sistemin teknik ayrıntıları yer almıyor.",
+      "summary_tr": "International Mining’in haberine göre Japonya merkezli Tier IV ile Komatsu, üç damperli kamyon modeli için otonom sürüş sistemi geliştirme çalışması yürütüyor. Hedeflenen kullanım alanları Japonya ve Kuzey Amerika’daki taş ocakları ile inşaat sahaları olarak belirtiliyor.\n\nTier IV iştiraki EARTHBRAIN’in Komatsu ile iş birliğinin Eylül 2025’ten beri sürdüğü aktarılıyor. Kaynakta araç modelleri, sensör ve kontrol mimarisi, operasyon koşulları veya uygulama takvimi hakkında bilgi bulunmuyor.",
+      "why_it_matters_tr": "Taş ocağı ve inşaat sahalarında damperli kamyonların otonom işletimi, saha içi taşıma süreçlerini etkileyebilir. Ancak bu duyuruda işlev kapsamı ve operasyonel doğrulama açıklanmadığından, uygulamanın olası etkisi konusunda kesin çıkarım yapılamaz.",
+      "seo_title": "Komatsu ve Tier IV üç kamyon için otonomi geliştiriyor",
+      "meta_description": "Tier IV ve Komatsu, Japonya ve Kuzey Amerika’daki taş ocağı ve inşaat sahaları için üç damperli kamyon modelinde otonomi geliştiriyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Tier IV ve Komatsu, üç damperli kamyon modeli için otonom sürüş sistemi geliştiriyor.",
+        "Hedef kullanım alanları Japonya ve Kuzey Amerika’daki taş ocakları ve inşaat sahaları olarak belirtiliyor.",
+        "EARTHBRAIN ile Komatsu arasındaki iş birliğinin Eylül 2025’ten beri sürdüğü aktarılıyor."
+      ],
+      "suggested_tags": [
+        "Komatsu",
+        "Tier IV",
+        "EARTHBRAIN",
+        "otonom damperli kamyon",
+        "taş ocağı"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "otonomi-ai"
+      ],
+      "source_facts_used": [
+        "Üç damperli kamyon modeli için ortak otonom sürüş sistemi geliştirme çalışması",
+        "Japonya ve Kuzey Amerika’daki taş ocağı ve inşaat sahalarının hedeflenmesi",
+        "EARTHBRAIN-Komatsu iş birliğinin başlangıcının Eylül 2025 olarak aktarılması"
+      ],
+      "uncertainty_notes": [
+        "Kaynak metin kısa ve HTTP 403 nedeniyle ayrıntılara erişilemiyor; model adları, sistem mimarisi, uygulama takvimi ve teknik farklar doğrulanamıyor.",
+        "Önemli teknik iddialar ve iş birliği kapsamı için Komatsu, Tier IV veya EARTHBRAIN’in birincil duyurusu kontrol edilmeli."
+      ],
+      "generated_at": "2026-11-13T12:45:00.131Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -1208,7 +1236,7 @@
   },
   {
     "id": "0a272552edf2af93",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Software has already reshaped electric marine propulsion,  says ePropulsion",
     "source_name": "Marine Industry News",
     "source_url": "https://marineindustrynews.co.uk/epropulsion-software-has-already-reshaped-electric-marine-propulsion/",
@@ -1225,14 +1253,42 @@
     "editorial_fit_score": 91,
     "summary_source": "Electric propulsion has evolved beyond motors and batteries towards integrated systems that coordinate propulsion, energy storage and onboard consumption. In this third instalment of Marine Industry News’ series on manufacturers becoming software makers, ePropulsion co-founder and CEO Danny Tao explains how connected propulsion, bespoke installations and the company’s eCore energy management concept reflect a wider […] The post Software has already reshaped electric marine propulsion, says ePropulsion appeared first on Marine Industry News.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "ePropulsion: Elektrikli deniz tahrikinde yazılımın rolü genişliyor",
+      "dek_tr": "ePropulsion CEO’su Danny Tao, elektrikli tahrikin artık motor ve bataryanın ötesinde sistemler arası iletişim ve enerji yönetimine yöneldiğini söylüyor. Şirketin eCore konsepti, bu yaklaşımın gemi içi enerji yönetimine uzanan örneği olarak aktarılıyor.",
+      "summary_tr": "ePropulsion kurucu ortağı ve CEO’su Danny Tao’ya göre elektrikli deniz tahrikindeki geliştirme çalışmaları daha güçlü motor veya daha büyük bataryayla sınırlı değil; tahrik, enerji depolama ve gemideki diğer tüketicilerin birlikte çalışması da önem kazanıyor.\n\nTao, şirketin ürün gamında Spirit ve Navy Evo serilerinin yanı sıra I-Series içten takma sistemler, X-Series dıştan takma motorlar, Pod Drive eSSA ve projeye özel tahrik çözümlerinin bulunduğunu belirtiyor. Şirketin eCore konsepti ise enerji üretimi, depolama, tahrik ve gemi içi tüketimi kapsayan enerji yönetimi yaklaşımını temsil ediyor.\n\nTao’nun aktardığı bağlantılı sistem işlevleri arasında uzaktan izleme, seyir kayıtları ile gemi ve batarya bilgilerine dümen mahallinden uzaktan erişim yer alıyor. Kaynak, bu açıklamaları şirket yöneticisinin değerlendirmesi olarak sunuyor.",
+      "why_it_matters_tr": "Tekne üreticileri ve sistem entegratörleri için tahrik, depolama ve gemi içi tüketimin birlikte yönetilmesi; kurulum ve izleme gereksinimlerini etkileyebilir. Ancak eCore’un teknik kapsamı ve bu işlevlerin uygulamadaki sonuçları kaynakta ayrıntılandırılmıyor.",
+      "seo_title": "ePropulsion elektrikli deniz tahrikinde yazılımı öne çıkarıyor",
+      "meta_description": "ePropulsion CEO’su, bağlantılı tahrik ve eCore enerji yönetimi yaklaşımını anlatıyor. Teknik kapsam ve saha sonuçları kaynakta ayrıntılı değil.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "ePropulsion ürün gamında I-Series içten takma, X-Series dıştan takma ve Pod Drive eSSA çözümleri sayılıyor.",
+        "eCore, şirket tarafından entegre gemi içi enerji yönetimi konsepti olarak tanıtılıyor.",
+        "Danny Tao, bağlantılı sistem işlevleri arasında uzaktan izleme, seyir kayıtları ve gemi-batarya bilgilerine erişimi belirtiyor."
+      ],
+      "suggested_tags": [
+        "ePropulsion",
+        "elektrikli deniz tahriki",
+        "enerji yönetimi",
+        "bağlantılı sistemler"
+      ],
+      "suggested_sector": "marine-yatcilik",
+      "editorial_format": "gorus-analiz",
+      "suggested_technologies": [
+        "elektrifikasyon",
+        "elektronik-telematik"
+      ],
+      "source_facts_used": [
+        "Danny Tao’nun elektrikli tahrikte sistemler arası koordinasyon ve yazılımın rolüne ilişkin değerlendirmesi",
+        "Kaynakta listelenen ePropulsion ürün aileleri ve eCore konsepti",
+        "Uzaktan izleme, seyir kayıtları ve gemi-batarya bilgilerine erişim işlevleri"
+      ],
+      "uncertainty_notes": [
+        "Kaynak bir sektör yayınının yönetici söyleşisi; eCore’un teknik özellikleri, uyumluluk kapsamı ve bağımsız saha performansı verilmemiş.",
+        "Ürün ve işlev ayrıntıları için birincil üretici teknik duyurusu doğrulaması gerekir."
+      ],
+      "generated_at": "2026-11-13T12:45:00.131Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -1764,7 +1820,7 @@
   },
   {
     "id": "53568dd53487c828",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "EIMA VIDEO: New Holland launches new T2S compact tractors: transmissions, loader and OPG explained",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/videos/eima-2026-new-holland-launches-new-t2s-compact-tractors-transmissions-loader-and-opg-explained.html",
@@ -1778,14 +1834,41 @@
     "editorial_fit_score": 65,
     "summary_source": "Ashish Gupta, product manager, New Holland Compact Tractors, introduces the new T2S series at EIMA in Bologna and explains the engineering behind it. Covering 35 to 57hp and powered by [...] The post EIMA VIDEO: New Holland launches new T2S compact tractors: transmissions, loader and OPG explained appeared first on Industrial Vehicle Technology International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "New Holland, EIMA’da T2S kompakt traktör serisini tanıttı",
+      "dek_tr": "iVT International’ın haber özeti, yeni T2S serisini 35–57 hp aralığında tanımlıyor. Video başlığı şanzıman, yükleyici ve operatör koruma yapısına (OPG) değiniyor; teknik ayrıntılar sağlanan metinde bulunmuyor.",
+      "summary_tr": "iVT International’ın EIMA 2026 haberine göre New Holland, T2S kompakt traktör serisini fuarda tanıttı. Haber özeti serinin 35–57 hp aralığında olduğunu belirtiyor.\n\nVideo başlığı, ürün yöneticisi Ashish Gupta’nın şanzıman, yükleyici ve OPG hakkında açıklama yaptığını bildiriyor. Ancak sağlanan kaynak metni yalnızca yayın bilgilerini içerdiği için bu bileşenlerin seçenekleri, teknik özellikleri ve pazara sunulma ayrıntıları aktarılamıyor.",
+      "why_it_matters_tr": "Kompakt traktörlerde şanzıman ve yükleyici gibi donanımlar kullanım senaryolarını ve saha verimliliğini etkileyebilir. Bu kaynakta teknik farklar açıklanmadığından, T2S’nin mevcut çözümlerden ayrıldığı noktaları değerlendirmek için ek üretici bilgisi gerekir.",
+      "seo_title": "New Holland T2S kompakt traktör serisini EIMA’da tanıttı",
+      "meta_description": "New Holland’ın EIMA 2026’da tanıttığı T2S kompakt traktör serisi 35–57 hp aralığında. Şanzıman ve donanım ayrıntıları kaynakta yer almıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "New Holland T2S kompakt traktör serisi EIMA 2026’da tanıtılmış olarak aktarılıyor.",
+        "Haber özeti güç aralığını 35–57 hp olarak veriyor.",
+        "Video başlığı şanzıman, yükleyici ve OPG konularını kapsıyor."
+      ],
+      "suggested_tags": [
+        "New Holland",
+        "T2S",
+        "kompakt traktör",
+        "EIMA 2026",
+        "tarım makineleri"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "yuruyus-guc-aktarma"
+      ],
+      "source_facts_used": [
+        "Haber özeti T2S serisini EIMA’da tanıtılan ve 35–57 hp aralığında bir seri olarak bildiriyor.",
+        "Video başlığı şanzıman, yükleyici ve OPG konularının ele alındığını belirtiyor."
+      ],
+      "uncertainty_notes": [
+        "Sağlanan kaynak metninde ürün ayrıntıları yok; güç aralığı haber özetinden alınmıştır.",
+        "Şanzıman türü, yükleyici özellikleri, OPG yapılandırması, model seçenekleri ve teknik yenilikler doğrulanamıyor; birincil üretici bilgisi gerekir."
+      ],
+      "generated_at": "2026-11-13T12:45:00.131Z",
+      "generated_by": "github-models"
     }
   },
   {
