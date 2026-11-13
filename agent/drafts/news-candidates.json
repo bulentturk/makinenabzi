@@ -100,7 +100,7 @@
     "source_feed": "https://www.ivtinternational.com/feed",
     "published_at": "2026-11-12T13:59:20.000Z",
     "discovered_at": "2026-11-12T21:47:26.436Z",
-    "sector": "tarim",
+    "sector": "is-makinalari",
     "subsector": null,
     "technologies": [
       "elektrifikasyon",
@@ -289,35 +289,6 @@
     }
   },
   {
-    "id": "b50e13cad0c06b42",
-    "status": "candidate",
-    "title_original": "Sandvik out to automate rock bolt analysis with xCell Vision",
-    "source_name": "International Mining",
-    "source_url": "https://im-mining.com/2026/11/09/sandvik-out-to-automate-rock-bolt-analysis-with-xcell-vision/",
-    "source_feed": "https://im-mining.com/feed/",
-    "published_at": "2026-11-09T11:31:18.000Z",
-    "discovered_at": "2026-11-09T13:29:37.033Z",
-    "sector": "madencilik",
-    "subsector": "yeraltı-madenciliği",
-    "technologies": [
-      "otonomi-ai",
-      "elektronik-telematik"
-    ],
-    "relevance_score": 162,
-    "editorial_fit_score": 36,
-    "summary_source": "Sandvik has launched xCell® Vision, a cloud-based solution that uses AI and LiDAR scan data to automate rock bolt analysis for ground support QA/QC in underground mining and tunneling. The software identifies and classifies installed rock bolts and measures parameters including bolt count, spacing, orientation and tail length, helping geotechnical teams assess ground support installations The post Sandvik out to automate rock bolt analysis with xCell Vision appeared first on International Mining.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
-  },
-  {
     "id": "4a4ebd5aa093050e",
     "status": "drafted",
     "title_original": "Epiroc on growth of Autonomous SmartROC D65 MKII drills in mining & quarrying",
@@ -373,6 +344,34 @@
       ],
       "generated_at": "2026-11-08T11:38:02.185Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "625cc5f752cc4604",
+    "status": "candidate",
+    "title_original": "Tier IV to bring autonomy to some Komatsu quarry class rigid trucks and ADTs in Japan and North America",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/11/13/tier-iv-to-bring-autonomy-to-some-komatsu-quarry-class-rigid-trucks-and-adts-in-japan-and-north-america/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-11-13T11:29:02.000Z",
+    "discovered_at": "2026-11-13T12:43:49.483Z",
+    "sector": "madencilik",
+    "subsector": null,
+    "technologies": [
+      "otonomi-ai"
+    ],
+    "relevance_score": 158,
+    "editorial_fit_score": 77,
+    "summary_source": "Japan’s Tier IV has begun joint development of autonomous driving systems for three dump truck models with Komatsu to realise the practical application of dump truck autonomous driving technology at quarrying and civil engineering sites in Japan and North America. EARTHBRAIN Inc, a subsidiary of Tier IV, and Komatsu have been collaborating since September 2025 The post Tier IV to bring autonomy to some Komatsu quarry class rigid trucks and ADTs in Japan and North America appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -1205,6 +1204,35 @@
       ],
       "generated_at": "2026-11-11T12:20:05.475Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "0a272552edf2af93",
+    "status": "candidate",
+    "title_original": "Software has already reshaped electric marine propulsion,  says ePropulsion",
+    "source_name": "Marine Industry News",
+    "source_url": "https://marineindustrynews.co.uk/epropulsion-software-has-already-reshaped-electric-marine-propulsion/",
+    "source_feed": "https://marineindustrynews.co.uk/feed/",
+    "published_at": "2026-11-13T09:30:53.000Z",
+    "discovered_at": "2026-11-13T12:43:49.390Z",
+    "sector": "marine-yatcilik",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon",
+      "elektronik-telematik"
+    ],
+    "relevance_score": 154,
+    "editorial_fit_score": 91,
+    "summary_source": "Electric propulsion has evolved beyond motors and batteries towards integrated systems that coordinate propulsion, energy storage and onboard consumption. In this third instalment of Marine Industry News’ series on manufacturers becoming software makers, ePropulsion co-founder and CEO Danny Tao explains how connected propulsion, bespoke installations and the company’s eCore energy management concept reflect a wider […] The post Software has already reshaped electric marine propulsion, says ePropulsion appeared first on Marine Industry News.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -5468,67 +5496,6 @@
     }
   },
   {
-    "id": "43cba926614d87a5",
-    "status": "published",
-    "title_original": "Dingli, Bauma China’da 60 metrelik platform serisini tanıtacak",
-    "source_name": "LHT",
-    "source_url": "https://www.lht.com.tr/dingli-bauma-chinada-60-metrelik-platform-serisini-tanitacak/",
-    "source_feed": "https://www.lht.com.tr/feed/",
-    "published_at": "2026-11-09T08:13:30.000Z",
-    "discovered_at": "2026-11-09T13:29:39.868Z",
-    "sector": "arac-ustu-ekipman",
-    "subsector": null,
-    "technologies": [
-      "elektrifikasyon"
-    ],
-    "relevance_score": 123,
-    "editorial_fit_score": 77,
-    "summary_source": "Dingli, 23–27 Kasım 2026 tarihleri arasında Çin’in Şanghay kentinde düzenlenecek Bauma China Fuarı’nda 60 metre çalışma yüksekliğine sahip yeni BT60 teleskopik bomlu platform serisini tanıtmaya hazırlanıyor. Dizel BT60RT ve elektrikli BT60ERT modellerinden oluşan seri, yüksek çalışma erişimi, düşük işletme maliyetleri ve sürdürülebilirlik odaklı tasarımıyla öne çıkıyor. Personel yükseltici platform üreticisi Dingli, ultra yüksek çalışma erişimine […]",
-    "editorial": {
-      "title_tr": "Dingli, 60 metrelik BT60 platform serisini Bauma China’da tanıtacak",
-      "dek_tr": "LHT’nin haberine göre seri, dizel BT60RT ve elektrikli BT60ERT modellerinden oluşuyor ve Bauma China’da tanıtılması planlanıyor. Haberde ayrıca cam montajı ve altyapı bakımı gibi uygulamalara yönelik özel ekipmanlar aktarılıyor.",
-      "summary_tr": "LHT, Dingli’nin 23–27 Kasım 2026’da Şanghay’da düzenlenecek Bauma China’da 60 metre çalışma yüksekliğine sahip BT60 teleskopik bomlu platform serisini tanıtmasının beklendiğini bildiriyor. Haberde seri, dizel BT60RT ve elektrikli BT60ERT modelleriyle anılıyor. Elektrikli model için yüksek voltajlı batarya sistemi ve sıfır emisyonlu, düşük gürültülü çalışma özellikleri aktarılıyor.\n\nAynı haberde, cam montajı için sekiz vakum vantuzlu ve 1.500 kilogram kaldırma kapasiteli bir bomlu platformdan; demir yolu ve kara yolu altyapısında kullanılacak raylı personel platformundan da söz ediliyor. Bu ürünlere ilişkin bilgiler LHT’nin haberine dayanıyor; kaynak girdisinde Dingli’nin resmi teknik duyurusu bulunmuyor.",
-      "why_it_matters_tr": "60 metre sınıfındaki platformlarda erişim yüksekliğinin yanı sıra şantiye koşullarında manevra ve güç seçeneği önem taşıyor. Dizel ve elektrikli varyantların birlikte sunulması, kiralama ve altyapı uygulamalarında saha koşullarına göre makine seçimine yönelik bir örnek olabilir; performans ve işletme etkisi için resmi teknik veriler gerekir.",
-      "seo_title": "Dingli BT60: Bauma China’da 60 metrelik platform",
-      "meta_description": "LHT’ye göre Dingli, dizel BT60RT ve elektrikli BT60ERT modellerinden oluşan 60 metre çalışma yüksekliğindeki platform serisini Bauma China’da tanıtacak.",
-      "hero_image": "",
-      "reviewed": false,
-      "key_facts": [
-        "LHT haberine göre BT60 serisinin çalışma yüksekliği 60 metre.",
-        "Haberde dizel BT60RT ve elektrikli BT60ERT modelleri yer alıyor.",
-        "LHT, Bauma China tarihlerini 23–27 Kasım 2026 olarak veriyor.",
-        "Haberde cam taşıma sisteminin sekiz vakum vantuzu ve 1.500 kilogram kaldırma kapasitesi olduğu belirtiliyor."
-      ],
-      "suggested_tags": [
-        "Dingli",
-        "personel yükseltici platform",
-        "teleskopik bom",
-        "elektrikli iş makinesi",
-        "Bauma China"
-      ],
-      "suggested_sector": "is-makinalari",
-      "editorial_format": "haber",
-      "suggested_technologies": [
-        "elektrifikasyon",
-        "yuruyus-guc-aktarma"
-      ],
-      "source_facts_used": [
-        "LHT’nin verdiği fuar tarihleri ve BT60 serisinin 60 metre çalışma yüksekliği.",
-        "LHT’nin aktardığı BT60RT dizel ve BT60ERT elektrikli model ayrımı.",
-        "LHT haberindeki cam taşıma sistemi için vantuz sayısı ve kaldırma kapasitesi."
-      ],
-      "uncertainty_notes": [
-        "Girdi içinde Dingli’nin resmi ürün duyurusu veya teknik föyü yok; model adları, teknik özellikler ve fuar planı birincil üretici kaynağından doğrulanmalıdır.",
-        "Sıfır emisyon, düşük gürültü, parça uyumluluğu ve maliyet hedefleri LHT haberinde aktarılan iddialardır; bağımsız test sonucu olarak değerlendirilmemelidir.",
-        "Cam taşıma sisteminin kapasitesi ve diğer özel ekipman özellikleri de üretici kaynaklarıyla teyit edilmelidir."
-      ],
-      "generated_at": "2026-11-09T13:30:43.026Z",
-      "generated_by": "github-models",
-      "review_result": "auto_published",
-      "reviewed_at": "2026-11-09T16:11:00.333Z"
-    }
-  },
-  {
     "id": "da971c7bddc6a900",
     "status": "drafted",
     "title_original": "A 550-Ton Scalpel: ALL Heavyweight All-Terrain Crane Lends Precision to Columbus High-Rise Demolition",
@@ -5579,32 +5546,6 @@
       ],
       "generated_at": "2026-11-10T13:09:56.867Z",
       "generated_by": "github-models"
-    }
-  },
-  {
-    "id": "4d5ef91d6e801a18",
-    "status": "candidate",
-    "title_original": "Liebherr's  Wheel Loader Begins Trial Operation",
-    "source_name": "Construction Equipment Guide",
-    "source_url": "https://www.constructionequipmentguide.com/liebherrs-wheel-loader-begins-trial-operation/72726",
-    "source_feed": "https://feeds.feedburner.com/ceg",
-    "published_at": "2026-11-09T05:00:00.000Z",
-    "discovered_at": "2026-11-09T23:44:12.821Z",
-    "sector": "is-makinalari",
-    "subsector": null,
-    "technologies": [],
-    "relevance_score": 120,
-    "editorial_fit_score": 55,
-    "summary_source": "...",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
     }
   },
   {
@@ -5760,32 +5701,6 @@
       ],
       "generated_at": "2026-11-09T13:30:43.026Z",
       "generated_by": "github-models"
-    }
-  },
-  {
-    "id": "fe3a0edbd087cfca",
-    "status": "candidate",
-    "title_original": "TBM cutterhead lowered for Poland’s high-speed railway",
-    "source_name": "Tunnels & Tunnelling",
-    "source_url": "https://www.tunnelsandtunnelling.com/news/tbm-cutterhead-lowered-for-polands-high-speed-railway/",
-    "source_feed": "https://www.tunnelsandtunnelling.com/feed/",
-    "published_at": "2026-11-09T11:25:39.000Z",
-    "discovered_at": "2026-11-09T13:29:36.343Z",
-    "sector": "is-makinalari",
-    "subsector": null,
-    "technologies": [],
-    "relevance_score": 116,
-    "editorial_fit_score": 55,
-    "summary_source": "TBM cutterhead lowered for Poland’s high-speed railway. The variable density TBM was previously deployed on the Hampton Roads Bridge-Tunnel in the US. The post TBM cutterhead lowered for Poland’s high-speed railway appeared first on Tunnels and Tunnelling.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
     }
   },
   {
@@ -6042,6 +5957,32 @@
       ],
       "generated_at": "2026-10-20T09:45:23.236Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "d64c5571ab478143",
+    "status": "candidate",
+    "title_original": "Sinoboom, Holland Lift markalı ilk makaslı platformunu Bauma China 2026’da tanıtacak",
+    "source_name": "LHT",
+    "source_url": "https://www.lht.com.tr/sinoboom-holland-lift-markali-ilk-makasli-platformunu-bauma-china-2026da-tanitacak/",
+    "source_feed": "https://www.lht.com.tr/feed/",
+    "published_at": "2026-11-13T10:36:51.000Z",
+    "discovered_at": "2026-11-13T12:43:51.511Z",
+    "sector": "arac-ustu-ekipman",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 115,
+    "editorial_fit_score": 55,
+    "summary_source": "Sinoboom, Holland Lift markasıyla geliştirdiği ilk makaslı platform modeli HL-220 E25’i Bauma China 2026’da ilk kez sergileyecek. Üretici, yeni makaslı platformun yanı sıra farklı çalışma yüksekliklerine sahip eklemli ve teleskopik personel yükseltici platformlar, kompakt telehandler ve yeni teknolojilerini de fuarda sektörün beğenisine sunacak. Çin merkezli personel yükseltici platform üreticisi Sinoboom, 24-27 Kasım 2026 tarihleri arasında […]",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
