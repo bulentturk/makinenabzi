@@ -2279,7 +2279,7 @@
   },
   {
     "id": "d285556a88035927",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "On the lash",
     "source_name": "Port Strategy",
     "source_url": "https://www.portstrategy.com/news/terminal-operations/on-the-lash/",
@@ -2295,14 +2295,45 @@
     "editorial_fit_score": 67,
     "summary_source": "Automated container lashing to secure boxes can replace dangerous manual labour requirements on ship decks through mechanical, hydraulic, or structural systems. Dean Davison looks at the benefits and current developments",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "KALP’nin otomatik bağlama platformu liman sahasında işçi maruziyetini azaltmayı hedefliyor",
+      "dek_tr": "KALP GmbH’nin Automatic Lashing Platform (ALP) sistemi, konteyner gemilerinde twistlock ve stacker takma-sökme işlemlerini otomatikleştirmek üzere tasarlanmış. Kaynakta sistemin hidrolik çalışma prensibi, uzaktan kontrol seçenekleri ve Almanya’daki terminal uygulamaları aktarılıyor.",
+      "summary_tr": "Konteynerlerin gemi güvertesinde sabitlenmesi ve çözülmesi, liman çalışanlarının hareketli ekipmanların ve askıdaki yüklerin yakınında çalışmasını gerektirebiliyor. Haberde aktarılan TT Club değerlendirmesine göre bu görev, konteyner terminallerindeki önemli iş güvenliği risklerinden biri olmaya devam ediyor.\n\nHaberde tanıtılan KALP GmbH ALP, twistlock ve stacker işlemlerini otomatikleştiren bir platform. Kaynağa göre sistem, harici güç kaynağı olmadan konteyner ve vinç spreader’ının ağırlığını kullanarak çalışan dahili bir hidrolik düzeneğe sahip; konfigürasyona bağlı olarak 1.000’den fazla twistlock veya 2.000’e kadar stacker depolayabiliyor. Terminal ağı ve yazılımı ya da el cihazı üzerinden uzaktan izleme ve kontrol de mümkün.\n\nKaynak, sistemin 2021’de Almanya’daki terminallerde kullanılmaya başladığını ve 2024’te yeni bir uygulama yapıldığını bildiriyor. Ayrıca otomatik bağlama çözümlerinin yaygınlaşmasının önünde standartlaştırma ve farklı sistemlerin uyumluluğu gibi engeller bulunduğunu belirtiyor.",
+      "why_it_matters_tr": "Limanlardaki otomasyon yatırımları yalnızca çevrim süresini değil, çalışanların vinç ve askıdaki yüklerin yakınında geçirdiği süreyi de etkileyebilir. Farklı gemi ve terminal düzenleriyle uyumluluk, bu tür sistemlerin daha geniş ölçekte uygulanmasında belirleyici olacaktır.",
+      "seo_title": "KALP ALP otomatik konteyner bağlama platformu",
+      "meta_description": "KALP GmbH’nin ALP platformu konteyner bağlama işlemlerini otomatikleştiriyor. Sistemin hidrolik yapısı, kapasitesi ve terminal kullanımı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "ALP, twistlock ve stacker takma-sökme işlemlerini otomatikleştirmek için tasarlanmış.",
+        "Kaynağa göre sistem, konteyner ve spreader ağırlığıyla çalışan dahili hidrolik düzeneğe sahip.",
+        "Konfigürasyona bağlı depolama kapasitesi 1.000’den fazla twistlock veya 2.000’e kadar stacker olarak veriliyor.",
+        "Kaynak, Almanya’da 2021 ve 2024 yıllarında terminal uygulamalarından söz ediyor."
+      ],
+      "suggested_tags": [
+        "konteyner terminali",
+        "otomatik bağlama",
+        "liman güvenliği",
+        "hidrolik sistem"
+      ],
+      "suggested_sector": "liman",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "hidrolik",
+        "elektronik-telematik"
+      ],
+      "source_facts_used": [
+        "TT Club’ın manuel bağlama işinin vinçler ve askıdaki yükler yakınındaki iş güvenliği risklerine ilişkin değerlendirmesi",
+        "Kaynakta verilen ALP sistem mimarisi, depolama kapasitesi ve uzaktan kontrol seçenekleri",
+        "Almanya’daki 2021 ve 2024 terminal uygulamalarına ilişkin haber bilgisi",
+        "Otomatik bağlama sistemlerinde standardizasyon ve uyumluluk sorunu bulunduğuna ilişkin kaynak aktarımı"
+      ],
+      "uncertainty_notes": [
+        "Girdi, sektör yayını haberidir; üretici veya kurumun özgün teknik açıklaması ayrıca sağlanmadığından ALP’ye ilişkin teknik iddialar birincil kaynaktan doğrulanmalıdır.",
+        "Kaynak metninin sonunda içerik kesiliyor; bazı bölümlerde ALP ve ALG kısaltmaları tutarsız kullanılıyor.",
+        "Sistem kapasitesi ve terminal uygulamalarına ilişkin bilgiler bağımsız saha testi sonucu olarak değerlendirilmemelidir."
+      ],
+      "generated_at": "2026-11-13T21:22:17.418Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -4580,7 +4611,7 @@
   },
   {
     "id": "9288b9a553e66ec3",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Konecranes secures mobile harbor crane order for Peru’s Port of Matarani",
     "source_name": "Container News",
     "source_url": "https://container-news.com/konecranes-secures-mobile-harbor-crane-order-for-perus-port-of-matarani/",
@@ -4594,14 +4625,46 @@
     "editorial_fit_score": 65,
     "summary_source": "Konecranes has received an order from Terminal Internacional del Sur (Tisur) for a new mobile harbor crane at the Port of Matarani in southern Peru. The order marks the company’s first sale of a factory-new mobile harbor crane in Peru. The agreement covers one Konecranes Gottwald ESP.6 Mobile Harbor Crane. It was recorded in the […] The post Konecranes secures mobile harbor crane order for Peru’s Port of Matarani appeared first on Container News.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Konecranes, Peru’daki Matarani Limanı’na Gottwald ESP.6 vinç sağlayacak",
+      "dek_tr": "Terminal Internacional del Sur (Tisur), Matarani Limanı için bir adet Konecranes Gottwald ESP.6 mobil liman vinci sipariş etti. Hibrit tahrikli vincin 125 ton azami kaldırma kapasitesi olacak ve gelecekte tam elektrikli işletime dönüştürülebilecek.",
+      "summary_tr": "Konecranes, Peru’nun güneyindeki Matarani Limanı’nda faaliyet gösteren Terminal Internacional del Sur’un (Tisur) bir adet Gottwald ESP.6 mobil liman vinci siparişi aldığını bildiriyor. Sipariş 2026’nın üçüncü çeyreğinde kayda geçti; ekipmanın 2027 Mart ayı sonuna kadar işletmeye alınması bekleniyor.\n\nVinç; konteyner, genel kargo ve proje yüklerinin elleçlenmesinde kullanılacak ve azami 125 ton kaldırma kapasitesine sahip olacak. Hibrit tahrik sistemi, enerji tüketimini ve emisyonları azaltmak üzere kapasitörler kullanıyor; tasarımın ileride tam elektrikli işletime dönüşüme izin verdiği belirtiliyor. Tisur ayrıca dökme yük elleçlemesi için motorlu kavrayıcı seçti.\n\nSipariş, Tisur’un 598 milyon ABD doları tutarındaki liman modernizasyon programının bir parçası. İşletmeci, daha önce kullandığı eski bir Konecranes Gottwald vincine ilişkin deneyiminin yeni ekipman kararında rol oynadığını belirtiyor.",
+      "why_it_matters_tr": "Hibrit tahrik ve gelecekte tam elektrikli işletime geçiş olanağı, farklı yük türlerine hizmet veren mobil liman vinçlerinde enerji dönüşümünün nasıl kademelendirilebileceğine dair somut bir örnek sunuyor. Gerçek tüketim ve emisyon etkisi ise ekipman sahada çalışmaya başladıktan sonra ölçülebilir.",
+      "seo_title": "Konecranes Gottwald ESP.6 Matarani Limanı’na gidiyor",
+      "meta_description": "Tisur, Matarani Limanı için 125 ton kapasiteli Gottwald ESP.6 sipariş etti. Hibrit vinç, ileride tam elektrikli işletime dönüştürülebilecek.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Sipariş, bir adet Konecranes Gottwald ESP.6 mobil liman vincini kapsıyor.",
+        "Vinç için bildirilen azami kaldırma kapasitesi 125 ton.",
+        "Ekipmanın konteyner, genel kargo ve proje yüklerinde kullanılması planlanıyor.",
+        "Hibrit tahrik sistemi kapasitör kullanıyor; tasarım gelecekte tam elektrikli işletime dönüşüme uygun.",
+        "İşletmeye alma hedefi 2027 Mart ayı sonu olarak veriliyor."
+      ],
+      "suggested_tags": [
+        "Konecranes",
+        "Gottwald ESP.6",
+        "mobil liman vinci",
+        "hibrit tahrik",
+        "Matarani Limanı"
+      ],
+      "suggested_sector": "liman",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "Tisur’un bir adet Gottwald ESP.6 siparişi verdiği ve siparişin 2026 üçüncü çeyreğinde kayda geçtiği bilgisi",
+        "125 ton azami kaldırma kapasitesi ve planlanan yük türleri",
+        "Kapasitörlü hibrit tahrik ve gelecekte tam elektrikli işletime dönüşüm olanağı",
+        "2027 Mart sonuna kadar işletmeye alma hedefi",
+        "Siparişin Tisur’un liman modernizasyon programı kapsamındaki yeri"
+      ],
+      "uncertainty_notes": [
+        "Tahrik sisteminin enerji ve emisyon azaltımına ilişkin ifade kaynakta verilen üretici/işletme açıklamasıdır; bağımsız performans ölçümü sunulmamıştır.",
+        "Sipariş ve teknik özellikler için girdi dışında birincil üretici duyurusu ayrıca doğrulanmamıştır."
+      ],
+      "generated_at": "2026-11-13T21:22:17.418Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -4943,7 +5006,7 @@
   },
   {
     "id": "67b46dceb2f96f75",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Toku America Part of Collective Effort in Lahaina Wildfires Rebuild",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/toku-america-part-of-collective-effort-in-lahaina-wildfires-rebuild/72767",
@@ -4959,14 +5022,42 @@
     "editorial_fit_score": 67,
     "summary_source": "Toku America supplied STRIKER hydraulic breakers for Lahaina’s wildfire recovery, helping crews clear volcanic rock and install utilities for temporary housing. Durable equipment, onW-TOKU-LAHAINAsite training and dealer support helped keep the rebuild moving....",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Toku America, Lahaina’daki yeniden inşa çalışmalarına hidrolik kırıcı sağladı",
+      "dek_tr": "Habere ilişkin sağlanan özette, Toku America’nın Lahaina’daki yangın sonrası çalışmalarda STRIKER hidrolik kırıcılar tedarik ettiği belirtiliyor. Ekipmanın volkanik kaya temizliği ve geçici konutlar için altyapı kurulumunda kullanıldığı aktarılıyor.",
+      "summary_tr": "Construction Equipment Guide’ın sağlanan haber özetine göre Toku America, Lahaina’daki yangın sonrası yeniden inşa çalışmalarına STRIKER hidrolik kırıcılar sağladı. Ekipmanların volkanik kayanın temizlenmesi ve geçici konutlar için altyapı kurulması çalışmalarına destek verdiği bildiriliyor.\n\nÖzette ayrıca sahada eğitim ve bayi desteğinin ekipmanın kullanımına eşlik ettiği ifade ediliyor. Ancak sağlanan kaynak içeriği yalnızca kısa bir özetten oluştuğu için kırıcıların modeli, teknik özellikleri, çalışma süresi veya projedeki ölçülebilir katkısı belirtilmiyor.",
+      "why_it_matters_tr": "Afet sonrası altyapı çalışmalarında hidrolik kırıcılar, sert kaya ve enkazla karşılaşılan sahalarda iş makinalarının kullanım alanını genişletebilir. Bu örnekte uygulamanın kapsamı ve ekipman performansı hakkında ayrıntılı veri bulunmadığından sektörel çıkarım sınırlı tutulmalı.",
+      "seo_title": "Toku STRIKER kırıcılar Lahaina’daki çalışmalarda",
+      "meta_description": "Toku America’nın STRIKER hidrolik kırıcıları, sağlanan habere göre Lahaina’da kaya temizliği ve geçici konut altyapısı çalışmalarında kullanıldı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Sağlanan özete göre Toku America, Lahaina’daki çalışmalara STRIKER hidrolik kırıcılar tedarik etti.",
+        "Kırıcıların volkanik kaya temizliği ve geçici konutlar için altyapı kurulumunda kullanıldığı bildiriliyor.",
+        "Özette saha eğitimi ve bayi desteğinden söz ediliyor."
+      ],
+      "suggested_tags": [
+        "Toku America",
+        "STRIKER",
+        "hidrolik kırıcı",
+        "afet sonrası yeniden inşa"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "hidrolik"
+      ],
+      "source_facts_used": [
+        "Sağlanan haber özetinde Toku America’nın STRIKER hidrolik kırıcı tedarik ettiğinin belirtilmesi",
+        "Kırıcıların volkanik kaya temizliği ve geçici konut altyapısı çalışmalarında kullanıldığı bilgisi",
+        "Saha eğitimi ve bayi desteği verildiğine ilişkin özet bilgisi"
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası alınamadı; yalnızca kısa RSS özeti mevcut.",
+        "Model, teknik özellikler, proje takvimi ve ölçülebilir saha performansı hakkında bilgi verilmedi.",
+        "Tedarik ve uygulama ayrıntıları üretici veya proje tarafının birincil açıklamasından doğrulanmalıdır."
+      ],
+      "generated_at": "2026-11-13T21:22:17.418Z",
+      "generated_by": "github-models"
     }
   },
   {
