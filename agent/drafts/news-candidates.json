@@ -62,36 +62,6 @@
     "subsector": null
   },
   {
-    "id": "02be99ddc640947b",
-    "status": "candidate",
-    "title_original": "Schneider Electric explores technology convergence in mining",
-    "source_name": "International Mining",
-    "source_url": "https://im-mining.com/2026/11/10/schneider-electric-explores-technology-convergence-in-mining/",
-    "source_feed": "https://im-mining.com/feed/",
-    "published_at": "2026-11-10T11:57:25.000Z",
-    "discovered_at": "2026-11-10T13:08:57.261Z",
-    "sector": "madencilik",
-    "subsector": null,
-    "technologies": [
-      "elektrifikasyon",
-      "otonomi-ai",
-      "elektronik-telematik"
-    ],
-    "relevance_score": 170,
-    "editorial_fit_score": 36,
-    "summary_source": "Schneider Electric says it is bringing together electrification, automation and digital intelligence to help mines operate as AI-powered, software-defined platforms that connect energy and industrial intelligence. AI across three connected layers The company describes three layers through which it helps mining companies apply AI: Connected devices: Intelligent devices sense operating conditions and provide data and The post Schneider Electric explores technology convergence in mining appeared first on International Mining.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
-  },
-  {
     "id": "deb562f419e04daf",
     "status": "drafted",
     "title_original": "EIMA VIDEO: FPT debuts third-generation F28 hybrid engine at EIMA 2026",
@@ -1758,32 +1728,6 @@
       ],
       "generated_at": "2026-11-11T21:51:15.966Z",
       "generated_by": "github-models"
-    }
-  },
-  {
-    "id": "2a825d9f0abe6665",
-    "status": "candidate",
-    "title_original": "2027 Tractor of the Year award winners announced at EIMA",
-    "source_name": "iVT International",
-    "source_url": "https://www.ivtinternational.com/news/agriculture/2027-tractor-of-the-year-award-winners-announced-at-eima.html",
-    "source_feed": "https://www.ivtinternational.com/feed",
-    "published_at": "2026-11-10T18:53:52.000Z",
-    "discovered_at": "2026-11-10T21:14:54.796Z",
-    "sector": "tarim",
-    "subsector": null,
-    "technologies": [],
-    "relevance_score": 150,
-    "editorial_fit_score": 55,
-    "summary_source": "Six machines have been named winners of the 2027 Tractor of the Year awards, presented at EIMA International. The six winners were chosen by a jury of 26 journalists from [...] The post 2027 Tractor of the Year award winners announced at EIMA appeared first on Industrial Vehicle Technology International.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
     }
   },
   {
@@ -4113,32 +4057,6 @@
     }
   },
   {
-    "id": "bb35c7dbb296a135",
-    "status": "candidate",
-    "title_original": "“Good-Bye, Manual Labor!” — Mini Skid Steer Buyer’s Guide 2026",
-    "source_name": "Equipment World",
-    "source_url": "https://www.equipmentworld.com/construction-equipment/compact-equipment/compact-utility-loaders/article/16425003/mini-skid-steer-buyers-guide-2026-from-equipment-world",
-    "source_feed": "https://www.equipmentworld.com/feed/",
-    "published_at": "2026-11-10T17:00:00.000Z",
-    "discovered_at": "2026-11-10T21:14:55.160Z",
-    "sector": "is-makinalari",
-    "subsector": null,
-    "technologies": [],
-    "relevance_score": 135,
-    "editorial_fit_score": 55,
-    "summary_source": "Stand-on mini loader sales have nearly quadrupled, making them more popular than wheel loaders while saving workers' backs.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
-  },
-  {
     "id": "f81aa8c3fde2ea4c",
     "status": "drafted",
     "title_original": "Wolverine Debuts American-Made Loader II Boots for USA's 250th Year",
@@ -4656,6 +4574,34 @@
       ],
       "generated_at": "2026-11-12T21:48:24.597Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "992bf07dba561512",
+    "status": "candidate",
+    "title_original": "Port of Long Beach records lowest emissions per container",
+    "source_name": "Container News",
+    "source_url": "https://container-news.com/port-of-long-beach-records-lowest-emissions-per-container/",
+    "source_feed": "https://container-news.com/feed/",
+    "published_at": "2026-11-14T16:21:14.000Z",
+    "discovered_at": "2026-11-14T19:51:01.617Z",
+    "sector": "marine-yatcilik",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "relevance_score": 130,
+    "editorial_fit_score": 77,
+    "summary_source": "The Port of Long Beach’s 2025 emissions inventory shows emissions per container at an all-time low, even as terminals handled a record of nearly 9.9 million TEUs. The reductions are attributed to strategic investment in zero-emissions equipment, greater use of shore power and more frequent calls by cleaner ships. Compared with the prior year, diesel […] The post Port of Long Beach records lowest emissions per container appeared first on Container News.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -5321,32 +5267,6 @@
     }
   },
   {
-    "id": "3164bd84256c04cf",
-    "status": "candidate",
-    "title_original": "Claas scoops up 2 awards at TOTY 2027, AgXeed wins again with AgBot",
-    "source_name": "Future Farming",
-    "source_url": "https://www.futurefarming.com/machinery/claas-scoops-two-awards-at-toty-2027-agxeed-wins-again-with-agbot/",
-    "source_feed": "https://www.futurefarming.com/feed/",
-    "published_at": "2026-11-12T07:00:00.000Z",
-    "discovered_at": "2026-11-12T13:28:08.442Z",
-    "sector": "tarim",
-    "subsector": null,
-    "technologies": [],
-    "relevance_score": 125,
-    "editorial_fit_score": 55,
-    "summary_source": "Claas scoops two awards at TOTY 2027, AgXeed wins again with AgBot 6 Tractor of the Year (TOTY)",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
-  },
-  {
     "id": "1f3711f5193f98d3",
     "status": "drafted",
     "title_original": "New Deutz-Fahr 6K Series at Italian show",
@@ -5398,20 +5318,20 @@
     }
   },
   {
-    "id": "cb66b77296b19fab",
+    "id": "3164bd84256c04cf",
     "status": "candidate",
-    "title_original": "EIMA 2026: Main tractor markets struggling",
-    "source_name": "profi",
-    "source_url": "https://www.profi.co.uk/news/eima-2026-main-tractor-markets-struggling/",
-    "source_feed": "https://www.profi.co.uk/feed/",
-    "published_at": "2026-11-10T18:03:09.000Z",
-    "discovered_at": "2026-11-10T21:14:56.080Z",
+    "title_original": "Claas scoops up 2 awards at TOTY 2027, AgXeed wins again with AgBot",
+    "source_name": "Future Farming",
+    "source_url": "https://www.futurefarming.com/machinery/claas-scoops-two-awards-at-toty-2027-agxeed-wins-again-with-agbot/",
+    "source_feed": "https://www.futurefarming.com/feed/",
+    "published_at": "2026-11-12T07:00:00.000Z",
+    "discovered_at": "2026-11-12T13:28:08.442Z",
     "sector": "tarim",
     "subsector": null,
     "technologies": [],
     "relevance_score": 125,
     "editorial_fit_score": 55,
-    "summary_source": "Farmers are buying fewer new tractors in most of the major markets, including North and South America, Canada and Europe. Speaking at a press conference to kick off the Italian show, Mariateresa Maschio, president of the Italian FederUnacoma trade association, said the economic climate and the crisis in farm incomes is holding back the global […] The post EIMA 2026: Main tractor markets struggling appeared first on Profi.",
+    "summary_source": "Claas scoops two awards at TOTY 2027, AgXeed wins again with AgBot 6 Tractor of the Year (TOTY)",
     "editorial": {
       "title_tr": "",
       "dek_tr": "",
