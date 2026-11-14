@@ -1452,7 +1452,7 @@
   },
   {
     "id": "55250f89811111dc",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "EIMA VIDEO: Cummins F4.5 Structural engine debuts in Claas Arion tractor",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/agriculture/eima-video-cummins-f4-5-structural-engine-debuts-in-claas-arion-tractor.html",
@@ -1466,14 +1466,39 @@
     "editorial_fit_score": 55,
     "summary_source": "Cummins has introduced its F4.5 Structural engine in the new Claas Arion 4 Cmatic tractor, marking the engine’s first application in a tractor. The range-topping Arion 4.150 Cmatic, powered by [...] The post EIMA VIDEO: Cummins F4.5 Structural engine debuts in Claas Arion tractor appeared first on Industrial Vehicle Technology International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Cummins F4.5 Structural motor ilk kez bir traktör uygulamasında",
+      "dek_tr": "iVT International’ın haber özetine göre Cummins F4.5 Structural motor, yeni Claas Arion 4 Cmatic traktörde ilk kez kullanılıyor. Girdi, motorun teknik değerleri ve güç aktarma sistemi ayrıntılarını vermiyor.",
+      "summary_tr": "iVT International’ın EIMA haber özetinde, Cummins F4.5 Structural motorun yeni Claas Arion 4 Cmatic traktörde kullanıldığı ve bunun motorun ilk traktör uygulaması olduğu aktarılıyor. Haber başlığı ve sayfa açıklaması da motor-traktör eşleşmesini doğruluyor.\n\nKaynak girdisi, motor gücü, torku, emisyon seviyesi veya traktörün diğer teknik özellikleri hakkında ayrıntı sunmuyor. Bu nedenle uygulamanın performansa etkisi hakkında çıkarım yapmak için yeterli bilgi bulunmuyor.",
+      "why_it_matters_tr": "Bir motorun ilk traktör uygulaması, mobil makine güç aktarma çözümlerinin farklı araç sınıflarına uyarlanmasını izlemek açısından önem taşıyor. Ancak motorun traktördeki teknik katkısını değerlendirmek için güç, tork, emisyon ve entegrasyon bilgileri gerekli.",
+      "seo_title": "Cummins F4.5 Structural Claas Arion 4 Cmatic’te",
+      "meta_description": "Cummins F4.5 Structural motor, iVT International’ın haber özetine göre yeni Claas Arion 4 Cmatic traktörde ilk traktör uygulamasını buldu.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Kaynak, Cummins F4.5 Structural motoru yeni Claas Arion 4 Cmatic traktörle ilişkilendiriyor.",
+        "Haber özeti bu uygulamayı motorun ilk traktör kullanımı olarak nitelendiriyor.",
+        "Girdi motorun teknik değerlerini açıklamıyor."
+      ],
+      "suggested_tags": [
+        "Cummins",
+        "F4.5 Structural",
+        "Claas Arion 4 Cmatic",
+        "traktör motoru",
+        "tarım makinaları"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "iVT International haber özeti, F4.5 Structural motorun yeni Claas Arion 4 Cmatic’te kullanıldığını ve ilk traktör uygulaması olduğunu bildiriyor.",
+        "Sayfa açıklaması motor ve traktör model adlarını destekliyor."
+      ],
+      "uncertainty_notes": [
+        "Girdi, haber sayfasının esas metni yerine kısa bir sayfa başlığı/açıklaması ve yayın bilgisi içeriyor; motor ve traktöre ilişkin teknik özellikler doğrulanamıyor.",
+        "İlk traktör uygulaması iddiası ile ürün teknik bilgileri üretici kaynaklarından doğrulanmalı; bağımsız performans verisi sunulmamış."
+      ],
+      "generated_at": "2026-11-14T11:53:40.356Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -4523,7 +4548,7 @@
   },
   {
     "id": "4203821fd348e22e",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Konecranes secures first overseas ESP.4 crane order in Bermuda",
     "source_name": "Container News",
     "source_url": "https://container-news.com/konecranes-secures-first-overseas-esp-4-crane-order-in-bermuda/",
@@ -4537,14 +4562,42 @@
     "editorial_fit_score": 65,
     "summary_source": "Konecranes has secured an order for a Gottwald ESP.4 Mobile Harbor Crane from Stevedoring Services Limited (SSL) in Bermuda, marking the model’s first order outside Europe. The Finnish equipment manufacturer booked the order during the third quarter of 2026. Delivery is scheduled for the third quarter of 2027. SSL plans to use the new crane […] The post Konecranes secures first overseas ESP.4 crane order in Bermuda appeared first on Container News.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Konecranes Gottwald ESP.4 için Bermuda’dan ilk Avrupa dışı sipariş",
+      "dek_tr": "Stevedoring Services Limited, konteyner ve genel yük elleçlemesinde kullanmak üzere Gottwald ESP.4 mobil liman vinci siparişi verdi. Teslimatın 2027’nin üçüncü çeyreğinde yapılması planlanıyor.",
+      "summary_tr": "Konecranes, Bermuda’daki Stevedoring Services Limited’in (SSL) Gottwald ESP.4 siparişini 2026’nın üçüncü çeyreğinde aldı. Kaynağa göre bu, modelin Avrupa dışındaki ilk siparişi. SSL vinci öncelikle konteyner elleçlemede, ayrıca genel ve proje yüklerinde kullanmayı planlıyor.\n\nKaynakta ESP.4’ün azami kaldırma kapasitesi 100 ton, azami çalışma yarıçapı 42 metre ve kaldırma hızı 120 m/dakikaya kadar olarak veriliyor. SSL’nin mevcut Gottwald HMK 170 E vinci için belirtilen kapasite 60 ton. ESP.4, Konecranes’in Generation 6 mobil liman vinci serisinin en küçük modeli olarak tanımlanıyor.",
+      "why_it_matters_tr": "Daha küçük limanlar için tasarlanan bir mobil vincin konteyner ile ağır/proje yüklerini aynı ekipmanda ele alma hedefi, sınırlı saha alanına sahip terminaller açısından değerlendirilebilir. Gerçek elleçleme verimi ve operasyonel kazanımlar, ekipman Bermuda’da devreye alındıktan sonra görülebilecek.",
+      "seo_title": "Konecranes Gottwald ESP.4 Bermuda’ya teslim edilecek",
+      "meta_description": "SSL, konteyner ve genel yük elleçlemesi için Gottwald ESP.4 sipariş etti. 100 ton kapasiteli mobil liman vincinin teslimatı 2027’de planlanıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Sipariş sahibi Bermuda merkezli Stevedoring Services Limited.",
+        "Sipariş 2026’nın üçüncü çeyreğinde alındı; planlanan teslimat 2027’nin üçüncü çeyreği.",
+        "Kaynak ESP.4 için 100 ton azami kaldırma kapasitesi ve 42 metre azami çalışma yarıçapı bildiriyor.",
+        "Kaynakta kaldırma hızı 120 m/dakikaya kadar veriliyor.",
+        "Sözleşme bedeli açıklanmadı."
+      ],
+      "suggested_tags": [
+        "Konecranes",
+        "Gottwald ESP.4",
+        "mobil liman vinci",
+        "konteyner elleçleme",
+        "Bermuda"
+      ],
+      "suggested_sector": "liman",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Container News metninde Konecranes’in SSL’den aldığı sipariş ve Avrupa dışındaki ilk ESP.4 siparişi olduğu belirtiliyor.",
+        "Kaynak, kullanım planını konteyner, genel ve proje yükleri olarak aktarıyor.",
+        "Kaynakta kapasite, çalışma yarıçapı, kaldırma hızı ve planlanan teslimat dönemi veriliyor."
+      ],
+      "uncertainty_notes": [
+        "Girdi, üreticinin veya liman işletmesinin birincil duyurusunu içermiyor; teknik özellikler ve sipariş ayrıntıları birincil kaynakla doğrulanmalı.",
+        "Kapasite ve hız değerleri kaynakta bildirilen ürün özellikleridir; bağımsız saha performansı olarak değerlendirilmemelidir. Operasyonel kazanımlar henüz gerçekleşmiş sonuçlar değildir."
+      ],
+      "generated_at": "2026-11-14T11:53:40.356Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -5295,7 +5348,7 @@
   },
   {
     "id": "1f3711f5193f98d3",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "New Deutz-Fahr 6K Series at Italian show",
     "source_name": "profi",
     "source_url": "https://www.profi.co.uk/news/new-deutz-fahr-6k-series-at-italian-show/",
@@ -5309,14 +5362,39 @@
     "editorial_fit_score": 65,
     "summary_source": "Comprising three models from 150 to 175hp, the new 6K range launched at EIMA is described as a true allrounder. Designed to strengthen the brand’s presence in this power segment with a multi-functional tractor that is equally at home in the field, on the road, or with a loader, many key components, including the engine, […] The post New Deutz-Fahr 6K Series at Italian show appeared first on Profi.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "DEUTZ-FAHR 6K serisi EIMA’da tanıtıldı",
+      "dek_tr": "Kaynak özetine göre yeni 6K serisi, 150–175 hp aralığında üç traktör modelinden oluşuyor. Serinin EIMA’da tanıtıldığı bildiriliyor.",
+      "summary_tr": "Profi’nin haber özetinde DEUTZ-FAHR 6K serisinin üç model içerdiği ve güç aralığının 150–175 hp olduğu belirtiliyor. Seri EIMA’da tanıtılmış.\n\nÖzet, traktörlerin tarla, yol ve yükleyici uygulamalarında kullanılmak üzere konumlandırıldığını aktarıyor. Motor ve diğer temel bileşenlere ilişkin ayrıntılar kaynak girdisinde yer almıyor.",
+      "why_it_matters_tr": "150–175 hp aralığındaki yeni seri, tarımsal traktörlerde farklı çalışma ortamları için sunulan ürün seçenekleri bakımından takip edilmeye değer. Motor, transmisyon ve hidrolik gibi seçim ölçütlerine ilişkin teknik ayrıntı olmadan kullanım performansı hakkında daha ileri değerlendirme yapılamaz.",
+      "seo_title": "DEUTZ-FAHR 6K serisi: üç model, 150–175 hp",
+      "meta_description": "DEUTZ-FAHR’ın EIMA’da tanıttığı 6K serisi, kaynak özetine göre 150–175 hp aralığında üç traktör modelinden oluşuyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "6K serisinin üç modelden oluştuğu bildiriliyor.",
+        "Kaynak özetinde güç aralığı 150–175 hp olarak veriliyor.",
+        "Serinin EIMA’da tanıtıldığı belirtiliyor."
+      ],
+      "suggested_tags": [
+        "DEUTZ-FAHR",
+        "6K serisi",
+        "traktör",
+        "tarım makinaları",
+        "EIMA"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Profi haber özetinde üç model ve 150–175 hp güç aralığı belirtiliyor.",
+        "Kaynak özeti serinin EIMA’da tanıtıldığını ve tarla, yol ve yükleyici kullanımına yönelik konumlandırıldığını aktarıyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası 403 hatası verdiği için girdi yalnızca kısa haber özetini içeriyor; model adları ve motor, transmisyon, hidrolik gibi teknik özellikler doğrulanamıyor.",
+        "Ürün özellikleri ve kullanım iddiaları için üreticinin birincil duyurusu kontrol edilmeli."
+      ],
+      "generated_at": "2026-11-14T11:53:40.356Z",
+      "generated_by": "github-models"
     }
   },
   {
