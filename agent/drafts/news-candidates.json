@@ -1473,7 +1473,7 @@
   },
   {
     "id": "930bf3c9a59cace6",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "EIMA VIDEO: Valtra’s sixth generation T Series tractor",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/agriculture/eima-video-valtras-sixth-generation-t-series-tractor.html",
@@ -1487,14 +1487,38 @@
     "editorial_fit_score": 55,
     "summary_source": "At EIMA, Aapo Aijasaho, sales director, Western, Central & Eastern Europe, Valtra, presents the OEM’s sixth generation T Series which combines a redesigned high-performance platform, the AGCO Power CORE75 engine [...] The post EIMA VIDEO: Valtra’s sixth generation T Series tractor appeared first on Industrial Vehicle Technology International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Valtra’nın altıncı nesil T Serisi: mevcut kaynakta sınırlı teknik bilgi",
+      "dek_tr": "iVT International’ın EIMA videosuna ilişkin özet, altıncı nesil T Serisi’nde yeniden tasarlanmış bir platform ve AGCO Power CORE75 motor bulunduğunu belirtiyor. Motor özellikleri ve traktörün teknik konumlandırması hakkında ayrıntı verilmemiş.",
+      "summary_tr": "iVT International’ın EIMA 2026 video içeriği, Valtra’nın altıncı nesil T Serisi traktörünü ele alıyor. Sağlanan özette seri için yeniden tasarlanmış, yüksek performanslı bir platform ile AGCO Power CORE75 motora yer verildiği belirtiliyor.\n\nKaynak girdisinde motor gücü, aktarma organları, hidrolik kapasite, donanım seçenekleri veya önceki nesle göre yapılan değişiklikler açıklanmıyor. Bu nedenle modelin teknik farkları ve kullanım senaryoları mevcut bilgilerle değerlendirilemiyor.",
+      "why_it_matters_tr": "Yeni nesil traktörlerde platform ve motor değişiklikleri tarımsal iş kapasitesini etkileyebilir; ancak bu girdide karşılaştırma yapmaya yetecek teknik veri yok. Teknik değerlendirme için üretici teknik dokümanı veya daha ayrıntılı kaynak gerekir.",
+      "seo_title": "Valtra T Serisi’nin altıncı nesli hakkında ilk bilgiler",
+      "meta_description": "iVT International’ın EIMA videosu Valtra’nın altıncı nesil T Serisi’ni ve AGCO Power CORE75 motoru anıyor; teknik ayrıntılar sınırlı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "İçerik, Valtra T Serisi’nin altıncı neslini konu alıyor.",
+        "Sağlanan özette yeniden tasarlanmış bir platformdan söz ediliyor.",
+        "Özette AGCO Power CORE75 motor adı geçiyor."
+      ],
+      "suggested_tags": [
+        "Valtra",
+        "T Serisi",
+        "tarım traktörü",
+        "AGCO Power CORE75",
+        "EIMA 2026"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Başlık ve özetin Valtra T Serisi’nin altıncı neslini konu alması",
+        "Özette yeniden tasarlanmış platform ve AGCO Power CORE75 motor bilgisinin verilmesi"
+      ],
+      "uncertainty_notes": [
+        "Kaynak metninde teknik özellikler bulunmuyor; motor gücü, aktarma sistemi ve nesiller arası değişiklikler üreticinin birincil teknik kaynağından doğrulanmalı."
+      ],
+      "generated_at": "2026-11-14T19:52:13.289Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -1548,7 +1572,7 @@
   },
   {
     "id": "1af08d7db9df5fd7",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "EIMA VIDEO: Massey Ferguson’s award-winning MF 7S Mark 2 tractor",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/videos/eima-video-massey-fergusons-award-winning-mf-7s-mark-2-tractor.html",
@@ -1562,14 +1586,38 @@
     "editorial_fit_score": 55,
     "summary_source": "At EIMA International 2026, Massey Ferguson’s Antoine Blaineau gives us an insight into the Tractor of the Year (TOTY) MidPower award winner, the MF 7S Mark 2. The 7S Mark [...] The post EIMA VIDEO: Massey Ferguson’s award-winning MF 7S Mark 2 tractor appeared first on Industrial Vehicle Technology International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Massey Ferguson MF 7S Mark 2, TOTY MidPower ödülünü aldı",
+      "dek_tr": "iVT International’ın EIMA 2026 içeriğine ilişkin özeti, MF 7S Mark 2’nin Tractor of the Year MidPower ödülünü kazandığını ve 7,5 litrelik AGCO Power motor kullandığını bildiriyor. Kaynak girdisinde motor gücü ve diğer teknik özellikler yer almıyor.",
+      "summary_tr": "iVT International’ın EIMA 2026 video içeriği, Massey Ferguson MF 7S Mark 2’yi ve modelin Tractor of the Year (TOTY) MidPower ödülünü ele alıyor. Sağlanan özet, traktörde 7,5 litrelik AGCO Power motor bulunduğunu belirtiyor.\n\nGirdi, ödülün değerlendirme ölçütlerini veya motor gücü, transmisyon ve hidrolik sistem gibi teknik ayrıntıları içermiyor. Bu nedenle ödülün gerekçesi ya da traktörün performansı hakkında daha ileri bir teknik çıkarım yapılamıyor.",
+      "why_it_matters_tr": "Ödül bilgisi ve motor hacmi modeli tanımlamaya yardımcı olsa da tarımsal iş kapasitesini değerlendirmek için tek başına yeterli değil. Motor gücü ve aktarma özellikleri gibi veriler, traktörün uygulama alanını ve benzer modellerle karşılaştırmasını belirler.",
+      "seo_title": "MF 7S Mark 2 TOTY MidPower ödülünü kazandı",
+      "meta_description": "iVT International’ın EIMA 2026 özeti, Massey Ferguson MF 7S Mark 2’nin TOTY MidPower ödülünü ve 7,5 litrelik AGCO Power motorunu aktarıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Model, sağlanan özette Massey Ferguson MF 7S Mark 2 olarak belirtiliyor.",
+        "Özet, modelin TOTY MidPower ödülünü kazandığını bildiriyor.",
+        "Özette 7,5 litrelik AGCO Power motordan söz ediliyor."
+      ],
+      "suggested_tags": [
+        "Massey Ferguson",
+        "MF 7S Mark 2",
+        "tarım traktörü",
+        "AGCO Power",
+        "TOTY MidPower"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Başlık ve özette Massey Ferguson MF 7S Mark 2’nin konu edilmesi",
+        "Özette TOTY MidPower ödülü ve 7,5 litrelik AGCO Power motor bilgisinin yer alması"
+      ],
+      "uncertainty_notes": [
+        "Ödül ve motor bilgileri bu girdideki iVT International başlık/özetine dayanıyor; ödülün ölçütleri ve motorun teknik verileri için birincil kaynak doğrulaması gerekli."
+      ],
+      "generated_at": "2026-11-14T19:52:13.289Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -4578,7 +4626,7 @@
   },
   {
     "id": "992bf07dba561512",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Port of Long Beach records lowest emissions per container",
     "source_name": "Container News",
     "source_url": "https://container-news.com/port-of-long-beach-records-lowest-emissions-per-container/",
@@ -4594,14 +4642,42 @@
     "editorial_fit_score": 77,
     "summary_source": "The Port of Long Beach’s 2025 emissions inventory shows emissions per container at an all-time low, even as terminals handled a record of nearly 9.9 million TEUs. The reductions are attributed to strategic investment in zero-emissions equipment, greater use of shore power and more frequent calls by cleaner ships. Compared with the prior year, diesel […] The post Port of Long Beach records lowest emissions per container appeared first on Container News.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Long Beach Limanı’nda konteyner başına emisyonlar en düşük seviyede",
+      "dek_tr": "Limanın 2025 envanterine göre konteyner hacmi yaklaşık 9,9 milyon TEU ile rekor kırarken konteyner başına emisyonlar tüm zamanların en düşük seviyesine indi. Bir önceki yıla kıyasla dizel partikül madde, azot oksit, kükürt oksit ve sera gazı emisyonları geriledi.",
+      "summary_tr": "Long Beach Limanı’nın 2025 emisyon envanteri, terminallerin yaklaşık 9,9 milyon TEU yük elleçlediği dönemde konteyner başına emisyonların kaydedilen en düşük düzeye indiğini bildiriyor. Kaynak, düşüşü sıfır emisyonlu ekipmana yapılan yatırımlara, kıyı elektriğinin daha fazla kullanılmasına ve daha temiz gemilerin limana daha sık uğramasına bağlıyor.\n\nBir önceki yıla göre dizel partikül madde emisyonları yüzde 7, azot oksitler yüzde 9, kükürt oksitler yüzde 9 ve sera gazları yüzde 6 azaldı. 2017’de güncellenen Temiz Hava Eylem Planı’ndan bu yana dizel partikül madde yüzde 13, azot oksitler yüzde 34 ve kükürt oksitler yüzde 29 geriledi; sera gazları ise yüzde 9 arttı. Aynı dönemde konteyner hacmi yüzde 31 büyüdü.\n\nLiman, önümüzdeki yıl sıfır emisyonlu kamyon kullanımını teşvik edecek programlar, daha temiz gemileri destekleyen teşviklerin güncellenmesi ve yük elleçleme ekipmanı, liman araçları ve lokomotifler için sıfır emisyon altyapısı planı üzerinde çalışmayı öngörüyor.",
+      "why_it_matters_tr": "Limanlardaki emisyon azaltımı yalnız gemi kaynaklı emisyonlarla değil, terminal ekipmanı ve kara taşımacılığının dönüşümüyle de bağlantılı. Envanter, bu alanlardaki yatırımların ve kullanım teşviklerinin liman operasyonlarıyla birlikte nasıl ele alındığını gösteriyor.",
+      "seo_title": "Long Beach Limanı’nda konteyner başına emisyon rekoru",
+      "meta_description": "Long Beach Limanı’nın 2025 envanterinde konteyner başına emisyonlar en düşük seviyeye indi. Liman yaklaşık 9,9 milyon TEU yük elleçledi.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "2025’te konteyner hacmi yaklaşık 9,9 milyon TEU’ya ulaştı.",
+        "Bir önceki yıla göre dizel partikül madde yüzde 7, azot oksitler yüzde 9, kükürt oksitler yüzde 9 ve sera gazları yüzde 6 azaldı.",
+        "2017’den bu yana sera gazları yüzde 9 artarken konteyner hacmi yüzde 31 büyüdü.",
+        "Planlanan girişimler sıfır emisyonlu kamyonları, daha temiz gemilere yönelik teşvikleri ve sıfır emisyonlu yük ekipmanı altyapısını kapsıyor."
+      ],
+      "suggested_tags": [
+        "Long Beach Limanı",
+        "liman emisyonları",
+        "sıfır emisyonlu ekipman",
+        "kıyı elektriği",
+        "liman operasyonları"
+      ],
+      "suggested_sector": "liman",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "2025 emisyon envanterinde konteyner başına emisyonların en düşük seviyede olduğu ve hacmin yaklaşık 9,9 milyon TEU’ya ulaştığı bilgisi",
+        "Yıllık ve 2017’den bu yana bildirilen emisyon değişimleri ile konteyner hacmi artışı",
+        "Sıfır emisyonlu kamyon, gemi teşvikleri ve yük ekipmanı altyapısı için açıklanan planlar"
+      ],
+      "uncertainty_notes": [
+        "Veriler Container News haber metnine dayanıyor; limanın özgün emisyon envanteri bu girdide yer almadığından oranlar ve metodoloji birincil kaynak üzerinden doğrulanmalı."
+      ],
+      "generated_at": "2026-11-14T19:52:13.289Z",
+      "generated_by": "github-models"
     }
   },
   {
