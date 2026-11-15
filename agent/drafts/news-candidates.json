@@ -5473,7 +5473,7 @@
   },
   {
     "id": "3164bd84256c04cf",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Claas scoops up 2 awards at TOTY 2027, AgXeed wins again with AgBot",
     "source_name": "Future Farming",
     "source_url": "https://www.futurefarming.com/machinery/claas-scoops-two-awards-at-toty-2027-agxeed-wins-again-with-agbot/",
@@ -5487,14 +5487,38 @@
     "editorial_fit_score": 55,
     "summary_source": "Claas scoops two awards at TOTY 2027, AgXeed wins again with AgBot 6 Tractor of the Year (TOTY)",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Claas TOTY 2027’de iki ödül aldı; AgXeed AgBot 6 ile yeniden öne çıktı",
+      "dek_tr": "Future Farming’in başlığı, Claas’ın Tractor of the Year 2027’de iki ödül aldığını ve AgXeed’in AgBot 6 ile yeniden ödül kazandığını bildiriyor. Ödül kategorileri ve seçim gerekçeleri kaynak içeriğinde yer almıyor.",
+      "summary_tr": "Future Farming’in haber başlığına göre Claas, Tractor of the Year (TOTY) 2027 kapsamında iki ödül aldı.\n\nAynı başlık, AgXeed’in AgBot 6 ile bir kez daha ödül kazandığını belirtiyor. Kaynak sayfasına erişilemediği için ödül kategorileri, teknik değerlendirme ölçütleri ve sonuçların ayrıntıları doğrulanamıyor.",
+      "why_it_matters_tr": "TOTY sonuçları tarım makinesi pazarındaki ürün görünürlüğü açısından ilgi çekebilir; ancak ödül kategorileri ve teknik gerekçeler bilinmeden makinelerin teknik yeniliği hakkında çıkarım yapılamaz.",
+      "seo_title": "Claas ve AgXeed, TOTY 2027’de ödül kazandı",
+      "meta_description": "Future Farming’in haber başlığı Claas’ın TOTY 2027’de iki ödül aldığını, AgXeed’in ise AgBot 6 ile yeniden ödül kazandığını bildiriyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Future Farming başlığı Claas’ın TOTY 2027’de iki ödül aldığını bildiriyor.",
+        "Başlıkta AgXeed’in AgBot 6 ile yeniden ödül kazandığı belirtiliyor."
+      ],
+      "suggested_tags": [
+        "Tractor of the Year",
+        "Claas",
+        "AgXeed",
+        "AgBot 6",
+        "tarım makineleri"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Future Farming haber başlığında Claas için iki TOTY 2027 ödülü bildiriliyor.",
+        "Future Farming haber başlığında AgXeed ve AgBot 6 için yeniden ödül kazanımı bildiriliyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası HTTP 403 nedeniyle alınamadı; değerlendirme yalnızca başlık ve kısa özet bilgisine dayanıyor.",
+        "Ödül kategorileri, AgBot 6’nın ödül gerekçesi ve teknik özellikleri birincil kaynakla doğrulanmalı."
+      ],
+      "generated_at": "2026-11-15T20:17:03.677Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -6228,7 +6252,7 @@
   },
   {
     "id": "d64c5571ab478143",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Sinoboom, Holland Lift markalı ilk makaslı platformunu Bauma China 2026’da tanıtacak",
     "source_name": "LHT",
     "source_url": "https://www.lht.com.tr/sinoboom-holland-lift-markali-ilk-makasli-platformunu-bauma-china-2026da-tanitacak/",
@@ -6242,14 +6266,42 @@
     "editorial_fit_score": 55,
     "summary_source": "Sinoboom, Holland Lift markasıyla geliştirdiği ilk makaslı platform modeli HL-220 E25’i Bauma China 2026’da ilk kez sergileyecek. Üretici, yeni makaslı platformun yanı sıra farklı çalışma yüksekliklerine sahip eklemli ve teleskopik personel yükseltici platformlar, kompakt telehandler ve yeni teknolojilerini de fuarda sektörün beğenisine sunacak. Çin merkezli personel yükseltici platform üreticisi Sinoboom, 24-27 Kasım 2026 tarihleri arasında […]",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Sinoboom, Holland Lift HL-220 E25 makaslı platformunu tanıtacak",
+      "dek_tr": "Sinoboom, Holland Lift markasıyla geliştirdiği ilk makaslı platform HL-220 E25’i Bauma China 2026’da sergileyecek. Elektrikli modelin platform kapasitesi 750 kg, platform ölçüleri ise 4,5 × 2,3 metre olarak açıklanıyor.",
+      "summary_tr": "Sinoboom, Holland Lift markasıyla sunacağı ilk makaslı platform olan HL-220 E25’i 24-27 Kasım 2026’da Şanghay’da düzenlenecek Bauma China’da tanıtmayı planlıyor. LHT’nin aktardığı bilgilere göre model elektrikli tahrike sahip ve 750 kg platform taşıma kapasitesi sunuyor.\n\nPlatform ölçüleri 4,5 × 2,3 metre olarak belirtilen makinede çalışma sırasında dengeyi destekleyen denge ayakları bulunuyor. Model, Sinoboom’un isteğe bağlı aşırı gerilim koruma sistemiyle uyumlu çalışabiliyor.\n\nHaberde fuarda tanıtılacak diğer ürünler arasında eklemli ve teleskopik platformlar, kompakt telehandler ve mikro makaslı platform da sayılıyor. Bu ürünlere ilişkin teknik özellikler üretici açıklaması olarak aktarılıyor.",
+      "why_it_matters_tr": "HL-220 E25’in yüksek platform kapasitesi ve geniş çalışma alanı, ağır hizmet tipi yükseltici platformların çalışma sahalarındaki kullanımına yönelik bir ürün seçeneği sunabilir. Kaynakta bağımsız performans veya saha testi bulunmuyor.",
+      "seo_title": "Sinoboom, Holland Lift HL-220 E25’i tanıtacak",
+      "meta_description": "Elektrikli Holland Lift HL-220 E25, 750 kg platform kapasitesi ve 4,5 × 2,3 metrelik platformuyla Bauma China 2026’da sergilenecek.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "HL-220 E25, Holland Lift markasıyla sunulacak ilk Sinoboom makaslı platformu olarak tanıtılıyor.",
+        "Model elektrikli tahrike sahip.",
+        "Platform taşıma kapasitesi 750 kg; platform ölçüleri 4,5 × 2,3 metre.",
+        "Sinoboom, modeli Bauma China 2026’da sergilemeyi planlıyor."
+      ],
+      "suggested_tags": [
+        "Sinoboom",
+        "Holland Lift",
+        "HL-220 E25",
+        "makaslı platform",
+        "personel yükseltici platform"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "LHT içeriği HL-220 E25’in Sinoboom’un Holland Lift markalı ilk makaslı platformu olacağını bildiriyor.",
+        "Kaynak modelin elektrikli tahrikini, 750 kg kapasitesini ve 4,5 × 2,3 metre platform ölçülerini veriyor.",
+        "Kaynak, modelin Bauma China 2026’da sergileneceğini belirtiyor."
+      ],
+      "uncertainty_notes": [
+        "Teknik bilgiler ikincil sektör yayınının aktardığı üretici açıklamalarına dayanıyor; bağımsız saha testi veya birincil üretici duyurusu bu girdide sunulmamış."
+      ],
+      "generated_at": "2026-11-15T20:17:03.677Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -6736,7 +6788,7 @@
   },
   {
     "id": "8cac8d2934161656",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "İş makinesi pazarında toparlanma arayışı sürüyor",
     "source_name": "Makina Market",
     "source_url": "https://makina-market.com.tr/is-makinesi-pazarinda-toparlanma-arayisi-suruyor/",
@@ -6750,14 +6802,40 @@
     "editorial_fit_score": 55,
     "summary_source": "Türkiye iş makinesi pazarı, 2026 yılının ilk 10 ayında toplam 10.205 adetlik satış gerçekleştirdi. Eylül ayında 1.082 adede… The post İş makinesi pazarında toparlanma arayışı sürüyor first appeared on Makina Market.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Türkiye iş makinesi satışları 2026’nın ilk 10 ayında 10.205 adet",
+      "dek_tr": "Makina Market’in aktardığı İMDER verilerine göre Türkiye iş makinesi satışları 2026’nın ilk 10 ayında 10.205 adet oldu. Aylık satışlar eylülde 1.082’den ekimde 863’e geriledi.",
+      "summary_tr": "Makina Market’in haber açıklamasına göre Türkiye’de 2026’nın ilk 10 ayında toplam 10.205 iş makinesi satıldı. Eylül ayındaki satış 1.082 adet olarak verilirken ekim ayında bu sayı 863’e indi.\n\nHaberde finansman koşulları, kamu yatırımları ve özel sektörün yatırım kararları yıl sonu pazar performansını etkileyebilecek unsurlar olarak sıralanıyor. Ancak girdide önceki dönem karşılaştırması, alt segment dağılımı veya bu etkenlerin satışlara ölçülmüş etkisi paylaşılmıyor.",
+      "why_it_matters_tr": "İlk 10 aylık toplam ve son iki ayın satış verileri, Türkiye iş makinesi pazarının yakın dönem seyrini izlemek için bir gösterge sunuyor. Tek başına bu veriler pazarın genel yönünü veya yıl sonu sonucunu belirlemeye yetmez.",
+      "seo_title": "Türkiye iş makinesi satışları 10 ayda 10.205 adet",
+      "meta_description": "Makina Market’in aktardığı verilere göre Türkiye’de 2026’nın ilk 10 ayında 10.205 iş makinesi satıldı; ekim satışları 863 adede geriledi.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "2026’nın ilk 10 ayında Türkiye iş makinesi satışları 10.205 adet olarak bildirildi.",
+        "Eylül 2026 satış adedi 1.082 olarak verildi.",
+        "Ekim 2026 satış adedi 863 olarak verildi.",
+        "Makina Market, finansman koşulları ile kamu ve özel sektör yatırımlarını yıl sonu performansında etkili olabilecek unsurlar olarak sıralıyor."
+      ],
+      "suggested_tags": [
+        "Türkiye iş makinesi pazarı",
+        "iş makinesi satışları",
+        "İMDER",
+        "pazar verileri"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Makina Market açıklamasında İMDER tarafından açıklanan ilk 10 aylık satış toplamı 10.205 adet olarak veriliyor.",
+        "Aynı açıklama eylül satışını 1.082, ekim satışını 863 adet olarak bildiriyor.",
+        "Kaynak açıklaması finansman koşullarını ve kamu-özel sektör yatırım kararlarını pazar performansıyla ilişkili unsurlar olarak sıralıyor."
+      ],
+      "uncertainty_notes": [
+        "Girdide kaynak metni başlıkla uyumsuz biçimde LiuGong etkinliğine ilişkin kısa bir satır içeriyor; taslak, haber açıklamasındaki İMDER satış verilerine dayanıyor.",
+        "Önceki yıl veya dönem karşılaştırması, segment kırılımı ve pazar eğilimlerini doğrulayacak ek veri sağlanmamış."
+      ],
+      "generated_at": "2026-11-15T20:17:03.677Z",
+      "generated_by": "github-models"
     }
   },
   {
