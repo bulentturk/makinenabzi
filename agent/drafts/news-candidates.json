@@ -1622,7 +1622,7 @@
   },
   {
     "id": "ce0eeb74b3b64a60",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Kubota debuts Farmtrac 6050E at EIMA",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/agriculture/kubota-debuts-farmtrac-6050e-at-eima.html",
@@ -1636,19 +1636,45 @@
     "editorial_fit_score": 55,
     "summary_source": "Kubota has introduced the Farmtrac 6050E, a utility tractor making its European debut at EIMA International 2026. The four-wheel-drive 6050E is aimed at operators working beyond traditional agriculture, including dairy [...] The post Kubota debuts Farmtrac 6050E at EIMA appeared first on Industrial Vehicle Technology International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Kubota, Farmtrac 6050E’yi EIMA 2026’da Avrupa’da tanıttı",
+      "dek_tr": "Farmtrac 6050E, EIMA International 2026’da Avrupa’da ilk kez tanıtılan dört tekerlekten çekişli bir traktör olarak duyuruldu. Kaynakta modelin 49 hp olduğu belirtiliyor.",
+      "summary_tr": "iVT International’ın haber özetine göre Kubota, Farmtrac 6050E’yi EIMA International 2026’da Avrupa pazarına tanıttı. Model, dört tekerlekten çekişli bir utility traktör olarak tanımlanıyor.\n\nKaynak açıklamasında güç değeri 49 hp olarak veriliyor ve makinenin geleneksel tarım dışındaki kullanım alanlarına da yönelik olduğu belirtiliyor. Ancak bu kullanım senaryoları ve teknik donanım hakkında ayrıntı sunulmuyor.",
+      "why_it_matters_tr": "Kompakt ve çok amaçlı traktörler, tarımsal işlerin yanı sıra farklı saha görevlerinde de değerlendirilebilir. Modelin bu alanlardaki uygunluğunu yorumlamak için uygulama ve ekipman uyumluluğu bilgilerinin doğrulanması gerekir.",
+      "seo_title": "Kubota Farmtrac 6050E, EIMA 2026’da tanıtıldı",
+      "meta_description": "Farmtrac 6050E, EIMA International 2026’da Avrupa’da tanıtıldı. iVT International model için dört tekerlekten çekiş ve 49 hp bilgisi veriyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Farmtrac 6050E, EIMA International 2026’da Avrupa’da tanıtıldı.",
+        "Kaynak, traktörü dört tekerlekten çekişli olarak tanımlıyor.",
+        "Kaynak açıklamasında motor gücü 49 hp olarak veriliyor."
+      ],
+      "suggested_tags": [
+        "Kubota",
+        "Farmtrac 6050E",
+        "traktör",
+        "EIMA 2026"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "yuruyus-guc-aktarma"
+      ],
+      "source_facts_used": [
+        "iVT International özetinde modelin EIMA International 2026’da Avrupa’da tanıtıldığı belirtiliyor.",
+        "Kaynak açıklamasında dört tekerlekten çekiş ve 49 hp bilgisi yer alıyor.",
+        "Haber özeti, geleneksel tarım dışı kullanım alanlarına da değiniyor."
+      ],
+      "uncertainty_notes": [
+        "Girdi, ürünün birincil üretici duyurusunu veya ayrıntılı teknik özelliklerini içermiyor; teknik bilgiler ve ürünün kullanım hedefleri üretici kaynağından doğrulanmalı."
+      ],
+      "generated_at": "2026-11-15T12:24:18.363Z",
+      "generated_by": "github-models"
     }
   },
   {
     "id": "82f22269fbc06bf1",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "TAFE launches European compact utility range at EIMA",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/agriculture/tafe-launches-european-compact-utility-range-at-eima.html",
@@ -1662,14 +1688,41 @@
     "editorial_fit_score": 55,
     "summary_source": "TAFE has launched a new compact utility tractor range in Europe, led by the open station and cabin variants of the TAFE 6065, at EIMA International 2026 in Bologna, Italy. [...] The post TAFE launches European compact utility range at EIMA appeared first on Industrial Vehicle Technology International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "TAFE, 6065 kompakt traktör serisini Avrupa’da tanıttı",
+      "dek_tr": "TAFE, 6065 serisini EIMA International 2026’da açık operatör platformlu ve kabinli seçeneklerle Avrupa pazarına sundu. Kaynak ayrıca elektrikli traktörünün ticari lansmanını 2027 başı için duyurduğunu aktarıyor.",
+      "summary_tr": "iVT International’ın haber özetine göre TAFE, kompakt utility traktör serisini EIMA International 2026’da Avrupa’da tanıttı. Serinin öne çıkan modeli 6065; açık operatör platformlu ve kabinli varyantlarla sunuluyor.\n\nKaynak açıklamasında TAFE’nin elektrikli traktörü için 2027’nin başında ticari lansman planladığı da belirtiliyor. Elektrikli modelin teknik özellikleri, kapasitesi ve pazara sunulacağı ülkeler hakkında girdi içinde bilgi bulunmuyor.",
+      "why_it_matters_tr": "6065’in farklı operatör ortamlarıyla sunulması, kompakt traktör pazarındaki ürün çeşitliliği açısından kayda değer. Elektrikli traktörün ticari takvimi de tarım makinelerinde elektrifikasyonun ürünleşme sürecini izlemek için takip edilmeli.",
+      "seo_title": "TAFE 6065 kompakt traktör serisi Avrupa’da tanıtıldı",
+      "meta_description": "TAFE, 6065 kompakt traktör serisini EIMA 2026’da açık ve kabinli seçeneklerle tanıttı; elektrikli traktör için 2027 başı lansman planını açıkladı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "TAFE 6065 kompakt utility traktör serisi EIMA International 2026’da Avrupa’da tanıtıldı.",
+        "Kaynakta açık operatör platformlu ve kabinli varyantlardan söz ediliyor.",
+        "Kaynak, elektrikli traktör için 2027 başında ticari lansman planlandığını bildiriyor."
+      ],
+      "suggested_tags": [
+        "TAFE",
+        "TAFE 6065",
+        "kompakt traktör",
+        "elektrikli traktör",
+        "EIMA 2026"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "iVT International özeti, 6065 serisinin EIMA International 2026’da Avrupa’da tanıtıldığını bildiriyor.",
+        "Kaynakta açık ve kabinli varyantlar belirtiliyor.",
+        "Sayfa açıklaması, elektrikli traktör için 2027 başında ticari lansman planını aktarıyor."
+      ],
+      "uncertainty_notes": [
+        "Girdi, üreticinin birincil duyurusunu veya elektrikli traktörün teknik verilerini içermiyor; lansman takvimi ve ürün özellikleri üretici kaynağından doğrulanmalı."
+      ],
+      "generated_at": "2026-11-15T12:24:18.363Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -4080,7 +4133,7 @@
   },
   {
     "id": "5d23644e4f08591e",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Man Goes on 1-Hour Excavator Rampage in China Smashing Building (Video)",
     "source_name": "Equipment World",
     "source_url": "https://www.equipmentworld.com/construction-equipment/heavy-equipment/excavators/article/16425112/videos-of-excavator-operators-rampage-in-china-goes-viral",
@@ -4094,14 +4147,39 @@
     "editorial_fit_score": 55,
     "summary_source": "Reminiscent of the 2004 Killdozer rampage in Colorado, the 47-year-old operator smashed the exterior of a concrete building for...",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Çin’de ekskavatörün bir binaya zarar verdiği bildirildi",
+      "dek_tr": "Equipment World’ün sınırlı haber metni, Çin’de bir operatörün ekskavatörle beton bir binanın dış bölümüne yaklaşık bir saat boyunca zarar verdiğini aktarıyor. Olayla ilgili teknik veya sektör odaklı ayrıntı paylaşılmıyor.",
+      "summary_tr": "Equipment World’ün başlığı ve kısa açıklaması, Çin’de 47 yaşındaki bir operatörün ekskavatörle beton bir binanın dış bölümüne zarar verdiğini bildiriyor. Başlıkta olayın yaklaşık bir saat sürdüğü belirtiliyor.\n\nGirdi, olayın koşulları, doğrulama kaynakları veya makineye ilişkin teknik bilgi sunmuyor. Bu nedenle içerik, ekskavatör teknolojisi ya da sektördeki doğrulanabilir bir gelişme hakkında haber taslağı oluşturmaya yeterli değil.",
+      "why_it_matters_tr": "Olay anlatısı, iş makinesi teknolojisi veya sektör uygulamaları açısından doğrulanabilir bir yenilik ortaya koymuyor. Sansasyonel bir olay haberini teknik yayın gündemine taşımak için mevcut kaynak bilgisi yetersiz.",
+      "seo_title": "Çin’de ekskavatörün binaya zarar verdiği bildirildi",
+      "meta_description": "Equipment World, Çin’de ekskavatörün bir binanın dış bölümüne zarar verdiği bir olayı aktarıyor; mevcut kaynakta teknik ayrıntı bulunmuyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Kaynak, olayın Çin’de gerçekleştiğini bildiriyor.",
+        "Kaynak başlığında operatörün 47 yaşında olduğu belirtiliyor.",
+        "Başlık, ekskavatörle bir binanın dış bölümüne yaklaşık bir saat zarar verildiğini söylüyor."
+      ],
+      "suggested_tags": [
+        "ekskavatör",
+        "iş makinesi",
+        "olay"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Equipment World başlığı olayın Çin’de geçtiğini ve ekskavatör kullanıldığını belirtiyor.",
+        "Kaynak başlığı operatörün yaşını 47 olarak veriyor.",
+        "Başlıkta olay süresi yaklaşık bir saat olarak ifade ediliyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası HTTP 403 uyarısıyla alınamamış; değerlendirme yalnızca başlık ve kısa açıklamaya dayanıyor.",
+        "Olayın koşulları ve ayrıntıları bağımsız olarak doğrulanamıyor.",
+        "Teknik veya sektörel haber değeri sağlayacak bilgi mevcut değil."
+      ],
+      "generated_at": "2026-11-15T12:24:18.363Z",
+      "generated_by": "github-models"
     }
   },
   {
