@@ -3136,6 +3136,34 @@
     "subsector": null
   },
   {
+    "id": "a7114e6b40ea178f",
+    "status": "candidate",
+    "title_original": "OPINION: Passenger terminal power planning starts at the gate",
+    "source_name": "Passenger Terminal Today",
+    "source_url": "https://www.passengerterminaltoday.com/features/opinion-passenger-terminal-power-planning-starts-at-the-gate.html",
+    "source_feed": "https://www.passengerterminaltoday.com/feed/",
+    "published_at": "2026-11-16T11:59:37.000Z",
+    "discovered_at": "2026-11-16T13:15:32.974Z",
+    "sector": "havaalani-gse",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "relevance_score": 144,
+    "editorial_fit_score": 79,
+    "summary_source": "Ground power, preconditioned air and electric ramp vehicles are reshaping terminal electrical design. Planning them early, as one system, avoids costly upgrades later An airport gate appears to be a small part of a terminal, but its electrical demands can shape decisions made far upstream. Aircraft ground power, preconditioned air (PCA), passenger boarding bridges and, increasingly, electric ground support equipment (eGSE) all compete for capacity, space and reliable service. Continue reading OPINION: Passenger terminal power planning starts at the gate at Passenger Terminal Today.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "5794a8363e700315",
     "status": "drafted",
     "title_original": "Sabanto links autonomy to Precision Planting’s 20|20 for unmanned planting",
@@ -3523,64 +3551,6 @@
       ],
       "generated_at": "2026-11-11T12:20:05.475Z",
       "generated_by": "github-models"
-    }
-  },
-  {
-    "id": "f534da6ce88103d5",
-    "status": "published",
-    "title_original": "Tisur orders new crane for Matarani Port",
-    "source_name": "Port Strategy",
-    "source_url": "https://www.portstrategy.com/news/container-cargo-handling/tisur-orders-new-crane-for-matarani-port/",
-    "source_feed": "https://www.portstrategy.com/feed",
-    "published_at": "2026-11-12T12:49:06.000Z",
-    "discovered_at": "2026-11-12T13:28:11.606Z",
-    "sector": "liman",
-    "subsector": null,
-    "technologies": [],
-    "relevance_score": 140,
-    "editorial_fit_score": 75,
-    "summary_source": "Tisur has invested in a 125-tonne Konecranes Gottwald crane to boost capacity and modernise Peru’s Port of Matarani",
-    "editorial": {
-      "title_tr": "Tisur, Matarani Limanı için 125 ton kapasiteli Konecranes Gottwald ESP.6 siparişi verdi",
-      "dek_tr": "Peru’daki Matarani Limanı’nda kullanılacak mobil liman vinci; konteyner, genel kargo ve proje yüklerini elleçleyecek. Sipariş edilen konfigürasyonda motorlu kepçe ve kapasitörlü hibrit tahrik bulunuyor.",
-      "summary_tr": "Terminal Internacional del Sur (Tisur), Peru’nun güneyindeki Matarani Limanı için Konecranes Gottwald ESP.6 mobil liman vinci sipariş etti. Port Strategy’nin aktardığına göre 2026’nın üçüncü çeyreğinde kayda alınan sipariş, Konecranes’in Peru’da fabrika çıkışlı mobil liman vinci için yaptığı ilk satış.\n\nVinç 125 ton azami kaldırma kapasitesine sahip olacak; konteyner, genel kargo ve proje yüklerinin elleçlenmesinde kullanılacak. Dökme yük elleçleme için motorlu kepçe ve enerji tüketimiyle emisyonları azaltmayı amaçlayan, kapasitör içeren hibrit tahrik sistemi belirtiliyor.\n\nEkipmanın 2027’nin ilk çeyreği bitmeden devreye alınması bekleniyor. Kaynak, hibrit sistemin ileride tam elektrikli işletime geçiş için bir yol sunduğunu da aktarıyor.",
-      "why_it_matters_tr": "Kapasitörlü hibrit tahrik, farklı yük türlerine hizmet veren mobil liman vinçlerinde enerji tüketimi ve emisyonları azaltmaya yönelik bir yaklaşım sunuyor; kaynak ayrıca gelecekte tam elektrikli işletime geçiş olanağından söz ediyor. Bu hedeflerin sahadaki ölçülebilir etkisi için işletme verisi gerekir.",
-      "seo_title": "Tisur, Matarani için 125 tonluk Gottwald vinç sipariş etti",
-      "meta_description": "Tisur’un Matarani Limanı için sipariş ettiği Konecranes Gottwald ESP.6, 125 ton kaldırma kapasitesi, motorlu kepçe ve kapasitörlü hibrit tahrikle gelecek.",
-      "hero_image": "",
-      "reviewed": false,
-      "key_facts": [
-        "Tisur, Matarani Limanı için Konecranes Gottwald ESP.6 mobil liman vinci sipariş etti.",
-        "Vincin azami kaldırma kapasitesi 125 ton olarak veriliyor.",
-        "Ekipman konteyner, genel kargo ve proje yüklerini elleçleyecek.",
-        "Konfigürasyonda dökme yükler için motorlu kepçe ve kapasitörlü hibrit tahrik bulunacak.",
-        "Vincin 2027’nin ilk çeyreği bitmeden faaliyete geçmesi bekleniyor."
-      ],
-      "suggested_tags": [
-        "Tisur",
-        "Konecranes Gottwald",
-        "mobil liman vinci",
-        "hibrit tahrik",
-        "Matarani Limanı"
-      ],
-      "suggested_sector": "liman",
-      "editorial_format": "haber",
-      "suggested_technologies": [
-        "elektrifikasyon"
-      ],
-      "source_facts_used": [
-        "Port Strategy metninde belirtilen sipariş, model, kapasite, yük türleri, motorlu kepçe ve hibrit tahrik konfigürasyonu.",
-        "Kaynakta verilen sipariş dönemi ve beklenen devreye alma takvimi.",
-        "Hibrit sistemin enerji tüketimi ve emisyonları azaltma hedefi ile gelecekte tam elektrikli işletime geçiş olanağı."
-      ],
-      "uncertainty_notes": [
-        "Enerji tüketimi ve emisyon azaltımına ilişkin bilgiler kaynakta hedef/üretici açıklaması niteliğinde; bağımsız saha verisi veya nicel performans sonucu verilmemiş.",
-        "Haber, sektör yayınına dayalıdır; önemli teknik iddialar ve konfigürasyon ayrıntıları için üretici veya işletmeci kaynaklarıyla birincil doğrulama gerekir."
-      ],
-      "generated_at": "2026-11-12T13:29:13.915Z",
-      "generated_by": "github-models",
-      "review_result": "auto_published",
-      "reviewed_at": "2026-11-12T15:07:59.237Z"
     }
   },
   {
@@ -4703,6 +4673,32 @@
     }
   },
   {
+    "id": "a8a3d2a3a9873ed3",
+    "status": "candidate",
+    "title_original": "EDECS wins major Luanda quay upgrade contract",
+    "source_name": "Port Strategy",
+    "source_url": "https://www.portstrategy.com/news/expansion-development/edecs-wins-major-luanda-quay-upgrade-contract/",
+    "source_feed": "https://www.portstrategy.com/feed",
+    "published_at": "2026-11-16T10:56:47.000Z",
+    "discovered_at": "2026-11-16T13:15:40.104Z",
+    "sector": "liman",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 130,
+    "editorial_fit_score": 75,
+    "summary_source": "EDECS Group has secured a deal with DP World to strengthen Luanda’s quay and support advanced ship-to-shore crane operations",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "992bf07dba561512",
     "status": "drafted",
     "title_original": "Port of Long Beach records lowest emissions per container",
@@ -5172,6 +5168,32 @@
       ],
       "generated_at": "2026-10-29T11:13:09.656Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "a01c2e74f7c0ff3d",
+    "status": "candidate",
+    "title_original": "Final TBM launched for Metro Manila’s largest package",
+    "source_name": "Tunnels & Tunnelling",
+    "source_url": "https://www.tunnelsandtunnelling.com/news/final-tbm-launched-for-metro-manilas-largest-package/",
+    "source_feed": "https://www.tunnelsandtunnelling.com/feed/",
+    "published_at": "2026-11-16T11:13:42.000Z",
+    "discovered_at": "2026-11-16T13:15:29.708Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 126,
+    "editorial_fit_score": 55,
+    "summary_source": "Final TBM launched for Metro Manila’s largest package. Four TBMs have already completed their drives. The post Final TBM launched for Metro Manila’s largest package appeared first on Tunnels and Tunnelling.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -6251,6 +6273,32 @@
     }
   },
   {
+    "id": "3ea604c5744b9924",
+    "status": "candidate",
+    "title_original": "IPAF, personel yükseltici platformlarda yeni güvenlik ekipmanı uygulamaları için erken planlama çağrısı yaptı",
+    "source_name": "LHT",
+    "source_url": "https://www.lht.com.tr/ipaf-personel-yukseltici-platformlarda-yeni-guvenlik-ekipmani-uygulamalari-icin-erken-planlama-cagrisi-yapti/",
+    "source_feed": "https://www.lht.com.tr/feed/",
+    "published_at": "2026-11-16T08:54:00.000Z",
+    "discovered_at": "2026-11-16T13:15:33.416Z",
+    "sector": "arac-ustu-ekipman",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 115,
+    "editorial_fit_score": 65,
+    "summary_source": "Uluslararası Personel Yükseltici Platform Federasyonu (IPAF), sahalarda personel yükseltici platformlara yönelik ikincil koruma sistemleri ve ilave ekipman kullanımına ilişkin yeni gerekliliklerin belirlenmesi sürecinde yüklenicileri, kiralama şirketleri ve makine tedarikçileriyle erken aşamada iletişim kurmaya çağırdı. Federasyon, yeni uygulamaların güvenlik hedeflerini karşılayabilmesi için yeterli hazırlık ve uygulama süresi tanınması gerektiğini vurguladı. IPAF, personel yükseltici platform (MEWP) kullanıcılarının […]",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "d64c5571ab478143",
     "status": "drafted",
     "title_original": "Sinoboom, Holland Lift markalı ilk makaslı platformunu Bauma China 2026’da tanıtacak",
@@ -6787,6 +6835,32 @@
     }
   },
   {
+    "id": "217ed0ffcb3213f2",
+    "status": "candidate",
+    "title_original": "Wacker Neuson, kompakt makine satışlarında yüzde 18,3 büyüdü",
+    "source_name": "Makina Market",
+    "source_url": "https://makina-market.com.tr/wacker-neuson-kompakt-makine-satislarinda-yuzde-183-buyudu/",
+    "source_feed": "https://makina-market.com.tr/feed/",
+    "published_at": "2026-11-16T07:54:49.000Z",
+    "discovered_at": "2026-11-16T13:15:32.254Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 106,
+    "editorial_fit_score": 55,
+    "summary_source": "Wacker Neuson Group, 2026 yılının ilk dokuz ayında telehandler, lastikli yükleyici, ekskavatör ve damper satışlarının desteğiyle kompakt makine… The post Wacker Neuson, kompakt makine satışlarında yüzde 18,3 büyüdü first appeared on Makina Market.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "8cac8d2934161656",
     "status": "drafted",
     "title_original": "İş makinesi pazarında toparlanma arayışı sürüyor",
@@ -6941,32 +7015,6 @@
       ],
       "generated_at": "2026-11-07T19:20:39.364Z",
       "generated_by": "github-models"
-    }
-  },
-  {
-    "id": "f4df0ebe4415105b",
-    "status": "candidate",
-    "title_original": "İstif makineleri pazarında yükseliş ivmesi sürüyor",
-    "source_name": "LHT",
-    "source_url": "https://www.lht.com.tr/istif-makineleri-pazarinda-yukselis-ivmesi-suruyor/",
-    "source_feed": "https://www.lht.com.tr/feed/",
-    "published_at": "2026-11-12T12:32:34.000Z",
-    "discovered_at": "2026-11-12T13:28:10.263Z",
-    "sector": "arac-ustu-ekipman",
-    "subsector": null,
-    "technologies": [],
-    "relevance_score": 105,
-    "editorial_fit_score": 55,
-    "summary_source": "Türkiye istif makineleri sektörü, 2026 yılının ilk on ayında 10.823 adetlik satışa ulaştı. İSDER verilerine göre Ekim ayında 1.224 adet istif makinesi satıldı. Yılın ikinci yarısında aylık satışların yeniden yükselişe geçmesi, pazardaki hareketliliğin sürdüğüne işaret etti. İSDER tarafından açıklanan verilere göre, 2025 yılını 12.987 adetlik satışla tamamlayan Türkiye istif makineleri sektörü, 2026 yılının ilk on […]",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
     }
   },
   {
