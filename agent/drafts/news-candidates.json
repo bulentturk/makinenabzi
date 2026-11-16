@@ -3137,7 +3137,7 @@
   },
   {
     "id": "a7114e6b40ea178f",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "OPINION: Passenger terminal power planning starts at the gate",
     "source_name": "Passenger Terminal Today",
     "source_url": "https://www.passengerterminaltoday.com/features/opinion-passenger-terminal-power-planning-starts-at-the-gate.html",
@@ -3153,14 +3153,39 @@
     "editorial_fit_score": 79,
     "summary_source": "Ground power, preconditioned air and electric ramp vehicles are reshaping terminal electrical design. Planning them early, as one system, avoids costly upgrades later An airport gate appears to be a small part of a terminal, but its electrical demands can shape decisions made far upstream. Aircraft ground power, preconditioned air (PCA), passenger boarding bridges and, increasingly, electric ground support equipment (eGSE) all compete for capacity, space and reliable service. Continue reading OPINION: Passenger terminal power planning starts at the gate at Passenger Terminal Today.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Havalimanı kapılarında güç planlaması elektrik altyapısını nasıl etkiliyor?",
+      "dek_tr": "Bir uçak kapısında yer gücü, ön koşullandırılmış hava ve elektrikli yer destek araçları aynı altyapı üzerinde buluşuyor. Kaynak yazı, bu ihtiyaçların terminal tasarımının erken aşamasında birlikte planlanmasını savunuyor.",
+      "summary_tr": "Passenger Terminal Today’deki görüş yazısının özetine göre uçak yer güç sistemleri, ön koşullandırılmış hava (PCA), yolcu köprüleri ve elektrikli yer destek ekipmanları (eGSE) kapı çevresinde kapasite, alan ve hizmet sürekliliği gerektiriyor.\n\nYazı, bu gereksinimlerin ayrı ayrı değil, terminalin elektrik tasarımıyla birlikte ele alınmasını öneriyor. Kaynak metin tam yazıya erişim sağlamadığından önerinin dayandığı teknik hesaplar veya örnek uygulamalar doğrulanamıyor.",
+      "why_it_matters_tr": "GSE elektrifikasyonu, havalimanlarında yalnızca araç seçimini değil, kapı başına güç altyapısı ve saha yerleşimini de etkileyebilir. Erken ve bütünleşik planlama bu nedenle apron operasyonları ile terminal altyapısı arasındaki koordinasyon açısından önem taşıyor.",
+      "seo_title": "Havalimanı kapılarında elektrik gücü planlaması",
+      "meta_description": "Yer gücü, PCA ve elektrikli yer destek araçları terminal altyapısını etkiliyor. Görüş yazısı, kapı çevresindeki ihtiyaçların erken planlanmasını savunuyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Yazı, uçak yer gücü, PCA, yolcu köprüleri ve eGSE'yi kapı çevresindeki elektrik ve alan gereksinimleriyle ilişkilendiriyor.",
+        "Yazının temel önerisi, güç gereksinimlerinin terminal tasarımının erken aşamasında birlikte planlanması."
+      ],
+      "suggested_tags": [
+        "havalimanı",
+        "yer destek ekipmanları",
+        "eGSE",
+        "elektrik altyapısı"
+      ],
+      "suggested_sector": "havaalani-gse",
+      "editorial_format": "gorus-analiz",
+      "suggested_technologies": [
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "Kaynak özeti, yer gücü, PCA, yolcu köprüleri ve eGSE'nin kapı bölgesinde kapasite ve alan gereksinimleri doğurduğunu belirtiyor.",
+        "Kaynak özeti, bu ihtiyaçların birlikte ve erken planlanmasını öneriyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfasına erişim 403 hatasıyla başarısız; taslak yalnızca sağlanan başlık ve kısa özetle sınırlı.",
+        "Güç kapasitesi, ekipman yükleri, saha örnekleri veya maliyet etkileri için sayısal veri verilmemiş."
+      ],
+      "generated_at": "2026-11-16T13:16:33.619Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -4674,7 +4699,7 @@
   },
   {
     "id": "a8a3d2a3a9873ed3",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "EDECS wins major Luanda quay upgrade contract",
     "source_name": "Port Strategy",
     "source_url": "https://www.portstrategy.com/news/expansion-development/edecs-wins-major-luanda-quay-upgrade-contract/",
@@ -4688,14 +4713,41 @@
     "editorial_fit_score": 75,
     "summary_source": "EDECS Group has secured a deal with DP World to strengthen Luanda’s quay and support advanced ship-to-shore crane operations",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Luanda limanında 610 metrelik rıhtım, raylı STS vinçlere hazırlanıyor",
+      "dek_tr": "EDECS Group, DP World’ün Luanda konteyner terminalindeki rıhtım duvarını güçlendirmek ve yenilemek üzere tasarım-yapım sözleşmesi aldı. Proje, mobil liman vinçlerinin yerine ray üzerinde çalışan gemi-kıyı vinçlerinin kurulmasına altyapı hazırlıyor.",
+      "summary_tr": "Port Strategy’nin aktardığına göre proje, mevcut rıhtım duvarının 610 metrelik tamamını kapsıyor. İşler arasında 120 kazık çakılması; beton kirişlerin uzatılması ve güçlendirilmesi; vinç ray sistemi, elektrik kablolaması, trafo merkezleri ve diğer altyapıların kurulması bulunuyor. Kazıkların her biri bir metre çapında ve 45 metreye kadar uzunlukta olacak.\n\nYenilemeyle raylı gemi-kıyı (STS) gantry vinçlerinin kurulması ve mevcut mobil liman vinçlerinin değiştirilmesi hedefleniyor. Kaynak, projenin daha büyük ve daha derin su çekimine sahip gemileri kabul etmeyi ve terminal kapasitesini artırmayı amaçladığını bildiriyor; bu sonuçlara ilişkin ölçülmüş performans verisi paylaşmıyor.",
+      "why_it_matters_tr": "Raylı STS vinçlere geçiş, yalnızca vinç tedarikini değil rıhtımın taşıma kapasitesini, ray altyapısını ve elektrik beslemesini de kapsayan bir liman modernizasyonu gerektiriyor. Luanda projesi, ekipman yatırımıyla kıyı altyapısının birlikte ele alınmasına somut bir örnek sunuyor.",
+      "seo_title": "Luanda rıhtımı raylı STS vinçler için yenileniyor",
+      "meta_description": "EDECS, Luanda’daki 610 metrelik rıhtımı güçlendirecek. Proje, mobil liman vinçlerinden raylı STS vinçlere geçiş için altyapı kurulumunu kapsıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "EDECS Group, DP World’ün Luanda konteyner terminali için tasarım-yapım sözleşmesi aldı.",
+        "Proje mevcut rıhtımın 610 metresini kapsıyor.",
+        "Kapsamda çapı bir metre, uzunluğu 45 metreye kadar olan 120 kazık bulunuyor.",
+        "Altyapı, mobil liman vinçlerinin yerine raylı gemi-kıyı gantry vinçlerinin kurulmasını sağlayacak."
+      ],
+      "suggested_tags": [
+        "Luanda Limanı",
+        "rıhtım güçlendirme",
+        "STS vinç",
+        "liman altyapısı",
+        "DP World"
+      ],
+      "suggested_sector": "liman",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Port Strategy, EDECS ile DP World arasındaki rıhtım yenileme sözleşmesini ve 610 metrelik proje kapsamını bildiriyor.",
+        "Kaynakta 120 kazığın çapı ve azami uzunluğu ile ray, elektrik ve trafo altyapısı işleri belirtiliyor.",
+        "Kaynak, raylı STS vinçlerin mobil liman vinçlerinin yerini almasının planlandığını aktarıyor."
+      ],
+      "uncertainty_notes": [
+        "Girdi yalnızca ikincil sektör yayınının haberini içeriyor; üretici, işletmeci veya resmi kurumun birincil açıklaması sağlanmamış.",
+        "İş takvimi, vinçlerin teknik özellikleri ve kapasite ya da çevrim süresindeki ölçülmüş değişim belirtilmiyor; beklenen verimlilik etkileri bağımsız performans sonucu değildir."
+      ],
+      "generated_at": "2026-11-16T13:16:33.619Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -6274,7 +6326,7 @@
   },
   {
     "id": "3ea604c5744b9924",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "IPAF, personel yükseltici platformlarda yeni güvenlik ekipmanı uygulamaları için erken planlama çağrısı yaptı",
     "source_name": "LHT",
     "source_url": "https://www.lht.com.tr/ipaf-personel-yukseltici-platformlarda-yeni-guvenlik-ekipmani-uygulamalari-icin-erken-planlama-cagrisi-yapti/",
@@ -6288,14 +6340,42 @@
     "editorial_fit_score": 65,
     "summary_source": "Uluslararası Personel Yükseltici Platform Federasyonu (IPAF), sahalarda personel yükseltici platformlara yönelik ikincil koruma sistemleri ve ilave ekipman kullanımına ilişkin yeni gerekliliklerin belirlenmesi sürecinde yüklenicileri, kiralama şirketleri ve makine tedarikçileriyle erken aşamada iletişim kurmaya çağırdı. Federasyon, yeni uygulamaların güvenlik hedeflerini karşılayabilmesi için yeterli hazırlık ve uygulama süresi tanınması gerektiğini vurguladı. IPAF, personel yükseltici platform (MEWP) kullanıcılarının […]",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "IPAF, MEWP güvenlik ekipmanları için erken planlama çağrısı yaptı",
+      "dek_tr": "IPAF, personel yükseltici platformlarda ikincil koruma ve ilave ekipmanlara yönelik yeni saha gereklilikleri belirlenirken yüklenicilerin tedarikçilerle erken görüşmesini istedi. Federasyon, filo incelemesi, ekipman temini ve montaj için yeterli geçiş süresinin önemini vurguluyor.",
+      "summary_tr": "LHT’nin aktardığına göre IPAF, personel yükseltici platformların (MEWP) kullanımında sıkışma ve ezilme risklerini azaltmayı amaçlayan ikincil koruma uygulamalarını destekliyor. Federasyon, yeni ekipman veya saha giriş koşullarının uygulanmasından önce yüklenici, kiralama şirketi ve makine tedarikçileri arasında erken iletişim kurulmasını öneriyor.\n\nKaynakta belirtilen hazırlık adımları; filodaki makinelerin incelenmesi, uygun sistemlerin seçilmesi, ekipman bulunabilirliği ve montaj kapasitesinin değerlendirilmesi, maliyetlerin hesaplanması ve dönüşüm süresinin planlanmasını kapsıyor. IPAF’a atfedilen yaklaşımda ikincil koruma tek başına yeterli görülmüyor; makine, iş ve ortam risklerini içeren daha geniş bir risk yönetiminin parçası olarak ele alınıyor.",
+      "why_it_matters_tr": "MEWP filolarına yeni koruyucu ekipman eklemek, güvenlik hedeflerinin yanı sıra makine uyumluluğu, tedarik ve montaj kapasitesiyle de ilgilidir. Erken planlama, saha gerekliliklerinin ekipman ve uygulama hazırlığıyla eşleştirilmesine yardımcı olabilir.",
+      "seo_title": "IPAF'tan MEWP güvenlik ekipmanları için erken planlama",
+      "meta_description": "IPAF, MEWP'lerde ikincil koruma ve ilave ekipman gereklilikleri için tedarikçilerle erken görüşülmesini, filo ve montaj planlarının hazırlanmasını öneriyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "IPAF, yeni MEWP ekipmanı veya saha koşulları belirlenirken tedarikçilere erken danışılmasını öneriyor.",
+        "Kaynakta filo incelemesi, uygun sistem seçimi, ekipman temini, bütçeleme ve montaj planlaması hazırlık adımları olarak sıralanıyor.",
+        "IPAF’ın aktarılan yaklaşımına göre ikincil koruma, kapsamlı risk yönetiminin yerine geçmiyor."
+      ],
+      "suggested_tags": [
+        "IPAF",
+        "MEWP",
+        "personel yükseltici platform",
+        "ikincil koruma",
+        "makine güvenliği"
+      ],
+      "suggested_sector": "arac-ustu-ekipman",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "fonksiyonel-guvenlik"
+      ],
+      "source_facts_used": [
+        "LHT’nin aktardığı haberde IPAF, yeni saha gereklilikleri belirlenirken erken paydaş iletişimi ve geçiş süresi çağrısı yapıyor.",
+        "Kaynak, filo değerlendirmesi, sistem seçimi, tedarik, maliyet ve montaj planlaması gereksinimlerini sıralıyor.",
+        "IPAF’ın ikincil korumayı risk yönetiminin tek başına yeterli olmayan bir parçası saydığı aktarılıyor."
+      ],
+      "uncertainty_notes": [
+        "Girdi ikincil sektör yayınının haberidir; IPAF’ın birincil açıklaması veya ilgili standart metni sağlanmamış.",
+        "Yeni gerekliliklerin kapsamı, yürürlük tarihi ve hangi makine tiplerini etkileyeceği kaynakta netleştirilmiyor."
+      ],
+      "generated_at": "2026-11-16T13:16:33.619Z",
+      "generated_by": "github-models"
     }
   },
   {
