@@ -62,63 +62,6 @@
     "subsector": null
   },
   {
-    "id": "deb562f419e04daf",
-    "status": "published",
-    "title_original": "EIMA VIDEO: FPT debuts third-generation F28 hybrid engine at EIMA 2026",
-    "source_name": "iVT International",
-    "source_url": "https://www.ivtinternational.com/news/agriculture/eima-video-fpt-debuts-third-generation-f28-hybrid-engine-at-eima-2026.html",
-    "source_feed": "https://www.ivtinternational.com/feed",
-    "published_at": "2026-11-12T13:59:20.000Z",
-    "discovered_at": "2026-11-12T21:47:26.436Z",
-    "sector": "is-makinalari",
-    "subsector": null,
-    "technologies": [
-      "elektrifikasyon",
-      "yuruyus-guc-aktarma"
-    ],
-    "relevance_score": 166,
-    "editorial_fit_score": 79,
-    "summary_source": "FPT Industrial has brought highlights from it’s off-highway engine lineup to EIMA International 2026 in Bologna, Italy, headlined by the first trade-show appearance of its third-generation F28 Hybrid powertrain. Turin, [...] The post EIMA VIDEO: FPT debuts third-generation F28 hybrid engine at EIMA 2026 appeared first on Industrial Vehicle Technology International.",
-    "editorial": {
-      "title_tr": "FPT, üçüncü nesil F28 hibrit motorunu EIMA 2026’da tanıttı",
-      "dek_tr": "FPT Industrial, F28 hibrit güç aktarma sisteminin üçüncü neslini EIMA International 2026’da ilk kez bir fuarda sergiledi. Haberde N45, F36 ve Cursor 13 motorlarının da güncellendiği belirtiliyor.",
-      "summary_tr": "iVT International’ın haberine göre FPT Industrial, EIMA International 2026’da üçüncü nesil F28 Hybrid güç aktarma sistemini tanıttı. Bu, ürünün ilk fuar sergilemesi olarak aktarılıyor.\n\nHaberde FPT’nin N45, F36 ve Cursor 13 motorlarında da güncellemeler yaptığı belirtiliyor. Ancak paylaşılan kaynakta bu değişikliklerin kapsamı ve F28’in teknik özellikleri yer almıyor.",
-      "why_it_matters_tr": "Hibrit güç aktarma sistemleri tarım makinelerinde elektrifikasyonun uygulama alanlarından biri. F28’in teknik mimarisi ve hangi makine sınıflarını hedeflediği açıklanırsa, ürünün saha kullanımına etkisi daha somut değerlendirilebilir.",
-      "seo_title": "FPT üçüncü nesil F28 Hybrid’i EIMA 2026’da tanıttı",
-      "meta_description": "FPT Industrial, üçüncü nesil F28 Hybrid güç aktarma sistemini EIMA 2026’da ilk kez fuarda sergiledi; N45, F36 ve Cursor 13 güncellemeleri de bildirildi.",
-      "hero_image": "",
-      "reviewed": false,
-      "key_facts": [
-        "FPT Industrial, üçüncü nesil F28 Hybrid’i EIMA International 2026’da sergiledi.",
-        "iVT International, bunun F28 Hybrid’in ilk fuar sergilemesi olduğunu bildiriyor.",
-        "Haberde N45, F36 ve Cursor 13 motorlarında güncellemelerden söz ediliyor."
-      ],
-      "suggested_tags": [
-        "FPT Industrial",
-        "F28 Hybrid",
-        "tarım makineleri",
-        "hibrit güç aktarma"
-      ],
-      "suggested_sector": "tarim",
-      "editorial_format": "haber",
-      "suggested_technologies": [
-        "elektrifikasyon",
-        "yuruyus-guc-aktarma"
-      ],
-      "source_facts_used": [
-        "iVT International’ın F28 Hybrid’in üçüncü nesli ve EIMA 2026’daki ilk fuar sergilemesi hakkındaki haberi",
-        "Kaynak açıklamasında N45, F36 ve Cursor 13 motor güncellemelerinin de anılması"
-      ],
-      "uncertainty_notes": [
-        "Girdi içinde üreticinin birincil duyurusu veya motorların teknik özellikleri bulunmuyor; teknik farklar ve uygulama alanları doğrulanamıyor."
-      ],
-      "generated_at": "2026-11-12T21:48:24.597Z",
-      "generated_by": "github-models",
-      "review_result": "auto_published",
-      "reviewed_at": "2026-11-16T15:38:37.738Z"
-    }
-  },
-  {
     "id": "28ffda3248f7891f",
     "status": "drafted",
     "title_original": "Fleet of 60 electric trucks with EACON AHS enter full operation at 5,400 m Zhibula mine",
@@ -316,6 +259,34 @@
       ],
       "generated_at": "2026-11-08T11:38:02.185Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "72a11495cc0896eb",
+    "status": "candidate",
+    "title_original": "TORSA part of elite club of CAS providers to pass TRL4 tests in South Africa",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/11/16/torsa-part-of-elite-club-of-cas-providers-to-pass-trl4-tests-in-south-africa/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-11-16T14:35:01.000Z",
+    "discovered_at": "2026-11-16T23:41:49.064Z",
+    "sector": "madencilik",
+    "subsector": null,
+    "technologies": [
+      "fonksiyonel-guvenlik"
+    ],
+    "relevance_score": 158,
+    "editorial_fit_score": 67,
+    "summary_source": "Earlier this year, in May 2026, TORSA became only the second company worldwide to successfully pass the TRL4 (Technology Readiness Level 4) Surface Collision Warning and Avoidance Device (CxD) tests carried out by the University of Pretoria in South Africa. This is the most demanding validation process for collision avoidance systems in open-pit mining. These The post TORSA part of elite club of CAS providers to pass TRL4 tests in South Africa appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -4753,6 +4724,32 @@
     }
   },
   {
+    "id": "748ec74561264db6",
+    "status": "candidate",
+    "title_original": "Brasfield & Gorrie Begin New Chapter, Liebherr",
+    "source_name": "Construction Equipment Guide",
+    "source_url": "https://www.constructionequipmentguide.com/brasfield-gorrie-begin-new-chapter-liebherr/72771",
+    "source_feed": "https://feeds.feedburner.com/ceg",
+    "published_at": "2026-11-16T05:00:00.000Z",
+    "discovered_at": "2026-11-16T23:41:48.682Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 130,
+    "editorial_fit_score": 65,
+    "summary_source": "Brasfield & Gorrie takes delivery of its first Liebherr crane. The Liebherr LR 1300.1 SX will initially support a major bridge modernization project for the Tennessee Department of Transportation...",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "992bf07dba561512",
     "status": "drafted",
     "title_original": "Port of Long Beach records lowest emissions per container",
@@ -5860,6 +5857,32 @@
       ],
       "generated_at": "2026-10-27T10:09:14.886Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "86c7f2c84f9d2cec",
+    "status": "candidate",
+    "title_original": "Capital Railroad Services Partners Employs Tadano Knuckle Crane, Bridge Repair Job",
+    "source_name": "Construction Equipment Guide",
+    "source_url": "https://www.constructionequipmentguide.com/capital-railroad-services-partners-employs-tadano-knuckle-crane-bridge-repair-job/72775",
+    "source_feed": "https://feeds.feedburner.com/ceg",
+    "published_at": "2026-11-16T05:00:00.000Z",
+    "discovered_at": "2026-11-16T23:41:48.675Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 120,
+    "editorial_fit_score": 55,
+    "summary_source": "...",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
