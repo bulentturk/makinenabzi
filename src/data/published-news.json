@@ -1,5 +1,37 @@
 [
   {
+    "id": "deb562f419e04daf",
+    "slug": "fpt-ucuncu-nesil-f28-hibrit-motorunu-eima-2026-da-tanitti",
+    "title": "FPT, üçüncü nesil F28 hibrit motorunu EIMA 2026’da tanıttı",
+    "dek": "FPT Industrial, F28 hibrit güç aktarma sisteminin üçüncü neslini EIMA International 2026’da ilk kez bir fuarda sergiledi. Haberde N45, F36 ve Cursor 13 motorlarının da güncellendiği belirtiliyor.",
+    "summary": "iVT International’ın haberine göre FPT Industrial, EIMA International 2026’da üçüncü nesil F28 Hybrid güç aktarma sistemini tanıttı. Bu, ürünün ilk fuar sergilemesi olarak aktarılıyor.\n\nHaberde FPT’nin N45, F36 ve Cursor 13 motorlarında da güncellemeler yaptığı belirtiliyor. Ancak paylaşılan kaynakta bu değişikliklerin kapsamı ve F28’in teknik özellikleri yer almıyor.",
+    "why_it_matters": "Hibrit güç aktarma sistemleri tarım makinelerinde elektrifikasyonun uygulama alanlarından biri. F28’in teknik mimarisi ve hangi makine sınıflarını hedeflediği açıklanırsa, ürünün saha kullanımına etkisi daha somut değerlendirilebilir.",
+    "key_facts": [
+      "FPT Industrial, üçüncü nesil F28 Hybrid’i EIMA International 2026’da sergiledi.",
+      "iVT International, bunun F28 Hybrid’in ilk fuar sergilemesi olduğunu bildiriyor.",
+      "Haberde N45, F36 ve Cursor 13 motorlarında güncellemelerden söz ediliyor."
+    ],
+    "format": "haber",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon",
+      "yuruyus-guc-aktarma"
+    ],
+    "tags": [
+      "FPT Industrial",
+      "F28 Hybrid",
+      "tarım makineleri",
+      "hibrit güç aktarma"
+    ],
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/news/agriculture/eima-video-fpt-debuts-third-generation-f28-hybrid-engine-at-eima-2026.html",
+    "source_published_at": "2026-11-12T13:59:20.000Z",
+    "site_published_at": "2026-11-16T15:38:37.738Z",
+    "hero_image": "",
+    "publish_mode": "automatic"
+  },
+  {
     "id": "0a272552edf2af93",
     "slug": "epropulsion-elektrikli-deniz-tahrikinde-yazilimin-rolu-genisliyor",
     "title": "ePropulsion: Elektrikli deniz tahrikinde yazılımın rolü genişliyor",

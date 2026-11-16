@@ -63,7 +63,7 @@
   },
   {
     "id": "deb562f419e04daf",
-    "status": "drafted",
+    "status": "published",
     "title_original": "EIMA VIDEO: FPT debuts third-generation F28 hybrid engine at EIMA 2026",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/agriculture/eima-video-fpt-debuts-third-generation-f28-hybrid-engine-at-eima-2026.html",
@@ -113,7 +113,9 @@
         "Girdi içinde üreticinin birincil duyurusu veya motorların teknik özellikleri bulunmuyor; teknik farklar ve uygulama alanları doğrulanamıyor."
       ],
       "generated_at": "2026-11-12T21:48:24.597Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "review_result": "auto_published",
+      "reviewed_at": "2026-11-16T15:38:37.738Z"
     }
   },
   {
