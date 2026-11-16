@@ -263,7 +263,7 @@
   },
   {
     "id": "72a11495cc0896eb",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "TORSA part of elite club of CAS providers to pass TRL4 tests in South Africa",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/11/16/torsa-part-of-elite-club-of-cas-providers-to-pass-trl4-tests-in-south-africa/",
@@ -279,14 +279,41 @@
     "editorial_fit_score": 67,
     "summary_source": "Earlier this year, in May 2026, TORSA became only the second company worldwide to successfully pass the TRL4 (Technology Readiness Level 4) Surface Collision Warning and Avoidance Device (CxD) tests carried out by the University of Pretoria in South Africa. This is the most demanding validation process for collision avoidance systems in open-pit mining. These The post TORSA part of elite club of CAS providers to pass TRL4 tests in South Africa appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "TORSA, Güney Afrika’da maden çarpışma önleme sistemi testlerini geçti",
+      "dek_tr": "International Mining’in haberine göre TORSA, Mayıs 2026’da Pretoria Üniversitesi’nin yüzey çarpışma uyarı ve önleme sistemi (CxD) için yürüttüğü TRL4 testlerini geçti. Kaynak, şirketin bu aşamaya ulaşan dünyadaki ikinci şirket olduğunu belirtiyor.",
+      "summary_tr": "TORSA’nın açık ocak madenciliğine yönelik CxD sistemi, Pretoria Üniversitesi tarafından Güney Afrika’da gerçekleştirilen TRL4 testlerini Mayıs 2026’da geçti. TRL4, haberde sistemin teknoloji hazırlık seviyesi olarak tanımlanıyor.\n\nInternational Mining, TORSA’yı bu testleri geçen dünyadaki ikinci şirket olarak nitelendiriyor. Test yöntemi, ölçütleri ve sistemin sahadaki performansına ilişkin ayrıntılar sağlanan kaynak metinde yer almıyor.",
+      "why_it_matters_tr": "Açık ocaklarda çarpışma uyarı ve önleme sistemleri, büyük iş makinalarının birlikte çalıştığı sahalarda emniyet açısından önem taşıyor. Ancak test başarısı tek başına gerçek saha performansını veya belirli bir güvenlik sonucunu kanıtlamıyor.",
+      "seo_title": "TORSA’nın CxD sistemi Güney Afrika’da TRL4 testlerini geçti",
+      "meta_description": "TORSA’nın açık ocak madenciliğine yönelik CxD sistemi, International Mining’e göre Pretoria Üniversitesi’nin Mayıs 2026’daki TRL4 testlerini geçti.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "TORSA’nın CxD sistemi Mayıs 2026’da TRL4 testlerini geçti.",
+        "Testler Güney Afrika’da Pretoria Üniversitesi tarafından yürütüldü.",
+        "International Mining, TORSA’yı testleri geçen ikinci şirket olarak aktarıyor."
+      ],
+      "suggested_tags": [
+        "TORSA",
+        "çarpışma önleme",
+        "açık ocak madenciliği",
+        "TRL4"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "fonksiyonel-guvenlik"
+      ],
+      "source_facts_used": [
+        "International Mining’in TORSA’nın Mayıs 2026’da Pretoria Üniversitesi CxD TRL4 testlerini geçtiği yönündeki haberi",
+        "Haberde TORSA’nın bu aşamaya ulaşan ikinci şirket olduğunun belirtilmesi"
+      ],
+      "uncertainty_notes": [
+        "Kaynağa erişim 403 uyarısıyla sınırlı; test protokolü, kapsamı ve sonuçları doğrulanamıyor.",
+        "İkinci şirket olduğu ve testlerin en zorlu doğrulama süreci sayıldığı iddiaları ikincil habere dayanıyor; birincil kaynakla teyit edilmeli.",
+        "Bağımsız saha testi veya operasyonel performans verisi sağlanmamış."
+      ],
+      "generated_at": "2026-11-16T23:42:52.257Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -4725,7 +4752,7 @@
   },
   {
     "id": "748ec74561264db6",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Brasfield & Gorrie Begin New Chapter, Liebherr",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/brasfield-gorrie-begin-new-chapter-liebherr/72771",
@@ -4739,14 +4766,38 @@
     "editorial_fit_score": 65,
     "summary_source": "Brasfield & Gorrie takes delivery of its first Liebherr crane. The Liebherr LR 1300.1 SX will initially support a major bridge modernization project for the Tennessee Department of Transportation...",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Brasfield & Gorrie, ilk Liebherr vincini teslim aldı",
+      "dek_tr": "Brasfield & Gorrie, Liebherr LR 1300.1 SX paletli vincini filosuna kattı. Kaynak özetine göre vinç, ilk olarak Tennessee Ulaştırma Bakanlığı’nın büyük bir köprü modernizasyon projesinde kullanılacak.",
+      "summary_tr": "Construction Equipment Guide’ın haber özetine göre Brasfield & Gorrie, ilk Liebherr vincini teslim aldı. Teslim edilen model LR 1300.1 SX.\n\nVincin başlangıçta Tennessee Ulaştırma Bakanlığı için yürütülen büyük bir köprü modernizasyon projesini desteklemesi planlanıyor. Kaynak metinde vincin kapasitesi, konfigürasyonu veya proje takvimi hakkında ayrıntı bulunmuyor.",
+      "why_it_matters_tr": "Teslimat, bir müteahhidin Liebherr vinçleriyle ilk kez çalışmaya başlaması ve makinenin bir köprü modernizasyon işinde görevlendirilmesi bakımından kayda değer. Ancak modelin teknik katkısını değerlendirmek için saha konfigürasyonu ve proje kullanımına ilişkin ek bilgi gerekiyor.",
+      "seo_title": "Brasfield & Gorrie ilk Liebherr LR 1300.1 SX vincini aldı",
+      "meta_description": "Brasfield & Gorrie, ilk Liebherr vincini teslim aldı. LR 1300.1 SX’in başlangıçta Tennessee’deki bir köprü modernizasyon projesinde kullanılması planlanıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Brasfield & Gorrie ilk Liebherr vincini teslim aldı.",
+        "Teslim edilen model Liebherr LR 1300.1 SX.",
+        "Vincin başlangıçta Tennessee Ulaştırma Bakanlığı’nın köprü modernizasyon projesinde görev alması bekleniyor."
+      ],
+      "suggested_tags": [
+        "Liebherr",
+        "LR 1300.1 SX",
+        "paletli vinç",
+        "köprü modernizasyonu"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Construction Equipment Guide özetinde Brasfield & Gorrie’nin ilk Liebherr vincini teslim aldığı bilgisi",
+        "Modelin LR 1300.1 SX olduğu ve başlangıçta Tennessee Ulaştırma Bakanlığı’nın köprü projesinde çalışacağı bilgisi"
+      ],
+      "uncertainty_notes": [
+        "Kaynağa erişim 403 uyarısıyla sınırlı; teslimat ve proje bilgileri yalnızca haber özetinden alınmıştır.",
+        "Vinç kapasitesi, teknik donanımı, konfigürasyonu ve proje takvimi kaynak metinde belirtilmiyor."
+      ],
+      "generated_at": "2026-11-16T23:42:52.257Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -5223,7 +5274,7 @@
   },
   {
     "id": "a01c2e74f7c0ff3d",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Final TBM launched for Metro Manila’s largest package",
     "source_name": "Tunnels & Tunnelling",
     "source_url": "https://www.tunnelsandtunnelling.com/news/final-tbm-launched-for-metro-manilas-largest-package/",
@@ -5237,14 +5288,38 @@
     "editorial_fit_score": 55,
     "summary_source": "Final TBM launched for Metro Manila’s largest package. Four TBMs have already completed their drives. The post Final TBM launched for Metro Manila’s largest package appeared first on Tunnels and Tunnelling.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Metro Manila’daki büyük tünel paketi için son TBM devreye alındı",
+      "dek_tr": "Tunnels & Tunnelling, Metro Manila’nın en büyük paketi olarak tanımlanan proje kapsamında son tünel açma makinesinin (TBM) başlatıldığını bildiriyor. Haberin özetine göre dört TBM daha önce tünel açma çalışmalarını tamamladı.",
+      "summary_tr": "Tunnels & Tunnelling’in haber başlığı ve özetine göre Metro Manila’daki en büyük paket için son TBM başlatıldı. Aynı özette, dört TBM’nin sürüşlerini tamamladığı belirtiliyor.\n\nSağlanan kaynak metin yalnızca “APROTEK” ifadesini içeriyor; proje adı, TBM’lerin özellikleri, güzergâhı ve son makinenin çalışma takvimi hakkında ek bilgi sunmuyor.",
+      "why_it_matters_tr": "Birden fazla TBM’nin aynı altyapı paketi kapsamında kullanılması ve önceki dört makinenin sürüşlerini tamamlamış olması, büyük ölçekli tünel işlerinin ilerleyişine ilişkin sınırlı bir gösterge sunuyor. Makine seçimi veya teknik performans hakkında değerlendirme yapmak için proje ve TBM ayrıntıları gerekli.",
+      "seo_title": "Metro Manila projesinde son TBM başlatıldı",
+      "meta_description": "Tunnels & Tunnelling’e göre Metro Manila’daki büyük tünel paketi için son TBM başlatıldı; haberde dört TBM’nin sürüşlerini tamamladığı belirtiliyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Haberde Metro Manila’nın en büyük paketi için son TBM’nin başlatıldığı aktarılıyor.",
+        "Kaynak özetine göre dört TBM sürüşlerini tamamladı."
+      ],
+      "suggested_tags": [
+        "TBM",
+        "tünel açma",
+        "Metro Manila",
+        "altyapı"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Tunnels & Tunnelling başlığında son TBM’nin Metro Manila’daki en büyük paket için başlatıldığı bilgisi",
+        "Haber özetinde dört TBM’nin sürüşlerini tamamladığı bilgisi"
+      ],
+      "uncertainty_notes": [
+        "Sağlanan kaynak metin yalnızca “APROTEK” ifadesini içeriyor; proje ve makine ayrıntıları doğrulanamıyor.",
+        "Kaynak özetindeki “en büyük paket” nitelemesinin kapsamı belirtilmiyor.",
+        "TBM modeli, çapı, yüklenici, güzergâh ve takvim bilgileri yok; teknik değerlendirme için birincil kaynak doğrulaması gerekli."
+      ],
+      "generated_at": "2026-11-16T23:42:52.257Z",
+      "generated_by": "github-models"
     }
   },
   {
