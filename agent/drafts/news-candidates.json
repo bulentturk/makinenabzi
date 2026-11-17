@@ -4779,7 +4779,7 @@
   },
   {
     "id": "caa70a0cc2823f6f",
-    "status": "drafted",
+    "status": "published",
     "title_original": "165hp Chinese twin-track tractor",
     "source_name": "profi",
     "source_url": "https://www.profi.co.uk/news/165hp-chinese-twin-track-tractor/",
@@ -4832,7 +4832,9 @@
         "Arka kaldırma kapasitesine ilişkin kaynak cümlesi kesik; kapasite değeri ve birimi doğrulanamıyor."
       ],
       "generated_at": "2026-11-12T21:48:24.597Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "review_result": "auto_published",
+      "reviewed_at": "2026-11-17T15:55:58.265Z"
     }
   },
   {
