@@ -1198,6 +1198,35 @@
     }
   },
   {
+    "id": "f899f14660e0ae02",
+    "status": "candidate",
+    "title_original": "Hillcrest and Equipmake to co-develop 800 V ZVS inverter for heavy-duty EVs",
+    "source_name": "Charged EVs",
+    "source_url": "https://chargedevs.com/newswire/hillcrest-and-equipmake-to-co-develop-800-v-zvs-inverter-for-heavy-duty-evs/",
+    "source_feed": "https://chargedevs.com/feed/",
+    "published_at": "2026-11-17T16:13:42.000Z",
+    "discovered_at": "2026-11-17T22:49:42.259Z",
+    "sector": "elektrifikasyon",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon",
+      "yuruyus-guc-aktarma"
+    ],
+    "relevance_score": 156,
+    "editorial_fit_score": 79,
+    "summary_source": "Power conversion developer Hillcrest Energy Technologies and UK drivetrain manufacturer Equipmake have signed an agreement to jointly develop an 800 V traction inverter using Hillcrest’s zero-voltage-switching (ZVS) technology for heavy-duty... Read more »",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "0a5d781f08dff854",
     "status": "drafted",
     "title_original": "Toyota recalls C-HR+ worldwide due to battery control unit issue",
@@ -3299,6 +3328,34 @@
     }
   },
   {
+    "id": "0771e765b5944bc6",
+    "status": "candidate",
+    "title_original": "OPINION: Passenger terminal power planning starts at the gate",
+    "source_name": "Passenger Terminal Today",
+    "source_url": "https://www.passengerterminaltoday.com/opinion/opinion-passenger-terminal-power-planning-starts-at-the-gate.html",
+    "source_feed": "https://www.passengerterminaltoday.com/feed/",
+    "published_at": "2026-11-16T11:59:37.000Z",
+    "discovered_at": "2026-11-17T22:49:45.942Z",
+    "sector": "havaalani-gse",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "relevance_score": 144,
+    "editorial_fit_score": 79,
+    "summary_source": "Ground power, preconditioned air and electric ramp vehicles are reshaping terminal electrical design. Planning them early, as one system, avoids costly upgrades later An airport gate appears to be a small part of a terminal, but its electrical demands can shape decisions made far upstream. Aircraft ground power, preconditioned air (PCA), passenger boarding bridges and, increasingly, electric ground support equipment (eGSE) all compete for capacity, space and reliable service. Continue reading OPINION: Passenger terminal power planning starts at the gate at Passenger Terminal Today.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "5794a8363e700315",
     "status": "drafted",
     "title_original": "Sabanto links autonomy to Precision Planting’s 20|20 for unmanned planting",
@@ -3963,6 +4020,34 @@
     }
   },
   {
+    "id": "812118e0716b623e",
+    "status": "candidate",
+    "title_original": "Volvo Trucks Introduces Remote Steer Technology",
+    "source_name": "Construction Equipment Guide",
+    "source_url": "https://www.constructionequipmentguide.com/volvo-trucks-introduces-remote-steer-technology/72784",
+    "source_feed": "https://feeds.feedburner.com/ceg",
+    "published_at": "2026-11-17T05:00:00.000Z",
+    "discovered_at": "2026-11-17T22:49:42.179Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [
+      "elektronik-telematik"
+    ],
+    "relevance_score": 138,
+    "editorial_fit_score": 89,
+    "summary_source": "Volvo Trucks is introducing Remote Steer technology on its Volvo VNX, the technology allows drivers to maneuver the truck remotely at speeds of up to 5 mph using a wireless controller....",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "2940c508200cbed3",
     "status": "drafted",
     "title_original": "John Deere 648LIII Skidder Delivers Impressive Performance for Reforestation Operations",
@@ -4234,6 +4319,32 @@
       ],
       "generated_at": "2026-11-09T23:45:09.768Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "50bdb26c6a04c39b",
+    "status": "candidate",
+    "title_original": "“Wild Machinist” Creates Remote-Control Model Excavator to Minutest Detail",
+    "source_name": "Equipment World",
+    "source_url": "https://www.equipmentworld.com/technology/article/16425624/wild-machinist-builds-remotecontrol-excavator-from-scratch",
+    "source_feed": "https://www.equipmentworld.com/feed/",
+    "published_at": "2026-11-17T14:14:27.000Z",
+    "discovered_at": "2026-11-17T22:49:42.880Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 135,
+    "editorial_fit_score": 55,
+    "summary_source": "He handcrafted a 1:24 replica of a Sany 1350H from scratch with aluminum alloy and 3D printed parts, including working hydraulics...",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -4775,66 +4886,6 @@
       ],
       "generated_at": "2026-11-14T11:53:40.356Z",
       "generated_by": "github-models"
-    }
-  },
-  {
-    "id": "caa70a0cc2823f6f",
-    "status": "published",
-    "title_original": "165hp Chinese twin-track tractor",
-    "source_name": "profi",
-    "source_url": "https://www.profi.co.uk/news/165hp-chinese-twin-track-tractor/",
-    "source_feed": "https://www.profi.co.uk/feed/",
-    "published_at": "2026-11-12T17:26:34.000Z",
-    "discovered_at": "2026-11-12T21:47:27.403Z",
-    "sector": "tarim",
-    "subsector": null,
-    "technologies": [
-      "yuruyus-guc-aktarma",
-      "emisyon-stage-v"
-    ],
-    "relevance_score": 131,
-    "editorial_fit_score": 79,
-    "summary_source": "A Chinese tractor highlight at EIMA is the 165hp rubber-tracked model from Landtrac Heavy Industry. Developed with input from MANN, the Chinese manufacturer’s Rome-based importer, the Stage V six-cylinder Yuchai motor is mated to a 12fx4r Chinese-made mechanical transmission with a top speed of 18km/hr. Rear lift capacity of the nearly 7-tonne tractor is 8 […] The post 165hp Chinese twin-track tractor appeared first on Profi.",
-    "editorial": {
-      "title_tr": "Landtrac, EIMA’da 165 hp çift paletli traktörünü sergiledi",
-      "dek_tr": "profi’nin haberine göre yaklaşık 7 tonluk traktör, Stage V uyumlu altı silindirli Yuchai motor ve 12 ileri/4 geri mekanik şanzımanla donatılıyor. Modelin azami hızı 18 km/sa olarak aktarılıyor.",
-      "summary_tr": "profi, Landtrac Heavy Industry’nin EIMA’da 165 hp gücünde, kauçuk paletli bir traktör sergilediğini bildiriyor. Haberde modelin yaklaşık 7 ton ağırlığında olduğu ve geliştirme sürecine üreticinin Roma merkezli ithalatçısı MANN’ın katkı sunduğu belirtiliyor.\n\nAktarılan güç aktarma düzeninde Stage V uyumlu altı silindirli Yuchai motor, Çin üretimi 12 ileri/4 geri mekanik şanzımanla eşleştiriliyor. Habere göre azami hız 18 km/sa. Metindeki arka kaldırma kapasitesi bilgisi tamamlanmadığı için bu taslağa alınmadı.",
-      "why_it_matters_tr": "Kauçuk paletli yürüyüş düzeni, traktörün çekiş ve zeminle etkileşim özellikleri bakımından teknik açıdan incelenmeye değer. Ancak kaynak, bu modelin belirli tarla koşullarındaki performansına ilişkin ölçüm veya karşılaştırma sunmuyor.",
-      "seo_title": "Landtrac’ın 165 hp çift paletli traktörü EIMA’da",
-      "meta_description": "profi’ye göre Landtrac’ın yaklaşık 7 tonluk çift kauçuk paletli traktörü, Stage V Yuchai motor ve 12 ileri/4 geri mekanik şanzıman kullanıyor.",
-      "hero_image": "",
-      "reviewed": false,
-      "key_facts": [
-        "profi, Landtrac Heavy Industry modelini 165 hp ve kauçuk paletli olarak tanımlıyor.",
-        "Haberde traktörün ağırlığı yaklaşık 7 ton olarak veriliyor.",
-        "Güç aktarma sistemi Stage V uyumlu altı silindirli Yuchai motor ve 12 ileri/4 geri mekanik şanzıman olarak aktarılıyor.",
-        "Haberde azami hız 18 km/sa olarak belirtiliyor."
-      ],
-      "suggested_tags": [
-        "Landtrac",
-        "traktör",
-        "kauçuk palet",
-        "Yuchai",
-        "EIMA"
-      ],
-      "suggested_sector": "tarim",
-      "editorial_format": "haber",
-      "suggested_technologies": [
-        "yuruyus-guc-aktarma",
-        "emisyon-stage-v"
-      ],
-      "source_facts_used": [
-        "profi’nin traktörün gücü, kauçuk paletli yapısı ve yaklaşık ağırlığı hakkındaki haberi",
-        "Haberde belirtilen Yuchai motor, mekanik şanzıman, azami hız ve geliştirme katkısı bilgileri"
-      ],
-      "uncertainty_notes": [
-        "Girdi içinde üretici veya resmi kurum kaynağı bulunmuyor; teknik bilgiler ikincil sektör yayınına dayanıyor ve birincil kaynakla doğrulanmalı.",
-        "Arka kaldırma kapasitesine ilişkin kaynak cümlesi kesik; kapasite değeri ve birimi doğrulanamıyor."
-      ],
-      "generated_at": "2026-11-12T21:48:24.597Z",
-      "generated_by": "github-models",
-      "review_result": "auto_published",
-      "reviewed_at": "2026-11-17T15:55:58.265Z"
     }
   },
   {
@@ -6072,6 +6123,58 @@
       ],
       "generated_at": "2026-10-27T10:09:14.886Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "6df7e68667e6e4dc",
+    "status": "candidate",
+    "title_original": "Tadano Crane AC 4.100L-1 Returns to Product Portfolio",
+    "source_name": "Construction Equipment Guide",
+    "source_url": "https://www.constructionequipmentguide.com/tadano-crane-ac-4100l1-returns-to-product-portfolio/72786",
+    "source_feed": "https://feeds.feedburner.com/ceg",
+    "published_at": "2026-11-17T05:00:00.000Z",
+    "discovered_at": "2026-11-17T22:49:42.176Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 120,
+    "editorial_fit_score": 55,
+    "summary_source": "The 100T all-terrain crane to be produced again with deliveries planned for early 2028....",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "7197b6d99b8a8b20",
+    "status": "candidate",
+    "title_original": "Perry Crane Services Tackles Tree Removals with National Crane",
+    "source_name": "Construction Equipment Guide",
+    "source_url": "https://www.constructionequipmentguide.com/perry-crane-services-tackles-tree-removals-with-national-crane/72780",
+    "source_feed": "https://feeds.feedburner.com/ceg",
+    "published_at": "2026-11-16T05:00:00.000Z",
+    "discovered_at": "2026-11-17T22:49:42.185Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 120,
+    "editorial_fit_score": 55,
+    "summary_source": "Equipped with a 127ft. boom and 45 USt capacity, the National Crane boom truck provides an ideal balance of reach and lifting performance for the trees commonly found throughout West Bridgewater, Mass. ...",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
