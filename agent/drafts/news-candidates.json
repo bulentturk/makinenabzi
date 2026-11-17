@@ -1199,7 +1199,7 @@
   },
   {
     "id": "f899f14660e0ae02",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Hillcrest and Equipmake to co-develop 800 V ZVS inverter for heavy-duty EVs",
     "source_name": "Charged EVs",
     "source_url": "https://chargedevs.com/newswire/hillcrest-and-equipmake-to-co-develop-800-v-zvs-inverter-for-heavy-duty-evs/",
@@ -1216,14 +1216,45 @@
     "editorial_fit_score": 79,
     "summary_source": "Power conversion developer Hillcrest Energy Technologies and UK drivetrain manufacturer Equipmake have signed an agreement to jointly develop an 800 V traction inverter using Hillcrest’s zero-voltage-switching (ZVS) technology for heavy-duty... Read more »",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Hillcrest ve Equipmake, ağır hizmet araçları için 800 V ZVS inverter geliştirecek",
+      "dek_tr": "İki şirket, ağır hizmet kamyonları, otobüsler ve off-highway ekipmanları için sıfır gerilimde anahtarlama (ZVS) teknolojili bir çekiş inverteri geliştirmek üzere anlaştı. Programın prototip aşamaları ve performans ölçütleri bulunuyor.",
+      "summary_tr": "Charged EVs’in aktardığına göre güç elektroniği şirketi Hillcrest Energy Technologies ile güç aktarma sistemi üreticisi Equipmake, 800 V’luk bir çekiş inverterini birlikte geliştirmek için anlaşma imzaladı. Hedef uygulamalar arasında ağır hizmet kamyonları, otobüsler ve off-highway ekipmanları sayılıyor.\n\nZVS yaklaşımının inverterdeki enerji kayıplarını, elektriksel gürültüyü ve gerilim sıçramalarını azaltmak üzere tasarlandığı belirtiliyor. Hillcrest, laboratuvar ve test düzeneği ölçümlerinde yüzde 99,7 tepe verim, EMC odası testlerinde daha düşük elektromanyetik girişim ve motor terminallerindeki gerilim aşımında yüzde 90’dan fazla azalma elde ettiğini bildiriyor.\n\nGeliştirme programı, teknik şartname ve kaynak planı tamamlandıktan sonra başlayacak; iki prototip aşaması için performans ölçütleri belirlenecek. Haberde süre, tarafların bu planı altı ay içinde tamamlamayı taahhüt ettiğini belirtiyor; ürünün seri üretime veya saha kullanımına geçtiğine dair bilgi verilmiyor.",
+      "why_it_matters_tr": "Çekiş inverterinin verimliliği ve elektromanyetik uyumluluğu, ağır hizmet tipi elektrikli araçların tahrik sistemi tasarımını etkileyebilir. ZVS’nin gerçek araçlarda, özellikle uzun çalışma çevrimlerine sahip off-highway makinelerde sağlayacağı fayda henüz bağımsız saha verileriyle gösterilmiş değil.",
+      "seo_title": "Hillcrest ve Equipmake’den 800 V ZVS inverter projesi",
+      "meta_description": "Hillcrest ve Equipmake, ağır hizmet ve off-highway araçlar için 800 V ZVS çekiş inverteri geliştirecek. Test sonuçları Hillcrest tarafından bildirildi.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Hillcrest Energy Technologies ve Equipmake, 800 V ZVS çekiş inverteri geliştirmek üzere anlaşma yaptı.",
+        "Hedef uygulamalar ağır hizmet kamyonları, otobüsler ve off-highway ekipmanları.",
+        "Programın iki prototip aşaması ve tanımlı performans ölçütleri olacak.",
+        "Yüzde 99,7 tepe verim ve gerilim aşımında yüzde 90’dan fazla azalma, Hillcrest’in aktarılan test sonuçlarıdır."
+      ],
+      "suggested_tags": [
+        "Hillcrest Energy Technologies",
+        "Equipmake",
+        "ZVS inverter",
+        "800 V",
+        "elektrikli ağır hizmet araçları"
+      ],
+      "suggested_sector": "elektrifikasyon",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon",
+        "yuruyus-guc-aktarma"
+      ],
+      "source_facts_used": [
+        "Haberde iki şirketin 800 V ZVS çekiş inverteri geliştirmek üzere anlaşma yaptığı aktarılıyor.",
+        "Haberde hedef araç sınıfları, prototip aşamaları ve altı ay içinde planı tamamlama taahhüdü belirtiliyor.",
+        "Test sonuçları, haberin Hillcrest’e atfettiği laboratuvar, EMC odası ve test düzeneği ölçümleridir."
+      ],
+      "uncertainty_notes": [
+        "Kaynak bir sektör yayınıdır; özgün şirket duyurusu bu girdide yer almıyor.",
+        "Verim ve gerilim aşımı sonuçları şirket tarafından bildirilen test sonuçlarıdır; bağımsız doğrulama veya araç üzerindeki saha performansı verilmemiştir.",
+        "Projenin teknik özellikleri, münhasır hakların kapsamı ve ticarileşme takvimi birincil kaynakla doğrulanmalı."
+      ],
+      "generated_at": "2026-11-17T22:50:48.216Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -3329,7 +3360,7 @@
   },
   {
     "id": "0771e765b5944bc6",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "OPINION: Passenger terminal power planning starts at the gate",
     "source_name": "Passenger Terminal Today",
     "source_url": "https://www.passengerterminaltoday.com/opinion/opinion-passenger-terminal-power-planning-starts-at-the-gate.html",
@@ -3345,14 +3376,41 @@
     "editorial_fit_score": 79,
     "summary_source": "Ground power, preconditioned air and electric ramp vehicles are reshaping terminal electrical design. Planning them early, as one system, avoids costly upgrades later An airport gate appears to be a small part of a terminal, but its electrical demands can shape decisions made far upstream. Aircraft ground power, preconditioned air (PCA), passenger boarding bridges and, increasingly, electric ground support equipment (eGSE) all compete for capacity, space and reliable service. Continue reading OPINION: Passenger terminal power planning starts at the gate at Passenger Terminal Today.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Havalimanı terminalinde elektrik planlaması kapı ve GSE yükleriyle başlamalı",
+      "dek_tr": "Passenger Terminal Today’deki görüş yazısı, uçak yer güç sistemleri, ön koşullandırılmış hava, yolcu köprüleri ve elektrikli yer destek araçlarının enerji gereksinimlerinin birlikte planlanmasını savunuyor.",
+      "summary_tr": "Passenger Terminal Today’de yayımlanan görüş yazısına göre, terminal kapısındaki elektrik talebi daha geniş altyapı kararlarını etkileyebilir. Yazı; uçak yer güç sistemlerini, ön koşullandırılmış havayı (PCA), yolcu biniş köprülerini ve elektrikli yer destek ekipmanlarını (eGSE) aynı planlama çerçevesinde ele alıyor.\n\nYazının yaklaşımı, bu yüklerin kapasite, alan ve hizmet sürekliliği üzerindeki etkilerinin erken değerlendirilmesi gerektiği yönünde. Kaynak özeti, belirli bir havalimanına veya ölçülmüş enerji tasarrufuna ilişkin veri sunmuyor.",
+      "why_it_matters_tr": "eGSE kullanımının artması, apron ve terminal çevresindeki elektrik altyapısı planlamasını yer destek ekipmanlarıyla daha yakından ilişkilendiriyor. Yükleri birlikte değerlendirmek, GSE elektrifikasyonunun şarj ve güç beslemesi gereksinimlerinin planlama aşamasında dikkate alınmasına yardımcı olabilir.",
+      "seo_title": "Havalimanında eGSE ve terminal güç planlaması",
+      "meta_description": "Bir görüş yazısı, yer güç sistemleri, PCA, yolcu köprüleri ve elektrikli GSE yüklerinin havalimanı terminal tasarımında birlikte planlanmasını savunuyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Görüş yazısı, yer güç sistemleri, PCA, yolcu köprüleri ve eGSE’yi terminal kapısındaki başlıca elektrik yükleri arasında sayıyor.",
+        "Yazı, kapasite, alan ve güvenilir hizmet konularının birlikte ve erken planlanmasını savunuyor.",
+        "Kaynak özetinde belirli bir havalimanına ait ölçüm veya vaka çalışması bulunmuyor."
+      ],
+      "suggested_tags": [
+        "havaalanı GSE",
+        "eGSE",
+        "terminal elektrifikasyonu",
+        "yer güç sistemi",
+        "PCA"
+      ],
+      "suggested_sector": "havaalani-gse",
+      "editorial_format": "gorus-analiz",
+      "suggested_technologies": [
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "Kaynak metni, yer güç sistemleri, PCA, yolcu köprüleri ve eGSE’nin kapı çevresinde enerji, alan ve hizmet gereksinimleri oluşturduğunu belirtiyor.",
+        "Kaynak metni, bu gereksinimlerin erken ve bütünleşik planlanmasını öneriyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfasına HTTP 403 nedeniyle erişilemedi; taslak kısa kaynak özetiyle sınırlıdır.",
+        "Yazının yazarı, dayandığı teknik veriler ve somut havalimanı örnekleri bu girdide doğrulanamıyor."
+      ],
+      "generated_at": "2026-11-17T22:50:48.216Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -4021,7 +4079,7 @@
   },
   {
     "id": "812118e0716b623e",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Volvo Trucks Introduces Remote Steer Technology",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/volvo-trucks-introduces-remote-steer-technology/72784",
@@ -4037,14 +4095,40 @@
     "editorial_fit_score": 89,
     "summary_source": "Volvo Trucks is introducing Remote Steer technology on its Volvo VNX, the technology allows drivers to maneuver the truck remotely at speeds of up to 5 mph using a wireless controller....",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Volvo Trucks, VNX için uzaktan yönlendirme teknolojisini tanıttı",
+      "dek_tr": "Remote Steer, sürücünün Volvo VNX kamyonunu kablosuz kumandayla uzaktan manevra ettirmesini sağlıyor. Kaynak özeti, sistemin 5 mph’ye kadar hızlarda kullanılabildiğini bildiriyor.",
+      "summary_tr": "Volvo Trucks, VNX modeli için Remote Steer adlı uzaktan yönlendirme teknolojisini tanıttı. Kaynak özetine göre sürücü, kamyonu kablosuz bir kumandayla yönlendirebiliyor.\n\nÖzette sistemin 5 mph’ye kadar hızlarda manevraya imkân verdiği belirtiliyor. Kaynak sayfasına erişilemediğinden, kullanım koşulları ve sistemin teknik sınırları hakkında ek bilgi doğrulanamıyor.",
+      "why_it_matters_tr": "Uzaktan manevra, büyük araçların dar alanlardaki konumlandırılmasına yönelik bir kontrol yaklaşımı sunabilir. Ancak iş makinesi veya saha uygulamalarına aktarılabilirliği, mevcut kaynakta açıklanmıyor.",
+      "seo_title": "Volvo VNX için Remote Steer uzaktan yönlendirme",
+      "meta_description": "Volvo Trucks’ın VNX için tanıttığı Remote Steer, kamyonun kablosuz kumandayla 5 mph’ye kadar hızlarda uzaktan manevra etmesini sağlıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Teknoloji Volvo VNX kamyonu için tanıtıldı.",
+        "Kaynak özeti, kablosuz kumandayla uzaktan manevra olanağından söz ediyor.",
+        "Bildirilen azami hız 5 mph."
+      ],
+      "suggested_tags": [
+        "Volvo Trucks",
+        "Volvo VNX",
+        "uzaktan yönlendirme",
+        "kablosuz kumanda"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektronik-telematik"
+      ],
+      "source_facts_used": [
+        "Kaynak özetinde Remote Steer’in Volvo VNX için tanıtıldığı belirtiliyor.",
+        "Kaynak özetinde kablosuz kumandayla 5 mph’ye kadar uzaktan manevra bilgisi veriliyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfasına HTTP 403 nedeniyle erişilemedi; taslak yalnızca kısa kaynak özeti ve başlık bilgisine dayanıyor.",
+        "Sistemin çalışma koşulları, güvenlik özellikleri ve iş makinesi sahalarındaki kullanım uygunluğu doğrulanamadı."
+      ],
+      "generated_at": "2026-11-17T22:50:48.216Z",
+      "generated_by": "github-models"
     }
   },
   {
