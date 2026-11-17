@@ -63,7 +63,7 @@
   },
   {
     "id": "25508840d39d1de4",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Wabtec Digital Mine’s Gen 3 CAS completes University of Pretoria TRL4 stage gate",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/11/17/wabtec-digital-mines-gen-3-cas-completes-university-of-pretoria-trl4-stage-gate/",
@@ -80,14 +80,42 @@
     "editorial_fit_score": 79,
     "summary_source": "Wabtec Digital Mine’s Generation 3 Collision Avoidance System (CAS Gen 3) has completed the Technology Readiness Level 4 (TRL4) stage gate for surface Collision Warning and Avoidance Devices (CxD). The testing was conducted by VDG Solutions, a business unit of Enterprises University of Pretoria. The TRL4 programme is run under the Mining Industry Occupational Safety The post Wabtec Digital Mine’s Gen 3 CAS completes University of Pretoria TRL4 stage gate appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Wabtec’in Gen 3 çarpışma önleme sistemi TRL 4 aşamasını tamamladı",
+      "dek_tr": "Wabtec Digital Mine’ın Gen 3 Collision Avoidance System ürünü, yüzey madenciliğinde çarpışma uyarı ve önleme cihazları için TRL 4 aşama kapısını geçti. Testleri, Pretoria Üniversitesi bünyesindeki VDG Solutions yürüttü.",
+      "summary_tr": "International Mining’in haber özetine göre Wabtec Digital Mine’ın Generation 3 Collision Avoidance System (CAS Gen 3) sistemi, yüzey uygulamalarındaki çarpışma uyarı ve önleme cihazları için Teknoloji Hazırlık Seviyesi 4 (TRL 4) aşama kapısını tamamladı.\n\nTest çalışmasını, Enterprises University of Pretoria’nın iş birimi olan VDG Solutions gerçekleştirdi. Kaynak özeti, test yöntemi, sonuç ölçütleri veya sistemin algılama ve uyarı özellikleri hakkında ayrıntı sunmuyor.",
+      "why_it_matters_tr": "Çarpışma uyarı ve önleme sistemleri, yüzey madenlerinde araç-yaya ve araç-araç etkileşimlerinin yönetimi açısından önem taşıyor. Bununla birlikte TRL 4 aşamasının tamamlanması, tek başına saha koşullarında etkinliğin kanıtlandığı anlamına gelmiyor.",
+      "seo_title": "Wabtec CAS Gen 3, TRL 4 aşamasını tamamladı",
+      "meta_description": "Wabtec Digital Mine’ın CAS Gen 3 sistemi, yüzey madenciliği çarpışma uyarı ve önleme cihazları için TRL 4 aşama kapısını geçti.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Wabtec Digital Mine’ın CAS Gen 3 sistemi TRL 4 aşama kapısını tamamladı.",
+        "Değerlendirme yüzey tipi çarpışma uyarı ve önleme cihazlarına yönelikti.",
+        "Testleri VDG Solutions yürüttü."
+      ],
+      "suggested_tags": [
+        "Wabtec Digital Mine",
+        "çarpışma önleme",
+        "yüzey madenciliği",
+        "TRL 4",
+        "maden emniyeti"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektronik-telematik",
+        "fonksiyonel-guvenlik"
+      ],
+      "source_facts_used": [
+        "CAS Gen 3’ün yüzey tipi çarpışma uyarı ve önleme cihazları için TRL 4 aşama kapısını tamamlaması",
+        "Testlerin Pretoria Üniversitesi bünyesindeki VDG Solutions tarafından yürütülmesi"
+      ],
+      "uncertainty_notes": [
+        "Sayfa 403 hatası nedeniyle tam haber metnine erişilemedi; bilgiler haber özetindeki kısa açıklamayla sınırlı.",
+        "TRL 4 değerlendirmesinin ölçütleri, sonuçları, sistemin teknik işlevleri ve sonraki doğrulama aşamaları verilmemiş; önemli teknik iddialar için Wabtec veya test kuruluşunun birincil açıklaması gerekli."
+      ],
+      "generated_at": "2026-11-17T14:01:12.683Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -291,7 +319,7 @@
   },
   {
     "id": "840122d6b4db5ffd",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Carmeuse on its new autonomous Cat 777 fleet and the bigger picture",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/11/17/carmeuse-on-its-new-autonomous-cat-777-fleet-and-the-bigger-picture/",
@@ -307,14 +335,41 @@
     "editorial_fit_score": 87,
     "summary_source": "In May 2026, global industrial minerals major Carmeuse announced that it had partnered with Caterpillar to deploy autonomous haulage trucks at its Drummond Island quarry in northern Michigan, one of the first autonomous Cat 777 fleets in a quarry environment, and the first deployment of its kind on a continuous operation with a long-haul route. The post Carmeuse on its new autonomous Cat 777 fleet and the bigger picture appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Carmeuse, Drummond Island taş ocağında otonom Cat 777 filosu kuruyor",
+      "dek_tr": "Carmeuse, Caterpillar ile Michigan’daki Drummond Island taş ocağında otonom Cat 777 kamyonları kullanmak üzere iş birliği yaptı. Kaynak, uygulamayı uzun taşıma rotasına sahip sürekli bir taş ocağı operasyonunda türünün ilk örneği olarak tanımlıyor.",
+      "summary_tr": "Carmeuse, Mayıs 2026’da Caterpillar ile Drummond Island taş ocağında otonom kamyon filosu devreye almak üzere ortaklık kurduğunu duyurdu. Ocak, Michigan’ın kuzeyinde bulunuyor.\n\nInternational Mining’in haber özetine göre bu, taş ocağı ortamındaki ilk otonom Cat 777 filolarından biri ve uzun taşıma rotalı sürekli operasyondaki ilk uygulama. Kaynak metni, filonun teknik yapılandırması veya operasyon sonuçlarına ilişkin ayrıntı vermiyor.",
+      "why_it_matters_tr": "Otonom taşımacılığın yalnızca maden sahalarında değil, sürekli ve uzun rotalı taş ocağı operasyonlarında da uygulanmasına dair bir örnek sunuyor. Ancak verimlilik ya da güvenlik etkisi konusunda kaynakta ölçüm bulunmuyor.",
+      "seo_title": "Carmeuse taş ocağında otonom Cat 777 filosu",
+      "meta_description": "Carmeuse ve Caterpillar, Michigan’daki Drummond Island taş ocağında otonom Cat 777 kamyonları kullanmak üzere ortaklık kurdu.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Carmeuse, Mayıs 2026’da Caterpillar ile otonom taşıma kamyonları için ortaklık duyurdu.",
+        "Uygulama, Michigan’daki Drummond Island taş ocağında planlandı.",
+        "Kaynak özeti, Cat 777 filosunu uzun rotalı sürekli taş ocağı operasyonundaki ilk uygulama olarak nitelendiriyor."
+      ],
+      "suggested_tags": [
+        "Carmeuse",
+        "Caterpillar",
+        "Cat 777",
+        "otonom taşıma",
+        "taş ocağı"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "otonomi-ai"
+      ],
+      "source_facts_used": [
+        "Carmeuse ile Caterpillar’ın Drummond Island taş ocağı için otonom taşıma kamyonları ortaklığı duyurması",
+        "Sahanın Michigan’ın kuzeyinde bulunması ve uygulamanın uzun rotalı sürekli operasyon olarak tanımlanması"
+      ],
+      "uncertainty_notes": [
+        "Sayfa 403 hatası nedeniyle haberin tam metni incelenemedi; eldeki bilgiler yalnızca haber başlığı ve özetinden geliyor.",
+        "Filo büyüklüğü, devreye alma takvimi, sistem yapılandırması ve operasyon performansı kaynakta belirtilmiyor; ilk olma nitelemesi bağımsız olarak doğrulanmış değil."
+      ],
+      "generated_at": "2026-11-17T14:01:12.683Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -1144,7 +1199,7 @@
   },
   {
     "id": "0a5d781f08dff854",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Toyota recalls C-HR+ worldwide due to battery control unit issue",
     "source_name": "electrive",
     "source_url": "https://www.electrive.com/2026/11/17/toyota-recalls-c-hr-worldwide-due-to-battery-control-unit-issue/",
@@ -1161,14 +1216,43 @@
     "editorial_fit_score": 79,
     "summary_source": "Toyota must recall around 19,000 units of its electric C-HR+ worldwide, including 1,096 vehicles in Germany. The reason is a fault in the battery management system which, in the worst case, could cause the electric drivetrain to shut down.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Toyota C-HR+ için batarya kontrol ünitesi kaynaklı geri çağırma",
+      "dek_tr": "Toyota, batarya yönetim sistemindeki bir arıza nedeniyle dünya genelinde yaklaşık 19.000 elektrikli C-HR+ aracını geri çağırıyor. Kaynağa göre arıza, en kötü durumda elektrikli tahrikin kapanmasına yol açabilir.",
+      "summary_tr": "electrive’ın haber özetinde, geri çağırmanın nedeni batarya yönetim sistemindeki bir arıza olarak belirtiliyor. Sorunun en kötü durumda elektrikli tahrikin kapanmasına neden olabileceği aktarılıyor.\n\nGeri çağırmanın dünya genelinde yaklaşık 19.000 aracı kapsadığı, bunların 1.096’sının Almanya’da olduğu bildiriliyor. Kaynak, arızanın teknik mekanizması veya düzeltici işlemin ayrıntılarını vermiyor.",
+      "why_it_matters_tr": "Batarya kontrolündeki bir arızanın tahrik sisteminin kapanmasına yol açabilmesi, elektrikli mobil makinelerde de kontrol ve güvenilirlik konularının önemini hatırlatıyor. Ancak bu binek otomobil geri çağırması ile iş, maden veya diğer mobil makineler arasında kaynakta doğrulanmış doğrudan bir teknik bağlantı yok; bu nedenle Makine Nabzı için sınırlı haber değeri taşıyor.",
+      "seo_title": "Toyota C-HR+ batarya kontrolü nedeniyle geri çağrılıyor",
+      "meta_description": "Toyota, batarya yönetim sistemi arızası nedeniyle dünya genelinde yaklaşık 19.000 elektrikli C-HR+ aracını geri çağırıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Geri çağırma yaklaşık 19.000 Toyota C-HR+ aracını kapsıyor.",
+        "Almanya’daki araç sayısı 1.096 olarak veriliyor.",
+        "Kaynak, batarya yönetim sistemi arızasının en kötü durumda elektrikli tahriki kapatabileceğini belirtiyor."
+      ],
+      "suggested_tags": [
+        "Toyota",
+        "C-HR+",
+        "batarya yönetim sistemi",
+        "geri çağırma",
+        "elektrikli araç"
+      ],
+      "suggested_sector": "elektrifikasyon",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon",
+        "yuruyus-guc-aktarma"
+      ],
+      "source_facts_used": [
+        "Geri çağırmanın yaklaşık 19.000 aracı dünya genelinde ve 1.096 aracı Almanya’da kapsaması",
+        "Batarya yönetim sistemi arızasının tahrikin kapanmasına yol açabilmesi"
+      ],
+      "uncertainty_notes": [
+        "Sayfa 403 hatası nedeniyle tam haber metni incelenemedi; ayrıntılar yalnızca haber özetine dayanıyor.",
+        "Arızanın kök nedeni, etkilenen araçların dağılımı ve düzeltici işlem kaynakta açıklanmıyor.",
+        "Binek otomobil geri çağırmasının mobil makine teknolojisine aktarılabilirliği gösterilmediğinden, haberin Makine Nabzı kapsamına uygunluğu sınırlı."
+      ],
+      "generated_at": "2026-11-17T14:01:12.683Z",
+      "generated_by": "github-models"
     }
   },
   {
