@@ -291,7 +291,7 @@
   },
   {
     "id": "71221421c96488c4",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Cambrian College, Eaton to develop Canada’s first mobile high-power charging system for underground BEVs",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/11/17/cambrian-college-eaton-to-develop-canadas-first-mobile-high-power-charging-system-for-underground-bevs/",
@@ -307,14 +307,42 @@
     "editorial_fit_score": 77,
     "summary_source": "Viviane Lapointe, Member of Parliament for Sudbury, has announced C$300,000 ($208,560) over two years for Cambrian College to work with local industry to complete Canada’s first mobile high-power charging system for battery-electric vehicles for underground mines. Cambrian College, in collaboration with Eaton, will develop a rugged, skid-mounted mobile charging system that can be moved underground The post Cambrian College, Eaton to develop Canada’s first mobile high-power charging system for underground BEVs appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Cambrian College ve Eaton, yeraltı BEV’leri için mobil şarj sistemi geliştirecek",
+      "dek_tr": "Cambrian College ile Eaton, yeraltı madenlerinde kullanılmak üzere taşınabilir yüksek güçlü bir şarj sistemi geliştirmek için çalışacak. Projeye iki yıl için 300.000 Kanada doları kamu desteği açıklandığı bildirildi.",
+      "summary_tr": "International Mining’in aktardığına göre Sudbury milletvekili Viviane Lapointe, Cambrian College’a proje için iki yıl boyunca toplam 300.000 Kanada doları destek açıklandığını duyurdu. Kolej, Eaton ve yerel sektör temsilcileriyle birlikte bataryalı elektrikli maden araçlarına yönelik bir şarj sistemi geliştirecek.\n\nSistem, taşınabilir ve kızak üzerine monte edilmiş bir ünite olarak tanımlanıyor; yeraltına taşınabilmesi hedefleniyor. Şarj gücü, batarya uyumluluğu, ölçüler ve yeraltındaki kullanım koşulları hakkında kaynakta teknik ayrıntı bulunmuyor.",
+      "why_it_matters_tr": "Yeraltında şarj altyapısının taşınabilir olması, sabit şarj noktalarının erişemediği çalışma alanlarında bataryalı araçların kullanımını destekleyebilir. Ancak operasyonel fayda, sistemin teknik özellikleri ve saha uygulaması doğrulandığında değerlendirilebilir.",
+      "seo_title": "Cambrian College ve Eaton’dan yeraltı BEV şarj sistemi",
+      "meta_description": "Cambrian College ve Eaton, yeraltı madenlerindeki bataryalı araçlar için taşınabilir yüksek güçlü şarj sistemi geliştirecek.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Cambrian College, Eaton ve yerel sektör temsilcileriyle projede çalışacak.",
+        "Proje için iki yıl boyunca 300.000 Kanada doları destek açıklandığı bildirildi.",
+        "Şarj sistemi taşınabilir ve kızak üzerine monte edilmiş olarak tanımlanıyor."
+      ],
+      "suggested_tags": [
+        "yeraltı madenciliği",
+        "bataryalı elektrikli araç",
+        "şarj altyapısı",
+        "Eaton",
+        "Cambrian College"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "International Mining’in, proje ortakları ve kamu desteğiyle ilgili aktarımı",
+        "Ünitenin kızak üzerine monte edilecek ve yeraltına taşınabilecek olması"
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfasına erişim 403 hatası verdi; taslak, sağlanan kısa kaynak metnine dayanıyor.",
+        "Birincil kurum veya üretici duyurusu girdi içinde yer almıyor; destek tutarı ve projenin Kanada’daki ilk örnek olduğu iddiası birincil kaynaktan doğrulanmalı.",
+        "Şarj gücü, araç uyumluluğu, saha takvimi ve çalışma performansı belirtilmemiş."
+      ],
+      "generated_at": "2026-11-18T13:35:54.482Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -1592,7 +1620,7 @@
   },
   {
     "id": "04a91571c6d74b2c",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "EIMA VIDEO: AGCO Power’s Core75 engine drives award-winning MF 7S Mark 2 and new Valtra T Series",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/videos/eima-video-agco-powers-core75-engine-drives-award-winning-mf-7s-mark-2-and-new-valtra-t-series.html",
@@ -1606,14 +1634,39 @@
     "editorial_fit_score": 65,
     "summary_source": "AGCO Power’s Core75 engine platform is at the heart of two of the biggest tractor showcases at EIMA 2026 in Bologna: the Massey Ferguson 7S Mark 2 range, which was [...] The post EIMA VIDEO: AGCO Power’s Core75 engine drives award-winning MF 7S Mark 2 and new Valtra T Series appeared first on Industrial Vehicle Technology International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "AGCO Power CORE75, yeni Massey Ferguson 7S Mark 2 ve Valtra T Serisi’nde",
+      "dek_tr": "iVT International’ın EIMA 2026 haberine göre AGCO Power CORE75 motor platformu, Massey Ferguson 7S Mark 2 ve yeni Valtra T Serisi traktörlerde kullanılıyor. AGCO Power, yeni MF 7S Mark 2 için yüzde 5’e varan yakıt tasarrufu bildiriminde bulunuyor.",
+      "summary_tr": "iVT International’ın sağlanan haber özeti, AGCO Power’ın CORE75 motor platformunu EIMA 2026’da sergilenen Massey Ferguson 7S Mark 2 ve yeni Valtra T Serisi traktörlerle ilişkilendiriyor. Kaynakta bu platformun iki traktör serisindeki teknik konfigürasyonuna ilişkin ayrıntı verilmiyor.\n\nYayın sayfasının açıklamasına göre AGCO Power temsilcisi, yeni MF 7S Mark 2’de yüzde 5’e varan daha düşük yakıt tüketimi olduğunu belirtiyor. Bu üretici açıklamasıdır; bağımsız test sonucu olarak değerlendirilmemeli.",
+      "why_it_matters_tr": "Aynı motor platformunun farklı traktör serilerinde kullanılması, motor seçimi ve ürün konumlandırması açısından tarım makinesi sektörü için önem taşıyor. Yakıt tüketimi iddiasının gerçek kullanım karşılığı ise test koşulları ve bağımsız veriler olmadan belirlenemez.",
+      "seo_title": "AGCO Power CORE75, iki yeni traktör serisinde",
+      "meta_description": "AGCO Power CORE75, iVT International’a göre Massey Ferguson 7S Mark 2 ve yeni Valtra T Serisi’nde kullanılıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "iVT International, CORE75 platformunu Massey Ferguson 7S Mark 2 ve yeni Valtra T Serisi ile ilişkilendiriyor.",
+        "Yayın sayfası açıklamasında AGCO Power’ın MF 7S Mark 2 için yüzde 5’e varan yakıt tasarrufu bildirdiği aktarılıyor."
+      ],
+      "suggested_tags": [
+        "AGCO Power",
+        "CORE75",
+        "Massey Ferguson 7S Mark 2",
+        "Valtra T Serisi",
+        "traktör motoru"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "iVT International başlık ve haber özetinde CORE75 platformunun iki traktör serisiyle ilişkilendirilmesi",
+        "Sayfa açıklamasında AGCO Power’a atfedilen yüzde 5’e varan yakıt tasarrufu ifadesi"
+      ],
+      "uncertainty_notes": [
+        "Sağlanan kaynak metni yalnızca tarih ve yazar bilgisini içeriyor; teknik ayrıntılar başlık, haber özeti ve sayfa açıklamasından alınmıştır.",
+        "Motorun güç, tork, emisyon seviyesi ve diğer teknik özellikleri verilmemiş.",
+        "Yakıt tasarrufu değeri üretici açıklaması olarak aktarılıyor; test koşulları ve bağımsız doğrulama bilgisi yok."
+      ],
+      "generated_at": "2026-11-18T13:35:54.482Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -4806,7 +4859,7 @@
   },
   {
     "id": "ab418b02d11a5fbb",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "EuroTier: Electric Sgariboldi hitting the market",
     "source_name": "profi",
     "source_url": "https://www.profi.co.uk/news/eurotier-electric-sgariboldi-hitting-the-market/",
@@ -4822,14 +4875,39 @@
     "editorial_fit_score": 67,
     "summary_source": "Italian mixer maker Sgariboldi was showing the first of its new battery powered diet feeders. The post EuroTier: Electric Sgariboldi hitting the market appeared first on Profi.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Sgariboldi, bataryalı yem karma makinesini pazara sunmaya hazırlanıyor",
+      "dek_tr": "Profi’nin EuroTier haberine göre Sgariboldi, bataryayla çalışan yem karma makinelerinin ilk örneğini fuarda sergiledi. Ürün için teknik özellik veya satış takvimi paylaşılmadı.",
+      "summary_tr": "İtalyan yem karma makinesi üreticisi Sgariboldi, Profi’nin aktardığına göre EuroTier’de yeni bataryalı ürün ailesinin ilk makinesini gösterdi. Haberin başlığı ürünün pazara çıkışına işaret etse de sağlanan metin satış tarihi veya teslimat bilgisi vermiyor.\n\nBatarya kapasitesi, çalışma süresi, şarj yöntemi ve makinenin kapasitesi hakkında kaynakta ayrıntı bulunmuyor.",
+      "why_it_matters_tr": "Bataryalı tahrik, yem hazırlama ekipmanlarında yakıt ve enerji kullanım biçimini değiştirebilir; ancak tarımsal kullanım açısından etkisini değerlendirmek için makinenin kapasitesi, çalışma süresi ve şarj gereksinimleri bilinmeli.",
+      "seo_title": "Sgariboldi bataryalı yem karma makinesini sergiledi",
+      "meta_description": "Sgariboldi, Profi’nin EuroTier haberine göre bataryayla çalışan yem karma makinesi ailesinin ilk örneğini fuarda gösterdi.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Sgariboldi, İtalyan bir yem karma makinesi üreticisi olarak tanımlanıyor.",
+        "Profi’nin haberine göre şirket, bataryalı ürün ailesinin ilk örneğini EuroTier’de sergiledi."
+      ],
+      "suggested_tags": [
+        "tarım makineleri",
+        "yem karma makinesi",
+        "bataryalı makine",
+        "Sgariboldi",
+        "EuroTier"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "Profi’nin Sgariboldi’nin bataryalı yem karma makinesini EuroTier’de sergilediğine ilişkin kısa aktarımı"
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfasına erişim 403 hatası verdi; sağlanan metinde teknik özellik veya üretici açıklaması bulunmuyor.",
+        "Pazara çıkış tarihi, model adı, kapasite, batarya özellikleri ve çalışma süresi doğrulanamıyor; bu bilgiler birincil üretici kaynağından teyit edilmeli."
+      ],
+      "generated_at": "2026-11-18T13:35:54.482Z",
+      "generated_by": "github-models"
     }
   },
   {
