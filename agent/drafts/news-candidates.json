@@ -1591,6 +1591,32 @@
     }
   },
   {
+    "id": "04a91571c6d74b2c",
+    "status": "candidate",
+    "title_original": "EIMA VIDEO: AGCO Power’s Core75 engine drives award-winning MF 7S Mark 2 and new Valtra T Series",
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/videos/eima-video-agco-powers-core75-engine-drives-award-winning-mf-7s-mark-2-and-new-valtra-t-series.html",
+    "source_feed": "https://www.ivtinternational.com/feed",
+    "published_at": "2026-11-18T12:58:08.000Z",
+    "discovered_at": "2026-11-18T13:34:53.404Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 150,
+    "editorial_fit_score": 65,
+    "summary_source": "AGCO Power’s Core75 engine platform is at the heart of two of the biggest tractor showcases at EIMA 2026 in Bologna: the Massey Ferguson 7S Mark 2 range, which was [...] The post EIMA VIDEO: AGCO Power’s Core75 engine drives award-winning MF 7S Mark 2 and new Valtra T Series appeared first on Industrial Vehicle Technology International.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "55250f89811111dc",
     "status": "drafted",
     "title_original": "EIMA VIDEO: Cummins F4.5 Structural engine debuts in Claas Arion tractor",
@@ -6749,6 +6775,32 @@
       ],
       "generated_at": "2026-10-20T09:45:23.236Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "40989c65d0f07496",
+    "status": "candidate",
+    "title_original": "Silver Jubilee tractor raises £39,500 for charity",
+    "source_name": "profi",
+    "source_url": "https://www.profi.co.uk/uncategorized/silver-jubilee-tractor-raises-39500-for-charity/",
+    "source_feed": "https://www.profi.co.uk/feed/",
+    "published_at": "2026-11-18T11:30:27.000Z",
+    "discovered_at": "2026-11-18T13:34:54.706Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 115,
+    "editorial_fit_score": 55,
+    "summary_source": "A rare 1991 Ford 7810 Silver Jubilee tractor has raised £39,500 for Royal Papworth Hospital charity’s Brighter Spaces, Brighter Futures appeal. Donated by Somerset agricultural business owner Michael Burdge, the funds will help transform patient and family spaces at the hospital, which is the UK’s leading centre for the treatment of heart and lung disease. […] The post Silver Jubilee tractor raises £39,500 for charity appeared first on Profi.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
