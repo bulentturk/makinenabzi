@@ -2538,7 +2538,7 @@
   },
   {
     "id": "5a101543e4829ba1",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "EU statistics reveal sales trends for battery-electric trucks and tractor units",
     "source_name": "electrive",
     "source_url": "https://www.electrive.com/2026/11/18/eu-statistics-reveal-sales-trends-for-battery-electric-trucks-and-tractor-units/",
@@ -2554,14 +2554,39 @@
     "editorial_fit_score": 67,
     "summary_source": "The sales of electric commercial vehicles vary depending on the vehicle structure: conventional trucks already account for a higher share of electric vehicles than tractors. This is revealed by an analysis of the Federal Statistical Office, drawing on data from the European statistical authority Eurostat.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "AB Verileri: Elektrikli Kamyonların Payı Çekicilerden Yüksek",
+      "dek_tr": "Federal İstatistik Ofisinin Eurostat verilerine dayandırdığı analize göre, elektrikli araçların satışlardaki payı geleneksel kamyonlarda çekicilerden daha yüksek. Kaynak metinde oranlar ve incelenen dönem belirtilmiyor.",
+      "summary_tr": "electrive’ın aktardığı analize göre elektrikli ticari araç satışları araç tipine göre farklılık gösteriyor. Geleneksel kamyonların elektrikli araç payı, çekici ünitelerinin payından yüksek.\n\nAnaliz, Federal İstatistik Ofisinin Eurostat verilerine dayanıyor. Payların büyüklüğü, karşılaştırmanın kapsadığı dönem ve kullanılan araç sınıflandırması mevcut kaynak metninde yer almıyor.",
+      "why_it_matters_tr": "Karayolu taşımacılığındaki elektrifikasyon eğilimi, mobil makine sektöründe batarya ve şarj çözümlerinin gelişimini izleyenler için bağlam sağlayabilir; ancak mevcut bilgi, iş makinelerine doğrudan aktarım veya pazarın büyüklüğü hakkında sonuç çıkarmaya yetmiyor.",
+      "seo_title": "AB Verileri Elektrikli Kamyon ve Çekici Satışlarını Gösteriyor",
+      "meta_description": "Eurostat verilerine dayandırılan analizde elektrikli araçların satış payı geleneksel kamyonlarda çekicilerden yüksek. Oranlar kaynak metninde yok.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Analiz, Federal İstatistik Ofisinin Eurostat verilerine dayandırılıyor.",
+        "Kaynağa göre elektrikli araçların satış payı geleneksel kamyonlarda çekici ünitelerinden daha yüksek."
+      ],
+      "suggested_tags": [
+        "elektrikli ticari araç",
+        "kamyon",
+        "çekici",
+        "Eurostat"
+      ],
+      "suggested_sector": "elektrifikasyon",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "electrive özetinde, Federal İstatistik Ofisinin Eurostat verileriyle yaptığı analiz aktarılıyor.",
+        "Özette geleneksel kamyonların elektrikli araç satış payının çekicilerden yüksek olduğu belirtiliyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası alınamadı (HTTP 403); eldeki metinde sayısal oranlar, veri dönemi ve yöntem bulunmuyor.",
+        "Analizin özgün kurum yayını mevcut girdide yer almadığından birincil kaynak doğrulaması gerekli."
+      ],
+      "generated_at": "2026-11-18T22:32:57.237Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -4240,7 +4265,7 @@
   },
   {
     "id": "e50f49dec012486e",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "VIDEO: Virnig Reintroduces Trailers With Hydraulic Drop Deck",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/video-virnig-reintroduces-trailers-with-hydraulic-drop-deck/72805",
@@ -4256,14 +4281,38 @@
     "editorial_fit_score": 67,
     "summary_source": "Virnig Manufacturing announced its return to trailer manufacturing with the launch of the Virnig hydraulic drop deck utility trailer....",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Virnig Hidrolik Alçalan Platformlu Römork Üretimine Dönüyor",
+      "dek_tr": "Virnig Manufacturing, hidrolik alçalan platformlu yardımcı römorkla römork üretimine geri döndüğünü duyurdu. Kaynakta ürünün kapasitesi ve teknik özellikleri açıklanmıyor.",
+      "summary_tr": "Construction Equipment Guide’ın haberine göre Virnig Manufacturing, römork üretimine dönüşünü Virnig hidrolik alçalan platformlu yardımcı römorkun duyurusuyla açıkladı.\n\nPaylaşılan kaynak metni ürünün tasarımı, taşıma kapasitesi, ölçüleri veya hidrolik sisteminin özellikleri hakkında bilgi vermiyor. Bu nedenle römorkun teknik kullanım sınırları hakkında çıkarım yapılamıyor.",
+      "why_it_matters_tr": "Makine ve ekipmanların taşınmasına yönelik römorklar saha lojistiği açısından ilgi taşıyabilir; ancak ürünün makine taşımaya uygunluğu ve operasyonel avantajları mevcut kaynakta doğrulanmıyor.",
+      "seo_title": "Virnig Hidrolik Alçalan Platformlu Römorku Duyurdu",
+      "meta_description": "Virnig Manufacturing, hidrolik alçalan platformlu yardımcı römorkla römork üretimine geri döndü; ürünün kapasitesi ve teknik ayrıntıları açıklanmadı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Virnig Manufacturing römork üretimine geri döndüğünü duyurdu.",
+        "Duyurulan ürün hidrolik alçalan platformlu yardımcı römork olarak tanımlanıyor."
+      ],
+      "suggested_tags": [
+        "Virnig",
+        "hidrolik römork",
+        "ekipman lojistiği"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "hidrolik"
+      ],
+      "source_facts_used": [
+        "Construction Equipment Guide özetinde Virnig Manufacturing’in römork üretimine döndüğü belirtiliyor.",
+        "Ürün, hidrolik alçalan platformlu yardımcı römork olarak tanımlanıyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası alınamadı (HTTP 403); özgün üretici duyurusu ve ürün teknik verileri girdi içinde yok.",
+        "Taşıma kapasitesi, boyutlar, hidrolik düzenek ve makine taşıma uygunluğu için birincil kaynak doğrulaması gerekli."
+      ],
+      "generated_at": "2026-11-18T22:32:57.237Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -5626,7 +5675,7 @@
   },
   {
     "id": "5949a98b40eba614",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Liebherr at World of Concrete 2027",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/liebherr-at-world-of-concrete-2027/72811",
@@ -5642,14 +5691,37 @@
     "editorial_fit_score": 67,
     "summary_source": "The Liebherr team will be on site at World of Concrete to discuss its comprehensive nationwide customer support network, including expert service capabilities, spare parts availability and concrete pump solutions....",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Liebherr, World of Concrete 2027’de Servis ve Beton Pompası Çözümlerini Tanıtacak",
+      "dek_tr": "Liebherr ekibinin World of Concrete 2027’de servis ağı, yedek parça erişimi ve beton pompası çözümleri hakkında bilgi vermesi bekleniyor. Kaynakta yeni bir ürün veya teknik özellik duyurusu yok.",
+      "summary_tr": "Construction Equipment Guide’ın aktardığına göre Liebherr ekibi World of Concrete 2027’de müşteri destek ağı, servis kabiliyetleri, yedek parça erişimi ve beton pompası çözümleri hakkında görüşmeler yapacak.\n\nMevcut kaynak metni etkinlikte sergilenecek belirli bir makineyi, yeni ürün duyurusunu veya beton pompalarına ilişkin teknik özellikleri belirtmiyor. Haberin kapsamı etkinlik katılımı ve destek başlıklarıyla sınırlı.",
+      "why_it_matters_tr": "Beton pompaları inşaat makineleri ekosisteminin parçasıdır; servis ve yedek parça erişimi makine kullanılabilirliğini etkileyebilir. Ancak kaynak, bu desteklerin kapsamı veya performans etkisi hakkında ölçülebilir bilgi sunmuyor.",
+      "seo_title": "Liebherr World of Concrete 2027’de Destek Çözümlerini Anlatacak",
+      "meta_description": "Liebherr, World of Concrete 2027’de servis ağı, yedek parça erişimi ve beton pompası çözümlerini ele alacak; kaynakta teknik ürün duyurusu yok.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Liebherr ekibinin World of Concrete 2027’de yer alacağı bildiriliyor.",
+        "Kaynak, müşteri desteği, servis kabiliyetleri, yedek parça erişimi ve beton pompası çözümlerinden söz ediyor."
+      ],
+      "suggested_tags": [
+        "Liebherr",
+        "World of Concrete 2027",
+        "beton pompası",
+        "servis"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Construction Equipment Guide özetinde Liebherr ekibinin World of Concrete etkinliğine katılımı belirtiliyor.",
+        "Özette ele alınacak konular müşteri desteği, servis, yedek parça erişimi ve beton pompası çözümleri olarak sıralanıyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası alınamadı (HTTP 403); özgün Liebherr duyurusu mevcut girdide yer almıyor.",
+        "Etkinlik tarihi, sergilenecek makineler ve beton pompası çözümlerinin teknik ayrıntıları doğrulanamıyor."
+      ],
+      "generated_at": "2026-11-18T22:32:57.237Z",
+      "generated_by": "github-models"
     }
   },
   {
