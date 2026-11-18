@@ -1621,6 +1621,32 @@
     }
   },
   {
+    "id": "93f54a3064403424",
+    "status": "candidate",
+    "title_original": "CPS brings composite roller manufacturing capacity to Chile",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/11/18/cps-brings-composite-roller-manufacturing-capacity-to-chile/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-11-18T18:45:33.000Z",
+    "discovered_at": "2026-11-18T22:31:52.129Z",
+    "sector": "madencilik",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 150,
+    "editorial_fit_score": 55,
+    "summary_source": "CPS Conveyor Products and Solutions says it is to expand its manufacturing capacity to South America with the opening of a new roller production plant in Santiago, Chile. It says the facility will be the first Chilean plant dedicated to manufacturing composite rollers for conveyors. Its launch will meet the growing demand for high-quality rollers, The post CPS brings composite roller manufacturing capacity to Chile appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "04a91571c6d74b2c",
     "status": "drafted",
     "title_original": "EIMA VIDEO: AGCO Power’s Core75 engine drives award-winning MF 7S Mark 2 and new Valtra T Series",
@@ -2511,6 +2537,34 @@
     }
   },
   {
+    "id": "5a101543e4829ba1",
+    "status": "candidate",
+    "title_original": "EU statistics reveal sales trends for battery-electric trucks and tractor units",
+    "source_name": "electrive",
+    "source_url": "https://www.electrive.com/2026/11/18/eu-statistics-reveal-sales-trends-for-battery-electric-trucks-and-tractor-units/",
+    "source_feed": "https://www.electrive.com/feed/",
+    "published_at": "2026-11-18T15:00:20.000Z",
+    "discovered_at": "2026-11-18T22:31:51.612Z",
+    "sector": "liman",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "relevance_score": 148,
+    "editorial_fit_score": 67,
+    "summary_source": "The sales of electric commercial vehicles vary depending on the vehicle structure: conventional trucks already account for a higher share of electric vehicles than tractors. This is revealed by an analysis of the Federal Statistical Office, drawing on data from the European statistical authority Eurostat.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "d285556a88035927",
     "status": "drafted",
     "title_original": "On the lash",
@@ -3080,6 +3134,32 @@
       ],
       "generated_at": "2026-10-21T19:12:56.951Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "8f217b2ac7eeaea8",
+    "status": "candidate",
+    "title_original": "Case Unveils Next-Gen 121G Compact Wheel Loader with Focus on Operator Comfort",
+    "source_name": "Equipment World",
+    "source_url": "https://www.equipmentworld.com/construction-equipment/compact-equipment/compact-wheel-loaders/article/16541922/case-ce-debuts-121g-compact-wheel-loader",
+    "source_feed": "https://www.equipmentworld.com/feed/",
+    "published_at": "2026-11-18T17:00:00.000Z",
+    "discovered_at": "2026-11-18T22:31:52.140Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 145,
+    "editorial_fit_score": 55,
+    "summary_source": "The fifth model in the new G-Series gets 64 horsepower, 7,800-pound tip load and a variety of features to increase productivity...",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -4159,6 +4239,34 @@
     }
   },
   {
+    "id": "e50f49dec012486e",
+    "status": "candidate",
+    "title_original": "VIDEO: Virnig Reintroduces Trailers With Hydraulic Drop Deck",
+    "source_name": "Construction Equipment Guide",
+    "source_url": "https://www.constructionequipmentguide.com/video-virnig-reintroduces-trailers-with-hydraulic-drop-deck/72805",
+    "source_feed": "https://feeds.feedburner.com/ceg",
+    "published_at": "2026-11-18T05:00:00.000Z",
+    "discovered_at": "2026-11-18T22:31:51.667Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [
+      "hidrolik"
+    ],
+    "relevance_score": 138,
+    "editorial_fit_score": 67,
+    "summary_source": "Virnig Manufacturing announced its return to trailer manufacturing with the launch of the Virnig hydraulic drop deck utility trailer....",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "812118e0716b623e",
     "status": "drafted",
     "title_original": "Volvo Trucks Introduces Remote Steer Technology",
@@ -4484,6 +4592,32 @@
       ],
       "generated_at": "2026-11-09T23:45:09.768Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "abbb3d354834ccf9",
+    "status": "candidate",
+    "title_original": "Everything Attachments Unveils “Wicked Tapered Skid Steer Bucket”",
+    "source_name": "Equipment World",
+    "source_url": "https://www.equipmentworld.com/attachments/compact-equipment-attachments/article/16541654/everything-attachments-launches-wicked-tapered-skid-steer-bucket",
+    "source_feed": "https://www.equipmentworld.com/feed/",
+    "published_at": "2026-11-18T16:55:00.000Z",
+    "discovered_at": "2026-11-18T22:31:52.142Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 135,
+    "editorial_fit_score": 55,
+    "summary_source": "The North Carolina-based manufacturer says it has developed the “lightest heaviest-duty bucket on the market” for compact track...",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -5491,6 +5625,34 @@
     }
   },
   {
+    "id": "5949a98b40eba614",
+    "status": "candidate",
+    "title_original": "Liebherr at World of Concrete 2027",
+    "source_name": "Construction Equipment Guide",
+    "source_url": "https://www.constructionequipmentguide.com/liebherr-at-world-of-concrete-2027/72811",
+    "source_feed": "https://feeds.feedburner.com/ceg",
+    "published_at": "2026-11-18T05:00:00.000Z",
+    "discovered_at": "2026-11-18T22:31:51.663Z",
+    "sector": "arac-ustu-ekipman",
+    "subsector": null,
+    "technologies": [
+      "hidrolik"
+    ],
+    "relevance_score": 128,
+    "editorial_fit_score": 67,
+    "summary_source": "The Liebherr team will be on site at World of Concrete to discuss its comprehensive nationwide customer support network, including expert service capabilities, spare parts availability and concrete pump solutions....",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "67b46dceb2f96f75",
     "status": "drafted",
     "title_original": "Toku America Part of Collective Effort in Lahaina Wildfires Rebuild",
@@ -5950,6 +6112,32 @@
     }
   },
   {
+    "id": "7f2efc73fe4de9f9",
+    "status": "candidate",
+    "title_original": "Claas Arion 5.180 Cmatic: New bonnet, new possibilities?",
+    "source_name": "profi",
+    "source_url": "https://www.profi.co.uk/test-centre/claas-arion-5-180-cmatic-new-bonnet-new-possibilities/",
+    "source_feed": "https://www.profi.co.uk/feed/",
+    "published_at": "2026-11-18T14:08:02.000Z",
+    "discovered_at": "2026-11-18T22:31:52.802Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 125,
+    "editorial_fit_score": 65,
+    "summary_source": "TRACTOR TEST: Compared to the Axion 8 and 9, the new Arion 5 and 6 have only been given a mild makeover. Our focus here is on the CVT-only and biggest four-cylinder model, the Arion 5.180 Cmatic. The post Claas Arion 5.180 Cmatic: New bonnet, new possibilities? appeared first on Profi.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "1f3711f5193f98d3",
     "status": "drafted",
     "title_original": "New Deutz-Fahr 6K Series at Italian show",
@@ -6313,6 +6501,32 @@
       ],
       "generated_at": "2026-10-27T10:09:14.886Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "bb322a2e8176ea83",
+    "status": "candidate",
+    "title_original": "Newman Tractor Celebrates 50 Years",
+    "source_name": "Construction Equipment Guide",
+    "source_url": "https://www.constructionequipmentguide.com/newman-tractor-celebrates-50-years/72806",
+    "source_feed": "https://feeds.feedburner.com/ceg",
+    "published_at": "2026-11-18T05:00:00.000Z",
+    "discovered_at": "2026-11-18T22:31:51.666Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 120,
+    "editorial_fit_score": 55,
+    "summary_source": "Newman Tractor marks its 50th anniversary....",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -7471,6 +7685,32 @@
       ],
       "generated_at": "2026-10-25T09:31:26.861Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "659cf9b5f8691ea3",
+    "status": "candidate",
+    "title_original": "ASKO Glob All, Kılıçbey Hafriyat’ın makine parkını DEVELON iş makineleriyle güçlendirdi",
+    "source_name": "Makina Market",
+    "source_url": "https://makina-market.com.tr/asko-glob-all-kilicbey-hafriyatin-makine-parkini-develon-is-makineleriyle-guclendirdi/",
+    "source_feed": "https://makina-market.com.tr/feed/",
+    "published_at": "2026-11-18T14:49:16.000Z",
+    "discovered_at": "2026-11-18T22:31:54.254Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 106,
+    "editorial_fit_score": 55,
+    "summary_source": "ASKO Glob All’in gerçekleştirdiği teslimatla Kılıçbey Hafriyat’ın makine parkına 8 adet farklı tonajlarda DEVELON paletli ekskavatör ve 1… The post ASKO Glob All, Kılıçbey Hafriyat’ın makine parkını DEVELON iş makineleriyle güçlendirdi first appeared on Makina Market.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
