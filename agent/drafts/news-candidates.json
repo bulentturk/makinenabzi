@@ -1227,7 +1227,7 @@
   },
   {
     "id": "f899f14660e0ae02",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Hillcrest and Equipmake to co-develop 800 V ZVS inverter for heavy-duty EVs",
     "source_name": "Charged EVs",
     "source_url": "https://chargedevs.com/newswire/hillcrest-and-equipmake-to-co-develop-800-v-zvs-inverter-for-heavy-duty-evs/",
@@ -1282,7 +1282,9 @@
         "Projenin teknik özellikleri, münhasır hakların kapsamı ve ticarileşme takvimi birincil kaynakla doğrulanmalı."
       ],
       "generated_at": "2026-11-17T22:50:48.216Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "review_result": "auto_published",
+      "reviewed_at": "2026-11-18T15:35:49.039Z"
     }
   },
   {

@@ -1,5 +1,39 @@
 [
   {
+    "id": "f899f14660e0ae02",
+    "slug": "hillcrest-ve-equipmake-agir-hizmet-araclari-icin-800-v-zvs-inverter-gelistirecek",
+    "title": "Hillcrest ve Equipmake, ağır hizmet araçları için 800 V ZVS inverter geliştirecek",
+    "dek": "İki şirket, ağır hizmet kamyonları, otobüsler ve off-highway ekipmanları için sıfır gerilimde anahtarlama (ZVS) teknolojili bir çekiş inverteri geliştirmek üzere anlaştı. Programın prototip aşamaları ve performans ölçütleri bulunuyor.",
+    "summary": "Charged EVs’in aktardığına göre güç elektroniği şirketi Hillcrest Energy Technologies ile güç aktarma sistemi üreticisi Equipmake, 800 V’luk bir çekiş inverterini birlikte geliştirmek için anlaşma imzaladı. Hedef uygulamalar arasında ağır hizmet kamyonları, otobüsler ve off-highway ekipmanları sayılıyor.\n\nZVS yaklaşımının inverterdeki enerji kayıplarını, elektriksel gürültüyü ve gerilim sıçramalarını azaltmak üzere tasarlandığı belirtiliyor. Hillcrest, laboratuvar ve test düzeneği ölçümlerinde yüzde 99,7 tepe verim, EMC odası testlerinde daha düşük elektromanyetik girişim ve motor terminallerindeki gerilim aşımında yüzde 90’dan fazla azalma elde ettiğini bildiriyor.\n\nGeliştirme programı, teknik şartname ve kaynak planı tamamlandıktan sonra başlayacak; iki prototip aşaması için performans ölçütleri belirlenecek. Haberde süre, tarafların bu planı altı ay içinde tamamlamayı taahhüt ettiğini belirtiyor; ürünün seri üretime veya saha kullanımına geçtiğine dair bilgi verilmiyor.",
+    "why_it_matters": "Çekiş inverterinin verimliliği ve elektromanyetik uyumluluğu, ağır hizmet tipi elektrikli araçların tahrik sistemi tasarımını etkileyebilir. ZVS’nin gerçek araçlarda, özellikle uzun çalışma çevrimlerine sahip off-highway makinelerde sağlayacağı fayda henüz bağımsız saha verileriyle gösterilmiş değil.",
+    "key_facts": [
+      "Hillcrest Energy Technologies ve Equipmake, 800 V ZVS çekiş inverteri geliştirmek üzere anlaşma yaptı.",
+      "Hedef uygulamalar ağır hizmet kamyonları, otobüsler ve off-highway ekipmanları.",
+      "Programın iki prototip aşaması ve tanımlı performans ölçütleri olacak.",
+      "Yüzde 99,7 tepe verim ve gerilim aşımında yüzde 90’dan fazla azalma, Hillcrest’in aktarılan test sonuçlarıdır."
+    ],
+    "format": "haber",
+    "sector": "elektrifikasyon",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon",
+      "yuruyus-guc-aktarma"
+    ],
+    "tags": [
+      "Hillcrest Energy Technologies",
+      "Equipmake",
+      "ZVS inverter",
+      "800 V",
+      "elektrikli ağır hizmet araçları"
+    ],
+    "source_name": "Charged EVs",
+    "source_url": "https://chargedevs.com/newswire/hillcrest-and-equipmake-to-co-develop-800-v-zvs-inverter-for-heavy-duty-evs/",
+    "source_published_at": "2026-11-17T16:13:42.000Z",
+    "site_published_at": "2026-11-18T15:35:49.039Z",
+    "hero_image": "",
+    "publish_mode": "automatic"
+  },
+  {
     "id": "caa70a0cc2823f6f",
     "slug": "landtrac-eima-da-165-hp-cift-paletli-traktorunu-sergiledi",
     "title": "Landtrac, EIMA’da 165 hp çift paletli traktörünü sergiledi",
