@@ -62,6 +62,35 @@
     "subsector": null
   },
   {
+    "id": "06228613f29b3d56",
+    "status": "candidate",
+    "title_original": "Claas updates Torion Sinus wheel loaders",
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/news/agriculture/claas-updates-torion-sinus-wheel-loaders.html",
+    "source_feed": "https://www.ivtinternational.com/feed",
+    "published_at": "2026-11-19T09:57:48.000Z",
+    "discovered_at": "2026-11-19T14:01:39.205Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [
+      "otonomi-ai",
+      "hidrolik"
+    ],
+    "relevance_score": 166,
+    "editorial_fit_score": 79,
+    "summary_source": "Claas has updated two of its Torion Sinus wheel loaders, the Torion 644 Sinus and Torion 738 T Sinus, adding greater automation, new comfort controls and increased hydraulic capacity. Both [...] The post Claas updates Torion Sinus wheel loaders appeared first on Industrial Vehicle Technology International.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "25508840d39d1de4",
     "status": "drafted",
     "title_original": "Wabtec Digital Mine’s Gen 3 CAS completes University of Pretoria TRL4 stage gate",
@@ -287,6 +316,34 @@
       ],
       "generated_at": "2026-11-08T11:38:02.185Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "91e234f220fcf329",
+    "status": "candidate",
+    "title_original": "Kubota updates RTV-X utility vehicle range",
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/news/agriculture/kubota-updates-rtv-x-utility-vehicle-range.html",
+    "source_feed": "https://www.ivtinternational.com/feed",
+    "published_at": "2026-11-19T10:18:23.000Z",
+    "discovered_at": "2026-11-19T14:01:39.203Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [
+      "yuruyus-guc-aktarma"
+    ],
+    "relevance_score": 158,
+    "editorial_fit_score": 67,
+    "summary_source": "Kubota has updated its RTV-X Series utility vehicles, with a new transmission, revised operator controls, refreshed styling and new tyres. The range is aimed at agriculture, groundcare, estates and construction [...] The post Kubota updates RTV-X utility vehicle range appeared first on Industrial Vehicle Technology International.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -1621,6 +1678,32 @@
     }
   },
   {
+    "id": "41a5221eb94cf243",
+    "status": "candidate",
+    "title_original": "New Holland enters small articulated loader segment",
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/news/agriculture/new-holland-enters-small-articulated-loader-segment.html",
+    "source_feed": "https://www.ivtinternational.com/feed",
+    "published_at": "2026-11-19T09:31:16.000Z",
+    "discovered_at": "2026-11-19T14:01:39.208Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 150,
+    "editorial_fit_score": 65,
+    "summary_source": "New Holland is entering the small articulated loader segment with five models: the W10, W13T, W13T Plus, W18T and W22T. The range is the result of a partnership between CNH [...] The post New Holland enters small articulated loader segment appeared first on Industrial Vehicle Technology International.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "93f54a3064403424",
     "status": "candidate",
     "title_original": "CPS brings composite roller manufacturing capacity to Chile",
@@ -2545,7 +2628,7 @@
     "source_feed": "https://www.electrive.com/feed/",
     "published_at": "2026-11-18T15:00:20.000Z",
     "discovered_at": "2026-11-18T22:31:51.612Z",
-    "sector": "liman",
+    "sector": "tarim",
     "subsector": null,
     "technologies": [
       "elektrifikasyon"
@@ -5043,6 +5126,34 @@
     }
   },
   {
+    "id": "f0c56c874129a510",
+    "status": "candidate",
+    "title_original": "Danagri-3S imports Caravaggi mobile mixers",
+    "source_name": "profi",
+    "source_url": "https://www.profi.co.uk/news/danagri-3s-imports-caravaggi-mobile-mixers/",
+    "source_feed": "https://www.profi.co.uk/feed/",
+    "published_at": "2026-11-19T13:53:54.000Z",
+    "discovered_at": "2026-11-19T14:01:40.493Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [
+      "yuruyus-guc-aktarma"
+    ],
+    "relevance_score": 133,
+    "editorial_fit_score": 67,
+    "summary_source": "Shropshire grain, feed and straw machinery importer Danagri-3S is the new UK agent for Caravaggi four-model range of mobile mill-mixers. Capable of processing up to 16t/hr, the 16T-170M has a 172-hammer and comes with a hydraulically-braked tandem axle with rear steering and lock-out. Fed by a hopper fitted with magnets to remove any ferrous foreign […] The post Danagri-3S imports Caravaggi mobile mixers appeared first on Profi.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "ab418b02d11a5fbb",
     "status": "drafted",
     "title_original": "EuroTier: Electric Sgariboldi hitting the market",
@@ -5885,6 +5996,32 @@
       ],
       "generated_at": "2026-10-29T11:13:09.656Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "167526f466c74159",
+    "status": "candidate",
+    "title_original": "Second TBM launched on Hudson Tunnel Project",
+    "source_name": "Tunnels & Tunnelling",
+    "source_url": "https://www.tunnelsandtunnelling.com/news/second-tbm-launched-on-hudson-tunnel-project/",
+    "source_feed": "https://www.tunnelsandtunnelling.com/feed/",
+    "published_at": "2026-11-19T11:18:26.000Z",
+    "discovered_at": "2026-11-19T14:01:38.883Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 126,
+    "editorial_fit_score": 55,
+    "summary_source": "Second TBM launched on Hudson Tunnel Project. Two TBMs are now at work on the Palisades Tunnel package. The post Second TBM launched on Hudson Tunnel Project appeared first on Tunnels and Tunnelling.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -6837,6 +6974,32 @@
     }
   },
   {
+    "id": "e58aee085c72ca4d",
+    "status": "candidate",
+    "title_original": "Toulouse Metro TBM makes third breakthrough",
+    "source_name": "Tunnels & Tunnelling",
+    "source_url": "https://www.tunnelsandtunnelling.com/news/toulouse-metro-tbm-makes-third-breakthrough/",
+    "source_feed": "https://www.tunnelsandtunnelling.com/feed/",
+    "published_at": "2026-11-19T11:23:11.000Z",
+    "discovered_at": "2026-11-19T14:01:38.881Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 116,
+    "editorial_fit_score": 55,
+    "summary_source": "Toulouse Metro TBM makes third breakthrough. TBM Jeanne Marvig has 700m remaining to complete the drive. The post Toulouse Metro TBM makes third breakthrough appeared first on Tunnels and Tunnelling.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "7c0377229c689c8f",
     "status": "drafted",
     "title_original": "Ontario Line Tunnel Boring Machine Breaks Through to Future King West Station",
@@ -7141,6 +7304,32 @@
       ],
       "generated_at": "2026-10-20T09:45:23.236Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "c6aacb22e574541c",
+    "status": "candidate",
+    "title_original": "JLG, makaslı ve dikey platformlarda çarpışma önleme sistemini geliştirdi",
+    "source_name": "LHT",
+    "source_url": "https://www.lht.com.tr/jlg-makasli-ve-dikey-platformlarda-carpisma-onleme-sistemini-gelistirdi/",
+    "source_feed": "https://www.lht.com.tr/feed/",
+    "published_at": "2026-11-19T10:59:23.000Z",
+    "discovered_at": "2026-11-19T14:01:42.846Z",
+    "sector": "arac-ustu-ekipman",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 115,
+    "editorial_fit_score": 65,
+    "summary_source": "JLG, SkySense® teknolojisini çarpışma önleme özelliğiyle genişleterek makaslı ve dikey platformlarda operatörlerin çevre farkındalığını artırmayı hedefliyor. ABD ve Kanada pazarlarında kullanıma sunulan sistem, platform üzerindeki dört sensöre ek olarak şasiye yerleştirilen sekiz sensörle algılama alanını genişletiyor. İş ve personel yükseltici platform üreticisi JLG Industries, belirli ES serisi makaslı platformlar ve E serisi dikey platformlar için […]",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
