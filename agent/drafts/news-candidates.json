@@ -63,7 +63,7 @@
   },
   {
     "id": "06228613f29b3d56",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Claas updates Torion Sinus wheel loaders",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/agriculture/claas-updates-torion-sinus-wheel-loaders.html",
@@ -80,14 +80,42 @@
     "editorial_fit_score": 79,
     "summary_source": "Claas has updated two of its Torion Sinus wheel loaders, the Torion 644 Sinus and Torion 738 T Sinus, adding greater automation, new comfort controls and increased hydraulic capacity. Both [...] The post Claas updates Torion Sinus wheel loaders appeared first on Industrial Vehicle Technology International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Claas Torion Sinus 644 ve 738 T yükleyicilerini güncelledi",
+      "dek_tr": "iVT International'ın haberine göre Torion 644 Sinus ve 738 T Sinus, Smart Loading otomasyonu, 9 inç ekran ve artırılmış hidrolik kapasiteyle yenilendi. Güncellemeler EIMA 2026'da tanıtıldı.",
+      "summary_tr": "iVT International, Claas'ın iki Torion Sinus tekerlekli yükleyicisini güncellediğini bildiriyor. Haberde belirtilen modeller Torion 644 Sinus ve Torion 738 T Sinus.\n\nAktarılan değişiklikler arasında Smart Loading otomasyonu, 9 inç ekran ve daha yüksek hidrolik kapasite bulunuyor. Kaynak girdisi, bu değişikliklerin teknik değerlerini veya çalışma performansına etkisini açıklamıyor.",
+      "why_it_matters_tr": "Yükleme otomasyonu ve hidrolik kapasitedeki artış, tarım işletmelerinde yükleyicilerin iş çevrimi ve farklı ataşmanlarla kullanımını etkileyebilir; ancak olası faydaları değerlendirmek için teknik ayrıntı ve saha verisi gerekir.",
+      "seo_title": "Claas Torion Sinus 644 ve 738 T güncellendi",
+      "meta_description": "Claas Torion 644 Sinus ve 738 T Sinus için Smart Loading otomasyonu, 9 inç ekran ve artırılmış hidrolik kapasite güncellemeleri bildirildi.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Güncellenen modeller Torion 644 Sinus ve Torion 738 T Sinus olarak belirtiliyor.",
+        "Haberde Smart Loading otomasyonu ve 9 inç ekran aktarılıyor.",
+        "Hidrolik kapasitenin artırıldığı, ancak sayısal değer verilmediği bildiriliyor.",
+        "Tanıtımın EIMA 2026'da yapıldığı belirtiliyor."
+      ],
+      "suggested_tags": [
+        "Claas",
+        "Torion Sinus",
+        "tekerlekli yükleyici",
+        "tarım makineleri"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "hidrolik",
+        "elektronik-telematik"
+      ],
+      "source_facts_used": [
+        "iVT International haber özeti, güncellenen iki Torion Sinus modelini ve Smart Loading özelliğini belirtiyor.",
+        "Kaynak açıklaması 9 inç ekran, artan hidrolik kapasite ve EIMA 2026 tanıtımını aktarıyor."
+      ],
+      "uncertainty_notes": [
+        "Girdi içinde üreticinin birincil teknik duyurusu bulunmuyor; model ve güncelleme ayrıntıları üretici kaynağından doğrulanmalı.",
+        "Hidrolik kapasite artışının miktarı ve Smart Loading'in işlev kapsamı belirtilmemiş."
+      ],
+      "generated_at": "2026-11-19T14:02:37.779Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -320,7 +348,7 @@
   },
   {
     "id": "91e234f220fcf329",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Kubota updates RTV-X utility vehicle range",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/agriculture/kubota-updates-rtv-x-utility-vehicle-range.html",
@@ -336,14 +364,41 @@
     "editorial_fit_score": 67,
     "summary_source": "Kubota has updated its RTV-X Series utility vehicles, with a new transmission, revised operator controls, refreshed styling and new tyres. The range is aimed at agriculture, groundcare, estates and construction [...] The post Kubota updates RTV-X utility vehicle range appeared first on Industrial Vehicle Technology International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Kubota RTV-X serisine HD VHT-X şanzıman güncellemesi",
+      "dek_tr": "iVT International, Kubota RTV-X yardımcı araçlarının yeni bir ağır hizmet şanzımanı, yenilenmiş kumandalar ve yeni lastiklerle güncellendiğini bildiriyor. Haberde ayrıca park freni ve aydınlatma değişiklikleri aktarılıyor.",
+      "summary_tr": "Kubota'nın RTV-X Serisi yardımcı araçları için aktarılan güncellemeler arasında HD VHT-X ağır hizmet şanzımanı ve yeniden tasarlanmış park freni bulunuyor. Haberde ayrıca operatör kumandalarının ve araç görünümünün yenilendiği, LED farlar ile yeni lastiklerin eklendiği belirtiliyor.\n\nKaynak özeti, şanzımanın teknik özelliklerini veya önceki sürüme göre sağladığı ölçülebilir farkları vermiyor. Araçların tarım, arazi bakımı, büyük mülkler ve inşaat gibi kullanımlara yönelik olduğu aktarılıyor.",
+      "why_it_matters_tr": "Yardımcı araçlarda şanzıman ve kumanda güncellemeleri, farklı zeminlerde çalışma ve operatör kullanımını etkileyebilir. Ancak bu değişikliklerin dayanıklılık ya da performans üzerindeki etkisi mevcut kaynak bilgisiyle değerlendirilemiyor.",
+      "seo_title": "Kubota RTV-X serisi HD VHT-X şanzımanla yenilendi",
+      "meta_description": "Kubota RTV-X yardımcı araçlarında HD VHT-X şanzıman, yenilenmiş park freni ve kumandalar, LED farlar ve yeni lastikler bildirildi.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Güncelleme Kubota RTV-X Serisi yardımcı araçlara yönelik.",
+        "Yeni şanzıman HD VHT-X ağır hizmet şanzımanı olarak adlandırılıyor.",
+        "Haberde yeniden tasarlanmış park freni, LED farlar ve yeni lastikler belirtiliyor.",
+        "Araçların tarım, arazi bakımı, mülk yönetimi ve inşaatta kullanıldığı aktarılıyor."
+      ],
+      "suggested_tags": [
+        "Kubota",
+        "RTV-X",
+        "yardımcı araç",
+        "şanzıman"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "yuruyus-guc-aktarma"
+      ],
+      "source_facts_used": [
+        "iVT International özeti, RTV-X serisindeki yeni şanzıman ile operatör kontrolleri ve tasarım güncellemelerini sıralıyor.",
+        "Kaynak açıklaması HD VHT-X adını, park freni, LED farlar ve lastik değişikliklerini veriyor."
+      ],
+      "uncertainty_notes": [
+        "Girdi içinde üreticinin birincil duyurusu bulunmuyor; şanzımanın teknik özellikleri ve değişikliklerin kapsamı üretici kaynağından doğrulanmalı.",
+        "Şanzıman güncellemesine ilişkin performans veya dayanıklılık verisi paylaşılmamış."
+      ],
+      "generated_at": "2026-11-19T14:02:37.779Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -5127,7 +5182,7 @@
   },
   {
     "id": "f0c56c874129a510",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Danagri-3S imports Caravaggi mobile mixers",
     "source_name": "profi",
     "source_url": "https://www.profi.co.uk/news/danagri-3s-imports-caravaggi-mobile-mixers/",
@@ -5143,14 +5198,43 @@
     "editorial_fit_score": 67,
     "summary_source": "Shropshire grain, feed and straw machinery importer Danagri-3S is the new UK agent for Caravaggi four-model range of mobile mill-mixers. Capable of processing up to 16t/hr, the 16T-170M has a 172-hammer and comes with a hydraulically-braked tandem axle with rear steering and lock-out. Fed by a hopper fitted with magnets to remove any ferrous foreign […] The post Danagri-3S imports Caravaggi mobile mixers appeared first on Profi.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Danagri-3S, Caravaggi mobil yem hazırlama makinelerinin Birleşik Krallık temsilcisi oldu",
+      "dek_tr": "Profi'nin haberine göre Danagri-3S, Caravaggi'nin dört modellerden oluşan mobil değirmen-karıştırıcı serisinin Birleşik Krallık temsilciliğini üstlendi. Serideki 16T-170M için saatte 16 tona kadar işleme kapasitesi bildiriliyor.",
+      "summary_tr": "Profi, tahıl, yem ve saman makineleri ithalatçısı Danagri-3S'nin Caravaggi mobil değirmen-karıştırıcı serisi için Birleşik Krallık temsilcisi olduğunu bildiriyor. Haberde ürün gamının dört modelden oluştuğu belirtiliyor.\n\nAktarılan teknik bilgilere göre 16T-170M saatte 16 tona kadar işleyebiliyor ve 172 çekiç taşıyor. Makinede mıknatıslarla donatılmış bir besleme bunkeri ile hidrolik frenli tandem aks bulunduğu; arka tekerleklerin yönlendirilebildiği ve kilitlenebildiği ifade ediliyor.",
+      "why_it_matters_tr": "Mobil değirmen-karıştırıcılar, yem hazırlama işini farklı işletme sahalarına taşımaya yönelik bir çözüm sunabilir. Bildirilen kapasite ve hareketli şasi özellikleri teknik açıdan ilgi çekici olsa da, kullanım koşulları ve kapasitenin nasıl ölçüldüğü kaynakta açıklanmıyor.",
+      "seo_title": "Danagri-3S, Caravaggi mobil yem makinelerini temsil edecek",
+      "meta_description": "Danagri-3S, Caravaggi mobil değirmen-karıştırıcılarının Birleşik Krallık temsilcisi oldu. 16T-170M için 16 t/saate kadar kapasite bildiriliyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Danagri-3S, Caravaggi mobil değirmen-karıştırıcı serisinin Birleşik Krallık temsilcisi olarak bildiriliyor.",
+        "Ürün gamı dört modelden oluşuyor.",
+        "16T-170M için saatte 16 tona kadar işleme kapasitesi ve 172 çekiç belirtiliyor.",
+        "Makinede mıknatıslı besleme bunkeri ve hidrolik frenli tandem aks olduğu aktarılıyor.",
+        "Arka tekerleklerin yönlendirilebildiği ve kilitlenebildiği bildiriliyor."
+      ],
+      "suggested_tags": [
+        "Caravaggi",
+        "Danagri-3S",
+        "mobil değirmen-karıştırıcı",
+        "yem makineleri"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "hidrolik",
+        "yuruyus-guc-aktarma"
+      ],
+      "source_facts_used": [
+        "Profi, Danagri-3S'nin Caravaggi serisi için Birleşik Krallık temsilciliğini ve serinin dört model olduğunu aktarıyor.",
+        "Haberde 16T-170M'nin kapasitesi, çekiç sayısı, mıknatıslı bunker ve tandem aks özellikleri sıralanıyor."
+      ],
+      "uncertainty_notes": [
+        "Girdi içinde Caravaggi'nin birincil ürün duyurusu bulunmuyor; teknik özellikler üretici kaynağından doğrulanmalı.",
+        "16 t/saat kapasitenin hangi malzeme ve çalışma koşullarında elde edildiği belirtilmemiş."
+      ],
+      "generated_at": "2026-11-19T14:02:37.779Z",
+      "generated_by": "github-models"
     }
   },
   {
