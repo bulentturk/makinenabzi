@@ -70,7 +70,7 @@
     "source_feed": "https://www.ivtinternational.com/feed",
     "published_at": "2026-11-19T09:57:48.000Z",
     "discovered_at": "2026-11-19T14:01:39.205Z",
-    "sector": "tarim",
+    "sector": "is-makinalari",
     "subsector": null,
     "technologies": [
       "otonomi-ai",
@@ -1340,6 +1340,35 @@
     }
   },
   {
+    "id": "67dcbf76f4fc02ee",
+    "status": "candidate",
+    "title_original": "Infineon launches HybridPACK HD SiC power module for electric truck and bus inverters",
+    "source_name": "Charged EVs",
+    "source_url": "https://chargedevs.com/newswire/infineon-launches-hybridpack-hd-sic-power-module-for-electric-truck-and-bus-inverters/",
+    "source_feed": "https://chargedevs.com/feed/",
+    "published_at": "2026-11-19T16:54:12.000Z",
+    "discovered_at": "2026-11-19T22:37:56.244Z",
+    "sector": "elektrifikasyon",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon",
+      "yuruyus-guc-aktarma"
+    ],
+    "relevance_score": 156,
+    "editorial_fit_score": 79,
+    "summary_source": "Infineon Technologies has introduced HybridPACK HD, a silicon carbide (SiC) power module designed for drivetrain inverters in electric commercial vehicles. HybridPACK HD extends Infineon's HybridPACK portfolio to heavy-duty applications ranging... Read more »",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "f899f14660e0ae02",
     "status": "published",
     "title_original": "Hillcrest and Equipmake to co-develop 800 V ZVS inverter for heavy-duty EVs",
@@ -1735,6 +1764,34 @@
     }
   },
   {
+    "id": "83a6de6c6ff747f3",
+    "status": "candidate",
+    "title_original": "LiuGong showcases extensive electric mining equipment including new DE100CE 100 ton battery truck",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/11/19/liugong-showcases-extensive-electric-mining-equipment-including-new-de100ce-100-ton-battery-truck/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-11-19T20:22:31.000Z",
+    "discovered_at": "2026-11-19T22:37:57.068Z",
+    "sector": "madencilik",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "relevance_score": 150,
+    "editorial_fit_score": 32,
+    "summary_source": "On November 10, the 2026 LiuGong Global Distributor Annual Conference and Global Customer Festival, themed ‘Zero-Carbon Electric Intelligence, Empowering the Future,’ kicked off in Liuzhou. More than 2,000 guests from over 120 countries gathered at LiuGong to witness the deep integration of green and intelligent technologies with construction and mining machinery application scenarios. This event The post LiuGong showcases extensive electric mining equipment including new DE100CE 100 ton battery truck appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "41a5221eb94cf243",
     "status": "candidate",
     "title_original": "New Holland enters small articulated loader segment",
@@ -1743,7 +1800,7 @@
     "source_feed": "https://www.ivtinternational.com/feed",
     "published_at": "2026-11-19T09:31:16.000Z",
     "discovered_at": "2026-11-19T14:01:39.208Z",
-    "sector": "tarim",
+    "sector": "is-makinalari",
     "subsector": null,
     "technologies": [],
     "relevance_score": 150,
@@ -6796,6 +6853,32 @@
       ],
       "generated_at": "2026-10-27T10:09:14.886Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "a724a1e6ec2e3ecc",
+    "status": "candidate",
+    "title_original": "VIDEO: Volvo EC550 Assists Allens Demolition in Myrtle Beach",
+    "source_name": "Construction Equipment Guide",
+    "source_url": "https://www.constructionequipmentguide.com/video-volvo-ec550-assists-allens-demolition-in-myrtle-beach/72829",
+    "source_feed": "https://feeds.feedburner.com/ceg",
+    "published_at": "2026-11-19T05:00:00.000Z",
+    "discovered_at": "2026-11-19T22:37:56.262Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 120,
+    "editorial_fit_score": 55,
+    "summary_source": "Allens Demolition is using a Volvo EC550 High Reach excavator to take down two Myrtle Beach motels. Built for multistory demolition, the machine offers the reach and stability needed for the job while Ascendum Machinery provides setup and on-site support....",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
