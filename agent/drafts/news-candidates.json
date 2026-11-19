@@ -1341,7 +1341,7 @@
   },
   {
     "id": "67dcbf76f4fc02ee",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Infineon launches HybridPACK HD SiC power module for electric truck and bus inverters",
     "source_name": "Charged EVs",
     "source_url": "https://chargedevs.com/newswire/infineon-launches-hybridpack-hd-sic-power-module-for-electric-truck-and-bus-inverters/",
@@ -1358,14 +1358,42 @@
     "editorial_fit_score": 79,
     "summary_source": "Infineon Technologies has introduced HybridPACK HD, a silicon carbide (SiC) power module designed for drivetrain inverters in electric commercial vehicles. HybridPACK HD extends Infineon's HybridPACK portfolio to heavy-duty applications ranging... Read more »",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Infineon, elektrikli ticari araç inverterleri için HybridPACK HD SiC modülünü tanıttı",
+      "dek_tr": "HybridPACK HD, elektrikli ticari araçların güç aktarma inverterleri için tasarlanan bir silisyum karbür (SiC) güç modülü. Mevcut bilgi, ürünün ağır hizmet uygulamalarına yönelik olduğunu belirtiyor.",
+      "summary_tr": "Infineon Technologies, elektrikli ticari araçların güç aktarma inverterlerinde kullanılmak üzere HybridPACK HD adlı SiC güç modülünü tanıttı.\n\nŞirketin HybridPACK ürün ailesini ağır hizmet uygulamalarına genişleten modülün kamyon ve otobüs inverterlerine yönelik olduğu bildiriliyor. Kaynakta teknik değerler veya belirli bir araç uygulaması yer almıyor.",
+      "why_it_matters_tr": "Güç modülleri, elektrikli iş ve ticari araçların inverter tasarımında temel bileşenler arasında. Ürünün ağır hizmet araçlarına yönelik olması, mobil makine elektrifikasyonunda da izlenmeye değer; ancak bu uygulama için kaynakta doğrulanmış bir kullanım bilgisi bulunmuyor.",
+      "seo_title": "Infineon HybridPACK HD SiC güç modülünü tanıttı",
+      "meta_description": "Infineon HybridPACK HD, elektrikli ticari araçların güç aktarma inverterlerine yönelik SiC güç modülü olarak tanıtıldı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Ürünün adı HybridPACK HD.",
+        "Modül silisyum karbür (SiC) teknolojisine dayanıyor.",
+        "Elektrikli ticari araçların güç aktarma inverterleri için tasarlandığı belirtiliyor."
+      ],
+      "suggested_tags": [
+        "Infineon",
+        "HybridPACK HD",
+        "SiC",
+        "elektrikli ticari araç",
+        "güç modülü"
+      ],
+      "suggested_sector": "elektrifikasyon",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon",
+        "yuruyus-guc-aktarma"
+      ],
+      "source_facts_used": [
+        "Infineon'un HybridPACK HD adlı SiC güç modülünü tanıttığı bilgisi",
+        "Modülün elektrikli ticari araç güç aktarma inverterlerine ve ağır hizmet uygulamalarına yönelik olduğu bilgisi"
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası alınamadı (HTTP 404); taslak yalnızca verilen kısa özete dayanıyor.",
+        "Modülün elektriksel değerleri, uyumlu inverterler ve araç uygulamaları hakkında bilgi yok; teknik iddialar için üretici kaynağından doğrulama gerekir."
+      ],
+      "generated_at": "2026-11-19T22:38:51.059Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -1793,7 +1821,7 @@
   },
   {
     "id": "41a5221eb94cf243",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "New Holland enters small articulated loader segment",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/agriculture/new-holland-enters-small-articulated-loader-segment.html",
@@ -1807,14 +1835,41 @@
     "editorial_fit_score": 65,
     "summary_source": "New Holland is entering the small articulated loader segment with five models: the W10, W13T, W13T Plus, W18T and W22T. The range is the result of a partnership between CNH [...] The post New Holland enters small articulated loader segment appeared first on Industrial Vehicle Technology International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "New Holland küçük mafsallı yükleyici segmentine beş modelle giriyor",
+      "dek_tr": "New Holland, küçük mafsallı yükleyici sınıfı için W10, W13T, W13T Plus, W18T ve W22T modellerini duyurdu. Verilen kısa bilgi, serinin CNH ile bir ortaklık kapsamında geliştirildiğini belirtiyor.",
+      "summary_tr": "New Holland, küçük mafsallı yükleyici segmentine beş modelle giriş yapıyor: W10, W13T, W13T Plus, W18T ve W22T.\n\nVerilen kaynak özeti, model serisinin CNH ile bir ortaklığın sonucu olduğunu aktarıyor. Yük kapasiteleri, motorlar, çalışma ağırlıkları veya ortaklığın diğer tarafı hakkında ayrıntı sunmuyor.",
+      "why_it_matters_tr": "Beş modelin aynı segmentte sunulması, New Holland'ın küçük mafsallı yükleyicilerde ürün kapsamını genişlettiğini gösteriyor. Modellerin farklı iş sahalarına uygunluğunu değerlendirmek için kapasite ve güç aktarma verileri gibi teknik ayrıntılar gerekli.",
+      "seo_title": "New Holland beş küçük mafsallı yükleyici tanıttı",
+      "meta_description": "New Holland, W10'dan W22T'ye uzanan beş modelle küçük mafsallı yükleyici segmentine giriyor; teknik ayrıntılar paylaşılmadı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Seride W10, W13T, W13T Plus, W18T ve W22T modelleri bulunuyor.",
+        "Kaynak özeti ürün serisini küçük mafsallı yükleyici segmentine yerleştiriyor.",
+        "Serinin CNH ile bir ortaklığın sonucu olduğu belirtiliyor."
+      ],
+      "suggested_tags": [
+        "New Holland",
+        "mafsallı yükleyici",
+        "W10",
+        "W13T",
+        "W22T",
+        "CNH"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "New Holland'ın küçük mafsallı yükleyici segmentine girdiği bilgisi",
+        "Duyurulan beş modelin adları",
+        "Serinin CNH ile bir ortaklık kapsamında ortaya çıktığı bilgisi"
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası alınamadı (HTTP 429); taslak yalnızca verilen kısa özete dayanıyor.",
+        "Ortaklığın diğer tarafı ve modellerin teknik özellikleri belirtilmemiş; üretici kaynaklarından doğrulama gerekir."
+      ],
+      "generated_at": "2026-11-19T22:38:51.059Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -6465,7 +6520,7 @@
   },
   {
     "id": "7f2efc73fe4de9f9",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Claas Arion 5.180 Cmatic: New bonnet, new possibilities?",
     "source_name": "profi",
     "source_url": "https://www.profi.co.uk/test-centre/claas-arion-5-180-cmatic-new-bonnet-new-possibilities/",
@@ -6479,14 +6534,42 @@
     "editorial_fit_score": 65,
     "summary_source": "TRACTOR TEST: Compared to the Axion 8 and 9, the new Arion 5 and 6 have only been given a mild makeover. Our focus here is on the CVT-only and biggest four-cylinder model, the Arion 5.180 Cmatic. The post Claas Arion 5.180 Cmatic: New bonnet, new possibilities? appeared first on Profi.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Claas Arion 5.180 Cmatic: dört silindirli modelde yenilikler sınırlı",
+      "dek_tr": "Profi'nin traktör testi, CVT şanzımanlı ve serinin en büyük dört silindirli modeli Arion 5.180 Cmatic'e odaklanıyor. Verilen kısa metin, Arion 5 ve 6'daki değişiklikleri hafif bir güncelleme olarak nitelendiriyor.",
+      "summary_tr": "Profi'nin test yazısı Claas Arion 5.180 Cmatic'i inceliyor. Kaynak özetine göre bu, CVT şanzımanla sunulan ve Arion 5 serisinin en büyük dört silindirli modeli.\n\nMetin, Arion 5 ve 6 modellerindeki yenilikleri Axion 8 ve 9 ile karşılaştırıldığında sınırlı bir güncelleme olarak tanımlıyor. Test sonuçları ve teknik değişikliklerin ayrıntıları sağlanan içerikte yer almıyor.",
+      "why_it_matters_tr": "Arion 5.180 Cmatic'in bir traktör testi kapsamında ele alınması, tarım makinesi kullanıcıları için model güncellemesini değerlendirme fırsatı sunabilir. Ancak performans, tüketim veya yeni kaput tasarımının etkisi hakkında sonuç çıkarmak için testin tam içeriği gerekli.",
+      "seo_title": "Claas Arion 5.180 Cmatic traktör testi ve yenilikler",
+      "meta_description": "Profi, CVT şanzımanlı Claas Arion 5.180 Cmatic'i inceliyor. Sağlanan özette model güncellemesinin sınırlı olduğu belirtiliyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "İncelenen model Claas Arion 5.180 Cmatic.",
+        "Kaynak özeti modeli CVT şanzımanlı ve serinin en büyük dört silindirli seçeneği olarak tanımlıyor.",
+        "Arion 5 ve 6'daki değişiklikler, Axion 8 ve 9'a kıyasla hafif bir makyaj olarak aktarılıyor."
+      ],
+      "suggested_tags": [
+        "Claas",
+        "Arion 5.180 Cmatic",
+        "traktör testi",
+        "CVT",
+        "tarım makinaları"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "gorus-analiz",
+      "suggested_technologies": [
+        "yuruyus-guc-aktarma"
+      ],
+      "source_facts_used": [
+        "Profi içeriğinin bir traktör testi olduğu bilgisi",
+        "Arion 5.180 Cmatic'in CVT şanzımanlı ve serinin en büyük dört silindirli modeli olduğu bilgisi",
+        "Arion 5 ve 6 güncellemelerinin Axion 8 ve 9'a kıyasla hafif olduğuna dair kaynak özeti"
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası alınamadı (HTTP 403); taslak yalnızca başlık ve kısa özete dayanıyor.",
+        "Test ölçümleri, yeni kaputun değişiklikleri ve güncellemenin kullanım etkisi hakkında doğrulanabilir ayrıntı yok."
+      ],
+      "generated_at": "2026-11-19T22:38:51.059Z",
+      "generated_by": "github-models"
     }
   },
   {
