@@ -1,5 +1,38 @@
 [
   {
+    "id": "06228613f29b3d56",
+    "slug": "claas-torion-sinus-644-ve-738-t-yukleyicilerini-guncelledi",
+    "title": "Claas Torion Sinus 644 ve 738 T yükleyicilerini güncelledi",
+    "dek": "iVT International'ın haberine göre Torion 644 Sinus ve 738 T Sinus, Smart Loading otomasyonu, 9 inç ekran ve artırılmış hidrolik kapasiteyle yenilendi. Güncellemeler EIMA 2026'da tanıtıldı.",
+    "summary": "iVT International, Claas'ın iki Torion Sinus tekerlekli yükleyicisini güncellediğini bildiriyor. Haberde belirtilen modeller Torion 644 Sinus ve Torion 738 T Sinus.\n\nAktarılan değişiklikler arasında Smart Loading otomasyonu, 9 inç ekran ve daha yüksek hidrolik kapasite bulunuyor. Kaynak girdisi, bu değişikliklerin teknik değerlerini veya çalışma performansına etkisini açıklamıyor.",
+    "why_it_matters": "Yükleme otomasyonu ve hidrolik kapasitedeki artış, tarım işletmelerinde yükleyicilerin iş çevrimi ve farklı ataşmanlarla kullanımını etkileyebilir; ancak olası faydaları değerlendirmek için teknik ayrıntı ve saha verisi gerekir.",
+    "key_facts": [
+      "Güncellenen modeller Torion 644 Sinus ve Torion 738 T Sinus olarak belirtiliyor.",
+      "Haberde Smart Loading otomasyonu ve 9 inç ekran aktarılıyor.",
+      "Hidrolik kapasitenin artırıldığı, ancak sayısal değer verilmediği bildiriliyor.",
+      "Tanıtımın EIMA 2026'da yapıldığı belirtiliyor."
+    ],
+    "format": "haber",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [
+      "hidrolik",
+      "elektronik-telematik"
+    ],
+    "tags": [
+      "Claas",
+      "Torion Sinus",
+      "tekerlekli yükleyici",
+      "tarım makineleri"
+    ],
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/news/agriculture/claas-updates-torion-sinus-wheel-loaders.html",
+    "source_published_at": "2026-11-19T09:57:48.000Z",
+    "site_published_at": "2026-11-19T15:40:56.142Z",
+    "hero_image": "",
+    "publish_mode": "automatic"
+  },
+  {
     "id": "f899f14660e0ae02",
     "slug": "hillcrest-ve-equipmake-agir-hizmet-araclari-icin-800-v-zvs-inverter-gelistirecek",
     "title": "Hillcrest ve Equipmake, ağır hizmet araçları için 800 V ZVS inverter geliştirecek",

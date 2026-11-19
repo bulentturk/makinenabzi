@@ -63,7 +63,7 @@
   },
   {
     "id": "06228613f29b3d56",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Claas updates Torion Sinus wheel loaders",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/agriculture/claas-updates-torion-sinus-wheel-loaders.html",
@@ -115,7 +115,9 @@
         "Hidrolik kapasite artışının miktarı ve Smart Loading'in işlev kapsamı belirtilmemiş."
       ],
       "generated_at": "2026-11-19T14:02:37.779Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "review_result": "auto_published",
+      "reviewed_at": "2026-11-19T15:40:56.142Z"
     }
   },
   {
