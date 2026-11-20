@@ -627,7 +627,7 @@
   },
   {
     "id": "5508f095099af651",
-    "status": "drafted",
+    "status": "published",
     "title_original": "EIMA 2026 VIDEO: New Holland’s T4 F/N/V Auto Command tractors",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/agriculture/eima-2026-video-new-hollands-t4-f-n-v-auto-command-tractors.html",
@@ -677,7 +677,9 @@
         "Girdi içinde üreticinin birincil teknik duyurusu veya şanzıman özellikleri yer almıyor; fayda iddiaları bağımsız test sonucu olarak doğrulanmış değil."
       ],
       "generated_at": "2026-11-12T21:48:24.597Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "review_result": "auto_published",
+      "reviewed_at": "2026-11-20T15:23:10.456Z"
     }
   },
   {

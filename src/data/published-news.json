@@ -1,5 +1,37 @@
 [
   {
+    "id": "5508f095099af651",
+    "slug": "new-holland-t4-f-n-v-serisine-auto-command-cvt-geliyor",
+    "title": "New Holland T4 F/N/V serisine Auto Command CVT geliyor",
+    "dek": "iVT International’ın EIMA 2026 haberine göre New Holland, Auto Command sürekli değişken şanzımanı T4 F/N/V meyve, dar ve bağ traktörü serisine sunuyor. Yakıt verimliliği ve kullanım kolaylığına ilişkin faydalar kaynakta şirket temsilcisinin aktarımı olarak yer alıyor.",
+    "summary": "iVT International, CNH temsilcisi Marco Gerbi’nin EIMA 2026’da Auto Command sürekli değişken şanzımanın New Holland T4 F/N/V serisine sunulmasını anlattığını bildiriyor. Seri; meyve bahçeleri, dar alanlar ve bağlar için tasarlanan traktörleri kapsıyor.\n\nKaynak, şanzımanla yakıt verimliliği ve kullanım kolaylığı faydaları sağlandığının öne sürüldüğünü aktarıyor. Paylaşılan metinde teknik değerler, şanzımanın çalışma özellikleri veya bağımsız performans karşılaştırması bulunmuyor.",
+    "why_it_matters": "Dar ve özel amaçlı traktörlerde şanzıman seçimi, operatör kontrolü ve çalışma çevrimine uyum açısından önem taşıyabilir. Auto Command’ın bu serideki uygulamasının etkisini değerlendirmek için teknik veriler ve saha sonuçları gerekir.",
+    "key_facts": [
+      "Auto Command sürekli değişken şanzıman, habere göre New Holland T4 F/N/V serisine sunuluyor.",
+      "T4 F/N/V, kaynakta meyve, dar ve bağ traktörleri olarak tanımlanıyor.",
+      "Yakıt verimliliği ve kullanım kolaylığı faydaları kaynakta CNH temsilcisinin aktarımıyla yer alıyor."
+    ],
+    "format": "haber",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [
+      "yuruyus-guc-aktarma"
+    ],
+    "tags": [
+      "New Holland",
+      "Auto Command",
+      "CVT",
+      "özel amaçlı traktör",
+      "EIMA"
+    ],
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/news/agriculture/eima-2026-video-new-hollands-t4-f-n-v-auto-command-tractors.html",
+    "source_published_at": "2026-11-12T16:14:17.000Z",
+    "site_published_at": "2026-11-20T15:23:10.456Z",
+    "hero_image": "",
+    "publish_mode": "automatic"
+  },
+  {
     "id": "06228613f29b3d56",
     "slug": "claas-torion-sinus-644-ve-738-t-yukleyicilerini-guncelledi",
     "title": "Claas Torion Sinus 644 ve 738 T yükleyicilerini güncelledi",
