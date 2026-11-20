@@ -1340,6 +1340,35 @@
     }
   },
   {
+    "id": "c4ee01e337a1cfbc",
+    "status": "candidate",
+    "title_original": "Onsemi introduces new SiC Platform: EliteSiC M4",
+    "source_name": "electrive",
+    "source_url": "https://www.electrive.com/2026/11/20/onsemi-introduces-new-sic-platform-elitesic-m4/",
+    "source_feed": "https://www.electrive.com/feed/",
+    "published_at": "2026-11-20T12:00:00.000Z",
+    "discovered_at": "2026-11-20T13:44:45.515Z",
+    "sector": "elektrifikasyon",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon",
+      "yuruyus-guc-aktarma"
+    ],
+    "relevance_score": 156,
+    "editorial_fit_score": 89,
+    "summary_source": "US semiconductor manufacturer Onsemi has introduced the fourth generation of its silicon carbide technology with EliteSiC M4. The new platform is set to increase power density by up to 30 per cent and reduce losses by up to 35 per cent. This could benefit, among other things, the drivetrain systems of electric vehicles.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "67dcbf76f4fc02ee",
     "status": "drafted",
     "title_original": "Infineon launches HybridPACK HD SiC power module for electric truck and bus inverters",
@@ -7017,58 +7046,6 @@
     }
   },
   {
-    "id": "7197b6d99b8a8b20",
-    "status": "candidate",
-    "title_original": "Perry Crane Services Tackles Tree Removals with National Crane",
-    "source_name": "Construction Equipment Guide",
-    "source_url": "https://www.constructionequipmentguide.com/perry-crane-services-tackles-tree-removals-with-national-crane/72780",
-    "source_feed": "https://feeds.feedburner.com/ceg",
-    "published_at": "2026-11-16T05:00:00.000Z",
-    "discovered_at": "2026-11-17T22:49:42.185Z",
-    "sector": "is-makinalari",
-    "subsector": null,
-    "technologies": [],
-    "relevance_score": 120,
-    "editorial_fit_score": 55,
-    "summary_source": "Equipped with a 127ft. boom and 45 USt capacity, the National Crane boom truck provides an ideal balance of reach and lifting performance for the trees commonly found throughout West Bridgewater, Mass. ...",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
-  },
-  {
-    "id": "86c7f2c84f9d2cec",
-    "status": "candidate",
-    "title_original": "Capital Railroad Services Partners Employs Tadano Knuckle Crane, Bridge Repair Job",
-    "source_name": "Construction Equipment Guide",
-    "source_url": "https://www.constructionequipmentguide.com/capital-railroad-services-partners-employs-tadano-knuckle-crane-bridge-repair-job/72775",
-    "source_feed": "https://feeds.feedburner.com/ceg",
-    "published_at": "2026-11-16T05:00:00.000Z",
-    "discovered_at": "2026-11-16T23:41:48.675Z",
-    "sector": "is-makinalari",
-    "subsector": null,
-    "technologies": [],
-    "relevance_score": 120,
-    "editorial_fit_score": 55,
-    "summary_source": "...",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
-  },
-  {
     "id": "da971c7bddc6a900",
     "status": "drafted",
     "title_original": "A 550-Ton Scalpel: ALL Heavyweight All-Terrain Crane Lends Precision to Columbus High-Rise Demolition",
@@ -8201,6 +8178,32 @@
     }
   },
   {
+    "id": "55ad429da3ebba2e",
+    "status": "candidate",
+    "title_original": "KOBELCO, Ukrayna’da enkaz kaldırma çalışmalarında uzaktan kontrollü ekskavatör sistemini test etti",
+    "source_name": "Makina Market",
+    "source_url": "https://makina-market.com.tr/kobelco-ukraynada-uzaktan-kontrollu-ekskavator-sistemini-test-etti/",
+    "source_feed": "https://makina-market.com.tr/feed/",
+    "published_at": "2026-11-20T11:35:07.000Z",
+    "discovered_at": "2026-11-20T13:44:48.937Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 106,
+    "editorial_fit_score": 55,
+    "summary_source": "KOBELCO, Birleşmiş Milletler Kalkınma Programı (UNDP) ile yürüttüğü iş birliği kapsamında K-DIVE® uzaktan kontrol sistemini Ukrayna’da test etti.… The post KOBELCO, Ukrayna’da enkaz kaldırma çalışmalarında uzaktan kontrollü ekskavatör sistemini test etti first appeared on Makina Market.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "659cf9b5f8691ea3",
     "status": "candidate",
     "title_original": "ASKO Glob All, Kılıçbey Hafriyat’ın makine parkını DEVELON iş makineleriyle güçlendirdi",
@@ -8215,32 +8218,6 @@
     "relevance_score": 106,
     "editorial_fit_score": 55,
     "summary_source": "ASKO Glob All’in gerçekleştirdiği teslimatla Kılıçbey Hafriyat’ın makine parkına 8 adet farklı tonajlarda DEVELON paletli ekskavatör ve 1… The post ASKO Glob All, Kılıçbey Hafriyat’ın makine parkını DEVELON iş makineleriyle güçlendirdi first appeared on Makina Market.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
-  },
-  {
-    "id": "217ed0ffcb3213f2",
-    "status": "candidate",
-    "title_original": "Wacker Neuson, kompakt makine satışlarında yüzde 18,3 büyüdü",
-    "source_name": "Makina Market",
-    "source_url": "https://makina-market.com.tr/wacker-neuson-kompakt-makine-satislarinda-yuzde-183-buyudu/",
-    "source_feed": "https://makina-market.com.tr/feed/",
-    "published_at": "2026-11-16T07:54:49.000Z",
-    "discovered_at": "2026-11-16T13:15:32.254Z",
-    "sector": "is-makinalari",
-    "subsector": null,
-    "technologies": [],
-    "relevance_score": 106,
-    "editorial_fit_score": 55,
-    "summary_source": "Wacker Neuson Group, 2026 yılının ilk dokuz ayında telehandler, lastikli yükleyici, ekskavatör ve damper satışlarının desteğiyle kompakt makine… The post Wacker Neuson, kompakt makine satışlarında yüzde 18,3 büyüdü first appeared on Makina Market.",
     "editorial": {
       "title_tr": "",
       "dek_tr": "",
