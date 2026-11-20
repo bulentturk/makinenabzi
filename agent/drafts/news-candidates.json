@@ -63,7 +63,7 @@
   },
   {
     "id": "1b6d944bb1c21ee2",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "DEUTZ 1.6-Liter Engine Developed in Partnership with Kirloskar Displayed at EIMA Bologna",
     "source_name": "Powertrain International Off-Highway",
     "source_url": "https://www.powertraininternationalweb.com/off-highway/deutz-kirloskar-eima-international/",
@@ -80,14 +80,44 @@
     "editorial_fit_score": 79,
     "summary_source": "Made in partnership with Kirloskar, the new DEUTZ TCD 1.6 was displayed at EIMA International 2026. A Significant Milestone in Electrification Too: Landini REX4 Full Electric With DEUTZ Battery Pack The post DEUTZ 1.6-Liter Engine Developed in Partnership with Kirloskar Displayed at EIMA Bologna appeared first on Powertrain International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "DEUTZ ve Kirloskar ortaklığındaki TCD 1.6, EIMA 2026'da sergilendi",
+      "dek_tr": "Üç silindirli TCD 1.6, kaynakta 18–41,2 kW güç aralığı ve 164 Nm'ye kadar tork değeriyle tanıtılıyor. Motorun doğal emişli ve turboşarjlı seçenekleri bulunuyor.",
+      "summary_tr": "Powertrain International Off-Highway'nin haberine göre DEUTZ ile Kirloskar iş birliğiyle geliştirilen TCD 1.6, EIMA International 2026'da sergilendi. Su soğutmalı üç silindirli motor, 18–41,2 kW güç aralığını ve 164 Nm'ye kadar torku kapsıyor.\n\nKaynak, doğal emişli D1.6 ve turboşarjlı TCD 1.6 olmak üzere iki seçenek bulunduğunu; elektronik direkt enjeksiyon ve yüksek basınçlı common rail kullanıldığını aktarıyor. Motorun düzenlemelere tabi pazarlarda DEUTZ'un ürün gamındaki alt güç aralığını tamamladığı da haberde belirtiliyor.",
+      "why_it_matters_tr": "Düşük güç aralığındaki bir motor seçeneği, kompakt tarım ve iş makinelerinde üreticilerin güç paketi tercihlerini etkileyebilir. Kaynakta motorun belirli bir makineye uygulanmasına veya bağımsız test sonuçlarına yer verilmediğinden, saha performansı hakkında çıkarım yapılamaz.",
+      "seo_title": "DEUTZ TCD 1.6 motor EIMA 2026'da sergilendi",
+      "meta_description": "DEUTZ ve Kirloskar ortaklığındaki üç silindirli TCD 1.6, EIMA 2026'da 18–41,2 kW güç aralığı ve iki motor seçeneğiyle tanıtıldı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "TCD 1.6, DEUTZ ile Kirloskar ortaklığında geliştirildi ve EIMA International 2026'da sergilendi.",
+        "Kaynak, motoru su soğutmalı ve üç silindirli olarak tanımlıyor.",
+        "Bildirilen güç aralığı 18–41,2 kW; azami tork 164 Nm.",
+        "Doğal emişli D1.6 ve turboşarjlı TCD 1.6 seçenekleri bulunuyor.",
+        "Haberde elektronik direkt enjeksiyon ve yüksek basınçlı common rail sistemi belirtiliyor."
+      ],
+      "suggested_tags": [
+        "DEUTZ",
+        "Kirloskar",
+        "TCD 1.6",
+        "tarım makineleri",
+        "dizel motor"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "yuruyus-guc-aktarma"
+      ],
+      "source_facts_used": [
+        "Powertrain International Off-Highway, motorun Kirloskar ile geliştirildiğini ve EIMA International 2026'da sergilendiğini bildiriyor.",
+        "Haberde silindir sayısı, soğutma tipi, güç ve tork değerleri ile iki motor seçeneği açıklanıyor.",
+        "Enjeksiyon sistemi ve ürün gamındaki konum bilgisi kaynak metninden alındı."
+      ],
+      "uncertainty_notes": [
+        "Kaynak, bir sektör yayınıdır; DEUTZ veya Kirloskar'ın birincil teknik duyurusu girdi içinde bulunmuyor.",
+        "Teknik değerler ve ortaklığın kapsamı üretici kaynaklarından doğrulanmalı; bağımsız saha testi veya belirli makine uygulaması bilgisi verilmemiş."
+      ],
+      "generated_at": "2026-11-20T22:12:52.094Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -379,7 +409,7 @@
   },
   {
     "id": "8ce3aa7e2a12fbaf",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Caterpillar’s R2900 XE moves into industrial minerals mining at K+S Borth",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/11/20/caterpillars-r2900-xe-moves-into-industrial-minerals-mining-at-ks-borth/",
@@ -395,14 +425,44 @@
     "editorial_fit_score": 89,
     "summary_source": "Since September 2026, a Caterpillar R2900 XE diesel electric drive LHD has been loading and hauling rock salt to tipping points at the K+S owned Borth mine. The Borth salt plant is located in Rheinberg in North Rhine-Westphalia and is the last active mine on the Lower Rhine and produces about 2.4 Mt/y of mined The post Caterpillar’s R2900 XE moves into industrial minerals mining at K+S Borth appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Caterpillar R2900 XE, K+S Borth madeninde kaya tuzu taşıyor",
+      "dek_tr": "Dizel-elektrik tahrikli R2900 XE LHD, Eylül 2026'dan bu yana Almanya'daki Borth madeninde yükleme ve taşıma işlerinde kullanılıyor.",
+      "summary_tr": "International Mining'in aktardığına göre K+S'ye ait Borth madeninde çalışan Caterpillar R2900 XE, kaya tuzunu yükleyerek boşaltma noktalarına taşıyor. Makine, Eylül 2026'dan beri bu görevde.\n\nBorth madeni, Kuzey Ren-Vestfalya eyaletinin Rheinberg kentinde bulunuyor. Kaynakta makinenin kapasitesi, batarya sistemi veya saha performans ölçümleri hakkında bilgi verilmiyor.",
+      "why_it_matters_tr": "R2900 XE'nin bir kaya tuzu madenindeki gerçek kullanımının aktarılması, dizel-elektrik tahrikli LHD'lerin yeraltındaki farklı maden türlerinde nasıl konumlandığını izlemek açısından anlamlı. Ancak kaynak, bu uygulamanın performans ya da verimlilik etkisini değerlendirmeye yetecek veri sunmuyor.",
+      "seo_title": "Caterpillar R2900 XE, Borth'ta kaya tuzu taşıyor",
+      "meta_description": "Dizel-elektrik tahrikli Caterpillar R2900 XE LHD, Eylül 2026'dan bu yana K+S'nin Borth kaya tuzu madeninde yükleme ve taşıma yapıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Caterpillar R2900 XE, dizel-elektrik tahrikli bir LHD olarak tanımlanıyor.",
+        "Makine, Eylül 2026'dan beri K+S'ye ait Borth madeninde çalışıyor.",
+        "Görevi kaya tuzunu yükleyip boşaltma noktalarına taşımak.",
+        "Borth madeni Almanya'nın Kuzey Ren-Vestfalya eyaletindeki Rheinberg'de bulunuyor."
+      ],
+      "suggested_tags": [
+        "Caterpillar",
+        "R2900 XE",
+        "LHD",
+        "yeraltı madenciliği",
+        "kaya tuzu"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon",
+        "yuruyus-guc-aktarma"
+      ],
+      "source_facts_used": [
+        "International Mining haber özetinde R2900 XE'nin dizel-elektrik tahrikli LHD olduğu belirtiliyor.",
+        "Habere göre makine Eylül 2026'dan beri K+S'nin Borth madeninde kaya tuzu taşıyor.",
+        "Kaynak, madenin Rheinberg'deki konumunu bildiriyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynağın tam sayfası alınamadı; taslak, sağlanan haber özeti ve metin parçasına dayanıyor.",
+        "Kapasite, enerji sistemi ayrıntıları ve saha performansına ilişkin veri paylaşılmadı; teknik ayrıntılar için Caterpillar veya K+S'nin birincil açıklaması doğrulanmalı."
+      ],
+      "generated_at": "2026-11-20T22:12:52.094Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -3945,7 +4005,7 @@
   },
   {
     "id": "ede5725d4178c386",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Tadano Revives Its 120-Ton Mobile All-Terrain Crane: the AC 4.100L-1",
     "source_name": "Equipment World",
     "source_url": "https://www.equipmentworld.com/aeriallifting-equipment/cranes/article/16541783/tadano-120ton-allterrain-crane-ac-4100l1-returns",
@@ -3961,14 +4021,42 @@
     "editorial_fit_score": 67,
     "summary_source": "The compact four-axle crane packs a 194.9-foot boom, 120-ton capacity and a narrow footprint for tight jobsites.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Tadano AC 4.100L-1: 120 ton sınıfında dört akslı mobil vinç",
+      "dek_tr": "Kaynak özeti, Tadano AC 4.100L-1 için 120 ton kapasite ve 194,9 ft bom uzunluğu bildiriyor. Vinç dört akslı ve dar çalışma alanları için kompakt olarak tanımlanıyor.",
+      "summary_tr": "Equipment World'ün sağlanan kısa özetinde Tadano AC 4.100L-1, dört akslı arazi tipi mobil vinç olarak tanıtılıyor. Özet, 120 ton kapasite ve 194,9 ft bom uzunluğu veriyor.\n\nKaynak parçasında vinç konfigürasyonu, kapasite tablosu, bom uzatmaları veya çalışma koşullarına ilişkin ek teknik ayrıntı yer almıyor.",
+      "why_it_matters_tr": "Kaldırma kapasitesi ve bom uzunluğu, mobil vinç seçimi ve şantiye erişimi açısından temel karşılaştırma ölçütleridir. Ancak mevcut kısa kaynak, modelin çalışma yarıçapı ya da dar sahalardaki gerçek erişim avantajını değerlendirmek için yeterli teknik veri sunmuyor.",
+      "seo_title": "Tadano AC 4.100L-1 mobil vinç: 120 ton kapasite",
+      "meta_description": "Equipment World özetine göre dört akslı Tadano AC 4.100L-1, 120 ton kapasite ve 194,9 ft bom uzunluğuyla tanıtılıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Kaynak özeti AC 4.100L-1'i dört akslı mobil arazi vinci olarak tanımlıyor.",
+        "Bildirilen kapasite 120 ton.",
+        "Bildirilen bom uzunluğu 194,9 ft.",
+        "Kaynak, vinci dar çalışma alanları için kompakt olarak nitelendiriyor."
+      ],
+      "suggested_tags": [
+        "Tadano",
+        "AC 4.100L-1",
+        "mobil vinç",
+        "arazi tipi vinç",
+        "kaldırma ekipmanı"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "yuruyus-guc-aktarma"
+      ],
+      "source_facts_used": [
+        "Equipment World'ün sağlanan özetindeki dört aks, 120 ton kapasite ve 194,9 ft bom bilgileri kullanıldı.",
+        "Dar çalışma alanları için kompakt tasarım nitelemesi kaynak özetinden alındı."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası alınamadı ve yalnızca kısa haber özeti mevcut; kapasite ve bom bilgileri Tadano'nun birincil teknik dokümanından doğrulanmalı.",
+        "Yük diyagramı, çalışma yarıçapı, konfigürasyon ve modelin yeniden piyasaya sunulma durumu hakkında doğrulanabilir ayrıntı yok."
+      ],
+      "generated_at": "2026-11-20T22:12:52.094Z",
+      "generated_by": "github-models"
     }
   },
   {
