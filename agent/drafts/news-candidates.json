@@ -464,6 +464,34 @@
     }
   },
   {
+    "id": "a37928296e11b994",
+    "status": "candidate",
+    "title_original": "Stone Three on the role of MPC and RTO in modern milling operations",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/11/21/stone-three-on-the-role-of-mpc-and-rto-in-modern-milling-operations/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-11-21T19:19:50.000Z",
+    "discovered_at": "2026-11-21T20:51:11.092Z",
+    "sector": "madencilik",
+    "subsector": null,
+    "technologies": [
+      "otonomi-ai"
+    ],
+    "relevance_score": 158,
+    "editorial_fit_score": 67,
+    "summary_source": "Somerset West, South Africa-headquartered Stone Three helps mining concentrators increase productivity by solving difficult real-time measurement problems through industrial AI-enabled machine vision systems. To further enhance this, it provides remote process monitoring and diagnostics services and solutions supported by deep domain knowledge and AI. Its smart sensors deliver real-time insights for comminution and flotation, it The post Stone Three on the role of MPC and RTO in modern milling operations appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "8ce3aa7e2a12fbaf",
     "status": "drafted",
     "title_original": "Caterpillar’s R2900 XE moves into industrial minerals mining at K+S Borth",
@@ -1572,68 +1600,6 @@
       ],
       "generated_at": "2026-11-19T22:38:51.059Z",
       "generated_by": "github-models"
-    }
-  },
-  {
-    "id": "f899f14660e0ae02",
-    "status": "published",
-    "title_original": "Hillcrest and Equipmake to co-develop 800 V ZVS inverter for heavy-duty EVs",
-    "source_name": "Charged EVs",
-    "source_url": "https://chargedevs.com/newswire/hillcrest-and-equipmake-to-co-develop-800-v-zvs-inverter-for-heavy-duty-evs/",
-    "source_feed": "https://chargedevs.com/feed/",
-    "published_at": "2026-11-17T16:13:42.000Z",
-    "discovered_at": "2026-11-17T22:49:42.259Z",
-    "sector": "elektrifikasyon",
-    "subsector": null,
-    "technologies": [
-      "elektrifikasyon",
-      "yuruyus-guc-aktarma"
-    ],
-    "relevance_score": 156,
-    "editorial_fit_score": 79,
-    "summary_source": "Power conversion developer Hillcrest Energy Technologies and UK drivetrain manufacturer Equipmake have signed an agreement to jointly develop an 800 V traction inverter using Hillcrest’s zero-voltage-switching (ZVS) technology for heavy-duty... Read more »",
-    "editorial": {
-      "title_tr": "Hillcrest ve Equipmake, ağır hizmet araçları için 800 V ZVS inverter geliştirecek",
-      "dek_tr": "İki şirket, ağır hizmet kamyonları, otobüsler ve off-highway ekipmanları için sıfır gerilimde anahtarlama (ZVS) teknolojili bir çekiş inverteri geliştirmek üzere anlaştı. Programın prototip aşamaları ve performans ölçütleri bulunuyor.",
-      "summary_tr": "Charged EVs’in aktardığına göre güç elektroniği şirketi Hillcrest Energy Technologies ile güç aktarma sistemi üreticisi Equipmake, 800 V’luk bir çekiş inverterini birlikte geliştirmek için anlaşma imzaladı. Hedef uygulamalar arasında ağır hizmet kamyonları, otobüsler ve off-highway ekipmanları sayılıyor.\n\nZVS yaklaşımının inverterdeki enerji kayıplarını, elektriksel gürültüyü ve gerilim sıçramalarını azaltmak üzere tasarlandığı belirtiliyor. Hillcrest, laboratuvar ve test düzeneği ölçümlerinde yüzde 99,7 tepe verim, EMC odası testlerinde daha düşük elektromanyetik girişim ve motor terminallerindeki gerilim aşımında yüzde 90’dan fazla azalma elde ettiğini bildiriyor.\n\nGeliştirme programı, teknik şartname ve kaynak planı tamamlandıktan sonra başlayacak; iki prototip aşaması için performans ölçütleri belirlenecek. Haberde süre, tarafların bu planı altı ay içinde tamamlamayı taahhüt ettiğini belirtiyor; ürünün seri üretime veya saha kullanımına geçtiğine dair bilgi verilmiyor.",
-      "why_it_matters_tr": "Çekiş inverterinin verimliliği ve elektromanyetik uyumluluğu, ağır hizmet tipi elektrikli araçların tahrik sistemi tasarımını etkileyebilir. ZVS’nin gerçek araçlarda, özellikle uzun çalışma çevrimlerine sahip off-highway makinelerde sağlayacağı fayda henüz bağımsız saha verileriyle gösterilmiş değil.",
-      "seo_title": "Hillcrest ve Equipmake’den 800 V ZVS inverter projesi",
-      "meta_description": "Hillcrest ve Equipmake, ağır hizmet ve off-highway araçlar için 800 V ZVS çekiş inverteri geliştirecek. Test sonuçları Hillcrest tarafından bildirildi.",
-      "hero_image": "",
-      "reviewed": false,
-      "key_facts": [
-        "Hillcrest Energy Technologies ve Equipmake, 800 V ZVS çekiş inverteri geliştirmek üzere anlaşma yaptı.",
-        "Hedef uygulamalar ağır hizmet kamyonları, otobüsler ve off-highway ekipmanları.",
-        "Programın iki prototip aşaması ve tanımlı performans ölçütleri olacak.",
-        "Yüzde 99,7 tepe verim ve gerilim aşımında yüzde 90’dan fazla azalma, Hillcrest’in aktarılan test sonuçlarıdır."
-      ],
-      "suggested_tags": [
-        "Hillcrest Energy Technologies",
-        "Equipmake",
-        "ZVS inverter",
-        "800 V",
-        "elektrikli ağır hizmet araçları"
-      ],
-      "suggested_sector": "elektrifikasyon",
-      "editorial_format": "haber",
-      "suggested_technologies": [
-        "elektrifikasyon",
-        "yuruyus-guc-aktarma"
-      ],
-      "source_facts_used": [
-        "Haberde iki şirketin 800 V ZVS çekiş inverteri geliştirmek üzere anlaşma yaptığı aktarılıyor.",
-        "Haberde hedef araç sınıfları, prototip aşamaları ve altı ay içinde planı tamamlama taahhüdü belirtiliyor.",
-        "Test sonuçları, haberin Hillcrest’e atfettiği laboratuvar, EMC odası ve test düzeneği ölçümleridir."
-      ],
-      "uncertainty_notes": [
-        "Kaynak bir sektör yayınıdır; özgün şirket duyurusu bu girdide yer almıyor.",
-        "Verim ve gerilim aşımı sonuçları şirket tarafından bildirilen test sonuçlarıdır; bağımsız doğrulama veya araç üzerindeki saha performansı verilmemiştir.",
-        "Projenin teknik özellikleri, münhasır hakların kapsamı ve ticarileşme takvimi birincil kaynakla doğrulanmalı."
-      ],
-      "generated_at": "2026-11-17T22:50:48.216Z",
-      "generated_by": "github-models",
-      "review_result": "auto_published",
-      "reviewed_at": "2026-11-18T15:35:49.039Z"
     }
   },
   {
@@ -5267,32 +5233,6 @@
     }
   },
   {
-    "id": "50bdb26c6a04c39b",
-    "status": "candidate",
-    "title_original": "“Wild Machinist” Creates Remote-Control Model Excavator to Minutest Detail",
-    "source_name": "Equipment World",
-    "source_url": "https://www.equipmentworld.com/technology/article/16425624/wild-machinist-builds-remotecontrol-excavator-from-scratch",
-    "source_feed": "https://www.equipmentworld.com/feed/",
-    "published_at": "2026-11-17T14:14:27.000Z",
-    "discovered_at": "2026-11-17T22:49:42.880Z",
-    "sector": "is-makinalari",
-    "subsector": null,
-    "technologies": [],
-    "relevance_score": 135,
-    "editorial_fit_score": 55,
-    "summary_source": "He handcrafted a 1:24 replica of a Sany 1350H from scratch with aluminum alloy and 3D printed parts, including working hydraulics...",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
-  },
-  {
     "id": "5d23644e4f08591e",
     "status": "drafted",
     "title_original": "Man Goes on 1-Hour Excavator Rampage in China Smashing Building (Video)",
@@ -5637,6 +5577,34 @@
       ],
       "generated_at": "2026-10-22T09:46:05.296Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "fca03340ad23441c",
+    "status": "candidate",
+    "title_original": "Bateman self-propelled sprayers: Joyous joystick?",
+    "source_name": "profi",
+    "source_url": "https://www.profi.co.uk/test-centre/bateman-self-propelled-sprayers-joyous-joystick/",
+    "source_feed": "https://www.profi.co.uk/feed/",
+    "published_at": "2026-11-21T16:00:00.000Z",
+    "discovered_at": "2026-11-21T20:51:12.800Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [
+      "elektronik-telematik"
+    ],
+    "relevance_score": 133,
+    "editorial_fit_score": 67,
+    "summary_source": "DRIVING IMPRESSION: Back in January at LAMMA 2026, Bateman launched its latest self-propelled sprayer models. A key development was the introduction of a new control and joystick layout but, under the skin, the latest models have numerous other developments which we look at here. The post Bateman self-propelled sprayers: Joyous joystick? appeared first on Profi.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
