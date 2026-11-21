@@ -465,7 +465,7 @@
   },
   {
     "id": "a37928296e11b994",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Stone Three on the role of MPC and RTO in modern milling operations",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/11/21/stone-three-on-the-role-of-mpc-and-rto-in-modern-milling-operations/",
@@ -481,14 +481,49 @@
     "editorial_fit_score": 67,
     "summary_source": "Somerset West, South Africa-headquartered Stone Three helps mining concentrators increase productivity by solving difficult real-time measurement problems through industrial AI-enabled machine vision systems. To further enhance this, it provides remote process monitoring and diagnostics services and solutions supported by deep domain knowledge and AI. Its smart sensors deliver real-time insights for comminution and flotation, it The post Stone Three on the role of MPC and RTO in modern milling operations appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Stone Three: Öğütme tesislerinde MPC ve RTO yaklaşımı",
+      "dek_tr": "Stone Three, madencilik konsantratörlerinde model öngörülü kontrol ve gerçek zamanlı optimizasyon uygulamalarının proses ölçümüyle nasıl desteklenebileceğine odaklanıyor.",
+      "summary_tr": "Somerset West merkezli Stone Three, madencilik konsantratörlerinde endüstriyel yapay zeka destekli makina görme sistemleriyle gerçek zamanlı ölçüm sorunlarını çözmeyi hedefliyor. Şirket ayrıca uzak süreç izleme ve tanı hizmetleri sunduğunu, bunları yapay zekâ ve saha alan bilgisinin birleşimiyle desteklediğini açıklıyor.\n\nAkıllı sensörlerin kırma ve flotasyon süreçlerinden gerçek zamanlı veri sağladığı belirtiliyor. Ancak MPC ve RTO yöntemlerinin hangi kontrol mimarisine, ölçüm noktasına ve proses sonucuna bağlandığı, kaynak metninden doğrulanamıyor.",
+      "why_it_matters_tr": "Öğütme, enerji ve proses verimliliği bakımından kritik bir madencilik alanı. MPC ve RTO'nun gerçek sensör verileriyle desteklenmesi, işletmecilerin dalgalanan besleme ve öğütme koşullarına yanıt verebilir; bunun ölçülebilir performans yaratırsak kaynakta açıkça gösterilmesi gerekir.",
+      "seo_title": "Stone Three: Öğütmede MPC ve RTO Yaklaşımı",
+      "meta_description": "Stone Three'ın MPC ve RTO odaklı yaklaşımının madencilik öğütme tesislerinde gerçek zamanlı ölçüm ve proses izleme ile ilişkisini okuyun.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Stone Three, Güney Afrika'daki Somerset West'ten madencilik konsantratörlerine hizmet veriyor.",
+        "Şirket, yapay zekâ destekli makina görme sistemleri ve akıllı sensörler sunduğunu söylüyor.",
+        "Kaynak metni, kırma ve flotasyon süreçlerinde gerçek zamanlı içgörü sağlandığını belirtir.",
+        "Uzak süreç izleme ve tanı hizmetleri derin sektör bilgisi ile yapay zekâyla destekleniyor."
+      ],
+      "suggested_tags": [
+        "Stone Three",
+        "MPC",
+        "RTO",
+        "öğütme tesisleri",
+        "madencilik prosesleri",
+        "makina görme",
+        "yapay zekâ"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "otonomi-ai",
+        "elektronik-telematik"
+      ],
+      "source_facts_used": [
+        "Stone Three'ın Güney Afrika'da Somerset West merkezli olduğu.",
+        "Şirketin madencilik konsantratörlerine yapay zekâ destekli makina görme sistemleri sunduğu.",
+        "Akıllı sensörlerin kırma ve flotasyon süreçleri için gerçek zamanlı içgörü sağladığı.",
+        "Uzak süreç izleme ve tanı hizmetlerinin yapay zekâ ve sektör bilgisiyle desteklendiği."
+      ],
+      "uncertainty_notes": [
+        "Verilen metinde MPC ve RTO'nun teknik tanımı, uygulama düzeyi veya ölçülebilir performans etkisi bulunmuyor.",
+        "Kaynak metne HTTP 403 engeli uygulanmış; teknik ayrıntılar ve üretici iddiaları birincil kaynaktan doğrulanmalı.",
+        "Bağlantıya erişilemediği için otomasyonun hangi proses kontrol sistemine entegre olduğu belirlenemedi.",
+        "MPC ve RTO'nun gerçekten kurulu tesislere uygulanıp uygulanmadığı bağımsız saha verisiyle doğrulanmalı."
+      ],
+      "generated_at": "2026-11-21T20:52:39.809Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -4528,7 +4563,7 @@
   },
   {
     "id": "6416a1584c03b1e8",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "China’s REBIO Group develops advanced crusher wear solutions for Sijiaying & Simandou mines",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/11/20/chinas-rebio-group-develops-advanced-crusher-wear-solutions-for-sijiaying-simandou-mines/",
@@ -4542,14 +4577,44 @@
     "editorial_fit_score": 65,
     "summary_source": "Weijia Jiang, Vice President of China’s REBIO Group, recently led a delegation comprising the Chief Expert of its Mining Wear Parts Division and other technical specialists to the Sijiaying Iron Ore Mine, operated by HBIS Group Mining Co Ltd. The delegation held in-depth technical discussions with key management and engineering teams responsible for equipment maintenance The post China’s REBIO Group develops advanced crusher wear solutions for Sijiaying & Simandou mines appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "REBIO Group, Sijiaying ve Simandou ocakları için kırıcı aşınma parçalarını görüşüyor",
+      "dek_tr": "Çinli REBIO Group, Sijiaying demir cevheri işletmesi ile Simandou madeni için kırıcı aşınma parçalarına yönelik teknik görüşmeler yürütüyor.",
+      "summary_tr": "REBIO Group'un Maden Aşınma Parçaları Bölümü Başkanı ve teknik uzmanlardan oluşan heyet, HBIS Group'a bağlı Sijiaying Demir Cevheri Madeni'ni ziyaret etti. Heyet, işletme yönetimi ve ekipman bakım mühendisleriyle kırıcı bakımına ilişkin teknik görüşmeler gerçekleştirdi.\n\nKaynak metni, REBIO'nun aynı şekilde Simandou madeni için geliştirme çalışmalarını yürüttüğünü ifade ediyor. Ancak önerilen aşınma parçası geometrisi, malzeme kompozisyonu, saha performansı veya tasarım yaşam süresi gibi somut teknik ayrıntılar açıklanmıyor.",
+      "why_it_matters_tr": "Kırıcı astarlarının ve aşınma parçalarının ömrü, bakım aralığı, duruş süresi ve çevrim başına maliyet açısından madencilik tesislerinde doğrudan öneme sahiptir. REBIO'nun teklifinin teknik farkı ve gerçek saha kazanımı; malzeme, ölçülmüş ömür ve saha şartlarına ait doğrulanabilir verilerle açıklanmalıdır.",
+      "seo_title": "REBIO: Sijiaying ve Simandou'da Kırıcı Aşınma Çözümü",
+      "meta_description": "REBIO Group'un Sijiaying ve Simandou madeni çalışmalarında kırıcı aşınma parçaları için teknik görüşmelere odaklandığını öğrenin.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "REBIO Group Maden Aşınma Parçaları ekibinden bir heyet Sijiaying Demir Cevheri Madeni'ni ziyaret etti.",
+        "HBIS Group Mining'e bağlı işletmenin bakım ve mühendislik ekipleriyle teknik görüşmeler yapıldı.",
+        "Kaynak metni, gelişmiş kırıcı aşınma parçaları ve Simandou madeni için çalışmalar olduğunu belirtir."
+      ],
+      "suggested_tags": [
+        "REBIO Group",
+        "kırıcı aşınma parçaları",
+        "Sijiaying",
+        "Simandou",
+        "demir cevheri",
+        "kırma ekipmanları"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "REBIO Group'un Weijia Jiang liderliğinde bir delegasyon gönderdiği.",
+        "Sijiaying Demir Cevheri Madeni'nin HBIS Group'a bağlı olduğunun belirtildiği.",
+        "İşletme bakım ve mühendislik ekipleriyle teknik görüşmeler yapıldığı.",
+        "Kaynağın REBIO'nun Sijiaying ve Simandou için kırıcı aşınma parçaları geliştirdiğini ifade ettiği."
+      ],
+      "uncertainty_notes": [
+        "Kaynak metin yalnızca delegasyon ve teknik görüşme bilgisini özetliyor; ürün, malzeme veya tasarım detayları bulunmuyor.",
+        "Sijiaying ve Simandou projelerindeki somut ürün kazanımlarının, saha denemelerinin veya performans verilerinin doğrulanması gerekiyor.",
+        "HTTP 403 nedeniyle tam haber metnine erişilemedi; orijinal şirket açıklaması ile üretici veya işletme teyidi bulunmalı.",
+        "Başlıkta geçen 'advanced' ibaresi kaynak metindeki somut özelliklerle desteklenmediği için ürünün teknik üstünlüğü olarak sunulmamalı."
+      ],
+      "generated_at": "2026-11-21T20:52:39.809Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -5581,7 +5646,7 @@
   },
   {
     "id": "fca03340ad23441c",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Bateman self-propelled sprayers: Joyous joystick?",
     "source_name": "profi",
     "source_url": "https://www.profi.co.uk/test-centre/bateman-self-propelled-sprayers-joyous-joystick/",
@@ -5597,14 +5662,46 @@
     "editorial_fit_score": 67,
     "summary_source": "DRIVING IMPRESSION: Back in January at LAMMA 2026, Bateman launched its latest self-propelled sprayer models. A key development was the introduction of a new control and joystick layout but, under the skin, the latest models have numerous other developments which we look at here. The post Bateman self-propelled sprayers: Joyous joystick? appeared first on Profi.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Bateman'ın yeni pülverizatörlerinde joystick düzeni değişti",
+      "dek_tr": "Bateman, LAMMA 2026'da tanıttığı yeni kendi yürür pülverizatör modellerinde kontrol düzenini ve joystick yerleşimini güncelledi.",
+      "summary_tr": "Bateman'ın yeni kendi yürür pülverizatör modellerinde öne çıkan gelişme, yeni kontrol ve joystick düzeni olarak belirtiliyor. Profi'nin test odaklı haberi, değişikliklerin kaput altındaki diğer geliştirmeleri de ele alacağını duyuruyor.\n\nKaynak, LAMMA 2026'da gerçekleştirilen lansmanı doğruluyor. Yeni donanımın kontrol ergonomisini, sürüş davranışını veya tarla verimliliğini nasıl değiştirdiğine ilişkin ayrıntılar ve bağımsız ölçüm verileri verilen metinde yer almıyor.",
+      "why_it_matters_tr": "Kendi yürür pülverizatörlerde kontrol düzeni, operatör yükü, manevra doğruluğu ve tekrarlanan görevlerde verimlilik açısından önem taşıyabilir. Yeni joystick yerleşiminin somut bir teknik ya da kullanım avantajına dönüştüğü; üretici duyurusuna dayanarak değil, sahada ölçülmüş verilerle doğrulanmalıdır.",
+      "seo_title": "Bateman Pülverizatörlerinde Yeni Joystick Düzeni",
+      "meta_description": "Bateman'ın LAMMA 2026'da lansmanını yaptığı kendi yürür pülverizatörlerde yeni kontrol ve joystick düzeniyle ilgili bilinenleri öğrenin.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Bateman, Ocak 2026'daki LAMMA 2026 etkinliğinde yeni kendi yürür pülverizatör modellerini lansman etti.",
+        "Yeni modellerde kontrol ve joystick düzeni değiştirildi.",
+        "Kaynak, kaput altındaki başka geliştirmeler bulunduğunu ancak ayrıntı vermiyor."
+      ],
+      "suggested_tags": [
+        "Bateman",
+        "kendi yürür pülverizatör",
+        "LAMMA 2026",
+        "joystick",
+        "tarım makineleri",
+        "operatör kontrolü"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektronik-telematik",
+        "hidrolik"
+      ],
+      "source_facts_used": [
+        "Bateman'ın Ocak 2026'daki LAMMA 2026 etkinliğinde yeni kendi yürür pülverizatör modellerini lansman ettiği.",
+        "Yeni model grubunda yeni kontrol ve joystick düzeninin tanıtıldığı.",
+        "Kaynak metninde ayrıca modellerde diğer geliştirmelerin bulunduğu belirtilmesine karşın ayrıntı verilmediği."
+      ],
+      "uncertainty_notes": [
+        "Verilen kaynak yalnızca lansman duyurusunu özetleyen kısa bir RSS metni; joystick ve kontrol sisteminin teknik ayrıntıları yok.",
+        "Profi test merkezinin saha sürüş değerlendirmesine ilişkin sonuçlar, erişilebilir metinde yer almıyor.",
+        "Yeni kontrol düzeninin mevcut modellerden ölçülebilir farkı veya operatör ergonomisine etkisi doğrulanmamış.",
+        "Tam teknik özellikler, model adı, hidrolik düzen ve elektronik bileşenler için üreticinin birincil kaynağı doğrulanmalı."
+      ],
+      "generated_at": "2026-11-21T20:52:39.809Z",
+      "generated_by": "github-models"
     }
   },
   {
