@@ -122,7 +122,7 @@
   },
   {
     "id": "44f6332098841eea",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Landmark Harbour survey addresses Chinese versus Western mining tech & equipment confidence gap",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/11/21/landmark-harbour-survey-addresses-chinese-versus-western-mining-tech-equipment-confidence-gap/",
@@ -139,14 +139,41 @@
     "editorial_fit_score": 89,
     "summary_source": "With bauma CHINA set to kick off next week on November 23, with IM Editorial Director Paul Moore in attendance, it is a good opportunity to consider the position of Chinese OEMs in the mining industry – and especially in the overseas market. On the one hand, in areas like battery electric and autonomous fleet The post Landmark Harbour survey addresses Chinese versus Western mining tech & equipment confidence gap appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Landmark Harbour araştırması, madencilik ekipmanlarında Çinli ve Batılı üreticilere duyulan güveni inceliyor",
+      "dek_tr": "International Mining’in aktardığı yazı, Landmark Harbour araştırmasının Çinli ve Batılı madencilik teknolojisi üreticilerine yönelik güven farkını ele aldığını belirtiyor. Araştırmanın yöntem ve sonuçları mevcut kaynak metninde yer almıyor.",
+      "summary_tr": "International Mining, Landmark Harbour’ın Çinli ve Batılı üreticilerin madencilik teknolojileri ve ekipmanlarına yönelik güven farkını konu alan araştırmasını gündeme taşıyor. Yazı, özellikle Çinli üreticilerin yurt dışı pazarlardaki konumunu ele alıyor.\n\nKaynak özeti, bataryalı elektrikli makineler ve otonom filoları tartışma başlıkları arasında anıyor; ancak araştırmanın bulgularını, katılımcılarını veya kullanılan yöntemleri açıklamıyor.",
+      "why_it_matters_tr": "Çinli üreticilerin madencilikteki yurt dışı konumuna ilişkin güven algısı, yeni makine ve teknoloji seçeneklerinin değerlendirilmesini etkileyebilir. Ancak mevcut bilgiler, bu etkinin boyutunu yorumlamak için yeterli değil.",
+      "seo_title": "Madencilikte Çinli ve Batılı üreticilere güven araştırması",
+      "meta_description": "International Mining, Landmark Harbour araştırmasının madencilik teknolojilerinde Çinli ve Batılı üreticilere duyulan güven farkını ele aldığını aktarıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "International Mining yazısı, Landmark Harbour araştırmasını Çinli ve Batılı madencilik teknolojisi üreticilerine yönelik güven farkı çerçevesinde ele alıyor.",
+        "Kaynak özeti, bataryalı elektrikli makineler ve otonom filoları konuyla ilişkili alanlar olarak anıyor.",
+        "Araştırmanın sonuçları ve yöntemi sağlanan metinde belirtilmiyor."
+      ],
+      "suggested_tags": [
+        "madencilik ekipmanları",
+        "Çinli üreticiler",
+        "otonom madencilik",
+        "bataryalı makineler"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon",
+        "otonomi-ai"
+      ],
+      "source_facts_used": [
+        "International Mining başlığı ve özeti, Landmark Harbour araştırmasının Çinli ve Batılı madencilik teknolojisi ve ekipmanlarına duyulan güven farkını ele aldığını belirtiyor.",
+        "Sağlanan özet, bataryalı elektrikli makineler ve otonom filolardan söz ediyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası alınamadı (HTTP 403); sağlanan metin yalnızca kısa bir özettir.",
+        "Araştırmanın örneklemi, yöntemi, sonuçları ve güven farkının hangi ölçütlerle belirlendiği bilinmiyor; teknik veya pazar çıkarımı için tam metin ve birincil araştırma kaynağı doğrulanmalı."
+      ],
+      "generated_at": "2026-11-21T13:10:36.350Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -4090,7 +4117,7 @@
   },
   {
     "id": "4a7f43344ae1c0aa",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Yanmar Upgrades SmartAssist Remote Telematics to Monitor Machines by App",
     "source_name": "Equipment World",
     "source_url": "https://www.equipmentworld.com/technology/telematics/article/16541658/yanmar-rolls-out-revamped-smartassist-telematics",
@@ -4106,14 +4133,41 @@
     "editorial_fit_score": 67,
     "summary_source": "The service lets users locate equipment, track operations, manage preventive maintenance, review machine health information, receive...",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Yanmar, SmartAssist uzaktan telematik hizmetini uygulamayla yeniliyor",
+      "dek_tr": "Equipment World’ün kısa özetine göre güncellenen SmartAssist; makine konumu, çalışma bilgileri, bakım planlaması ve makine sağlığı takibini kapsıyor. Kaynak metninin tamamına erişilemediği için uygulama ve uyumluluk ayrıntıları belirsiz.",
+      "summary_tr": "Equipment World, Yanmar’ın SmartAssist uzaktan telematik hizmetini yenileyerek makinelerin uygulama üzerinden izlenmesini sağlayacağını bildiriyor. Sağlanan özette ekipman konumunu bulma, çalışma verilerini takip etme ve önleyici bakımı yönetme işlevleri sayılıyor.\n\nÖzet ayrıca makine sağlığı bilgilerinin görüntülenmesi ve bildirim alınmasından söz ediyor. Ancak hangi makine modellerinin desteklendiği, verilerin güncellenme sıklığı ve uygulamadaki işlevlerin kapsamı mevcut metinde açıklanmıyor.",
+      "why_it_matters_tr": "Mobil makine filolarında konum, bakım ve makine sağlığı bilgilerinin uzaktan izlenmesi, servis planlaması ve ekipman takibine yardımcı olabilir. Yanmar’ın güncellemesinin saha iş akışlarına etkisini değerlendirmek için desteklenen modeller ve işlev ayrıntıları gerekli.",
+      "seo_title": "Yanmar SmartAssist telematiği uygulamayla yeniliyor",
+      "meta_description": "Yanmar SmartAssist güncellemesi, Equipment World özetine göre konum, çalışma, önleyici bakım ve makine sağlığı takibini uygulamaya taşıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Equipment World, Yanmar SmartAssist telematik hizmetinin yenilendiğini ve uygulama üzerinden makine izleme olanağı sunduğunu bildiriyor.",
+        "Sağlanan özet konum takibi, çalışma bilgilerinin izlenmesi, önleyici bakım yönetimi ve makine sağlığı bilgilerini anıyor.",
+        "Tam kaynak metni sağlanmadığından ürünün teknik ve uyumluluk ayrıntıları belirsiz."
+      ],
+      "suggested_tags": [
+        "Yanmar",
+        "SmartAssist",
+        "makine telematiği",
+        "filo yönetimi",
+        "önleyici bakım"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektronik-telematik"
+      ],
+      "source_facts_used": [
+        "Equipment World başlığı, Yanmar’ın SmartAssist uzaktan telematik hizmetini yenilediğini ve uygulama üzerinden makine takibinden söz ediyor.",
+        "Sağlanan kısa özet; konum, çalışma, önleyici bakım ve makine sağlığı bilgilerinin takibini belirtiyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası alınamadı (HTTP 403); tam metin ve güncellemenin teknik ayrıntıları mevcut değil.",
+        "Desteklenen makine modelleri, uygulama özellikleri, erişim koşulları ve hizmetin kullanılabilirliği Yanmar’ın birincil duyurusundan doğrulanmalı."
+      ],
+      "generated_at": "2026-11-21T13:10:36.350Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -5751,7 +5805,7 @@
   },
   {
     "id": "49a44a8107268475",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Eimskip orders new Konecranes mobile harbor crane for Icelandic port",
     "source_name": "Container News",
     "source_url": "https://container-news.com/eimskip-orders-new-konecranes-mobile-harbor-crane-for-icelandic-port/",
@@ -5765,14 +5819,46 @@
     "editorial_fit_score": 75,
     "summary_source": "Icelandic shipping and logistics company Eimskip has ordered a new Konecranes Gottwald ESP.8 Mobile Harbor Crane for the port of Reyðarfjörður in Iceland. The order was booked in the fourth quarter of 2026, with delivery scheduled for the third quarter of 2027. The crane will mainly handle containers, alongside general and project cargo. It will […] The post Eimskip orders new Konecranes mobile harbor crane for Icelandic port appeared first on Container News.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Eimskip, İzlanda’daki Reyðarfjörður Limanı için Konecranes Gottwald ESP.8 sipariş etti",
+      "dek_tr": "Yeni mobil liman vinci, konteynerlerin yanı sıra genel ve proje yüklerini elleçleyecek. Konecranes Gottwald ESP.8’in teslimatının 2027’nin üçüncü çeyreğinde yapılması planlanıyor.",
+      "summary_tr": "Container News’in aktardığına göre Eimskip, İzlanda’daki Reyðarfjörður Limanı için bir Konecranes Gottwald ESP.8 mobil liman vinci sipariş etti. Ekipmanın ağırlıklı olarak konteyner, ayrıca genel ve proje yüklerinde kullanılması öngörülüyor. Sipariş 2026’nın dördüncü çeyreğinde kayda alındı; teslimatın 2027’nin üçüncü çeyreğinde yapılması planlanıyor.\n\nKaynakta verilen model özellikleri arasında en fazla 125 ton kaldırma kapasitesi ve 54 metreye kadar çalışma yarıçapı yer alıyor. Vinç, şebekeden elektrik bağlantısının yanında gerektiğinde kullanılmak üzere yerleşik dizel jeneratör de taşıyacak.\n\nEkipmanda Konecranes TRUCONNECT uzaktan izleme sistemi bulunacak. Eimskip’in aynı modelden iki vinci Reykjavík’teki Sundahöfn’de 2024’ten beri işlettiği, yeni vinçle Reyðarfjörður’da bu modelin ilk kez kullanılacağı aktarılıyor.",
+      "why_it_matters_tr": "Şebeke elektriğiyle çalışma ve dizel jeneratör seçeneğinin bir arada sunulması, liman işletmelerine enerji kaynağı ve operasyon koşullarına göre kullanım esnekliği sağlayabilir. Bu sipariş, aynı modelin Eimskip’in İzlanda’daki farklı bir liman operasyonuna da alınmasını gösteriyor.",
+      "seo_title": "Eimskip, İzlanda için Gottwald ESP.8 siparişi verdi",
+      "meta_description": "Eimskip, Reyðarfjörður Limanı için 125 ton kapasiteli Konecranes Gottwald ESP.8 sipariş etti; teslimat 2027’nin üçüncü çeyreğinde planlanıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Sipariş edilen model Konecranes Gottwald ESP.8 mobil liman vincidir.",
+        "Vincin Reyðarfjörður Limanı’nda konteyner, genel ve proje yüklerinde kullanılması planlanıyor.",
+        "Kaynak, azami kaldırma kapasitesini 125 ton, çalışma yarıçapını 54 metreye kadar olarak bildiriyor.",
+        "Güç seçenekleri arasında harici elektrik bağlantısı ve yerleşik dizel jeneratör bulunuyor.",
+        "Teslimatın 2027’nin üçüncü çeyreğinde yapılması planlanıyor."
+      ],
+      "suggested_tags": [
+        "Konecranes",
+        "Gottwald ESP.8",
+        "mobil liman vinci",
+        "liman ekipmanları",
+        "elektrikli elleçleme"
+      ],
+      "suggested_sector": "liman",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon",
+        "elektronik-telematik"
+      ],
+      "source_facts_used": [
+        "Container News metninde yer alan sipariş, kullanım amacı ve planlanan teslimat bilgileri.",
+        "Kaynağın bildirdiği 125 ton azami kaldırma kapasitesi, 54 metreye kadar çalışma yarıçapı ve elektrik bağlantısı ile dizel jeneratör seçenekleri.",
+        "Metinde belirtilen TRUCONNECT uzaktan izleme özelliği ve Eimskip’in Sundahöfn’deki aynı model vinçlerine ilişkin bilgi."
+      ],
+      "uncertainty_notes": [
+        "Teknik özellikler ve teslimat planı sağlanan sektör yayını metnine dayanmaktadır; orijinal Konecranes veya Eimskip duyurusu ayrıca doğrulanmadı.",
+        "Elektrikle çalışmanın maliyet ve emisyonları azalttığı yönündeki ifade Eimskip yöneticisinin beyanıdır; bağımsız ölçüm sonucu değildir.",
+        "Sipariş bedeli kaynakta açıklanmıyor."
+      ],
+      "generated_at": "2026-11-21T13:10:36.350Z",
+      "generated_by": "github-models"
     }
   },
   {
