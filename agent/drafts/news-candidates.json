@@ -3624,7 +3624,7 @@
   },
   {
     "id": "8f217b2ac7eeaea8",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Case Unveils Next-Gen 121G Compact Wheel Loader with Focus on Operator Comfort",
     "source_name": "Equipment World",
     "source_url": "https://www.equipmentworld.com/construction-equipment/compact-equipment/compact-wheel-loaders/article/16541922/case-ce-debuts-121g-compact-wheel-loader",
@@ -3638,14 +3638,38 @@
     "editorial_fit_score": 55,
     "summary_source": "The fifth model in the new G-Series gets 64 horsepower, 7,800-pound tip load and a variety of features to increase productivity...",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Case 121G kompakt lastikli yükleyici tanıtıldı",
+      "dek_tr": "Case’in yeni G Serisi’ndeki beşinci model 64 hp güç ve 7.800 lb devrilme yüküyle duyuruldu. Kaynak, operatör konforu ve verimlilik özelliklerinden söz ediyor ancak ayrıntı vermiyor.",
+      "summary_tr": "Equipment World’ün haber özetine göre 121G, Case’in yeni G Serisi’ndeki beşinci model. Makine için 64 hp güç ve 7.800 lb devrilme yükü bilgileri paylaşılıyor.\n\nKaynak başlığı operatör konforuna odaklanırken özet, verimliliği artırmayı amaçlayan çeşitli özelliklerden bahsediyor. Bu özelliklerin neler olduğu ve teknik ayrıntıları sağlanan metinde yer almıyor.",
+      "why_it_matters_tr": "Kompakt yükleyici alıcıları için güç ve devrilme yükü, makineyi iş gereksinimleriyle karşılaştırmada temel göstergelerdir; ancak bu veriler tek başına gerçek çalışma performansını ortaya koymaz.",
+      "seo_title": "Case 121G kompakt yükleyici: 64 hp ve 7.800 lb",
+      "meta_description": "Case 121G, G Serisi’nin beşinci modeli olarak duyuruldu. Kaynak özetinde 64 hp güç ve 7.800 lb devrilme yükü bilgisi yer alıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "121G, yeni G Serisi’nin beşinci modeli olarak tanımlanıyor.",
+        "Kaynak özeti motor gücünü 64 hp, devrilme yükünü 7.800 lb olarak veriyor."
+      ],
+      "suggested_tags": [
+        "Case",
+        "121G",
+        "kompakt lastikli yükleyici",
+        "G Serisi"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Equipment World başlığı 121G’yi yeni nesil kompakt lastikli yükleyici olarak tanımlıyor.",
+        "Kaynak özeti beşinci G Serisi modeli, 64 hp güç ve 7.800 lb devrilme yükü bilgilerini veriyor.",
+        "Başlık operatör konforuna, özet ise verimlilik özelliklerine değiniyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası alınamadı (HTTP 403); bilgiler yalnızca haber başlığı ve kısa özetle sınırlı.",
+        "Teknik özellikler ile konfor ve verimlilik özellikleri üretici veya bağımsız birincil kaynak üzerinden doğrulanmadı."
+      ],
+      "generated_at": "2026-11-22T12:57:57.297Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -5273,7 +5297,7 @@
   },
   {
     "id": "abbb3d354834ccf9",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Everything Attachments Unveils “Wicked Tapered Skid Steer Bucket”",
     "source_name": "Equipment World",
     "source_url": "https://www.equipmentworld.com/attachments/compact-equipment-attachments/article/16541654/everything-attachments-launches-wicked-tapered-skid-steer-bucket",
@@ -5287,14 +5311,38 @@
     "editorial_fit_score": 55,
     "summary_source": "The North Carolina-based manufacturer says it has developed the “lightest heaviest-duty bucket on the market” for compact track...",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Everything Attachments, Wicked Tapered skid steer kovasını tanıttı",
+      "dek_tr": "Everything Attachments, kompakt paletli yükleyiciler için tasarlanan Wicked Tapered kovayı duyurdu. Üreticinin ürünün ağırlık ve dayanıklılık konusundaki iddialarını destekleyen teknik veriler kaynak özetinde bulunmuyor.",
+      "summary_tr": "Equipment World’ün haber başlığı, Everything Attachments’ın Wicked Tapered adlı skid steer kovasını tanıttığını bildiriyor. Kaynak özeti, ürünün kompakt paletli yükleyicilere yönelik olduğunu belirtiyor.\n\nÜretici, kovayı “piyasadaki en hafif ağır hizmet tipi” ürün olarak nitelendiriyor. Bu, üreticiye atfedilen bir iddiadır; sağlanan metinde ağırlık, kapasite, malzeme veya karşılaştırma verisi yer almıyor.",
+      "why_it_matters_tr": "Kova ağırlığı ve tasarımı, kompakt yükleyicilerde faydalı yük ve uygulama uyumluluğu açısından önemli olabilir; ürünün bu alanlardaki etkisini değerlendirmek için teknik özellikler gerekir.",
+      "seo_title": "Everything Attachments Wicked Tapered kovayı tanıttı",
+      "meta_description": "Everything Attachments, kompakt paletli yükleyicilere yönelik Wicked Tapered kovayı duyurdu. Ağırlık ve kapasite verileri kaynak özetinde yer almıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Ürün Wicked Tapered adıyla duyurulmuş bir skid steer kovasıdır.",
+        "Kaynak özeti ürünün kompakt paletli yükleyicilere yönelik olduğunu belirtiyor.",
+        "“En hafif ağır hizmet tipi” nitelemesi üretici iddiası olarak aktarılıyor."
+      ],
+      "suggested_tags": [
+        "Everything Attachments",
+        "Wicked Tapered",
+        "skid steer kovası",
+        "kompakt paletli yükleyici"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Equipment World başlığı Wicked Tapered skid steer kovasının tanıtıldığını bildiriyor.",
+        "Kaynak özeti ürünün kompakt paletli yükleyiciler için olduğunu ve üreticinin ağırlık-dayanıklılık iddiasını aktarıyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası alınamadı (HTTP 403); ürünün teknik özellikleri sağlanan kısa özetten doğrulanamıyor.",
+        "Üreticinin ağırlık ve dayanıklılık karşılaştırması için ölçüm veya bağımsız doğrulama bilgisi yok."
+      ],
+      "generated_at": "2026-11-22T12:57:57.297Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -6040,7 +6088,7 @@
   },
   {
     "id": "7057d17575d0dee1",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Exodus Global Acquires HydrauliCircuit Technology",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/exodus-global-acquires-hydraulicircuit-technology/72836",
@@ -6054,14 +6102,37 @@
     "editorial_fit_score": 55,
     "summary_source": "Exodus acquires HCT to provide customers with more complete excavator and attachment solutions....",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Exodus Global, HydrauliCircuit Technology’yi satın aldı",
+      "dek_tr": "Construction Equipment Guide’ın haber özetine göre Exodus Global, HydrauliCircuit Technology’yi bünyesine kattı. Duyuruda amaç, ekskavatör ve ataşman çözümlerini müşterilere daha bütünleşik sunmak olarak aktarılıyor.",
+      "summary_tr": "Construction Equipment Guide, Exodus Global’ın HydrauliCircuit Technology’yi satın aldığını bildiriyor. Sağlanan özet, işlemi ekskavatör ve ataşman çözümlerini daha kapsamlı biçimde sunma hedefiyle ilişkilendiriyor.\n\nSatın almanın finansal koşulları, kapanış tarihi ve iki şirketin ürün ya da operasyonlarının nasıl bütünleştirileceği kaynak metninde açıklanmıyor.",
+      "why_it_matters_tr": "Ekskavatör ve ataşman çözümlerinin tek bir portföyde sunulması, müşterilerin makine-ekipman uyumunu değerlendirme biçimini etkileyebilir; somut ürün veya hizmet değişiklikleri ise mevcut kaynakta belirtilmiyor.",
+      "seo_title": "Exodus Global, HydrauliCircuit Technology’yi satın aldı",
+      "meta_description": "Construction Equipment Guide’a göre Exodus Global, HydrauliCircuit Technology’yi satın aldı. İşlemin koşulları ve entegrasyon ayrıntıları paylaşılmadı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Haber özeti, Exodus Global’ın HydrauliCircuit Technology’yi satın aldığını bildiriyor.",
+        "Özette işlemin ekskavatör ve ataşman çözümlerini daha kapsamlı sunma hedefiyle bağlantısı kuruluyor."
+      ],
+      "suggested_tags": [
+        "Exodus Global",
+        "HydrauliCircuit Technology",
+        "ekskavatör",
+        "ataşman"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Construction Equipment Guide başlığı Exodus Global’ın HydrauliCircuit Technology’yi satın aldığını bildiriyor.",
+        "Kaynak özeti, işlemi ekskavatör ve ataşman çözümlerini daha kapsamlı sunma hedefiyle açıklıyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası alınamadı (HTTP 403); yalnızca başlık ve kısa haber özeti mevcut.",
+        "Satın almanın koşulları, kapanış durumu ve ürün portföylerine etkisi birincil şirket duyurusuyla doğrulanmadı."
+      ],
+      "generated_at": "2026-11-22T12:57:57.297Z",
+      "generated_by": "github-models"
     }
   },
   {
