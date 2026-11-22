@@ -6763,7 +6763,7 @@
   },
   {
     "id": "167526f466c74159",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Second TBM launched on Hudson Tunnel Project",
     "source_name": "Tunnels & Tunnelling",
     "source_url": "https://www.tunnelsandtunnelling.com/news/second-tbm-launched-on-hudson-tunnel-project/",
@@ -6777,14 +6777,37 @@
     "editorial_fit_score": 55,
     "summary_source": "Second TBM launched on Hudson Tunnel Project. Two TBMs are now at work on the Palisades Tunnel package. The post Second TBM launched on Hudson Tunnel Project appeared first on Tunnels and Tunnelling.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Hudson Tunnel Projesi’nde İkinci Tünel Açma Makinesi Devrede",
+      "dek_tr": "Hudson Tunnel Projesi’nin Palisades Tunnel paketi kapsamında iki tünel açma makinesinin çalıştığı bildirildi.",
+      "summary_tr": "Hudson Tunnel Projesi’nde ikinci tünel açma makinesinin devreye alındığı açıklandı. Bu gelişme, Palisades Tunnel paketinde yürütülen kazı çalışmalarında aynı anda iki makinenin görev yaptığını gösteriyor.\n\nVerilen kaynak, makinenin üreticisi, çapı veya kazı yöntemi gibi teknik ayrıntıları içermiyor. Bu nedenle projenin ileri aşama oranı ve kullanılan makine teknolojisi hakkında yalnızca genel proje ilerlemesi düzeyinde değerlendirme yapılabiliyor.",
+      "why_it_matters_tr": "Palisades Tunnel paketi gibi tünel projelerinde eşzamanlı makine kullanımı, saha koordinasyonu ve ilerleme planlaması açısından operasyonel öneme sahiptir.",
+      "seo_title": "Hudson Tüneli'nde İkinci TBM Devrede",
+      "meta_description": "Hudson Tunnel Projesi’nde ikinci TBM devreye alınarak Palisades Tunnel paketinde aynı anda iki makinenin çalışması sağlandı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Hudson Tunnel Projesi’nde ikinci tünel açma makinesi devreye alındı.",
+        "Palisades Tunnel paketinde iki tünel açma makinesi çalışıyor."
+      ],
+      "suggested_tags": [
+        "Hudson Tunnel Projesi",
+        "TBM",
+        "Palisades Tunnel",
+        "Tünel kazısı"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "İkinci tünel açma makinesinin Palisades Tunnel paketinde hizmete alındığı",
+        "Paket kapsamında artık iki tünel açma makinesinin çalıştığı"
+      ],
+      "uncertainty_notes": [
+        "Kaynak metni yalnızca “APROTEK” ibaresini içeriyor; makine adı, üretici, teknik özellikler ve proje kapsamında birincil doğrulama bulunmuyor.",
+        "İmalatçı veya resmi proje kaynağıyla çap, kazı yöntemi, ilerleme hedefleri ve makine konumunun doğrulanması gerekiyor."
+      ],
+      "generated_at": "2026-11-22T20:59:48.928Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -7505,7 +7528,7 @@
   },
   {
     "id": "a724a1e6ec2e3ecc",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "VIDEO: Volvo EC550 Assists Allens Demolition in Myrtle Beach",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/video-volvo-ec550-assists-allens-demolition-in-myrtle-beach/72829",
@@ -7519,14 +7542,40 @@
     "editorial_fit_score": 55,
     "summary_source": "Allens Demolition is using a Volvo EC550 High Reach excavator to take down two Myrtle Beach motels. Built for multistory demolition, the machine offers the reach and stability needed for the job while Ascendum Machinery provides setup and on-site support....",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Volvo EC550 High Reach, Myrtle Beach Demolisyonunda",
+      "dek_tr": "Allens Demolition, Myrtle Beach'teki iki motelin yıkımı için Volvo EC550 High Reach ekskavatörü kullanıyor.",
+      "summary_tr": "Allens Demolition, Myrtle Beach'te yer alan iki moteli yıkmak için Volvo EC550 High Reach ekskavatöründen yararlanıyor. Kaynakta makinenin çok katlı yıkım uygulamalarına yönelik iş erişimi ve stabilite avantajlarına sahip olduğu belirtiliyor.\n\nAscendum Machinery'nin makinenin kurulumu ve sahadaki destek çalışmalarını sağladığı aktarılıyor. Kullanımın gösterdiği iş odaklı avantaj, yüksek erişim gerektiren yıkım sahalarında kararlı çalışma pozisyonu ve makine donanımının doğru uygulanmasına işaret ediyor.",
+      "why_it_matters_tr": "Volvo EC550 High Reach'in motel yıkımında kullanımı, yüksek menzil, stabilite ve saha desteğinin çok katlı bina yıkımlarında birlikte değerlendirilmesini gösteriyor.",
+      "seo_title": "Volvo EC550 Myrtle Beach Motel Yıkımında",
+      "meta_description": "Volvo EC550 High Reach ekskavatör, Myrtle Beach'teki iki motel yıkımında Allens Demolition tarafından kullanılıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Allens Demolition iki Myrtle Beach motelini yıkmak için Volvo EC550 High Reach ekskavatörü kullanıyor.",
+        "Makine, çok katlı yıkım için erişim ve stabilite gereksinimlerine yönelik olarak tanımlanıyor.",
+        "Ascendum Machinery makinenin kurulumu ve sahadaki desteğini sağlıyor."
+      ],
+      "suggested_tags": [
+        "Volvo EC550",
+        "High Reach ekskavatör",
+        "Bina yıkımı",
+        "Demolisyon",
+        "Myrtle Beach"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Allens Demolition'ın iki motel yıkımı için Volvo EC550 High Reach kullandığı",
+        "EC550 High Reach'in çok katlı yıkım için iş erişimi ve stabilite sunduğunun belirtildiği",
+        "Ascendum Machinery'nin kurulum ve sahada destek verdiği"
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfasına HTTP 403 hatası nedeniyle tam metin erişilememiştir.",
+        "Makinenin çalışma menzili, ağırlığı, motor gücü veya saha performansına ilişkin doğrulanmış teknik ölçüler kaynakta bulunmuyor."
+      ],
+      "generated_at": "2026-11-22T20:59:48.928Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -7688,7 +7737,7 @@
   },
   {
     "id": "e58aee085c72ca4d",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Toulouse Metro TBM makes third breakthrough",
     "source_name": "Tunnels & Tunnelling",
     "source_url": "https://www.tunnelsandtunnelling.com/news/toulouse-metro-tbm-makes-third-breakthrough/",
@@ -7702,14 +7751,38 @@
     "editorial_fit_score": 55,
     "summary_source": "Toulouse Metro TBM makes third breakthrough. TBM Jeanne Marvig has 700m remaining to complete the drive. The post Toulouse Metro TBM makes third breakthrough appeared first on Tunnels and Tunnelling.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Jeanne Marvig TBM Toulouse Metrosu Projesinde Üçüncü Kez Yol Açtı",
+      "dek_tr": "Toulouse Metro hattında Jeanne Marvig adlı tünel açma makinesinin üçüncü menzilini tamamladığı ve 700 metrelik bölümün kaldığı bildirildi.",
+      "summary_tr": "Toulouse Metro Projesi’nde Jeanne Marvig adlı tünel açma makinesi üçüncü kazı aşamasını tamamladı. Kaynağa göre makinenin hedef aldığı güzergâhta yaklaşık 700 metrelik ilerleme daha bulunuyor.\n\nVerilen bilgi, makinenin hangi TBM yöntemini kullandığı veya üretici ve teknik özelliklerinin ne olduğu hakkında ayrıntı vermiyor. Bu nedenle haber, yalnızca proje ilerleme aşaması ve kalan mesafe çerçevesinde değerlendirilebiliyor.",
+      "why_it_matters_tr": "Üçüncü tünel kazısının tamamlanması, Toulouse Metro genişletmesinde makine operasyonlarının ilerlemesini ve kalan güzergâhın önemini görünür kılıyor.",
+      "seo_title": "Toulouse Metro'da Jeanne Marvig Üçüncü Sefer",
+      "meta_description": "Jeanne Marvig adlı TBM Toulouse Metrosu hattında üçüncü kez yol açtı; güzergâhta 700 metrelik kazı kaldı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Jeanne Marvig tünel açma makinesi Toulouse Metrosu hattında üçüncü kez yol açtı.",
+        "Tünel açma güzergâhında tamamlanması gereken 700 metre kaldı."
+      ],
+      "suggested_tags": [
+        "Toulouse Metrosu",
+        "Jeanne Marvig",
+        "TBM",
+        "Metro tüneli",
+        "Tünel kazısı"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Jeanne Marvig adlı TBM'nin üçüncü kez tünel kazısı tamamladığı",
+        "Güzergâhta tamamlanacak 700 metre kaldığı"
+      ],
+      "uncertainty_notes": [
+        "Kaynak metni yalnızca “APROTEK” ibaresini içeriyor; TBM üreticisi, çapı, kazı yöntemi ve resmi ilerleme verisi doğrulanmamış durumda.",
+        "Üçüncü breakthrough'ın resmi proje kaynağıyla ve ileriye dönük kalan bölümün teknik şartlarıyla doğrulanması gerekiyor."
+      ],
+      "generated_at": "2026-11-22T20:59:48.928Z",
+      "generated_by": "github-models"
     }
   },
   {
