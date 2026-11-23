@@ -406,7 +406,7 @@
   },
   {
     "id": "a00d69a01423ca2b",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "BluVein entering ‘product’ territory after clocking up proving ground hours",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/11/23/bluvein-entering-product-territory-after-clocking-up-proving-ground-hours/",
@@ -422,14 +422,43 @@
     "editorial_fit_score": 67,
     "summary_source": "One hundred and eleven kilometres. That’s the distance that has been travelled on BluVein Rail at the BluVein Proving Grounds to get the company’s fourth-generation dynamic charging system to Technology Readiness Level (TRL) 6. Between August 10 and September 30, there have been 2,158 test runs of the system, a combination of slotted overhead rail The post BluVein entering ‘product’ territory after clocking up proving ground hours appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "BluVein’in dinamik şarj sistemi test sahasında TRL 6’ya ulaştı",
+      "dek_tr": "International Mining’in aktardığına göre BluVein’in dördüncü nesil sistemi, şirketin test sahasında 111 kilometrelik ray kullanımı ve 2.158 test koşusunun ardından TRL 6 seviyesine getirildi. Paylaşılan kaynak kesiti, sistemin teknik konfigürasyonunu ve test sonuçlarını ayrıntılandırmıyor.",
+      "summary_tr": "International Mining’in haberinde BluVein’in dördüncü nesil dinamik şarj sistemi için test sahasında toplam 111 kilometrelik BluVein Rail kullanımı bildiriliyor. Kaynağa göre 10 Ağustos–30 Eylül arasında sistemle 2.158 test koşusu gerçekleştirildi ve teknoloji hazırlık seviyesi TRL 6’ya ulaştı.\n\nHaberde sistemin raylı dinamik şarj yaklaşımı ve yarıklı üstten ray bileşimi anılıyor. Ancak sağlanan metin kesiti; test aracını, güç değerlerini, batarya arayüzünü, çalışma koşullarını veya test performans ölçütlerini açıklamıyor.",
+      "why_it_matters_tr": "Dinamik şarj, maden araçlarının çalışma sırasında enerji alabilmesi açısından yeraltı ve açık ocak elektrifikasyonunda izlenmeye değer bir yaklaşım. Bununla birlikte, mevcut bilgiler sistemin belirli bir makineye entegrasyonunu veya üretim koşullarındaki performansını değerlendirmek için yeterli değil.",
+      "seo_title": "BluVein dinamik şarj sistemi test aşamasında ilerledi",
+      "meta_description": "BluVein’in ray tabanlı dinamik şarj sistemi için 2.158 test koşusu ve 111 kilometrelik kullanım bildirildi; performans ayrıntıları sınırlı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "International Mining, BluVein Rail üzerinde 111 kilometrelik kullanım bildiriyor.",
+        "Habere göre 10 Ağustos–30 Eylül arasında 2.158 test koşusu yapıldı.",
+        "Kaynak, dördüncü nesil dinamik şarj sistemi için TRL 6 seviyesine ulaşıldığını aktarıyor."
+      ],
+      "suggested_tags": [
+        "BluVein",
+        "dinamik şarj",
+        "maden elektrifikasyonu",
+        "bataryalı maden araçları",
+        "teknoloji hazırlık seviyesi"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "International Mining’in BluVein Rail üzerinde bildirilen 111 kilometrelik kullanım verisi",
+        "Haberde belirtilen 2.158 test koşusu ve tarih aralığı",
+        "Dördüncü nesil sistem için aktarılan TRL 6 seviyesi"
+      ],
+      "uncertainty_notes": [
+        "Kaynak metni kısa ve teknik ayrıntıları sınırlı; test aracı, koşullar, güç aktarımı, ölçülen performans ve sistem konfigürasyonu açıklanmıyor.",
+        "TRL 6 ve test sonuçları sektör yayınının aktarımıdır; üreticinin birincil açıklaması ve bağımsız doğrulama girdide bulunmuyor.",
+        "Test tarih aralığının yılı kaynak kesitinde belirtilmiyor."
+      ],
+      "generated_at": "2026-11-23T15:34:30.184Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -5973,7 +6002,7 @@
   },
   {
     "id": "c59cccfdd2af9d86",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Cruise Ships Are Increasing Their Use of Shore Power",
     "source_name": "The Maritime Executive",
     "source_url": "https://maritime-executive.com/article/cruise-ships-are-increasing-their-use-of-shore-power",
@@ -5989,14 +6018,42 @@
     "editorial_fit_score": 79,
     "summary_source": "",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Kruvaziyer limanlarında kıyı elektriği yatırımları genişliyor",
+      "dek_tr": "Liman elektriği, gemilerin rıhtımda ana makinelerini çalıştırma ihtiyacını azaltmayı hedefliyor. Vancouver ve Seattle’daki kapasite artışları, bağlantı erişimi ve şebeke gücünün de belirleyici olduğunu gösteriyor.",
+      "summary_tr": "The Maritime Executive’ın aktardığına göre kruvaziyer gemilerinde kıyı elektriği kullanımı artarken, liman yatırımlarının kapsamı bağlantı noktalarının sayısı ve mevcut elektrik kapasitesiyle sınırlanabiliyor. Haberde, orta boy gemilerin rıhtımda 7–12 MW, daha büyük gemilerin ise 16 MW’a kadar güç kullanabildiği belirtiliyor.\n\nVancouver Limanı’ndaki genişletme projesinin istasyon sayısını üçten beşe çıkarması ve doğu-batı rıhtımlarında gemilerin bağlantı noktalarına erişimini artırması bekleniyor. Habere göre bağlantı oranının yüzde 35 artması ve yılda yaklaşık 90 ek gemi uğrağında kıyı elektriği kullanılması hedefleniyor.\n\nPortMiami’de aynı anda üç gemiye bağlantı sağlanabildiği, ancak şebeke gücünün kapasiteyi sınırladığı aktarılıyor. Seattle Limanı ise 2026’da 330 gemi uğrağı ve yüzde 66 bağlantı oranı bildirmiş; 2028’e kadar ana liman olarak kullandığı kruvaziyer gemilerinde yüzde 100 kullanım hedefliyor.",
+      "why_it_matters_tr": "Kıyı elektriği yalnız gemideki bağlantı ekipmanına değil, liman altyapısına ve yerel şebekenin sağlayabileceği güce de bağlı. Bu nedenle liman işletmecileri ve gemi operatörleri için kapasite, rıhtım yerleşimi ve eşzamanlı bağlantı planlaması temel teknik konular.",
+      "seo_title": "Kruvaziyer limanlarında kıyı elektriği kapasitesi artıyor",
+      "meta_description": "Vancouver ve Seattle’daki kıyı elektriği yatırımları, kruvaziyer limanlarında bağlantı kapasitesi ve şebeke gücünün önemini ortaya koyuyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Habere göre orta boy kruvaziyer gemileri rıhtımda 7–12 MW güç kullanabiliyor.",
+        "Vancouver projesi istasyon sayısını üçten beşe çıkarmayı hedefliyor.",
+        "PortMiami’de aynı anda üç gemi kıyı elektriğine bağlanabiliyor.",
+        "Seattle Limanı 2026 sezonunda yüzde 66 bağlantı oranı bildirdi."
+      ],
+      "suggested_tags": [
+        "kıyı elektriği",
+        "kruvaziyer gemileri",
+        "liman elektrifikasyonu",
+        "şebeke kapasitesi"
+      ],
+      "suggested_sector": "marine-yatcilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "Haberde kruvaziyer gemileri için verilen rıhtım güç aralıkları",
+        "Vancouver kıyı elektriği genişletmesinin istasyon sayısı ve beklenen bağlantı artışı",
+        "PortMiami ve Seattle için aktarılan bağlantı kapasitesi ve kullanım oranları"
+      ],
+      "uncertainty_notes": [
+        "Kaynak sektör yayınıdır; liman projeleri, kullanım oranları ve güç değerleri birincil liman veya işletmeci kaynaklarından ayrıca doğrulanmalıdır.",
+        "Kıyı elektriğinin emisyon etkisi geminin enerji kaynağına ve liman şebekesinin elektrik üretim bileşimine bağlıdır; kaynak bu etkileri karşılaştırmalı olarak incelemiyor."
+      ],
+      "generated_at": "2026-11-23T15:34:30.184Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -7611,7 +7668,7 @@
   },
   {
     "id": "0abff1b31bd2cbae",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Sinoboom, yeni platform ve teleskopik yükleyici modellerini tanıttı",
     "source_name": "LHT",
     "source_url": "https://www.lht.com.tr/sinoboom-yeni-platform-ve-teleskopik-yukleyici-modellerini-tanitti/",
@@ -7627,14 +7684,47 @@
     "editorial_fit_score": 77,
     "summary_source": "Sinoboom, Çin’in Changsha kentindeki üretim tesislerinde düzenlediği uluslararası müşteri etkinliğinde elektrikli makaslı platformlardan eklemli platformlara, teleskopik yükleyicilerden özel uygulamalara yönelik ekipmanlara kadar uzanan yeni ürün gamını sergiledi. Etkinlikte konuşan Sinoboom Yönetim Kurulu Başkanı Steven Liu, küresel tedarik ağını güçlendirerek teslimat sürelerini kısaltmayı, yerel yedek parça tedarikini ve müşteri desteğini geliştirmeyi hedeflediklerini açıkladı. Sinoboom, 21 Kasım’da […]",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Sinoboom, yeni platform ve TH25-06 teleskopik yükleyiciyi tanıttı",
+      "dek_tr": "Şirketin Changsha’daki müşteri etkinliğinde elektrikli makaslı platformlar, yüksek erişimli eklemli platformlar ve yeni bir kompakt teleskopik yükleyici sergilendi. TH25-06 için 2,5 ton kapasite ve 5,85 metre kaldırma yüksekliği açıklandı.",
+      "summary_tr": "LHT’nin haberine göre Sinoboom, 21 Kasım’da Çin’in Changsha kentindeki üretim tesisinde düzenlediği etkinlikte farklı erişim platformlarını ve teleskopik yükleyicileri tanıttı. Elektrikli makaslı platform S Serisi altı modelle sergilendi; çalışma yükseklikleri 7,8–13,9 metre, platform kapasiteleri 230–320 kilogram aralığında verildi. Seri elektrikli ve hidrolik tahrikli seçenekler içeriyor.\n\nTanıtılan TH25-06 kompakt teleskopik yükleyicinin kaldırma kapasitesi 2,5 ton, azami kaldırma yüksekliği 5,85 metre ve genişliği 1,85 metre olarak aktarıldı. Haberde model için 55,4 kW Kubota motor, hidrostatik şanzıman, üç direksiyon modu, hidrolik hızlı ataşman değiştirme sistemi ve standart telematik bilgileri yer alıyor.\n\nEtkinlikte AB18(E)J Plus ve AB42(E)RJ Plus eklemli platformları da sergilendi. Habere göre AB42RJP’nin çalışma yüksekliği 43,6 metre, yatay erişimi 23 metre; model zemin seviyesinin 15,1 metre altına erişim kapasitesiyle tanıtıldı.",
+      "why_it_matters_tr": "Ürün gamı, kiralama filolarının farklı erişim ve saha ihtiyaçlarını karşılamaya yönelik elektrikli platformları ve kompakt bir teleskopik yükleyiciyi bir araya getiriyor. TH25-06’nın motor, şanzıman ve ataşman arayüzü gibi ayrıntıları, makinenin saha kullanımını ve bakım gereksinimlerini değerlendirmek açısından anlamlı; ancak gerçek performans için saha verisi bulunmuyor.",
+      "seo_title": "Sinoboom TH25-06 teleskopik yükleyiciyi tanıttı",
+      "meta_description": "Sinoboom’un yeni ürünleri arasında 2,5 ton kapasiteli TH25-06 teleskopik yükleyici ve elektrikli makaslı platform S Serisi bulunuyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "S Serisi için 7,8–13,9 metre çalışma yüksekliği ve 230–320 kg platform kapasitesi bildirildi.",
+        "TH25-06 için 2,5 ton kaldırma kapasitesi ve 5,85 metre azami kaldırma yüksekliği açıklandı.",
+        "TH25-06’nın motor gücü haberde 55,4 kW olarak verildi.",
+        "AB42RJP için 43,6 metre çalışma yüksekliği ve 23 metre yatay erişim belirtildi."
+      ],
+      "suggested_tags": [
+        "Sinoboom",
+        "TH25-06",
+        "teleskopik yükleyici",
+        "personel yükseltici platform",
+        "elektrikli platform"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon",
+        "hidrolik",
+        "yuruyus-guc-aktarma",
+        "elektronik-telematik"
+      ],
+      "source_facts_used": [
+        "LHT’nin etkinlikte sergilendiğini aktardığı S Serisi platform ölçü ve kapasite değerleri",
+        "Haberde verilen TH25-06 kapasite, motor, şanzıman ve donanım bilgileri",
+        "AB42RJP için aktarılan çalışma yüksekliği ve erişim değerleri"
+      ],
+      "uncertainty_notes": [
+        "Girdi içinde üreticinin birincil teknik duyurusu veya ürün föyü bulunmuyor; model özellikleri ve ölçüler Sinoboom’un resmi kaynaklarından doğrulanmalı.",
+        "Özellikler sektör yayınının aktardığı tanıtım bilgileri olup bağımsız saha testi veya performans doğrulaması sunulmuyor.",
+        "AB42RJP için belirtilen zemin seviyesinin 15,1 metre altına erişim ifadesinin uygulama koşulları kaynakta açıklanmıyor."
+      ],
+      "generated_at": "2026-11-23T15:34:30.184Z",
+      "generated_by": "github-models"
     }
   },
   {
