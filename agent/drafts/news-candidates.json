@@ -177,65 +177,6 @@
     }
   },
   {
-    "id": "06228613f29b3d56",
-    "status": "published",
-    "title_original": "Claas updates Torion Sinus wheel loaders",
-    "source_name": "iVT International",
-    "source_url": "https://www.ivtinternational.com/news/agriculture/claas-updates-torion-sinus-wheel-loaders.html",
-    "source_feed": "https://www.ivtinternational.com/feed",
-    "published_at": "2026-11-19T09:57:48.000Z",
-    "discovered_at": "2026-11-19T14:01:39.205Z",
-    "sector": "is-makinalari",
-    "subsector": null,
-    "technologies": [
-      "otonomi-ai",
-      "hidrolik"
-    ],
-    "relevance_score": 166,
-    "editorial_fit_score": 79,
-    "summary_source": "Claas has updated two of its Torion Sinus wheel loaders, the Torion 644 Sinus and Torion 738 T Sinus, adding greater automation, new comfort controls and increased hydraulic capacity. Both [...] The post Claas updates Torion Sinus wheel loaders appeared first on Industrial Vehicle Technology International.",
-    "editorial": {
-      "title_tr": "Claas Torion Sinus 644 ve 738 T yükleyicilerini güncelledi",
-      "dek_tr": "iVT International'ın haberine göre Torion 644 Sinus ve 738 T Sinus, Smart Loading otomasyonu, 9 inç ekran ve artırılmış hidrolik kapasiteyle yenilendi. Güncellemeler EIMA 2026'da tanıtıldı.",
-      "summary_tr": "iVT International, Claas'ın iki Torion Sinus tekerlekli yükleyicisini güncellediğini bildiriyor. Haberde belirtilen modeller Torion 644 Sinus ve Torion 738 T Sinus.\n\nAktarılan değişiklikler arasında Smart Loading otomasyonu, 9 inç ekran ve daha yüksek hidrolik kapasite bulunuyor. Kaynak girdisi, bu değişikliklerin teknik değerlerini veya çalışma performansına etkisini açıklamıyor.",
-      "why_it_matters_tr": "Yükleme otomasyonu ve hidrolik kapasitedeki artış, tarım işletmelerinde yükleyicilerin iş çevrimi ve farklı ataşmanlarla kullanımını etkileyebilir; ancak olası faydaları değerlendirmek için teknik ayrıntı ve saha verisi gerekir.",
-      "seo_title": "Claas Torion Sinus 644 ve 738 T güncellendi",
-      "meta_description": "Claas Torion 644 Sinus ve 738 T Sinus için Smart Loading otomasyonu, 9 inç ekran ve artırılmış hidrolik kapasite güncellemeleri bildirildi.",
-      "hero_image": "",
-      "reviewed": false,
-      "key_facts": [
-        "Güncellenen modeller Torion 644 Sinus ve Torion 738 T Sinus olarak belirtiliyor.",
-        "Haberde Smart Loading otomasyonu ve 9 inç ekran aktarılıyor.",
-        "Hidrolik kapasitenin artırıldığı, ancak sayısal değer verilmediği bildiriliyor.",
-        "Tanıtımın EIMA 2026'da yapıldığı belirtiliyor."
-      ],
-      "suggested_tags": [
-        "Claas",
-        "Torion Sinus",
-        "tekerlekli yükleyici",
-        "tarım makineleri"
-      ],
-      "suggested_sector": "tarim",
-      "editorial_format": "haber",
-      "suggested_technologies": [
-        "hidrolik",
-        "elektronik-telematik"
-      ],
-      "source_facts_used": [
-        "iVT International haber özeti, güncellenen iki Torion Sinus modelini ve Smart Loading özelliğini belirtiyor.",
-        "Kaynak açıklaması 9 inç ekran, artan hidrolik kapasite ve EIMA 2026 tanıtımını aktarıyor."
-      ],
-      "uncertainty_notes": [
-        "Girdi içinde üreticinin birincil teknik duyurusu bulunmuyor; model ve güncelleme ayrıntıları üretici kaynağından doğrulanmalı.",
-        "Hidrolik kapasite artışının miktarı ve Smart Loading'in işlev kapsamı belirtilmemiş."
-      ],
-      "generated_at": "2026-11-19T14:02:37.779Z",
-      "generated_by": "github-models",
-      "review_result": "auto_published",
-      "reviewed_at": "2026-11-19T15:40:56.142Z"
-    }
-  },
-  {
     "id": "25508840d39d1de4",
     "status": "drafted",
     "title_original": "Wabtec Digital Mine’s Gen 3 CAS completes University of Pretoria TRL4 stage gate",
@@ -461,6 +402,34 @@
       ],
       "generated_at": "2026-11-08T11:38:02.185Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "a00d69a01423ca2b",
+    "status": "candidate",
+    "title_original": "BluVein entering ‘product’ territory after clocking up proving ground hours",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/11/23/bluvein-entering-product-territory-after-clocking-up-proving-ground-hours/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-11-23T05:00:18.000Z",
+    "discovered_at": "2026-11-23T15:33:16.890Z",
+    "sector": "madencilik",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "relevance_score": 158,
+    "editorial_fit_score": 67,
+    "summary_source": "One hundred and eleven kilometres. That’s the distance that has been travelled on BluVein Rail at the BluVein Proving Grounds to get the company’s fourth-generation dynamic charging system to Technology Readiness Level (TRL) 6. Between August 10 and September 30, there have been 2,158 test runs of the system, a combination of slotted overhead rail The post BluVein entering ‘product’ territory after clocking up proving ground hours appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -2998,6 +2967,34 @@
     }
   },
   {
+    "id": "bd005450c91e81d8",
+    "status": "candidate",
+    "title_original": "BMW iX4 rolls off production line alongside iX3 in Debrecen",
+    "source_name": "electrive",
+    "source_url": "https://www.electrive.com/2026/11/23/bmw-ix4-rolls-off-production-line-alongside-ix3-in-debrecen/",
+    "source_feed": "https://www.electrive.com/feed/",
+    "published_at": "2026-11-23T11:32:00.000Z",
+    "discovered_at": "2026-11-23T15:33:16.349Z",
+    "sector": "elektrifikasyon",
+    "subsector": null,
+    "technologies": [
+      "yuruyus-guc-aktarma"
+    ],
+    "relevance_score": 148,
+    "editorial_fit_score": 67,
+    "summary_source": "Following the BMW iX3, series production of the BMW iX4 has now also begun at BMW's plant in Debrecen - making the new SUV, with its coupé silhouette, the second model of the Neue Klasse to be produced at the Hungarian BMW plant. The iX4 will reach dealers starting March 2027 - initially in two drivetrain variants.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "5a101543e4829ba1",
     "status": "drafted",
     "title_original": "EU statistics reveal sales trends for battery-electric trucks and tractor units",
@@ -3446,6 +3443,34 @@
       ],
       "generated_at": "2026-10-23T19:03:05.099Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "9464be9db755cb1d",
+    "status": "candidate",
+    "title_original": "France registers first fully electric mooring boat",
+    "source_name": "Marine Industry News",
+    "source_url": "https://marineindustrynews.co.uk/france-first-fully-electric-mooring-boat/",
+    "source_feed": "https://marineindustrynews.co.uk/feed/",
+    "published_at": "2026-11-23T10:15:40.000Z",
+    "discovered_at": "2026-11-23T15:33:17.330Z",
+    "sector": "marine-yatcilik",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "relevance_score": 146,
+    "editorial_fit_score": 67,
+    "summary_source": "France has registered its first fully electric mooring boat, developed by Lamanage Huchet Desmars (Groupe LHD) in partnership with marine charging specialist Aqua superPower. The project combines an electric workboat with a 400kW shore-side charging system, supporting the introduction of zero-emission vessel operations at French ports. ‘Our partnership with LHD and Vebrat is a significant […] The post France registers first fully electric mooring boat appeared first on Marine Industry News.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -4583,6 +4608,36 @@
       ],
       "generated_at": "2026-11-11T12:20:05.475Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "99ef459589e63755",
+    "status": "candidate",
+    "title_original": "Inaugural Future Truck Summit at Work Truck Week 2027 Challenges Industry to Rethink Commercial Vehicles",
+    "source_name": "Construction Equipment Guide",
+    "source_url": "https://www.constructionequipmentguide.com/inaugural-future-truck-summit-at-work-truck-week-2027-challenges-industry-to-rethink-commercial-vehicles/72839",
+    "source_feed": "https://feeds.feedburner.com/ceg",
+    "published_at": "2026-11-23T05:00:00.000Z",
+    "discovered_at": "2026-11-23T15:33:16.325Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon",
+      "elektronik-telematik",
+      "fonksiyonel-guvenlik"
+    ],
+    "relevance_score": 140,
+    "editorial_fit_score": 36,
+    "summary_source": "Future Truck Summit opens Work Truck Week 2027 with a call to rethink commercial vehicles. The conference explores emerging fuels, electrification, connected technologies, safety and fleet strategies to help industry professionals prepare for the future of work trucks....",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -5914,6 +5969,34 @@
       ],
       "generated_at": "2026-11-11T21:51:15.966Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "c59cccfdd2af9d86",
+    "status": "candidate",
+    "title_original": "Cruise Ships Are Increasing Their Use of Shore Power",
+    "source_name": "The Maritime Executive",
+    "source_url": "https://maritime-executive.com/article/cruise-ships-are-increasing-their-use-of-shore-power",
+    "source_feed": "https://maritime-executive.com/articles.rss",
+    "published_at": "2026-11-23T13:22:30.000Z",
+    "discovered_at": "2026-11-23T15:33:16.624Z",
+    "sector": "marine-yatcilik",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "relevance_score": 132,
+    "editorial_fit_score": 79,
+    "summary_source": "",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -7527,6 +7610,34 @@
     }
   },
   {
+    "id": "0abff1b31bd2cbae",
+    "status": "candidate",
+    "title_original": "Sinoboom, yeni platform ve teleskopik yükleyici modellerini tanıttı",
+    "source_name": "LHT",
+    "source_url": "https://www.lht.com.tr/sinoboom-yeni-platform-ve-teleskopik-yukleyici-modellerini-tanitti/",
+    "source_feed": "https://www.lht.com.tr/feed/",
+    "published_at": "2026-11-23T10:59:40.000Z",
+    "discovered_at": "2026-11-23T15:33:19.122Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "relevance_score": 123,
+    "editorial_fit_score": 77,
+    "summary_source": "Sinoboom, Çin’in Changsha kentindeki üretim tesislerinde düzenlediği uluslararası müşteri etkinliğinde elektrikli makaslı platformlardan eklemli platformlara, teleskopik yükleyicilerden özel uygulamalara yönelik ekipmanlara kadar uzanan yeni ürün gamını sergiledi. Etkinlikte konuşan Sinoboom Yönetim Kurulu Başkanı Steven Liu, küresel tedarik ağını güçlendirerek teslimat sürelerini kısaltmayı, yerel yedek parça tedarikini ve müşteri desteğini geliştirmeyi hedeflediklerini açıkladı. Sinoboom, 21 Kasım’da […]",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "a724a1e6ec2e3ecc",
     "status": "drafted",
     "title_original": "VIDEO: Volvo EC550 Assists Allens Demolition in Myrtle Beach",
@@ -7733,6 +7844,32 @@
       ],
       "generated_at": "2026-10-24T18:02:30.035Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "b209c222932ba545",
+    "status": "candidate",
+    "title_original": "Liebherr LTM 1250-5.1, Almanya’daki futbol stadyumunda ilk görevini yaptı",
+    "source_name": "Makina Market",
+    "source_url": "https://makina-market.com.tr/liebherr-ltm-1250-5-1-almanyadaki-futbol-stadyumunda-ilk-gorevini-yapti/",
+    "source_feed": "https://makina-market.com.tr/feed/",
+    "published_at": "2026-11-23T12:37:25.000Z",
+    "discovered_at": "2026-11-23T15:33:18.334Z",
+    "sector": "liman",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 116,
+    "editorial_fit_score": 55,
+    "summary_source": "Almanya merkezli vinç ve ağır yük taşımacılığı şirketi Titschkus & Wittrock’un filosuna yeni kattığı Liebherr LTM 1250-5.1 mobil… The post Liebherr LTM 1250-5.1, Almanya’daki futbol stadyumunda ilk görevini yaptı first appeared on Makina Market.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -8090,6 +8227,32 @@
       ],
       "generated_at": "2026-10-20T09:45:23.236Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "c6b3e8f94ec107cb",
+    "status": "candidate",
+    "title_original": "Liebherr LTM 1250-5.1, Almanya’daki futbol stadyumunda ilk görevini yaptı",
+    "source_name": "LHT",
+    "source_url": "https://www.lht.com.tr/liebherr-ltm-1250-5-1-almanyadaki-futbol-stadyumunda-ilk-gorevini-yapti/",
+    "source_feed": "https://www.lht.com.tr/feed/",
+    "published_at": "2026-11-23T12:38:32.000Z",
+    "discovered_at": "2026-11-23T15:33:19.120Z",
+    "sector": "liman",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 115,
+    "editorial_fit_score": 55,
+    "summary_source": "Almanya merkezli vinç ve ağır yük taşımacılığı şirketi Titschkus & Wittrock’un filosuna yeni kattığı Liebherr LTM 1250-5.1 mobil vinç, Bremen’deki Weserstadion’da tribün onarım çalışmalarında ilk kez kullanıldı. 250 ton kaldırma kapasiteli vinç, dar çalışma alanında 8 tona kadar ağırlığa sahip yaklaşık 10 beton elemanın montajını gerçekleştirdi. Almanya’nın Bremen kentinde bulunan Weserstadion’da gerçekleştirilen tribün onarım çalışmaları, […]",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -8741,6 +8904,32 @@
       ],
       "generated_at": "2026-10-25T09:31:26.861Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "5e681108bf7c775c",
+    "status": "candidate",
+    "title_original": "bauma CHINA 2026, iki fuar alanında kapılarını açtı",
+    "source_name": "Makina Market",
+    "source_url": "https://makina-market.com.tr/bauma-china-2026-iki-fuar-alaninda-kapilarini-acti/",
+    "source_feed": "https://makina-market.com.tr/feed/",
+    "published_at": "2026-11-23T13:05:33.000Z",
+    "discovered_at": "2026-11-23T15:33:18.333Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 106,
+    "editorial_fit_score": 55,
+    "summary_source": "İş ve inşaat makineleri sektörünün uluslararası buluşmalarından bauma CHINA 2026, 23 Kasım itibarıyla Çin’in Şanghay kentinde ziyaretçilerini ağırlamaya… The post bauma CHINA 2026, iki fuar alanında kapılarını açtı first appeared on Makina Market.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
