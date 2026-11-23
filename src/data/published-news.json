@@ -1,5 +1,39 @@
 [
   {
+    "id": "1b6d944bb1c21ee2",
+    "slug": "deutz-ve-kirloskar-ortakligindaki-tcd-1-6-eima-2026-da-sergilendi",
+    "title": "DEUTZ ve Kirloskar ortaklığındaki TCD 1.6, EIMA 2026'da sergilendi",
+    "dek": "Üç silindirli TCD 1.6, kaynakta 18–41,2 kW güç aralığı ve 164 Nm'ye kadar tork değeriyle tanıtılıyor. Motorun doğal emişli ve turboşarjlı seçenekleri bulunuyor.",
+    "summary": "Powertrain International Off-Highway'nin haberine göre DEUTZ ile Kirloskar iş birliğiyle geliştirilen TCD 1.6, EIMA International 2026'da sergilendi. Su soğutmalı üç silindirli motor, 18–41,2 kW güç aralığını ve 164 Nm'ye kadar torku kapsıyor.\n\nKaynak, doğal emişli D1.6 ve turboşarjlı TCD 1.6 olmak üzere iki seçenek bulunduğunu; elektronik direkt enjeksiyon ve yüksek basınçlı common rail kullanıldığını aktarıyor. Motorun düzenlemelere tabi pazarlarda DEUTZ'un ürün gamındaki alt güç aralığını tamamladığı da haberde belirtiliyor.",
+    "why_it_matters": "Düşük güç aralığındaki bir motor seçeneği, kompakt tarım ve iş makinelerinde üreticilerin güç paketi tercihlerini etkileyebilir. Kaynakta motorun belirli bir makineye uygulanmasına veya bağımsız test sonuçlarına yer verilmediğinden, saha performansı hakkında çıkarım yapılamaz.",
+    "key_facts": [
+      "TCD 1.6, DEUTZ ile Kirloskar ortaklığında geliştirildi ve EIMA International 2026'da sergilendi.",
+      "Kaynak, motoru su soğutmalı ve üç silindirli olarak tanımlıyor.",
+      "Bildirilen güç aralığı 18–41,2 kW; azami tork 164 Nm.",
+      "Doğal emişli D1.6 ve turboşarjlı TCD 1.6 seçenekleri bulunuyor.",
+      "Haberde elektronik direkt enjeksiyon ve yüksek basınçlı common rail sistemi belirtiliyor."
+    ],
+    "format": "haber",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [
+      "yuruyus-guc-aktarma"
+    ],
+    "tags": [
+      "DEUTZ",
+      "Kirloskar",
+      "TCD 1.6",
+      "tarım makineleri",
+      "dizel motor"
+    ],
+    "source_name": "Powertrain International Off-Highway",
+    "source_url": "https://www.powertraininternationalweb.com/off-highway/deutz-kirloskar-eima-international/",
+    "source_published_at": "2026-11-20T14:13:33.000Z",
+    "site_published_at": "2026-11-23T17:59:31.907Z",
+    "hero_image": "",
+    "publish_mode": "automatic"
+  },
+  {
     "id": "5508f095099af651",
     "slug": "new-holland-t4-f-n-v-serisine-auto-command-cvt-geliyor",
     "title": "New Holland T4 F/N/V serisine Auto Command CVT geliyor",

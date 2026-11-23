@@ -63,7 +63,7 @@
   },
   {
     "id": "1b6d944bb1c21ee2",
-    "status": "drafted",
+    "status": "published",
     "title_original": "DEUTZ 1.6-Liter Engine Developed in Partnership with Kirloskar Displayed at EIMA Bologna",
     "source_name": "Powertrain International Off-Highway",
     "source_url": "https://www.powertraininternationalweb.com/off-highway/deutz-kirloskar-eima-international/",
@@ -117,7 +117,9 @@
         "Teknik değerler ve ortaklığın kapsamı üretici kaynaklarından doğrulanmalı; bağımsız saha testi veya belirli makine uygulaması bilgisi verilmemiş."
       ],
       "generated_at": "2026-11-20T22:12:52.094Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "review_result": "auto_published",
+      "reviewed_at": "2026-11-23T17:59:31.907Z"
     }
   },
   {
