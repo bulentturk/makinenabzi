@@ -124,7 +124,7 @@
   },
   {
     "id": "738b8eb42b94d051",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Global Battery Materials hosts battery-electric haul truck test at Kearney graphite mine",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/11/23/global-battery-materials-hosts-battery-electric-haul-truck-test-at-kearney-graphite-mine/",
@@ -141,14 +141,42 @@
     "editorial_fit_score": 89,
     "summary_source": "Global Battery Materials announced today the launch of a battery-electric vehicle (BEV) haul truck test study at its Kearney graphite mine in Ontario, Canada. The study, led by MEDATech Engineering, supported by Green Graphite Technologies (GGT) and funded by Natural Resources Canada’s Energy Innovation Program, pairs digital modelling with a weeklong real-world trial of MEDATech’s The post Global Battery Materials hosts battery-electric haul truck test at Kearney graphite mine appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Kearney grafit madeninde bataryalı kamyon için saha testi başlatıldı",
+      "dek_tr": "Global Battery Materials, Ontario’daki Kearney grafit madeninde bataryalı elektrikli bir maden kamyonunu değerlendirecek çalışma başlattı. Çalışma, dijital modellemeyi bir haftalık gerçek saha denemesiyle birleştiriyor.",
+      "summary_tr": "International Mining’in aktardığına göre çalışma MEDATech Engineering liderliğinde, Green Graphite Technologies’in desteğiyle yürütülüyor ve Natural Resources Canada’nın Energy Innovation Program’ı tarafından finanse ediliyor.\n\nPlan, dijital modelleme ile MEDATech’e ait bir kamyonun bir hafta sürecek saha denemesini birlikte kapsıyor. Kaynakta test sonuçları, kamyonun modeli ve teknik özellikleri yer almıyor.",
+      "why_it_matters_tr": "Modelleme ile saha denemesinin birlikte yürütülmesi, maden kamyonlarının bataryalı tahrikini gerçek işletme koşullarında değerlendirmek için anlamlı bir yaklaşım. Ancak çalışma sonuçları paylaşılmadığından verim veya operasyonel uygunluk hakkında çıkarım yapılamıyor.",
+      "seo_title": "Kearney madeninde bataryalı kamyon saha testi",
+      "meta_description": "Kearney grafit madeninde bataryalı elektrikli maden kamyonu için dijital modelleme ve bir haftalık saha denemesini içeren çalışma başlatıldı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Çalışma, Ontario’daki Kearney grafit madeninde yürütülüyor.",
+        "Çalışma MEDATech Engineering liderliğinde; Green Graphite Technologies destek veriyor.",
+        "Plan, dijital modelleme ve bir haftalık saha denemesini içeriyor.",
+        "Finansman Natural Resources Canada’nın Energy Innovation Program’ından sağlanıyor."
+      ],
+      "suggested_tags": [
+        "bataryalı maden kamyonu",
+        "maden elektrifikasyonu",
+        "saha testi",
+        "grafit madeni"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "Kaynak, Kearney madenindeki bataryalı elektrikli kamyon çalışmasının başlatıldığını bildiriyor.",
+        "Çalışmanın dijital modelleme ile bir haftalık gerçek saha denemesini eşleştirdiğini belirtiyor.",
+        "MEDATech Engineering, Green Graphite Technologies ve Natural Resources Canada programının rollerini aktarıyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası alınamadı; mevcut metin kısa ve kesilmiş. Kamyonun modeli, teknik özellikleri, test koşulları ve sonuçları doğrulanamıyor.",
+        "Önemli teknik ayrıntılar ve çalışma kapsamı için üretici veya proje ortaklarının birincil açıklaması gerekli."
+      ],
+      "generated_at": "2026-11-24T02:07:01.911Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -437,7 +465,7 @@
   },
   {
     "id": "612966018d8ff920",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "SANY unveils battery electric SET260E 240 t class mining truck",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/11/24/sany-unveils-battery-electric-set260e-240-t-class-mining-truck/",
@@ -453,14 +481,41 @@
     "editorial_fit_score": 77,
     "summary_source": "At bauma CHINA this week, SANY has a number of interesting product and technology launches but the big hitter is definitely the SET260E, a 240-tonne battery-electric mining truck on a 1,500-volt platform. SANY has seen a lot of interest, and has quite a few operators, for its large hybrid mining trucks – notably the SET150S The post SANY unveils battery electric SET260E 240 t class mining truck appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "SANY, 240 ton sınıfı bataryalı SET260E maden kamyonunu tanıttı",
+      "dek_tr": "International Mining’in haberine göre SANY, SET260E adlı bataryalı elektrikli maden kamyonunu bauma CHINA’da tanıttı. Kaynak, aracı 240 ton sınıfında ve 1.500 volt platform üzerinde tanımlıyor.",
+      "summary_tr": "Haberde SET260E’nin SANY’nin bauma CHINA’daki ürün ve teknoloji tanıtımları arasında öne çıktığı belirtiliyor. Kamyon, bataryalı elektrikli tahrikli ve 1.500 voltluk platforma sahip 240 ton sınıfı bir maden aracı olarak tanımlanıyor.\n\nKaynakta batarya kapasitesi, menzil, şarj yöntemi, taşıma kapasitesinin tanımı, teknik performans veya ticari bulunabilirlik bilgisi yer almıyor.",
+      "why_it_matters_tr": "Büyük sınıf bir maden kamyonunun bataryalı elektrikli olarak tanıtılması, maden taşımacılığında elektrifikasyon seçeneklerinin genişlediğine işaret edebilir. Ancak işletme uygunluğunu değerlendirmek için enerji sistemi, şarj düzeni ve saha performansı gibi ayrıntılara ihtiyaç var.",
+      "seo_title": "SANY SET260E bataryalı maden kamyonunu tanıttı",
+      "meta_description": "SANY’nin SET260E modeli, habere göre 240 ton sınıfında ve 1.500 volt platform üzerinde çalışan bataryalı elektrikli maden kamyonu olarak tanıtıldı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "SANY, SET260E’yi bauma CHINA’da tanıttı.",
+        "International Mining, kamyonu 240 ton sınıfında olarak tanımlıyor.",
+        "Habere göre araç bataryalı elektrikli ve 1.500 volt platform üzerinde."
+      ],
+      "suggested_tags": [
+        "SANY SET260E",
+        "bataryalı maden kamyonu",
+        "maden elektrifikasyonu",
+        "bauma CHINA"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "International Mining’in SET260E’nin bauma CHINA’da tanıtıldığı bilgisi.",
+        "Haberde belirtilen 240 ton sınıfı ve 1.500 volt platform bilgileri.",
+        "Aracın bataryalı elektrikli maden kamyonu olarak tanımlanması."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası alınamadı; mevcut haber metni sınırlı. Batarya kapasitesi, şarj, güç aktarma, performans ve ticari bulunabilirlik bilgileri doğrulanamıyor.",
+        "Sınıf tanımı ve teknik özellikler için SANY’nin birincil ürün açıklaması gerekli."
+      ],
+      "generated_at": "2026-11-24T02:07:01.911Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -1579,7 +1634,7 @@
   },
   {
     "id": "9313d5fe7d3c2080",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Dimaag’s Mobile Megawatt Charging System enables full-workday operation of Komatsu’s 20-ton-class electric excavator",
     "source_name": "Charged EVs",
     "source_url": "https://chargedevs.com/newswire/dimaags-mobile-megawatt-charging-system-enables-full-workday-operation-of-komatsus-20-ton-class-electric-excavator/",
@@ -1596,14 +1651,45 @@
     "editorial_fit_score": 89,
     "summary_source": "Dimaag AI has shipped a 20-ton electric excavator to Komatsu, along with Dimaag’s Mobile Megawatt Charging System (MWCS). The system is designed to enable battery-electric heavy equipment to maintain full-workday... Read more »",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Dimaag, Komatsu’ya mobil megavat şarj sistemi ve elektrikli ekskavatör teslim etti",
+      "dek_tr": "Dimaag, 20 ton sınıfı elektrikli ekskavatörle birlikte mobil DC hızlı şarj sistemini Komatsu’ya teslim ettiğini bildiriyor. Sistem, sabit şebeke kapasitesinin sınırlı olduğu sahalarda çalışma aralarında yüksek güçlü şarj sağlamayı hedefliyor.",
+      "summary_tr": "Dimaag’ın açıklamasına göre ekskavatörde Zenius batarya modülleri kullanılıyor ve makine megavat ölçeğinde DC hızlı şarja uyumlu. Şirketin kendinden tahrikli, dört tekerlekten çekişli mobil şarj ünitesi enerjiyi makineye sahada ulaştırıyor; amaç, ekskavatörün şarj için sabit bir noktaya gitmesi gereğini azaltmak.\n\nDimaag, ünitenin gece şebekeden 30–100 kW ile şarj olup gün içinde ağır ekipmana megavat ölçeğinde güç verebildiğini belirtiyor. Şirket ayrıca Zenius batarya sisteminde tekrarlı yüksek güçlü şarj ve deşarj sırasında ısı yönetimi için doğrudan dinamik dielektrik soğutma (D3C) kullandığını aktarıyor.\n\nKomatsu CTO’su, iş birliği kapsamında mobil DC hızlı şarj teknolojisiyle kavram kanıtlama testleri başlatıldığını söylüyor. Kaynakta test sonuçları veya bağımsız performans verileri bulunmuyor.",
+      "why_it_matters_tr": "Mobil şarj ünitesi, saha şebekesinin sınırlı olduğu iş makineleri operasyonlarında yüksek güçlü şarja erişim için farklı bir altyapı yaklaşımı sunuyor. Uygulamanın tam iş günü çalışma sağlayıp sağlamadığı ise paylaşılan test sonuçları ve bağımsız verilerle değerlendirilmelidir.",
+      "seo_title": "Dimaag’dan Komatsu’ya mobil megavat şarj sistemi",
+      "meta_description": "Dimaag, Komatsu’ya 20 ton sınıfı elektrikli ekskavatör ve mobil DC hızlı şarj ünitesi teslim ettiğini; kavram kanıtlama testlerinin başladığını bildiriyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Dimaag, Komatsu’ya 20 ton sınıfı elektrikli ekskavatör ve mobil megavat şarj sistemi teslim ettiğini bildiriyor.",
+        "Şirket, ekskavatörün megavat ölçeğinde DC hızlı şarj için Zenius batarya modülleriyle donatıldığını belirtiyor.",
+        "Mobil ünite için gece şebeke şarj gücü 30–100 kW olarak veriliyor.",
+        "Komatsu, mobil DC hızlı şarj teknolojisiyle kavram kanıtlama testleri başlatıldığını bildiriyor."
+      ],
+      "suggested_tags": [
+        "Dimaag",
+        "Komatsu",
+        "elektrikli ekskavatör",
+        "mobil şarj",
+        "DC hızlı şarj"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon",
+        "termal-yonetim"
+      ],
+      "source_facts_used": [
+        "Dimaag’ın 20 ton sınıfı elektrikli ekskavatör ve mobil megavat şarj sistemi teslim ettiğine ilişkin haberdeki bilgi.",
+        "Sistemin batarya modülleri, mobil güç elektroniği ve kontrolleri bir araya getirdiği bilgisi.",
+        "Gece şebekeden 30–100 kW şarj ve gün içinde megavat ölçeğinde güç sağlama değerleri.",
+        "Komatsu’nun kavram kanıtlama testleri başlatıldığına ilişkin açıklaması."
+      ],
+      "uncertainty_notes": [
+        "Performans, tam iş günü çalışma ve ısı yönetimine ilişkin bilgiler Dimaag’ın açıklamalarına dayanıyor; bağımsız saha testi sonucu olarak doğrulanmış değil.",
+        "Komatsu’nun test kapsamı ve sonuçları henüz kaynakta verilmemiş."
+      ],
+      "generated_at": "2026-11-24T02:07:01.911Z",
+      "generated_by": "github-models"
     }
   },
   {
