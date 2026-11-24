@@ -1832,7 +1832,7 @@
   },
   {
     "id": "9313d5fe7d3c2080",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Dimaag’s Mobile Megawatt Charging System enables full-workday operation of Komatsu’s 20-ton-class electric excavator",
     "source_name": "Charged EVs",
     "source_url": "https://chargedevs.com/newswire/dimaags-mobile-megawatt-charging-system-enables-full-workday-operation-of-komatsus-20-ton-class-electric-excavator/",
@@ -1887,7 +1887,9 @@
         "Komatsu’nun test kapsamı ve sonuçları henüz kaynakta verilmemiş."
       ],
       "generated_at": "2026-11-24T02:07:01.911Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "review_result": "auto_published",
+      "reviewed_at": "2026-11-24T17:37:26.342Z"
     }
   },
   {

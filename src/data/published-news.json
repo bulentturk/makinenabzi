@@ -1,5 +1,39 @@
 [
   {
+    "id": "9313d5fe7d3c2080",
+    "slug": "dimaag-komatsu-ya-mobil-megavat-sarj-sistemi-ve-elektrikli-ekskavator-teslim-etti",
+    "title": "Dimaag, Komatsu’ya mobil megavat şarj sistemi ve elektrikli ekskavatör teslim etti",
+    "dek": "Dimaag, 20 ton sınıfı elektrikli ekskavatörle birlikte mobil DC hızlı şarj sistemini Komatsu’ya teslim ettiğini bildiriyor. Sistem, sabit şebeke kapasitesinin sınırlı olduğu sahalarda çalışma aralarında yüksek güçlü şarj sağlamayı hedefliyor.",
+    "summary": "Dimaag’ın açıklamasına göre ekskavatörde Zenius batarya modülleri kullanılıyor ve makine megavat ölçeğinde DC hızlı şarja uyumlu. Şirketin kendinden tahrikli, dört tekerlekten çekişli mobil şarj ünitesi enerjiyi makineye sahada ulaştırıyor; amaç, ekskavatörün şarj için sabit bir noktaya gitmesi gereğini azaltmak.\n\nDimaag, ünitenin gece şebekeden 30–100 kW ile şarj olup gün içinde ağır ekipmana megavat ölçeğinde güç verebildiğini belirtiyor. Şirket ayrıca Zenius batarya sisteminde tekrarlı yüksek güçlü şarj ve deşarj sırasında ısı yönetimi için doğrudan dinamik dielektrik soğutma (D3C) kullandığını aktarıyor.\n\nKomatsu CTO’su, iş birliği kapsamında mobil DC hızlı şarj teknolojisiyle kavram kanıtlama testleri başlatıldığını söylüyor. Kaynakta test sonuçları veya bağımsız performans verileri bulunmuyor.",
+    "why_it_matters": "Mobil şarj ünitesi, saha şebekesinin sınırlı olduğu iş makineleri operasyonlarında yüksek güçlü şarja erişim için farklı bir altyapı yaklaşımı sunuyor. Uygulamanın tam iş günü çalışma sağlayıp sağlamadığı ise paylaşılan test sonuçları ve bağımsız verilerle değerlendirilmelidir.",
+    "key_facts": [
+      "Dimaag, Komatsu’ya 20 ton sınıfı elektrikli ekskavatör ve mobil megavat şarj sistemi teslim ettiğini bildiriyor.",
+      "Şirket, ekskavatörün megavat ölçeğinde DC hızlı şarj için Zenius batarya modülleriyle donatıldığını belirtiyor.",
+      "Mobil ünite için gece şebeke şarj gücü 30–100 kW olarak veriliyor.",
+      "Komatsu, mobil DC hızlı şarj teknolojisiyle kavram kanıtlama testleri başlatıldığını bildiriyor."
+    ],
+    "format": "haber",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon",
+      "termal-yonetim"
+    ],
+    "tags": [
+      "Dimaag",
+      "Komatsu",
+      "elektrikli ekskavatör",
+      "mobil şarj",
+      "DC hızlı şarj"
+    ],
+    "source_name": "Charged EVs",
+    "source_url": "https://chargedevs.com/newswire/dimaags-mobile-megawatt-charging-system-enables-full-workday-operation-of-komatsus-20-ton-class-electric-excavator/",
+    "source_published_at": "2026-11-23T16:47:39.000Z",
+    "site_published_at": "2026-11-24T17:37:26.342Z",
+    "hero_image": "",
+    "publish_mode": "automatic"
+  },
+  {
     "id": "1b6d944bb1c21ee2",
     "slug": "deutz-ve-kirloskar-ortakligindaki-tcd-1-6-eima-2026-da-sergilendi",
     "title": "DEUTZ ve Kirloskar ortaklığındaki TCD 1.6, EIMA 2026'da sergilendi",
