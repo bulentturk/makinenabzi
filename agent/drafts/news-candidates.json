@@ -127,7 +127,7 @@
     "source_feed": "https://www.ivtinternational.com/feed",
     "published_at": "2026-11-24T14:49:52.000Z",
     "discovered_at": "2026-11-24T15:26:20.845Z",
-    "sector": "tarim",
+    "sector": "is-makinalari",
     "subsector": null,
     "technologies": [
       "elektrifikasyon",
@@ -574,6 +574,34 @@
       ],
       "generated_at": "2026-11-08T11:38:02.185Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "af9a47e5b13d2af0",
+    "status": "candidate",
+    "title_original": "Jungheinrich and Vector develop electronics platform",
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/news/materials-handling/jungheinrich-and-vector-develop-electronics-platform.html",
+    "source_feed": "https://www.ivtinternational.com/feed",
+    "published_at": "2026-11-24T15:33:06.000Z",
+    "discovered_at": "2026-11-24T23:49:44.267Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [
+      "elektronik-telematik"
+    ],
+    "relevance_score": 158,
+    "editorial_fit_score": 77,
+    "summary_source": "Jungheinrich and Vector are jointly developing an electronics platform for future generations of connected, software-defined forklift trucks. The platform brings together an electrical and electronic (E/E) architecture, a modular, reusable [...] The post Jungheinrich and Vector develop electronics platform appeared first on Industrial Vehicle Technology International.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -6599,6 +6627,32 @@
     }
   },
   {
+    "id": "7903da2f57593833",
+    "status": "candidate",
+    "title_original": "Manitowoc Launches Largest Potain Luffing Jib Crane",
+    "source_name": "Construction Equipment Guide",
+    "source_url": "https://www.constructionequipmentguide.com/manitowoc-launches-largest-potain-luffing-jib-crane/72869",
+    "source_feed": "https://feeds.feedburner.com/ceg",
+    "published_at": "2026-11-24T05:00:00.000Z",
+    "discovered_at": "2026-11-24T23:49:43.937Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 130,
+    "editorial_fit_score": 55,
+    "summary_source": "The new Potain MCR 1306 offers a maximum lifting capacity of 90 t, a maximum jib length of 80 m, and a jib tip capacity of 11 t....",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "7057d17575d0dee1",
     "status": "drafted",
     "title_original": "Exodus Global Acquires HydrauliCircuit Technology",
@@ -8741,6 +8795,32 @@
       ],
       "generated_at": "2026-10-20T09:45:23.236Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "22006e354d1f4007",
+    "status": "candidate",
+    "title_original": "Avant Tecno factory tour: BIG IN SMALL LOADERS",
+    "source_name": "profi",
+    "source_url": "https://www.profi.co.uk/test-centre/avant-tecno-factory-tour-big-in-small-loaders/",
+    "source_feed": "https://www.profi.co.uk/feed/",
+    "published_at": "2026-11-24T16:22:10.000Z",
+    "discovered_at": "2026-11-24T23:49:45.721Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 115,
+    "editorial_fit_score": 55,
+    "summary_source": "REPORT: Avant is a big player in the compact articulated loader market, but many will know little about how and where its machines are made. We travel to Finland to find out more about the 35-year-old business. The post Avant Tecno factory tour: BIG IN SMALL LOADERS appeared first on Profi.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
