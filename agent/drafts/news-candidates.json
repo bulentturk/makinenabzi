@@ -63,7 +63,7 @@
   },
   {
     "id": "c1224d51883f63f6",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Boonray deepens electric mining truck cooperation with Vale Indonesia",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/11/24/boonray-deepens-electric-mining-truck-cooperation-with-vale-indonesia/",
@@ -80,19 +80,47 @@
     "editorial_fit_score": 89,
     "summary_source": "Boonray Technology and Vale Indonesia have held a signing ceremony for more in-depth cooperation on their joint Indonesian battery electric mining truck project. Boonray Technology is a major electric and autonomous mining truck solutions supplier, and has over 1,800 electric trucks working and a cited battery electric mining trucks market share of 45.5% and over The post Boonray deepens electric mining truck cooperation with Vale Indonesia appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Boonray ve Vale Indonesia, elektrikli maden kamyonu iş birliğini genişletiyor",
+      "dek_tr": "Boonray Technology ile Vale Indonesia, ortak bataryalı elektrikli maden kamyonu projesinde daha kapsamlı iş birliği için imza töreni düzenledi. Kaynak özeti, anlaşmanın teknik kapsamını açıklamıyor.",
+      "summary_tr": "International Mining’in haber özetine göre Boonray Technology ve Vale Indonesia, Endonezya’daki ortak bataryalı elektrikli maden kamyonu projesinde daha derin iş birliği için imza töreni gerçekleştirdi.\n\nÖzet, iş birliğinin hangi proje aşamalarını, araçları veya saha faaliyetlerini kapsadığını belirtmiyor. Boonray’in filoları ve pazar payına ilişkin sayılar da haber özetinde şirket için aktarılan iddialar olarak yer alıyor; bunlar bağımsız doğrulanmış veriler olarak ele alınmamalı.",
+      "why_it_matters_tr": "Bir maden işletmecisiyle yürütülen elektrikli kamyon projesinde iş birliğinin kapsamı; araçların sahaya uyarlanması, enerji altyapısı ve işletme deneyimi açısından belirleyici olabilir. Mevcut kaynak, bu uygulama ayrıntılarını değerlendirmek için yeterli bilgi sunmuyor.",
+      "seo_title": "Boonray ve Vale Indonesia elektrikli maden kamyonunda",
+      "meta_description": "Boonray Technology ve Vale Indonesia, Endonezya’daki ortak bataryalı elektrikli maden kamyonu projesinde iş birliğini genişletmek için anlaştı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Boonray Technology ve Vale Indonesia, ortak bataryalı elektrikli maden kamyonu projesi için daha kapsamlı iş birliği duyurdu.",
+        "Taraflar iş birliği kapsamında bir imza töreni düzenledi.",
+        "Haber özeti, iş birliğinin teknik ve operasyonel kapsamını açıklamıyor."
+      ],
+      "suggested_tags": [
+        "Boonray Technology",
+        "Vale Indonesia",
+        "elektrikli maden kamyonu",
+        "bataryalı araç",
+        "Endonezya"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon",
+        "otonomi-ai"
+      ],
+      "source_facts_used": [
+        "International Mining özetinde Boonray Technology ile Vale Indonesia’nın ortak elektrikli maden kamyonu projesinde daha kapsamlı iş birliği için tören düzenlediği belirtiliyor.",
+        "Proje bataryalı elektrikli maden kamyonlarıyla ilişkilendiriliyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfasına erişim 403 hatası verdi; anlaşmanın kapsamı, takvimi ve araç teknikleri sağlanan özette yer almıyor.",
+        "Boonray’in araç sayısı ve pazar payına ilişkin haber özetindeki ifadeler bağımsız doğrulanmış veri değil; birincil kaynak ve yöntem bilgisi gerekir."
+      ],
+      "generated_at": "2026-11-24T15:27:34.819Z",
+      "generated_by": "github-models"
     }
   },
   {
     "id": "73fb4923e9f43759",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Faresin unveils Eramix feeding robot at EIMA",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/agriculture/faresin-unveils-eramix-feeding-robot-at-eima.html",
@@ -109,19 +137,48 @@
     "editorial_fit_score": 79,
     "summary_source": "Faresin has introduced a prototype of its autonomous livestock feeding mixer wagon, the Eramix, at the EIMA machinery show in Italy. The Italian manufacturer, which presented the first fully electric [...] The post Faresin unveils Eramix feeding robot at EIMA appeared first on Industrial Vehicle Technology International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Faresin, otonom hayvan besleme robotu Eramix’i prototip olarak tanıttı",
+      "dek_tr": "Faresin, Eramix adlı otonom yem karma ve dağıtım aracının prototipini EIMA’da sergiledi. Haber açıklaması aracı elektrikli olarak tanımlıyor ve satışların 2028’de başlamasının hedeflendiğini aktarıyor.",
+      "summary_tr": "iVT International’a göre Faresin, Eramix adlı otonom hayvan besleme robotunu EIMA tarım makineleri fuarında prototip olarak tanıttı. Araç, kaynak açıklamasında elektrikli ve hayvan besleme amaçlı bir yem karma aracı olarak tanımlanıyor.\n\nYayın, satışların 2028’de başlamasının hedeflendiğini bildiriyor. Sağlanan metin; batarya kapasitesi, çalışma süresi, yem kapasitesi veya otonom navigasyon sistemi hakkında teknik ayrıntı içermiyor.",
+      "why_it_matters_tr": "Otonom yem karma ve dağıtım araçları, çiftlik içi malzeme akışını ve günlük besleme işlerini otomatikleştirme potansiyeli taşıyor. Eramix’in pratik katkısını değerlendirmek için kapasite, vardiya çalışma süresi ve gerçek çiftlik koşullarındaki performans gibi veriler gerekli.",
+      "seo_title": "Faresin, otonom yemleme robotu Eramix’i tanıttı",
+      "meta_description": "Faresin, elektrikli otonom hayvan besleme aracı Eramix’in prototipini EIMA’da sergiledi. Satışların 2028’de başlaması hedefleniyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Faresin, Eramix’i EIMA’da prototip olarak tanıttı.",
+        "Kaynak açıklaması Eramix’i elektrikli ve otonom hayvan besleme robotu olarak tanımlıyor.",
+        "iVT International, satışların 2028’de başlamasının hedeflendiğini bildiriyor."
+      ],
+      "suggested_tags": [
+        "Faresin",
+        "Eramix",
+        "otonom tarım makinesi",
+        "hayvan besleme",
+        "yem karma aracı"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon",
+        "otonomi-ai"
+      ],
+      "source_facts_used": [
+        "iVT International açıklamasında Eramix’in EIMA’da prototip olarak tanıtıldığı belirtiliyor.",
+        "Yayın, aracı elektrikli otonom hayvan besleme robotu olarak tanımlıyor.",
+        "Satışların 2028’de başlamasının hedeflendiği aktarılıyor."
+      ],
+      "uncertainty_notes": [
+        "Sağlanan kaynak metni kısa ve ikincil bir sektör yayınına ait; üretici duyurusu girdi içinde yer almıyor.",
+        "Teknik özellikler ve 2028 satış hedefi üretici kaynağından doğrulanmalı; bağımsız saha performansı bilgisi bulunmuyor."
+      ],
+      "generated_at": "2026-11-24T15:27:34.819Z",
+      "generated_by": "github-models"
     }
   },
   {
     "id": "e93b58f38c90a80a",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "CiDi unveils new cabless battery mining truck plus agentic AI solution at bauma CHINA",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/11/24/cidi-unveils-new-cabless-battery-mining-truck-plus-agentic-ai-solution-at-bauma-china/",
@@ -138,14 +195,44 @@
     "editorial_fit_score": 99,
     "summary_source": "CiDi, the Hong Kong-listed technology company specialising in heavy-duty embodied AI, today unveiled an expanded portfolio of autonomous vehicles, industrial robots and intelligent systems at bauma CHINA 2026 in Shanghai. The new portfolio includes VEGA, a purpose-built Level 4 (L4) autonomous heavy-duty truck developed with Zhizi Auto; the CDK155, a second-generation cabless electric autonomous mining The post CiDi unveils new cabless battery mining truck plus agentic AI solution at bauma CHINA appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "CiDi, kabinsiz elektrikli otonom maden kamyonu CDK155’i tanıttı",
+      "dek_tr": "CiDi, bauma CHINA 2026’da otonom araçlar ve akıllı sistemlerden oluşan portföyünü duyurdu. Tanıtılan ürünler arasında ikinci nesil kabinsiz elektrikli otonom maden kamyonu CDK155 de yer alıyor.",
+      "summary_tr": "International Mining’in haber özetine göre CiDi, Şanghay’daki bauma CHINA 2026’da otonom araçlar, endüstriyel robotlar ve akıllı sistemlerden oluşan genişletilmiş portföyünü tanıttı.\n\nDuyuruda, Zhizi Auto ile geliştirilen Seviye 4 otonom ağır hizmet kamyonu VEGA’nın yanı sıra ikinci nesil kabinsiz elektrikli otonom maden kamyonu CDK155 de anılıyor. Kaynak özeti, CDK155’in teknik özelliklerini veya kullanım koşullarını vermiyor.",
+      "why_it_matters_tr": "Kabinsiz elektrikli ve otonom maden kamyonları, madencilikte araç tasarımı ile operasyon otomasyonunun kesiştiği bir alan. Ancak CDK155’in saha senaryosu ve teknik farkı hakkında değerlendirme yapmak için daha fazla doğrulanmış bilgi gerekiyor.",
+      "seo_title": "CiDi, kabinsiz otonom maden kamyonu CDK155’i tanıttı",
+      "meta_description": "CiDi, bauma CHINA 2026’da kabinsiz elektrikli otonom maden kamyonu CDK155’i ve Zhizi Auto ile geliştirilen VEGA’yı tanıttı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "CiDi, bauma CHINA 2026’da genişletilmiş ürün portföyünü tanıttı.",
+        "CDK155, kaynak özetinde ikinci nesil kabinsiz elektrikli otonom maden kamyonu olarak tanımlanıyor.",
+        "VEGA, Zhizi Auto ile geliştirilen Seviye 4 otonom ağır hizmet kamyonu olarak belirtiliyor."
+      ],
+      "suggested_tags": [
+        "CiDi",
+        "CDK155",
+        "otonom maden kamyonu",
+        "kabinsiz araç",
+        "bauma CHINA"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon",
+        "otonomi-ai"
+      ],
+      "source_facts_used": [
+        "International Mining özetinde CiDi’nin bauma CHINA 2026’da genişletilmiş bir teknoloji portföyü tanıttığı belirtiliyor.",
+        "Özette CDK155 kabinsiz, elektrikli ve otonom ikinci nesil maden kamyonu olarak tanımlanıyor.",
+        "VEGA’nın Zhizi Auto ile geliştirilen Seviye 4 otonom ağır hizmet kamyonu olduğu aktarılıyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfasına erişim 403 hatası verdi; içerik yalnızca haber başlığı ve kısa özetle sınırlı.",
+        "CDK155’in kapasitesi, batarya sistemi, performansı ve hedeflenen yeraltı ya da açık ocak kullanımına dair bilgi yok. Teknik ayrıntılar üretici kaynağından doğrulanmalı.",
+        "Başlıkta geçen yapay zekâ çözümünün kapsamı özette açıklanmıyor."
+      ],
+      "generated_at": "2026-11-24T15:27:34.819Z",
+      "generated_by": "github-models"
     }
   },
   {
