@@ -123,6 +123,35 @@
     }
   },
   {
+    "id": "738b8eb42b94d051",
+    "status": "candidate",
+    "title_original": "Global Battery Materials hosts battery-electric haul truck test at Kearney graphite mine",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/11/23/global-battery-materials-hosts-battery-electric-haul-truck-test-at-kearney-graphite-mine/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-11-23T15:59:08.000Z",
+    "discovered_at": "2026-11-24T02:05:54.384Z",
+    "sector": "madencilik",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon",
+      "elektronik-telematik"
+    ],
+    "relevance_score": 166,
+    "editorial_fit_score": 89,
+    "summary_source": "Global Battery Materials announced today the launch of a battery-electric vehicle (BEV) haul truck test study at its Kearney graphite mine in Ontario, Canada. The study, led by MEDATech Engineering, supported by Green Graphite Technologies (GGT) and funded by Natural Resources Canada’s Energy Innovation Program, pairs digital modelling with a weeklong real-world trial of MEDATech’s The post Global Battery Materials hosts battery-electric haul truck test at Kearney graphite mine appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "44f6332098841eea",
     "status": "drafted",
     "title_original": "Landmark Harbour survey addresses Chinese versus Western mining tech & equipment confidence gap",
@@ -404,6 +433,34 @@
       ],
       "generated_at": "2026-11-08T11:38:02.185Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "612966018d8ff920",
+    "status": "candidate",
+    "title_original": "SANY unveils battery electric SET260E 240 t class mining truck",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/11/24/sany-unveils-battery-electric-set260e-240-t-class-mining-truck/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-11-24T02:03:26.000Z",
+    "discovered_at": "2026-11-24T02:05:54.383Z",
+    "sector": "madencilik",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "relevance_score": 158,
+    "editorial_fit_score": 77,
+    "summary_source": "At bauma CHINA this week, SANY has a number of interesting product and technology launches but the big hitter is definitely the SET260E, a 240-tonne battery-electric mining truck on a 1,500-volt platform. SANY has seen a lot of interest, and has quite a few operators, for its large hybrid mining trucks – notably the SET150S The post SANY unveils battery electric SET260E 240 t class mining truck appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -1521,6 +1578,35 @@
     }
   },
   {
+    "id": "9313d5fe7d3c2080",
+    "status": "candidate",
+    "title_original": "Dimaag’s Mobile Megawatt Charging System enables full-workday operation of Komatsu’s 20-ton-class electric excavator",
+    "source_name": "Charged EVs",
+    "source_url": "https://chargedevs.com/newswire/dimaags-mobile-megawatt-charging-system-enables-full-workday-operation-of-komatsus-20-ton-class-electric-excavator/",
+    "source_feed": "https://chargedevs.com/feed/",
+    "published_at": "2026-11-23T16:47:39.000Z",
+    "discovered_at": "2026-11-24T02:05:53.535Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon",
+      "otonomi-ai"
+    ],
+    "relevance_score": 156,
+    "editorial_fit_score": 89,
+    "summary_source": "Dimaag AI has shipped a 20-ton electric excavator to Komatsu, along with Dimaag’s Mobile Megawatt Charging System (MWCS). The system is designed to enable battery-electric heavy equipment to maintain full-workday... Read more »",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "c4ee01e337a1cfbc",
     "status": "drafted",
     "title_original": "Onsemi introduces new SiC Platform: EliteSiC M4",
@@ -1968,34 +2054,6 @@
       ],
       "generated_at": "2026-11-09T13:30:43.026Z",
       "generated_by": "github-models"
-    }
-  },
-  {
-    "id": "83a6de6c6ff747f3",
-    "status": "candidate",
-    "title_original": "LiuGong showcases extensive electric mining equipment including new DE100CE 100 ton battery truck",
-    "source_name": "International Mining",
-    "source_url": "https://im-mining.com/2026/11/19/liugong-showcases-extensive-electric-mining-equipment-including-new-de100ce-100-ton-battery-truck/",
-    "source_feed": "https://im-mining.com/feed/",
-    "published_at": "2026-11-19T20:22:31.000Z",
-    "discovered_at": "2026-11-19T22:37:57.068Z",
-    "sector": "madencilik",
-    "subsector": null,
-    "technologies": [
-      "elektrifikasyon"
-    ],
-    "relevance_score": 150,
-    "editorial_fit_score": 32,
-    "summary_source": "On November 10, the 2026 LiuGong Global Distributor Annual Conference and Global Customer Festival, themed ‘Zero-Carbon Electric Intelligence, Empowering the Future,’ kicked off in Liuzhou. More than 2,000 guests from over 120 countries gathered at LiuGong to witness the deep integration of green and intelligent technologies with construction and mining machinery application scenarios. This event The post LiuGong showcases extensive electric mining equipment including new DE100CE 100 ton battery truck appeared first on International Mining.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
     }
   },
   {
@@ -5379,6 +5437,32 @@
       ],
       "generated_at": "2026-11-09T23:45:09.768Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "fbc2244306615a4a",
+    "status": "candidate",
+    "title_original": "Bad Boy Enters the Mini Skid Steer Market with 25-HP Recon",
+    "source_name": "Equipment World",
+    "source_url": "https://www.equipmentworld.com/construction-equipment/compact-equipment/compact-utility-loaders/article/16541946/bad-boy-intros-its-first-mini-skid-steer",
+    "source_feed": "https://www.equipmentworld.com/feed/",
+    "published_at": "2026-11-23T17:05:00.000Z",
+    "discovered_at": "2026-11-24T02:05:53.942Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 135,
+    "editorial_fit_score": 55,
+    "summary_source": "The zero-turn mower maker is branching into construction equipment with a 2,280-pound stand-on loader with 824 pounds of rated...",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
