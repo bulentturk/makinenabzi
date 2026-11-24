@@ -62,64 +62,90 @@
     "subsector": null
   },
   {
-    "id": "1b6d944bb1c21ee2",
-    "status": "published",
-    "title_original": "DEUTZ 1.6-Liter Engine Developed in Partnership with Kirloskar Displayed at EIMA Bologna",
-    "source_name": "Powertrain International Off-Highway",
-    "source_url": "https://www.powertraininternationalweb.com/off-highway/deutz-kirloskar-eima-international/",
-    "source_feed": "https://www.powertraininternationalweb.com/category/off-highway/feed/",
-    "published_at": "2026-11-20T14:13:33.000Z",
-    "discovered_at": "2026-11-20T22:11:42.781Z",
-    "sector": "is-makinalari",
+    "id": "c1224d51883f63f6",
+    "status": "candidate",
+    "title_original": "Boonray deepens electric mining truck cooperation with Vale Indonesia",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/11/24/boonray-deepens-electric-mining-truck-cooperation-with-vale-indonesia/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-11-24T15:13:10.000Z",
+    "discovered_at": "2026-11-24T15:26:21.272Z",
+    "sector": "madencilik",
     "subsector": null,
     "technologies": [
       "elektrifikasyon",
-      "yuruyus-guc-aktarma"
+      "otonomi-ai"
     ],
-    "relevance_score": 169,
-    "editorial_fit_score": 79,
-    "summary_source": "Made in partnership with Kirloskar, the new DEUTZ TCD 1.6 was displayed at EIMA International 2026. A Significant Milestone in Electrification Too: Landini REX4 Full Electric With DEUTZ Battery Pack The post DEUTZ 1.6-Liter Engine Developed in Partnership with Kirloskar Displayed at EIMA Bologna appeared first on Powertrain International.",
+    "relevance_score": 166,
+    "editorial_fit_score": 89,
+    "summary_source": "Boonray Technology and Vale Indonesia have held a signing ceremony for more in-depth cooperation on their joint Indonesian battery electric mining truck project. Boonray Technology is a major electric and autonomous mining truck solutions supplier, and has over 1,800 electric trucks working and a cited battery electric mining trucks market share of 45.5% and over The post Boonray deepens electric mining truck cooperation with Vale Indonesia appeared first on International Mining.",
     "editorial": {
-      "title_tr": "DEUTZ ve Kirloskar ortaklığındaki TCD 1.6, EIMA 2026'da sergilendi",
-      "dek_tr": "Üç silindirli TCD 1.6, kaynakta 18–41,2 kW güç aralığı ve 164 Nm'ye kadar tork değeriyle tanıtılıyor. Motorun doğal emişli ve turboşarjlı seçenekleri bulunuyor.",
-      "summary_tr": "Powertrain International Off-Highway'nin haberine göre DEUTZ ile Kirloskar iş birliğiyle geliştirilen TCD 1.6, EIMA International 2026'da sergilendi. Su soğutmalı üç silindirli motor, 18–41,2 kW güç aralığını ve 164 Nm'ye kadar torku kapsıyor.\n\nKaynak, doğal emişli D1.6 ve turboşarjlı TCD 1.6 olmak üzere iki seçenek bulunduğunu; elektronik direkt enjeksiyon ve yüksek basınçlı common rail kullanıldığını aktarıyor. Motorun düzenlemelere tabi pazarlarda DEUTZ'un ürün gamındaki alt güç aralığını tamamladığı da haberde belirtiliyor.",
-      "why_it_matters_tr": "Düşük güç aralığındaki bir motor seçeneği, kompakt tarım ve iş makinelerinde üreticilerin güç paketi tercihlerini etkileyebilir. Kaynakta motorun belirli bir makineye uygulanmasına veya bağımsız test sonuçlarına yer verilmediğinden, saha performansı hakkında çıkarım yapılamaz.",
-      "seo_title": "DEUTZ TCD 1.6 motor EIMA 2026'da sergilendi",
-      "meta_description": "DEUTZ ve Kirloskar ortaklığındaki üç silindirli TCD 1.6, EIMA 2026'da 18–41,2 kW güç aralığı ve iki motor seçeneğiyle tanıtıldı.",
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
       "hero_image": "",
-      "reviewed": false,
-      "key_facts": [
-        "TCD 1.6, DEUTZ ile Kirloskar ortaklığında geliştirildi ve EIMA International 2026'da sergilendi.",
-        "Kaynak, motoru su soğutmalı ve üç silindirli olarak tanımlıyor.",
-        "Bildirilen güç aralığı 18–41,2 kW; azami tork 164 Nm.",
-        "Doğal emişli D1.6 ve turboşarjlı TCD 1.6 seçenekleri bulunuyor.",
-        "Haberde elektronik direkt enjeksiyon ve yüksek basınçlı common rail sistemi belirtiliyor."
-      ],
-      "suggested_tags": [
-        "DEUTZ",
-        "Kirloskar",
-        "TCD 1.6",
-        "tarım makineleri",
-        "dizel motor"
-      ],
-      "suggested_sector": "tarim",
-      "editorial_format": "haber",
-      "suggested_technologies": [
-        "yuruyus-guc-aktarma"
-      ],
-      "source_facts_used": [
-        "Powertrain International Off-Highway, motorun Kirloskar ile geliştirildiğini ve EIMA International 2026'da sergilendiğini bildiriyor.",
-        "Haberde silindir sayısı, soğutma tipi, güç ve tork değerleri ile iki motor seçeneği açıklanıyor.",
-        "Enjeksiyon sistemi ve ürün gamındaki konum bilgisi kaynak metninden alındı."
-      ],
-      "uncertainty_notes": [
-        "Kaynak, bir sektör yayınıdır; DEUTZ veya Kirloskar'ın birincil teknik duyurusu girdi içinde bulunmuyor.",
-        "Teknik değerler ve ortaklığın kapsamı üretici kaynaklarından doğrulanmalı; bağımsız saha testi veya belirli makine uygulaması bilgisi verilmemiş."
-      ],
-      "generated_at": "2026-11-20T22:12:52.094Z",
-      "generated_by": "github-models",
-      "review_result": "auto_published",
-      "reviewed_at": "2026-11-23T17:59:31.907Z"
+      "reviewed": false
+    }
+  },
+  {
+    "id": "73fb4923e9f43759",
+    "status": "candidate",
+    "title_original": "Faresin unveils Eramix feeding robot at EIMA",
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/news/agriculture/faresin-unveils-eramix-feeding-robot-at-eima.html",
+    "source_feed": "https://www.ivtinternational.com/feed",
+    "published_at": "2026-11-24T14:49:52.000Z",
+    "discovered_at": "2026-11-24T15:26:20.845Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon",
+      "otonomi-ai"
+    ],
+    "relevance_score": 166,
+    "editorial_fit_score": 79,
+    "summary_source": "Faresin has introduced a prototype of its autonomous livestock feeding mixer wagon, the Eramix, at the EIMA machinery show in Italy. The Italian manufacturer, which presented the first fully electric [...] The post Faresin unveils Eramix feeding robot at EIMA appeared first on Industrial Vehicle Technology International.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "e93b58f38c90a80a",
+    "status": "candidate",
+    "title_original": "CiDi unveils new cabless battery mining truck plus agentic AI solution at bauma CHINA",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/11/24/cidi-unveils-new-cabless-battery-mining-truck-plus-agentic-ai-solution-at-bauma-china/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-11-24T14:26:29.000Z",
+    "discovered_at": "2026-11-24T15:26:21.273Z",
+    "sector": "madencilik",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon",
+      "otonomi-ai"
+    ],
+    "relevance_score": 166,
+    "editorial_fit_score": 99,
+    "summary_source": "CiDi, the Hong Kong-listed technology company specialising in heavy-duty embodied AI, today unveiled an expanded portfolio of autonomous vehicles, industrial robots and intelligent systems at bauma CHINA 2026 in Shanghai. The new portfolio includes VEGA, a purpose-built Level 4 (L4) autonomous heavy-duty truck developed with Zhizi Auto; the CDK155, a second-generation cabless electric autonomous mining The post CiDi unveils new cabless battery mining truck plus agentic AI solution at bauma CHINA appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -461,6 +487,62 @@
       ],
       "generated_at": "2026-11-08T11:38:02.185Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "c66ee386dae03e4e",
+    "status": "candidate",
+    "title_original": "Danfoss Power Solutions expands Editron low-voltage electrification portfolio",
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/news/hybrid-electric-vehicles/danfoss-power-solutions-expands-editron-low-voltage-electrification-portfolio.html",
+    "source_feed": "https://www.ivtinternational.com/feed",
+    "published_at": "2026-11-24T14:40:22.000Z",
+    "discovered_at": "2026-11-24T15:26:20.846Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "relevance_score": 158,
+    "editorial_fit_score": 67,
+    "summary_source": "Danfoss Power Solutions has added three products to its Editron low-voltage electrification portfolio: the EC-C80 inverter in its 80V range, and the EC-C48 inverter and ED-EH130 ePowerpack in its 48V [...] The post Danfoss Power Solutions expands Editron low-voltage electrification portfolio appeared first on Industrial Vehicle Technology International.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "fc911a9f4fc162ef",
+    "status": "candidate",
+    "title_original": "XCMG’s battery electric XDE260E giant unveiled to the crowds at bauma CHINA",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/11/24/xcmgs-battery-electric-xde260e-giant-unveiled-to-the-crowds-at-bauma-china/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-11-24T13:15:11.000Z",
+    "discovered_at": "2026-11-24T15:26:21.275Z",
+    "sector": "madencilik",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "relevance_score": 158,
+    "editorial_fit_score": 77,
+    "summary_source": "On the same day that SANY showed off its new SET260E battery electric truck – XCMG wowed the crowds, including IM Editorial Director Paul Moore, with its ultraclass battery offering – the XDE260E. This is a very important moment and truck for XCMG. IM first sat down with Jiansen Liu, XCMG Group VP with mining The post XCMG’s battery electric XDE260E giant unveiled to the crowds at bauma CHINA appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -1630,6 +1712,35 @@
       ],
       "generated_at": "2026-10-22T19:08:36.421Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "667c5c27377d6334",
+    "status": "candidate",
+    "title_original": "Škoda Group restructures its rail, bus and drivetrain businesses",
+    "source_name": "electrive",
+    "source_url": "https://www.electrive.com/2026/11/24/skoda-group-restructures-its-rail-bus-and-drivetrain-businesses/",
+    "source_feed": "https://www.electrive.com/feed/",
+    "published_at": "2026-11-24T11:45:00.000Z",
+    "discovered_at": "2026-11-24T15:26:20.261Z",
+    "sector": "elektrifikasyon",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon",
+      "yuruyus-guc-aktarma"
+    ],
+    "relevance_score": 156,
+    "editorial_fit_score": 79,
+    "summary_source": "Škoda Group is reorganising its business to improve efficiency and place greater emphasis on its products and services. As part of the changes, Škoda Vagonka will be integrated into existing subsidiary Škoda Transportation, while Škoda Electric will be split into two joint-stock companies. Further changes are planned for 2027.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -7074,6 +7185,32 @@
     }
   },
   {
+    "id": "89f95e648ed27c70",
+    "status": "candidate",
+    "title_original": "Poland railway TBM passes FAT",
+    "source_name": "Tunnels & Tunnelling",
+    "source_url": "https://www.tunnelsandtunnelling.com/news/poland-railway-tbm-passes-fat/",
+    "source_feed": "https://www.tunnelsandtunnelling.com/feed/",
+    "published_at": "2026-11-24T09:44:41.000Z",
+    "discovered_at": "2026-11-24T15:26:20.224Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 126,
+    "editorial_fit_score": 55,
+    "summary_source": "Poland railway TBM passes FAT. The new line includes the twin-bore T11 tunnel. The post Poland railway TBM passes FAT appeared first on Tunnels and Tunnelling.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "167526f466c74159",
     "status": "drafted",
     "title_original": "Second TBM launched on Hudson Tunnel Project",
@@ -7670,6 +7807,32 @@
       ],
       "generated_at": "2026-10-28T20:12:20.826Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "086cf351e72e1d12",
+    "status": "candidate",
+    "title_original": "Terex, Genie’yi Skyjack’in sahibi Linamar’a 1,4 milyar dolara satıyor",
+    "source_name": "Vinç & Platform",
+    "source_url": "https://vincveplatform.com/terex-genieyi-skyjackin-sahibi-linamara-14-milyar-dolara-satiyor/",
+    "source_feed": "https://vincveplatform.com/feed/",
+    "published_at": "2026-11-24T14:51:47.000Z",
+    "discovered_at": "2026-11-24T15:26:23.239Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 124,
+    "editorial_fit_score": 55,
+    "summary_source": "Terex, Genie markası altında faaliyet gösteren yüksekte erişim ekipmanları faaliyetlerini, Skyjack’in sahibi Kanadalı Linamar Corporation’a yaklaşık 1,4 milyar dolar karşılığında satmak üzere anlaşma imzaladı. Satışın tamamlanmasıyla Genie ve Skyjack, Linamar bünyesinde aynı grup altında faaliyet gösterecek. Küresel iş makineleri ve erişim ekipmanları pazarında önemli bir satın alma anlaşması gerçekleşti. Terex Corporation, Genie markasıyla yürüttüğü yüksekte […]",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -9183,32 +9346,6 @@
     "relevance_score": 106,
     "editorial_fit_score": 55,
     "summary_source": "İş ve inşaat makineleri sektörünün uluslararası buluşmalarından bauma CHINA 2026, 23 Kasım itibarıyla Çin’in Şanghay kentinde ziyaretçilerini ağırlamaya… The post bauma CHINA 2026, iki fuar alanında kapılarını açtı first appeared on Makina Market.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
-  },
-  {
-    "id": "55ad429da3ebba2e",
-    "status": "candidate",
-    "title_original": "KOBELCO, Ukrayna’da enkaz kaldırma çalışmalarında uzaktan kontrollü ekskavatör sistemini test etti",
-    "source_name": "Makina Market",
-    "source_url": "https://makina-market.com.tr/kobelco-ukraynada-uzaktan-kontrollu-ekskavator-sistemini-test-etti/",
-    "source_feed": "https://makina-market.com.tr/feed/",
-    "published_at": "2026-11-20T11:35:07.000Z",
-    "discovered_at": "2026-11-20T13:44:48.937Z",
-    "sector": "is-makinalari",
-    "subsector": null,
-    "technologies": [],
-    "relevance_score": 106,
-    "editorial_fit_score": 55,
-    "summary_source": "KOBELCO, Birleşmiş Milletler Kalkınma Programı (UNDP) ile yürüttüğü iş birliği kapsamında K-DIVE® uzaktan kontrol sistemini Ukrayna’da test etti.… The post KOBELCO, Ukrayna’da enkaz kaldırma çalışmalarında uzaktan kontrollü ekskavatör sistemini test etti first appeared on Makina Market.",
     "editorial": {
       "title_tr": "",
       "dek_tr": "",
