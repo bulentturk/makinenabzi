@@ -578,7 +578,7 @@
   },
   {
     "id": "af9a47e5b13d2af0",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Jungheinrich and Vector develop electronics platform",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/materials-handling/jungheinrich-and-vector-develop-electronics-platform.html",
@@ -594,14 +594,42 @@
     "editorial_fit_score": 77,
     "summary_source": "Jungheinrich and Vector are jointly developing an electronics platform for future generations of connected, software-defined forklift trucks. The platform brings together an electrical and electronic (E/E) architecture, a modular, reusable [...] The post Jungheinrich and Vector develop electronics platform appeared first on Industrial Vehicle Technology International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Jungheinrich ve Vector'den Bağlantılı Forklift Elektronik Platformu",
+      "dek_tr": "Jungheinrich ve Vector, gelecek nesil bağlantılı ve yazılım tanımlı forkliftler için ortak bir elektronik platform geliştiriyor.",
+      "summary_tr": "Geliştirme, elektrik ve elektronik (E/E) mimarisi ile modüler, yeniden kullanılabilir yapı bileşenlerini bir araya getirmeyi hedefleyen ortak bir elektronik platforma odaklanıyor.\n\nKaynak, hedeflenen platformun Jungheinrich'in gelecekteki forklift nesillerinde kullanılacağını belirtse de teknik kapsam ve zaman çizelgesi ayrıntısını sağlamıyor.",
+      "why_it_matters_tr": "Malzeme elleçleme ekipmanlarında ortak E/E mimarisi, bağlantı özellikleri ve yazılım güncellemeleri bakımından daha tutarlı bir altyapı potansiyeli taşıyor. Somut bileşenler ve saha uygulamaları henüz doğrulanmamış.",
+      "seo_title": "Jungheinrich ve Vector Forklift Platformu Geliştiriyor",
+      "meta_description": "Jungheinrich ve Vector, bağlantılı ve yazılım tanımlı forkliftler için ortak elektrik-elektronik mimarisi geliştirme çalışmaları yürütüyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Jungheinrich ve Vector elektronik platformu ortak geliştiriyor",
+        "Platform, gelecek nesil bağlantılı ve yazılım tanımlı forkliftler için hedefleniyor",
+        "Kaynak, elektrik ve elektronik mimarisi ile modüler bileşenlerden söz ediyor"
+      ],
+      "suggested_tags": [
+        "Jungheinrich",
+        "Vector",
+        "forklift",
+        "elektronik mimari",
+        "malzeme elleçleme"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektronik-telematik"
+      ],
+      "source_facts_used": [
+        "Jungheinrich ve Vector'un ortak elektronik platform geliştirdiği",
+        "Platformun gelecek nesil bağlantılı ve yazılım tanımlı forkliftler için olduğu",
+        "Elektrik-elektronik mimarisi ile modüler, yeniden kullanılabilir bileşenler içermesi"
+      ],
+      "uncertainty_notes": [
+        "Girdi, ayrıntılı platform bileşenleri, üretime geçiş tarihi veya doğrulanmış saha uygulaması vermiyor.",
+        "Ana sayfa erişiminin sınırı nedeniyle birincil üretici duyurusu üzerinden teknik kapsam doğrulanmalıdır."
+      ],
+      "generated_at": "2026-11-24T23:51:02.006Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -634,7 +662,7 @@
   },
   {
     "id": "fc911a9f4fc162ef",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "XCMG’s battery electric XDE260E giant unveiled to the crowds at bauma CHINA",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/11/24/xcmgs-battery-electric-xde260e-giant-unveiled-to-the-crowds-at-bauma-china/",
@@ -650,14 +678,43 @@
     "editorial_fit_score": 77,
     "summary_source": "On the same day that SANY showed off its new SET260E battery electric truck – XCMG wowed the crowds, including IM Editorial Director Paul Moore, with its ultraclass battery offering – the XDE260E. This is a very important moment and truck for XCMG. IM first sat down with Jiansen Liu, XCMG Group VP with mining The post XCMG’s battery electric XDE260E giant unveiled to the crowds at bauma CHINA appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "XCMG, Bataryalı XDE260E Ultraclass Kamyonu bauma CHINA'da Tanıttı",
+      "dek_tr": "XCMG, bauma CHINA'da bataryalı ultraclass sınıfı XDE260E madencilik kamyonunu görücüye çıkarıyor.",
+      "summary_tr": "Uluslararası Maden kaynaklarına göre XCMG, XDE260E adlı bataryalı elektrikli kamyonu etkinlikte sergiledi. Aynı günün SANY SET260E duyurusuyla birlikte iki bataryalı ultraclass teklifinin gündeme geldiği belirtiliyor.\n\nKaynak, kamyonun teknik özellikleri, kapasitesi, batarya sistemi veya çalışma performansı hakkında ayrıntı vermiyor.",
+      "why_it_matters_tr": "Ultraclass madencilik kamyonlarının elektrikli tahrike geçmesi, açık ocak operasyonlarında enerji altyapısı, batarya yönetimi ve vardiya planlaması gibi uygulama alanlarını öne çıkarıyor. XDE260E için somut saha verisi henüz açık metinde bulunmuyor.",
+      "seo_title": "XCMG XDE260E Bataryalı Madenci Kamyonunu Tanıttı",
+      "meta_description": "XCMG, bauma CHINA'da bataryalı ultraclass madencilik kamyonu XDE260E'yi tanıttı; teknik özellikler ve saha verileri henüz doğrulanmadı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "XCMG, XDE260E adlı bataryalı ultraclass madencilik kamyonunu bauma CHINA'da sergiledi",
+        "SANY'nin SET260E bataryalı kamyonu aynı dönemde duyuruldu",
+        "Kaynak, XCMG'nin kamyonu önemli bir ürün olarak değerlendirdiğini aktarıyor"
+      ],
+      "suggested_tags": [
+        "XCMG",
+        "XDE260E",
+        "ultraclass kamyon",
+        "bataryalı madencilik",
+        "bauma CHINA"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon",
+        "yuruyus-guc-aktarma"
+      ],
+      "source_facts_used": [
+        "XCMG'nin XDE260E bataryalı ultraclass kamyonunu bauma CHINA'da sergilediği",
+        "Uluslararası Maden'in XCMG genel müdür yardımcısıyla bir görüşme yaptığını belirtmesi",
+        "Aynı gün SANY'nin SET260E bataryalı kamyonunu duyurduğu"
+      ],
+      "uncertainty_notes": [
+        "Taşıma kapasitesi, motor veya batarya sistemi, menzil, şarj süresi ve bağımsız saha performansı gibi teknik ayrıntılar bulunmuyor.",
+        "Üretici duyurusu veya birincil teknik kaynakla XDE260E'nin resmi teknik özellikleri doğrulanmalıdır."
+      ],
+      "generated_at": "2026-11-24T23:51:02.006Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -1831,7 +1888,7 @@
   },
   {
     "id": "667c5c27377d6334",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Škoda Group restructures its rail, bus and drivetrain businesses",
     "source_name": "electrive",
     "source_url": "https://www.electrive.com/2026/11/24/skoda-group-restructures-its-rail-bus-and-drivetrain-businesses/",
@@ -1848,14 +1905,44 @@
     "editorial_fit_score": 79,
     "summary_source": "Škoda Group is reorganising its business to improve efficiency and place greater emphasis on its products and services. As part of the changes, Škoda Vagonka will be integrated into existing subsidiary Škoda Transportation, while Škoda Electric will be split into two joint-stock companies. Further changes are planned for 2027.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Škoda Group'ta Raylı Sistem ve Güç Aktarma Yapılanması Yeniden Düzenleniyor",
+      "dek_tr": "Škoda Group, verimliliği artırmak ve ürün-hizmet odağını güçlendirmek amacıyla demiryolu, otobüs ve güç aktarma faaliyetlerinde kurumsal bir yeniden yapılanma başlatıyor.",
+      "summary_tr": "Škoda Vagonka, mevcut bağlı kuruluş Škoda Transportation bünyesine entegre edilecek. Škoda Electric ise iki ayrı anonim şirkete bölünecek.\n\nGrupların açıklamasına göre değişiklikler 2027'ye kadar sürecek ek düzenlemeleri de kapsayacak. Kaynak, yeni organizasyonun operasyonel etki veya teknik ürün değişikliklerine ilişkin ayrıntı vermiyor.",
+      "why_it_matters_tr": "Bu değişiklik, raylı taşıma ve elektrikli güç aktarma altyapılarının daha bütüncül yönetilmesine olanak sağlayabilir; ancak somut teknik ve pazar etkisi ancak sonraki duyurularla doğrulanabilecek.",
+      "seo_title": "Škoda Group'ta İkiye Ayrılan Şirket Yapısı",
+      "meta_description": "Škoda Group, raylı taşıma ve elektrikli güç aktarma birimlerini yeniden organize ediyor; Škoda Vagonka ve Škoda Electric için yapılanma değişiyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Škoda Vagonka, Škoda Transportation bünyesine entegre edilecek",
+        "Škoda Electric iki ayrı anonim şirkete bölünecek",
+        "2027 için ek düzenlemeler planlanıyor",
+        "Amaç verimliliği artırmak ve ürün-hizmet odağını güçlendirmek"
+      ],
+      "suggested_tags": [
+        "Škoda Group",
+        "Škoda Vagonka",
+        "Škoda Electric",
+        "raylı sistem",
+        "güç aktarma"
+      ],
+      "suggested_sector": "elektrifikasyon",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon",
+        "yuruyus-guc-aktarma"
+      ],
+      "source_facts_used": [
+        "Škoda Group'un verimlilik ve ürün-hizmet odaklı yeniden yapılanma yaptığı",
+        "Škoda Vagonka'nın Škoda Transportation'a entegre edilmesi",
+        "Škoda Electric'in iki anonim şirkete bölünmesi",
+        "2027 için ek değişikliklerin planlanması"
+      ],
+      "uncertainty_notes": [
+        "Girdide ve mevcut kaynak metninde ürün teknikleri, organizasyon yapısının operasyonel etkileri ve 2027 değişikliklerinin kapsamı doğrulanmamış."
+      ],
+      "generated_at": "2026-11-24T23:51:02.006Z",
+      "generated_by": "github-models"
     }
   },
   {
