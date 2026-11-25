@@ -578,7 +578,7 @@
   },
   {
     "id": "6a4771eeb12caaa6",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "John Deere launches HarvestLab 4000 and Manure Sensing app",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/agriculture/john-deere-launches-harvestlab-4000-and-new-manure-sensing-app.html",
@@ -594,14 +594,40 @@
     "editorial_fit_score": 67,
     "summary_source": "John Deere is expanding its precision agriculture portfolio with the HarvestLab 4000 sensor and new Manure Sensing app, both aimed at helping farmers and contractors measure, apply and document manure [...] The post John Deere launches HarvestLab 4000 and Manure Sensing app appeared first on Industrial Vehicle Technology International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "John Deere HarvestLab 4000 sensörünü ve gübre ölçüm uygulamasını tanıttı",
+      "dek_tr": "iVT International’a göre HarvestLab 4000 sensörü ve Manure Sensing uygulaması, çiftçi ve yüklenicilerin gübreyi ölçmesine, uygulamasına ve belgelemesine yönelik. Girdi, ürünlerin ölçüm yöntemi veya teknik performansını açıklamıyor.",
+      "summary_tr": "John Deere, iVT International’ın haberine göre HarvestLab 4000 sensörü ile Manure Sensing uygulamasını tanıttı. İki ürün, çiftlik gübresinin ölçülmesi, uygulanması ve kayıt altına alınması amacıyla sunuluyor.\n\nPaylaşılan kaynak metni sensörün çalışma prensibi, ölçüm doğruluğu, uyumlu makineler veya uygulamanın veri aktarımı hakkında ayrıntı içermiyor. Bu nedenle ürünlerin saha performansına ilişkin bir çıkarım yapılamıyor.",
+      "why_it_matters_tr": "Gübre uygulamasının ölçüm ve belgelendirmeyle desteklenmesi, tarım makinelerindeki hassas uygulama ve veri yönetimi iş akışları açısından ilgi taşıyor. Ancak pratik faydayı değerlendirmek için teknik özellikler ve makine uyumluluğu doğrulanmalı.",
+      "seo_title": "John Deere HarvestLab 4000 ve Manure Sensing uygulaması",
+      "meta_description": "John Deere’in HarvestLab 4000 sensörü ve Manure Sensing uygulaması, gübre ölçümü, uygulaması ve belgelemesine odaklanıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "iVT International, HarvestLab 4000 adlı sensörün tanıtıldığını bildiriyor.",
+        "Manure Sensing adlı yeni bir uygulama da duyuruda yer alıyor.",
+        "Ürünler gübreyi ölçme, uygulama ve belgeleme amacıyla konumlandırılıyor."
+      ],
+      "suggested_tags": [
+        "John Deere",
+        "hassas tarım",
+        "gübre yönetimi",
+        "tarım teknolojisi"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektronik-telematik"
+      ],
+      "source_facts_used": [
+        "iVT International özetinde HarvestLab 4000 sensörü ve Manure Sensing uygulamasının tanıtıldığı belirtiliyor.",
+        "Habere göre ürünler gübre ölçümü, uygulaması ve belgelemesini hedefliyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası zaman aşımı nedeniyle alınamadı; girdi yalnızca kısa haber özetini içeriyor.",
+        "Sensörün ölçüm parametreleri, doğruluğu, uyumluluk bilgileri ve uygulamanın işlevleri için üretici kaynağından doğrulama gerekli."
+      ],
+      "generated_at": "2026-11-25T15:12:30.787Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -662,7 +688,7 @@
   },
   {
     "id": "c66ee386dae03e4e",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Danfoss Power Solutions expands Editron low-voltage electrification portfolio",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/hybrid-electric-vehicles/danfoss-power-solutions-expands-editron-low-voltage-electrification-portfolio.html",
@@ -678,14 +704,42 @@
     "editorial_fit_score": 67,
     "summary_source": "Danfoss Power Solutions has added three products to its Editron low-voltage electrification portfolio: the EC-C80 inverter in its 80V range, and the EC-C48 inverter and ED-EH130 ePowerpack in its 48V [...] The post Danfoss Power Solutions expands Editron low-voltage electrification portfolio appeared first on Industrial Vehicle Technology International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Danfoss Editron portföyüne iki invertör ve bir ePowerpack ekledi",
+      "dek_tr": "iVT International’a göre Danfoss Power Solutions, kompakt elektrikli mobil makineler için 80 V sınıfında EC-C80 invertörü; 48 V sınıfında ise EC-C48 invertörü ve ED-EH130 ePowerpack’i portföyüne kattı.",
+      "summary_tr": "Danfoss Power Solutions’ın Editron düşük gerilim portföyüne üç ürün eklediği bildiriliyor: 80 V aralığındaki EC-C80 invertör ile 48 V aralığındaki EC-C48 invertör ve ED-EH130 ePowerpack.\n\niVT International, ürünleri kompakt elektrikli mobil makineler geliştiren OEM’lere yönelik olarak tanımlıyor. Verilen içerik; güç değerleri, çalışma özellikleri, bileşenlerin sistem mimarisi veya belirli makine uygulamaları hakkında ayrıntı sunmuyor.",
+      "why_it_matters_tr": "Düşük gerilimli invertör ve güç paketi seçenekleri, kompakt mobil makinelerde elektrikli tahrik tasarlayan üreticiler için sektörler arası bileşen gelişmesi niteliğinde. Ürünlerin makineye entegrasyonunu değerlendirmek için elektriksel ve performans verileri gerekli.",
+      "seo_title": "Danfoss Editron düşük gerilim portföyünü genişletti",
+      "meta_description": "Danfoss Editron portföyüne 80 V EC-C80 ve 48 V EC-C48 invertörleri ile ED-EH130 ePowerpack’i ekledi.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "EC-C80, 80 V aralığında bir invertör olarak tanımlanıyor.",
+        "EC-C48, 48 V aralığında bir invertör olarak tanımlanıyor.",
+        "ED-EH130, 48 V aralığındaki ePowerpack olarak listeleniyor.",
+        "Ürünlerin kompakt elektrikli mobil makineler geliştiren OEM’lere yönelik olduğu aktarılıyor."
+      ],
+      "suggested_tags": [
+        "Danfoss",
+        "Editron",
+        "invertör",
+        "elektrikli mobil makine"
+      ],
+      "suggested_sector": "elektrifikasyon",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "iVT International başlık ve özetinde üç ürünün Editron düşük gerilim portföyüne eklendiği belirtiliyor.",
+        "EC-C80 için 80 V; EC-C48 ve ED-EH130 için 48 V aralığı aktarılıyor.",
+        "Ürünlerin kompakt elektrikli mobil makine OEM’lerine yönelik olduğu sayfa açıklamasında belirtiliyor."
+      ],
+      "uncertainty_notes": [
+        "Girdi, üreticinin birincil teknik duyurusunu içermiyor; ürün özellikleri ve hedef kullanım için Danfoss kaynağında doğrulama gerekli.",
+        "Gerilim aralıkları dışında güç, verim, uyumluluk ve çalışma koşulları belirtilmemiş."
+      ],
+      "generated_at": "2026-11-25T15:12:30.787Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -1916,7 +1970,7 @@
   },
   {
     "id": "718c650474e48e54",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Electric Porsche 718 Boxster heads for series production",
     "source_name": "electrive",
     "source_url": "https://www.electrive.com/2026/11/25/electric-porsche-718-boxster-heads-for-series-production/",
@@ -1933,14 +1987,41 @@
     "editorial_fit_score": 79,
     "summary_source": "The all-electric Porsche 718 Boxster is on the verge of series production, according to its German carmaker. It is set to become the most powerful 718 to date and will come standard with a switchable virtual transmission and a six-cylinder boxer engine sound. The electric Boxster is expected to make its world premiere in the first quarter of 2027.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Elektrikli Porsche 718 Boxster seri üretime hazırlanıyor",
+      "dek_tr": "Electrive’ın aktardığına göre elektrikli 718 Boxster’ın seri üretime yaklaşması bekleniyor. Dünya prömiyerinin 2027’nin ilk çeyreğinde yapılacağı belirtiliyor.",
+      "summary_tr": "Electrive’ın haber özetine göre Porsche, tamamen elektrikli 718 Boxster’ı seri üretime hazırlıyor. Modelin bugüne kadarki en güçlü 718 olması hedefleniyor.\n\nHaberde standart donanım olarak seçilebilir sanal şanzıman ve altı silindirli boxer motor sesini taklit eden bir ses özelliği de aktarılıyor. Dünya prömiyeri için 2027’nin ilk çeyreği işaret ediliyor; güç, batarya ve menzil verileri paylaşılmıyor.",
+      "why_it_matters_tr": "Elektrikli tahrik ve sanal vites özellikleri mobil makine pazarına doğrudan aktarılabilir bir uygulama olarak sunulmuyor. Binek otomobil odağı nedeniyle Makine Nabzı’nın teknik kapsamıyla bağlantısı sınırlı.",
+      "seo_title": "Elektrikli Porsche 718 Boxster seri üretime hazırlanıyor",
+      "meta_description": "Electrive, elektrikli Porsche 718 Boxster’ın seri üretime yaklaştığını ve dünya prömiyerinin 2027’nin ilk çeyreğinde beklendiğini aktarıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Araç tamamen elektrikli Porsche 718 Boxster olarak tanımlanıyor.",
+        "Habere göre modelin dünya prömiyeri 2027’nin ilk çeyreğinde bekleniyor.",
+        "Sanal şanzıman ve altı silindirli boxer motor sesi özelliği aktarılıyor."
+      ],
+      "suggested_tags": [
+        "Porsche",
+        "elektrikli araç",
+        "elektrifikasyon"
+      ],
+      "suggested_sector": "elektrifikasyon",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon",
+        "yuruyus-guc-aktarma"
+      ],
+      "source_facts_used": [
+        "Electrive özetinde aracın tamamen elektrikli olduğu ve seri üretime yaklaştığı belirtiliyor.",
+        "Özette sanal şanzıman, boxer motor sesi ve 2027 ilk çeyrek prömiyer beklentisi aktarılıyor."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası alınamadı (HTTP 403); taslak yalnızca verilen kısa haber özeti ve başlığa dayanıyor.",
+        "Porsche’nin birincil açıklaması ve teknik veriler bu girdide bulunmuyor.",
+        "Binek otomobil haberi; mobil makine teknolojisine belirgin bir aktarım bağlantısı verilmediğinden editoryal uyumu sınırlı."
+      ],
+      "generated_at": "2026-11-25T15:12:30.787Z",
+      "generated_by": "github-models"
     }
   },
   {
