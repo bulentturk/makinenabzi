@@ -120,7 +120,7 @@
   },
   {
     "id": "73fb4923e9f43759",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Faresin unveils Eramix feeding robot at EIMA",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/agriculture/faresin-unveils-eramix-feeding-robot-at-eima.html",
@@ -173,7 +173,9 @@
         "Teknik özellikler ve 2028 satış hedefi üretici kaynağından doğrulanmalı; bağımsız saha performansı bilgisi bulunmuyor."
       ],
       "generated_at": "2026-11-24T15:27:34.819Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "review_result": "auto_published",
+      "reviewed_at": "2026-11-25T17:08:49.315Z"
     }
   },
   {

@@ -1,5 +1,38 @@
 [
   {
+    "id": "73fb4923e9f43759",
+    "slug": "faresin-otonom-hayvan-besleme-robotu-eramix-i-prototip-olarak-tanitti",
+    "title": "Faresin, otonom hayvan besleme robotu Eramix’i prototip olarak tanıttı",
+    "dek": "Faresin, Eramix adlı otonom yem karma ve dağıtım aracının prototipini EIMA’da sergiledi. Haber açıklaması aracı elektrikli olarak tanımlıyor ve satışların 2028’de başlamasının hedeflendiğini aktarıyor.",
+    "summary": "iVT International’a göre Faresin, Eramix adlı otonom hayvan besleme robotunu EIMA tarım makineleri fuarında prototip olarak tanıttı. Araç, kaynak açıklamasında elektrikli ve hayvan besleme amaçlı bir yem karma aracı olarak tanımlanıyor.\n\nYayın, satışların 2028’de başlamasının hedeflendiğini bildiriyor. Sağlanan metin; batarya kapasitesi, çalışma süresi, yem kapasitesi veya otonom navigasyon sistemi hakkında teknik ayrıntı içermiyor.",
+    "why_it_matters": "Otonom yem karma ve dağıtım araçları, çiftlik içi malzeme akışını ve günlük besleme işlerini otomatikleştirme potansiyeli taşıyor. Eramix’in pratik katkısını değerlendirmek için kapasite, vardiya çalışma süresi ve gerçek çiftlik koşullarındaki performans gibi veriler gerekli.",
+    "key_facts": [
+      "Faresin, Eramix’i EIMA’da prototip olarak tanıttı.",
+      "Kaynak açıklaması Eramix’i elektrikli ve otonom hayvan besleme robotu olarak tanımlıyor.",
+      "iVT International, satışların 2028’de başlamasının hedeflendiğini bildiriyor."
+    ],
+    "format": "haber",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon",
+      "otonomi-ai"
+    ],
+    "tags": [
+      "Faresin",
+      "Eramix",
+      "otonom tarım makinesi",
+      "hayvan besleme",
+      "yem karma aracı"
+    ],
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/news/agriculture/faresin-unveils-eramix-feeding-robot-at-eima.html",
+    "source_published_at": "2026-11-24T14:49:52.000Z",
+    "site_published_at": "2026-11-25T17:08:49.315Z",
+    "hero_image": "",
+    "publish_mode": "automatic"
+  },
+  {
     "id": "9313d5fe7d3c2080",
     "slug": "dimaag-komatsu-ya-mobil-megavat-sarj-sistemi-ve-elektrikli-ekskavator-teslim-etti",
     "title": "Dimaag, Komatsu’ya mobil megavat şarj sistemi ve elektrikli ekskavatör teslim etti",
