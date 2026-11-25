@@ -521,6 +521,34 @@
     }
   },
   {
+    "id": "d7efc2176ed80985",
+    "status": "candidate",
+    "title_original": "Cummins F4.5 for the CLAAS ARION 4 CMATIC TotY 2027",
+    "source_name": "Powertrain International Off-Highway",
+    "source_url": "https://www.powertraininternationalweb.com/off-highway/cummins-f4-5-claas/",
+    "source_feed": "https://www.powertraininternationalweb.com/category/off-highway/feed/",
+    "published_at": "2026-11-25T17:10:11.000Z",
+    "discovered_at": "2026-11-25T23:31:54.895Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [
+      "yuruyus-guc-aktarma"
+    ],
+    "relevance_score": 161,
+    "editorial_fit_score": 67,
+    "summary_source": "Cummins F4.5 engine integrated into new CLAAS ARION 4 CMATIC tractor following five-year development program The post Cummins F4.5 for the CLAAS ARION 4 CMATIC TotY 2027 appeared first on Powertrain International.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "4a4ebd5aa093050e",
     "status": "drafted",
     "title_original": "Epiroc on growth of Autonomous SmartROC D65 MKII drills in mining & quarrying",
@@ -576,6 +604,34 @@
       ],
       "generated_at": "2026-11-08T11:38:02.185Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "c840bb82d89bbcb7",
+    "status": "candidate",
+    "title_original": "Epiroc launches Digital Vision System for Pit Viper drills",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/11/25/epiroc-launches-digital-vision-system-for-pit-viper-drills/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-11-25T15:59:02.000Z",
+    "discovered_at": "2026-11-25T23:31:53.897Z",
+    "sector": "madencilik",
+    "subsector": null,
+    "technologies": [
+      "elektronik-telematik"
+    ],
+    "relevance_score": 158,
+    "editorial_fit_score": 77,
+    "summary_source": "Epiroc is introducing the Digital Vision System, a new camera platform that, it says, replaces the analogue camera system on RCS 5 and teleremote‑enabled Pit Viper drills. Available across the Pit Viper line-up, the system delivers significantly improved visual clarity, optimised network performance and enables compatibility with future perception technologies, according to the company. Christopher The post Epiroc launches Digital Vision System for Pit Viper drills appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
