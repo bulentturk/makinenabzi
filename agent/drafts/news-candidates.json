@@ -577,6 +577,34 @@
     }
   },
   {
+    "id": "6a4771eeb12caaa6",
+    "status": "candidate",
+    "title_original": "John Deere launches HarvestLab 4000 and Manure Sensing app",
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/news/agriculture/john-deere-launches-harvestlab-4000-and-new-manure-sensing-app.html",
+    "source_feed": "https://www.ivtinternational.com/feed",
+    "published_at": "2026-11-25T10:32:34.000Z",
+    "discovered_at": "2026-11-25T15:11:13.086Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [
+      "elektronik-telematik"
+    ],
+    "relevance_score": 158,
+    "editorial_fit_score": 67,
+    "summary_source": "John Deere is expanding its precision agriculture portfolio with the HarvestLab 4000 sensor and new Manure Sensing app, both aimed at helping farmers and contractors measure, apply and document manure [...] The post John Deere launches HarvestLab 4000 and Manure Sensing app appeared first on Industrial Vehicle Technology International.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "af9a47e5b13d2af0",
     "status": "drafted",
     "title_original": "Jungheinrich and Vector develop electronics platform",
@@ -1887,6 +1915,35 @@
     }
   },
   {
+    "id": "718c650474e48e54",
+    "status": "candidate",
+    "title_original": "Electric Porsche 718 Boxster heads for series production",
+    "source_name": "electrive",
+    "source_url": "https://www.electrive.com/2026/11/25/electric-porsche-718-boxster-heads-for-series-production/",
+    "source_feed": "https://www.electrive.com/feed/",
+    "published_at": "2026-11-25T10:49:37.000Z",
+    "discovered_at": "2026-11-25T15:11:12.642Z",
+    "sector": "elektrifikasyon",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon",
+      "yuruyus-guc-aktarma"
+    ],
+    "relevance_score": 156,
+    "editorial_fit_score": 79,
+    "summary_source": "The all-electric Porsche 718 Boxster is on the verge of series production, according to its German carmaker. It is set to become the most powerful 718 to date and will come standard with a switchable virtual transmission and a six-cylinder boxer engine sound. The electric Boxster is expected to make its world premiere in the first quarter of 2027.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "667c5c27377d6334",
     "status": "drafted",
     "title_original": "Škoda Group restructures its rail, bus and drivetrain businesses",
@@ -2455,6 +2512,32 @@
       ],
       "generated_at": "2026-11-09T13:30:43.026Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "ebb365f3a8749403",
+    "status": "candidate",
+    "title_original": "ULEMCo converts Fendt tractor to hydrogen",
+    "source_name": "iVT International",
+    "source_url": "https://www.ivtinternational.com/news/agriculture/ulemco-converts-fendt-tractor-to-hydrogen.html",
+    "source_feed": "https://www.ivtinternational.com/feed",
+    "published_at": "2026-11-25T10:47:13.000Z",
+    "discovered_at": "2026-11-25T15:11:13.085Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 150,
+    "editorial_fit_score": 55,
+    "summary_source": "ULEMCo, a UK-based specialist in hydrogen-powered vehicle technology, has converted a Fendt agricultural tractor to run on hydrogen dual-fuel, in what the company says is the first time the technology [...] The post ULEMCo converts Fendt tractor to hydrogen appeared first on Industrial Vehicle Technology International.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -8885,6 +8968,32 @@
     }
   },
   {
+    "id": "0db0f9b67952a8a2",
+    "status": "candidate",
+    "title_original": "Agromek: Front rake for cleaner grass",
+    "source_name": "profi",
+    "source_url": "https://www.profi.co.uk/news/agromek-front-rake-for-cleaner-grass/",
+    "source_feed": "https://www.profi.co.uk/feed/",
+    "published_at": "2026-11-25T09:55:31.000Z",
+    "discovered_at": "2026-11-25T15:11:14.815Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 115,
+    "editorial_fit_score": 55,
+    "summary_source": "he FR-2 front rake from Danish manufacturer JVL diverts grass away from the tractor wheels The post Agromek: Front rake for cleaner grass appeared first on Profi.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "22006e354d1f4007",
     "status": "candidate",
     "title_original": "Avant Tecno factory tour: BIG IN SMALL LOADERS",
@@ -9585,6 +9694,32 @@
       ],
       "generated_at": "2026-10-25T09:31:26.861Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "673bf434c8034434",
+    "status": "candidate",
+    "title_original": "ASKO GLOB ALL, DEVELON DX225LC-7 ekskavatörleri Türkiye Belediyeler Birliği’ne teslim etti",
+    "source_name": "Makina Market",
+    "source_url": "https://makina-market.com.tr/asko-glob-all-develon-dx225lc-7-ekskavatorleri-turkiye-belediyeler-birligine-teslim-etti/",
+    "source_feed": "https://makina-market.com.tr/feed/",
+    "published_at": "2026-11-25T10:29:16.000Z",
+    "discovered_at": "2026-11-25T15:11:15.036Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 106,
+    "editorial_fit_score": 55,
+    "summary_source": "İş ve istif makineleri sektörünün güçlü temsilcilerinden ASKO GLOB ALL, Türkiye distribütörlüğünü yürüttüğü DEVELON markasının iş makinelerini kamu… The post ASKO GLOB ALL, DEVELON DX225LC-7 ekskavatörleri Türkiye Belediyeler Birliği’ne teslim etti first appeared on Makina Market.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
