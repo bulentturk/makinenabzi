@@ -522,7 +522,7 @@
   },
   {
     "id": "d7efc2176ed80985",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Cummins F4.5 for the CLAAS ARION 4 CMATIC TotY 2027",
     "source_name": "Powertrain International Off-Highway",
     "source_url": "https://www.powertraininternationalweb.com/off-highway/cummins-f4-5-claas/",
@@ -538,14 +538,43 @@
     "editorial_fit_score": 67,
     "summary_source": "Cummins F4.5 engine integrated into new CLAAS ARION 4 CMATIC tractor following five-year development program The post Cummins F4.5 for the CLAAS ARION 4 CMATIC TotY 2027 appeared first on Powertrain International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Cummins F4.5 Structural, CLAAS ARION 4 CMATIC’te",
+      "dek_tr": "CLAAS ARION 4 CMATIC’e entegre edilen Cummins F4.5 Structural, motor bloğu, yağ karteri ve dişli muhafazasını traktörün taşıyıcı yapısının parçası olarak kullanıyor. Kaynakta motor için 96–118 kW güç aralığı ve Stage V sertifikası bildiriliyor.",
+      "summary_tr": "Powertrain International’ın haberine göre F4.5 Structural motor, yeni CLAAS ARION 4 CMATIC traktörde tanıtıldı. Motorun dökme demir bloğu, yağ karteri ve dişli muhafazası şasi yapısına entegre ediliyor; kaynak bu düzenin ağırlığı ve parça karmaşıklığını azaltmaya yardımcı olduğunu aktarıyor.\n\nDört silindirli motorun güç aralığı traktör konfigürasyonuna bağlı olarak 96–118 kW, tepe torku ise 646 Nm olarak veriliyor. Kaynakta ayrıca Stage V sertifikası, ortak hatlı yakıt sistemi ve 600 saate kadar yağ değişim aralığı belirtiliyor; bakım aralığı için koşulların geçerli olduğu not ediliyor.",
+      "why_it_matters_tr": "Taşıyıcı yapıya entegre motor tasarımı, traktör üreticilerine yerleşim, ağırlık ve ön tekerlek hareket alanı üzerinde farklı tasarım seçenekleri sunabilir. Bu örnekteki güç ve bakım verileri üretici kaynaklı iddialar olarak değerlendirilmeli; saha performansı hakkında bağımsız sonuç sunulmuyor.",
+      "seo_title": "Cummins F4.5 Structural, CLAAS ARION 4 CMATIC’te",
+      "meta_description": "CLAAS ARION 4 CMATIC, yapısal entegrasyonlu Cummins F4.5 motoru kullanıyor. Kaynakta motorun güç, tork ve Stage V bilgileri aktarılıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Cummins F4.5 Structural motor, CLAAS ARION 4 CMATIC traktörde kullanılıyor.",
+        "Motor bloğu, yağ karteri ve dişli muhafazası traktörün taşıyıcı yapısına entegre ediliyor.",
+        "Kaynakta konfigürasyona bağlı 96–118 kW güç ve 646 Nm tepe torku bildiriliyor.",
+        "Motor Stage V sertifikalı olarak tanımlanıyor."
+      ],
+      "suggested_tags": [
+        "Cummins",
+        "CLAAS",
+        "ARION 4 CMATIC",
+        "tarım traktörü",
+        "Stage V motor"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "yuruyus-guc-aktarma",
+        "emisyon-stage-v"
+      ],
+      "source_facts_used": [
+        "Powertrain International’ın F4.5 Structural motorun CLAAS ARION 4 CMATIC’te kullanıldığına ilişkin haberi.",
+        "Kaynakta verilen motorun yapısal entegrasyonu, güç, tork, emisyon sertifikası ve bakım aralığı bilgileri."
+      ],
+      "uncertainty_notes": [
+        "Girdi, Cummins’in birincil duyurusunu içermiyor; teknik özellikler ve motorun üretici tarafından bildirilen faydaları birincil kaynakla doğrulanmalı.",
+        "Saha testi ve performans sonuçları bağımsız olarak doğrulanmış veri şeklinde sunulmamalı."
+      ],
+      "generated_at": "2026-11-25T23:32:53.143Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -608,7 +637,7 @@
   },
   {
     "id": "c840bb82d89bbcb7",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Epiroc launches Digital Vision System for Pit Viper drills",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/11/25/epiroc-launches-digital-vision-system-for-pit-viper-drills/",
@@ -624,14 +653,42 @@
     "editorial_fit_score": 77,
     "summary_source": "Epiroc is introducing the Digital Vision System, a new camera platform that, it says, replaces the analogue camera system on RCS 5 and teleremote‑enabled Pit Viper drills. Available across the Pit Viper line-up, the system delivers significantly improved visual clarity, optimised network performance and enables compatibility with future perception technologies, according to the company. Christopher The post Epiroc launches Digital Vision System for Pit Viper drills appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Epiroc, Pit Viper delikleri için dijital kamera sistemi sunuyor",
+      "dek_tr": "International Mining’in aktardığına göre Epiroc’un Digital Vision System platformu, belirli Pit Viper delik makinelerindeki analog kamera sisteminin yerini alıyor. Şirket, daha net görüntü ve gelecekteki algılama teknolojileriyle uyumluluk vaat ediyor.",
+      "summary_tr": "Epiroc, RCS 5 ve uzaktan kumandaya uygun Pit Viper delik makinelerinde analog kamera sisteminin yerine Digital Vision System adlı dijital platformu sunuyor. International Mining’in haberine göre sistem Pit Viper ürün gamında kullanılabilecek.\n\nŞirket, yeni platformun görüntü netliğini ve ağ performansını iyileştirdiğini, ayrıca gelecekteki algılama teknolojileriyle uyumluluğa zemin hazırladığını belirtiyor. Bu performans iddiaları için kaynakta bağımsız test verisi yer almıyor.",
+      "why_it_matters_tr": "Delme operasyonlarında kamera sistemleri operatörün makineyi ve çalışma alanını görmesine yardımcı olur. Dijital platformun uzaktan kontrol ve ilerideki algılama sistemleriyle nasıl entegre olacağı, özellikle görüş koşullarının önemli olduğu saha senaryoları açısından takip edilmeye değer.",
+      "seo_title": "Epiroc Pit Viper için Digital Vision System’i duyurdu",
+      "meta_description": "Epiroc’un Digital Vision System platformu, belirli Pit Viper delik makinelerinde analog kameraların yerini alıyor; teknik iddialar şirket beyanına dayanıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Digital Vision System, RCS 5 ve uzaktan kumandaya uygun Pit Viper makineleri için duyuruldu.",
+        "Epiroc, sistemin analog kamera platformunun yerini alacağını belirtiyor.",
+        "Şirket, gelişmiş görüntü netliği, ağ performansı ve gelecekteki algılama teknolojileriyle uyumluluk bildiriyor."
+      ],
+      "suggested_tags": [
+        "Epiroc",
+        "Pit Viper",
+        "delik makinesi",
+        "uzaktan kontrol",
+        "dijital kamera"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektronik-telematik",
+        "otonomi-ai"
+      ],
+      "source_facts_used": [
+        "International Mining’in aktardığı Digital Vision System duyurusu ve kapsadığı Pit Viper konfigürasyonları.",
+        "Görüntü, ağ performansı ve gelecekteki algılama teknolojilerine uyumluluk hakkındaki şirket iddiaları."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası alınamadı (HTTP 403); Epiroc’un birincil duyurusu girdi içinde bulunmuyor. Ürün kapsamı ve teknik iddialar birincil kaynakla doğrulanmalı.",
+        "Görüntü kalitesi ve ağ performansı için bağımsız test verisi sunulmamış."
+      ],
+      "generated_at": "2026-11-25T23:32:53.143Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -3680,7 +3737,7 @@
   },
   {
     "id": "bd005450c91e81d8",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "BMW iX4 rolls off production line alongside iX3 in Debrecen",
     "source_name": "electrive",
     "source_url": "https://www.electrive.com/2026/11/23/bmw-ix4-rolls-off-production-line-alongside-ix3-in-debrecen/",
@@ -3696,14 +3753,41 @@
     "editorial_fit_score": 67,
     "summary_source": "Following the BMW iX3, series production of the BMW iX4 has now also begun at BMW's plant in Debrecen - making the new SUV, with its coupé silhouette, the second model of the Neue Klasse to be produced at the Hungarian BMW plant. The iX4 will reach dealers starting March 2027 - initially in two drivetrain variants.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "BMW iX4’ün Debrecen’de seri üretimi başladı",
+      "dek_tr": "electrive’ın haberine göre BMW iX4’ün seri üretimi, iX3’ün ardından Debrecen tesisinde başladı. Modelin bayilere Mart 2027’den itibaren iki güç aktarma seçeneğiyle ulaşması bekleniyor.",
+      "summary_tr": "electrive, BMW iX4’ün Macaristan’daki Debrecen fabrikasında seri üretime geçtiğini aktarıyor. Haberde iX4, aynı tesiste üretilen ikinci Neue Klasse modeli olarak tanımlanıyor.\n\nKaynak, aracın bayilere Mart 2027’den itibaren başlangıçta iki güç aktarma seçeneğiyle ulaşacağını bildiriyor. Verilen bilgilerde mobil makineler veya off-highway uygulamalarına aktarılabilir belirgin bir teknik yenilik yer almıyor.",
+      "why_it_matters_tr": "Girdi yalnızca binek SUV üretimi ve satış takvimi hakkında bilgi veriyor; mobil makine, iş ekipmanı ya da sektörler arası aktarılabilir bir teknoloji bağlantısı göstermiyor. Bu nedenle Makine Nabzı’nın teknik odağı açısından haber değeri sınırlı.",
+      "seo_title": "BMW iX4’ün Debrecen’de seri üretimi başladı",
+      "meta_description": "electrive’a göre BMW iX4’ün Debrecen’de seri üretimi başladı; modelin Mart 2027’den itibaren iki güç aktarma seçeneğiyle sunulması planlanıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "electrive, BMW iX4’ün Debrecen tesisinde seri üretime başladığını bildiriyor.",
+        "Haberde iX4, tesiste üretilen ikinci Neue Klasse modeli olarak geçiyor.",
+        "Bayilere ulaşması için Mart 2027 tarihi ve başlangıçta iki güç aktarma seçeneği belirtiliyor."
+      ],
+      "suggested_tags": [
+        "BMW iX4",
+        "Debrecen",
+        "seri üretim",
+        "elektrikli araç"
+      ],
+      "suggested_sector": "elektrifikasyon",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon",
+        "yuruyus-guc-aktarma"
+      ],
+      "source_facts_used": [
+        "electrive’ın BMW iX4 seri üretiminin Debrecen’de başladığına ilişkin haberi.",
+        "Kaynakta aktarılan Mart 2027 satış takvimi ve iki güç aktarma seçeneği bilgisi."
+      ],
+      "uncertainty_notes": [
+        "Girdi, BMW’nin birincil açıklamasını içermiyor; üretim ve satış takvimi birincil kaynakla doğrulanmalı.",
+        "Kaynakta mobil makine teknolojilerine aktarılabilir teknik bağlantı belirtilmediğinden, Makine Nabzı için editoryal uygunluğu düşüktür."
+      ],
+      "generated_at": "2026-11-25T23:32:53.143Z",
+      "generated_by": "github-models"
     }
   },
   {
