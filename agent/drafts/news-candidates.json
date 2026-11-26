@@ -578,6 +578,35 @@
     }
   },
   {
+    "id": "8b14af87f9f4ec80",
+    "status": "candidate",
+    "title_original": "Plus Pumps, PlusSmart Technology partner to enable global remote monitoring of pumps",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/11/26/plus-pumps-plussmart-technology-partner-to-enable-global-remote-monitoring-of-pumps/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-11-26T05:49:50.000Z",
+    "discovered_at": "2026-11-26T14:37:15.747Z",
+    "sector": "madencilik",
+    "subsector": null,
+    "technologies": [
+      "elektronik-telematik",
+      "fonksiyonel-guvenlik"
+    ],
+    "relevance_score": 160,
+    "editorial_fit_score": 34,
+    "summary_source": "Plus Pumps has announced an innovative and what it says is industry-leading strategic partnership with PlusSmart Technology at the Mine Electrical Safety WA 2026 Conference, connecting, for the first time, its pumps and dredging equipment on isolated mining operations to Starlink, enabling remote monitoring of the pumps from anywhere in the world. “This technology partnership The post Plus Pumps, PlusSmart Technology partner to enable global remote monitoring of pumps appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "4a4ebd5aa093050e",
     "status": "drafted",
     "title_original": "Epiroc on growth of Autonomous SmartROC D65 MKII drills in mining & quarrying",
@@ -6084,6 +6113,34 @@
       ],
       "generated_at": "2026-10-21T09:46:36.355Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "0bee4aa0a2f433b3",
+    "status": "candidate",
+    "title_original": "FPT @ bauma China 2026",
+    "source_name": "Powertrain International Off-Highway",
+    "source_url": "https://www.powertraininternationalweb.com/off-highway/fpt-bauma-china-2026/",
+    "source_feed": "https://www.powertraininternationalweb.com/category/off-highway/feed/",
+    "published_at": "2026-11-26T11:12:00.000Z",
+    "discovered_at": "2026-11-26T14:37:16.305Z",
+    "sector": "is-makinalari",
+    "subsector": null,
+    "technologies": [
+      "yuruyus-guc-aktarma"
+    ],
+    "relevance_score": 136,
+    "editorial_fit_score": 67,
+    "summary_source": "At bauma China 2026, multiple machines from Chinese OEMs powered by FPT engines took center stage The post FPT @ bauma China 2026 appeared first on Powertrain International.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
