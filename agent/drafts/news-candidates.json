@@ -2741,7 +2741,7 @@
   },
   {
     "id": "ebb365f3a8749403",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "ULEMCo converts Fendt tractor to hydrogen",
     "source_name": "iVT International",
     "source_url": "https://www.ivtinternational.com/news/agriculture/ulemco-converts-fendt-tractor-to-hydrogen.html",
@@ -2755,14 +2755,42 @@
     "editorial_fit_score": 55,
     "summary_source": "ULEMCo, a UK-based specialist in hydrogen-powered vehicle technology, has converted a Fendt agricultural tractor to run on hydrogen dual-fuel, in what the company says is the first time the technology [...] The post ULEMCo converts Fendt tractor to hydrogen appeared first on Industrial Vehicle Technology International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "ULEMCo, Fendt traktörü hidrojen çift yakıtlı çalışmaya dönüştürdü",
+      "dek_tr": "iVT International’ın başlık ve açıklama bilgilerine göre ULEMCo, bir Fendt traktörü hidrojen çift yakıtlı sisteme dönüştürdü. Açıklamada hidrojenin motor yakıtının yüzde 40’ına kadarını sağlayabildiği belirtiliyor.",
+      "summary_tr": "iVT International’ın haber başlığı, ULEMCo’nun Fendt marka bir traktörü hidrojenle çalışan çift yakıtlı sisteme dönüştürdüğünü bildiriyor. Yayının kısa açıklamasında bunun ULEMCo’nun Hollanda’daki ilk satışı olduğu ve hidrojenin motor yakıtının yüzde 40’ına kadarını sağlayabildiği ifade ediliyor.\n\nKaynak girdisindeki haber metni, bu özet bilgilerin ötesinde sistem mimarisi veya uygulama ayrıntısı sunmuyor. Traktör modeli, motor değişiklikleri, hidrojen depolama yöntemi ve çalışma koşulları bu nedenle doğrulanamıyor.",
+      "why_it_matters_tr": "Hidrojenin mevcut tarım traktörlerinde çift yakıtlı kullanım potansiyeli, elektrifikasyonun zor olduğu uzun çalışma süreli uygulamalar açısından izlenmeye değer. Ancak bu örneğin saha performansı ve yakıt ikamesi hakkında kaynakta yeterli teknik veri bulunmuyor.",
+      "seo_title": "ULEMCo’dan hidrojen çift yakıtlı Fendt traktör dönüşümü",
+      "meta_description": "iVT International, ULEMCo’nun Fendt traktörü hidrojen çift yakıtlı sisteme dönüştürdüğünü ve hidrojen payının yüzde 40’a ulaşabildiğini bildiriyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Haber başlığı, ULEMCo’nun bir Fendt traktörü hidrojen çift yakıtlı sisteme dönüştürdüğünü belirtiyor.",
+        "Yayın açıklaması, hidrojenin motor yakıtının yüzde 40’ına kadarını sağlayabildiğini bildiriyor.",
+        "Yayın açıklaması, işlemi ULEMCo’nun Hollanda’daki ilk satışı olarak tanımlıyor."
+      ],
+      "suggested_tags": [
+        "hidrojen",
+        "çift yakıtlı motor",
+        "Fendt",
+        "tarım traktörü"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "yuruyus-guc-aktarma"
+      ],
+      "source_facts_used": [
+        "iVT International haber başlığındaki Fendt traktörünün hidrojen çift yakıtlı sisteme dönüştürüldüğü bilgisi",
+        "Yayın açıklamasındaki Hollanda’daki ilk satış bilgisi",
+        "Yayın açıklamasında verilen, hidrojenin yakıtın yüzde 40’ına kadarını sağlayabildiği bilgisi"
+      ],
+      "uncertainty_notes": [
+        "Girdi içindeki source_text yalnızca yayın künyesini içeriyor; teknik ayrıntılar haber başlığı ve kısa açıklama alanlarından geliyor.",
+        "Traktörün modeli, dönüşümün teknik yapısı, hidrojen depolama sistemi, çalışma senaryosu ve performans ölçüm yöntemi kaynak girdisinde belirtilmiyor.",
+        "Yüzde 40’a kadar hidrojen payı yayın açıklamasında aktarılan bir iddiadır; üretici birincil açıklaması veya bağımsız doğrulama girdi içinde bulunmuyor."
+      ],
+      "generated_at": "2026-11-26T14:38:24.518Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -4272,7 +4300,7 @@
   },
   {
     "id": "9464be9db755cb1d",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "France registers first fully electric mooring boat",
     "source_name": "Marine Industry News",
     "source_url": "https://marineindustrynews.co.uk/france-first-fully-electric-mooring-boat/",
@@ -4288,14 +4316,45 @@
     "editorial_fit_score": 67,
     "summary_source": "France has registered its first fully electric mooring boat, developed by Lamanage Huchet Desmars (Groupe LHD) in partnership with marine charging specialist Aqua superPower. The project combines an electric workboat with a 400kW shore-side charging system, supporting the introduction of zero-emission vessel operations at French ports. ‘Our partnership with LHD and Vebrat is a significant […] The post France registers first fully electric mooring boat appeared first on Marine Industry News.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Fransa’da elektrikli palamar botu hizmete hazırlanıyor",
+      "dek_tr": "Lamanage Huchet Desmars ve ortaklarının geliştirdiği elektrikli palamar botu, 300 kWh’ı aşan batarya sistemi ve 400 kW kıyı şarj altyapısıyla planlanıyor. Prototip, altı aylık operasyonel test programından geçti.",
+      "summary_tr": "Lamanage Huchet Desmars (Groupe LHD), Vebrat ve diğer bölgesel ortaklarla geliştirdiği elektrikli palamar botunu Fransa’da kaydettirdi. Ocea’nın inşa ettiği prototipte Vebrat’ın geliştirdiği elektrikli tahrik ve enerji yönetimi sistemi bulunuyor. Kaynakta batarya kapasitesi 300 kWh’ın üzerinde, azami hız 12 knot ve çalışma sahasına erişim mesafesi 30 milin üzerinde olarak belirtiliyor.\n\nAqua superPower, kıyı şarj ekipmanını ve altyapısını sağlayıp yönetecek. Nantes Saint-Nazaire Limanı, 400 kW hızlı şarj sistemi için trafo dahil elektrik şebekesi yatırımlarını destekliyor.\n\nPrototip 2026 ilkbaharında altı aylık operasyonel test programına başladı; kaynak, performansı doğrulama ve operasyonları iyileştirme amacı taşıyan testlerin ardından son değişikliklerin yapıldığını aktarıyor. İlk gösterimlerin Donges’te, sonraki uygulamanın Nantes’ta yapılması; Montoir-de-Bretagne’a genişleme ise planlanıyor.",
+      "why_it_matters_tr": "Palamar botları liman hizmetlerinde düzenli kullanılan iş tekneleridir. Bu proje, elektrikli tahrik kadar yüksek güçlü kıyı şarjının ve liman şebekesi yatırımının da ticari deniz operasyonlarına geçişte belirleyici olduğunu gösteriyor.",
+      "seo_title": "Fransa’da elektrikli palamar botu ve 400 kW şarj",
+      "meta_description": "Lamanage Huchet Desmars’ın elektrikli palamar botu 300 kWh’ı aşan batarya ve 400 kW kıyı şarj sistemiyle geliştirildi; liman uygulamaları planlanıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Batarya kapasitesi kaynakta 300 kWh’ın üzerinde veriliyor.",
+        "Botun kaynakta belirtilen azami hızı 12 knot.",
+        "Kıyı şarj sistemi 400 kW olarak tanımlanıyor.",
+        "Prototip 2026 ilkbaharında altı aylık operasyonel test programına başladı.",
+        "İlk gösterimler Donges, sonraki uygulama Nantes için planlanıyor."
+      ],
+      "suggested_tags": [
+        "elektrikli iş teknesi",
+        "palamar botu",
+        "kıyı şarjı",
+        "liman elektrifikasyonu"
+      ],
+      "suggested_sector": "marine-yatcilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon"
+      ],
+      "source_facts_used": [
+        "Groupe LHD ve ortaklarının elektrikli palamar botu geliştirdiği ve Fransa’da kaydettirdiği bilgisi",
+        "Vebrat’ın batarya ve elektrikli tahrik sistemini, Ocea’nın prototip tekneyi geliştirdiği bilgisi",
+        "300 kWh üzeri batarya, 12 knot azami hız ve 30 mil üzeri çalışma sahasına erişim bilgileri",
+        "Aqua superPower’ın 400 kW kıyı şarj altyapısını sağlayıp yöneteceği ve limanın şebeke yatırımını desteklediği bilgisi",
+        "Altı aylık test programı ile Donges, Nantes ve Montoir-de-Bretagne için aktarılan uygulama planları"
+      ],
+      "uncertainty_notes": [
+        "Bilgiler Marine Industry News haberine dayanıyor; üretici veya liman tarafından yayımlanmış birincil teknik açıklama kaynak girdisinde bulunmuyor. Teknik değerler ve Fransa’da ilk olma iddiası birincil kaynakla doğrulanmalı.",
+        "Test sonuçlarına ilişkin bağımsız ölçüm verileri verilmediğinden, performans doğrulaması kaynakta aktarılan proje açıklaması olarak ele alınmıştır."
+      ],
+      "generated_at": "2026-11-26T14:38:24.518Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -6117,7 +6176,7 @@
   },
   {
     "id": "0bee4aa0a2f433b3",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "FPT @ bauma China 2026",
     "source_name": "Powertrain International Off-Highway",
     "source_url": "https://www.powertraininternationalweb.com/off-highway/fpt-bauma-china-2026/",
@@ -6133,14 +6192,47 @@
     "editorial_fit_score": 67,
     "summary_source": "At bauma China 2026, multiple machines from Chinese OEMs powered by FPT engines took center stage The post FPT @ bauma China 2026 appeared first on Powertrain International.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "FPT motorları Bauma China 2026’da farklı iş makinelerinde sergilendi",
+      "dek_tr": "Sektör yayını, Çinli üreticilerin FPT motorlu forklift yükleyici, buldozer ve paletli ekskavatörlerini aktarıyor. Haberde F36, N45 ve N67 motorlarına ilişkin güç ve bakım aralığı bilgileri yer alıyor.",
+      "summary_tr": "Powertrain International’ın Bauma China 2026 haberine göre, Çinli OEM’lerin FPT motorlu makineleri Kuzey Amerika ve Avrupa pazarlarına yönelik olarak sergilendi. RHINOCEROS forklift yükleyicide 90 kW F36 motoru kullanılıyor; kaynak, motorun EU Stage V ve US Tier 4 Final emisyon standartlarına uygun olduğunu belirtiyor.\n\nHOPTOP buldozerler için N45 ve N67 motorlarının sırasıyla 129 kW ve 165 kW güçteki seçenekleri aktarılıyor. Haberde N45 için 89–147 kW güç aralığı ve 744 Nm’ye kadar tepe tork; 6,7 litrelik N67 için 129–250 kW aralığı ve 1.800 Nm azami tork bilgileri veriliyor.\n\nKaynak ayrıca 33 ton sınıfındaki Taian Jiahe paletli ekskavatörde N67 kullanıldığını bildiriyor. FPT’nin HI-eSCR2 arıtma sistemi ve N67 için belirtilen 1.200 saatlik yağ değişim aralığı da haberde yer alıyor; bunlar üreticiye atfedilen teknik bilgiler olup bağımsız saha testi sonucu olarak sunulmuyor.",
+      "why_it_matters_tr": "Motor seçeneklerinin forklift yükleyici, buldozer ve ekskavatördeki uygulamaları, emisyon uyumu ve servis aralıklarının farklı makine sınıflarındaki tasarım kararlarına etkisini gösteriyor. Özellikle ihracat pazarlarına sunulan makinelerde motor konfigürasyonu, yerel emisyon gereklilikleri ve bakım erişimi birlikte değerlendirilmelidir.",
+      "seo_title": "FPT motorlu iş makineleri Bauma China 2026’da",
+      "meta_description": "Bauma China 2026 haberinde FPT F36, N45 ve N67 motorlarının forklift yükleyici, buldozer ve ekskavatör uygulamaları ile teknik verileri aktarıldı.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "RHINOCEROS forklift yükleyicide 90 kW FPT F36 motoru kullanıldığı aktarılıyor.",
+        "HOPTOP buldozerlerde N45 ve N67 motorlarının sırasıyla 129 kW ve 165 kW güçteki seçenekleri belirtiliyor.",
+        "N67 için kaynakta 129–250 kW güç aralığı ve 1.800 Nm azami tork veriliyor.",
+        "33 ton sınıfındaki Taian Jiahe paletli ekskavatörde N67 kullanıldığı bildiriliyor.",
+        "N67 için 1.200 saatlik yağ değişim aralığı haberde belirtiliyor."
+      ],
+      "suggested_tags": [
+        "FPT",
+        "iş makinesi motoru",
+        "Stage V",
+        "forklift yükleyici",
+        "paletli ekskavatör"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "yuruyus-guc-aktarma",
+        "emisyon-stage-v"
+      ],
+      "source_facts_used": [
+        "Bauma China 2026’da Çinli OEM’lerin FPT motorlu makinelerinin sergilendiğine ilişkin haber bilgisi",
+        "F36 motorunun 90 kW gücü ve RHINOCEROS forklift yükleyicide kullanıldığı bilgisi",
+        "N45 ve N67 motorlarının buldozer uygulamaları ile kaynakta verilen güç ve tork değerleri",
+        "Taian Jiahe 33 ton sınıfı paletli ekskavatörde N67 kullanıldığı bilgisi",
+        "HI-eSCR2 sistemi ve N67 için aktarılan 1.200 saatlik yağ değişim aralığı"
+      ],
+      "uncertainty_notes": [
+        "Kaynak, sektör yayını haberidir; üretici veya OEM’lerin birincil teknik açıklamaları girdi içinde yer almıyor. Uygulamalar, emisyon uygunluğu ve bakım aralıkları birincil kaynakla doğrulanmalı.",
+        "Güç ve tork değerleri yayındaki açıklamalara dayanıyor; bağımsız ölçüm veya saha testi verisi sunulmuyor."
+      ],
+      "generated_at": "2026-11-26T14:38:24.518Z",
+      "generated_by": "github-models"
     }
   },
   {
