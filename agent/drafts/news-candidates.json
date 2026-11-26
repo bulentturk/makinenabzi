@@ -2113,6 +2113,35 @@
     }
   },
   {
+    "id": "4e9bf15cfed9b8db",
+    "status": "candidate",
+    "title_original": "Mercedes-Benz GLA test drive: compact SUV with 800-volt architecture and two-tonne towing capacity",
+    "source_name": "electrive",
+    "source_url": "https://www.electrive.com/2026/11/26/mercedes-benz-gla-test-drive-compact-suv-with-800-volt-architecture-and-two-tonne-towing-capacity/",
+    "source_feed": "https://www.electrive.com/feed/",
+    "published_at": "2026-11-26T17:00:00.000Z",
+    "discovered_at": "2026-11-26T23:39:57.336Z",
+    "sector": "elektrifikasyon",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon",
+      "yuruyus-guc-aktarma"
+    ],
+    "relevance_score": 156,
+    "editorial_fit_score": 79,
+    "summary_source": "The new Mercedes-Benz GLA 350 4MATIC electric sets technical benchmarks in the crowded compact electric SUV segment. With its 800-volt architecture, 85-kWh battery, and two-speed transmission, the all-wheel-drive model combines high efficiency with short charging stops. A large frunk, a two-ton towing capacity, and the new MB.OS operating system also enhance its everyday practicality.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "718c650474e48e54",
     "status": "drafted",
     "title_original": "Electric Porsche 718 Boxster heads for series production",
@@ -8240,6 +8269,32 @@
       ],
       "generated_at": "2026-10-28T20:12:20.826Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "b1ca6a249b7bd252",
+    "status": "candidate",
+    "title_original": "Stoneless shows new stone collector",
+    "source_name": "profi",
+    "source_url": "https://www.profi.co.uk/news/stoneless-shows-new-stone-collector/",
+    "source_feed": "https://www.profi.co.uk/feed/",
+    "published_at": "2026-11-26T18:22:41.000Z",
+    "discovered_at": "2026-11-26T23:39:58.899Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 125,
+    "editorial_fit_score": 65,
+    "summary_source": "The Danish manufacturer is showing a new stone collector at Agromek for fitting to a telehandler, tractor or wheeled loader. Joining the existing ATV towed model, the new Front Series comprises two models; the 1800 (1.8m) and 2400 (2.4m). The 1800 has been around for a year or so, but the 2.4m model on the […] The post Stoneless shows new stone collector appeared first on Profi.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
