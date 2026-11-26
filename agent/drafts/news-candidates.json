@@ -2114,7 +2114,7 @@
   },
   {
     "id": "4e9bf15cfed9b8db",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Mercedes-Benz GLA test drive: compact SUV with 800-volt architecture and two-tonne towing capacity",
     "source_name": "electrive",
     "source_url": "https://www.electrive.com/2026/11/26/mercedes-benz-gla-test-drive-compact-suv-with-800-volt-architecture-and-two-tonne-towing-capacity/",
@@ -2131,14 +2131,41 @@
     "editorial_fit_score": 79,
     "summary_source": "The new Mercedes-Benz GLA 350 4MATIC electric sets technical benchmarks in the crowded compact electric SUV segment. With its 800-volt architecture, 85-kWh battery, and two-speed transmission, the all-wheel-drive model combines high efficiency with short charging stops. A large frunk, a two-ton towing capacity, and the new MB.OS operating system also enhance its everyday practicality.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Mercedes-Benz GLA 350 4MATIC Electric: 800 volt mimari ve iki vitesli aktarım",
+      "dek_tr": "Kaynak özeti, yeni elektrikli GLA'nın 800 volt mimari, 85 kWh batarya ve iki vitesli şanzımanla sunulduğunu aktarıyor. Ancak içerik bir binek SUV test sürüşü; mobil makine uygulamalarına doğrudan bağlantı belirtilmiyor.",
+      "summary_tr": "Electrive'ın sağlanan özetine göre Mercedes-Benz GLA 350 4MATIC Electric, 800 volt elektrik mimarisi ve 85 kWh batarya kullanıyor. Modelde ayrıca iki vitesli şanzıman ve dört tekerlekten çekiş bulunuyor.\n\nÖzet, aracın iki ton çekme kapasitesine sahip olduğunu ve MB.OS işletim sistemi kullandığını da belirtiyor. Kaynak sayfasına erişilemediğinden ayrıntılar yalnızca sağlanan kısa özetle sınırlı.",
+      "why_it_matters_tr": "Yüksek gerilimli elektrik mimarisi ve çok vitesli aktarım, mobil makine elektrifikasyonu açısından ilgi çekebilecek konular; ancak bu haberde iş makinesi veya başka bir off-highway uygulamasıyla bağlantı gösterilmiyor. Bu nedenle Makine Nabzı için doğrudan teknik sektör haberi niteliği zayıf.",
+      "seo_title": "Mercedes-Benz GLA Electric: 800 volt mimari ve iki vites",
+      "meta_description": "Electrive özetine göre elektrikli GLA 350 4MATIC; 800 volt mimari, 85 kWh batarya, iki vitesli şanzıman ve iki ton çekme kapasitesi sunuyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "GLA 350 4MATIC Electric için 800 volt mimari ve 85 kWh batarya belirtiliyor.",
+        "Kaynak özeti iki vitesli şanzıman ve dört tekerlekten çekiş bildiriyor.",
+        "Belirtilen çekme kapasitesi iki ton."
+      ],
+      "suggested_tags": [
+        "Mercedes-Benz",
+        "elektrikli araç",
+        "800 volt",
+        "güç aktarımı"
+      ],
+      "suggested_sector": "elektrifikasyon",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektrifikasyon",
+        "yuruyus-guc-aktarma"
+      ],
+      "source_facts_used": [
+        "Sağlanan Electrive özetindeki 800 volt mimari, 85 kWh batarya ve iki vitesli şanzıman bilgileri.",
+        "Sağlanan özetteki dört tekerlekten çekiş ve iki ton çekme kapasitesi bilgileri."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası HTTP 403 nedeniyle incelenemedi; değerlendirme yalnızca RSS özeti ve başlığa dayanıyor.",
+        "Binek SUV haberinin off-highway makine teknolojisine somut aktarımı kaynakta gösterilmiyor; editoryal uygunluğu sınırlı."
+      ],
+      "generated_at": "2026-11-26T23:40:52.950Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -6328,7 +6355,7 @@
   },
   {
     "id": "fbc2244306615a4a",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Bad Boy Enters the Mini Skid Steer Market with 25-HP Recon",
     "source_name": "Equipment World",
     "source_url": "https://www.equipmentworld.com/construction-equipment/compact-equipment/compact-utility-loaders/article/16541946/bad-boy-intros-its-first-mini-skid-steer",
@@ -6342,14 +6369,40 @@
     "editorial_fit_score": 55,
     "summary_source": "The zero-turn mower maker is branching into construction equipment with a 2,280-pound stand-on loader with 824 pounds of rated...",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Bad Boy, 25 hp Recon ile mini skid steer pazarına giriyor",
+      "dek_tr": "Equipment World'ün sağlanan özetine göre Bad Boy, 25 hp Recon adlı ayakta kullanılan kompakt yükleyiciyi ürün gamına ekliyor. Paylaşılan metinde makinenin ağırlığı 2.280 lb olarak veriliyor.",
+      "summary_tr": "Equipment World, sıfır dönüşlü çim biçme makineleriyle bilinen Bad Boy'un kompakt iş makinelerine yönelerek mini skid steer pazarına girdiğini bildiriyor. Sağlanan başlıkta yeni model Recon olarak adlandırılıyor ve gücü 25 hp olarak belirtiliyor.\n\nHaberdeki kısa metin makineyi ayakta kullanılan bir yükleyici olarak tanımlıyor ve ağırlığını 2.280 lb veriyor. Taşıma kapasitesine ilişkin ifade kesildiği için bu değer ve diğer teknik özellikler doğrulanamıyor.",
+      "why_it_matters_tr": "Ayakta kullanılan kompakt yükleyiciler, dar erişim alanlarında hafriyat ve malzeme elleçleme işleri için değerlendirilebilir. Ancak bu modelin kapasitesi, ataşman uyumluluğu ve çalışma özellikleri kaynakta doğrulanmadığından uygulama alanı hakkında daha ileri teknik değerlendirme yapılamıyor.",
+      "seo_title": "Bad Boy, 25 hp Recon mini yükleyiciyi tanıttı",
+      "meta_description": "Equipment World'ün kısa özetine göre Bad Boy, 25 hp Recon ayakta kullanılan mini yükleyiciyle kompakt iş makinesi pazarına giriyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Model adı Recon olarak veriliyor.",
+        "Sağlanan başlıkta motor gücü 25 hp olarak belirtiliyor.",
+        "Kısa kaynak metni makineyi ayakta kullanılan yükleyici olarak tanımlıyor.",
+        "Kaynak metninde makine ağırlığı 2.280 lb olarak aktarılıyor."
+      ],
+      "suggested_tags": [
+        "Bad Boy",
+        "Recon",
+        "mini skid steer",
+        "kompakt yükleyici"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Equipment World başlığında verilen Bad Boy, Recon ve 25 hp bilgileri.",
+        "Sağlanan kısa kaynak metnindeki mini skid steer pazarına giriş, ayakta kullanılan yükleyici tanımı ve 2.280 lb ağırlık bilgisi."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası HTTP 403 nedeniyle incelenemedi; değerlendirme başlık ve kesilmiş kısa özete dayanıyor.",
+        "Taşıma kapasitesi ifadesi kaynak metninde tamamlanmadığı için kapasite değeri kullanılmadı.",
+        "Motor tipi, ataşman arayüzü, çalışma ölçüleri ve modelin teknik özellikleri sağlanan içerikte doğrulanmıyor."
+      ],
+      "generated_at": "2026-11-26T23:40:52.950Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -8273,7 +8326,7 @@
   },
   {
     "id": "b1ca6a249b7bd252",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Stoneless shows new stone collector",
     "source_name": "profi",
     "source_url": "https://www.profi.co.uk/news/stoneless-shows-new-stone-collector/",
@@ -8287,14 +8340,41 @@
     "editorial_fit_score": 65,
     "summary_source": "The Danish manufacturer is showing a new stone collector at Agromek for fitting to a telehandler, tractor or wheeled loader. Joining the existing ATV towed model, the new Front Series comprises two models; the 1800 (1.8m) and 2400 (2.4m). The 1800 has been around for a year or so, but the 2.4m model on the […] The post Stoneless shows new stone collector appeared first on Profi.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Stoneless, telehandler ve traktörlere yönelik 2,4 metrelik taş toplayıcıyı tanıttı",
+      "dek_tr": "Stoneless, Agromek'te Front Series taş toplayıcının 2,4 metre çalışma genişliğine sahip modelini sergiliyor. Seri, telehandler, traktör veya lastikli yükleyiciye takılabiliyor.",
+      "summary_tr": "Profi'nin sağlanan haber özetine göre Danimarkalı Stoneless, Front Series adlı taş toplayıcı serisini Agromek'te tanıtıyor. Seri, telehandler, traktör ve lastikli yükleyicilere takılmak üzere sunuluyor.\n\nFront Series iki modelden oluşuyor: 1800 (1,8 m) ve 2400 (2,4 m). Özette 1800 modelinin yaklaşık bir yıldır piyasada olduğu, 2,4 metrelik modelin ise sergilendiği aktarılıyor.",
+      "why_it_matters_tr": "Bir ataşmanın telehandler, traktör ve lastikli yükleyici gibi farklı taşıyıcılara uyarlanabilmesi tarla taşıyıcılarının kullanım alanını genişletebilir. Ancak çalışma kapasitesi, taş boyutu sınırları ve saha performansı gibi seçim için önemli teknik veriler sağlanan kaynak özetinde yok.",
+      "seo_title": "Stoneless 2,4 metrelik taş toplayıcıyı tanıttı",
+      "meta_description": "Stoneless Front Series taş toplayıcının 2,4 metrelik modelini Agromek'te sergiliyor. Ataşman telehandler, traktör ve lastikli yükleyicilere uyarlanıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Front Series, telehandler, traktör veya lastikli yükleyiciye takılabiliyor.",
+        "Seride 1,8 m genişliğindeki 1800 ve 2,4 m genişliğindeki 2400 modelleri bulunuyor.",
+        "Sağlanan özet, 1800 modelinin yaklaşık bir yıldır mevcut olduğunu belirtiyor.",
+        "2,4 metrelik model Agromek'te sergileniyor."
+      ],
+      "suggested_tags": [
+        "Stoneless",
+        "taş toplayıcı",
+        "tarım ataşmanı",
+        "telehandler",
+        "Agromek"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Profi'nin sağlanan özetinde belirtilen taşıyıcı tipleri ve Front Series uyumluluğu.",
+        "Özette verilen 1800 ve 2400 model adları ile 1,8 m ve 2,4 m genişlikleri.",
+        "1800 modelinin yaklaşık bir yıldır mevcut olduğu ve 2400 modelinin Agromek'te sergilendiği bilgisi."
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası HTTP 403 nedeniyle incelenemedi; teknik kapsam, sağlanan haber özetiyle sınırlı.",
+        "Taş toplama kapasitesi, çalışma performansı, güç gereksinimi ve uyumlu makine arayüzleri belirtilmemiş."
+      ],
+      "generated_at": "2026-11-26T23:40:52.950Z",
+      "generated_by": "github-models"
     }
   },
   {
