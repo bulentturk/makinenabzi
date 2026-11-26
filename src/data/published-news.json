@@ -1,5 +1,39 @@
 [
   {
+    "id": "667c5c27377d6334",
+    "slug": "skoda-group-ta-rayli-sistem-ve-guc-aktarma-yapilanmasi-yeniden-duzenleniyor",
+    "title": "Škoda Group'ta Raylı Sistem ve Güç Aktarma Yapılanması Yeniden Düzenleniyor",
+    "dek": "Škoda Group, verimliliği artırmak ve ürün-hizmet odağını güçlendirmek amacıyla demiryolu, otobüs ve güç aktarma faaliyetlerinde kurumsal bir yeniden yapılanma başlatıyor.",
+    "summary": "Škoda Vagonka, mevcut bağlı kuruluş Škoda Transportation bünyesine entegre edilecek. Škoda Electric ise iki ayrı anonim şirkete bölünecek.\n\nGrupların açıklamasına göre değişiklikler 2027'ye kadar sürecek ek düzenlemeleri de kapsayacak. Kaynak, yeni organizasyonun operasyonel etki veya teknik ürün değişikliklerine ilişkin ayrıntı vermiyor.",
+    "why_it_matters": "Bu değişiklik, raylı taşıma ve elektrikli güç aktarma altyapılarının daha bütüncül yönetilmesine olanak sağlayabilir; ancak somut teknik ve pazar etkisi ancak sonraki duyurularla doğrulanabilecek.",
+    "key_facts": [
+      "Škoda Vagonka, Škoda Transportation bünyesine entegre edilecek",
+      "Škoda Electric iki ayrı anonim şirkete bölünecek",
+      "2027 için ek düzenlemeler planlanıyor",
+      "Amaç verimliliği artırmak ve ürün-hizmet odağını güçlendirmek"
+    ],
+    "format": "haber",
+    "sector": "elektrifikasyon",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon",
+      "yuruyus-guc-aktarma"
+    ],
+    "tags": [
+      "Škoda Group",
+      "Škoda Vagonka",
+      "Škoda Electric",
+      "raylı sistem",
+      "güç aktarma"
+    ],
+    "source_name": "electrive",
+    "source_url": "https://www.electrive.com/2026/11/24/skoda-group-restructures-its-rail-bus-and-drivetrain-businesses/",
+    "source_published_at": "2026-11-24T11:45:00.000Z",
+    "site_published_at": "2026-11-26T16:49:38.396Z",
+    "hero_image": "",
+    "publish_mode": "automatic"
+  },
+  {
     "id": "73fb4923e9f43759",
     "slug": "faresin-otonom-hayvan-besleme-robotu-eramix-i-prototip-olarak-tanitti",
     "title": "Faresin, otonom hayvan besleme robotu Eramix’i prototip olarak tanıttı",
