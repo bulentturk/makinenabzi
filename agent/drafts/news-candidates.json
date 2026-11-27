@@ -7305,7 +7305,7 @@
   },
   {
     "id": "7903da2f57593833",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Manitowoc Launches Largest Potain Luffing Jib Crane",
     "source_name": "Construction Equipment Guide",
     "source_url": "https://www.constructionequipmentguide.com/manitowoc-launches-largest-potain-luffing-jib-crane/72869",
@@ -7319,14 +7319,39 @@
     "editorial_fit_score": 55,
     "summary_source": "The new Potain MCR 1306 offers a maximum lifting capacity of 90 t, a maximum jib length of 80 m, and a jib tip capacity of 11 t....",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Potain MCR 1306, 90 Ton Kapasiteli Yeni Bayraklı Kulesiz Vincinin Lansmanı",
+      "dek_tr": "Manitowoc, Potain MCR 1306 kule vinci ile 90 ton maksimum kaldırma ve 80 metre maksimum bom uzunluğu sunduğunu duyurdu.",
+      "summary_tr": "Manitowoc, Potain MCR 1306 modelinin yeni serisinin en büyük luffing jib vinci olduğunu açıkladı. Duyuruda, vincin maksimum kaldırma kapasitesinin 90 ton ve maksimum bom uzunluğunun 80 metre olduğu belirtiliyor.\n\nAçıklanan değerlere göre bom ucunda kaldırma kapasitesi 11 tona ulaşıyor. Bu bilgi, modelin kentsel şantiyelerde yüksek kaldırma çalışmaları ve uzun bom erişimi gerektiren uygulamalar için konumlandırıldığını gösteriyor.",
+      "why_it_matters_tr": "90 tonluk maksimum kaldırma, 80 metrelik bom uzunluğu ve 11 tonluk bom ucu kapasitesi, kısa döngülerde farklı yük ve erişim kombinasyonlarının planlanmasını belirleyen somut teknik parametrelerdir.",
+      "seo_title": "Potain MCR 1306: 90 Tonluk En Büyük Luffing Jib Vinci",
+      "meta_description": "Manitowoc'un Potain MCR 1306 modelinin 90 ton kaldırma, 80 metre bom ve 11 ton bom ucu kapasitesiyle duyurulmasını inceleyin.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Potain MCR 1306'ın maksimum kaldırma kapasitesi 90 t.",
+        "Maksimum bom uzunluğu 80 m.",
+        "Bom uç kapasitesi 11 t."
+      ],
+      "suggested_tags": [
+        "Potain",
+        "Manitowoc",
+        "MCR 1306",
+        "Luffing jib",
+        "Kule vinci"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Kaynak, Potain MCR 1306'nın 90 ton maksimum kaldırma kapasitesine sahip olduğunu belirtir.",
+        "Kaynak, maksimum bom uzunluğunu 80 metre ve bom ucu kapasitesini 11 ton olarak aktarır."
+      ],
+      "uncertainty_notes": [
+        "Kaynak metni yalnızca kısa bir özet içerdiğinden bom konfigürasyonu, çalışma yarıçapı eğrileri, kaldırma yüksekliği veya teknik teşhis gibi ayrıntılar doğrulanamadı.",
+        "İlgili sitenin HTTP 403 uyarısı nedeniyle birincil üretici duyurusu veya teknik kataloğu ayrıca kontrol edilmelidir."
+      ],
+      "generated_at": "2026-11-27T23:21:11.608Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -8006,7 +8031,7 @@
   },
   {
     "id": "89f95e648ed27c70",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Poland railway TBM passes FAT",
     "source_name": "Tunnels & Tunnelling",
     "source_url": "https://www.tunnelsandtunnelling.com/news/poland-railway-tbm-passes-fat/",
@@ -8020,14 +8045,39 @@
     "editorial_fit_score": 55,
     "summary_source": "Poland railway TBM passes FAT. The new line includes the twin-bore T11 tunnel. The post Poland railway TBM passes FAT appeared first on Tunnels and Tunnelling.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Polonya Demiryolu TBM'si Fabrika Kabul Testini Geçti",
+      "dek_tr": "Polonya'da twin-bore T11 tünelinin inşa edileceği demiryolu hattı için geliştirilen tünel açma makinesinin fabrika kabul testini geçtiği bildirildi.",
+      "summary_tr": "Polonya demiryolu TBM projesinde kullanılan makinenin fabrika kabul testinden geçtiği bildirildi. Söz konusu projede twin-bore T11 tünelinin yer aldığı açıklanıyor.\n\nVerilen kaynak, APROTEK adını anmakta ve TBM'nin teknik özellikleri, üreticisi, test kapsamı veya proje teslim ayrıntıları hakkında bilgi sağlamamaktadır.",
+      "why_it_matters_tr": "Tünel açma makinesinin FAB (FAT) aşamasını tamamlaması, üretimden sahaya geçiş öncesi kabul sürecinde ilerleme anlamına gelebilir; ancak teknik önem ölçütleri ayrıntılı test verisi ve proje bağlamına bağlıdır.",
+      "seo_title": "Polonya Demiryolu TBM'si Fabrika Kabul Testini Geçti",
+      "meta_description": "Polonya'daki twin-bore T11 tünel projesi için demiryolu TBM'nin fabrika kabul testini geçtiği bildirildi.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Polonya demiryolu hattında twin-bore T11 tüneli bulunuyor.",
+        "Kullanılacak TBM'nin fabrika kabul testini geçtiği bildiriliyor.",
+        "Kaynakta APROTEK adı geçiyor."
+      ],
+      "suggested_tags": [
+        "TBM",
+        "Polonya",
+        "Demiryolu",
+        "T11 tüneli",
+        "Fabrika kabul testi"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Kaynak, Polonya demiryolu TBM'nin fabrika kabul testini geçtiğini ve yeni hattın twin-bore T11 tünelini içerdiğini belirtir.",
+        "Kaynak metninde APROTEK adı geçer."
+      ],
+      "uncertainty_notes": [
+        "Girdi yalnızca kısa bir haber özeti ve APROTEK başvurusundan oluşuyor; TBM üreticisi, çapı, kesim tipi, tahrik sistemi, test kapsamı ve projedeki görevi doğrulanamadı.",
+        "Teknik ve kuruluşla ilgili ayrıntılar için birincil üretici, ihale kurumu veya proje açıklaması bulunmalıdır."
+      ],
+      "generated_at": "2026-11-27T23:21:11.608Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -8684,7 +8734,7 @@
   },
   {
     "id": "086cf351e72e1d12",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Terex, Genie’yi Skyjack’in sahibi Linamar’a 1,4 milyar dolara satıyor",
     "source_name": "Vinç & Platform",
     "source_url": "https://vincveplatform.com/terex-genieyi-skyjackin-sahibi-linamara-14-milyar-dolara-satiyor/",
@@ -8698,14 +8748,44 @@
     "editorial_fit_score": 55,
     "summary_source": "Terex, Genie markası altında faaliyet gösteren yüksekte erişim ekipmanları faaliyetlerini, Skyjack’in sahibi Kanadalı Linamar Corporation’a yaklaşık 1,4 milyar dolar karşılığında satmak üzere anlaşma imzaladı. Satışın tamamlanmasıyla Genie ve Skyjack, Linamar bünyesinde aynı grup altında faaliyet gösterecek. Küresel iş makineleri ve erişim ekipmanları pazarında önemli bir satın alma anlaşması gerçekleşti. Terex Corporation, Genie markasıyla yürüttüğü yüksekte […]",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Terex, Genie'yi Linamar'a 1,4 Milyar Dolara Satıyor",
+      "dek_tr": "Terex, Genie yüksekte erişim ekipmanları faaliyetini Linamar'a yaklaşık 1,4 milyar dolar nakit bedelle devretmek üzere anlaşma imzaladı.",
+      "summary_tr": "Terex, Genie markasıyla yürüttüğü yüksekte erişim faaliyetlerini Kanadalı Linamar Corporation'a satmak için anlaşma imzaladı. Satış bedelinin yaklaşık 1,4 milyar dolar nakit olduğu bildirildi.\n\nAnlaşma kapsamında Genie markasının yanında fikri mülkiyet hakları, üretim tesisleri, yedek parça ve servis operasyonları da Linamar'a geçecek. İşlem tamamlanırsa Genie ile Skyjack, Linamar Access Group çatısı altında faaliyet gösterecek. Genie'nin son 12 aylık gelirinin yaklaşık 2,3 milyar dolar olduğu açıklandı.\n\nİşlemin gerekli düzenleyici onayların alınması ve diğer kapanış koşullarının yerine gelmesinin ardından 2027 yılının ilk yarısında tamamlanması bekleniyor. Terex ise satıştan sonra Environmental Solutions, Materials Processing ve Specialty Vehicles alanlarına odaklanacak.",
+      "why_it_matters_tr": "Genie ve Skyjack'in aynı akses ekipmanı grubunda birleşmesi, ürün portföyleri, tedarik ağı, mühendislik kaynakları ve küresel servis organizasyonlarında ölçek etkisi yaratabilir.",
+      "seo_title": "Terex, Genie'yi Linamar'a 1,4 Milyar Dolara Satıyor",
+      "meta_description": "Terex'in Genie'nin tamamını Linamar'a devrettiği anlaşmada bedel 1,4 milyar dolar; kapanışın 2027'nin ilk yarısında yapılması bekleniyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Terex, Genie faaliyetlerini Linamar'a yaklaşık 1,4 milyar dolar nakit bedelle satmayı kabul etti.",
+        "Satış kapsamına marka, fikri mülkiyet, üretim tesisleri, yedek parça ve servis operasyonları dahildir.",
+        "Genie ve Skyjack'in Linamar Access Group altında birlikte faaliyet göstermesi planlanıyor.",
+        "İşlem 2027 yılının ilk yarısında tamamlanabilir.",
+        "Genie'nin son 12 aylık geliri yaklaşık 2,3 milyar dolar olarak açıklandı."
+      ],
+      "suggested_tags": [
+        "Terex",
+        "Genie",
+        "Linamar",
+        "Skyjack",
+        "Erişim ekipmanları",
+        "Satın alma"
+      ],
+      "suggested_sector": "is-makinalari",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "Kaynak, Terex'in Genie faaliyetlerini Linamar'a yaklaşık 1,4 milyar dolar nakit bedelle devretmek üzere anlaşma yaptığını bildirir.",
+        "Kaynak, marka, fikri mülkiyet, tesisler, yedek parça ve servis operasyonlarının satış kapsamına dahil olduğunu açıklar.",
+        "Kaynak, Genie ve Skyjack'in Linamar Access Group altında faaliyet göstermesini öngörür.",
+        "Kaynak, işlemin 2027'nin ilk yarısında tamamlanmasının beklendiğini ve Genie'nin son 12 aylık gelirinin yaklaşık 2,3 milyar dolar olduğunu belirtir."
+      ],
+      "uncertainty_notes": [
+        "Satış henüz tamamlanmamıştır; kapanış tarihi düzenleyici onaylar ve anlaşmanın diğer koşullarına bağlıdır.",
+        "Genie markasına ait cihazlarda satışın ürün geliştirme, üretim veya servis organizasyonlarına etkisi henüz bağımsız olarak doğrulanmamıştır."
+      ],
+      "generated_at": "2026-11-27T23:21:11.608Z",
+      "generated_by": "github-models"
     }
   },
   {
