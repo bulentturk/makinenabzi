@@ -2798,6 +2798,60 @@
     }
   },
   {
+    "id": "8aa013c76d9d3fb0",
+    "status": "candidate",
+    "title_original": "Hitachi Construction Machinery introduces EH3500AC-5 rigid dump truck",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/11/27/hitachi-construction-machinery-introduces-eh3500ac-5-rigid-dump-truck/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-11-27T11:32:35.000Z",
+    "discovered_at": "2026-11-27T14:31:24.350Z",
+    "sector": "madencilik",
+    "subsector": null,
+    "technologies": [],
+    "relevance_score": 150,
+    "editorial_fit_score": 65,
+    "summary_source": "Hitachi Construction Machinery Co., Ltd has announced the introduction of the EH3500AC-5 rigid dump truck to the market for large-scale mines worldwide. Representing a full model change of the EH3500AC-3 rigid dump truck, it offers a nominal payload of 195 t and gross machine operating weight of 354 t. Hitachi Construction Machinery will begin accepting The post Hitachi Construction Machinery introduces EH3500AC-5 rigid dump truck appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
+    "id": "2ca80b4a1b3f0d11",
+    "status": "candidate",
+    "title_original": "EACON announces significant ORCASTRA upgrades plus new mining AI agent",
+    "source_name": "International Mining",
+    "source_url": "https://im-mining.com/2026/11/27/eacon-announces-significant-orcastra-upgrades-plus-new-mining-ai-agent/",
+    "source_feed": "https://im-mining.com/feed/",
+    "published_at": "2026-11-27T06:00:15.000Z",
+    "discovered_at": "2026-11-27T14:31:24.354Z",
+    "sector": "madencilik",
+    "subsector": null,
+    "technologies": [
+      "otonomi-ai"
+    ],
+    "relevance_score": 150,
+    "editorial_fit_score": 32,
+    "summary_source": "Autonomous mining has reached an important stage in its development. The industry has established the ability to operate autonomous mining trucks at scale; the next challenge is to make the technology easier to deploy, more adaptable to different site conditions and increasingly cost-effective over the long term. At bauma CHINA 2026, EACON introduced a series The post EACON announces significant ORCASTRA upgrades plus new mining AI agent appeared first on International Mining.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "ebb365f3a8749403",
     "status": "drafted",
     "title_original": "ULEMCo converts Fendt tractor to hydrogen",
@@ -5494,6 +5548,35 @@
     }
   },
   {
+    "id": "b6725ba6727467cc",
+    "status": "candidate",
+    "title_original": "Pro version of Hardi AutoTerrain",
+    "source_name": "profi",
+    "source_url": "https://www.profi.co.uk/news/pro-version-of-hardi-autoterrain/",
+    "source_feed": "https://www.profi.co.uk/feed/",
+    "published_at": "2026-11-27T11:30:00.000Z",
+    "discovered_at": "2026-11-27T14:31:25.334Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [
+      "elektronik-telematik",
+      "yuruyus-guc-aktarma"
+    ],
+    "relevance_score": 141,
+    "editorial_fit_score": 79,
+    "summary_source": "Sensors on the new AutoTerrain Pro boom levelling system at Agromek provide a different way of controlling the boom geometrics. A dynamic chassis sensor measures the movement of the axle and wheels. This sensor detects when a wheel drops into a ride or rides over a stone and predicts the amount of boom movement; sending […] The post Pro version of Hardi AutoTerrain appeared first on Profi.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
+    }
+  },
+  {
     "id": "b6735e770b938e43",
     "status": "drafted",
     "title_original": "EIMA 2026: Faresin Eramix",
@@ -5550,36 +5633,6 @@
       ],
       "generated_at": "2026-11-11T12:20:05.475Z",
       "generated_by": "github-models"
-    }
-  },
-  {
-    "id": "99ef459589e63755",
-    "status": "candidate",
-    "title_original": "Inaugural Future Truck Summit at Work Truck Week 2027 Challenges Industry to Rethink Commercial Vehicles",
-    "source_name": "Construction Equipment Guide",
-    "source_url": "https://www.constructionequipmentguide.com/inaugural-future-truck-summit-at-work-truck-week-2027-challenges-industry-to-rethink-commercial-vehicles/72839",
-    "source_feed": "https://feeds.feedburner.com/ceg",
-    "published_at": "2026-11-23T05:00:00.000Z",
-    "discovered_at": "2026-11-23T15:33:16.325Z",
-    "sector": "is-makinalari",
-    "subsector": null,
-    "technologies": [
-      "elektrifikasyon",
-      "elektronik-telematik",
-      "fonksiyonel-guvenlik"
-    ],
-    "relevance_score": 140,
-    "editorial_fit_score": 36,
-    "summary_source": "Future Truck Summit opens Work Truck Week 2027 with a call to rethink commercial vehicles. The conference explores emerging fuels, electrification, connected technologies, safety and fleet strategies to help industry professionals prepare for the future of work trucks....",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
     }
   },
   {
@@ -6800,6 +6853,34 @@
       ],
       "generated_at": "2026-10-22T09:46:05.296Z",
       "generated_by": "github-models"
+    }
+  },
+  {
+    "id": "bf19a5ca544e48df",
+    "status": "candidate",
+    "title_original": "First Bogballe hydraulic fertiliser spreaders",
+    "source_name": "profi",
+    "source_url": "https://www.profi.co.uk/news/first-bogballe-hydraulic-fertiliser-spreaders/",
+    "source_feed": "https://www.profi.co.uk/feed/",
+    "published_at": "2026-11-27T08:00:00.000Z",
+    "discovered_at": "2026-11-27T14:31:25.336Z",
+    "sector": "tarim",
+    "subsector": null,
+    "technologies": [
+      "hidrolik"
+    ],
+    "relevance_score": 133,
+    "editorial_fit_score": 67,
+    "summary_source": "The MH45 and MH60 are the first hydraulically powered fertilisers spreaders from Danish manufacturer Bogballe. First shown as a concept at Agritechnica 2025, and now in production, the load sensing system sees each disc powered by its own hydraulic motor. Being able to run them at two different rpms means that the speed of both […] The post First Bogballe hydraulic fertiliser spreaders appeared first on Profi.",
+    "editorial": {
+      "title_tr": "",
+      "dek_tr": "",
+      "summary_tr": "",
+      "why_it_matters_tr": "",
+      "seo_title": "",
+      "meta_description": "",
+      "hero_image": "",
+      "reviewed": false
     }
   },
   {
@@ -9094,32 +9175,6 @@
     }
   },
   {
-    "id": "b209c222932ba545",
-    "status": "candidate",
-    "title_original": "Liebherr LTM 1250-5.1, Almanya’daki futbol stadyumunda ilk görevini yaptı",
-    "source_name": "Makina Market",
-    "source_url": "https://makina-market.com.tr/liebherr-ltm-1250-5-1-almanyadaki-futbol-stadyumunda-ilk-gorevini-yapti/",
-    "source_feed": "https://makina-market.com.tr/feed/",
-    "published_at": "2026-11-23T12:37:25.000Z",
-    "discovered_at": "2026-11-23T15:33:18.334Z",
-    "sector": "liman",
-    "subsector": null,
-    "technologies": [],
-    "relevance_score": 116,
-    "editorial_fit_score": 55,
-    "summary_source": "Almanya merkezli vinç ve ağır yük taşımacılığı şirketi Titschkus & Wittrock’un filosuna yeni kattığı Liebherr LTM 1250-5.1 mobil… The post Liebherr LTM 1250-5.1, Almanya’daki futbol stadyumunda ilk görevini yaptı first appeared on Makina Market.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
-  },
-  {
     "id": "e58aee085c72ca4d",
     "status": "drafted",
     "title_original": "Toulouse Metro TBM makes third breakthrough",
@@ -9517,32 +9572,6 @@
     "relevance_score": 115,
     "editorial_fit_score": 55,
     "summary_source": "REPORT: Avant is a big player in the compact articulated loader market, but many will know little about how and where its machines are made. We travel to Finland to find out more about the 35-year-old business. The post Avant Tecno factory tour: BIG IN SMALL LOADERS appeared first on Profi.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
-  },
-  {
-    "id": "c6b3e8f94ec107cb",
-    "status": "candidate",
-    "title_original": "Liebherr LTM 1250-5.1, Almanya’daki futbol stadyumunda ilk görevini yaptı",
-    "source_name": "LHT",
-    "source_url": "https://www.lht.com.tr/liebherr-ltm-1250-5-1-almanyadaki-futbol-stadyumunda-ilk-gorevini-yapti/",
-    "source_feed": "https://www.lht.com.tr/feed/",
-    "published_at": "2026-11-23T12:38:32.000Z",
-    "discovered_at": "2026-11-23T15:33:19.120Z",
-    "sector": "liman",
-    "subsector": null,
-    "technologies": [],
-    "relevance_score": 115,
-    "editorial_fit_score": 55,
-    "summary_source": "Almanya merkezli vinç ve ağır yük taşımacılığı şirketi Titschkus & Wittrock’un filosuna yeni kattığı Liebherr LTM 1250-5.1 mobil vinç, Bremen’deki Weserstadion’da tribün onarım çalışmalarında ilk kez kullanıldı. 250 ton kaldırma kapasiteli vinç, dar çalışma alanında 8 tona kadar ağırlığa sahip yaklaşık 10 beton elemanın montajını gerçekleştirdi. Almanya’nın Bremen kentinde bulunan Weserstadion’da gerçekleştirilen tribün onarım çalışmaları, […]",
     "editorial": {
       "title_tr": "",
       "dek_tr": "",
@@ -10220,32 +10249,6 @@
     "relevance_score": 106,
     "editorial_fit_score": 55,
     "summary_source": "İş ve istif makineleri sektörünün güçlü temsilcilerinden ASKO GLOB ALL, Türkiye distribütörlüğünü yürüttüğü DEVELON markasının iş makinelerini kamu… The post ASKO GLOB ALL, DEVELON DX225LC-7 ekskavatörleri Türkiye Belediyeler Birliği’ne teslim etti first appeared on Makina Market.",
-    "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
-      "hero_image": "",
-      "reviewed": false
-    }
-  },
-  {
-    "id": "5e681108bf7c775c",
-    "status": "candidate",
-    "title_original": "bauma CHINA 2026, iki fuar alanında kapılarını açtı",
-    "source_name": "Makina Market",
-    "source_url": "https://makina-market.com.tr/bauma-china-2026-iki-fuar-alaninda-kapilarini-acti/",
-    "source_feed": "https://makina-market.com.tr/feed/",
-    "published_at": "2026-11-23T13:05:33.000Z",
-    "discovered_at": "2026-11-23T15:33:18.333Z",
-    "sector": "is-makinalari",
-    "subsector": null,
-    "technologies": [],
-    "relevance_score": 106,
-    "editorial_fit_score": 55,
-    "summary_source": "İş ve inşaat makineleri sektörünün uluslararası buluşmalarından bauma CHINA 2026, 23 Kasım itibarıyla Çin’in Şanghay kentinde ziyaretçilerini ağırlamaya… The post bauma CHINA 2026, iki fuar alanında kapılarını açtı first appeared on Makina Market.",
     "editorial": {
       "title_tr": "",
       "dek_tr": "",
