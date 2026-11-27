@@ -7197,7 +7197,7 @@
   },
   {
     "id": "c59cccfdd2af9d86",
-    "status": "drafted",
+    "status": "published",
     "title_original": "Cruise Ships Are Increasing Their Use of Shore Power",
     "source_name": "The Maritime Executive",
     "source_url": "https://maritime-executive.com/article/cruise-ships-are-increasing-their-use-of-shore-power",
@@ -7248,7 +7248,9 @@
         "Kıyı elektriğinin emisyon etkisi geminin enerji kaynağına ve liman şebekesinin elektrik üretim bileşimine bağlıdır; kaynak bu etkileri karşılaştırmalı olarak incelemiyor."
       ],
       "generated_at": "2026-11-23T15:34:30.184Z",
-      "generated_by": "github-models"
+      "generated_by": "github-models",
+      "review_result": "auto_published",
+      "reviewed_at": "2026-11-27T16:35:38.544Z"
     }
   },
   {

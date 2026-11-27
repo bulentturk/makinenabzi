@@ -1,5 +1,37 @@
 [
   {
+    "id": "c59cccfdd2af9d86",
+    "slug": "kruvaziyer-limanlarinda-kiyi-elektrigi-yatirimlari-genisliyor",
+    "title": "Kruvaziyer limanlarında kıyı elektriği yatırımları genişliyor",
+    "dek": "Liman elektriği, gemilerin rıhtımda ana makinelerini çalıştırma ihtiyacını azaltmayı hedefliyor. Vancouver ve Seattle’daki kapasite artışları, bağlantı erişimi ve şebeke gücünün de belirleyici olduğunu gösteriyor.",
+    "summary": "The Maritime Executive’ın aktardığına göre kruvaziyer gemilerinde kıyı elektriği kullanımı artarken, liman yatırımlarının kapsamı bağlantı noktalarının sayısı ve mevcut elektrik kapasitesiyle sınırlanabiliyor. Haberde, orta boy gemilerin rıhtımda 7–12 MW, daha büyük gemilerin ise 16 MW’a kadar güç kullanabildiği belirtiliyor.\n\nVancouver Limanı’ndaki genişletme projesinin istasyon sayısını üçten beşe çıkarması ve doğu-batı rıhtımlarında gemilerin bağlantı noktalarına erişimini artırması bekleniyor. Habere göre bağlantı oranının yüzde 35 artması ve yılda yaklaşık 90 ek gemi uğrağında kıyı elektriği kullanılması hedefleniyor.\n\nPortMiami’de aynı anda üç gemiye bağlantı sağlanabildiği, ancak şebeke gücünün kapasiteyi sınırladığı aktarılıyor. Seattle Limanı ise 2026’da 330 gemi uğrağı ve yüzde 66 bağlantı oranı bildirmiş; 2028’e kadar ana liman olarak kullandığı kruvaziyer gemilerinde yüzde 100 kullanım hedefliyor.",
+    "why_it_matters": "Kıyı elektriği yalnız gemideki bağlantı ekipmanına değil, liman altyapısına ve yerel şebekenin sağlayabileceği güce de bağlı. Bu nedenle liman işletmecileri ve gemi operatörleri için kapasite, rıhtım yerleşimi ve eşzamanlı bağlantı planlaması temel teknik konular.",
+    "key_facts": [
+      "Habere göre orta boy kruvaziyer gemileri rıhtımda 7–12 MW güç kullanabiliyor.",
+      "Vancouver projesi istasyon sayısını üçten beşe çıkarmayı hedefliyor.",
+      "PortMiami’de aynı anda üç gemi kıyı elektriğine bağlanabiliyor.",
+      "Seattle Limanı 2026 sezonunda yüzde 66 bağlantı oranı bildirdi."
+    ],
+    "format": "haber",
+    "sector": "marine-yatcilik",
+    "subsector": null,
+    "technologies": [
+      "elektrifikasyon"
+    ],
+    "tags": [
+      "kıyı elektriği",
+      "kruvaziyer gemileri",
+      "liman elektrifikasyonu",
+      "şebeke kapasitesi"
+    ],
+    "source_name": "The Maritime Executive",
+    "source_url": "https://maritime-executive.com/article/cruise-ships-are-increasing-their-use-of-shore-power",
+    "source_published_at": "2026-11-23T13:22:30.000Z",
+    "site_published_at": "2026-11-27T16:35:38.544Z",
+    "hero_image": "",
+    "publish_mode": "automatic"
+  },
+  {
     "id": "667c5c27377d6334",
     "slug": "skoda-group-ta-rayli-sistem-ve-guc-aktarma-yapilanmasi-yeniden-duzenleniyor",
     "title": "Škoda Group'ta Raylı Sistem ve Güç Aktarma Yapılanması Yeniden Düzenleniyor",
