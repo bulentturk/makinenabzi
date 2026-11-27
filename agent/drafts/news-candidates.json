@@ -2286,68 +2286,6 @@
     }
   },
   {
-    "id": "9313d5fe7d3c2080",
-    "status": "published",
-    "title_original": "Dimaag’s Mobile Megawatt Charging System enables full-workday operation of Komatsu’s 20-ton-class electric excavator",
-    "source_name": "Charged EVs",
-    "source_url": "https://chargedevs.com/newswire/dimaags-mobile-megawatt-charging-system-enables-full-workday-operation-of-komatsus-20-ton-class-electric-excavator/",
-    "source_feed": "https://chargedevs.com/feed/",
-    "published_at": "2026-11-23T16:47:39.000Z",
-    "discovered_at": "2026-11-24T02:05:53.535Z",
-    "sector": "is-makinalari",
-    "subsector": null,
-    "technologies": [
-      "elektrifikasyon",
-      "otonomi-ai"
-    ],
-    "relevance_score": 156,
-    "editorial_fit_score": 89,
-    "summary_source": "Dimaag AI has shipped a 20-ton electric excavator to Komatsu, along with Dimaag’s Mobile Megawatt Charging System (MWCS). The system is designed to enable battery-electric heavy equipment to maintain full-workday... Read more »",
-    "editorial": {
-      "title_tr": "Dimaag, Komatsu’ya mobil megavat şarj sistemi ve elektrikli ekskavatör teslim etti",
-      "dek_tr": "Dimaag, 20 ton sınıfı elektrikli ekskavatörle birlikte mobil DC hızlı şarj sistemini Komatsu’ya teslim ettiğini bildiriyor. Sistem, sabit şebeke kapasitesinin sınırlı olduğu sahalarda çalışma aralarında yüksek güçlü şarj sağlamayı hedefliyor.",
-      "summary_tr": "Dimaag’ın açıklamasına göre ekskavatörde Zenius batarya modülleri kullanılıyor ve makine megavat ölçeğinde DC hızlı şarja uyumlu. Şirketin kendinden tahrikli, dört tekerlekten çekişli mobil şarj ünitesi enerjiyi makineye sahada ulaştırıyor; amaç, ekskavatörün şarj için sabit bir noktaya gitmesi gereğini azaltmak.\n\nDimaag, ünitenin gece şebekeden 30–100 kW ile şarj olup gün içinde ağır ekipmana megavat ölçeğinde güç verebildiğini belirtiyor. Şirket ayrıca Zenius batarya sisteminde tekrarlı yüksek güçlü şarj ve deşarj sırasında ısı yönetimi için doğrudan dinamik dielektrik soğutma (D3C) kullandığını aktarıyor.\n\nKomatsu CTO’su, iş birliği kapsamında mobil DC hızlı şarj teknolojisiyle kavram kanıtlama testleri başlatıldığını söylüyor. Kaynakta test sonuçları veya bağımsız performans verileri bulunmuyor.",
-      "why_it_matters_tr": "Mobil şarj ünitesi, saha şebekesinin sınırlı olduğu iş makineleri operasyonlarında yüksek güçlü şarja erişim için farklı bir altyapı yaklaşımı sunuyor. Uygulamanın tam iş günü çalışma sağlayıp sağlamadığı ise paylaşılan test sonuçları ve bağımsız verilerle değerlendirilmelidir.",
-      "seo_title": "Dimaag’dan Komatsu’ya mobil megavat şarj sistemi",
-      "meta_description": "Dimaag, Komatsu’ya 20 ton sınıfı elektrikli ekskavatör ve mobil DC hızlı şarj ünitesi teslim ettiğini; kavram kanıtlama testlerinin başladığını bildiriyor.",
-      "hero_image": "",
-      "reviewed": false,
-      "key_facts": [
-        "Dimaag, Komatsu’ya 20 ton sınıfı elektrikli ekskavatör ve mobil megavat şarj sistemi teslim ettiğini bildiriyor.",
-        "Şirket, ekskavatörün megavat ölçeğinde DC hızlı şarj için Zenius batarya modülleriyle donatıldığını belirtiyor.",
-        "Mobil ünite için gece şebeke şarj gücü 30–100 kW olarak veriliyor.",
-        "Komatsu, mobil DC hızlı şarj teknolojisiyle kavram kanıtlama testleri başlatıldığını bildiriyor."
-      ],
-      "suggested_tags": [
-        "Dimaag",
-        "Komatsu",
-        "elektrikli ekskavatör",
-        "mobil şarj",
-        "DC hızlı şarj"
-      ],
-      "suggested_sector": "is-makinalari",
-      "editorial_format": "haber",
-      "suggested_technologies": [
-        "elektrifikasyon",
-        "termal-yonetim"
-      ],
-      "source_facts_used": [
-        "Dimaag’ın 20 ton sınıfı elektrikli ekskavatör ve mobil megavat şarj sistemi teslim ettiğine ilişkin haberdeki bilgi.",
-        "Sistemin batarya modülleri, mobil güç elektroniği ve kontrolleri bir araya getirdiği bilgisi.",
-        "Gece şebekeden 30–100 kW şarj ve gün içinde megavat ölçeğinde güç sağlama değerleri.",
-        "Komatsu’nun kavram kanıtlama testleri başlatıldığına ilişkin açıklaması."
-      ],
-      "uncertainty_notes": [
-        "Performans, tam iş günü çalışma ve ısı yönetimine ilişkin bilgiler Dimaag’ın açıklamalarına dayanıyor; bağımsız saha testi sonucu olarak doğrulanmış değil.",
-        "Komatsu’nun test kapsamı ve sonuçları henüz kaynakta verilmemiş."
-      ],
-      "generated_at": "2026-11-24T02:07:01.911Z",
-      "generated_by": "github-models",
-      "review_result": "auto_published",
-      "reviewed_at": "2026-11-24T17:37:26.342Z"
-    }
-  },
-  {
     "id": "c4ee01e337a1cfbc",
     "status": "drafted",
     "title_original": "Onsemi introduces new SiC Platform: EliteSiC M4",
@@ -7193,64 +7131,6 @@
       ],
       "generated_at": "2026-11-11T21:51:15.966Z",
       "generated_by": "github-models"
-    }
-  },
-  {
-    "id": "c59cccfdd2af9d86",
-    "status": "published",
-    "title_original": "Cruise Ships Are Increasing Their Use of Shore Power",
-    "source_name": "The Maritime Executive",
-    "source_url": "https://maritime-executive.com/article/cruise-ships-are-increasing-their-use-of-shore-power",
-    "source_feed": "https://maritime-executive.com/articles.rss",
-    "published_at": "2026-11-23T13:22:30.000Z",
-    "discovered_at": "2026-11-23T15:33:16.624Z",
-    "sector": "marine-yatcilik",
-    "subsector": null,
-    "technologies": [
-      "elektrifikasyon"
-    ],
-    "relevance_score": 132,
-    "editorial_fit_score": 79,
-    "summary_source": "",
-    "editorial": {
-      "title_tr": "Kruvaziyer limanlarında kıyı elektriği yatırımları genişliyor",
-      "dek_tr": "Liman elektriği, gemilerin rıhtımda ana makinelerini çalıştırma ihtiyacını azaltmayı hedefliyor. Vancouver ve Seattle’daki kapasite artışları, bağlantı erişimi ve şebeke gücünün de belirleyici olduğunu gösteriyor.",
-      "summary_tr": "The Maritime Executive’ın aktardığına göre kruvaziyer gemilerinde kıyı elektriği kullanımı artarken, liman yatırımlarının kapsamı bağlantı noktalarının sayısı ve mevcut elektrik kapasitesiyle sınırlanabiliyor. Haberde, orta boy gemilerin rıhtımda 7–12 MW, daha büyük gemilerin ise 16 MW’a kadar güç kullanabildiği belirtiliyor.\n\nVancouver Limanı’ndaki genişletme projesinin istasyon sayısını üçten beşe çıkarması ve doğu-batı rıhtımlarında gemilerin bağlantı noktalarına erişimini artırması bekleniyor. Habere göre bağlantı oranının yüzde 35 artması ve yılda yaklaşık 90 ek gemi uğrağında kıyı elektriği kullanılması hedefleniyor.\n\nPortMiami’de aynı anda üç gemiye bağlantı sağlanabildiği, ancak şebeke gücünün kapasiteyi sınırladığı aktarılıyor. Seattle Limanı ise 2026’da 330 gemi uğrağı ve yüzde 66 bağlantı oranı bildirmiş; 2028’e kadar ana liman olarak kullandığı kruvaziyer gemilerinde yüzde 100 kullanım hedefliyor.",
-      "why_it_matters_tr": "Kıyı elektriği yalnız gemideki bağlantı ekipmanına değil, liman altyapısına ve yerel şebekenin sağlayabileceği güce de bağlı. Bu nedenle liman işletmecileri ve gemi operatörleri için kapasite, rıhtım yerleşimi ve eşzamanlı bağlantı planlaması temel teknik konular.",
-      "seo_title": "Kruvaziyer limanlarında kıyı elektriği kapasitesi artıyor",
-      "meta_description": "Vancouver ve Seattle’daki kıyı elektriği yatırımları, kruvaziyer limanlarında bağlantı kapasitesi ve şebeke gücünün önemini ortaya koyuyor.",
-      "hero_image": "",
-      "reviewed": false,
-      "key_facts": [
-        "Habere göre orta boy kruvaziyer gemileri rıhtımda 7–12 MW güç kullanabiliyor.",
-        "Vancouver projesi istasyon sayısını üçten beşe çıkarmayı hedefliyor.",
-        "PortMiami’de aynı anda üç gemi kıyı elektriğine bağlanabiliyor.",
-        "Seattle Limanı 2026 sezonunda yüzde 66 bağlantı oranı bildirdi."
-      ],
-      "suggested_tags": [
-        "kıyı elektriği",
-        "kruvaziyer gemileri",
-        "liman elektrifikasyonu",
-        "şebeke kapasitesi"
-      ],
-      "suggested_sector": "marine-yatcilik",
-      "editorial_format": "haber",
-      "suggested_technologies": [
-        "elektrifikasyon"
-      ],
-      "source_facts_used": [
-        "Haberde kruvaziyer gemileri için verilen rıhtım güç aralıkları",
-        "Vancouver kıyı elektriği genişletmesinin istasyon sayısı ve beklenen bağlantı artışı",
-        "PortMiami ve Seattle için aktarılan bağlantı kapasitesi ve kullanım oranları"
-      ],
-      "uncertainty_notes": [
-        "Kaynak sektör yayınıdır; liman projeleri, kullanım oranları ve güç değerleri birincil liman veya işletmeci kaynaklarından ayrıca doğrulanmalıdır.",
-        "Kıyı elektriğinin emisyon etkisi geminin enerji kaynağına ve liman şebekesinin elektrik üretim bileşimine bağlıdır; kaynak bu etkileri karşılaştırmalı olarak incelemiyor."
-      ],
-      "generated_at": "2026-11-23T15:34:30.184Z",
-      "generated_by": "github-models",
-      "review_result": "auto_published",
-      "reviewed_at": "2026-11-27T16:35:38.544Z"
     }
   },
   {
