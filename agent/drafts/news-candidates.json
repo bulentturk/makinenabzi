@@ -2799,7 +2799,7 @@
   },
   {
     "id": "8aa013c76d9d3fb0",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Hitachi Construction Machinery introduces EH3500AC-5 rigid dump truck",
     "source_name": "International Mining",
     "source_url": "https://im-mining.com/2026/11/27/hitachi-construction-machinery-introduces-eh3500ac-5-rigid-dump-truck/",
@@ -2813,14 +2813,43 @@
     "editorial_fit_score": 65,
     "summary_source": "Hitachi Construction Machinery Co., Ltd has announced the introduction of the EH3500AC-5 rigid dump truck to the market for large-scale mines worldwide. Representing a full model change of the EH3500AC-3 rigid dump truck, it offers a nominal payload of 195 t and gross machine operating weight of 354 t. Hitachi Construction Machinery will begin accepting The post Hitachi Construction Machinery introduces EH3500AC-5 rigid dump truck appeared first on International Mining.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Hitachi EH3500AC-5 maden kamyonu 195 ton nominal taşıma kapasitesi sunuyor",
+      "dek_tr": "Hitachi Construction Machinery, büyük ölçekli madenler için EH3500AC-5 rijit damperli kamyonu tanıttı. Yeni model, EH3500AC-3’ün tam model yenilemesi olarak sunuluyor; nominal taşıma kapasitesi 195 ton, brüt çalışma ağırlığı 354 ton olarak veriliyor.",
+      "summary_tr": "International Mining’in haber özetine göre Hitachi Construction Machinery, EH3500AC-5 modelini dünya genelindeki büyük ölçekli madenler için pazara sunuyor. Model, önceki EH3500AC-3’ün tam yenilemesi olarak tanımlanıyor.\n\nVerilen nominal taşıma kapasitesi 195 ton, brüt makine çalışma ağırlığı ise 354 ton. Kaynak metni sipariş kabulüne ilişkin cümlenin devamı gelmeden kesildiğinden, sipariş takvimi veya diğer teknik özellikler bu taslakta yer almıyor.",
+      "why_it_matters_tr": "Bu sınıftaki kamyonlar büyük ölçekli madenlerde taşıma filosunun kapasitesini belirleyen ekipmanlardandır. Model yenilemesinin operasyonel etkisini değerlendirmek için taşıma kapasitesinin yanı sıra güç aktarma sistemi, çevrim performansı ve bakım verileri de gerekir; bunlar mevcut kaynak özetinde bulunmuyor.",
+      "seo_title": "Hitachi EH3500AC-5: 195 ton kapasiteli maden kamyonu",
+      "meta_description": "Hitachi EH3500AC-5, EH3500AC-3’ün tam model yenilemesi olarak tanıtıldı. Kaynakta nominal taşıma kapasitesi 195 ton, brüt ağırlık 354 ton.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "Hitachi Construction Machinery, EH3500AC-5 rijit damperli kamyonu tanıttı.",
+        "Model büyük ölçekli madenler için pazara sunuluyor.",
+        "EH3500AC-5, EH3500AC-3’ün tam model yenilemesi olarak tanımlanıyor.",
+        "Nominal taşıma kapasitesi 195 ton olarak veriliyor.",
+        "Brüt makine çalışma ağırlığı 354 ton olarak veriliyor."
+      ],
+      "suggested_tags": [
+        "Hitachi",
+        "EH3500AC-5",
+        "maden kamyonu",
+        "rijit damperli kamyon",
+        "açık ocak madenciliği"
+      ],
+      "suggested_sector": "madencilik",
+      "editorial_format": "haber",
+      "suggested_technologies": [],
+      "source_facts_used": [
+        "International Mining haber özetinde EH3500AC-5’in büyük ölçekli madenler için tanıtılması",
+        "Modelin EH3500AC-3’ün tam yenilemesi olarak belirtilmesi",
+        "195 ton nominal taşıma kapasitesi ve 354 ton brüt makine çalışma ağırlığı"
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası HTTP 403 nedeniyle alınamadı; taslak yalnızca verilen haber özeti ve başlığa dayanıyor.",
+        "Sipariş kabulüyle ilgili kaynak cümlesi kesilmiş; takvim, teknik donanım ve önceki modele göre değişiklikler doğrulanamıyor.",
+        "Önemli teknik ayrıntılar için üreticinin birincil duyurusu kontrol edilmeli; bağımsız saha testi bilgisi sunulmamıştır."
+      ],
+      "generated_at": "2026-11-27T14:32:19.524Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -5549,7 +5578,7 @@
   },
   {
     "id": "b6725ba6727467cc",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "Pro version of Hardi AutoTerrain",
     "source_name": "profi",
     "source_url": "https://www.profi.co.uk/news/pro-version-of-hardi-autoterrain/",
@@ -5566,14 +5595,43 @@
     "editorial_fit_score": 79,
     "summary_source": "Sensors on the new AutoTerrain Pro boom levelling system at Agromek provide a different way of controlling the boom geometrics. A dynamic chassis sensor measures the movement of the axle and wheels. This sensor detects when a wheel drops into a ride or rides over a stone and predicts the amount of boom movement; sending […] The post Pro version of Hardi AutoTerrain appeared first on Profi.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Hardi AutoTerrain Pro, bom hareketini şasi sensörüyle öngörüyor",
+      "dek_tr": "Agromek’te tanıtılan AutoTerrain Pro, aks ve tekerlek hareketlerini izleyen dinamik bir şasi sensörü kullanıyor. Sistem, tekerlek bir çukura girdiğinde veya taşa çıktığında bomdaki olası hareketi öngörerek bom geometrisinin kontrolüne veri sağlıyor.",
+      "summary_tr": "Profi’nin haber özetine göre Hardi AutoTerrain Pro, bom dengeleme ve kontrolünde şasi hareketlerini izleyen farklı bir yaklaşım sunuyor. Dinamik sensör aks ve tekerlek hareketlerini ölçüyor.\n\nSensör, tekerleğin çukura girmesi veya bir taşın üzerinden geçmesi gibi durumlarda oluşabilecek bom hareketini öngörüyor. Kaynakta sistemin kontrol mantığına dair daha ayrıntılı teknik bilgi yer almıyor.",
+      "why_it_matters_tr": "Tarla engebesinin bom hareketine etkisini önceden algılamak, tarımsal ilaçlama makinelerinde bom kontrolünün çalışma koşullarına uyarlanması açısından önemli olabilir; ancak performans veya uygulama sonuçları kaynakta doğrulanmıyor.",
+      "seo_title": "Hardi AutoTerrain Pro bom hareketini nasıl öngörüyor?",
+      "meta_description": "Hardi AutoTerrain Pro, aks ve tekerlek hareketlerini izleyen şasi sensörüyle engebede oluşabilecek bom hareketini öngörmeyi amaçlıyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "AutoTerrain Pro, bom dengeleme sistemi olarak tanımlanıyor.",
+        "Dinamik şasi sensörü aks ve tekerlek hareketlerini ölçüyor.",
+        "Sistem, tekerleğin çukura girmesi veya taşa çıkması sonrasında oluşabilecek bom hareketini öngörüyor.",
+        "Haber özeti ürünün Agromek’te tanıtıldığını belirtiyor."
+      ],
+      "suggested_tags": [
+        "Hardi",
+        "AutoTerrain Pro",
+        "tarımsal ilaçlama",
+        "bom kontrolü",
+        "sensör"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "elektronik-telematik"
+      ],
+      "source_facts_used": [
+        "Profi haber özetinde AutoTerrain Pro’nun bom dengeleme sistemi olarak tanımlanması",
+        "Dinamik şasi sensörünün aks ve tekerlek hareketlerini ölçmesi",
+        "Tekerlek çukura girdiğinde veya taşa çıktığında bom hareketinin öngörülmesi"
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası HTTP 403 nedeniyle alınamadı; taslak yalnızca verilen kısa haber özeti ve başlığa dayanıyor.",
+        "Sensörün ölçüm aralığı, kontrol algoritması ve saha performansı hakkında birincil üretici doğrulaması bulunmuyor."
+      ],
+      "generated_at": "2026-11-27T14:32:19.524Z",
+      "generated_by": "github-models"
     }
   },
   {
@@ -6857,7 +6915,7 @@
   },
   {
     "id": "bf19a5ca544e48df",
-    "status": "candidate",
+    "status": "drafted",
     "title_original": "First Bogballe hydraulic fertiliser spreaders",
     "source_name": "profi",
     "source_url": "https://www.profi.co.uk/news/first-bogballe-hydraulic-fertiliser-spreaders/",
@@ -6873,14 +6931,44 @@
     "editorial_fit_score": 67,
     "summary_source": "The MH45 and MH60 are the first hydraulically powered fertilisers spreaders from Danish manufacturer Bogballe. First shown as a concept at Agritechnica 2025, and now in production, the load sensing system sees each disc powered by its own hydraulic motor. Being able to run them at two different rpms means that the speed of both […] The post First Bogballe hydraulic fertiliser spreaders appeared first on Profi.",
     "editorial": {
-      "title_tr": "",
-      "dek_tr": "",
-      "summary_tr": "",
-      "why_it_matters_tr": "",
-      "seo_title": "",
-      "meta_description": "",
+      "title_tr": "Bogballe MH45 ve MH60 hidrolik gübre serpme makineleri üretime geçti",
+      "dek_tr": "Bogballe’nin MH45 ve MH60 modelleri, üreticinin ilk hidrolik tahrikli gübre serpme makineleri olarak tanıtılıyor. Her serpme diskinin ayrı bir hidrolik motorla çalıştığı ve yük algılamalı bir sistem kullanıldığı belirtiliyor.",
+      "summary_tr": "Profi’nin haber özetine göre Bogballe MH45 ve MH60, şirketin ilk hidrolik tahrikli gübre serpme makineleri. Modeller ilk kez Agritechnica 2025’te konsept olarak gösterilmiş; kaynak, makinelerin artık üretimde olduğunu bildiriyor.\n\nYük algılamalı sistemde her disk kendi hidrolik motoruyla tahrik ediliyor. Kaynak, iki diskin farklı devirlerde çalıştırılabildiğini belirtiyor; bunun uygulama koşullarına etkisi veya teknik sınırları hakkında ayrıntı vermiyor.",
+      "why_it_matters_tr": "Disklerin ayrı hidrolik motorlarla tahrik edilmesi, serpme düzeninin bağımsız kontrolüne imkân verebilecek bir mimariye işaret ediyor. Bunun dağılım hassasiyeti veya verim üzerindeki etkisi için üretici teknik verisi ya da bağımsız test gerekir.",
+      "seo_title": "Bogballe MH45 ve MH60 hidrolik tahrikle üretimde",
+      "meta_description": "Bogballe’nin MH45 ve MH60 serpme makinelerinde her disk ayrı hidrolik motorla çalışıyor. Kaynak, modellerin üretime geçtiğini bildiriyor.",
       "hero_image": "",
-      "reviewed": false
+      "reviewed": false,
+      "key_facts": [
+        "MH45 ve MH60, Bogballe’nin ilk hidrolik tahrikli gübre serpme makinesi modelleri olarak tanıtılıyor.",
+        "Modeller konsept olarak Agritechnica 2025’te gösterilmiş.",
+        "Haber özeti modellerin üretime geçtiğini bildiriyor.",
+        "Her disk ayrı bir hidrolik motorla tahrik ediliyor ve sistem yük algılamalı olarak tanımlanıyor.",
+        "İki disk farklı devirlerde çalıştırılabiliyor."
+      ],
+      "suggested_tags": [
+        "Bogballe",
+        "MH45",
+        "MH60",
+        "gübre serpme makinesi",
+        "hidrolik tahrik"
+      ],
+      "suggested_sector": "tarim",
+      "editorial_format": "haber",
+      "suggested_technologies": [
+        "hidrolik"
+      ],
+      "source_facts_used": [
+        "Profi haber özetinde MH45 ve MH60’ın Bogballe’nin ilk hidrolik gübre serpme makineleri olarak tanımlanması",
+        "Konseptin Agritechnica 2025’te gösterilmiş olması ve modellerin üretime geçtiği bilgisi",
+        "Yük algılamalı sistemde her diskin ayrı hidrolik motorla çalışması ve farklı devirlerin mümkün olması"
+      ],
+      "uncertainty_notes": [
+        "Kaynak sayfası HTTP 403 nedeniyle alınamadı; taslak verilen kısa haber özetiyle sınırlı.",
+        "Kapasite, debi, kontrol aralığı ve farklı disk devirlerinin serpme performansına etkisi hakkında bilgi yok; önemli teknik iddialar için üretici kaynaklarıyla doğrulama gerekir."
+      ],
+      "generated_at": "2026-11-27T14:32:19.524Z",
+      "generated_by": "github-models"
     }
   },
   {
